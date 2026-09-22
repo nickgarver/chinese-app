@@ -1,0 +1,120 @@
+Lesson,Chinese,Pinyin,English
+1,开学,kāi xué,School begins
+1,回来,huí lái,Come back
+1,听,tīng,Listen
+1,说,shuō,Speak
+1,说话,shuō huà,Speak
+1,读,dú,Read
+1,读书,dú shū,Read
+1,写,xiě,Write
+1,写字,xiě zì,Write
+1,一起,yī qǐ,Together
+1,新,xīn,New
+1,游戏,yóu xì,Game
+1,了,le,Indicating completion
+2,汽车,qì chē,Car
+2,公共汽车,gōng gòng qì chē,Bus
+2,自行车,zì xíng chē,Bike
+2,开车,kāi chē,Drive
+2,骑车,qí chē,Ride a bike
+2,孩子,hái zi,Child
+2,怎么,zěn me,How
+2,送,sòng,Send
+3,火,huǒ,Fire
+3,火车,huǒ chē,Train
+3,飞,fēi,Fly
+3,飞机,fēi jī,Airplane
+3,站,zhàn,Stand
+3,火车站,huǒ chē zhàn,Train station
+3,汽车站,qì chē zhàn,Bus station
+3,远,yuǎn,Far
+3,近,jìn,Near
+3,快,kuài,Fast
+3,慢,màn,Slow
+3,比,bǐ,Than
+4,生病,shēng bìng,Be ill
+4,休息,xiū xi,Have a rest
+4,感冒,gǎn mào,Catch a cold
+4,疼,téng,Pain
+4,药,yào,Medicine
+4,医生,yī shēng,Doctor
+4,医院,yī yuàn,Hospital
+5,每天,měi tiān,Every day
+5,早上,zǎo shàng,Morning
+5,上午,shàng wǔ,Morning
+5,中午,zhōng wǔ,Noon
+5,下午,xià wǔ,Afternoon
+5,晚上,wǎn shàng,Night
+5,起床,qǐ chuáng,Get up
+5,睡觉,shuì jiào,Sleep
+5,回家,huí jiā,Go home
+5,半,bàn,Half
+5,分,fēn,Minute
+6,洗脸,xǐ liǎn,Wash my face
+6,洗澡,xǐ zǎo,Take a shower
+6,上课,shàng kè,Attend a Class
+6,下课,xià kè,After class
+6,唱歌,chàng gē,Sing
+6,跳,tiào,Jump
+6,跳舞,tiào wǔ,Dance
+6,小时,xiǎo shí,Hour
+6,分钟,fēn zhōng,Minute
+7,会,huì,Can
+7,帮助,bāng zhù,Help
+7,汉字,hàn zì,Hanzi
+7,汉语,hàn yǔ,Han Language
+7,画,huà,Draw
+7,画儿,huà er,Painting
+7,当然,dāng rán,Of course
+7,就,jiù,Just
+8,能,néng,Be able to
+8,自己,zì jǐ,Oneself
+8,菜,cài,Dish
+8,洗菜,xǐ cài,Washing vegetables
+8,茶,chá,Tea
+8,喝茶,hē chá,Drink tea
+8,忙,máng,Busy
+8,累,lèi,Tired
+8,事情,shì qíng,Matter
+8,都,dōu,All
+9,包子,bāo zi,Stuffed bun
+9,饺子,jiǎo zi,Dumpling
+9,好吃,hǎo chī,Delicious
+9,鸡蛋,jī dàn,Egg
+9,蛋糕,dàn gāo,Cake
+9,果汁,guǒ zhī,Juice
+9,这些,zhè xiē,These
+9,那些,nà xiē,Those
+9,找,zhǎo,Look for
+9,最,zuì,Most
+9,还,hái,Still
+10,欢迎,huān yíng,Welcome
+10,房间,fáng jiān,Room
+10,进来,jìn lái,Come in
+10,出去,chū qù,Go out
+10,走,zǒu,Walk
+10,饱,bǎo,Full
+10,饿,è,Hungry
+10,太,tài,Too
+10,得,de,Indicating degree
+11,天气,tiān qì,Weather
+11,太阳,tài yáng,Sun
+11,晴天,qíng tiān,Sunny
+11,阴天,yīn tiān,Cloudy
+11,下雨,xià yǔ,Raining
+11,刮风,guā fēng,Windy
+11,冷,lěng,Cold
+11,热,rè,Hot
+11,怎么样,zěn me yàng,How/What
+11,觉得,jué de,Think
+12,春天,chūn tiān,Spring
+12,秋天,qiū tiān,Fall/Autumn
+12,冬天,dōng tiān,Winter
+12,下雪,xià xuě,Snow
+12,游泳,yóu yǒng,Swim
+12,月亮,yuè liàng,Moon
+12,星星,xīng xing,Star
+12,衣服,yī fu,Clothes
+12,裙子,qún zi,Skirt
+12,穿,chuān,Wear
+12,但是,dàn shì,But

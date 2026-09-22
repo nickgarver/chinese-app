@@ -1,0 +1,269 @@
+{
+  "maxLevel": 5,
+  "wordCount": 2546,
+  "sentenceCount": 12713,
+  "levels": {
+    "1": 150,
+    "2": 147,
+    "3": 298,
+    "4": 598,
+    "5": 1300
+  },
+  "classOnlyCount": 53,
+  "categories": [
+    {
+      "key": "colors",
+      "label": "Colors",
+      "emoji": "🎨",
+      "count": 17
+    },
+    {
+      "key": "animals",
+      "label": "Animals",
+      "emoji": "🐼",
+      "count": 23
+    },
+    {
+      "key": "food",
+      "label": "Food & drink",
+      "emoji": "🍜",
+      "count": 57
+    },
+    {
+      "key": "clothing",
+      "label": "Clothing",
+      "emoji": "👕",
+      "count": 22
+    },
+    {
+      "key": "shopping",
+      "label": "Shopping & money",
+      "emoji": "🛒",
+      "count": 32
+    },
+    {
+      "key": "weather",
+      "label": "Weather & nature",
+      "emoji": "🌤️",
+      "count": 63
+    },
+    {
+      "key": "family",
+      "label": "Family & people",
+      "emoji": "👨‍👩‍👧",
+      "count": 40
+    },
+    {
+      "key": "body",
+      "label": "Body & health",
+      "emoji": "🩺",
+      "count": 50
+    },
+    {
+      "key": "time",
+      "label": "Time & dates",
+      "emoji": "🕐",
+      "count": 62
+    },
+    {
+      "key": "travel",
+      "label": "Travel & transport",
+      "emoji": "✈️",
+      "count": 56
+    },
+    {
+      "key": "home",
+      "label": "Home & furniture",
+      "emoji": "🏠",
+      "count": 45
+    },
+    {
+      "key": "work",
+      "label": "Work & business",
+      "emoji": "💼",
+      "count": 43
+    },
+    {
+      "key": "school",
+      "label": "School & study",
+      "emoji": "📚",
+      "count": 58
+    },
+    {
+      "key": "emotions",
+      "label": "Feelings",
+      "emoji": "😊",
+      "count": 50
+    },
+    {
+      "key": "communication",
+      "label": "Talking & communication",
+      "emoji": "💬",
+      "count": 46
+    },
+    {
+      "key": "leisure",
+      "label": "Sports & leisure",
+      "emoji": "⚽",
+      "count": 40
+    },
+    {
+      "key": "tech",
+      "label": "Technology",
+      "emoji": "💻",
+      "count": 20
+    },
+    {
+      "key": "numbers",
+      "label": "Numbers & amounts",
+      "emoji": "🔢",
+      "count": 49
+    },
+    {
+      "key": "places",
+      "label": "Places",
+      "emoji": "📍",
+      "count": 43
+    },
+    {
+      "key": "verbs_motion",
+      "label": "Movement",
+      "emoji": "🏃",
+      "count": 70
+    }
+  ],
+  "class": [
+    {
+      "year": 1,
+      "chapters": [
+        {
+          "ref": "1-1",
+          "chapter": 1,
+          "count": 7
+        },
+        {
+          "ref": "1-2",
+          "chapter": 2,
+          "count": 6
+        },
+        {
+          "ref": "1-3",
+          "chapter": 3,
+          "count": 4
+        },
+        {
+          "ref": "1-4",
+          "chapter": 4,
+          "count": 7
+        },
+        {
+          "ref": "1-5",
+          "chapter": 5,
+          "count": 7
+        },
+        {
+          "ref": "1-6",
+          "chapter": 6,
+          "count": 8
+        },
+        {
+          "ref": "1-7",
+          "chapter": 7,
+          "count": 10
+        },
+        {
+          "ref": "1-8",
+          "chapter": 8,
+          "count": 6
+        },
+        {
+          "ref": "1-9",
+          "chapter": 9,
+          "count": 11
+        },
+        {
+          "ref": "1-10",
+          "chapter": 10,
+          "count": 9
+        },
+        {
+          "ref": "1-11",
+          "chapter": 11,
+          "count": 8
+        },
+        {
+          "ref": "1-12",
+          "chapter": 12,
+          "count": 6
+        }
+      ],
+      "count": 89
+    },
+    {
+      "year": 2,
+      "chapters": [
+        {
+          "ref": "2-1",
+          "chapter": 1,
+          "count": 13
+        },
+        {
+          "ref": "2-2",
+          "chapter": 2,
+          "count": 8
+        },
+        {
+          "ref": "2-3",
+          "chapter": 3,
+          "count": 12
+        },
+        {
+          "ref": "2-4",
+          "chapter": 4,
+          "count": 7
+        },
+        {
+          "ref": "2-5",
+          "chapter": 5,
+          "count": 11
+        },
+        {
+          "ref": "2-6",
+          "chapter": 6,
+          "count": 9
+        },
+        {
+          "ref": "2-7",
+          "chapter": 7,
+          "count": 8
+        },
+        {
+          "ref": "2-8",
+          "chapter": 8,
+          "count": 10
+        },
+        {
+          "ref": "2-9",
+          "chapter": 9,
+          "count": 11
+        },
+        {
+          "ref": "2-10",
+          "chapter": 10,
+          "count": 9
+        },
+        {
+          "ref": "2-11",
+          "chapter": 11,
+          "count": 10
+        },
+        {
+          "ref": "2-12",
+          "chapter": 12,
+          "count": 11
+        }
+      ],
+      "count": 119
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+Lesson,Chinese,Pinyin,English
+1,认识,rèn shi,Meet/Know
+1,很,hěn,Very
+1,国,guó,Country
+1,同学,tóng xué,Classmate
+1,高兴,gāo xìng,Pleased
+1,中国,zhōng guó,China
+1,美国,měi guó,America
+
+2,点,diǎn,Point/O'clock
+2,看,kàn,Look
+2,现在,xiàn zài,Now
+2,再见,zài jiàn,Goodbye
+2,谢谢,xiè xie,Thanks
+2,不客气,bú kè qi,You are welcome
+
+3,请,qǐng,Please
+3,问,wèn,Ask
+3,对不起,duì bu qǐ,Sorry
+3,没关系,méi guān xi,No Problem
+
+4,头发,Tóufǎ,Hair
+4,口,kǒu,Mouth
+4,手,shǒu,Hand
+4,脚,jiǎo,Foot
+4,眼睛,yǎn jing,Eye
+4,耳朵,ěr duo,Ear
+4,鼻子,bí zi,Nose
+
+5,爱,ài,Love
+5,吃,chī,Eat
+5,水果,shuǐ guǒ,Fruit
+5,苹果,píng guǒ,Apple
+5,香蕉,xiāng jiāo,Banana
+5,西瓜,xī guā,Watermelon
+5,葡萄,pú táo,Grape
+
+6,多,duō,Many
+6,少,shǎo,Few
+6,颜色,yán sè,Color
+6,红色,hóng sè,Red
+6,黄色,huáng sè,Yellow
+6,蓝色,lán sè,Blue
+6,绿色,lǜ sè,Green
+6,紫色,zǐ sè,Purple
+
+7,牛,niú,Cow
+7,羊,yáng,Sheep
+7,鱼,yú,Fish
+7,鸟,niǎo,Bird
+7,动物,dòng wù,Animal
+7,动物园,dòng wù yuán,Zoo
+7,老虎,lǎo hǔ,Tiger
+7,熊猫,xióng māo,Panda
+7,看见,kàn jiàn,See
+7,没有,méi yǒu,Haven't/Didn't
+
+8,喝,hē,Drink
+8,呢,ne,Question particle
+8,面包,miàn bāo,Bread
+8,面条,miàn tiáo,Noodle
+8,米饭,mǐ fàn,Rice
+8,牛奶,niú nǎi,Milk
+
+9,书,shū,Book
+9,来,lái,Come
+9,坐,zuò,Sit
+9,上面,shàng miàn,On/Above
+9,下面,xià miàn,Under/Below
+9,左边,zuǒ biān,Left
+9,右边,yòu biān,Right
+9,桌子,zhuō zi,Table
+9,椅子,yǐ zi,Chair
+9,杯子,bēi zi,Glass
+9,书包,shū bāo,Schoolbag
+
+10,打,dǎ,Hit/Make (a call)
+10,手机,shǒujī,Cell Phone
+10,做,zuò,Do
+10,电话,diàn huà,Telephone
+10,电视,diàn shì,Television
+10,电脑,diàn nǎo,Computer
+10,学习,xué xí,Study
+10,里面,lǐ miàn,Inside
+10,外面,wài miàn,Outside
+
+11,钱,qián,Money
+11,块,kuài,Unit of money
+11,要,yào,Want
+11,真,zhēn,Really
+11,漂亮,piào liang,Beautiful
+11,铅笔,qiān bǐ,Pencil
+11,多少,duō shǎo,How Many / How Much
+11,昨天,zuó tiān,Yesterday
+
+12,说,shuō,Speak
+12,两,liǎng,Two
+12,夏天,xià tiān,Summer
+12,北京,běi jīng,Beijing
+12,时间,shí jiān,Time
+12,可以,kě yǐ,Can/Be able to
