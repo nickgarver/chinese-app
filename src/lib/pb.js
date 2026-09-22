@@ -1,9 +1,21 @@
 import PocketBase from 'pocketbase';
 import { browser } from '$app/environment';
 
-export const PB_URL = import.meta.env.VITE_PB_URL || 'http://127.0.0.1:8090';
+/**
+ * Empty means same-origin, which is what you want when Caddy proxies /api/*
+ * on the box that also serves the app. Set VITE_PB_URL only when the backend
+ * lives somewhere else.
+ */
+export const PB_URL = import.meta.env.VITE_PB_URL ?? '';
 
-export const pb = browser ? new PocketBase(PB_URL) : null;
+/**
+ * Whether a backend exists at all. On a static host with no PocketBase, the
+ * app still works fully — progress just stays in localStorage — so the sync UI
+ * hides itself rather than offering a button that cannot succeed.
+ */
+export const SYNC_ENABLED = import.meta.env.VITE_SYNC === 'on';
+
+export const pb = browser && SYNC_ENABLED ? new PocketBase(PB_URL) : null;
 
 if (pb) pb.autoCancellation(false);
 

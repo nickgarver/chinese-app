@@ -113,7 +113,7 @@
         </div>
       </div>
     </div>
-    {#if !progress.signedIn}
+    {#if progress.syncEnabled && !progress.signedIn}
       <p class="muted">Saved on this device. Create an ID on the Account tab to sync it.</p>
     {/if}
     <button class="btn primary" onclick={onexit}>Practice again</button>

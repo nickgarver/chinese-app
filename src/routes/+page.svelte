@@ -40,7 +40,7 @@
       <a class="btn" href="{base}/search">Browse all words</a>
     </div>
 
-    {#if !progress.signedIn}
+    {#if progress.syncEnabled && !progress.signedIn}
       <div class="card callout">
         <p class="note top"><strong>Practising as a guest.</strong></p>
         <p class="note top">

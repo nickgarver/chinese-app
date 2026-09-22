@@ -1,6 +1,6 @@
 <script>
   import { progress } from '$lib/progress.svelte.js';
-  import { createAccount, signIn, signOut } from '$lib/pb.js';
+  import { createAccount, signIn, signOut, SYNC_ENABLED } from '$lib/pb.js';
   import { hasVoice, voiceName, speak } from '$lib/tts.js';
   import { theme } from '$lib/theme.svelte.js';
 
@@ -86,7 +86,16 @@
     </div>
   {/if}
 
-  {#if progress.signedIn}
+  {#if !SYNC_ENABLED}
+    <div class="card callout">
+      <p class="note top"><strong>Sync isn't set up.</strong></p>
+      <p class="note top">
+        Progress is saved in this browser. It survives closing the tab, but not
+        clearing site data, and it won't follow you to another device.
+      </p>
+      <p class="note top">Use the backup buttons below to move it by hand.</p>
+    </div>
+  {:else if progress.signedIn}
     <div class="card">
       <p class="label">Signed in as</p>
       <p class="mono spaced">{progress.user?.username}</p>

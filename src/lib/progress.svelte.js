@@ -1,6 +1,6 @@
 import { browser } from '$app/environment';
 import { review as gradeCard } from './srs.js';
-import { currentUser, fetchProgress, saveProgress, resumeSession, pb } from './pb.js';
+import { currentUser, fetchProgress, saveProgress, resumeSession, pb, SYNC_ENABLED } from './pb.js';
 
 const LS_CARDS = 'hsk.cards';
 const LS_ACCOUNT = 'hsk.account';
@@ -59,6 +59,7 @@ export const progress = {
   get status() { return status; },
   get loaded() { return loaded; },
   get signedIn() { return !!user; },
+  get syncEnabled() { return SYNC_ENABLED; },
 
   /** Call once from the root layout. */
   async init() {
