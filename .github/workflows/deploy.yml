@@ -1,0 +1,57 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build
+        env:
+          # project sites live at /<repo>/; drop this if you use a custom domain
+          BASE_PATH: /${{ github.event.repository.name }}
+          # Sync is off unless both of these are set as repository variables.
+          # VITE_SYNC=on and VITE_PB_URL=https://your-backend
+          VITE_SYNC: ${{ vars.SYNC }}
+          VITE_PB_URL: ${{ vars.PB_URL }}
+        run: npm run build
+
+      - name: SPA fallback + stop Jekyll eating /_app
+        run: |
+          cp build/index.html build/404.html
+          touch build/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
