@@ -1,0 +1,1045 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Hello everyone, welcome back to my channel."
+    } ]
+  }, {
+    "tStartMs": 3366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I'm Angela."
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "How are you?"
+    } ]
+  }, {
+    "tStartMs": 6366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I'm back again!"
+    } ]
+  }, {
+    "tStartMs": 8100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "In today's video"
+    } ]
+  }, {
+    "tStartMs": 9533,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": ", I want to talk about a lighthearted topic"
+    } ]
+  }, {
+    "tStartMs": 13933,
+    "dDurationMs": 6233,
+    "segs": [ {
+      "utf8": "and introduce a really fun internet slang term: \"From Strong to La.\""
+    } ]
+  }, {
+    "tStartMs": 21566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "This term is relatively new,"
+    } ]
+  }, {
+    "tStartMs": 24266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "it seems to have only emerged last year"
+    } ]
+  }, {
+    "tStartMs": 27366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": ", but it's incredibly popular in China now"
+    } ]
+  }, {
+    "tStartMs": 31100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": ". If you frequently browse Chinese social media"
+    } ]
+  }, {
+    "tStartMs": 35133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": ", watch short videos on platforms"
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "like Xiaohongshu or Douyin,"
+    } ]
+  }, {
+    "tStartMs": 40900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "you've definitely seen this term."
+    } ]
+  }, {
+    "tStartMs": 44266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What does \"From Strong to La\" actually mean?"
+    } ]
+  }, {
+    "tStartMs": 47733,
+    "dDurationMs": 7733,
+    "segs": [ {
+      "utf8": "It's a popular way of evaluating things among young Chinese people,"
+    } ]
+  }, {
+    "tStartMs": 56433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "like rating something."
+    } ]
+  }, {
+    "tStartMs": 59266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "However, instead of using numerical ratings, it"
+    } ]
+  }, {
+    "tStartMs": 62233,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "uses several very strange and interesting words to rate things."
+    } ]
+  }, {
+    "tStartMs": 69766,
+    "dDurationMs": 9867,
+    "segs": [ {
+      "utf8": "It's a very interesting and fun way of expressing evaluation"
+    } ]
+  }, {
+    "tStartMs": 80366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "or ranking"
+    } ]
+  }, {
+    "tStartMs": 83366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "things from strong to weak, from good to bad. \"From Strong to La\""
+    } ]
+  }, {
+    "tStartMs": 86966,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "divides things into five levels from \"best\" to \"worst,\""
+    } ]
+  }, {
+    "tStartMs": 92300,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "and uses five very strange and interesting words to represent these five levels."
+    } ]
+  }, {
+    "tStartMs": 99266,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "The first level is... The first level is \"夯\" (hāng), which means the best, the most awesome, the most powerful."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "The second level is \"Top-tier,\" which means very good,"
+    } ]
+  }, {
+    "tStartMs": 109633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "slightly worse than \"夯\""
+    } ]
+  }, {
+    "tStartMs": 112100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "but still very good."
+    } ]
+  }, {
+    "tStartMs": 113933,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "The third level is \""
+    } ]
+  }, {
+    "tStartMs": 120133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Superior Person,\" which means okay, alright."
+    } ]
+  }, {
+    "tStartMs": 123533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "The fourth level is \"NPC,\" which means very ordinary."
+    } ]
+  }, {
+    "tStartMs": 126500,
+    "dDurationMs": 6433,
+    "segs": [ {
+      "utf8": "The last level is \"Pull,\" or \"Pulled to the end,\" which means the worst."
+    } ]
+  }, {
+    "tStartMs": 133566,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "The reason this evaluation method is so"
+    } ]
+  }, {
+    "tStartMs": 139266,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "popular now is because these five words are very interesting and very strange."
+    } ]
+  }, {
+    "tStartMs": 145566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "Now let's see where these five words come from and"
+    } ]
+  }, {
+    "tStartMs": 150100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "why we use these five words to represent different levels."
+    } ]
+  }, {
+    "tStartMs": 154900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Let's look at the highest level - \"夯"
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "\" (hāng). The character is"
+    } ]
+  }, {
+    "tStartMs": 159766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "\"大\" (dà) on top and \"力\" (lì) on the bottom."
+    } ]
+  }, {
+    "tStartMs": 163233,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "Its original meaning is: before building a house, first tamping the ground solid."
+    } ]
+  }, {
+    "tStartMs": 169933,
+    "dDurationMs": 7567,
+    "segs": [ {
+      "utf8": "Before building a house, first use a very heavy tool to tamp the ground solid before"
+    } ]
+  }, {
+    "tStartMs": 177733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "building the house."
+    } ]
+  }, {
+    "tStartMs": 179433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "\"夯\" (hāng) means this tool"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "has great strength, so"
+    } ]
+  }, {
+    "tStartMs": 186333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "it means great power. Great power means great strength, right?"
+    } ]
+  }, {
+    "tStartMs": 189500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Another reason"
+    } ]
+  }, {
+    "tStartMs": 191300,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "is that in Taiwanese dialects, \""
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": "夯\" (hāng) means... The word \"夯\" (hāng) means very popular or well-received."
+    } ]
+  }, {
+    "tStartMs": 202233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Therefore, in this evaluation system, \""
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "夯\" signifies the best, the most outstanding, the most impressive, or the most powerful."
+    } ]
+  }, {
+    "tStartMs": 211633,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Young people in China especially love using \"夯\""
+    } ]
+  }, {
+    "tStartMs": 216566,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "to describe something as top-notch, fantastic"
+    } ]
+  }, {
+    "tStartMs": 220200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": ", or to praise something as incredibly impressive or powerful."
+    } ]
+  }, {
+    "tStartMs": 224700,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "For example: \"这个奶茶店的奶茶太夯了\""
+    } ]
+  }, {
+    "tStartMs": 228966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "means the milk tea at this milk tea shop is so delicious"
+    } ]
+  }, {
+    "tStartMs": 232700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "and the"
+    } ]
+  }, {
+    "tStartMs": 233566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "best it's ever had."
+    } ]
+  }, {
+    "tStartMs": 235333,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "Or, \"这个电影我看三次"
+    } ]
+  }, {
+    "tStartMs": 239133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这演员的演员作用太夯了\""
+    } ]
+  }, {
+    "tStartMs": 241933,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "means the actor's performance was amazing and incredible. \""
+    } ]
+  }, {
+    "tStartMs": 245966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "哎哟你的中文只是太夯了\" means your Chinese is so good"
+    } ]
+  }, {
+    "tStartMs": 248533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I'll give you a \"夯\" (a"
+    } ]
+  }, {
+    "tStartMs": 251466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "high rating)."
+    } ]
+  }, {
+    "tStartMs": 253666,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "These are some of the more common uses of \"夯"
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "\": \"太夯了\" ( too popular"
+    } ]
+  }, {
+    "tStartMs": 262233,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "), \"夯爆了\" (so popular!), \"给一个夯\" (give you a \"夯\") – these are all common expressions for \"夯\". \""
+    } ]
+  }, {
+    "tStartMs": 266500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "夯\" can describe all sorts of things,"
+    } ]
+  }, {
+    "tStartMs": 269700,
+    "dDurationMs": 10066,
+    "segs": [ {
+      "utf8": "such as food, restaurants, clothes, movies, music, games, etc."
+    } ]
+  }, {
+    "tStartMs": 279866,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "If you think something is the best,"
+    } ]
+  }, {
+    "tStartMs": 282133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "you can use \"夯\" to describe it"
+    } ]
+  }, {
+    "tStartMs": 285266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": ". Let's look at the second level - Top"
+    } ]
+  }, {
+    "tStartMs": 289100,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": ". What does \"Top\" mean in Chinese?"
+    } ]
+  }, {
+    "tStartMs": 292700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "\"Top\" means the"
+    } ]
+  }, {
+    "tStartMs": 296066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "top of one's head, the highest point."
+    } ]
+  }, {
+    "tStartMs": 298633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "So, Top means the highest level ."
+    } ]
+  }, {
+    "tStartMs": 302500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 304066,
+    "dDurationMs": 5834,
+    "segs": [ {
+      "utf8": "athletes participating in the Olympics are all Top athletes."
+    } ]
+  }, {
+    "tStartMs": 310100,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "In our evaluation system, Top"
+    } ]
+  }, {
+    "tStartMs": 313866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "means very good, very impressive,"
+    } ]
+  }, {
+    "tStartMs": 318333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "but slightly worse than \"Heng\"."
+    } ]
+  }, {
+    "tStartMs": 321233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "If \"Heng\" is 100 points,"
+    } ]
+  }, {
+    "tStartMs": 323233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Top represents 90 points."
+    } ]
+  }, {
+    "tStartMs": 326433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "The third level is \"Ren Shang"
+    } ]
+  }, {
+    "tStartMs": 328766,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Ren\" (人上人). \" Ren Shang Ren\" means someone above ordinary people"
+    } ]
+  }, {
+    "tStartMs": 332833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": ", slightly better than ordinary people,"
+    } ]
+  }, {
+    "tStartMs": 336533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "exceeding the average level"
+    } ]
+  }, {
+    "tStartMs": 339033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": ". The term \""
+    } ]
+  }, {
+    "tStartMs": 344100,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "Ren Shang Ren\" comes from a Chinese proverb: \"Only by enduring hardship can one become a Ren Shang Ren.\" It means that"
+    } ]
+  }, {
+    "tStartMs": 351833,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "you can only become better than others"
+    } ]
+  }, {
+    "tStartMs": 356466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "if you endure more hardship"
+    } ]
+  }, {
+    "tStartMs": 359333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "and make more efforts than others."
+    } ]
+  }, {
+    "tStartMs": 363633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "In this evaluation system, \""
+    } ]
+  }, {
+    "tStartMs": 366066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 368166,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "Ren Shang Ren\" means slightly better than ordinary, okay, or pretty good."
+    } ]
+  }, {
+    "tStartMs": 374700,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "The fourth level is NPC,"
+    } ]
+  }, {
+    "tStartMs": 378333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "which is an abbreviation for"
+    } ]
+  }, {
+    "tStartMs": 381766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "non- player character in a game."
+    } ]
+  }, {
+    "tStartMs": 384900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "\"Character\""
+    } ]
+  }, {
+    "tStartMs": 387366,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "refers to the background characters in a game;"
+    } ]
+  }, {
+    "tStartMs": 392233,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "nobody pays attention to them"
+    } ]
+  }, {
+    "tStartMs": 395133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "or interacts with them."
+    } ]
+  }, {
+    "tStartMs": 398300,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "Therefore, an NPC represents a very ordinary person, someone nobody notices."
+    } ]
+  }, {
+    "tStartMs": 404433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "In this rating system,"
+    } ]
+  }, {
+    "tStartMs": 406933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "it represents \"ordinary"
+    } ]
+  }, {
+    "tStartMs": 409333,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": ",\" and the last, worst level is \"completely terrible.\""
+    } ]
+  }, {
+    "tStartMs": 417466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "The word \""
+    } ]
+  }, {
+    "tStartMs": 419066,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "terrible \" comes from a dialect"
+    } ]
+  }, {
+    "tStartMs": 424300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "in Northeast China"
+    } ]
+  }, {
+    "tStartMs": 426500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "called \"lakua,\""
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "meaning extremely bad or awful."
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "For example, \"This person is too terrible \""
+    } ]
+  }, {
+    "tStartMs": 436233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "means this person is very bad"
+    } ]
+  }, {
+    "tStartMs": 438266,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": ", perhaps incompetent or of poor character—"
+    } ]
+  }, {
+    "tStartMs": 441700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "in short, not good"
+    } ]
+  }, {
+    "tStartMs": 443766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": ". Another example is"
+    } ]
+  }, {
+    "tStartMs": 445266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "\"This matter you handled was too terrible, \""
+    } ]
+  }, {
+    "tStartMs": 448033,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "meaning your handling of this matter was... If something wasn't done well or wasn't completed well"
+    } ]
+  }, {
+    "tStartMs": 452866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": ", then in this evaluation system,"
+    } ]
+  }, {
+    "tStartMs": 456166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "\"la\" is used to indicate something very bad."
+    } ]
+  }, {
+    "tStartMs": 459333,
+    "dDurationMs": 7933,
+    "segs": [ {
+      "utf8": "\"La wan le\" means it couldn't be worse, the worst, the absolute worst, and couldn't be any worse."
+    } ]
+  }, {
+    "tStartMs": 467333,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "Young people today especially love using \"la\" to describe"
+    } ]
+  }, {
+    "tStartMs": 473133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "or evaluate things."
+    } ]
+  }, {
+    "tStartMs": 475766,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "For example: \"The movie I watched today was so la"
+    } ]
+  }, {
+    "tStartMs": 479700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": ", I left halfway through,\" or \"It was so boring,\""
+    } ]
+  }, {
+    "tStartMs": 483066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "or \"Oh, this restaurant is so la, expensive and terrible. \" \""
+    } ]
+  }, {
+    "tStartMs": 488033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "La\" can be used alone"
+    } ]
+  }, {
+    "tStartMs": 489866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": ", or you can say \"La wan le.\" \"La wan le"
+    } ]
+  }, {
+    "tStartMs": 491866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "\" means very bad,"
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "even worse than \"la,\""
+    } ]
+  }, {
+    "tStartMs": 495333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "and can't be any worse."
+    } ]
+  }, {
+    "tStartMs": 497066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "For example, \"Oh, my exam was 'la wan le,' I'm definitely going to fail"
+    } ]
+  }, {
+    "tStartMs": 501166,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": ",\" meaning I did terribly on the exam, and couldn't be any worse."
+    } ]
+  }, {
+    "tStartMs": 505500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "That's the usage of \"la\" and \"la wan le."
+    } ]
+  }, {
+    "tStartMs": 508966,
+    "dDurationMs": 7334,
+    "segs": [ {
+      "utf8": "\" This evaluation method, from \"han\" to \"la,\" isn't actually a single... A very serious evaluation method"
+    } ]
+  }, {
+    "tStartMs": 516533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "is used online; anyone can"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "evaluate anything."
+    } ]
+  }, {
+    "tStartMs": 522033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Therefore, we"
+    } ]
+  }, {
+    "tStartMs": 524133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "often see bloggers"
+    } ]
+  }, {
+    "tStartMs": 526900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "on the internet"
+    } ]
+  }, {
+    "tStartMs": 529466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "using a \"from hot to low\" ranking to evaluate or rank"
+    } ]
+  }, {
+    "tStartMs": 532500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "things they are familiar with or have experienced"
+    } ]
+  }, {
+    "tStartMs": 537433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": ", expressing their feelings"
+    } ]
+  }, {
+    "tStartMs": 539766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or providing a reference for others."
+    } ]
+  }, {
+    "tStartMs": 543133,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "For example, some travel bloggers, after visiting a place,"
+    } ]
+  }, {
+    "tStartMs": 547833,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "will rate and rank the city's attractions \"from hot to low\" and"
+    } ]
+  }, {
+    "tStartMs": 553900,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "share their feelings and thoughts,"
+    } ]
+  }, {
+    "tStartMs": 557333,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "which can serve as a reference for others."
+    } ]
+  }, {
+    "tStartMs": 560133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "If others travel to that city,"
+    } ]
+  }, {
+    "tStartMs": 562700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "they can refer to their evaluations and rankings."
+    } ]
+  }, {
+    "tStartMs": 566700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Similarly, tech bloggers"
+    } ]
+  }, {
+    "tStartMs": 569833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "often review technological products,"
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "such as smartphones... After reviewing"
+    } ]
+  }, {
+    "tStartMs": 576933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "products like phones, cameras, and computers,"
+    } ]
+  }, {
+    "tStartMs": 578466,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "they often rank similar products \"from most popular to least popular\""
+    } ]
+  }, {
+    "tStartMs": 583033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "for others to reference."
+    } ]
+  }, {
+    "tStartMs": 585066,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "There are many interesting \"from most popular to least popular\" reviews and rankings online"
+    } ]
+  }, {
+    "tStartMs": 591366,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": ", many simply for laughs."
+    } ]
+  }, {
+    "tStartMs": 596833,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "One particularly interesting \"from most popular to least popular\" review and ranking I recently saw"
+    } ]
+  }, {
+    "tStartMs": 602966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "ranked the World Cup stars"
+    } ]
+  }, {
+    "tStartMs": 606966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "based on their looks,"
+    } ]
+  }, {
+    "tStartMs": 611700,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "from most popular to least popular. It was"
+    } ]
+  }, {
+    "tStartMs": 615266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "very funny"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "! Okay, that's all for today's video."
+    } ]
+  }, {
+    "tStartMs": 620166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Did you all learn how to use"
+    } ]
+  }, {
+    "tStartMs": 621666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "\" from most popular to least"
+    } ]
+  }, {
+    "tStartMs": 623433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "popular \"?"
+    } ]
+  }, {
+    "tStartMs": 625266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "I hope today's video"
+    } ]
+  }, {
+    "tStartMs": 626900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "is helpful for your Chinese learning."
+    } ]
+  }, {
+    "tStartMs": 629433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "If you're interested in my videos,"
+    } ]
+  }, {
+    "tStartMs": 632033,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "please subscribe to my channel!"
+    } ]
+  }, {
+    "tStartMs": 634566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Thank you,"
+    } ]
+  }, {
+    "tStartMs": 635666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "see you next time, bye!"
+    } ]
+  } ]
+}

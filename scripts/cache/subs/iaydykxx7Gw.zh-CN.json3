@@ -1,0 +1,481 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "你好"
+    } ]
+  }, {
+    "tStartMs": 3333,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "这是"
+    } ]
+  }, {
+    "tStartMs": 6166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "家"
+    } ]
+  }, {
+    "tStartMs": 7733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这是家"
+    } ]
+  }, {
+    "tStartMs": 11566,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "我在家"
+    } ]
+  }, {
+    "tStartMs": 15733,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "我在家"
+    } ]
+  }, {
+    "tStartMs": 20933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这是公司"
+    } ]
+  }, {
+    "tStartMs": 24566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "公司"
+    } ]
+  }, {
+    "tStartMs": 26566,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "这是公司"
+    } ]
+  }, {
+    "tStartMs": 30166,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我不在公司"
+    } ]
+  }, {
+    "tStartMs": 35166,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我在家"
+    } ]
+  }, {
+    "tStartMs": 37500,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "我不在公司"
+    } ]
+  }, {
+    "tStartMs": 44100,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "这是学校"
+    } ]
+  }, {
+    "tStartMs": 47900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "学校"
+    } ]
+  }, {
+    "tStartMs": 50400,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "这是学校"
+    } ]
+  }, {
+    "tStartMs": 53500,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "我不在学校"
+    } ]
+  }, {
+    "tStartMs": 58533,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "我不在学校"
+    } ]
+  }, {
+    "tStartMs": 62200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我在家"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "现在我在家"
+    } ]
+  }, {
+    "tStartMs": 70333,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "现在我在家"
+    } ]
+  }, {
+    "tStartMs": 75800,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "这是饭店"
+    } ]
+  }, {
+    "tStartMs": 79500,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这是饭店"
+    } ]
+  }, {
+    "tStartMs": 84066,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "昨天我去了饭店"
+    } ]
+  }, {
+    "tStartMs": 93466,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "昨天我去了饭店"
+    } ]
+  }, {
+    "tStartMs": 100133,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "这是咖啡店"
+    } ]
+  }, {
+    "tStartMs": 104100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "咖啡店"
+    } ]
+  }, {
+    "tStartMs": 107166,
+    "dDurationMs": 8133,
+    "segs": [ {
+      "utf8": "昨天我没有去咖啡店"
+    } ]
+  }, {
+    "tStartMs": 115966,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "昨天我没有去咖啡店"
+    } ]
+  }, {
+    "tStartMs": 124500,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "这是公园"
+    } ]
+  }, {
+    "tStartMs": 128366,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "公园"
+    } ]
+  }, {
+    "tStartMs": 131266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "明天"
+    } ]
+  }, {
+    "tStartMs": 133800,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "明天我要去公园"
+    } ]
+  }, {
+    "tStartMs": 141066,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "明天我要去公园"
+    } ]
+  }, {
+    "tStartMs": 149500,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "这是商场"
+    } ]
+  }, {
+    "tStartMs": 153766,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "商场"
+    } ]
+  }, {
+    "tStartMs": 156933,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "明天我不去商场"
+    } ]
+  }, {
+    "tStartMs": 164133,
+    "dDurationMs": 5266,
+    "segs": [ {
+      "utf8": "明天我不去商场"
+    } ]
+  }, {
+    "tStartMs": 170100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "现在"
+    } ]
+  }, {
+    "tStartMs": 171133,
+    "dDurationMs": 8633,
+    "segs": [ {
+      "utf8": "现在我在家"
+    } ]
+  }, {
+    "tStartMs": 180700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "昨天"
+    } ]
+  }, {
+    "tStartMs": 184900,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": "昨天我去了饭店"
+    } ]
+  }, {
+    "tStartMs": 191900,
+    "dDurationMs": 5266,
+    "segs": [ {
+      "utf8": "昨天我去了饭店"
+    } ]
+  }, {
+    "tStartMs": 199333,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "明天"
+    } ]
+  }, {
+    "tStartMs": 203833,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "明天我要去公园"
+    } ]
+  }, {
+    "tStartMs": 209300,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "明天我要去公园"
+    } ]
+  }, {
+    "tStartMs": 217133,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "现在我不在公司"
+    } ]
+  }, {
+    "tStartMs": 224900,
+    "dDurationMs": 6566,
+    "segs": [ {
+      "utf8": "现在我不在公司"
+    } ]
+  }, {
+    "tStartMs": 231900,
+    "dDurationMs": 7766,
+    "segs": [ {
+      "utf8": "昨天我没有去咖啡店"
+    } ]
+  }, {
+    "tStartMs": 242666,
+    "dDurationMs": 7933,
+    "segs": [ {
+      "utf8": "昨天我没有去咖啡店"
+    } ]
+  }, {
+    "tStartMs": 252800,
+    "dDurationMs": 7966,
+    "segs": [ {
+      "utf8": "明天我不去商场"
+    } ]
+  }, {
+    "tStartMs": 261933,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "明天我不去商场"
+    } ]
+  }, {
+    "tStartMs": 269266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "你呢"
+    } ]
+  }, {
+    "tStartMs": 270800,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "现在你在哪里"
+    } ]
+  }, {
+    "tStartMs": 275600,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "现在你在家吗"
+    } ]
+  }, {
+    "tStartMs": 281466,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "现在你在家吗"
+    } ]
+  }, {
+    "tStartMs": 285733,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "现在你在公司吗"
+    } ]
+  }, {
+    "tStartMs": 291666,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "现在你在学校吗"
+    } ]
+  }, {
+    "tStartMs": 297200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "现在你在哪里"
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "现在我在家"
+    } ]
+  }, {
+    "tStartMs": 304633,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "你呢"
+    } ]
+  }, {
+    "tStartMs": 308466,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "昨天"
+    } ]
+  }, {
+    "tStartMs": 312166,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "昨天你去了哪里"
+    } ]
+  }, {
+    "tStartMs": 317866,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "昨天你去了饭店吗"
+    } ]
+  }, {
+    "tStartMs": 323700,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "昨天你去了饭店吗"
+    } ]
+  }, {
+    "tStartMs": 328800,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "昨天你去了咖啡店吗"
+    } ]
+  }, {
+    "tStartMs": 335466,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "昨天你去了哪里"
+    } ]
+  }, {
+    "tStartMs": 340333,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "昨天我去了饭店"
+    } ]
+  }, {
+    "tStartMs": 346866,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "昨天我没有去咖啡店"
+    } ]
+  }, {
+    "tStartMs": 352933,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "你呢"
+    } ]
+  }, {
+    "tStartMs": 355000,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "昨天你去了哪里"
+    } ]
+  }, {
+    "tStartMs": 360800,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "明天"
+    } ]
+  }, {
+    "tStartMs": 362800,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "明天你要去哪里"
+    } ]
+  }, {
+    "tStartMs": 367700,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "明天你要去公园吗"
+    } ]
+  }, {
+    "tStartMs": 373100,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "明天你要去商场吗"
+    } ]
+  }, {
+    "tStartMs": 378666,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "明天我要去公园"
+    } ]
+  }, {
+    "tStartMs": 385100,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "明天我不去商场"
+    } ]
+  }, {
+    "tStartMs": 391200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "你呢"
+    } ]
+  }, {
+    "tStartMs": 394066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "谢谢 再见"
+    } ]
+  } ]
+}

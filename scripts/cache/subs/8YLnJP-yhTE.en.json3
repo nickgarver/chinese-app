@@ -1,0 +1,2323 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 632900,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "你认真的吗（我刚要拍鸭子的时候它就走了）"
+    } ]
+  }, {
+    "tStartMs": 352700,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Nope."
+    } ]
+  }, {
+    "tStartMs": 26600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Test it."
+    } ]
+  }, {
+    "tStartMs": 29066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Test, one, two, test, test, audio."
+    } ]
+  }, {
+    "tStartMs": 34233,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "one two three"
+    } ]
+  }, {
+    "tStartMs": 35466,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Hahaha perfect"
+    } ]
+  }, {
+    "tStartMs": 37966,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Breathe."
+    } ]
+  }, {
+    "tStartMs": 38666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Okay, okay, okay."
+    } ]
+  }, {
+    "tStartMs": 40300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Hello everyone."
+    } ]
+  }, {
+    "tStartMs": 41233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Welcome back to a new video."
+    } ]
+  }, {
+    "tStartMs": 44300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Now I'm in Changsha, Hunan."
+    } ]
+  }, {
+    "tStartMs": 47033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "with my friend Mathieu"
+    } ]
+  }, {
+    "tStartMs": 51366,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Hello."
+    } ]
+  }, {
+    "tStartMs": 51966,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "I'm Mathieu"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I'm French."
+    } ]
+  }, {
+    "tStartMs": 55000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "I'm twenty-nine years old now."
+    } ]
+  }, {
+    "tStartMs": 57266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": " I came to Changsha to visit my friends"
+    } ]
+  }, {
+    "tStartMs": 60533,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "We’re sitting in Martyrs’ Park in Changsha right now."
+    } ]
+  }, {
+    "tStartMs": 65066,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Because the weather in Changsha is very hot,"
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "we found a shady spot under the trees to sit down."
+    } ]
+  }, {
+    "tStartMs": 71433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Let me show you the scenery in front of us."
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "There is a lake in front of us."
+    } ]
+  }, {
+    "tStartMs": 75833,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "And what's over there?"
+    } ]
+  }, {
+    "tStartMs": 78800,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "There should be a forest over there."
+    } ]
+  }, {
+    "tStartMs": 81333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "A forest?"
+    } ]
+  }, {
+    "tStartMs": 82600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "A small forest."
+    } ]
+  }, {
+    "tStartMs": 84466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "A small forest."
+    } ]
+  }, {
+    "tStartMs": 86033,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "A forest."
+    } ]
+  }, {
+    "tStartMs": 86700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Well, there are many lotus flowers in the distance."
+    } ]
+  }, {
+    "tStartMs": 90600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "This road is particularly beautiful."
+    } ]
+  }, {
+    "tStartMs": 94800,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "About ten years."
+    } ]
+  }, {
+    "tStartMs": 97200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "More than ten years, almost 11 years"
+    } ]
+  }, {
+    "tStartMs": 99366,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Yes, in 2015"
+    } ]
+  }, {
+    "tStartMs": 101900,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Two thousand and fifteen."
+    } ]
+  }, {
+    "tStartMs": 103466,
+    "dDurationMs": 67,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 103533,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Eleven years."
+    } ]
+  }, {
+    "tStartMs": 104533,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 105100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Um, um, um."
+    } ]
+  }, {
+    "tStartMs": 108566,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "We met on a language learning platform."
+    } ]
+  }, {
+    "tStartMs": 113033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 114200,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "I started learning Chinese at that time"
+    } ]
+  }, {
+    "tStartMs": 118366,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "I'm looking for a local who can chat with me"
+    } ]
+  }, {
+    "tStartMs": 123733,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 125866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Finally,"
+    } ]
+  }, {
+    "tStartMs": 127366,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "I found you"
+    } ]
+  }, {
+    "tStartMs": 128933,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ha ha ha."
+    } ]
+  }, {
+    "tStartMs": 130166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Yes, and then I was also learning French at that time"
+    } ]
+  }, {
+    "tStartMs": 133500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "And I studied for a year and a half."
+    } ]
+  }, {
+    "tStartMs": 135400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "And then ten years passed."
+    } ]
+  }, {
+    "tStartMs": 137766,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "your Chinese is so good."
+    } ]
+  }, {
+    "tStartMs": 140733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And I forgot my French."
+    } ]
+  }, {
+    "tStartMs": 143600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Your French is quite good."
+    } ]
+  }, {
+    "tStartMs": 145400,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "quiet good."
+    } ]
+  }, {
+    "tStartMs": 146066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "It's good."
+    } ]
+  }, {
+    "tStartMs": 147200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Today, we were in a taxi."
+    } ]
+  }, {
+    "tStartMs": 150333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "and he taught me some French."
+    } ]
+  }, {
+    "tStartMs": 162033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Well..."
+    } ]
+  }, {
+    "tStartMs": 164300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "First of all,"
+    } ]
+  }, {
+    "tStartMs": 165966,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "I don't think my Chinese is that good."
+    } ]
+  }, {
+    "tStartMs": 169300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "because when I started learning Chinese,"
+    } ]
+  }, {
+    "tStartMs": 171866,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "I learned how to write Chinese characters."
+    } ]
+  }, {
+    "tStartMs": 175833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "And vocabulary and things like that."
+    } ]
+  }, {
+    "tStartMs": 177466,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "I didn't have such a good teacher"
+    } ]
+  }, {
+    "tStartMs": 180966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Teach me Chinese"
+    } ]
+  }, {
+    "tStartMs": 182366,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 182666,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "So back then, how do you say...My writing ability..."
+    } ]
+  }, {
+    "tStartMs": 189333,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 189733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "was actually better than my speaking."
+    } ]
+  }, {
+    "tStartMs": 191700,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 192100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 193100,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "Then I have more opportunities to travel to China"
+    } ]
+  }, {
+    "tStartMs": 197533,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Talk to Chinese people or something"
+    } ]
+  }, {
+    "tStartMs": 201833,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "This will improve your communication skills"
+    } ]
+  }, {
+    "tStartMs": 205500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 206466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 207733,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "Then I passed the HSK level 6."
+    } ]
+  }, {
+    "tStartMs": 213233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "Wow, that's impressive."
+    } ]
+  }, {
+    "tStartMs": 216300,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "It's nothing."
+    } ]
+  }, {
+    "tStartMs": 217833,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "I think you take this Chinese proficiency test"
+    } ]
+  }, {
+    "tStartMs": 223333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "It has nothing to do with your oral level."
+    } ]
+  }, {
+    "tStartMs": 226700,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 227266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You must know a lot of vocabulary."
+    } ]
+  }, {
+    "tStartMs": 230533,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And you can also read articles and books"
+    } ]
+  }, {
+    "tStartMs": 234766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "novels,"
+    } ]
+  }, {
+    "tStartMs": 236066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "News or something"
+    } ]
+  }, {
+    "tStartMs": 239100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Your listening skills are also very good."
+    } ]
+  }, {
+    "tStartMs": 241133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But when it comes to speaking,"
+    } ]
+  }, {
+    "tStartMs": 244133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Still fragile"
+    } ]
+  }, {
+    "tStartMs": 246133,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 246900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 248366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Usually I would say"
+    } ]
+  }, {
+    "tStartMs": 250333,
+    "dDurationMs": 6233,
+    "segs": [ {
+      "utf8": "the most important stage of my Chinese-learning journey"
+    } ]
+  }, {
+    "tStartMs": 256566,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "was after I passed HSK Level 6."
+    } ]
+  }, {
+    "tStartMs": 260433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 262166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I remember you told me before"
+    } ]
+  }, {
+    "tStartMs": 266033,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Learning Chinese is like learning a musical instrument"
+    } ]
+  }, {
+    "tStartMs": 270800,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "start with do re mi fa so la xi"
+    } ]
+  }, {
+    "tStartMs": 273700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and then gradually you can play a little bit."
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and then gradually you can play a song."
+    } ]
+  }, {
+    "tStartMs": 279833,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Learning Chinese also starts with pinyin."
+    } ]
+  }, {
+    "tStartMs": 281966,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "then you can say a sentence."
+    } ]
+  }, {
+    "tStartMs": 283833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "and then gradually you can speak"
+    } ]
+  }, {
+    "tStartMs": 286033,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "longer sentences or paragraphs."
+    } ]
+  }, {
+    "tStartMs": 291000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Oh, it's true."
+    } ]
+  }, {
+    "tStartMs": 292233,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Yes, you told me"
+    } ]
+  }, {
+    "tStartMs": 293733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Ah, I can't remember"
+    } ]
+  }, {
+    "tStartMs": 295800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Yes, I remember, I remember you telling me"
+    } ]
+  }, {
+    "tStartMs": 297833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 299100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "How long do you think you study every day?"
+    } ]
+  }, {
+    "tStartMs": 303500,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "or a week?"
+    } ]
+  }, {
+    "tStartMs": 308133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "A week."
+    } ]
+  }, {
+    "tStartMs": 309766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "It depends."
+    } ]
+  }, {
+    "tStartMs": 310933,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 311600,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "If I were in France"
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 5767,
+    "segs": [ {
+      "utf8": "I will definitely study for about an hour or so"
+    } ]
+  }, {
+    "tStartMs": 321400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Over an hour a day"
+    } ]
+  }, {
+    "tStartMs": 323300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Over an hour a day"
+    } ]
+  }, {
+    "tStartMs": 325100,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "for over an hour."
+    } ]
+  }, {
+    "tStartMs": 326400,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "When I'm free."
+    } ]
+  }, {
+    "tStartMs": 327733,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 328100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "I'm a little busy at work right now, so"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "I don't have so many opportunities to learn Chinese."
+    } ]
+  }, {
+    "tStartMs": 335400,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 335966,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "But before"
+    } ]
+  }, {
+    "tStartMs": 339733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "More than an hour a day"
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "That's quite a long time."
+    } ]
+  }, {
+    "tStartMs": 343166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "It's okay."
+    } ]
+  }, {
+    "tStartMs": 344900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "If I could study French for over an hour a day,"
+    } ]
+  }, {
+    "tStartMs": 347700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "my French should be very good."
+    } ]
+  }, {
+    "tStartMs": 350366,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Haha, even better than my Chinese."
+    } ]
+  }, {
+    "tStartMs": 355033,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 355700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I just, I feel like I forgot a lot"
+    } ]
+  }, {
+    "tStartMs": 357700,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "But if I study it again, I think"
+    } ]
+  }, {
+    "tStartMs": 361966,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I think I could probably pick it up a little faster."
+    } ]
+  }, {
+    "tStartMs": 365200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Yeah, I think your listening is really good too."
+    } ]
+  }, {
+    "tStartMs": 368766,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 369100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I can say some..."
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "You know, the French sentence"
+    } ]
+  }, {
+    "tStartMs": 374433,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 375166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "You can, you can understand"
+    } ]
+  }, {
+    "tStartMs": 376833,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Most of them can be understood."
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 378500,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Simple words"
+    } ]
+  }, {
+    "tStartMs": 379333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Basic words I can, yes yes yes"
+    } ]
+  }, {
+    "tStartMs": 388166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "um"
+    } ]
+  }, {
+    "tStartMs": 389566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 391300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 392600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "My first question is"
+    } ]
+  }, {
+    "tStartMs": 395066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "As a Chinese teacher"
+    } ]
+  }, {
+    "tStartMs": 398366,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "what do you like most about your job?"
+    } ]
+  }, {
+    "tStartMs": 402566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 404366,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Let me think."
+    } ]
+  }, {
+    "tStartMs": 405933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "I think every time I teach,"
+    } ]
+  }, {
+    "tStartMs": 409300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "chatting with students from different countries."
+    } ]
+  }, {
+    "tStartMs": 412533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "and listen to them share some"
+    } ]
+  }, {
+    "tStartMs": 415066,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and their experiences."
+    } ]
+  }, {
+    "tStartMs": 417166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I find it very interesting."
+    } ]
+  }, {
+    "tStartMs": 419500,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "And they also have different occupations."
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Sometimes they talk about their jobs."
+    } ]
+  }, {
+    "tStartMs": 429066,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "I get to learn about all kinds of different fields."
+    } ]
+  }, {
+    "tStartMs": 433866,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 434333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 435133,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I think it's really interesting"
+    } ]
+  }, {
+    "tStartMs": 436366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "to have these conversations with them."
+    } ]
+  }, {
+    "tStartMs": 438733,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "to chat with them like this."
+    } ]
+  }, {
+    "tStartMs": 441466,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Although"
+    } ]
+  }, {
+    "tStartMs": 443666,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Maybe some students' Chinese level"
+    } ]
+  }, {
+    "tStartMs": 446166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "haven't reached the stage of chatting."
+    } ]
+  }, {
+    "tStartMs": 448800,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 449100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "They start learning from the basics."
+    } ]
+  }, {
+    "tStartMs": 451300,
+    "dDurationMs": 233,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 451533,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "But slowly,"
+    } ]
+  }, {
+    "tStartMs": 453300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I can feel their obvious progress."
+    } ]
+  }, {
+    "tStartMs": 456400,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "And that's when I feel really happy."
+    } ]
+  }, {
+    "tStartMs": 458466,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "For example, some students started learning with me\nfrom pinyin,"
+    } ]
+  }, {
+    "tStartMs": 462066,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "And now you can chat with me very happily."
+    } ]
+  }, {
+    "tStartMs": 466200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I find that really rewarding."
+    } ]
+  }, {
+    "tStartMs": 469166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Sense of achievement, yes"
+    } ]
+  }, {
+    "tStartMs": 470266,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 470700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 471566,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 471766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "You also get to experience different cultures this way."
+    } ]
+  }, {
+    "tStartMs": 474166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 475133,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Ah, the next question is"
+    } ]
+  }, {
+    "tStartMs": 479166,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Are you planning to travel to Europe?"
+    } ]
+  }, {
+    "tStartMs": 481866,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 483066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "I really want to go."
+    } ]
+  }, {
+    "tStartMs": 484800,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 485166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 487133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Next year, if there's a chance,"
+    } ]
+  }, {
+    "tStartMs": 489500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I would like to visit France and Portugal."
+    } ]
+  }, {
+    "tStartMs": 492833,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Portugal"
+    } ]
+  }, {
+    "tStartMs": 493500,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I heard that Portugal is also a nice country."
+    } ]
+  }, {
+    "tStartMs": 496333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Yes, and the scenery is beautiful."
+    } ]
+  }, {
+    "tStartMs": 498200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "Compared to those countries in northern Europe,"
+    } ]
+  }, {
+    "tStartMs": 502266,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "I think Portugal may not be that expensive."
+    } ]
+  }, {
+    "tStartMs": 506233,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Definitely. The Nordic countries are expensive."
+    } ]
+  }, {
+    "tStartMs": 508300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 508900,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "It's expensive in the Nordic countries."
+    } ]
+  }, {
+    "tStartMs": 509866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I want to spend some time living abroad, rather than just traveling around."
+    } ]
+  }, {
+    "tStartMs": 511166,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "You know, staying in one place\nfor a relatively long time."
+    } ]
+  }, {
+    "tStartMs": 515933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 516800,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 517500,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Well."
+    } ]
+  }, {
+    "tStartMs": 517800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes, because I have a computer, I can work."
+    } ]
+  }, {
+    "tStartMs": 520200,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "And I can work while traveling."
+    } ]
+  }, {
+    "tStartMs": 525700,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 526733,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 527266,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 528100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "One last question."
+    } ]
+  }, {
+    "tStartMs": 531166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "It's a simple question."
+    } ]
+  }, {
+    "tStartMs": 532500,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "what is your favorite place in China?"
+    } ]
+  }, {
+    "tStartMs": 537700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "I think it's Yunnan."
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "Yes, I lived in Yunnan for a month before."
+    } ]
+  }, {
+    "tStartMs": 544166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "The air is very cold."
+    } ]
+  }, {
+    "tStartMs": 546666,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "And the sunshine is very comfortable."
+    } ]
+  }, {
+    "tStartMs": 549400,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 549766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "And at night,"
+    } ]
+  }, {
+    "tStartMs": 552500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "it's a little cold."
+    } ]
+  }, {
+    "tStartMs": 553900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "so you don't need to turn on the air conditioner."
+    } ]
+  }, {
+    "tStartMs": 556066,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "just a thin blanket is enough."
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 559466,
+    "dDurationMs": 4734,
+    "segs": [ {
+      "utf8": "And the people there seem to"
+    } ]
+  }, {
+    "tStartMs": 564200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "have a slower pace of life."
+    } ]
+  }, {
+    "tStartMs": 566300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And the scenery is beautiful."
+    } ]
+  }, {
+    "tStartMs": 570966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "No matter what season it is"
+    } ]
+  }, {
+    "tStartMs": 573033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I heard that the weather here is very comfortable."
+    } ]
+  }, {
+    "tStartMs": 575600,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "Yes, especially in Kunming."
+    } ]
+  }, {
+    "tStartMs": 578033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Kunming is called the \"Spring City.\""
+    } ]
+  }, {
+    "tStartMs": 579500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It's only spring."
+    } ]
+  }, {
+    "tStartMs": 581066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Chuncheng."
+    } ]
+  }, {
+    "tStartMs": 581900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "Well, then"
+    } ]
+  }, {
+    "tStartMs": 583900,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "because of its high altitude,"
+    } ]
+  }, {
+    "tStartMs": 586366,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "you can see the clouds moving\nreally quickly across the sky every day."
+    } ]
+  }, {
+    "tStartMs": 591566,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "Just watch that cloud float past my eyes every day"
+    } ]
+  }, {
+    "tStartMs": 597233,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "I feel like being there"
+    } ]
+  }, {
+    "tStartMs": 599300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "puts me in a completely different state of mind."
+    } ]
+  }, {
+    "tStartMs": 602266,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "I feel like I'm living a much calmer life."
+    } ]
+  }, {
+    "tStartMs": 606133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "I'm also very motivated to do things there"
+    } ]
+  }, {
+    "tStartMs": 609733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, I even painted there."
+    } ]
+  }, {
+    "tStartMs": 611800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "I don't usually draw, but"
+    } ]
+  }, {
+    "tStartMs": 614333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "But I saw a lot of"
+    } ]
+  }, {
+    "tStartMs": 616333,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "beautiful flowers and so on."
+    } ]
+  }, {
+    "tStartMs": 618233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I could draw."
+    } ]
+  }, {
+    "tStartMs": 619633,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "I wanted to draw."
+    } ]
+  }, {
+    "tStartMs": 620966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "You felt inspired."
+    } ]
+  }, {
+    "tStartMs": 621800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 623133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "And I also started making videos there."
+    } ]
+  }, {
+    "tStartMs": 626800,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Oh,"
+    } ]
+  }, {
+    "tStartMs": 627333,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 628366,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "And I also met a really good friend there."
+    } ]
+  }, {
+    "tStartMs": 642633,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Okay. Okay."
+    } ]
+  }, {
+    "tStartMs": 643833,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "I will ask you two words that are a bit difficult."
+    } ]
+  }, {
+    "tStartMs": 647400,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "The first one is 社恐."
+    } ]
+  }, {
+    "tStartMs": 653000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Shè, like the shè in ‘shooting arrows’?"
+    } ]
+  }, {
+    "tStartMs": 655266,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "the “shè” in “社会” (society)"
+    } ]
+  }, {
+    "tStartMs": 658066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "the “kǒng” in “恐惧” (fear)"
+    } ]
+  }, {
+    "tStartMs": 660600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Fear."
+    } ]
+  }, {
+    "tStartMs": 661400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Have you heard it?"
+    } ]
+  }, {
+    "tStartMs": 662533,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 663066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Take a guess."
+    } ]
+  }, {
+    "tStartMs": 667333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 668733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 670900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "\"恐\" means fear, being afraid."
+    } ]
+  }, {
+    "tStartMs": 673100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 676366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 677200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "You are afraid of crowded places."
+    } ]
+  }, {
+    "tStartMs": 679600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Yeah, that's pretty close."
+    } ]
+  }, {
+    "tStartMs": 681466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "It means being afraid of socializing."
+    } ]
+  }, {
+    "tStartMs": 683800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Ah, being afraid of socializing."
+    } ]
+  }, {
+    "tStartMs": 685033,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 685433,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 685966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 686766,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 687200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Especially in crowded places."
+    } ]
+  }, {
+    "tStartMs": 688900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "You will feel a little"
+    } ]
+  }, {
+    "tStartMs": 690433,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 690900,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes, uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 691966,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Yes, uneasy"
+    } ]
+  }, {
+    "tStartMs": 693366,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "Oh, okay."
+    } ]
+  }, {
+    "tStartMs": 694100,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "For example, if you go to a party"
+    } ]
+  }, {
+    "tStartMs": 698666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "and many people."
+    } ]
+  }, {
+    "tStartMs": 700100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "You can say, “I’m a little socially anxious.”"
+    } ]
+  }, {
+    "tStartMs": 702366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 703433,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 703833,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Okay, okay, okay, okay, okay."
+    } ]
+  }, {
+    "tStartMs": 706200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Thank you, teacher."
+    } ]
+  }, {
+    "tStartMs": 707766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "You're welcome."
+    } ]
+  }, {
+    "tStartMs": 708733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "And the second one is"
+    } ]
+  }, {
+    "tStartMs": 711866,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "This is something a lot of people share on social media."
+    } ]
+  }, {
+    "tStartMs": 715300,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "It's 缘分."
+    } ]
+  }, {
+    "tStartMs": 716933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "So, \"destiny\"?"
+    } ]
+  }, {
+    "tStartMs": 720300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I think it's a little different from English."
+    } ]
+  }, {
+    "tStartMs": 723600,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 724300,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "缘分 is kind of like..."
+    } ]
+  }, {
+    "tStartMs": 725666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the fact that we met is a kind of 缘分."
+    } ]
+  }, {
+    "tStartMs": 728666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Indeed"
+    } ]
+  }, {
+    "tStartMs": 730066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "Or it doesn't necessarily have to be a deep connection."
+    } ]
+  }, {
+    "tStartMs": 733500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "For example, you travel somewhere,"
+    } ]
+  }, {
+    "tStartMs": 736066,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and you happen to have a conversation with a local person."
+    } ]
+  }, {
+    "tStartMs": 740466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "That can also be a kind of 缘分."
+    } ]
+  }, {
+    "tStartMs": 742733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 743533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 744333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 745133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's like a connection between people."
+    } ]
+  }, {
+    "tStartMs": 748366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "It can be"
+    } ]
+  }, {
+    "tStartMs": 749266,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "It can be between friends or even between strangers."
+    } ]
+  }, {
+    "tStartMs": 754333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "people who are meant to meet will eventually meet."
+    } ]
+  }, {
+    "tStartMs": 758366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Yeah, it's a kind of 缘分."
+    } ]
+  }, {
+    "tStartMs": 764433,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "It's not exactly the same."
+    } ]
+  }, {
+    "tStartMs": 767066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 768033,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "Destiny is usually used for people you know well"
+    } ]
+  }, {
+    "tStartMs": 771733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "If you're talking about strangers,"
+    } ]
+  }, {
+    "tStartMs": 773666,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "you wouldn't necessarily use it that way."
+    } ]
+  }, {
+    "tStartMs": 785533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 786266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "That's actually pretty clear."
+    } ]
+  }, {
+    "tStartMs": 792066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Wow, my face is so sweaty."
+    } ]
+  }, {
+    "tStartMs": 794566,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "When we're at the train station, let's wipe off the sweat.(We can film the ending there.)"
+    } ]
+  }, {
+    "tStartMs": 798433,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Anyway, we'll be in the Didi, so there'll definitely be air conditioning."
+    } ]
+  }, {
+    "tStartMs": 804233,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Oh, we can film the ending in the Didi."
+    } ]
+  }, {
+    "tStartMs": 807566,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "There's air conditioning in the car."
+    } ]
+  }, {
+    "tStartMs": 810933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "It's 9 p.m. now,"
+    } ]
+  }, {
+    "tStartMs": 813966,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "And now we're taking a taxi to the high-speed rail station."
+    } ]
+  }, {
+    "tStartMs": 817666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How do you feel about the end of the day?"
+    } ]
+  }, {
+    "tStartMs": 820666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Your feeling."
+    } ]
+  }, {
+    "tStartMs": 822666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "Pretty tired"
+    } ]
+  }, {
+    "tStartMs": 824300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 825100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah, I'm still very happy."
+    } ]
+  }, {
+    "tStartMs": 827133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 827766,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Yes, we had fun."
+    } ]
+  }, {
+    "tStartMs": 828966,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 829533,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "We have also been to Hunan Restaurant"
+    } ]
+  }, {
+    "tStartMs": 834166,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 834600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "which are very delicious."
+    } ]
+  }, {
+    "tStartMs": 836700,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Huh."
+    } ]
+  }, {
+    "tStartMs": 837100,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Well, where did we go today?"
+    } ]
+  }, {
+    "tStartMs": 840733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "ah"
+    } ]
+  }, {
+    "tStartMs": 842133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Went to Tianxin Pavilion"
+    } ]
+  }, {
+    "tStartMs": 844633,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 845133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "We just went to Tianxin Pavilion."
+    } ]
+  }, {
+    "tStartMs": 846966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It's an ancient city tower."
+    } ]
+  }, {
+    "tStartMs": 850366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "It was a place where ancient people observed stars."
+    } ]
+  }, {
+    "tStartMs": 853900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "We also went to Martyrs' Park."
+    } ]
+  }, {
+    "tStartMs": 855933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Martyrs Park, yeah."
+    } ]
+  }, {
+    "tStartMs": 857500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "We filmed here."
+    } ]
+  }, {
+    "tStartMs": 859366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 860366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Yeah, Martyrs' Park is really beautiful."
+    } ]
+  }, {
+    "tStartMs": 863500,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "And we also went to Wuyi Square."
+    } ]
+  }, {
+    "tStartMs": 866133,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Yes, Wuyi Square."
+    } ]
+  }, {
+    "tStartMs": 868333,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "There is nothing in that square."
+    } ]
+  }, {
+    "tStartMs": 870500,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "but there are some shopping malls around."
+    } ]
+  }, {
+    "tStartMs": 873933,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "You can choose a shopping mall to go."
+    } ]
+  }, {
+    "tStartMs": 877933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Yeah, we spent quite a long timeat the mall."
+    } ]
+  }, {
+    "tStartMs": 881133,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Well, about two hours."
+    } ]
+  }, {
+    "tStartMs": 883200,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 884766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "When will we meet next time?"
+    } ]
+  }, {
+    "tStartMs": 886266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ten years later."
+    } ]
+  }, {
+    "tStartMs": 887333,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Let's meet in ten years."
+    } ]
+  }, {
+    "tStartMs": 888833,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 889366,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 889633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "See you in ten years."
+    } ]
+  }, {
+    "tStartMs": 890566,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "It's a deal."
+    } ]
+  }, {
+    "tStartMs": 892133,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "It's a deal."
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So red."
+    } ]
+  }, {
+    "tStartMs": 897933,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "This light is so red."
+    } ]
+  }, {
+    "tStartMs": 899566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Shoot ghost movies"
+    } ]
+  }, {
+    "tStartMs": 900666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "I have another way."
+    } ]
+  }, {
+    "tStartMs": 902233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "You can stop first."
+    } ]
+  }, {
+    "tStartMs": 904233,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "When will we meet next time?"
+    } ]
+  }, {
+    "tStartMs": 907500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Ten years later."
+    } ]
+  }, {
+    "tStartMs": 910166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Ten years later."
+    } ]
+  }, {
+    "tStartMs": 911333,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "We'll meet every ten years."
+    } ]
+  }, {
+    "tStartMs": 913833,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "And we'll be old by then."
+    } ]
+  }, {
+    "tStartMs": 915633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "OK, that's a deal."
+    } ]
+  }, {
+    "tStartMs": 917133,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "OK, that's a deal."
+    } ]
+  }, {
+    "tStartMs": 920166,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 920700,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 920900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Then we'll stop here today. Bye bye."
+    } ]
+  }, {
+    "tStartMs": 923533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye bye."
+    } ]
+  }, {
+    "tStartMs": 92433,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "How long have we known each other?"
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "How did we meet ten years ago?"
+    } ]
+  }, {
+    "tStartMs": 159266,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Why is your Chinese so good?"
+    } ]
+  }, {
+    "tStartMs": 384500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you have any questions for me?"
+    } ]
+  }, {
+    "tStartMs": 639566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Finally, I have a Chinese challenge for you."
+    } ]
+  } ]
+}

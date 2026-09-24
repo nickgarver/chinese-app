@@ -1,5 +1,5 @@
 import { browser } from '$app/environment';
-import { review as gradeCard } from './srs.js';
+import { review as gradeCard, knownCard } from './srs.js';
 import { currentUser, fetchProgress, saveProgress, resumeSession, pb, SYNC_ENABLED } from './pb.js';
 
 const LS_CARDS = 'hsk.cards';
@@ -110,13 +110,31 @@ export const progress = {
     try { localStorage.removeItem(LS_ACCOUNT); } catch { /* ignore */ }
   },
 
-  /** Record one answer. Safe to call when signed out — it just stays local. */
-  grade(word, rating) {
-    const next = gradeCard(cards[word], rating);
+  /**
+   * Record one answer. Safe to call when signed out — it just stays local.
+   * `weight` scales the review's effect; recognition rounds pass a fraction.
+   */
+  grade(word, rating, weight = 1) {
+    const next = gradeCard(cards[word], rating, { weight });
     cards = { ...cards, [word]: next };
     writeLocal(LS_CARDS, $state.snapshot(cards));
     queueSync();
     return next;
+  },
+
+  /** Declare a word already learned, skipping the early intervals. */
+  markKnown(word) {
+    cards = { ...cards, [word]: knownCard() };
+    writeLocal(LS_CARDS, $state.snapshot(cards));
+    queueSync();
+  },
+
+  /** Drop all history for one word, returning it to unstarted. */
+  forget(word) {
+    const { [word]: _gone, ...rest } = cards;
+    cards = rest;
+    writeLocal(LS_CARDS, $state.snapshot(cards));
+    queueSync();
   },
 
   card(word) {

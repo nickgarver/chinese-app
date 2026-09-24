@@ -1,0 +1,331 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 69766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "第十集"
+    } ]
+  }, {
+    "tStartMs": 71700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "三次危险"
+    } ]
+  }, {
+    "tStartMs": 75200,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "孙悟空走进师父的房间"
+    } ]
+  }, {
+    "tStartMs": 80500,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "师父果然在里面等它"
+    } ]
+  }, {
+    "tStartMs": 85966,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "孙悟空跪在师父面前"
+    } ]
+  }, {
+    "tStartMs": 90366,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "师父要教它不死的方法"
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "师父小声地教它"
+    } ]
+  }, {
+    "tStartMs": 101666,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "孙悟空认真地听"
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "不知不觉"
+    } ]
+  }, {
+    "tStartMs": 108266,
+    "dDurationMs": 4734,
+    "segs": [ {
+      "utf8": "天亮了"
+    } ]
+  }, {
+    "tStartMs": 114266,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "孙悟空从后门走了出去"
+    } ]
+  }, {
+    "tStartMs": 118966,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "回到了它和其他人的房间"
+    } ]
+  }, {
+    "tStartMs": 125300,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "其他人还在睡"
+    } ]
+  }, {
+    "tStartMs": 128533,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "其他人不知道师父教了孙悟空"
+    } ]
+  }, {
+    "tStartMs": 137766,
+    "dDurationMs": 8167,
+    "segs": [ {
+      "utf8": "白天 孙悟空和其他人一起学习"
+    } ]
+  }, {
+    "tStartMs": 146166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "没有人的时候"
+    } ]
+  }, {
+    "tStartMs": 148466,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "它一个人练习"
+    } ]
+  }, {
+    "tStartMs": 152766,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "晚上"
+    } ]
+  }, {
+    "tStartMs": 154333,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "它也认真练习"
+    } ]
+  }, {
+    "tStartMs": 158666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "三年过去了"
+    } ]
+  }, {
+    "tStartMs": 163800,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "师父问 你学会了吗"
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "孙悟空说"
+    } ]
+  }, {
+    "tStartMs": 170500,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "我学会了"
+    } ]
+  }, {
+    "tStartMs": 174000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "师父说 这还不够"
+    } ]
+  }, {
+    "tStartMs": 178400,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "以后你会遇到三次危险"
+    } ]
+  }, {
+    "tStartMs": 184966,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "第一次危险 是很大的雷"
+    } ]
+  }, {
+    "tStartMs": 190566,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "五百年以后雷会打下来"
+    } ]
+  }, {
+    "tStartMs": 194800,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "你一定要躲开"
+    } ]
+  }, {
+    "tStartMs": 198666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "孙悟空认真地听"
+    } ]
+  }, {
+    "tStartMs": 203566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "再过五百年"
+    } ]
+  }, {
+    "tStartMs": 206700,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "火会来"
+    } ]
+  }, {
+    "tStartMs": 209733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这不是普通的火"
+    } ]
+  }, {
+    "tStartMs": 212333,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "火会从你的身体里面烧起来"
+    } ]
+  }, {
+    "tStartMs": 217566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "这次危险"
+    } ]
+  }, {
+    "tStartMs": 219500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "你也要躲开"
+    } ]
+  }, {
+    "tStartMs": 223766,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "再过五百年"
+    } ]
+  }, {
+    "tStartMs": 226566,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "大风会来"
+    } ]
+  }, {
+    "tStartMs": 231066,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "风会进入你的身体"
+    } ]
+  }, {
+    "tStartMs": 235466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "这次危险你也要躲开"
+    } ]
+  }, {
+    "tStartMs": 240400,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "孙悟空听了很害怕"
+    } ]
+  }, {
+    "tStartMs": 247166,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "孙悟空向师父行礼"
+    } ]
+  }, {
+    "tStartMs": 251266,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "它说"
+    } ]
+  }, {
+    "tStartMs": 252866,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "请教我躲开危险的方法"
+    } ]
+  }, {
+    "tStartMs": 258333,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "师父说 可是你和人不一样"
+    } ]
+  }, {
+    "tStartMs": 266800,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "孙悟空问"
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "哪里不一样"
+    } ]
+  }, {
+    "tStartMs": 273133,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "师父说 你的脸颊比人小"
+    } ]
+  }, {
+    "tStartMs": 279500,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "孙悟空摸摸自己的脸"
+    } ]
+  }, {
+    "tStartMs": 283100,
+    "dDurationMs": 7033,
+    "segs": [ {
+      "utf8": "它说 可是我的嘴里有放东西的小袋子"
+    } ]
+  }, {
+    "tStartMs": 290366,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "师父笑了"
+    } ]
+  }, {
+    "tStartMs": 293100,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "说 好 我教你"
+    } ]
+  }, {
+    "tStartMs": 297800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "师父会教它什么呢"
+    } ]
+  }, {
+    "tStartMs": 300200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我们下回说"
+    } ]
+  } ]
+}

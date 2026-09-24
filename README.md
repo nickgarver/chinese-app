@@ -146,6 +146,55 @@ Sentence pinyin comes from pypinyin at build time. It does not apply tone sandhi
 native speaker uses the neutral one (`yī fú` rather than `yī fu`). Fine as a
 reading aid, not authoritative.
 
+## Watch (optional)
+
+A tab that plays short YouTube moments and asks what was said. It is off until
+you build it — the app shows a note explaining how, and everything else works
+without it.
+
+The options are shown in English, taken from the video's English caption track
+(or YouTube's machine translation of the Chinese one) and aligned to the clip
+by timestamp. Answer, and the Chinese and pinyin appear with a TTS button.
+Videos with no English track are skipped, since there would be nothing to
+choose between.
+
+```bash
+uv pip install yt-dlp youtube-transcript-api
+# list your channels in scripts/channels.csv, then:
+npm run clips:fetch     # yt-dlp lists videos, transcripts get cached
+npm run clips:build     # cache + vocab -> static/data/clips.json
+```
+
+`fetch` is the slow, networked half and caches everything, so re-running it
+later only costs new uploads. `build` is offline and instant, so re-run it
+whenever your vocabulary changes.
+
+Playback is a YouTube embed seeked to the timestamp. Nothing is downloaded, and
+the channel gets the view.
+
+Things worth knowing:
+
+- **Auto-generated captions are poor.** No punctuation, frequent recognition
+  errors. They're skipped by default; `--allow-auto` includes them. Channels
+  with real subtitles give far better results.
+- **Chinese subtitles don't mean Chinese audio.** Plenty of learner channels
+  narrate in English over Chinese captions. `fetch_transcripts.py` asks yt-dlp
+  what language each video is in and drops the non-Chinese ones. YouTube's
+  metadata is often blank, though, so unknown-language videos are kept by
+  default — add `--skip-unknown` to drop those too, or `--any-language` to
+  turn the check off entirely.
+- **YouTube rate-limits and blocks datacenter IPs.** This works from a home
+  connection and often fails from a VPS. The delay between requests is there
+  for a reason.
+- **This is not something YouTube's terms encourage.** Keeping the cache local
+  and personal is the low-risk path.
+- **`clips.json` contains other people's words.** It's gitignored by default,
+  along with the cache, so a public deploy doesn't republish transcript text.
+  Remove those lines if you're only running locally and want it committed.
+- Coverage depends entirely on your channels. With a handful you'll cover a few
+  hundred words, not the whole list — the tab filters to words that actually
+  have a clip so the counts stay honest.
+
 ## Not done yet
 
 - No service worker or manifest. Add `@vite-pwa/sveltekit` when you want offline

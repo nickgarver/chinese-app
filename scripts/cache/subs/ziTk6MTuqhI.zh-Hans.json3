@@ -1,0 +1,295 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 60700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "第十一集 孙悟空学会了吗"
+    } ]
+  }, {
+    "tStartMs": 65466,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "上一集 师父答应孙悟空"
+    } ]
+  }, {
+    "tStartMs": 68566,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "要教它躲避危险的方法"
+    } ]
+  }, {
+    "tStartMs": 72366,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "孙悟空很高兴"
+    } ]
+  }, {
+    "tStartMs": 75466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "它认真地看着师父"
+    } ]
+  }, {
+    "tStartMs": 79766,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "师父说 有两个方法"
+    } ]
+  }, {
+    "tStartMs": 84700,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "一个是三十六变"
+    } ]
+  }, {
+    "tStartMs": 88133,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "一个是七十二变"
+    } ]
+  }, {
+    "tStartMs": 91600,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "你想学哪一个"
+    } ]
+  }, {
+    "tStartMs": 97200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "孙悟空想了一下"
+    } ]
+  }, {
+    "tStartMs": 100766,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "它说 我要学七十二变"
+    } ]
+  }, {
+    "tStartMs": 105800,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "七十二比三十六多"
+    } ]
+  }, {
+    "tStartMs": 110766,
+    "dDurationMs": 6634,
+    "segs": [ {
+      "utf8": "师父让孙悟空靠近他"
+    } ]
+  }, {
+    "tStartMs": 117400,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "师父在孙悟空耳边小声地说"
+    } ]
+  }, {
+    "tStartMs": 123666,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "孙悟空听了很久"
+    } ]
+  }, {
+    "tStartMs": 127100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "它知道怎么变了"
+    } ]
+  }, {
+    "tStartMs": 130133,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "孙悟空要认真地练习七十二变"
+    } ]
+  }, {
+    "tStartMs": 137200,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "孙悟空白天练习"
+    } ]
+  }, {
+    "tStartMs": 140266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "晚上也练习"
+    } ]
+  }, {
+    "tStartMs": 143100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "它会变成树"
+    } ]
+  }, {
+    "tStartMs": 145200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "也会变成石头"
+    } ]
+  }, {
+    "tStartMs": 147866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "它还会变成很多东西"
+    } ]
+  }, {
+    "tStartMs": 151600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "孙悟空学会了七十二变"
+    } ]
+  }, {
+    "tStartMs": 156733,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "一天 师父和大家来到外面"
+    } ]
+  }, {
+    "tStartMs": 161966,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "师父问 你会飞了吗"
+    } ]
+  }, {
+    "tStartMs": 167733,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "孙悟空说 我会"
+    } ]
+  }, {
+    "tStartMs": 170900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我飞给大家看"
+    } ]
+  }, {
+    "tStartMs": 174966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "孙悟空跳到云上"
+    } ]
+  }, {
+    "tStartMs": 177766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "走了很久"
+    } ]
+  }, {
+    "tStartMs": 179766,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "只走了三里"
+    } ]
+  }, {
+    "tStartMs": 182133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "它说"
+    } ]
+  }, {
+    "tStartMs": 183466,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "师父 我会腾云了"
+    } ]
+  }, {
+    "tStartMs": 188133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "师父笑着说"
+    } ]
+  }, {
+    "tStartMs": 190800,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "这不是腾云"
+    } ]
+  }, {
+    "tStartMs": 193566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "你只是在云上走"
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "会腾云的人一天可以飞过四个海"
+    } ]
+  }, {
+    "tStartMs": 202933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "孙悟空说"
+    } ]
+  }, {
+    "tStartMs": 204966,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这太难了"
+    } ]
+  }, {
+    "tStartMs": 208466,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "孙悟空向师父行礼"
+    } ]
+  }, {
+    "tStartMs": 212166,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "它说 请您教我腾云的方法"
+    } ]
+  }, {
+    "tStartMs": 217100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "师父说 你刚才打了一个筋斗"
+    } ]
+  }, {
+    "tStartMs": 221800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我就教你筋斗云"
+    } ]
+  }, {
+    "tStartMs": 226066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "晚上 孙悟空认真练习"
+    } ]
+  }, {
+    "tStartMs": 229666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "它打了一个筋斗"
+    } ]
+  }, {
+    "tStartMs": 231666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "跳上了筋斗云"
+    } ]
+  }, {
+    "tStartMs": 234266,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "筋斗云一下子飞到了很远的地方"
+    } ]
+  }, {
+    "tStartMs": 239733,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "孙悟空学会了筋斗云"
+    } ]
+  } ]
+}

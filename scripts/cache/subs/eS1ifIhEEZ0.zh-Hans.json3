@@ -1,0 +1,1555 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "大家好呀"
+    } ]
+  }, {
+    "tStartMs": 3700,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "今天我想教大家10个中国人经常说"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "但是在课本上却学不到的表达"
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "感兴趣的就往下看吧"
+    } ]
+  }, {
+    "tStartMs": 17266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "第一个"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "在课本上，你可能会学到"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "“我很累”"
+    } ]
+  }, {
+    "tStartMs": 29333,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "“我非常累”"
+    } ]
+  }, {
+    "tStartMs": 30700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "“我累死了”"
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "但是在生活当中"
+    } ]
+  }, {
+    "tStartMs": 34733,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "你可能会听到别人这样说"
+    } ]
+  }, {
+    "tStartMs": 38066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "“哎呀，今天我真的是累成狗了！”"
+    } ]
+  }, {
+    "tStartMs": 41800,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "累成狗，累得跟狗一样"
+    } ]
+  }, {
+    "tStartMs": 46333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "这不是在骂人"
+    } ]
+  }, {
+    "tStartMs": 48533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "这只是一种夸张的表达"
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "假如你是一个上班族"
+    } ]
+  }, {
+    "tStartMs": 55266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "今天是你非常忙碌的一天"
+    } ]
+  }, {
+    "tStartMs": 58766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "从早上到下午"
+    } ]
+  }, {
+    "tStartMs": 61033,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "一直有会议"
+    } ]
+  }, {
+    "tStartMs": 62733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "你一直要开会开会开会"
+    } ]
+  }, {
+    "tStartMs": 66133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "你就可以跟你的朋友抱怨"
+    } ]
+  }, {
+    "tStartMs": 68966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "“啊，我今天真的累成狗了！”"
+    } ]
+  }, {
+    "tStartMs": 71933,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "你的朋友就会立刻明白你今天有多累"
+    } ]
+  }, {
+    "tStartMs": 76300,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "第二个表达就是"
+    } ]
+  }, {
+    "tStartMs": 84366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "在课本上，你可能学到的是"
+    } ]
+  }, {
+    "tStartMs": 88100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "“我很开心”"
+    } ]
+  }, {
+    "tStartMs": 89700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "“我很高兴”"
+    } ]
+  }, {
+    "tStartMs": 91133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "“今天真的太好了”"
+    } ]
+  }, {
+    "tStartMs": 93800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "但是在生活当中"
+    } ]
+  }, {
+    "tStartMs": 95766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "中国人经常会说"
+    } ]
+  }, {
+    "tStartMs": 97933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "“哇，太爽了！”"
+    } ]
+  }, {
+    "tStartMs": 100100,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "表示特别开心、特别满足、特别舒服的意思"
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "举个例子"
+    } ]
+  }, {
+    "tStartMs": 107366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "现在是夏天嘛"
+    } ]
+  }, {
+    "tStartMs": 109166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "气温都很高，很炎热"
+    } ]
+  }, {
+    "tStartMs": 112466,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "你想一想"
+    } ]
+  }, {
+    "tStartMs": 113500,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "在夏天，下午最炎热的时候"
+    } ]
+  }, {
+    "tStartMs": 118566,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "35度，36度"
+    } ]
+  }, {
+    "tStartMs": 121300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "很热很热的天气"
+    } ]
+  }, {
+    "tStartMs": 123900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "你突然喝到了一杯冰咖啡"
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "或者冰奶茶"
+    } ]
+  }, {
+    "tStartMs": 130166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "或者冰啤酒"
+    } ]
+  }, {
+    "tStartMs": 135833,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "“啊！太爽了！”"
+    } ]
+  }, {
+    "tStartMs": 140633,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "就是说你很满足、很舒服、很开心的意思"
+    } ]
+  }, {
+    "tStartMs": 145666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "再举个例子"
+    } ]
+  }, {
+    "tStartMs": 147066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "如果你放一个星期假"
+    } ]
+  }, {
+    "tStartMs": 150400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "一个星期不用上班"
+    } ]
+  }, {
+    "tStartMs": 152466,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "你是不是也会说“太爽了”"
+    } ]
+  }, {
+    "tStartMs": 157100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "第三个表达就是"
+    } ]
+  }, {
+    "tStartMs": 165900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这个表达比较长"
+    } ]
+  }, {
+    "tStartMs": 168400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "它是表示非常紧张、非常慌张这样一个状态"
+    } ]
+  }, {
+    "tStartMs": 175466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "在课本上，你学到的可能是"
+    } ]
+  }, {
+    "tStartMs": 178633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "“我很紧张”"
+    } ]
+  }, {
+    "tStartMs": 179733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "“我很慌张”"
+    } ]
+  }, {
+    "tStartMs": 181300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "但在现实生活当中"
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "很多人会这样说"
+    } ]
+  }, {
+    "tStartMs": 185300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "“我内心慌得一批”"
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "“慌”是“慌张”的意思"
+    } ]
+  }, {
+    "tStartMs": 191666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "“得一批”，其实它没有什么意思"
+    } ]
+  }, {
+    "tStartMs": 194533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "只是加强语气"
+    } ]
+  }, {
+    "tStartMs": 198066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "给大家一个情景"
+    } ]
+  }, {
+    "tStartMs": 200066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "你刚学习中文不久"
+    } ]
+  }, {
+    "tStartMs": 202266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "第一次跟中国人聊天"
+    } ]
+  }, {
+    "tStartMs": 205366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "他说特别快的中文"
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "你很紧张"
+    } ]
+  }, {
+    "tStartMs": 209466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "你很慌张"
+    } ]
+  }, {
+    "tStartMs": 210833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "你就可以说"
+    } ]
+  }, {
+    "tStartMs": 212233,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "“啊，那个时候其实我内心慌得一批！”"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我一直觉得"
+    } ]
+  }, {
+    "tStartMs": 218133,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "大家学中文的时候"
+    } ]
+  }, {
+    "tStartMs": 220300,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "应该要学一些真实的、自然的、地道的表达"
+    } ]
+  }, {
+    "tStartMs": 226233,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这就是为什么我一直推荐大家"
+    } ]
+  }, {
+    "tStartMs": 229266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "学习中文的过程当中"
+    } ]
+  }, {
+    "tStartMs": 231366,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "一定一定要跟母语者练习对话"
+    } ]
+  }, {
+    "tStartMs": 235033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "那在这方面呢"
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "italki真的帮了我们一个很大的忙"
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "你可以一节课一节课地买"
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "不需要一下子囤很多的课"
+    } ]
+  }, {
+    "tStartMs": 318133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "时间也是比较灵活的"
+    } ]
+  }, {
+    "tStartMs": 320133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这样你的压力就会小很多"
+    } ]
+  }, {
+    "tStartMs": 323333,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "如果你是新用户"
+    } ]
+  }, {
+    "tStartMs": 325500,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "现在用我的优惠码就能买10美金减5美金"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个真的是很大的优惠了"
+    } ]
+  }, {
+    "tStartMs": 334633,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "希望可以帮助到大家学习中文"
+    } ]
+  }, {
+    "tStartMs": 341933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "第四个表达方式就是"
+    } ]
+  }, {
+    "tStartMs": 347233,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "牛，对，就是那个动物，牛"
+    } ]
+  }, {
+    "tStartMs": 353200,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "在中国，“牛”也可以用来形容一个人很厉害"
+    } ]
+  }, {
+    "tStartMs": 357666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "做得很好的意思"
+    } ]
+  }, {
+    "tStartMs": 359766,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "在课本上，你可能学到的表达方式是"
+    } ]
+  }, {
+    "tStartMs": 363533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "“你很棒！”"
+    } ]
+  }, {
+    "tStartMs": 365333,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "但是中国人经常会在生活当中说"
+    } ]
+  }, {
+    "tStartMs": 369066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "“牛！”“太牛了！”"
+    } ]
+  }, {
+    "tStartMs": 370966,
+    "dDurationMs": 5034,
+    "segs": [ {
+      "utf8": "如果你的朋友第一次参加马拉松长跑"
+    } ]
+  }, {
+    "tStartMs": 376233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "他拿了第一名"
+    } ]
+  }, {
+    "tStartMs": 378033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "你说他牛不牛"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "你肯定会给他竖起大拇指"
+    } ]
+  }, {
+    "tStartMs": 383200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "说一句“太牛了！”"
+    } ]
+  }, {
+    "tStartMs": 385866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "第五个表达方式就是"
+    } ]
+  }, {
+    "tStartMs": 395666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "塌下来了"
+    } ]
+  }, {
+    "tStartMs": 397433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "那就是出事的意思"
+    } ]
+  }, {
+    "tStartMs": 400166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "出事了，出的还不是小事"
+    } ]
+  }, {
+    "tStartMs": 403433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "出大事了"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "就是表达事情非常地严重"
+    } ]
+  }, {
+    "tStartMs": 409100,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "当然有的时候也可以是开玩笑"
+    } ]
+  }, {
+    "tStartMs": 413133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "夸张地开玩笑"
+    } ]
+  }, {
+    "tStartMs": 415033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "可能事情没有那么严重"
+    } ]
+  }, {
+    "tStartMs": 416766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "但是我可以说得更夸张一点"
+    } ]
+  }, {
+    "tStartMs": 420133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "天塌了"
+    } ]
+  }, {
+    "tStartMs": 421233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "天塌下来了"
+    } ]
+  }, {
+    "tStartMs": 424233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我给大家一个情景"
+    } ]
+  }, {
+    "tStartMs": 427666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "上厕所的时候"
+    } ]
+  }, {
+    "tStartMs": 429233,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "你们有没有习惯刷手机呀"
+    } ]
+  }, {
+    "tStartMs": 432900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "有没有刷手机的习惯"
+    } ]
+  }, {
+    "tStartMs": 435366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我应该是不止一次"
+    } ]
+  }, {
+    "tStartMs": 438833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "上厕所的时候刷手机"
+    } ]
+  }, {
+    "tStartMs": 441133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "然后起来的时候，“扑通”"
+    } ]
+  }, {
+    "tStartMs": 443933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "手机掉进马桶里了"
+    } ]
+  }, {
+    "tStartMs": 447533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "那个时候我就觉得天塌了"
+    } ]
+  }, {
+    "tStartMs": 451700,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "天塌了，我的手机掉马桶了"
+    } ]
+  }, {
+    "tStartMs": 455433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "天真的塌了"
+    } ]
+  }, {
+    "tStartMs": 458566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "大家学会了吗"
+    } ]
+  }, {
+    "tStartMs": 460300,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "第六个表达方式"
+    } ]
+  }, {
+    "tStartMs": 468200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "这里的“服了”不是“佩服”的意思"
+    } ]
+  }, {
+    "tStartMs": 472233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "是发生了一些事情"
+    } ]
+  }, {
+    "tStartMs": 474466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "让你感觉特别地无语"
+    } ]
+  }, {
+    "tStartMs": 477633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "给大家一个例子"
+    } ]
+  }, {
+    "tStartMs": 480100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "如果你有一个室友"
+    } ]
+  }, {
+    "tStartMs": 482900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "他经常忘记带钥匙"
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "你们的门需要钥匙才能打开"
+    } ]
+  }, {
+    "tStartMs": 488966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "他第一次忘记带钥匙"
+    } ]
+  }, {
+    "tStartMs": 490966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "他给你打电话"
+    } ]
+  }, {
+    "tStartMs": 492566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "啊对不起，我的钥匙落在公司了"
+    } ]
+  }, {
+    "tStartMs": 496766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "你可以回来帮我开一下门吗"
+    } ]
+  }, {
+    "tStartMs": 500433,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "那你肯定...嗯没关系，我可以去帮他对不对"
+    } ]
+  }, {
+    "tStartMs": 504166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "因为这是第一次发生的情况"
+    } ]
+  }, {
+    "tStartMs": 506700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "那如果接下来一个星期"
+    } ]
+  }, {
+    "tStartMs": 509433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "他连续发生了三次这样的情况"
+    } ]
+  }, {
+    "tStartMs": 513666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "你就会有点觉得无语"
+    } ]
+  }, {
+    "tStartMs": 516333,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "怎么这么没有记性呢"
+    } ]
+  }, {
+    "tStartMs": 518866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我真的服了"
+    } ]
+  }, {
+    "tStartMs": 520666,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "一个星期内发生了三次这样的情况"
+    } ]
+  }, {
+    "tStartMs": 524333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "“我真的服了！”"
+    } ]
+  }, {
+    "tStartMs": 526866,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "接下来第七个表达就是"
+    } ]
+  }, {
+    "tStartMs": 535700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "对，中间有三个英文字母"
+    } ]
+  }, {
+    "tStartMs": 539233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "EMO来自英文词emotion"
+    } ]
+  }, {
+    "tStartMs": 543000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "它表示的是难过、伤心"
+    } ]
+  }, {
+    "tStartMs": 547200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "失落、心情不好的意思"
+    } ]
+  }, {
+    "tStartMs": 550633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在课本上，你可能学的是"
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "“我很伤心”"
+    } ]
+  }, {
+    "tStartMs": 555200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "“我很难过”"
+    } ]
+  }, {
+    "tStartMs": 556633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "“我心情不好”"
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "但是现实生活当中"
+    } ]
+  }, {
+    "tStartMs": 561600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "特别是年轻人"
+    } ]
+  }, {
+    "tStartMs": 563166,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "他们很喜欢用“我EMO啦！”这样的表达方式"
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我有个朋友"
+    } ]
+  }, {
+    "tStartMs": 570966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我经常会叫他Emo哥"
+    } ]
+  }, {
+    "tStartMs": 573633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "为什么"
+    } ]
+  }, {
+    "tStartMs": 574733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "因为他经常在晚上的时候就emo了"
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "在晚上不愿意睡觉"
+    } ]
+  }, {
+    "tStartMs": 581633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "听着悲伤的歌"
+    } ]
+  }, {
+    "tStartMs": 583733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "看着手机里的消息"
+    } ]
+  }, {
+    "tStartMs": 586566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "伤心、难过、失落"
+    } ]
+  }, {
+    "tStartMs": 589800,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "然后就会发一些很悲伤的动态"
+    } ]
+  }, {
+    "tStartMs": 594966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "他非常喜欢EMO"
+    } ]
+  }, {
+    "tStartMs": 596966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "所以我给他取了个名字，叫“emo哥”"
+    } ]
+  }, {
+    "tStartMs": 600033,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "来到第8个表达方式了"
+    } ]
+  }, {
+    "tStartMs": 608633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "你可能会问：有东西？"
+    } ]
+  }, {
+    "tStartMs": 611233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "有什么东西"
+    } ]
+  }, {
+    "tStartMs": 613466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这句话的意思呢"
+    } ]
+  }, {
+    "tStartMs": 615066,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "其实它是表达不错、比想象中好这样的意思"
+    } ]
+  }, {
+    "tStartMs": 621933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "有点东西"
+    } ]
+  }, {
+    "tStartMs": 624166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "有一天，你的朋友带你去了一家餐厅"
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "你其实没有什么期待"
+    } ]
+  }, {
+    "tStartMs": 630600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "那家餐厅它的样子也是比较普通的"
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "你坐下来"
+    } ]
+  }, {
+    "tStartMs": 637066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "然后点菜"
+    } ]
+  }, {
+    "tStartMs": 639233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "上菜、你尝了一口"
+    } ]
+  }, {
+    "tStartMs": 643566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "惊艳到了"
+    } ]
+  }, {
+    "tStartMs": 644766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "比你想象中的要好"
+    } ]
+  }, {
+    "tStartMs": 648200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "还挺不错的"
+    } ]
+  }, {
+    "tStartMs": 649766,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "还挺好的"
+    } ]
+  }, {
+    "tStartMs": 650666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "挺厉害的"
+    } ]
+  }, {
+    "tStartMs": 652133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "你就可以说"
+    } ]
+  }, {
+    "tStartMs": 653666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "“哎，这家店有点东西哦！”"
+    } ]
+  }, {
+    "tStartMs": 656533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这家店有点东西"
+    } ]
+  }, {
+    "tStartMs": 659533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "第九个表达方式"
+    } ]
+  }, {
+    "tStartMs": 665533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "或者是对......上头"
+    } ]
+  }, {
+    "tStartMs": 669400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "上头"
+    } ]
+  }, {
+    "tStartMs": 673266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "它的意思呢"
+    } ]
+  }, {
+    "tStartMs": 674300,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "就是代表喜欢、上瘾这样的意思"
+    } ]
+  }, {
+    "tStartMs": 678566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "上头"
+    } ]
+  }, {
+    "tStartMs": 680933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "现在啊，TikTok"
+    } ]
+  }, {
+    "tStartMs": 682533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "很多人对Tiktok上头"
+    } ]
+  }, {
+    "tStartMs": 684166,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "因为刷视频是一种很上头的行为"
+    } ]
+  }, {
+    "tStartMs": 688433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "很容易上瘾的行为"
+    } ]
+  }, {
+    "tStartMs": 691433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这个是“上头”"
+    } ]
+  }, {
+    "tStartMs": 693133,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "我已经刷了一晚上的手机了"
+    } ]
+  }, {
+    "tStartMs": 696566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我停不下来"
+    } ]
+  }, {
+    "tStartMs": 698433,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "太上头了"
+    } ]
+  }, {
+    "tStartMs": 700333,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "短视频太让人上头了"
+    } ]
+  }, {
+    "tStartMs": 703800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那如果你说"
+    } ]
+  }, {
+    "tStartMs": 705733,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "“我现在对他上头了！”"
+    } ]
+  }, {
+    "tStartMs": 711566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "那是什么意思"
+    } ]
+  }, {
+    "tStartMs": 712533,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "那就是你现在非常喜欢这个人的意思"
+    } ]
+  }, {
+    "tStartMs": 717233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你对他很着迷"
+    } ]
+  }, {
+    "tStartMs": 719433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "你很喜欢他"
+    } ]
+  }, {
+    "tStartMs": 720766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我对他上头了"
+    } ]
+  }, {
+    "tStartMs": 722966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "会用了吗"
+    } ]
+  }, {
+    "tStartMs": 724433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "最后一个"
+    } ]
+  }, {
+    "tStartMs": 730666,
+    "dDurationMs": 5234,
+    "segs": [ {
+      "utf8": "大家可能看到这里又有一个英文词-CPU"
+    } ]
+  }, {
+    "tStartMs": 736766,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "你们知道CPU它是电脑的一个零部件吗"
+    } ]
+  }, {
+    "tStartMs": 741433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "中央处理器"
+    } ]
+  }, {
+    "tStartMs": 743733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "烧，不是用火烧这样的意思"
+    } ]
+  }, {
+    "tStartMs": 747766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "是损坏了，不能用了这个意思"
+    } ]
+  }, {
+    "tStartMs": 751100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "CPU烧了"
+    } ]
+  }, {
+    "tStartMs": 752600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "如果你电脑的CPU坏了"
+    } ]
+  }, {
+    "tStartMs": 754833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "电脑是不能用的"
+    } ]
+  }, {
+    "tStartMs": 757000,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "对，用不了了"
+    } ]
+  }, {
+    "tStartMs": 759166,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "那在生活当中"
+    } ]
+  }, {
+    "tStartMs": 760600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "我们说这句话的时候呢"
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "除了可以用在电脑方面"
+    } ]
+  }, {
+    "tStartMs": 765000,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "也可以用在你的脑子上"
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "什么意思"
+    } ]
+  }, {
+    "tStartMs": 771166,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "CPU烧了，就是一些很费脑、很烧脑"
+    } ]
+  }, {
+    "tStartMs": 776566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "很复杂的情况"
+    } ]
+  }, {
+    "tStartMs": 777800,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "你想不明白"
+    } ]
+  }, {
+    "tStartMs": 779233,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "你就可以用“CPU烧了”（这个表达）"
+    } ]
+  }, {
+    "tStartMs": 782166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "举个例子"
+    } ]
+  }, {
+    "tStartMs": 783366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "你有一个程序员的朋友"
+    } ]
+  }, {
+    "tStartMs": 786633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "他很擅长写一些代码"
+    } ]
+  }, {
+    "tStartMs": 790233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "但是代码对你来说是非常难的"
+    } ]
+  }, {
+    "tStartMs": 793466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "像天书一样看不懂"
+    } ]
+  }, {
+    "tStartMs": 797166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "他给你讲"
+    } ]
+  }, {
+    "tStartMs": 798566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "这个是为什么"
+    } ]
+  }, {
+    "tStartMs": 799600,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "这个是为什么"
+    } ]
+  }, {
+    "tStartMs": 800900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "你也很认真地听"
+    } ]
+  }, {
+    "tStartMs": 802900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "但是你就是不明白"
+    } ]
+  }, {
+    "tStartMs": 805566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "想不明白"
+    } ]
+  }, {
+    "tStartMs": 806700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "脑子转不过来了"
+    } ]
+  }, {
+    "tStartMs": 809066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "哎呀，不要再跟我说了"
+    } ]
+  }, {
+    "tStartMs": 811066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我CPU烧了"
+    } ]
+  }, {
+    "tStartMs": 813766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "它想表达的意思就是想不明白"
+    } ]
+  }, {
+    "tStartMs": 817333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "脑子转不过来"
+    } ]
+  }, {
+    "tStartMs": 819266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "但是这是一个非常生动的表达"
+    } ]
+  }, {
+    "tStartMs": 822933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "如果你的中国朋友听到你说这句话"
+    } ]
+  }, {
+    "tStartMs": 826500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "他肯定会被你逗笑的"
+    } ]
+  }, {
+    "tStartMs": 829066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "今天的10个表达你都学会了吗"
+    } ]
+  }, {
+    "tStartMs": 833266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "马上找机会跟你的中国朋友"
+    } ]
+  }, {
+    "tStartMs": 836400,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "或者跟你的中文老师说这几个词"
+    } ]
+  }, {
+    "tStartMs": 841633,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "看看他们的反应是怎么样的"
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "如果大家想学习更多"
+    } ]
+  }, {
+    "tStartMs": 847566,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这样真实、自然、地道的中文"
+    } ]
+  }, {
+    "tStartMs": 851033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "请给我一个赞"
+    } ]
+  }, {
+    "tStartMs": 853633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我会拍更多的视频给大家"
+    } ]
+  }, {
+    "tStartMs": 856233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "那今天的视频就到这儿了"
+    } ]
+  }, {
+    "tStartMs": 858266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "感谢大家看到这里"
+    } ]
+  }, {
+    "tStartMs": 860100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我们下个视频见，拜拜"
+    } ]
+  } ]
+}

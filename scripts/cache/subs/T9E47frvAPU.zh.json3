@@ -1,0 +1,1573 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 188,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "你们好,我是Jade\nnǐ men hǎo, wǒ shì Jade"
+    } ]
+  }, {
+    "tStartMs": 3908,
+    "dDurationMs": 5281,
+    "segs": [ {
+      "utf8": "今天我穿了一件红色的\njīn tiān wǒ chuān le yī jiàn hóng sè de"
+    } ]
+  }, {
+    "tStartMs": 9988,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "深红色的衣服\nshēn hóng sè de yī fú"
+    } ]
+  }, {
+    "tStartMs": 13668,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "红色,红色的衣服\nhóng sè, hóng sè de yī fú"
+    } ]
+  }, {
+    "tStartMs": 18308,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "因为我约了朋友见面\nyīn wèi wǒ yuē le péng yǒu jiàn miàn"
+    } ]
+  }, {
+    "tStartMs": 23908,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "你们猜猜\nnǐ men cāi cāi"
+    } ]
+  }, {
+    "tStartMs": 26428,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "我要和朋友一起做什么呢?\nwǒ yào hé péng yǒu yī qǐ zuò shén me ne ?"
+    } ]
+  }, {
+    "tStartMs": 32828,
+    "dDurationMs": 4852,
+    "segs": [ {
+      "utf8": "待会儿你们就会知道了\ndài huì ér nǐ men jiù huì zhī dào le"
+    } ]
+  }, {
+    "tStartMs": 39607,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我现在在电梯\nwǒ xiàn zài zài diàn tī"
+    } ]
+  }, {
+    "tStartMs": 44007,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "电梯,这里是电梯\ndiàn tī, zhè lǐ shì diàn tī"
+    } ]
+  }, {
+    "tStartMs": 48847,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "我要去一个地方\nwǒ yào qù yí gè dì fāng"
+    } ]
+  }, {
+    "tStartMs": 54367,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我要找一找\nwǒ yào zhǎo yī zhǎo"
+    } ]
+  }, {
+    "tStartMs": 59887,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "今天我约了朋友打麻将\njīn tiān wǒ yuē le péng yǒu dǎ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 66287,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "打麻将\ndǎ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 68207,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "这是一个麻将房\nzhè shì yí gè má jiāng fáng"
+    } ]
+  }, {
+    "tStartMs": 73207,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "麻将房\nmá jiāng fáng"
+    } ]
+  }, {
+    "tStartMs": 75927,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "我们一般也会叫做棋牌室\nwǒ men yī bān yě huì jiào zuò qí pái shì"
+    } ]
+  }, {
+    "tStartMs": 82047,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "棋牌室或者麻将房\nqí pái shì huò zhě má jiāng fáng"
+    } ]
+  }, {
+    "tStartMs": 87527,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "麻将房\nmá jiāng fáng"
+    } ]
+  }, {
+    "tStartMs": 89807,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "这里有很多个房间\nzhè lǐ yǒu hěn duō gè fáng jiān"
+    } ]
+  }, {
+    "tStartMs": 94967,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "都是打麻将的房间\ndū shì dǎ má jiāng de fáng jiān"
+    } ]
+  }, {
+    "tStartMs": 100047,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "所以今天我要和朋友一起打麻将\nsuǒ yǐ jīn tiān wǒ yào hé péng yǒu yī qǐ dǎ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 108674,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "麻将需要四个人一起玩\nmá jiāng xū yào sì gè rén yī qǐ wán"
+    } ]
+  }, {
+    "tStartMs": 114394,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "所以这个房间有四张椅子\nsuǒ yǐ zhè gè fáng jiān yǒu sì zhāng yǐ zǐ"
+    } ]
+  }, {
+    "tStartMs": 121634,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这是椅子\nzhè shì yǐ zǐ"
+    } ]
+  }, {
+    "tStartMs": 124154,
+    "dDurationMs": 4323,
+    "segs": [ {
+      "utf8": "椅子有1,2,3,4\nyǐ zǐ yǒu 1,2,3,4"
+    } ]
+  }, {
+    "tStartMs": 129954,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "总共四张椅子\nzǒng gòng sì zhāng yǐ zǐ"
+    } ]
+  }, {
+    "tStartMs": 134714,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "因为打麻将需要四个人\nyīn wèi dǎ má jiāng xū yào sì gè rén"
+    } ]
+  }, {
+    "tStartMs": 142794,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "除了椅子、自动的麻将机\nchú le yǐ zǐ 、 zì dòng de má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 148154,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "还有两张小桌子\nhuán yǒu liǎng zhāng xiǎo zhuō zǐ"
+    } ]
+  }, {
+    "tStartMs": 152794,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "这是桌子\nzhè shì zhuō zǐ"
+    } ]
+  }, {
+    "tStartMs": 155074,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "桌子上有水\nzhuō zǐ shàng yǒu shuǐ"
+    } ]
+  }, {
+    "tStartMs": 160034,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "瓶装水\npíng zhuāng shuǐ"
+    } ]
+  }, {
+    "tStartMs": 161838,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "一瓶\nyī píng"
+    } ]
+  }, {
+    "tStartMs": 163314,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "两瓶\nliǎng píng"
+    } ]
+  }, {
+    "tStartMs": 166074,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "瓶装水\npíng zhuāng shuǐ"
+    } ]
+  }, {
+    "tStartMs": 168074,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "那边\nnà biān"
+    } ]
+  }, {
+    "tStartMs": 170634,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "也有两瓶\nyě yǒu liǎng píng"
+    } ]
+  }, {
+    "tStartMs": 173314,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "两瓶瓶装水\nliǎng píng píng zhuāng shuǐ"
+    } ]
+  }, {
+    "tStartMs": 176794,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "除了水\nchú le shuǐ"
+    } ]
+  }, {
+    "tStartMs": 179074,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "还有纸巾\nhuán yǒu zhǐ jīn"
+    } ]
+  }, {
+    "tStartMs": 181074,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "店家还给了纸巾\ndiàn jiā huán gěi le zhǐ jīn"
+    } ]
+  }, {
+    "tStartMs": 184794,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "这是空调的遥控器\nzhè shì kōng tiáo de yáo kòng qì"
+    } ]
+  }, {
+    "tStartMs": 190394,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "空调\nkōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 192074,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "空调在这里\nkōng tiáo zài zhè lǐ"
+    } ]
+  }, {
+    "tStartMs": 195314,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这是空调\nzhè shì kōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 198074,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "空调\nkōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 200074,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "可以吹出冷风的空调\nkě yǐ chuī chū lěng fēng de kōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 205074,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "空调\nkōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 207394,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "这就是操控\nzhè jiù shì cāo kòng"
+    } ]
+  }, {
+    "tStartMs": 211074,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "操控空调的遥控器\ncāo kòng kōng tiáo de yáo kòng qì"
+    } ]
+  }, {
+    "tStartMs": 215554,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "遥控器\nyáo kòng qì"
+    } ]
+  }, {
+    "tStartMs": 217234,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "空调\nkōng tiáo"
+    } ]
+  }, {
+    "tStartMs": 222554,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "旁边\npáng biān"
+    } ]
+  }, {
+    "tStartMs": 224074,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "旁边还有一个垃圾桶\npáng biān huán yǒu yí gè lā jī tǒng"
+    } ]
+  }, {
+    "tStartMs": 228154,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "垃圾桶可以丢\nlā jī tǒng kě yǐ diū"
+    } ]
+  }, {
+    "tStartMs": 231394,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "丢垃圾或者扔\ndiū lā jī huò zhě rēng"
+    } ]
+  }, {
+    "tStartMs": 234074,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "扔垃圾到垃圾桶里面\nrēng lā jī dào lā jī tǒng lǐ miàn"
+    } ]
+  }, {
+    "tStartMs": 240074,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "垃圾桶\nlā jī tǒng"
+    } ]
+  }, {
+    "tStartMs": 242337,
+    "dDurationMs": 2572,
+    "segs": [ {
+      "utf8": "这是一个自动麻将机\nzhè shì yí gè zì dòng má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 245029,
+    "dDurationMs": 2548,
+    "segs": [ {
+      "utf8": "自动的麻将机\nzì dòng de má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 248017,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "自动的麻将机\nzì dòng de má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 252017,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "它是一个大的机器\ntā shì yí gè dà de jī qì"
+    } ]
+  }, {
+    "tStartMs": 256657,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "是机器\nshì jī qì"
+    } ]
+  }, {
+    "tStartMs": 258497,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "这些就是麻将\nzhèi xiē jiù shì má jiāng"
+    } ]
+  }, {
+    "tStartMs": 262017,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "这些是麻将\nzhèi xiē shì má jiāng"
+    } ]
+  }, {
+    "tStartMs": 265177,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "麻将\nmá jiāng"
+    } ]
+  }, {
+    "tStartMs": 266417,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这个机子\nzhè gè jī zǐ"
+    } ]
+  }, {
+    "tStartMs": 269017,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "这台机子可以自动\nzhè tái jī zǐ kě yǐ zì dòng"
+    } ]
+  }, {
+    "tStartMs": 273177,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "自动洗麻将\nzì dòng xǐ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 276177,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "洗麻将\nxǐ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 278257,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "然后把它们排好\nrán hòu bǎ tā men pái hǎo"
+    } ]
+  }, {
+    "tStartMs": 282977,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "整齐\nzhěng qí"
+    } ]
+  }, {
+    "tStartMs": 284417,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "排列整齐\npái liè zhěng qí"
+    } ]
+  }, {
+    "tStartMs": 286737,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "这就是自动麻将机\nzhè jiù shì zì dòng má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 291177,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "有了自动麻将机\nyǒu le zì dòng má jiāng jī"
+    } ]
+  }, {
+    "tStartMs": 295177,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "我们就不需要自己手动洗麻将\nwǒ men jiù bù xū yào zì jǐ shǒu dòng xǐ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 302719,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "现在这些麻将\nxiàn zài zhèi xiē má jiāng"
+    } ]
+  }, {
+    "tStartMs": 307621,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "这些麻将是乱的\nzhèi xiē má jiāng shì luàn de"
+    } ]
+  }, {
+    "tStartMs": 310159,
+    "dDurationMs": 1141,
+    "segs": [ {
+      "utf8": "乱的\nluàn de"
+    } ]
+  }, {
+    "tStartMs": 312959,
+    "dDurationMs": 5222,
+    "segs": [ {
+      "utf8": "所以我们可以按一下按钮\nsuǒ yǐ wǒ men kě yǐ àn yī xià àn niǔ"
+    } ]
+  }, {
+    "tStartMs": 318330,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "这些是按钮\nzhèi xiē shì àn niǔ"
+    } ]
+  }, {
+    "tStartMs": 321514,
+    "dDurationMs": 4975,
+    "segs": [ {
+      "utf8": "是自动麻将机的按钮\nshì zì dòng má jiāng jī de àn niǔ"
+    } ]
+  }, {
+    "tStartMs": 326516,
+    "dDurationMs": 2486,
+    "segs": [ {
+      "utf8": "我们按一下\nwǒ men àn yī xià"
+    } ]
+  }, {
+    "tStartMs": 330679,
+    "dDurationMs": 9362,
+    "segs": [ {
+      "utf8": "然后把这些乱的麻将推下去\nrán hòu bǎ zhèi xiē luàn de má jiāng tuī xià qù"
+    } ]
+  }, {
+    "tStartMs": 340264,
+    "dDurationMs": 6116,
+    "segs": [ {
+      "utf8": "把所有麻将推下去\nbǎ suǒ yǒu má jiāng tuī xià qù"
+    } ]
+  }, {
+    "tStartMs": 349246,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "把麻将都推下去\nbǎ má jiāng dū tuī xià qù"
+    } ]
+  }, {
+    "tStartMs": 354753,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "让机器来洗麻将\nràng jī qì lái xǐ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 362509,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "所有麻将都推了下去,推下去\nsuǒ yǒu má jiāng dū tuī le xià qù, tuī xià qù"
+    } ]
+  }, {
+    "tStartMs": 368902,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "我们再按一下\nwǒ men zài àn yī xià"
+    } ]
+  }, {
+    "tStartMs": 371447,
+    "dDurationMs": 2107,
+    "segs": [ {
+      "utf8": "再按一下按钮\nzài àn yī xià àn niǔ"
+    } ]
+  }, {
+    "tStartMs": 375154,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "机器会自动\njī qì huì zì dòng"
+    } ]
+  }, {
+    "tStartMs": 376834,
+    "dDurationMs": 5762,
+    "segs": [ {
+      "utf8": "自动把洗好的麻将\nzì dòng bǎ xǐ hǎo de má jiāng"
+    } ]
+  }, {
+    "tStartMs": 382754,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "把洗好的麻将升上来\nbǎ xǐ hǎo de má jiāng shēng shàng lái"
+    } ]
+  }, {
+    "tStartMs": 388754,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "这样我们就有了一副\nzhè yàng wǒ men jiù yǒu le yī fù"
+    } ]
+  }, {
+    "tStartMs": 393034,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "一副整齐的麻将\nyī fù zhěng qí de má jiāng"
+    } ]
+  }, {
+    "tStartMs": 397354,
+    "dDurationMs": 4991,
+    "segs": [ {
+      "utf8": "现在有了一副整齐的麻将\nxiàn zài yǒu le yī fù zhěng qí de má jiāng"
+    } ]
+  }, {
+    "tStartMs": 403074,
+    "dDurationMs": 3068,
+    "segs": [ {
+      "utf8": "机器现在在里面\njī qì xiàn zài zài lǐ miàn"
+    } ]
+  }, {
+    "tStartMs": 406274,
+    "dDurationMs": 1782,
+    "segs": [ {
+      "utf8": "在里面洗\nzài lǐ miàn xǐ"
+    } ]
+  }, {
+    "tStartMs": 408132,
+    "dDurationMs": 2422,
+    "segs": [ {
+      "utf8": "在里面洗麻将\nzài lǐ miàn xǐ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 411434,
+    "dDurationMs": 5635,
+    "segs": [ {
+      "utf8": "因为一台机器有两副麻将\nyīn wèi yī tái jī qì yǒu liǎng fù má jiāng"
+    } ]
+  }, {
+    "tStartMs": 417274,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "有两副麻将\nyǒu liǎng fù má jiāng"
+    } ]
+  }, {
+    "tStartMs": 420114,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "它现在在里面\ntā xiàn zài zài lǐ miàn"
+    } ]
+  }, {
+    "tStartMs": 422954,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "在里面洗另外一副\nzài lǐ miàn xǐ lìng wài yī fù"
+    } ]
+  }, {
+    "tStartMs": 427248,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "我的朋友们\nwǒ de péng yǒu mén"
+    } ]
+  }, {
+    "tStartMs": 430248,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "另外三位朋友都还没到\nlìng wài sān wèi péng yǒu dū huán méi dào"
+    } ]
+  }, {
+    "tStartMs": 436848,
+    "dDurationMs": 5965,
+    "segs": [ {
+      "utf8": "他们现在还没有到这里\ntā men xiàn zài huán méi yǒu dào zhè lǐ"
+    } ]
+  }, {
+    "tStartMs": 443008,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "所以我要等\nsuǒ yǐ wǒ yào děng"
+    } ]
+  }, {
+    "tStartMs": 445608,
+    "dDurationMs": 2654,
+    "segs": [ {
+      "utf8": "等他们\nděng tā men"
+    } ]
+  }, {
+    "tStartMs": 448488,
+    "dDurationMs": 5882,
+    "segs": [ {
+      "utf8": "等所有人四个人都到齐了\nděng suǒ yǒu rén sì gè rén dū dào qí le"
+    } ]
+  }, {
+    "tStartMs": 454624,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "才可以开始打麻将\ncái kě yǐ kāi shǐ dǎ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 459968,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "因为麻将就是要四个人\nyīn wèi má jiāng jiù shì yào sì gè rén"
+    } ]
+  }, {
+    "tStartMs": 464866,
+    "dDurationMs": 4446,
+    "segs": [ {
+      "utf8": "才能开始玩的游戏\ncái néng kāi shǐ wán de yóu xì"
+    } ]
+  }, {
+    "tStartMs": 469445,
+    "dDurationMs": 4397,
+    "segs": [ {
+      "utf8": "我现在在等他们\nwǒ xiàn zài zài děng tā men"
+    } ]
+  }, {
+    "tStartMs": 473888,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "所以我有时间可以先跟你们\nsuǒ yǐ wǒ yǒu shí jiān kě yǐ xiān gēn nǐ men"
+    } ]
+  }, {
+    "tStartMs": 480328,
+    "dDurationMs": 4712,
+    "segs": [ {
+      "utf8": "说一说麻将的牌\nshuō yī shuō má jiāng de pái"
+    } ]
+  }, {
+    "tStartMs": 485328,
+    "dDurationMs": 4777,
+    "segs": [ {
+      "utf8": "这些麻将也叫做牌\nzhèi xiē má jiāng yě jiào zuò pái"
+    } ]
+  }, {
+    "tStartMs": 490408,
+    "dDurationMs": 3772,
+    "segs": [ {
+      "utf8": "一张牌,两张,三张\nyī zhāng pái, liǎng zhāng, sān zhāng"
+    } ]
+  }, {
+    "tStartMs": 494408,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "它们是麻将\ntā men shì má jiāng"
+    } ]
+  }, {
+    "tStartMs": 497328,
+    "dDurationMs": 5644,
+    "segs": [ {
+      "utf8": "但是我们也会把它们叫做牌\ndàn shì wǒ men yě huì bǎ tā men jiào zuò pái"
+    } ]
+  }, {
+    "tStartMs": 503068,
+    "dDurationMs": 4695,
+    "segs": [ {
+      "utf8": "我可以给你们介绍一下\nwǒ kě yǐ gěi nǐ men jiè shào yī xià"
+    } ]
+  }, {
+    "tStartMs": 507848,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "这些麻将牌的中文怎么说\nzhèi xiē má jiāng pái de zhōng wén zěn mó shuō"
+    } ]
+  }, {
+    "tStartMs": 514355,
+    "dDurationMs": 4317,
+    "segs": [ {
+      "utf8": "在中国大部分麻将\nzài zhōng guó dà bù fèn má jiāng"
+    } ]
+  }, {
+    "tStartMs": 518728,
+    "dDurationMs": 5046,
+    "segs": [ {
+      "utf8": "都是由这些牌组成的\ndū shì yóu zhèi xiē pái zǔ chéng de"
+    } ]
+  }, {
+    "tStartMs": 524075,
+    "dDurationMs": 5555,
+    "segs": [ {
+      "utf8": "这一排叫做万子\nzhè yī pái jiào zuò wàn zǐ"
+    } ]
+  }, {
+    "tStartMs": 529722,
+    "dDurationMs": 1205,
+    "segs": [ {
+      "utf8": "万子\nwàn zǐ"
+    } ]
+  }, {
+    "tStartMs": 531195,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "因为它们是一万\nyīn wèi tā men shì yī wàn"
+    } ]
+  }, {
+    "tStartMs": 535835,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "两万\nliǎng wàn"
+    } ]
+  }, {
+    "tStartMs": 537115,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "三万\nsān wàn"
+    } ]
+  }, {
+    "tStartMs": 538515,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "四万\nsì wàn"
+    } ]
+  }, {
+    "tStartMs": 540075,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "五,六,七,八,九万\nwǔ, liù, qī, bā, jiǔ wàn"
+    } ]
+  }, {
+    "tStartMs": 544435,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "九张万子牌\njiǔ zhāng wàn zǐ pái"
+    } ]
+  }, {
+    "tStartMs": 550675,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "所以这些是万子\nsuǒ yǐ zhèi xiē shì wàn zǐ"
+    } ]
+  }, {
+    "tStartMs": 555435,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "万,九万\nwàn, jiǔ wàn"
+    } ]
+  }, {
+    "tStartMs": 558127,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "第二排,这一排叫做筒\ndì èr pái, zhè yī pái jiào zuò tǒng"
+    } ]
+  }, {
+    "tStartMs": 564915,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "比如这是一筒\nbǐ rú zhè shì yī tǒng"
+    } ]
+  }, {
+    "tStartMs": 568355,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "二筒\nèr tǒng"
+    } ]
+  }, {
+    "tStartMs": 569955,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "三筒\nsān tǒng"
+    } ]
+  }, {
+    "tStartMs": 571595,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "四筒\nsì tǒng"
+    } ]
+  }, {
+    "tStartMs": 573435,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "五,六,七,八,九筒\nwǔ, liù, qī, bā, jiǔ tǒng"
+    } ]
+  }, {
+    "tStartMs": 578915,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "筒子,这些叫做筒子牌\ntǒng zǐ, zhèi xiē jiào zuò tǒng zǐ pái"
+    } ]
+  }, {
+    "tStartMs": 585035,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "筒子牌\ntǒng zǐ pái"
+    } ]
+  }, {
+    "tStartMs": 586955,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "九筒\njiǔ tǒng"
+    } ]
+  }, {
+    "tStartMs": 588115,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "八筒\nbā tǒng"
+    } ]
+  }, {
+    "tStartMs": 589195,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "七筒\nqī tǒng"
+    } ]
+  }, {
+    "tStartMs": 590275,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "六筒\nliù tǒng"
+    } ]
+  }, {
+    "tStartMs": 591435,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "五筒\nwǔ tǒng"
+    } ]
+  }, {
+    "tStartMs": 592515,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "筒子牌\ntǒng zǐ pái"
+    } ]
+  }, {
+    "tStartMs": 594195,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "它们都是九,从一到九\ntā men dū shì jiǔ, cóng yī dào jiǔ"
+    } ]
+  }, {
+    "tStartMs": 599115,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "一万到九万\nyī wàn dào jiǔ wàn"
+    } ]
+  }, {
+    "tStartMs": 601515,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "一筒到九筒\nyī tǒng dào jiǔ tǒng"
+    } ]
+  }, {
+    "tStartMs": 604419,
+    "dDurationMs": 7216,
+    "segs": [ {
+      "utf8": "筒子牌的上面这一牌叫做条子\ntǒng zǐ pái de shàng miàn zhè yī pái jiào zuò tiáo zǐ"
+    } ]
+  }, {
+    "tStartMs": 612195,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "比如一条\nbǐ rú yī tiáo"
+    } ]
+  }, {
+    "tStartMs": 614755,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "二条\nèr tiáo"
+    } ]
+  }, {
+    "tStartMs": 616115,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "三条\nsān tiáo"
+    } ]
+  }, {
+    "tStartMs": 617515,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "四条\nsì tiáo"
+    } ]
+  }, {
+    "tStartMs": 619075,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "五条\nwǔ tiáo"
+    } ]
+  }, {
+    "tStartMs": 620410,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "六七八九\nliù qī bā jiǔ"
+    } ]
+  }, {
+    "tStartMs": 623010,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "其实就是它们上面的图案\nqí shí jiù shì tā men shàng miàn de tú àn"
+    } ]
+  }, {
+    "tStartMs": 627010,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "这个图案\nzhè gè tú àn"
+    } ]
+  }, {
+    "tStartMs": 628530,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "比如这有六个筒\nbǐ rú zhè yǒu liù gè tǒng"
+    } ]
+  }, {
+    "tStartMs": 632850,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "圆圈\nyuán quān"
+    } ]
+  }, {
+    "tStartMs": 634290,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "圆圈,筒\nyuán quān, tǒng"
+    } ]
+  }, {
+    "tStartMs": 635610,
+    "dDurationMs": 1198,
+    "segs": [ {
+      "utf8": "这有六个\nzhè yǒu liù gè"
+    } ]
+  }, {
+    "tStartMs": 636850,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "所以它是六\nsuǒ yǐ tā shì liù"
+    } ]
+  }, {
+    "tStartMs": 638290,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "六筒\nliù tǒng"
+    } ]
+  }, {
+    "tStartMs": 641170,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "这有一二三四五六\nzhè yǒu yī èr sān sì wǔ liù"
+    } ]
+  }, {
+    "tStartMs": 644016,
+    "dDurationMs": 3274,
+    "segs": [ {
+      "utf8": "有六个小竖条\nyǒu liù gè xiǎo shù tiáo"
+    } ]
+  }, {
+    "tStartMs": 647930,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "一条两条三条\nyī tiáo liǎng tiáo sān tiáo"
+    } ]
+  }, {
+    "tStartMs": 649770,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "所以它是六条\nsuǒ yǐ tā shì liù tiáo"
+    } ]
+  }, {
+    "tStartMs": 650970,
+    "dDurationMs": 2078,
+    "segs": [ {
+      "utf8": "六条\nliù tiáo"
+    } ]
+  }, {
+    "tStartMs": 653170,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "这一排就是条子\nzhè yī pái jiù shì tiáo zǐ"
+    } ]
+  }, {
+    "tStartMs": 656770,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "条\ntiáo"
+    } ]
+  }, {
+    "tStartMs": 657290,
+    "dDurationMs": 1536,
+    "segs": [ {
+      "utf8": "条子牌\ntiáo zǐ pái"
+    } ]
+  }, {
+    "tStartMs": 658957,
+    "dDurationMs": 2053,
+    "segs": [ {
+      "utf8": "一条到九条\nyī tiáo dào jiǔ tiáo"
+    } ]
+  }, {
+    "tStartMs": 662490,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "再上面\nzài shàng miàn"
+    } ]
+  }, {
+    "tStartMs": 663290,
+    "dDurationMs": 4668,
+    "segs": [ {
+      "utf8": "上面这一排是汉字\nshàng miàn zhè yī pái shì hàn zì"
+    } ]
+  }, {
+    "tStartMs": 668250,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这有一些汉字和一个图案\nzhè yǒu yī xiē hàn zì hé yí gè tú àn"
+    } ]
+  }, {
+    "tStartMs": 672010,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "这就是东\nzhè jiù shì dōng"
+    } ]
+  }, {
+    "tStartMs": 673930,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "南\nnán"
+    } ]
+  }, {
+    "tStartMs": 674690,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "西\nxī"
+    } ]
+  }, {
+    "tStartMs": 675628,
+    "dDurationMs": 575,
+    "segs": [ {
+      "utf8": "北\nběi"
+    } ]
+  }, {
+    "tStartMs": 676770,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "中\nzhōng"
+    } ]
+  }, {
+    "tStartMs": 677450,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "因为这个中的汉字是红色的\nyīn wèi zhè gè zhōng de hàn zì shì hóng sè de"
+    } ]
+  }, {
+    "tStartMs": 682530,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "它是红色\ntā shì hóng sè"
+    } ]
+  }, {
+    "tStartMs": 684290,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "红色的中\nhóng sè de zhōng"
+    } ]
+  }, {
+    "tStartMs": 686041,
+    "dDurationMs": 5007,
+    "segs": [ {
+      "utf8": "所以我们会把这张牌叫做红中\nsuǒ yǐ wǒ men huì bǎ zhè zhāng pái jiào zuò hóng zhōng"
+    } ]
+  }, {
+    "tStartMs": 691530,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "红中牌\nhóng zhōng pái"
+    } ]
+  }, {
+    "tStartMs": 693850,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "这是发财\nzhè shì fā cái"
+    } ]
+  }, {
+    "tStartMs": 696290,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "发财\nfā cái"
+    } ]
+  }, {
+    "tStartMs": 697450,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "这个汉字是发财的\nzhè gè hàn zì shì fā cái de"
+    } ]
+  }, {
+    "tStartMs": 701046,
+    "dDurationMs": 2164,
+    "segs": [ {
+      "utf8": "发的繁体字\nfā de fán tǐ zì"
+    } ]
+  }, {
+    "tStartMs": 703690,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "繁体字\nfán tǐ zì"
+    } ]
+  }, {
+    "tStartMs": 705056,
+    "dDurationMs": 2154,
+    "segs": [ {
+      "utf8": "这是发财牌\nzhè shì fā cái pái"
+    } ]
+  }, {
+    "tStartMs": 707850,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "最后这张是白板\nzuì hòu zhè zhāng shì bái bǎn"
+    } ]
+  }, {
+    "tStartMs": 710290,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "白板牌\nbái bǎn pái"
+    } ]
+  }, {
+    "tStartMs": 712610,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "我们叫做白板牌\nwǒ men jiào zuò bái bǎn pái"
+    } ]
+  }, {
+    "tStartMs": 716010,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "那整副麻将牌\nnà zhěng fù má jiāng pái"
+    } ]
+  }, {
+    "tStartMs": 719690,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "基本是由这些牌\njī běn shì yóu zhèi xiē pái"
+    } ]
+  }, {
+    "tStartMs": 723770,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "这些万子\nzhèi xiē wàn zǐ"
+    } ]
+  }, {
+    "tStartMs": 725450,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "筒子\ntǒng zǐ"
+    } ]
+  }, {
+    "tStartMs": 726290,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "条子和汉字的这些牌组成的\ntiáo zǐ hé hàn zì de zhèi xiē pái zǔ chéng de"
+    } ]
+  }, {
+    "tStartMs": 731450,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "因为中国有很多城市\nyīn wèi zhōng guó yǒu hěn duō chéng shì"
+    } ]
+  }, {
+    "tStartMs": 735690,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "每个城市打麻将的规矩\nměi gè chéng shì dǎ má jiāng de guī jǔ"
+    } ]
+  }, {
+    "tStartMs": 740690,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "规则不一样\nguī zé bù yī yàng"
+    } ]
+  }, {
+    "tStartMs": 743290,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "所以有时候牌也会不太一样\nsuǒ yǐ yǒu shí hòu pái yě huì bù tài yī yàng"
+    } ]
+  }, {
+    "tStartMs": 749530,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "比如有些人打麻将\nbǐ rú yǒu xiē rén dǎ má jiāng"
+    } ]
+  }, {
+    "tStartMs": 753450,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "不要\nbú yào"
+    } ]
+  }, {
+    "tStartMs": 754770,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "不要这些汉字\nbú yào zhèi xiē hàn zì"
+    } ]
+  }, {
+    "tStartMs": 757850,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "不要这些有汉字的牌\nbú yào zhèi xiē yǒu hàn zì de pái"
+    } ]
+  }, {
+    "tStartMs": 761610,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "他们只用这些\ntā men zhī yòng zhèi xiē"
+    } ]
+  }, {
+    "tStartMs": 764850,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "所以这就是麻将\nsuǒ yǐ zhè jiù shì má jiāng"
+    } ]
+  }, {
+    "tStartMs": 768690,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "麻将的牌\nmá jiāng de pái"
+    } ]
+  }, {
+    "tStartMs": 771530,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "牌\npái"
+    } ]
+  }, {
+    "tStartMs": 772898,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这是骰子\nzhè shì tóu zǐ"
+    } ]
+  }, {
+    "tStartMs": 775458,
+    "dDurationMs": 160,
+    "segs": [ {
+      "utf8": "骰子\ntóu zǐ"
+    } ]
+  }, {
+    "tStartMs": 775978,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "这里面有两颗骰子\nzhè lǐ miàn yǒu liǎng kē tóu zǐ"
+    } ]
+  }, {
+    "tStartMs": 780298,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "有一个按钮\nyǒu yí gè àn niǔ"
+    } ]
+  }, {
+    "tStartMs": 782050,
+    "dDurationMs": 1074,
+    "segs": [ {
+      "utf8": "按钮\nàn niǔ"
+    } ]
+  }, {
+    "tStartMs": 783214,
+    "dDurationMs": 1444,
+    "segs": [ {
+      "utf8": "我按一下\nwǒ àn yī xià"
+    } ]
+  }, {
+    "tStartMs": 784898,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "打骰\ndǎ tóu"
+    } ]
+  }, {
+    "tStartMs": 786218,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "打骰\ndǎ tóu"
+    } ]
+  }, {
+    "tStartMs": 786658,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "摇骰子\nyáo tóu zǐ"
+    } ]
+  }, {
+    "tStartMs": 788658,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "我按一下\nwǒ àn yī xià"
+    } ]
+  }, {
+    "tStartMs": 794058,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "骰子的结果\ntóu zǐ de jié guǒ"
+    } ]
+  }, {
+    "tStartMs": 796218,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "然后我要摸牌\nrán hòu wǒ yào mō pái"
+    } ]
+  }, {
+    "tStartMs": 798138,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "拿牌\nná pái"
+    } ]
+  }, {
+    "tStartMs": 798658,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "从哪里开始\ncóng nǎ lǐ kāi shǐ"
+    } ]
+  }, {
+    "tStartMs": 799579,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "现在每个人拿自己的牌\nxiàn zài měi gè rén ná zì jǐ de pái"
+    } ]
+  }, {
+    "tStartMs": 806939,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "每人13\nměi rén 13"
+    } ]
+  }, {
+    "tStartMs": 808859,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "13张牌\n13 zhāng pái"
+    } ]
+  }, {
+    "tStartMs": 813339,
+    "dDurationMs": 561,
+    "segs": [ {
+      "utf8": "跳了对不对\ntiào le duì bù duì"
+    } ]
+  }, {
+    "tStartMs": 817499,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这些就是我的牌\nzhèi xiē jiù shì wǒ de pái"
+    } ]
+  }, {
+    "tStartMs": 821739,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "现在轮到我摸牌\nxiàn zài lún dào wǒ mō pái"
+    } ]
+  }, {
+    "tStartMs": 823859,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "我摸牌\nwǒ mō pái"
+    } ]
+  }, {
+    "tStartMs": 824859,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "拿一张牌就叫摸牌\nná yī zhāng pái jiù jiào mō pái"
+    } ]
+  }, {
+    "tStartMs": 828179,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "摸了一张牌要出\nmō le yī zhāng pái yào chū"
+    } ]
+  }, {
+    "tStartMs": 830859,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "出掉一张牌\nchū diào yī zhāng pái"
+    } ]
+  }, {
+    "tStartMs": 833819,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "保持自己的牌是13张\nbǎo chí zì jǐ de pái shì 13 zhāng"
+    } ]
+  }, {
+    "tStartMs": 837859,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "13张牌\n13 zhāng pái"
+    } ]
+  }, {
+    "tStartMs": 840419,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "出牌和摸牌\nchū pái hé mō pái"
+    } ]
+  }, {
+    "tStartMs": 845019,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "现在轮到我的下家\nxiàn zài lún dào wǒ de xià jiā"
+    } ]
+  }, {
+    "tStartMs": 847859,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "出牌\nchū pái"
+    } ]
+  }, {
+    "tStartMs": 849339,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "他出了一张三筒\ntā chū le yī zhāng sān tǒng"
+    } ]
+  }, {
+    "tStartMs": 854271,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "我胡牌了\nwǒ hú pái le"
+    } ]
+  }, {
+    "tStartMs": 856568,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "现在我的牌\nxiàn zài wǒ de pái"
+    } ]
+  }, {
+    "tStartMs": 858408,
+    "dDurationMs": 4462,
+    "segs": [ {
+      "utf8": "我刚刚摸了六索,六条,六条\nwǒ gāng gāng mō le liù suǒ, liù tiáo, liù tiáo"
+    } ]
+  }, {
+    "tStartMs": 863558,
+    "dDurationMs": 6356,
+    "segs": [ {
+      "utf8": "现在我的牌凑成了胡牌的牌式\nxiàn zài wǒ de pái còu chéng le hú pái de pái shì"
+    } ]
+  }, {
+    "tStartMs": 870474,
+    "dDurationMs": 2731,
+    "segs": [ {
+      "utf8": "所以我属于自摸\nsuǒ yǐ wǒ shǔ yú zì mō"
+    } ]
+  }, {
+    "tStartMs": 873325,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "我自摸胡牌\nwǒ zì mō hú pái"
+    } ]
+  }, {
+    "tStartMs": 875684,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这就是胡牌\nzhè jiù shì hú pái"
+    } ]
+  }, {
+    "tStartMs": 894626,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我现在打完麻将了\nwǒ xiàn zài dǎ wán má jiāng le"
+    } ]
+  }, {
+    "tStartMs": 898826,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "你们猜猜我今天是赢了还是输了?\nnǐ men cāi cāi wǒ jīn tiān shì yíng le hái shì shū le ?"
+    } ]
+  }, {
+    "tStartMs": 906386,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "你们会打麻将吗?\nnǐ men huì dǎ má jiāng ma ?"
+    } ]
+  }, {
+    "tStartMs": 909948,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "你们想学学中国麻将怎么打吗?\nnǐ men xiǎng xué xué zhōng guó má jiāng zěn me dǎ ma ?"
+    } ]
+  }, {
+    "tStartMs": 917188,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "可以在下面的评论区告诉我\nkě yǐ zài xià miàn de píng lùn qū gào sù wǒ"
+    } ]
+  }, {
+    "tStartMs": 922268,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "谢谢观看,下个视频再见!\nxiè xiè guān kàn, xià gè shì pín zài jiàn !"
+    } ]
+  }, {
+    "tStartMs": 927532,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "你们会打麻将吗?\nnǐ men huì dǎ má jiāng ma ?"
+    } ]
+  }, {
+    "tStartMs": 931452,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "你们想...\nnǐ men xiǎng..."
+    } ]
+  }, {
+    "tStartMs": 933372,
+    "dDurationMs": 160,
+    "segs": [ {
+      "utf8": "哇!\nwā !"
+    } ]
+  } ]
+}

@@ -1,0 +1,1531 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 287,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "你们好，我是 Jade。\nnǐ men hǎo， wǒ shì Jade。\nHello, I’m Jade."
+    } ]
+  }, {
+    "tStartMs": 3279,
+    "dDurationMs": 2406,
+    "segs": [ {
+      "utf8": "我现在在厨房，\nwǒ xiàn zài zài chú fáng，\nI’m in the kitchen right now,"
+    } ]
+  }, {
+    "tStartMs": 5967,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "厨房。这里是厨房，\nchú fáng。 zhè lǐ shì chú fáng，\nthe kitchen. This is the kitchen,"
+    } ]
+  }, {
+    "tStartMs": 10207,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我在家里的厨房。\nwǒ zài jiā lǐ de chú fáng。\nI’m in the kitchen at home."
+    } ]
+  }, {
+    "tStartMs": 13087,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "因为我准备自己煮点东西吃。\nyīn wèi wǒ zhǔn bèi zì jǐ zhǔ diǎn dōng xī chī。\nbecause I’m preparing to cook something for myself."
+    } ]
+  }, {
+    "tStartMs": 18207,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "我现在肚子很饿，\nwǒ xiàn zài dǔ zi hěn è，\nI’m really hungry right now,"
+    } ]
+  }, {
+    "tStartMs": 22287,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我肚子饿了，\nwǒ dǔ zi è le，\nI’m hungry,"
+    } ]
+  }, {
+    "tStartMs": 24127,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "很想吃东西。\nhěn xiǎng chī dōng xī。\nand I really want to eat something."
+    } ]
+  }, {
+    "tStartMs": 26573,
+    "dDurationMs": 3315,
+    "segs": [ {
+      "utf8": "我打算自己煮点吃的。\nwǒ dǎ suàn zì jǐ zhǔ diǎn chī de。\nI’m planning to cook something for myself."
+    } ]
+  }, {
+    "tStartMs": 30607,
+    "dDurationMs": 2398,
+    "segs": [ {
+      "utf8": "那我要煮什么呢？\nnà wǒ yào zhǔ shén me ne ？\nSo what am I going to cook?"
+    } ]
+  }, {
+    "tStartMs": 33407,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "就是螺丝粉。\njiù shì luó sī fěn。\nIt’s luosifen."
+    } ]
+  }, {
+    "tStartMs": 36527,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "螺丝粉，它是一种米粉。\nluó sī fěn， tā shì yī zhǒng mǐ fěn。\nLuosifen is a type of rice noodle."
+    } ]
+  }, {
+    "tStartMs": 40687,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "米粉，它的味道很特别，\nmǐ fěn， tā de wèi dào hěn tè bié，\nRice noodles have a very distinctive flavor,"
+    } ]
+  }, {
+    "tStartMs": 44847,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "味道很特别的一种米粉叫做\nwèi dào hěn tè bié de yī zhǒng mǐ fěn jiào zuò\na type of rice noodle with a very distinctive flavor is called"
+    } ]
+  }, {
+    "tStartMs": 49334,
+    "dDurationMs": 2393,
+    "segs": [ {
+      "utf8": "螺蛳粉。好了，\nluó sī fěn。 hǎo le，\nluosifen. Okay,"
+    } ]
+  }, {
+    "tStartMs": 52047,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "我现在要开始煮螺丝粉。\nwǒ xiàn zài yào kāi shǐ zhǔ luó sī fěn。\nI’m going to start cooking luosifen now."
+    } ]
+  }, {
+    "tStartMs": 59721,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是一个锅，\nzhè shì yí gè guō，\nThis is a pot,"
+    } ]
+  }, {
+    "tStartMs": 62441,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "一个小锅，它不大，\nyí gè xiǎo guō， tā bù dà，\na small pot. It’s not big,"
+    } ]
+  }, {
+    "tStartMs": 66281,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "它比较小，\ntā bǐ jiào xiǎo，\nit’s relatively small,"
+    } ]
+  }, {
+    "tStartMs": 68361,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "所以是一个小的锅。\nsuǒ yǐ shì yí gè xiǎo de guō。\nso it’s a small pot."
+    } ]
+  }, {
+    "tStartMs": 71081,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "我要用这个锅来煮螺蛳粉，\nwǒ yào yòng zhè gè guō lái zhǔ luó sī fěn，\nI’m going to use this pot to cook luosifen,"
+    } ]
+  }, {
+    "tStartMs": 75801,
+    "dDurationMs": 3551,
+    "segs": [ {
+      "utf8": "用这个锅来煮螺蛳粉。\nyòng zhè gè guō lái zhǔ luó sī fěn。\nuse this pot to cook luosifen."
+    } ]
+  }, {
+    "tStartMs": 79881,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "一个小锅，它有一个盖子，\nyí gè xiǎo guō， tā yǒu yí gè gài zi，\nIt’s a small pot, and it has a lid,"
+    } ]
+  }, {
+    "tStartMs": 83721,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是盖子，盖子，\nzhè shì gài zi， gài zi，\nthis is the lid, the lid,"
+    } ]
+  }, {
+    "tStartMs": 86361,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "盖子和锅本身，\ngài zi hé guō běn shēn，\nthe lid and the pot itself,"
+    } ]
+  }, {
+    "tStartMs": 89241,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "盖子，小锅\ngài zi， xiǎo guō\nthe lid, the small pot"
+    } ]
+  }, {
+    "tStartMs": 92721,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是热水壶，\nzhè shì rè shuǐ hú，\nthis is a kettle,"
+    } ]
+  }, {
+    "tStartMs": 95041,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "热水壶，它是一个水壶，\nrè shuǐ hú， tā shì yí gè shuǐ hú，\na kettle. It’s a water kettle,"
+    } ]
+  }, {
+    "tStartMs": 98641,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "水壶里面有水，\nshuǐ hú lǐ miàn yǒu shuǐ，\nthere is water in the kettle,"
+    } ]
+  }, {
+    "tStartMs": 101441,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "喝的，喝的水。\nhē de， hē de shuǐ。\ndrinking water, water for drinking."
+    } ]
+  }, {
+    "tStartMs": 104241,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我要把一些水倒，\nwǒ yào bǎ yī xiē shuǐ dǎo，\nI’m going to pour some water,"
+    } ]
+  }, {
+    "tStartMs": 108081,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "倒进小锅里面来煮粉。\ndǎo jìn xiǎo guō lǐ miàn lái zhǔ fěn。\ninto the small pot to cook the noodles."
+    } ]
+  }, {
+    "tStartMs": 112561,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "把水倒进来，\nbǎ shuǐ dǎo jìn lái，\nPour the water in,"
+    } ]
+  }, {
+    "tStartMs": 115041,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "倒进小锅里。\ndǎo jìn xiǎo guō lǐ。\ninto the small pot."
+    } ]
+  }, {
+    "tStartMs": 122241,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "我倒了大概有一半的水，\nwǒ dǎo le dà gài yǒu yī bàn de shuǐ，\nI poured in about half the water,"
+    } ]
+  }, {
+    "tStartMs": 126241,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "倒进小锅里。\ndǎo jìn xiǎo guō lǐ。\ninto the small pot."
+    } ]
+  }, {
+    "tStartMs": 129556,
+    "dDurationMs": 3768,
+    "segs": [ {
+      "utf8": "我现在把螺丝粉的包装\nwǒ xiàn zài bǎ luó sī fěn de bāo zhuāng\nI’m now taking the luosifen package"
+    } ]
+  }, {
+    "tStartMs": 133324,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "它的包装，\ntā de bāo zhuāng，\nits packaging,"
+    } ]
+  }, {
+    "tStartMs": 135335,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我撕开，撕开包装。\nwǒ sī kāi， sī kāi bāo zhuāng。\nand tearing it open, tearing open the package."
+    } ]
+  }, {
+    "tStartMs": 139669,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我把米粉拿出来，\nwǒ bǎ mǐ fěn ná chū lái，\nI take the rice noodles out,"
+    } ]
+  }, {
+    "tStartMs": 143269,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "拿出来。\nná chū lái。\ntake them out."
+    } ]
+  }, {
+    "tStartMs": 146069,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "米粉，\nmǐ fěn，\nRice noodles,"
+    } ]
+  }, {
+    "tStartMs": 148869,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这一小包就是米粉。\nzhè yī xiǎo bāo jiù shì mǐ fěn。\nthis small packet is the rice noodles."
+    } ]
+  }, {
+    "tStartMs": 152229,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "我再把米粉的包装，\nwǒ zài bǎ mǐ fěn de bāo zhuāng，\nI’ll tear open the rice noodle package again,"
+    } ]
+  }, {
+    "tStartMs": 155429,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "包装撕开，\nbāo zhuāng sī kāi，\ntear open the package,"
+    } ]
+  }, {
+    "tStartMs": 159029,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "撕开。里面就\nsī kāi。 lǐ miàn jiù\ntear it open. Inside is"
+    } ]
+  }, {
+    "tStartMs": 163429,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "是米粉，这是干的米粉，\nshì mǐ fěn， zhè shì gān de mǐ fěn，\nthe rice noodles. These are dry rice noodles,"
+    } ]
+  }, {
+    "tStartMs": 167749,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "它是干的，\ntā shì gān de，\nthey’re dry,"
+    } ]
+  }, {
+    "tStartMs": 169749,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "干的米粉，不是湿的，\ngān de mǐ fěn， bú shì shī de，\ndry rice noodles, not wet,"
+    } ]
+  }, {
+    "tStartMs": 173029,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "是干的。\nshì gān de。\nthey’re dry."
+    } ]
+  }, {
+    "tStartMs": 174547,
+    "dDurationMs": 2722,
+    "segs": [ {
+      "utf8": "我现在要把米粉\nwǒ xiàn zài yào bǎ mǐ fěn\nNow I’m going to put the rice noodles"
+    } ]
+  }, {
+    "tStartMs": 178309,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "放进，放进小锅里。\nfàng jìn， fàng jìn xiǎo guō lǐ。\ninto the small pot."
+    } ]
+  }, {
+    "tStartMs": 182593,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这是装了水的，\nzhè shì zhuāng le shuǐ de，\nThis one has water in it,"
+    } ]
+  }, {
+    "tStartMs": 185713,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "里面有水，装了水的小锅。\nlǐ miàn yǒu shuǐ， zhuāng le shuǐ de xiǎo guō。\nthere’s water inside, this small pot with water in it."
+    } ]
+  }, {
+    "tStartMs": 191393,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我把干米粉，\nwǒ bǎ gān mǐ fěn，\nI put the dry rice noodles"
+    } ]
+  }, {
+    "tStartMs": 193953,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "干米粉放进\ngān mǐ fěn fàng jìn\nput the dry rice noodles into"
+    } ]
+  }, {
+    "tStartMs": 196812,
+    "dDurationMs": 2261,
+    "segs": [ {
+      "utf8": "放进小锅里面\nfàng jìn xiǎo guō lǐ miàn\ninto the small pot"
+    } ]
+  }, {
+    "tStartMs": 200820,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "放下去，\nfàng xià qù，\nput them down,"
+    } ]
+  }, {
+    "tStartMs": 203140,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "放下去。\nfàng xià qù。\nput them down."
+    } ]
+  }, {
+    "tStartMs": 205644,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是煤气灶，\nzhè shì méi qì zào，\nThis is the gas stove,"
+    } ]
+  }, {
+    "tStartMs": 208524,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "煤气灶。\nméi qì zào。\nthe gas stove."
+    } ]
+  }, {
+    "tStartMs": 210214,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "我在厨房煮东西，\nwǒ zài chú fáng zhǔ dōng xī，\nI’m cooking in the kitchen,"
+    } ]
+  }, {
+    "tStartMs": 213884,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "用的是煤气，\nyòng de shì méi qì，\nusing gas,"
+    } ]
+  }, {
+    "tStartMs": 216124,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "煤气。这是煤气灶。\nméi qì。 zhè shì méi qì zào。\ngas. This is the gas stove."
+    } ]
+  }, {
+    "tStartMs": 220180,
+    "dDurationMs": 2824,
+    "segs": [ {
+      "utf8": "我现在要点火，\nwǒ xiàn zài yào diǎn huǒ，\nNow I’m going to light it,"
+    } ]
+  }, {
+    "tStartMs": 223724,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "点火，把煤气灶点燃。\ndiǎn huǒ， bǎ méi qì zào diǎn rán。\nlight it, ignite the gas stove."
+    } ]
+  }, {
+    "tStartMs": 227724,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "这是这个煤气灶的按钮，\nzhè shì zhè gè méi qì zào de àn niǔ，\nThis is the button for this gas stove,"
+    } ]
+  }, {
+    "tStartMs": 232044,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "它是按钮。\ntā shì àn niǔ。\nit’s a button."
+    } ]
+  }, {
+    "tStartMs": 233884,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我把火，把火打开。\nwǒ bǎ huǒ， bǎ huǒ dǎ kāi。\nI turn on the fire,"
+    } ]
+  }, {
+    "tStartMs": 241978,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "现在煤气灶，\nxiàn zài méi qì zào，\nnow the gas stove,"
+    } ]
+  }, {
+    "tStartMs": 244458,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "煤气灶有火，\nméi qì zào yǒu huǒ，\nthe gas stove has a flame,"
+    } ]
+  }, {
+    "tStartMs": 246778,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "有火了。\nyǒu huǒ le。\nthere’s a flame now."
+    } ]
+  }, {
+    "tStartMs": 249126,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "我现在有火了，\nwǒ xiàn zài yǒu huǒ le，\nNow that I have a flame,"
+    } ]
+  }, {
+    "tStartMs": 251286,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "再煮，煮米粉，\nzài zhǔ， zhǔ mǐ fěn，\nI’ll keep cooking, cooking the rice noodles,"
+    } ]
+  }, {
+    "tStartMs": 254246,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "先把米粉煮熟。\nxiān bǎ mǐ fěn zhǔ shú。\nfirst cook the rice noodles through."
+    } ]
+  }, {
+    "tStartMs": 259268,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "米粉要煮十分钟，\nmǐ fěn yào zhǔ shí fēn zhōng，\nThe rice noodles need to cook for ten minutes,"
+    } ]
+  }, {
+    "tStartMs": 263188,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "十分钟米粉才可以煮好。\nshí fēn zhōng mǐ fěn cái kě yǐ zhǔ hǎo。\nonly after ten minutes will the noodles be done."
+    } ]
+  }, {
+    "tStartMs": 267908,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "所以我现在等，\nsuǒ yǐ wǒ xiàn zài děng，\nSo now I wait,"
+    } ]
+  }, {
+    "tStartMs": 270868,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我等十分钟之后，\nwǒ děng shí fēn zhōng zhī hòu，\nafter I wait ten minutes,"
+    } ]
+  }, {
+    "tStartMs": 274468,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "米粉煮好。\nmǐ fěn zhǔ hǎo。\nthe noodles will be cooked."
+    } ]
+  }, {
+    "tStartMs": 279259,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "十分钟到了，\nshí fēn zhōng dào le，\nTen minutes is up,"
+    } ]
+  }, {
+    "tStartMs": 281179,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "水开了，\nshuǐ kāi le，\nthe water is boiling,"
+    } ]
+  }, {
+    "tStartMs": 283339,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "锅里的水开了，\nguō lǐ de shuǐ kāi le，\nthe water in the pot is boiling,"
+    } ]
+  }, {
+    "tStartMs": 286299,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "米粉煮好了。\nmǐ fěn zhǔ hǎo le。\nthe noodles are cooked."
+    } ]
+  }, {
+    "tStartMs": 289469,
+    "dDurationMs": 2183,
+    "segs": [ {
+      "utf8": "我现在把火，\nwǒ xiàn zài bǎ huǒ，\nNow I’m going to turn off the fire,"
+    } ]
+  }, {
+    "tStartMs": 292052,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "把火关掉。\nbǎ huǒ guān diào。\nturn off the fire."
+    } ]
+  }, {
+    "tStartMs": 294212,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "我关火，关火，\nwǒ guān huǒ， guān huǒ，\nI turn off the heat, turn it off,"
+    } ]
+  }, {
+    "tStartMs": 297252,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "煤气的火关掉了。\nméi qì de huǒ guān diào le。\nthe gas flame is off."
+    } ]
+  }, {
+    "tStartMs": 299732,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "煤气的火关掉，\nméi qì de huǒ guān diào，\nthe gas flame is turned off,"
+    } ]
+  }, {
+    "tStartMs": 301732,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "没有了。米粉煮好了。\nméi yǒu le。 mǐ fěn zhǔ hǎo le。\nit’s gone. The noodles are cooked."
+    } ]
+  }, {
+    "tStartMs": 305689,
+    "dDurationMs": 2939,
+    "segs": [ {
+      "utf8": "我准备了一双筷子，\nwǒ zhǔn bèi le yī shuāng kuài zǐ，\nI’ve prepared a pair of chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 309108,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这是筷子，筷子，\nzhè shì kuài zǐ， kuài zǐ，\nthese are chopsticks, chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 311828,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "一双筷子，\nyī shuāng kuài zǐ，\na pair of chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 313748,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "和一个碟子，\nhé yí gè dié zǐ，\nand a plate,"
+    } ]
+  }, {
+    "tStartMs": 316228,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "碟子，碟子，\ndié zǐ， dié zǐ，\nthe plate, the plate,"
+    } ]
+  }, {
+    "tStartMs": 318548,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "筷子。我准备把米粉，\nkuài zǐ。 wǒ zhǔn bèi bǎ mǐ fěn，\nchopsticks. I’m going to use the chopsticks to"
+    } ]
+  }, {
+    "tStartMs": 322788,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "把米粉夹，夹出来，\nbǎ mǐ fěn jiā， jiā chū lái，\npick up the noodles, pick them out,"
+    } ]
+  }, {
+    "tStartMs": 326788,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "把煮好的米粉从锅里，\nbǎ zhǔ hǎo de mǐ fěn cóng guō lǐ，\ntake the cooked noodles out of the pot,"
+    } ]
+  }, {
+    "tStartMs": 331908,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "从锅里夹出来，\ncóng guō lǐ jiā chū lái，\ntake them out of the pot,"
+    } ]
+  }, {
+    "tStartMs": 335348,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "夹到碟子里。\njiā dào dié zǐ lǐ。\nand put them on the plate."
+    } ]
+  }, {
+    "tStartMs": 338145,
+    "dDurationMs": 2925,
+    "segs": [ {
+      "utf8": "我把米粉夹出来。\nwǒ bǎ mǐ fěn jiā chū lái。\nI’ve taken the noodles out."
+    } ]
+  }, {
+    "tStartMs": 346115,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "我把米粉，煮好的米粉都\nwǒ bǎ mǐ fěn， zhǔ hǎo de mǐ fěn dū\nI’ve taken all the noodles, the cooked noodles,"
+    } ]
+  }, {
+    "tStartMs": 350342,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "夹了出来，夹在碟子里。\njiā le chū lái， jiā zài dié zǐ lǐ。\nout and put them on the plate."
+    } ]
+  }, {
+    "tStartMs": 354648,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "我把米粉都夹到了碟子里。\nwǒ bǎ mǐ fěn dū jiā dào le dié zǐ lǐ。\nI’ve put all the noodles onto the plate."
+    } ]
+  }, {
+    "tStartMs": 361010,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "煮好米粉之后，\nzhǔ hǎo mǐ fěn zhī hòu，\nAfter the noodles are cooked,"
+    } ]
+  }, {
+    "tStartMs": 363810,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "锅里的水，锅里的水少了，\nguō lǐ de shuǐ， guō lǐ de shuǐ shǎo le，\nthe water in the pot, the water in the pot has decreased,"
+    } ]
+  }, {
+    "tStartMs": 368370,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "少了。现在锅里的水很少，\nshǎo le。 xiàn zài guō lǐ de shuǐ hěn shǎo，\nit’s less. Now there’s very little water in the pot,"
+    } ]
+  }, {
+    "tStartMs": 372770,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "所以我要加水，\nsuǒ yǐ wǒ yào jiā shuǐ，\nso I need to add water,"
+    } ]
+  }, {
+    "tStartMs": 375570,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我要加一点水。\nwǒ yào jiā yī diǎn shuǐ。\nI need to add a little water."
+    } ]
+  }, {
+    "tStartMs": 377730,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "这是水壶，水壶。\nzhè shì shuǐ hú， shuǐ hú。\nThis is the kettle, the kettle."
+    } ]
+  }, {
+    "tStartMs": 380604,
+    "dDurationMs": 4086,
+    "segs": [ {
+      "utf8": "我把水壶里的水倒进锅里，\nwǒ bǎ shuǐ hú lǐ de shuǐ dǎo jìn guō lǐ，\nI pour the water from the kettle into the pot,"
+    } ]
+  }, {
+    "tStartMs": 385410,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "加一点水。\njiā yī diǎn shuǐ。\nadd a little water."
+    } ]
+  }, {
+    "tStartMs": 387330,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "我要煮汤，\nwǒ yào zhǔ tāng，\nI’m going to make the soup,"
+    } ]
+  }, {
+    "tStartMs": 389664,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "加这么多就够了，\njiā zhè me duō jiù gòu le，\njust adding this much is enough,"
+    } ]
+  }, {
+    "tStartMs": 392704,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "加这么多水就够了。\njiā zhè me duō shuǐ jiù gòu le。\nthis much water is enough."
+    } ]
+  }, {
+    "tStartMs": 395504,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "接下来我要煮汤，\njiē xià lái wǒ yào zhǔ tāng，\nNext I’m going to make the soup,"
+    } ]
+  }, {
+    "tStartMs": 398304,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "煮米粉的汤。\nzhǔ mǐ fěn de tāng。\nthe soup for the noodles."
+    } ]
+  }, {
+    "tStartMs": 402097,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "我把汤包倒进去。\nwǒ bǎ tāng bāo dǎo jìn qù。\nI pour in the soup packet."
+    } ]
+  }, {
+    "tStartMs": 405235,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "汤包就倒好了。\ntāng bāo jiù dǎo hǎo le。\nThe soup packet has been poured in."
+    } ]
+  }, {
+    "tStartMs": 407395,
+    "dDurationMs": 3349,
+    "segs": [ {
+      "utf8": "接下来我还要放，\njiē xià lái wǒ huán yào fàng，\nNext I also need to add,"
+    } ]
+  }, {
+    "tStartMs": 411355,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "我要放辣椒油，\nwǒ yào fàng là jiāo yóu，\nI’m going to add chili oil,"
+    } ]
+  }, {
+    "tStartMs": 413915,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "辣椒油还有醋。\nlà jiāo yóu huán yǒu cù。\nchili oil and vinegar."
+    } ]
+  }, {
+    "tStartMs": 416635,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "辣椒油是辣的，\nlà jiāo yóu shì là de，\nChili oil is spicy,"
+    } ]
+  }, {
+    "tStartMs": 418795,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "辣椒油吃起来很辣。\nlà jiāo yóu chī qǐ lái hěn là。\nchili oil tastes very spicy."
+    } ]
+  }, {
+    "tStartMs": 422155,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "辣椒油是辣的。\nlà jiāo yóu shì là de。\nChili oil is spicy."
+    } ]
+  }, {
+    "tStartMs": 424635,
+    "dDurationMs": 2607,
+    "segs": [ {
+      "utf8": "醋，醋是酸的，\ncù， cù shì suān de，\nVinegar is sour,"
+    } ]
+  }, {
+    "tStartMs": 427275,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "酸的醋。\nsuān de cù。\nsour vinegar."
+    } ]
+  }, {
+    "tStartMs": 429295,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我加一点，只加一点辣椒油。\nwǒ jiā yī diǎn， zhī jiā yī diǎn là jiāo yóu。\nI’ll add a little, just a little chili oil."
+    } ]
+  }, {
+    "tStartMs": 436716,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "加一点点就够了，\njiā yī diǎn diǎn jiù gòu le，\nA little is enough,"
+    } ]
+  }, {
+    "tStartMs": 438716,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "因为我害怕，我不想吃太辣的。\nyīn wèi wǒ hài pà， wǒ bù xiǎng chī tài là de。\nbecause I’m afraid of it, and I don’t want it too spicy."
+    } ]
+  }, {
+    "tStartMs": 442897,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "醋我会加一点\ncù wǒ huì jiā yī diǎn\nI’ll add a little vinegar"
+    } ]
+  }, {
+    "tStartMs": 444577,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "也是加一点。\nyě shì jiā yī diǎn。\njust a little too."
+    } ]
+  }, {
+    "tStartMs": 449238,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "这样汤就调好了。\nzhè yàng tāng jiù tiáo hǎo le。\nThat way the soup is seasoned."
+    } ]
+  }, {
+    "tStartMs": 452174,
+    "dDurationMs": 1304,
+    "segs": [ {
+      "utf8": "我要开火。\nwǒ yào kāi huǒ。\nI’m going to turn on the heat."
+    } ]
+  }, {
+    "tStartMs": 455829,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "我现在打开，\nwǒ xiàn zài dǎ kāi，\nI’m turning on"
+    } ]
+  }, {
+    "tStartMs": 457878,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "打开煤气灶的火，\ndǎ kāi méi qì zào de huǒ，\nthe flame on the gas stove,"
+    } ]
+  }, {
+    "tStartMs": 460598,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "开火。\nkāi huǒ。\nturning on the heat."
+    } ]
+  }, {
+    "tStartMs": 464285,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "煤气灶有火了，\nméi qì zào yǒu huǒ le，\nThe gas stove has a flame,"
+    } ]
+  }, {
+    "tStartMs": 466685,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我先煮一下，\nwǒ xiān zhǔ yī xià，\nI’ll let it cook for a bit,"
+    } ]
+  }, {
+    "tStartMs": 468525,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "把汤煮一下。\nbǎ tāng zhǔ yī xià。\nand boil the soup."
+    } ]
+  }, {
+    "tStartMs": 471308,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "我现在要煮螺蛳粉的汤。\nwǒ xiàn zài yào zhǔ luó sī fěn de tāng。\nNow I’m going to cook the luosifen soup."
+    } ]
+  }, {
+    "tStartMs": 475897,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "我要煮汤。\nwǒ yào zhǔ tāng。\nI’m going to cook the soup."
+    } ]
+  }, {
+    "tStartMs": 477632,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "我把汤包从包装里拿出来。\nwǒ bǎ tāng bāo cóng bāo zhuāng lǐ ná chū lái。\nI take the soup packet out of the package."
+    } ]
+  }, {
+    "tStartMs": 482940,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "这是螺蛳粉的汤，汤包。\nzhè shì luó sī fěn de tāng， tāng bāo。\nThis is the luosifen soup packet."
+    } ]
+  }, {
+    "tStartMs": 488060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我现在要把汤包打开，\nwǒ xiàn zài yào bǎ tāng bāo dǎ kāi，\nNow I’m going to open the soup packet,"
+    } ]
+  }, {
+    "tStartMs": 491820,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "然后倒进锅里。\nrán hòu dǎo jìn guō lǐ。\nand then pour it into the pot."
+    } ]
+  }, {
+    "tStartMs": 494877,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "我先把汤包打开。\nwǒ xiān bǎ tāng bāo dǎ kāi。\nI’ll open the soup packet first."
+    } ]
+  }, {
+    "tStartMs": 500469,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我把汤包打开了，\nwǒ bǎ tāng bāo dǎ kāi le，\nI’ve opened the soup packet,"
+    } ]
+  }, {
+    "tStartMs": 503275,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "打开了。\ndǎ kāi le。\nopened it."
+    } ]
+  }, {
+    "tStartMs": 504910,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "我现在把汤包倒进锅里，\nwǒ xiàn zài bǎ tāng bāo dǎo jìn guō lǐ，\nNow I’m pouring the soup packet into the pot,"
+    } ]
+  }, {
+    "tStartMs": 509390,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "让汤包跟锅里的水混合\nràng tāng bāo gēn guō lǐ de shuǐ hùn hé\nto let the soup packet mix with the water in the pot"
+    } ]
+  }, {
+    "tStartMs": 514270,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "在一起。\nzài yī qǐ。\ntogether."
+    } ]
+  }, {
+    "tStartMs": 516187,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "这些是螺蛳粉的配菜。\nzhèi xiē shì luó sī fěn de pèi cài。\nThese are the side dishes for luosifen."
+    } ]
+  }, {
+    "tStartMs": 520507,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "配菜就是除了米粉，\npèi cài jiù shì chú le mǐ fěn，\nSide dishes are everything besides the rice noodles,"
+    } ]
+  }, {
+    "tStartMs": 523787,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "还有其他一些蔬菜。\nhuán yǒu qí tā yī xiē shū cài。\nand some other vegetables."
+    } ]
+  }, {
+    "tStartMs": 527147,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "它们是蔬菜。\ntā men shì shū cài。\nThey are vegetables."
+    } ]
+  }, {
+    "tStartMs": 529046,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "我待会儿也会把配菜加到汤里面\nwǒ dài huì ér yě huì bǎ pèi cài jiā dào tāng lǐ miàn\nI’ll also add the side dishes to the soup later"
+    } ]
+  }, {
+    "tStartMs": 534746,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "把配菜加到螺蛳粉的汤里。\nbǎ pèi cài jiā dào luó sī fěn de tāng lǐ。\nadd the side dishes to the luosifen soup."
+    } ]
+  }, {
+    "tStartMs": 540035,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这是我的冰箱。\nzhè shì wǒ de bīng xiāng。\nThis is my refrigerator."
+    } ]
+  }, {
+    "tStartMs": 542355,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "冰箱，我把冰箱门。\nbīng xiāng， wǒ bǎ bīng xiāng mén。\nthe refrigerator, I open the refrigerator door."
+    } ]
+  }, {
+    "tStartMs": 545395,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "这是冰箱门。\nzhè shì bīng xiāng mén。\nThis is the refrigerator door."
+    } ]
+  }, {
+    "tStartMs": 547155,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我把冰箱门打开。\nwǒ bǎ bīng xiāng mén dǎ kāi。\nI open the refrigerator door."
+    } ]
+  }, {
+    "tStartMs": 549200,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "我打开冰箱门。\nwǒ dǎ kāi bīng xiāng mén。\nI open the refrigerator door."
+    } ]
+  }, {
+    "tStartMs": 552196,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "我要拿一盒菜。\nwǒ yào ná yī hé cài。\nI’m going to take out a box of food."
+    } ]
+  }, {
+    "tStartMs": 554755,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "这是一盒菜。\nzhè shì yī hé cài。\nThis is a box of food."
+    } ]
+  }, {
+    "tStartMs": 556835,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "我把这盒，一盒。\nwǒ bǎ zhè hé， yī hé。\nI take this box, a box."
+    } ]
+  }, {
+    "tStartMs": 559395,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "我把这盒菜从冰箱\nwǒ bǎ zhè hé cài cóng bīng xiāng\nI take this box of food out of the refrigerator"
+    } ]
+  }, {
+    "tStartMs": 561807,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "从冰箱里面拿出来。\ncóng bīng xiāng lǐ miàn ná chū lái。\nout of the refrigerator."
+    } ]
+  }, {
+    "tStartMs": 564808,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "拿出来。\nná chū lái。\ntake it out."
+    } ]
+  }, {
+    "tStartMs": 566275,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "关上。我关上冰箱门。\nguān shàng。 wǒ guān shàng bīng xiāng mén。\nClose it. I close the refrigerator door."
+    } ]
+  }, {
+    "tStartMs": 570435,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "关上。这是我昨天晚上打包\nguān shàng。 zhè shì wǒ zuó tiān wǎn shàng dǎ bāo\nClose it. This is a box of food I packed"
+    } ]
+  }, {
+    "tStartMs": 575315,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "从餐厅打包回来的一盒菜。\ncóng cān tīng dǎ bāo huí lái de yī hé cài。\nhome from a restaurant last night."
+    } ]
+  }, {
+    "tStartMs": 580835,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "一盒菜，\nyī hé cài，\nA box of food,"
+    } ]
+  }, {
+    "tStartMs": 582515,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "放在这里。\nfàng zài zhè lǐ。\nput it here."
+    } ]
+  }, {
+    "tStartMs": 584620,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "现在汤，\nxiàn zài tāng，\nNow the soup,"
+    } ]
+  }, {
+    "tStartMs": 586620,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "螺蛳粉的汤已经煮开了，\nluó sī fěn de tāng yǐ jīng zhǔ kāi le，\nthe luosifen soup has boiled,"
+    } ]
+  }, {
+    "tStartMs": 590220,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "锅里的水开了。\nguō lǐ de shuǐ kāi le。\nthe water in the pot is boiling."
+    } ]
+  }, {
+    "tStartMs": 593500,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "我准备把米粉，\nwǒ zhǔn bèi bǎ mǐ fěn，\nI’m going to put the noodles,"
+    } ]
+  }, {
+    "tStartMs": 595900,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "把米粉和配菜都加进去，\nbǎ mǐ fěn hé pèi cài dū jiā jìn qù，\nadd the noodles and the side dishes,"
+    } ]
+  }, {
+    "tStartMs": 600300,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "加进去。\njiā jìn qù。\nadd them in."
+    } ]
+  }, {
+    "tStartMs": 601980,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "我先把火关小一点，\nwǒ xiān bǎ huǒ guān xiǎo yī diǎn，\nI’ll turn the heat down a little first,"
+    } ]
+  }, {
+    "tStartMs": 605340,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "把火关小，\nbǎ huǒ guān xiǎo，\nturn the heat down,"
+    } ]
+  }, {
+    "tStartMs": 607820,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "关小火。\nguān xiǎo huǒ。\nturn down the heat."
+    } ]
+  }, {
+    "tStartMs": 610556,
+    "dDurationMs": 2442,
+    "segs": [ {
+      "utf8": "我先把米粉，\nwǒ xiān bǎ mǐ fěn，\nFirst I’ll add the rice noodles,"
+    } ]
+  }, {
+    "tStartMs": 613398,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "先把米粉加进汤里，\nxiān bǎ mǐ fěn jiā jìn tāng lǐ，\nadd the rice noodles into the soup first,"
+    } ]
+  }, {
+    "tStartMs": 617158,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "把米粉加进去。\nbǎ mǐ fěn jiā jìn qù。\nadd the rice noodles in."
+    } ]
+  }, {
+    "tStartMs": 621713,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这是我昨天从餐厅\nzhè shì wǒ zuó tiān cóng cān tīng\nThis is what I got yesterday from the restaurant"
+    } ]
+  }, {
+    "tStartMs": 625107,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "从外面的餐厅打包回来的菜\ncóng wài miàn de cān tīng dǎ bāo huí lái de cài\na dish I packed to go from a restaurant outside"
+    } ]
+  }, {
+    "tStartMs": 630353,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "是两只鸡爪\nshì liǎng zhī jī zhǎo\nit’s two chicken feet"
+    } ]
+  }, {
+    "tStartMs": 635233,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "两只鸡爪，昨天打包回来的，\nliǎng zhī jī zhǎo， zuó tiān dǎ bāo huí lái de，\ntwo chicken feet, packed up yesterday,"
+    } ]
+  }, {
+    "tStartMs": 640913,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "打包回来的鸡爪，\ndǎ bāo huí lái de jī zhǎo，\nthe chicken feet I packed to go,"
+    } ]
+  }, {
+    "tStartMs": 643176,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "我也把它们加进汤里，\nwǒ yě bǎ tā men jiā jìn tāng lǐ，\nI’m adding them into the soup too,"
+    } ]
+  }, {
+    "tStartMs": 646273,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "放在粉里，\nfàng zài fěn lǐ，\nput them in the noodles,"
+    } ]
+  }, {
+    "tStartMs": 648673,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "加进去。\njiā jìn qù。\nadd them in."
+    } ]
+  }, {
+    "tStartMs": 651520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "再把盖子盖回来。\nzài bǎ gài zi gài huí lái。\nThen put the lid back on."
+    } ]
+  }, {
+    "tStartMs": 655827,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "现在我要加配菜，\nxiàn zài wǒ yào jiā pèi cài，\nNow I’m going to add the side dishes,"
+    } ]
+  }, {
+    "tStartMs": 658547,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "我把配菜也加进我的粉里面。\nwǒ bǎ pèi cài yě jiā jìn wǒ de fěn lǐ miàn。\nI’m adding the side dishes into my noodles too."
+    } ]
+  }, {
+    "tStartMs": 665162,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "现在锅里有所有的东西，\nxiàn zài guō lǐ yǒu suǒ yǒu de dōng xī，\nNow the pot has everything in it,"
+    } ]
+  }, {
+    "tStartMs": 669162,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我用筷子搅拌，\nwǒ yòng kuài zǐ jiǎo bàn，\nI stir with chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 671322,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "用筷子搅拌它，\nyòng kuài zǐ jiǎo bàn tā，\nstir it with chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 675256,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "搅拌一下。\njiǎo bàn yī xià。\ngive it a stir."
+    } ]
+  }, {
+    "tStartMs": 677256,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "然后我再把火，\nrán hòu wǒ zài bǎ huǒ，\nThen I’ll turn the heat,"
+    } ]
+  }, {
+    "tStartMs": 680536,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "我再把煤气的火开大一点，\nwǒ zài bǎ méi qì de huǒ kāi dà yī diǎn，\nI’ll turn up the gas flame a little more,"
+    } ]
+  }, {
+    "tStartMs": 684216,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "把煤气的火开大。\nbǎ méi qì de huǒ kāi dà。\nturn up the gas flame."
+    } ]
+  }, {
+    "tStartMs": 689256,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "让它再煮三十秒，\nràng tā zài zhǔ sān shí miǎo，\nlet it cook for another thirty seconds,"
+    } ]
+  }, {
+    "tStartMs": 692376,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "再煮三十秒就可以吃了。\nzài zhǔ sān shí miǎo jiù kě yǐ chī le。\nit’ll be ready to eat after another thirty seconds."
+    } ]
+  }, {
+    "tStartMs": 697444,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "好啦，我现在可以关火，\nhǎo lā， wǒ xiàn zài kě yǐ guān huǒ，\nAlright, now I can turn off the heat,"
+    } ]
+  }, {
+    "tStartMs": 700484,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "关火了。我\nguān huǒ le。 wǒ\nthe heat is off. I"
+    } ]
+  }, {
+    "tStartMs": 702097,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "我把煤气的火关掉了。\nwǒ bǎ méi qì de huǒ guān diào le。\nI turned off the gas flame."
+    } ]
+  }, {
+    "tStartMs": 704977,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "现在我的螺丝粉就煮好啦，\nxiàn zài wǒ de luó sī fěn jiù zhǔ hǎo lā，\nNow my luosifen is cooked,"
+    } ]
+  }, {
+    "tStartMs": 709137,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我准备可以吃了。\nwǒ zhǔn bèi kě yǐ chī le。\nI’m ready to eat."
+    } ]
+  }, {
+    "tStartMs": 711990,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "我现在把煮好的螺蛳粉，\nwǒ xiàn zài bǎ zhǔ hǎo de luó sī fěn，\nNow I’m taking the cooked luosifen,"
+    } ]
+  }, {
+    "tStartMs": 715670,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "把这个小锅拿走，\nbǎ zhè gè xiǎo guō ná zǒu，\ntaking this small pot away,"
+    } ]
+  }, {
+    "tStartMs": 718870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "拿到吃饭的地方。\nná dào chī fàn de dì fāng。\nbringing it to the eating area."
+    } ]
+  }, {
+    "tStartMs": 721580,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "我把小锅拿走，\nwǒ bǎ xiǎo guō ná zǒu，\nI’m taking the small pot away,"
+    } ]
+  }, {
+    "tStartMs": 725030,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "拿到吃饭的桌子。\nná dào chī fàn de zhuō zǐ。\nbringing it to the dining table."
+    } ]
+  }, {
+    "tStartMs": 728710,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我把它放在桌子上。\nwǒ bǎ tā fàng zài zhuō zǐ shàng。\nI put it on the table."
+    } ]
+  }, {
+    "tStartMs": 733510,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后我准备在这里吃我的螺蛳粉。\nrán hòu wǒ zhǔn bèi zài zhè lǐ chī wǒ de luó sī fěn。\nThen I’m ready to eat my luosifen here."
+    } ]
+  }, {
+    "tStartMs": 739452,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "因为螺丝粉很辣，\nyīn wèi luó sī fěn hěn là，\nBecause luosifen is very spicy,"
+    } ]
+  }, {
+    "tStartMs": 742812,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "它吃起来很辣，\ntā chī qǐ lái hěn là，\nit tastes very spicy,"
+    } ]
+  }, {
+    "tStartMs": 745612,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "所以我要准备一些喝的。\nsuǒ yǐ wǒ yào zhǔn bèi yī xiē hē de。\nso I need to get something to drink ready."
+    } ]
+  }, {
+    "tStartMs": 749692,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这是一个杯子，\nzhè shì yí gè bēi zǐ，\nThis is a cup,"
+    } ]
+  }, {
+    "tStartMs": 752252,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "杯子，这是一个杯子。\nbēi zǐ， zhè shì yí gè bēi zǐ。\na cup, this is a cup."
+    } ]
+  }, {
+    "tStartMs": 755045,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "我准备了一罐水果酒，\nwǒ zhǔn bèi le yī guàn shuǐ guǒ jiǔ，\nI prepared a can of fruit wine,"
+    } ]
+  }, {
+    "tStartMs": 759212,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "这是一罐，一罐水果酒。\nzhè shì yī guàn， yī guàn shuǐ guǒ jiǔ。\nthis is a can, a can of fruit wine."
+    } ]
+  }, {
+    "tStartMs": 764092,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "我打算把它倒进\nwǒ dǎ suàn bǎ tā dǎo jìn\nI’m going to pour it into"
+    } ]
+  }, {
+    "tStartMs": 767006,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "倒进我的杯子里。\ndǎo jìn wǒ de bēi zǐ lǐ。\npour it into my cup."
+    } ]
+  }, {
+    "tStartMs": 769984,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "它是一个易拉罐，\ntā shì yí gè yì lā guàn，\nIt’s a can,"
+    } ]
+  }, {
+    "tStartMs": 772812,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "易拉罐。我把它打开，\nyì lā guàn。 wǒ bǎ tā dǎ kāi，\na can. I’ll open it,"
+    } ]
+  }, {
+    "tStartMs": 776092,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "把这罐水果酒打开，\nbǎ zhè guàn shuǐ guǒ jiǔ dǎ kāi，\nopen this can of fruit wine,"
+    } ]
+  }, {
+    "tStartMs": 781692,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "然后把它倒进杯子里。\nrán hòu bǎ tā dǎo jìn bēi zǐ lǐ。\nthen pour it into the cup."
+    } ]
+  }, {
+    "tStartMs": 786361,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "干米粉\ngān mǐ fěn\ndry rice noodles"
+    } ]
+  }, {
+    "tStartMs": 788400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "这样我就有喝的东西了，\nzhè yàng wǒ jiù yǒu hē de dōng xī le，\nThat way I have something to drink,"
+    } ]
+  }, {
+    "tStartMs": 791524,
+    "dDurationMs": 2476,
+    "segs": [ {
+      "utf8": "我有一杯水果酒。\nwǒ yǒu yī bēi shuǐ guǒ jiǔ。\nI have a cup of fruit wine."
+    } ]
+  }, {
+    "tStartMs": 796033,
+    "dDurationMs": 4728,
+    "segs": [ {
+      "utf8": "我的螺蛳粉宵夜就做好了，\nwǒ de luó sī fěn xiāo yè jiù zuò hǎo le，\nMy luosifen late-night snack is ready,"
+    } ]
+  }, {
+    "tStartMs": 801036,
+    "dDurationMs": 3005,
+    "segs": [ {
+      "utf8": "我准备开动啦。\nwǒ zhǔn bèi kāi dòng lā。\nI’m ready to dig in."
+    } ]
+  }, {
+    "tStartMs": 805348,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "螺丝粉的味道很特别，\nluó sī fěn de wèi dào hěn tè bié，\nLuosifen has a very distinctive smell,"
+    } ]
+  }, {
+    "tStartMs": 809268,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "有些人觉得它闻起来很香，\nyǒu xiē rén jué de tā wén qǐ lái hěn xiāng，\nsome people think it smells fragrant,"
+    } ]
+  }, {
+    "tStartMs": 814788,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "很好吃，但是有些人觉得\nhěn hǎo chī， dàn shì yǒu xiē rén jué de\nit tastes delicious, but some people think"
+    } ]
+  }, {
+    "tStartMs": 819582,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "螺丝粉闻起来很臭，\nluó sī fěn wén qǐ lái hěn chòu，\nluosifen smells stinky,"
+    } ]
+  }, {
+    "tStartMs": 823828,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "闻起来不好闻，\nwén qǐ lái bù hǎo wén，\nit doesn’t smell good,"
+    } ]
+  }, {
+    "tStartMs": 825908,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "很臭，所以也有一些人\nhěn chòu， suǒ yǐ yě yǒu yī xiē rén\nreally stinky, so some people"
+    } ]
+  }, {
+    "tStartMs": 829789,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "不爱吃螺丝粉。\nbù ài chī luó sī fěn。\ndon’t like to eat luosifen."
+    } ]
+  }, {
+    "tStartMs": 833588,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "你有没有尝试过中国的\nnǐ yǒu méi yǒu cháng shì guò zhōng guó de\nHave you ever tried Chinese"
+    } ]
+  }, {
+    "tStartMs": 838048,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "螺丝粉？你看了这个视频会想\nluó sī fěn ？ nǐ kàn le zhè gè shì pín huì xiǎng\nluosifen? After watching this video, would you want"
+    } ]
+  }, {
+    "tStartMs": 843268,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "尝试一下吗？\ncháng shì yī xià ma ？\nto try it?"
+    } ]
+  }, {
+    "tStartMs": 845668,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "在你的国家有没有哪些食物\nzài nǐ de guó jiā yǒu méi yǒu něi xiē shí wù\nAre there any foods in your country"
+    } ]
+  }, {
+    "tStartMs": 850324,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "也是味道很特别的？\nyě shì wèi dào hěn tè bié de ？\nthat also have a very distinctive smell?"
+    } ]
+  }, {
+    "tStartMs": 854228,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "可以在下面的评论区告诉我。\nkě yǐ zài xià miàn de píng lùn qū gào sù wǒ。\nTell me in the comments below."
+    } ]
+  }, {
+    "tStartMs": 859588,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "谢谢你观看这期视频，\nxiè xiè nǐ guān kàn zhè qī shì pín，\nThanks for watching this video,"
+    } ]
+  }, {
+    "tStartMs": 863282,
+    "dDurationMs": 4226,
+    "segs": [ {
+      "utf8": "我现在要享受我的宵夜了，\nwǒ xiàn zài yào xiǎng shòu wǒ de xiāo yè le，\nI’m going to enjoy my late-night snack now,"
+    } ]
+  }, {
+    "tStartMs": 867908,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "下个视频再见，\nxià gè shì pín zài jiàn，\nsee you in the next video,"
+    } ]
+  }, {
+    "tStartMs": 870308,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "拜拜。\nbài bài。\nbye-bye."
+    } ]
+  } ]
+}

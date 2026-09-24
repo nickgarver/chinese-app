@@ -1,0 +1,5383 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 26366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在坐上车了"
+    } ]
+  }, {
+    "tStartMs": 28766,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "我们是从大同出发，这里是"
+    } ]
+  }, {
+    "tStartMs": 35866,
+    "dDurationMs": 8967,
+    "segs": [ {
+      "utf8": "静音车厢    不可以说话"
+    } ]
+  }, {
+    "tStartMs": 44833,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "现在这边还是山西大同"
+    } ]
+  }, {
+    "tStartMs": 48566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "山西这边的风景"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这次旅行我有9个小时"
+    } ]
+  }, {
+    "tStartMs": 54800,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "从北方到南方"
+    } ]
+  }, {
+    "tStartMs": 58333,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "所以每一站的风景都是不一样"
+    } ]
+  }, {
+    "tStartMs": 64400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "啊今天的天很蓝啊"
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "这边是我们高铁上的厕所"
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 8166,
+    "segs": [ {
+      "utf8": "我们这边分为坐便和蹲坑两种"
+    } ]
+  }, {
+    "tStartMs": 135366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "看你自己的需要"
+    } ]
+  }, {
+    "tStartMs": 137133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "可以选择一个适合你的"
+    } ]
+  }, {
+    "tStartMs": 140133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "比如说这个"
+    } ]
+  }, {
+    "tStartMs": 141833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我们可以看到门口上有“无人”"
+    } ]
+  }, {
+    "tStartMs": 144600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "说明绿色是没有人"
+    } ]
+  }, {
+    "tStartMs": 146233,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "你可以进去"
+    } ]
+  }, {
+    "tStartMs": 148566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "进去以后，你锁上了门"
+    } ]
+  }, {
+    "tStartMs": 152166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "它就会变成红色"
+    } ]
+  }, {
+    "tStartMs": 154233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我们进去先看一下蹲坑"
+    } ]
+  }, {
+    "tStartMs": 184333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "卫生间内禁止吸烟"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "在卫生间内吸烟属违法行为"
+    } ]
+  }, {
+    "tStartMs": 188566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "会对吸烟者处以500-2,000元罚款"
+    } ]
+  }, {
+    "tStartMs": 319566,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "出来以后这边也有一个化妆镜"
+    } ]
+  }, {
+    "tStartMs": 322933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "这个化妆镜这里也可以洗手"
+    } ]
+  }, {
+    "tStartMs": 325833,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这里有纸巾"
+    } ]
+  }, {
+    "tStartMs": 327533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "还有有热水"
+    } ]
+  }, {
+    "tStartMs": 330233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "是这边红色的热水"
+    } ]
+  }, {
+    "tStartMs": 332266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "还有冷水"
+    } ]
+  }, {
+    "tStartMs": 333500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "也是按压出水"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "这边也有一个电源插座"
+    } ]
+  }, {
+    "tStartMs": 341533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "在我们的座的下面也有电源插座"
+    } ]
+  }, {
+    "tStartMs": 344233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我们这个是300"
+    } ]
+  }, {
+    "tStartMs": 346266,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "是蓝胖子（列车外号）"
+    } ]
+  }, {
+    "tStartMs": 349633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "这边是垃圾桶"
+    } ]
+  }, {
+    "tStartMs": 353300,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "而这边有消防的"
+    } ]
+  }, {
+    "tStartMs": 357700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这是我们喝热水的地方"
+    } ]
+  }, {
+    "tStartMs": 360133,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "这里有免费的一次性水杯"
+    } ]
+  }, {
+    "tStartMs": 363100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这是绿色是要取水"
+    } ]
+  }, {
+    "tStartMs": 364700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "那红色是先解锁儿童锁"
+    } ]
+  }, {
+    "tStartMs": 367500,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "以防孩子误触烫伤自己"
+    } ]
+  }, {
+    "tStartMs": 374266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "女士们先生们"
+    } ]
+  }, {
+    "tStartMs": 376266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "欢迎乘坐"
+    } ]
+  }, {
+    "tStartMs": 377433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "中国铁路西安局集团有限公司"
+    } ]
+  }, {
+    "tStartMs": 381033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "动车组列车"
+    } ]
+  }, {
+    "tStartMs": 383066,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "列车前方停车站是"
+    } ]
+  }, {
+    "tStartMs": 385700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "朔州东站"
+    } ]
+  }, {
+    "tStartMs": 387433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "本次列车全列禁止吸烟"
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "感谢您的配合"
+    } ]
+  }, {
+    "tStartMs": 392700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "ladies and gentlemen"
+    } ]
+  }, {
+    "tStartMs": 394500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "the train is going to arrive at"
+    } ]
+  }, {
+    "tStartMs": 542666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这里就是餐车的位置"
+    } ]
+  }, {
+    "tStartMs": 546066,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "这里是盒饭"
+    } ]
+  }, {
+    "tStartMs": 549933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "好贵呀"
+    } ]
+  }, {
+    "tStartMs": 552133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "都是"
+    } ]
+  }, {
+    "tStartMs": 554700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "哦"
+    } ]
+  }, {
+    "tStartMs": 555700,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "对目前的话就是这几种都有"
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "4个菜都"
+    } ]
+  }, {
+    "tStartMs": 559566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "三四个菜"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "两个菜 3个菜"
+    } ]
+  }, {
+    "tStartMs": 561800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后4个菜的"
+    } ]
+  }, {
+    "tStartMs": 563200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这个是两个两个素菜"
+    } ]
+  }, {
+    "tStartMs": 565500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "一个荤菜"
+    } ]
+  }, {
+    "tStartMs": 566600,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "哦"
+    } ]
+  }, {
+    "tStartMs": 566933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这个的话是两个荤菜"
+    } ]
+  }, {
+    "tStartMs": 568366,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "一个素菜"
+    } ]
+  }, {
+    "tStartMs": 569933,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "哦"
+    } ]
+  }, {
+    "tStartMs": 570300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这就是前面这些了"
+    } ]
+  }, {
+    "tStartMs": 571900,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "然后就没了啊"
+    } ]
+  }, {
+    "tStartMs": 573266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "对一共是"
+    } ]
+  }, {
+    "tStartMs": 573966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "现在目前的话"
+    } ]
+  }, {
+    "tStartMs": 574766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "一共是这9种"
+    } ]
+  }, {
+    "tStartMs": 576366,
+    "dDurationMs": 5934,
+    "segs": [ {
+      "utf8": "这里有饼干饮料汤都有"
+    } ]
+  }, {
+    "tStartMs": 582300,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "这个多少钱"
+    } ]
+  }, {
+    "tStartMs": 583033,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这个是28"
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "28的"
+    } ]
+  }, {
+    "tStartMs": 585500,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我觉得这个可以"
+    } ]
+  }, {
+    "tStartMs": 587533,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "你还想吃啥"
+    } ]
+  }, {
+    "tStartMs": 590600,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "尝一下这个"
+    } ]
+  }, {
+    "tStartMs": 591966,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 592366,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "鱼豆腐来"
+    } ]
+  }, {
+    "tStartMs": 594633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这是辣的吧"
+    } ]
+  }, {
+    "tStartMs": 595966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "烧烤味的"
+    } ]
+  }, {
+    "tStartMs": 597266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "烧烤味的可以"
+    } ]
+  }, {
+    "tStartMs": 599766,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "这个坚果"
+    } ]
+  }, {
+    "tStartMs": 603300,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "这有火腿肠"
+    } ]
+  }, {
+    "tStartMs": 605066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "肉肠"
+    } ]
+  }, {
+    "tStartMs": 606766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "都想吃"
+    } ]
+  }, {
+    "tStartMs": 608466,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "你要吃哪个"
+    } ]
+  }, {
+    "tStartMs": 609166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "这甜的，这是牛肉的"
+    } ]
+  }, {
+    "tStartMs": 610700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "吃哪个你选一个"
+    } ]
+  }, {
+    "tStartMs": 611933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "喝的需要吗"
+    } ]
+  }, {
+    "tStartMs": 612900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "喝的"
+    } ]
+  }, {
+    "tStartMs": 614600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "热的话就是番茄牛腩汤"
+    } ]
+  }, {
+    "tStartMs": 616900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后其他的话就饮料"
+    } ]
+  }, {
+    "tStartMs": 618300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "你可以看一下"
+    } ]
+  }, {
+    "tStartMs": 619366,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "哦这个是热的"
+    } ]
+  }, {
+    "tStartMs": 620533,
+    "dDurationMs": 167,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 620700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这是热你可以接热水"
+    } ]
+  }, {
+    "tStartMs": 622733,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "要个热的吧"
+    } ]
+  }, {
+    "tStartMs": 623500,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "要个热的"
+    } ]
+  }, {
+    "tStartMs": 623933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "你也要个热的吧"
+    } ]
+  }, {
+    "tStartMs": 625100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我不要"
+    } ]
+  }, {
+    "tStartMs": 626666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "你不要啊"
+    } ]
+  }, {
+    "tStartMs": 627366,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "我不要"
+    } ]
+  }, {
+    "tStartMs": 628133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "拿一个"
+    } ]
+  }, {
+    "tStartMs": 628766,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 629300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我们这边扫您"
+    } ]
+  }, {
+    "tStartMs": 630533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "对呃支付宝"
+    } ]
+  }, {
+    "tStartMs": 632333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "可以的"
+    } ]
+  }, {
+    "tStartMs": 634333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "一共是73"
+    } ]
+  }, {
+    "tStartMs": 635566,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "好的"
+    } ]
+  }, {
+    "tStartMs": 639600,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "回去，谢谢      不客气"
+    } ]
+  }, {
+    "tStartMs": 645733,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "看，我们买了饼干，坚果和热汤"
+    } ]
+  }, {
+    "tStartMs": 654133,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "我们现在尝一下这个"
+    } ]
+  }, {
+    "tStartMs": 660100,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "可以可以，这个饼干"
+    } ]
+  }, {
+    "tStartMs": 665700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "好吃"
+    } ]
+  }, {
+    "tStartMs": 669500,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "这是真空冷冻的番茄牛腩汤"
+    } ]
+  }, {
+    "tStartMs": 675833,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "现在喝不？"
+    } ]
+  }, {
+    "tStartMs": 681933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "你居然吃健康的"
+    } ]
+  }, {
+    "tStartMs": 684633,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "健康的坚果"
+    } ]
+  }, {
+    "tStartMs": 686633,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "配料表"
+    } ]
+  }, {
+    "tStartMs": 692266,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "他说咱俩不要太开心了（开玩笑）"
+    } ]
+  }, {
+    "tStartMs": 698833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我等会过来收垃圾"
+    } ]
+  }, {
+    "tStartMs": 701333,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "你们慢慢吃"
+    } ]
+  }, {
+    "tStartMs": 703466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "好不着急谢谢"
+    } ]
+  }, {
+    "tStartMs": 707100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "有杏仁"
+    } ]
+  }, {
+    "tStartMs": 709433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我的朋友问我喝水吗"
+    } ]
+  }, {
+    "tStartMs": 711566,
+    "dDurationMs": 5367,
+    "segs": [ {
+      "utf8": "请展示你的杯子"
+    } ]
+  }, {
+    "tStartMs": 716933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我说我不喝"
+    } ]
+  }, {
+    "tStartMs": 720466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我一口就没了"
+    } ]
+  }, {
+    "tStartMs": 722733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "好小的杯子啊大家看"
+    } ]
+  }, {
+    "tStartMs": 727033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "你没有见过这么小的杯子吗"
+    } ]
+  }, {
+    "tStartMs": 730866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "没有啊"
+    } ]
+  }, {
+    "tStartMs": 736566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "你喝吧一口就喝完了我给你"
+    } ]
+  }, {
+    "tStartMs": 739833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "我们刚吃了零食"
+    } ]
+  }, {
+    "tStartMs": 742866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "但是我们想吃饭"
+    } ]
+  }, {
+    "tStartMs": 745233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我们现在尝试一下"
+    } ]
+  }, {
+    "tStartMs": 747100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "在高铁怎么点外卖"
+    } ]
+  }, {
+    "tStartMs": 751300,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "来"
+    } ]
+  }, {
+    "tStartMs": 752033,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "车上有一个二维码"
+    } ]
+  }, {
+    "tStartMs": 753633,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这个二维码它写的是第二个"
+    } ]
+  }, {
+    "tStartMs": 755700,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "第二个是互联网订餐"
+    } ]
+  }, {
+    "tStartMs": 760033,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "好我们选择这个互联网点餐"
+    } ]
+  }, {
+    "tStartMs": 764133,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "好的开始点餐"
+    } ]
+  }, {
+    "tStartMs": 765866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "输入你的车次"
+    } ]
+  }, {
+    "tStartMs": 769166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "开始点餐"
+    } ]
+  }, {
+    "tStartMs": 770733,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "选择你的出发站和到达站"
+    } ]
+  }, {
+    "tStartMs": 773700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "大同南到成都东OK"
+    } ]
+  }, {
+    "tStartMs": 776333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "开始订餐"
+    } ]
+  }, {
+    "tStartMs": 778266,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "（我们）可以选择下一站西安北站的（外卖）"
+    } ]
+  }, {
+    "tStartMs": 782933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "对西安北站的东西"
+    } ]
+  }, {
+    "tStartMs": 784366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我们有肯德基啊"
+    } ]
+  }, {
+    "tStartMs": 785733,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "有麦当劳"
+    } ]
+  }, {
+    "tStartMs": 787166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "对还有这个西安的特色肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 789700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "西安的特色肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 792533,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "那我们点肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 795666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "两个肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 797133,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 799033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "老潼关肉夹馍"
+    } ]
+  }, {
+    "tStartMs": 800333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这是他们的非遗特色"
+    } ]
+  }, {
+    "tStartMs": 802700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "然后再来一个鱼香茄子套餐"
+    } ]
+  }, {
+    "tStartMs": 805566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "咱们为什么这么能吃"
+    } ]
+  }, {
+    "tStartMs": 807133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "60减8了吗减74减"
+    } ]
+  }, {
+    "tStartMs": 810033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "够（配送）了"
+    } ]
+  }, {
+    "tStartMs": 811433,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "开始输入你的姓名什么的"
+    } ]
+  }, {
+    "tStartMs": 816066,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "车厢我们是2车厢"
+    } ]
+  }, {
+    "tStartMs": 820866,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "13AB"
+    } ]
+  }, {
+    "tStartMs": 823933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "选择你的车的座位"
+    } ]
+  }, {
+    "tStartMs": 826666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "然后选择你的手机号码"
+    } ]
+  }, {
+    "tStartMs": 828433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "可以选择你餐具的数量"
+    } ]
+  }, {
+    "tStartMs": 830833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "两个人就两份OK"
+    } ]
+  }, {
+    "tStartMs": 834466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "立即支付"
+    } ]
+  }, {
+    "tStartMs": 837633,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "继续支付"
+    } ]
+  }, {
+    "tStartMs": 842100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "看一下我们的订单"
+    } ]
+  }, {
+    "tStartMs": 844133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这是现在商家已经接单了"
+    } ]
+  }, {
+    "tStartMs": 846433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "他正在做"
+    } ]
+  }, {
+    "tStartMs": 847533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "到时候乘务员"
+    } ]
+  }, {
+    "tStartMs": 848700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "会把这个东西大概送到我们的座位上"
+    } ]
+  }, {
+    "tStartMs": 852033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "给我的朋友分享"
+    } ]
+  }, {
+    "tStartMs": 853366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "一下我的旅行好搭档"
+    } ]
+  }, {
+    "tStartMs": 856366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "你猜这是什么"
+    } ]
+  }, {
+    "tStartMs": 858033,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "抱枕"
+    } ]
+  }, {
+    "tStartMs": 858533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "不是抱枕"
+    } ]
+  }, {
+    "tStartMs": 860133,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "靠枕"
+    } ]
+  }, {
+    "tStartMs": 860866,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "不是靠枕"
+    } ]
+  }, {
+    "tStartMs": 861900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "什么枕"
+    } ]
+  }, {
+    "tStartMs": 863100,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "颈枕"
+    } ]
+  }, {
+    "tStartMs": 867666,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这是一条蛇"
+    } ]
+  }, {
+    "tStartMs": 870366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "对这不错"
+    } ]
+  }, {
+    "tStartMs": 872266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "对呀"
+    } ]
+  }, {
+    "tStartMs": 873233,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "就"
+    } ]
+  }, {
+    "tStartMs": 874366,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "这边可以拆下来把它洗一洗"
+    } ]
+  }, {
+    "tStartMs": 879166,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "你的头掉不下去"
+    } ]
+  }, {
+    "tStartMs": 884033,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我觉得（她欲言又止...）"
+    } ]
+  }, {
+    "tStartMs": 887000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "像落枕了你这个"
+    } ]
+  }, {
+    "tStartMs": 888966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "哼"
+    } ]
+  }, {
+    "tStartMs": 890433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "哦不太好"
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "有垃圾吗"
+    } ]
+  }, {
+    "tStartMs": 893633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 896100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "这个不扔谢谢"
+    } ]
+  }, {
+    "tStartMs": 898566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "然后还可以抱着它，可以抱着它"
+    } ]
+  }, {
+    "tStartMs": 902766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "它的造型可以多变"
+    } ]
+  }, {
+    "tStartMs": 904866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "你可以就是这个样子"
+    } ]
+  }, {
+    "tStartMs": 906700,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "也可以也可以这样子把你撑着"
+    } ]
+  }, {
+    "tStartMs": 911566,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "如果你要睡觉"
+    } ]
+  }, {
+    "tStartMs": 916766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "也可以把这个弄过来"
+    } ]
+  }, {
+    "tStartMs": 919500,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "把你的头放在里面"
+    } ]
+  }, {
+    "tStartMs": 924166,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "你看我这个兔子还有尾巴"
+    } ]
+  }, {
+    "tStartMs": 926766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "谁家兔子没尾巴"
+    } ]
+  }, {
+    "tStartMs": 929466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "你快拍一下"
+    } ]
+  }, {
+    "tStartMs": 931466,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我的朋友说她的兔子有尾巴看看啊"
+    } ]
+  }, {
+    "tStartMs": 935766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "什么样的兔子有尾巴"
+    } ]
+  }, {
+    "tStartMs": 937566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "太厉害了"
+    } ]
+  }, {
+    "tStartMs": 940666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在我们到了西安北站"
+    } ]
+  }, {
+    "tStartMs": 943066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "停下来 这一站停的时间比较长"
+    } ]
+  }, {
+    "tStartMs": 946400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "大同靠近内蒙古"
+    } ]
+  }, {
+    "tStartMs": 947766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "所以是很北方"
+    } ]
+  }, {
+    "tStartMs": 948900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "西安现在其实已经接近了"
+    } ]
+  }, {
+    "tStartMs": 951333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "尤其是这个西安的这个"
+    } ]
+  }, {
+    "tStartMs": 953066,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "秦岭它比较接近南北方的分界线"
+    } ]
+  }, {
+    "tStartMs": 956733,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "所以它这边的气候跟"
+    } ]
+  }, {
+    "tStartMs": 958100,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我们那边是不一样的"
+    } ]
+  }, {
+    "tStartMs": 959433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我们出去感受一下"
+    } ]
+  }, {
+    "tStartMs": 960700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "它是不是非常的热"
+    } ]
+  }, {
+    "tStartMs": 962166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这里是西安北站"
+    } ]
+  }, {
+    "tStartMs": 964233,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "各位旅客"
+    } ]
+  }, {
+    "tStartMs": 965466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "为保障广大旅客的"
+    } ]
+  }, {
+    "tStartMs": 967633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "每小时350千米"
+    } ]
+  }, {
+    "tStartMs": 969733,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "看到了吗"
+    } ]
+  }, {
+    "tStartMs": 970233,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这是复兴号"
+    } ]
+  }, {
+    "tStartMs": 971366,
+    "dDurationMs": 6967,
+    "segs": [ {
+      "utf8": "咱这也是复兴号"
+    } ]
+  }, {
+    "tStartMs": 978333,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "对啊"
+    } ]
+  }, {
+    "tStartMs": 981933,
+    "dDurationMs": 5767,
+    "segs": [ {
+      "utf8": "这边是可以便捷换乘"
+    } ]
+  }, {
+    "tStartMs": 987700,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "看看那是和谐号，(这是）复兴号"
+    } ]
+  }, {
+    "tStartMs": 995700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "像子弹头一样"
+    } ]
+  }, {
+    "tStartMs": 997500,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "现在我们来接水喽"
+    } ]
+  }, {
+    "tStartMs": 1000033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "这个红色的按钮呢"
+    } ]
+  }, {
+    "tStartMs": 1001500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "是儿童安全锁"
+    } ]
+  }, {
+    "tStartMs": 1003600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "要把它先按一下才可以出水"
+    } ]
+  }, {
+    "tStartMs": 1006533,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这里有纸杯"
+    } ]
+  }, {
+    "tStartMs": 1008833,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "用劲儿"
+    } ]
+  }, {
+    "tStartMs": 1009933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "你往边上点"
+    } ]
+  }, {
+    "tStartMs": 1011100,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "刚看见那个人好像 （水流歪的了）"
+    } ]
+  }, {
+    "tStartMs": 1016233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 1017866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "你看它这个就容易烫到"
+    } ]
+  }, {
+    "tStartMs": 1019600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "我那个水杯都不适合接是吧"
+    } ]
+  }, {
+    "tStartMs": 1022433,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 1026233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "停ok了"
+    } ]
+  }, {
+    "tStartMs": 1029300,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "这边"
+    } ]
+  }, {
+    "tStartMs": 1030466,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "再来一杯？"
+    } ]
+  }, {
+    "tStartMs": 1032800,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "再来一杯"
+    } ]
+  }, {
+    "tStartMs": 1034133,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "那那就是给你倒进去吗"
+    } ]
+  }, {
+    "tStartMs": 1037733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "他这个杯子太小了"
+    } ]
+  }, {
+    "tStartMs": 1038933,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "我们只能倒进去"
+    } ]
+  }, {
+    "tStartMs": 1044633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "再接一杯"
+    } ]
+  }, {
+    "tStartMs": 1046066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "盖住"
+    } ]
+  }, {
+    "tStartMs": 1047400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 1049133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "不好意思哦"
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "为什么（你不给它盖住）"
+    } ]
+  }, {
+    "tStartMs": 1060100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "OK干净"
+    } ]
+  }, {
+    "tStartMs": 1061866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "干净了然后呢"
+    } ]
+  }, {
+    "tStartMs": 1063733,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "然后等待吃饭"
+    } ]
+  }, {
+    "tStartMs": 1067300,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "等一下吧"
+    } ]
+  }, {
+    "tStartMs": 1068333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我们现在等待"
+    } ]
+  }, {
+    "tStartMs": 1069866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "他什么时候能把这个饭给我们送过来"
+    } ]
+  }, {
+    "tStartMs": 1072900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "你那个盖子 要不要找一下"
+    } ]
+  }, {
+    "tStartMs": 1075633,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "嗯盖子"
+    } ]
+  }, {
+    "tStartMs": 1076633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "哦对，盖子"
+    } ]
+  }, {
+    "tStartMs": 1079133,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "现在来找盖子"
+    } ]
+  }, {
+    "tStartMs": 1085800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "什么都没丢"
+    } ]
+  }, {
+    "tStartMs": 1087000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "丢了一个镜头盖"
+    } ]
+  }, {
+    "tStartMs": 1090333,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "翻遍所有包"
+    } ]
+  }, {
+    "tStartMs": 1095566,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "只为了这个小东西"
+    } ]
+  }, {
+    "tStartMs": 1101233,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "你们猜最后我在哪里找到了它？ "
+    } ]
+  }, {
+    "tStartMs": 1106466,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "请看到最后"
+    } ]
+  }, {
+    "tStartMs": 1111966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "你好这边请用餐"
+    } ]
+  }, {
+    "tStartMs": 1113666,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "13A是吧"
+    } ]
+  }, {
+    "tStartMs": 1115166,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "好的好的"
+    } ]
+  }, {
+    "tStartMs": 1115700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "谢谢谢谢"
+    } ]
+  }, {
+    "tStartMs": 1116600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "耶哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1119100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "谢谢我们的餐来了"
+    } ]
+  }, {
+    "tStartMs": 1121500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "盖子没找见"
+    } ]
+  }, {
+    "tStartMs": 1122466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "开始吃饭"
+    } ]
+  }, {
+    "tStartMs": 1123866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "不管盖子了"
+    } ]
+  }, {
+    "tStartMs": 1125700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "盖子离家出走了"
+    } ]
+  }, {
+    "tStartMs": 1128366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我们的外卖"
+    } ]
+  }, {
+    "tStartMs": 1130666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这个是米皮"
+    } ]
+  }, {
+    "tStartMs": 1133133,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "老潼关肉夹馍两份"
+    } ]
+  }, {
+    "tStartMs": 1137066,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "鱼香茄子盖饭"
+    } ]
+  }, {
+    "tStartMs": 1140833,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "这个纸是可以撕开的"
+    } ]
+  }, {
+    "tStartMs": 1148433,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "大家看"
+    } ]
+  }, {
+    "tStartMs": 1155833,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "肥瘦相间"
+    } ]
+  }, {
+    "tStartMs": 1157433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有肥有瘦"
+    } ]
+  }, {
+    "tStartMs": 1158633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "送了一罐饮料"
+    } ]
+  }, {
+    "tStartMs": 1160666,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "但是我们俩都不喝"
+    } ]
+  }, {
+    "tStartMs": 1164866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "晕碳了我们已经"
+    } ]
+  }, {
+    "tStartMs": 1167166,
+    "dDurationMs": 9134,
+    "segs": [ {
+      "utf8": "第二餐这个鱼香茄子"
+    } ]
+  }, {
+    "tStartMs": 1176300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 1178100,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "那把我给你送到酒店"
+    } ]
+  }, {
+    "tStartMs": 1179333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "或者"
+    } ]
+  }, {
+    "tStartMs": 1181266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "也行"
+    } ]
+  }, {
+    "tStartMs": 1183500,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "第三顿"
+    } ]
+  }, {
+    "tStartMs": 1187133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "这个里面是有黄瓜米皮"
+    } ]
+  }, {
+    "tStartMs": 1190700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "还有一些小的豆芽"
+    } ]
+  }, {
+    "tStartMs": 1192800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "这个是红油"
+    } ]
+  }, {
+    "tStartMs": 1194166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "这个是它的调料包"
+    } ]
+  }, {
+    "tStartMs": 1195800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "我们看一下它是什么味道"
+    } ]
+  }, {
+    "tStartMs": 1201400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "什么"
+    } ]
+  }, {
+    "tStartMs": 1203700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "面皮是面皮的味儿"
+    } ]
+  }, {
+    "tStartMs": 1205900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "油是油的味"
+    } ]
+  }, {
+    "tStartMs": 1208933,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "他是怎么做到干湿分离的"
+    } ]
+  }, {
+    "tStartMs": 1212966,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "不用了，谢谢"
+    } ]
+  }, {
+    "tStartMs": 1216900,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "我找到了我的相机镜头盖，在这儿呢"
+    } ]
+  }, {
+    "tStartMs": 1221366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "在这里"
+    } ]
+  }, {
+    "tStartMs": 1222000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "为啥在那儿呢？"
+    } ]
+  }, {
+    "tStartMs": 1223800,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "不知道可能别人捡到了"
+    } ]
+  }, {
+    "tStartMs": 26366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Get in the car now"
+    } ]
+  }, {
+    "tStartMs": 28766,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "We started from Datong, and here is"
+    } ]
+  }, {
+    "tStartMs": 35866,
+    "dDurationMs": 8967,
+    "segs": [ {
+      "utf8": "Silent compartment, no talking"
+    } ]
+  }, {
+    "tStartMs": 44833,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "Now it is still Datong, Shanxi."
+    } ]
+  }, {
+    "tStartMs": 48566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "The scenery in Shanxi"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "I have 9 hours for this trip"
+    } ]
+  }, {
+    "tStartMs": 54800,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "From North to South"
+    } ]
+  }, {
+    "tStartMs": 58333,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "So the scenery at each stop is different."
+    } ]
+  }, {
+    "tStartMs": 64400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Ah, the sky is very blue today."
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "This is the toilet on our high-speed rail."
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 8166,
+    "segs": [ {
+      "utf8": "We are divided into two types: sitting and squatting."
+    } ]
+  }, {
+    "tStartMs": 135366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Depends on your own needs"
+    } ]
+  }, {
+    "tStartMs": 137133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can choose one that suits you."
+    } ]
+  }, {
+    "tStartMs": 140133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Like this one."
+    } ]
+  }, {
+    "tStartMs": 141833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "We can see \"nobody\" on the door"
+    } ]
+  }, {
+    "tStartMs": 144600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Means that green is no one"
+    } ]
+  }, {
+    "tStartMs": 146233,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "You can go in."
+    } ]
+  }, {
+    "tStartMs": 148566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "You go in, you lock the door."
+    } ]
+  }, {
+    "tStartMs": 152166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "It will turn red"
+    } ]
+  }, {
+    "tStartMs": 154233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Let's go in and take a look at the squat pit first"
+    } ]
+  }, {
+    "tStartMs": 184333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "No smoking in the bathroom"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Smoking in the bathroom is illegal"
+    } ]
+  }, {
+    "tStartMs": 188566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Smokers will be fined 500-2,000 yuan"
+    } ]
+  }, {
+    "tStartMs": 319566,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "After coming out, there is also a makeup mirror here."
+    } ]
+  }, {
+    "tStartMs": 322933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "You can also wash your hands in this makeup mirror."
+    } ]
+  }, {
+    "tStartMs": 325833,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Here are tissues"
+    } ]
+  }, {
+    "tStartMs": 327533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And hot water"
+    } ]
+  }, {
+    "tStartMs": 330233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "It's the red hot water here."
+    } ]
+  }, {
+    "tStartMs": 332266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "And cold water"
+    } ]
+  }, {
+    "tStartMs": 333500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "It also presses the water outlet."
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "There is also a power socket here."
+    } ]
+  }, {
+    "tStartMs": 341533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "There are also electrical outlets under our seats."
+    } ]
+  }, {
+    "tStartMs": 344233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Ours is 300."
+    } ]
+  }, {
+    "tStartMs": 346266,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "It's Fatty Blue (train nickname)"
+    } ]
+  }, {
+    "tStartMs": 349633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "This is the trash can."
+    } ]
+  }, {
+    "tStartMs": 353300,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And there are firefighters here"
+    } ]
+  }, {
+    "tStartMs": 357700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "This is where we drink hot water"
+    } ]
+  }, {
+    "tStartMs": 360133,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Here are free disposable water glasses."
+    } ]
+  }, {
+    "tStartMs": 363100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "This is green to get water."
+    } ]
+  }, {
+    "tStartMs": 364700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "That red is to unlock the child lock first."
+    } ]
+  }, {
+    "tStartMs": 367500,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "In case the child accidentally touches and burns himself"
+    } ]
+  }, {
+    "tStartMs": 374266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ladies and gentlemen"
+    } ]
+  }, {
+    "tStartMs": 376266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Welcome aboard"
+    } ]
+  }, {
+    "tStartMs": 377433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "China Railway Xi'an Bureau Group Co., Ltd."
+    } ]
+  }, {
+    "tStartMs": 381033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "EMU train"
+    } ]
+  }, {
+    "tStartMs": 383066,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "The stop in front of the train is"
+    } ]
+  }, {
+    "tStartMs": 385700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Shuozhou East Railway Station"
+    } ]
+  }, {
+    "tStartMs": 387433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Smoking is prohibited on all trains"
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Thank you for your cooperation."
+    } ]
+  }, {
+    "tStartMs": 392700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "ladies and gentlemen"
+    } ]
+  }, {
+    "tStartMs": 394500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "the train is going to arrive at"
+    } ]
+  }, {
+    "tStartMs": 542666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "This is where the dining car is located."
+    } ]
+  }, {
+    "tStartMs": 546066,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "Here is the lunch box."
+    } ]
+  }, {
+    "tStartMs": 549933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "That's too expensive."
+    } ]
+  }, {
+    "tStartMs": 552133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "both"
+    } ]
+  }, {
+    "tStartMs": 554700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 555700,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Yes, at present, there are all kinds of words."
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "All 4 dishes"
+    } ]
+  }, {
+    "tStartMs": 559566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Three or four dishes"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Two dishes, three dishes."
+    } ]
+  }, {
+    "tStartMs": 561800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Then 4 dishes"
+    } ]
+  }, {
+    "tStartMs": 563200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "This is two vegetarian dishes."
+    } ]
+  }, {
+    "tStartMs": 565500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "A meat dish"
+    } ]
+  }, {
+    "tStartMs": 566600,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 566933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "This is two meat dishes."
+    } ]
+  }, {
+    "tStartMs": 568366,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "A vegetarian dish"
+    } ]
+  }, {
+    "tStartMs": 569933,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 570300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So that's it."
+    } ]
+  }, {
+    "tStartMs": 571900,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Then no others anymore."
+    } ]
+  }, {
+    "tStartMs": 573266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes, a total of"
+    } ]
+  }, {
+    "tStartMs": 573966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Now the current word"
+    } ]
+  }, {
+    "tStartMs": 574766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "There are 9 kinds in total."
+    } ]
+  }, {
+    "tStartMs": 576366,
+    "dDurationMs": 5934,
+    "segs": [ {
+      "utf8": "There are biscuits, drinks, soup"
+    } ]
+  }, {
+    "tStartMs": 582300,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "How much is this?"
+    } ]
+  }, {
+    "tStartMs": 583033,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This is 28."
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "28 of"
+    } ]
+  }, {
+    "tStartMs": 585500,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I think this will do."
+    } ]
+  }, {
+    "tStartMs": 587533,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "What else do you want to eat?"
+    } ]
+  }, {
+    "tStartMs": 590600,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Try this"
+    } ]
+  }, {
+    "tStartMs": 591966,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "OK"
+    } ]
+  }, {
+    "tStartMs": 592366,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Fish tofu，lets order"
+    } ]
+  }, {
+    "tStartMs": 594633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Isn't that spicy?"
+    } ]
+  }, {
+    "tStartMs": 595966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Barbecue"
+    } ]
+  }, {
+    "tStartMs": 597266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "BBQ flavor is ok"
+    } ]
+  }, {
+    "tStartMs": 599766,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "This nut"
+    } ]
+  }, {
+    "tStartMs": 603300,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "This has ham sausage"
+    } ]
+  }, {
+    "tStartMs": 605066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "meat sausage"
+    } ]
+  }, {
+    "tStartMs": 606766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Want to eat"
+    } ]
+  }, {
+    "tStartMs": 608466,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Which one do you want to eat?"
+    } ]
+  }, {
+    "tStartMs": 609166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "This is sweet, this is beef"
+    } ]
+  }, {
+    "tStartMs": 610700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Which one to eat, you choose one."
+    } ]
+  }, {
+    "tStartMs": 611933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Do you need a drink?"
+    } ]
+  }, {
+    "tStartMs": 612900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "The drink"
+    } ]
+  }, {
+    "tStartMs": 614600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "If it's hot, it's tomato brisket soup"
+    } ]
+  }, {
+    "tStartMs": 616900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Then drink the rest"
+    } ]
+  }, {
+    "tStartMs": 618300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "You can take a look."
+    } ]
+  }, {
+    "tStartMs": 619366,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Oh, this is hot."
+    } ]
+  }, {
+    "tStartMs": 620533,
+    "dDurationMs": 167,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 620700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "It's hot. You can get hot water."
+    } ]
+  }, {
+    "tStartMs": 622733,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Want a hot one"
+    } ]
+  }, {
+    "tStartMs": 623500,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "Want a hot one"
+    } ]
+  }, {
+    "tStartMs": 623933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "You want a hot one too"
+    } ]
+  }, {
+    "tStartMs": 625100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "I don't want it."
+    } ]
+  }, {
+    "tStartMs": 626666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "You don't want it?"
+    } ]
+  }, {
+    "tStartMs": 627366,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "I don't want it."
+    } ]
+  }, {
+    "tStartMs": 628133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "Take one"
+    } ]
+  }, {
+    "tStartMs": 628766,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 629300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "We will scan you here."
+    } ]
+  }, {
+    "tStartMs": 630533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yeah, Alipay."
+    } ]
+  }, {
+    "tStartMs": 632333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Sure"
+    } ]
+  }, {
+    "tStartMs": 634333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "A total of 73."
+    } ]
+  }, {
+    "tStartMs": 635566,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "Okay"
+    } ]
+  }, {
+    "tStartMs": 639600,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "lets go back，thanks    youre welcome"
+    } ]
+  }, {
+    "tStartMs": 645733,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "Look, we got cookies, nuts and hot soup"
+    } ]
+  }, {
+    "tStartMs": 654133,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "Let's try this now"
+    } ]
+  }, {
+    "tStartMs": 660100,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "good，this cookie is okay"
+    } ]
+  }, {
+    "tStartMs": 665700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "delicious"
+    } ]
+  }, {
+    "tStartMs": 669500,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "This is vacuum-frozen tomato brisket soup."
+    } ]
+  }, {
+    "tStartMs": 675833,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "Do you want to drink now?"
+    } ]
+  }, {
+    "tStartMs": 681933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "You actually eat healthy"
+    } ]
+  }, {
+    "tStartMs": 684633,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Healthy nuts"
+    } ]
+  }, {
+    "tStartMs": 686633,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "ingredient list"
+    } ]
+  }, {
+    "tStartMs": 692266,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "He said let's not be too happy (kidding)"
+    } ]
+  }, {
+    "tStartMs": 698833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'll come and collect the trash later."
+    } ]
+  }, {
+    "tStartMs": 701333,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "You eat slowly"
+    } ]
+  }, {
+    "tStartMs": 703466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Okay, don't worry, thank you."
+    } ]
+  }, {
+    "tStartMs": 707100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "With almonds"
+    } ]
+  }, {
+    "tStartMs": 709433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "My friend asked me if I drank water"
+    } ]
+  }, {
+    "tStartMs": 711566,
+    "dDurationMs": 5367,
+    "segs": [ {
+      "utf8": "Please show me your cup."
+    } ]
+  }, {
+    "tStartMs": 716933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hahaha"
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I said I don't drink"
+    } ]
+  }, {
+    "tStartMs": 720466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "water will gone in one bite"
+    } ]
+  }, {
+    "tStartMs": 722733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "What a small cup, look at it"
+    } ]
+  }, {
+    "tStartMs": 727033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Have you never seen such a small cup?"
+    } ]
+  }, {
+    "tStartMs": 730866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 736566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "You drink it, I'll give it to you in one sip"
+    } ]
+  }, {
+    "tStartMs": 739833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "We just had a snack"
+    } ]
+  }, {
+    "tStartMs": 742866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "But we want to eat"
+    } ]
+  }, {
+    "tStartMs": 745233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Let's try it now."
+    } ]
+  }, {
+    "tStartMs": 747100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "How to order takeout on the high-speed rail"
+    } ]
+  }, {
+    "tStartMs": 751300,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "come"
+    } ]
+  }, {
+    "tStartMs": 752033,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "There is a QR code on the car"
+    } ]
+  }, {
+    "tStartMs": 753633,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "This QR code says the second one."
+    } ]
+  }, {
+    "tStartMs": 755700,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "The second is Internet ordering."
+    } ]
+  }, {
+    "tStartMs": 760033,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Okay, we choose this Internet to order food."
+    } ]
+  }, {
+    "tStartMs": 764133,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Okay, let's take your order."
+    } ]
+  }, {
+    "tStartMs": 765866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Enter your train number."
+    } ]
+  }, {
+    "tStartMs": 769166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Start ordering"
+    } ]
+  }, {
+    "tStartMs": 770733,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Select your departure and arrival stations"
+    } ]
+  }, {
+    "tStartMs": 773700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Datong South to Chengdu East OK"
+    } ]
+  }, {
+    "tStartMs": 776333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Start ordering"
+    } ]
+  }, {
+    "tStartMs": 778266,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(We) can choose the (takeaway) at the next stop, Xi'an North Railway Station."
+    } ]
+  }, {
+    "tStartMs": 782933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "To Xi'an North Railway Station"
+    } ]
+  }, {
+    "tStartMs": 784366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "We have Kentucky's?"
+    } ]
+  }, {
+    "tStartMs": 785733,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "There is McDonald's"
+    } ]
+  }, {
+    "tStartMs": 787166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Yes, and this Roujiamo, a characteristic of Xi'an."
+    } ]
+  }, {
+    "tStartMs": 789700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Features of Xi'an Roujiamo"
+    } ]
+  }, {
+    "tStartMs": 792533,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "Then let's order roujiamo."
+    } ]
+  }, {
+    "tStartMs": 795666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Two roujiamo"
+    } ]
+  }, {
+    "tStartMs": 797133,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Roujiamo"
+    } ]
+  }, {
+    "tStartMs": 799033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Laotongguan Roujiamo"
+    } ]
+  }, {
+    "tStartMs": 800333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "This is their intangible cultural heritage"
+    } ]
+  }, {
+    "tStartMs": 802700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "Then there is another fish-flavored eggplant set."
+    } ]
+  }, {
+    "tStartMs": 805566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Why are we eating so much?"
+    } ]
+  }, {
+    "tStartMs": 807133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Is 60 minus 8 minus 74 minus?"
+    } ]
+  }, {
+    "tStartMs": 810033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Enough (delivery)"
+    } ]
+  }, {
+    "tStartMs": 811433,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "Start typing your name or something"
+    } ]
+  }, {
+    "tStartMs": 816066,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Carriage We are 2 carriages"
+    } ]
+  }, {
+    "tStartMs": 820866,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "13AB"
+    } ]
+  }, {
+    "tStartMs": 823933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Select the seat of your car"
+    } ]
+  }, {
+    "tStartMs": 826666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Then choose your mobile number."
+    } ]
+  }, {
+    "tStartMs": 828433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You can choose the number of tableware you have."
+    } ]
+  }, {
+    "tStartMs": 830833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Two for two, OK."
+    } ]
+  }, {
+    "tStartMs": 834466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Pay Now"
+    } ]
+  }, {
+    "tStartMs": 837633,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Keep paying"
+    } ]
+  }, {
+    "tStartMs": 842100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Take a look at our order."
+    } ]
+  }, {
+    "tStartMs": 844133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "This is now that the merchant has accepted the order."
+    } ]
+  }, {
+    "tStartMs": 846433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "They are cooking"
+    } ]
+  }, {
+    "tStartMs": 847533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "The flight attendant"
+    } ]
+  }, {
+    "tStartMs": 848700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Will probably deliver this to our seat"
+    } ]
+  }, {
+    "tStartMs": 852033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Share with my friends"
+    } ]
+  }, {
+    "tStartMs": 853366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Take a look at my travel partner"
+    } ]
+  }, {
+    "tStartMs": 856366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Guess what this is?"
+    } ]
+  }, {
+    "tStartMs": 858033,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "throw pillow"
+    } ]
+  }, {
+    "tStartMs": 858533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Not a throw pillow"
+    } ]
+  }, {
+    "tStartMs": 860133,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "pillow"
+    } ]
+  }, {
+    "tStartMs": 860866,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Not a pillow"
+    } ]
+  }, {
+    "tStartMs": 861900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "What pillow?"
+    } ]
+  }, {
+    "tStartMs": 863100,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "Neck pillow?"
+    } ]
+  }, {
+    "tStartMs": 867666,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "This is a snake."
+    } ]
+  }, {
+    "tStartMs": 870366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Yeah, that's nice."
+    } ]
+  }, {
+    "tStartMs": 872266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 873233,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "just"
+    } ]
+  }, {
+    "tStartMs": 874366,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "You can remove it here and wash it."
+    } ]
+  }, {
+    "tStartMs": 879166,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "Your head won't fall off."
+    } ]
+  }, {
+    "tStartMs": 884033,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "I think (she hesitates to speak...)"
+    } ]
+  }, {
+    "tStartMs": 887000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "Like a stiff neck, you"
+    } ]
+  }, {
+    "tStartMs": 888966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Humph"
+    } ]
+  }, {
+    "tStartMs": 890433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Oh, not good."
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Is there any trash?"
+    } ]
+  }, {
+    "tStartMs": 893633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "OK"
+    } ]
+  }, {
+    "tStartMs": 896100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "I won't throw this away, thank you."
+    } ]
+  }, {
+    "tStartMs": 898566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And then you can hold it, you can hold it"
+    } ]
+  }, {
+    "tStartMs": 902766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Its shape can be varied."
+    } ]
+  }, {
+    "tStartMs": 904866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "You can be like this."
+    } ]
+  }, {
+    "tStartMs": 906700,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "It can also support you like this"
+    } ]
+  }, {
+    "tStartMs": 911566,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "If you want to sleep"
+    } ]
+  }, {
+    "tStartMs": 916766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "You can also get this over."
+    } ]
+  }, {
+    "tStartMs": 919500,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "Put your head in it"
+    } ]
+  }, {
+    "tStartMs": 924166,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Look, my rabbit has a tail."
+    } ]
+  }, {
+    "tStartMs": 926766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Whose rabbit has no tail?"
+    } ]
+  }, {
+    "tStartMs": 929466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Take a picture"
+    } ]
+  }, {
+    "tStartMs": 931466,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "My friend says her rabbit has a tail. Look at that"
+    } ]
+  }, {
+    "tStartMs": 935766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "What kind of rabbit has a tail?"
+    } ]
+  }, {
+    "tStartMs": 937566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "That's amazing."
+    } ]
+  }, {
+    "tStartMs": 940666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Now we are at Xi'an North Railway Station"
+    } ]
+  }, {
+    "tStartMs": 943066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "Stop, this stop takes a long time"
+    } ]
+  }, {
+    "tStartMs": 946400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Datong is close to Inner Mongolia"
+    } ]
+  }, {
+    "tStartMs": 947766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "So it's pretty far north."
+    } ]
+  }, {
+    "tStartMs": 948900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Xi'an is actually getting close now."
+    } ]
+  }, {
+    "tStartMs": 951333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Especially this one in Xi'an"
+    } ]
+  }, {
+    "tStartMs": 953066,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Qinling Mountains is relatively close to the dividing line between north and south"
+    } ]
+  }, {
+    "tStartMs": 956733,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "So its climate is similar to"
+    } ]
+  }, {
+    "tStartMs": 958100,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Our side is different."
+    } ]
+  }, {
+    "tStartMs": 959433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Let's go out and feel it"
+    } ]
+  }, {
+    "tStartMs": 960700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "Is it very hot?"
+    } ]
+  }, {
+    "tStartMs": 962166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "This is Xi'an North Railway Station"
+    } ]
+  }, {
+    "tStartMs": 964233,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Dear passengers"
+    } ]
+  }, {
+    "tStartMs": 965466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "In order to protect the majority of passengers"
+    } ]
+  }, {
+    "tStartMs": 967633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "350 kilometers per hour"
+    } ]
+  }, {
+    "tStartMs": 969733,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Did you see it?"
+    } ]
+  }, {
+    "tStartMs": 970233,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "This is the Fuxing."
+    } ]
+  }, {
+    "tStartMs": 971366,
+    "dDurationMs": 6967,
+    "segs": [ {
+      "utf8": "This is also the Fuxing"
+    } ]
+  }, {
+    "tStartMs": 978333,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 981933,
+    "dDurationMs": 5767,
+    "segs": [ {
+      "utf8": "It is convenient to transfer here."
+    } ]
+  }, {
+    "tStartMs": 987700,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Look, that's Harmony, (this is) Fuxing"
+    } ]
+  }, {
+    "tStartMs": 995700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Like a bullet"
+    } ]
+  }, {
+    "tStartMs": 997500,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "Now let's get the water."
+    } ]
+  }, {
+    "tStartMs": 1000033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "What about this red button?"
+    } ]
+  }, {
+    "tStartMs": 1001500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It's a child safety lock."
+    } ]
+  }, {
+    "tStartMs": 1003600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "You have to press it before it can get out of the water."
+    } ]
+  }, {
+    "tStartMs": 1006533,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Here are paper cups"
+    } ]
+  }, {
+    "tStartMs": 1008833,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Work hard."
+    } ]
+  }, {
+    "tStartMs": 1009933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "You move to the side"
+    } ]
+  }, {
+    "tStartMs": 1011100,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "I just saw that person like (the water is crooked)"
+    } ]
+  }, {
+    "tStartMs": 1016233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Ah!"
+    } ]
+  }, {
+    "tStartMs": 1017866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Look at it, it's easy to burn."
+    } ]
+  }, {
+    "tStartMs": 1019600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "My water glass is not suitable for picking, is it?"
+    } ]
+  }, {
+    "tStartMs": 1022433,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "OK"
+    } ]
+  }, {
+    "tStartMs": 1026233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "Stop ok"
+    } ]
+  }, {
+    "tStartMs": 1029300,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "this way"
+    } ]
+  }, {
+    "tStartMs": 1030466,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Another drink?"
+    } ]
+  }, {
+    "tStartMs": 1032800,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Have another drink"
+    } ]
+  }, {
+    "tStartMs": 1034133,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So that's pouring it in for you?"
+    } ]
+  }, {
+    "tStartMs": 1037733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "His cup is too small."
+    } ]
+  }, {
+    "tStartMs": 1038933,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "We just pour it in."
+    } ]
+  }, {
+    "tStartMs": 1044633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Get another drink"
+    } ]
+  }, {
+    "tStartMs": 1046066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "cover"
+    } ]
+  }, {
+    "tStartMs": 1047400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Ah!"
+    } ]
+  }, {
+    "tStartMs": 1049133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Sorry."
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Why don't you cover it up?"
+    } ]
+  }, {
+    "tStartMs": 1060100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "OK clean"
+    } ]
+  }, {
+    "tStartMs": 1061866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Clean and then what?"
+    } ]
+  }, {
+    "tStartMs": 1063733,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "Then wait for dinner"
+    } ]
+  }, {
+    "tStartMs": 1067300,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Wait a minute."
+    } ]
+  }, {
+    "tStartMs": 1068333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "We are waiting now"
+    } ]
+  }, {
+    "tStartMs": 1069866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "When can he bring us this meal（take away）?"
+    } ]
+  }, {
+    "tStartMs": 1072900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Do you want to look for your lid?"
+    } ]
+  }, {
+    "tStartMs": 1075633,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hmm lid"
+    } ]
+  }, {
+    "tStartMs": 1076633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Oh yeah, the lid."
+    } ]
+  }, {
+    "tStartMs": 1079133,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "Now finding the lid."
+    } ]
+  }, {
+    "tStartMs": 1085800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Nothing is lost."
+    } ]
+  }, {
+    "tStartMs": 1087000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Lost a lens cap"
+    } ]
+  }, {
+    "tStartMs": 1090333,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "Go through all the bags"
+    } ]
+  }, {
+    "tStartMs": 1095566,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": " just for this little thing"
+    } ]
+  }, {
+    "tStartMs": 1101233,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "Can you guess where I finally found it? 🤣🤣🤣"
+    } ]
+  }, {
+    "tStartMs": 1106466,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "Watch until the end pls"
+    } ]
+  }, {
+    "tStartMs": 1111966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Hello, please eat here."
+    } ]
+  }, {
+    "tStartMs": 1113666,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "13A, right?"
+    } ]
+  }, {
+    "tStartMs": 1115166,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "Okay, okay."
+    } ]
+  }, {
+    "tStartMs": 1115700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Thank you. Thank you."
+    } ]
+  }, {
+    "tStartMs": 1116600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yehahaha"
+    } ]
+  }, {
+    "tStartMs": 1119100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Thank you for our meal"
+    } ]
+  }, {
+    "tStartMs": 1121500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "The lid was not found."
+    } ]
+  }, {
+    "tStartMs": 1122466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Start eating"
+    } ]
+  }, {
+    "tStartMs": 1123866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Forget about the lid"
+    } ]
+  }, {
+    "tStartMs": 1125700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "The lid ran away from home"
+    } ]
+  }, {
+    "tStartMs": 1128366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Our takeout"
+    } ]
+  }, {
+    "tStartMs": 1130666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "This is Mimi."
+    } ]
+  }, {
+    "tStartMs": 1133133,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "Lao Tongguan Roujiamo two copies"
+    } ]
+  }, {
+    "tStartMs": 1137066,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "Yuxiang eggplant rice"
+    } ]
+  }, {
+    "tStartMs": 1140833,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "This paper can be torn."
+    } ]
+  }, {
+    "tStartMs": 1148433,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Guys look"
+    } ]
+  }, {
+    "tStartMs": 1155833,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Fat and thin"
+    } ]
+  }, {
+    "tStartMs": 1157433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Fat and thin"
+    } ]
+  }, {
+    "tStartMs": 1158633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Delivered a can of drink"
+    } ]
+  }, {
+    "tStartMs": 1160666,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "But neither of us like to drink"
+    } ]
+  }, {
+    "tStartMs": 1164866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "we have postprandial somnolence"
+    } ]
+  }, {
+    "tStartMs": 1167166,
+    "dDurationMs": 9134,
+    "segs": [ {
+      "utf8": "The second meal is this fish-flavored eggplant."
+    } ]
+  }, {
+    "tStartMs": 1176300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "OK"
+    } ]
+  }, {
+    "tStartMs": 1178100,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Then take me to the hotel for you."
+    } ]
+  }, {
+    "tStartMs": 1179333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "or"
+    } ]
+  }, {
+    "tStartMs": 1181266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Also ok"
+    } ]
+  }, {
+    "tStartMs": 1183500,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Third meal"
+    } ]
+  }, {
+    "tStartMs": 1187133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "This one has cucumber rice skin in it."
+    } ]
+  }, {
+    "tStartMs": 1190700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And some small bean sprouts"
+    } ]
+  }, {
+    "tStartMs": 1192800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "This is red oil."
+    } ]
+  }, {
+    "tStartMs": 1194166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "This is its seasoning pack."
+    } ]
+  }, {
+    "tStartMs": 1195800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Let's see what it tastes like."
+    } ]
+  }, {
+    "tStartMs": 1201400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "What（flavor）"
+    } ]
+  }, {
+    "tStartMs": 1203700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Dough is the dough flavor"
+    } ]
+  }, {
+    "tStartMs": 1205900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Oil smells like oil"
+    } ]
+  }, {
+    "tStartMs": 1208933,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "How did they separate wet and dry (bad flavor)?"
+    } ]
+  }, {
+    "tStartMs": 1212966,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "No thanks"
+    } ]
+  }, {
+    "tStartMs": 1216900,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "I found my camera lens cap. Here it is."
+    } ]
+  }, {
+    "tStartMs": 1221366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "Here it is."
+    } ]
+  }, {
+    "tStartMs": 1222000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Why are they there?"
+    } ]
+  }, {
+    "tStartMs": 1223800,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "I don't know. Maybe someone else found it."
+    } ]
+  }, {
+    "tStartMs": 506900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "甚至你可以在车上叫小零食"
+    } ]
+  }, {
+    "tStartMs": 510500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "你点了小零食以后"
+    } ]
+  }, {
+    "tStartMs": 512100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "有人给你送过来"
+    } ]
+  }, {
+    "tStartMs": 66,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "朋友们跟我一起体验"
+    } ]
+  }, {
+    "tStartMs": 3400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "坐中国的高铁吧"
+    } ]
+  }, {
+    "tStartMs": 6133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "在这个视频里"
+    } ]
+  }, {
+    "tStartMs": 7933,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "我们一起看看中国高铁上有哪些设施"
+    } ]
+  }, {
+    "tStartMs": 13800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你可以做什么"
+    } ]
+  }, {
+    "tStartMs": 15600,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "而且你怎样在中国的高铁点外卖哦"
+    } ]
+  }, {
+    "tStartMs": 21933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "你们好奇吗"
+    } ]
+  }, {
+    "tStartMs": 23466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我们一起看看吧"
+    } ]
+  }, {
+    "tStartMs": 69800,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "这个电子屏幕上显示的是你当前坐的"
+    } ]
+  }, {
+    "tStartMs": 75833,
+    "dDurationMs": 7033,
+    "segs": [ {
+      "utf8": "车厢号码以及此时此刻列车的速度"
+    } ]
+  }, {
+    "tStartMs": 82866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "还有此时此刻"
+    } ]
+  }, {
+    "tStartMs": 85366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "你正要接近的高铁站"
+    } ]
+  }, {
+    "tStartMs": 88733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "外面的温度是多少"
+    } ]
+  }, {
+    "tStartMs": 90800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "天气怎么样"
+    } ]
+  }, {
+    "tStartMs": 92333,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "和一些坐高铁时的注意事项"
+    } ]
+  }, {
+    "tStartMs": 101100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "在大部分高铁车厢的座位上方"
+    } ]
+  }, {
+    "tStartMs": 105700,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "你会看到座位号码a b c或d f"
+    } ]
+  }, {
+    "tStartMs": 110733,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "在这些号码旁边会看到绿色黄色红色"
+    } ]
+  }, {
+    "tStartMs": 116033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "像这个座位"
+    } ]
+  }, {
+    "tStartMs": 117300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "它有三个绿色"
+    } ]
+  }, {
+    "tStartMs": 118700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "代表这一站和下一站没有人哦"
+    } ]
+  }, {
+    "tStartMs": 158666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "这是一个推拉门"
+    } ]
+  }, {
+    "tStartMs": 160700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "关上门以后可以看到"
+    } ]
+  }, {
+    "tStartMs": 162966,
+    "dDurationMs": 4934,
+    "segs": [ {
+      "utf8": "这里锁门以后它变成红色"
+    } ]
+  }, {
+    "tStartMs": 167900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "我们来看一下"
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这个是冲水的按钮"
+    } ]
+  }, {
+    "tStartMs": 173066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "上完厕所按这个就好"
+    } ]
+  }, {
+    "tStartMs": 177166,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "这边呢是纸"
+    } ]
+  }, {
+    "tStartMs": 179100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "还有一个扶手"
+    } ]
+  }, {
+    "tStartMs": 180900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "如果你不太方便行动"
+    } ]
+  }, {
+    "tStartMs": 182566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "可以扶着它起来"
+    } ]
+  }, {
+    "tStartMs": 191266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "列车上是不可以吸烟的"
+    } ]
+  }, {
+    "tStartMs": 193300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "烟雾会触发警报系统"
+    } ]
+  }, {
+    "tStartMs": 195866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "导致整个列车停运"
+    } ]
+  }, {
+    "tStartMs": 197933,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "影响非常严重"
+    } ]
+  }, {
+    "tStartMs": 201433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这边是纸"
+    } ]
+  }, {
+    "tStartMs": 202566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "用完以后可以扔到垃圾桶"
+    } ]
+  }, {
+    "tStartMs": 204833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "这里写（着）废物箱"
+    } ]
+  }, {
+    "tStartMs": 207966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "这就是我们的蹲坑啦"
+    } ]
+  }, {
+    "tStartMs": 210633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这里是香薰片"
+    } ]
+  }, {
+    "tStartMs": 213233,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这边还有一个魔镜"
+    } ]
+  }, {
+    "tStartMs": 214733,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "可以照出世界上最美最帅的人"
+    } ]
+  }, {
+    "tStartMs": 219300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "好这边的洗手池"
+    } ]
+  }, {
+    "tStartMs": 222266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "这个水龙头啊"
+    } ]
+  }, {
+    "tStartMs": 223700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "它是按压出水，你看"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "太浪费了太浪费了"
+    } ]
+  }, {
+    "tStartMs": 230100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "洗完以后这边有纸"
+    } ]
+  }, {
+    "tStartMs": 231633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "可以抽纸"
+    } ]
+  }, {
+    "tStartMs": 233533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这里是一个挂钩"
+    } ]
+  }, {
+    "tStartMs": 234733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "如果你有行李可以挂上去"
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那下面呢"
+    } ]
+  }, {
+    "tStartMs": 237533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "也是一个扶手"
+    } ]
+  }, {
+    "tStartMs": 238966,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "不方便可以扶着它起来"
+    } ]
+  }, {
+    "tStartMs": 242733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "接下来我们一起去马桶卫生间看看吧"
+    } ]
+  }, {
+    "tStartMs": 246833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "绿色是无人    记住哦"
+    } ]
+  }, {
+    "tStartMs": 249966,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "打开这个推拉门关上"
+    } ]
+  }, {
+    "tStartMs": 253566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "大概可以看到啊"
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "这个卫生间的格局跟"
+    } ]
+  }, {
+    "tStartMs": 257166,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "蹲坑卫生间是差不多的"
+    } ]
+  }, {
+    "tStartMs": 259833,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "不一样的是这里有座便的垫纸"
+    } ]
+  }, {
+    "tStartMs": 263500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "你可以把马桶圈拿下来"
+    } ]
+  }, {
+    "tStartMs": 265566,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "把垫纸放上去"
+    } ]
+  }, {
+    "tStartMs": 267366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "干净卫生"
+    } ]
+  }, {
+    "tStartMs": 269233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "这里是冲水的"
+    } ]
+  }, {
+    "tStartMs": 272300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "旁边也一样"
+    } ]
+  }, {
+    "tStartMs": 274200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "有卫生纸"
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "还有扶手"
+    } ]
+  }, {
+    "tStartMs": 277733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "行动不便扶着它"
+    } ]
+  }, {
+    "tStartMs": 281233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "有一些英语哦"
+    } ]
+  }, {
+    "tStartMs": 283166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "哦上面这个黄色的"
+    } ]
+  }, {
+    "tStartMs": 284833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "它是香薰片的盒子"
+    } ]
+  }, {
+    "tStartMs": 286500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "里面有香薰香味"
+    } ]
+  }, {
+    "tStartMs": 289433,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "这就是马桶了"
+    } ]
+  }, {
+    "tStartMs": 292966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "旁边也是一个水池"
+    } ]
+  }, {
+    "tStartMs": 294966,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "按压的水龙头"
+    } ]
+  }, {
+    "tStartMs": 297233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "下面是垃圾箱"
+    } ]
+  }, {
+    "tStartMs": 298933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这里是一样的"
+    } ]
+  }, {
+    "tStartMs": 300766,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "上面还是魔镜"
+    } ]
+  }, {
+    "tStartMs": 304566,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "挂衣服挂行李的挂包的"
+    } ]
+  }, {
+    "tStartMs": 308700,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "那我们现在就出去吧"
+    } ]
+  }, {
+    "tStartMs": 398233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "每个座椅的后面像飞机"
+    } ]
+  }, {
+    "tStartMs": 400533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "一样都有一个清洁袋"
+    } ]
+  }, {
+    "tStartMs": 402566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "可以把你的垃圾放在清洁袋里"
+    } ]
+  }, {
+    "tStartMs": 406266,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "过一会会有保洁来收"
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "这个是静音车厢专属的提示卡"
+    } ]
+  }, {
+    "tStartMs": 413866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "还有英文版"
+    } ]
+  }, {
+    "tStartMs": 415200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "大家不用担心"
+    } ]
+  }, {
+    "tStartMs": 422666,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "这里呢是说小桌板它限重10公斤"
+    } ]
+  }, {
+    "tStartMs": 427633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "以及你们的座椅下方"
+    } ]
+  }, {
+    "tStartMs": 430366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "其实是有一个充电口的"
+    } ]
+  }, {
+    "tStartMs": 433433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我一会视频会给大家"
+    } ]
+  }, {
+    "tStartMs": 435466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "展示一下怎么充电"
+    } ]
+  }, {
+    "tStartMs": 439966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "看我们座位扶手旁边有一个卡扣"
+    } ]
+  }, {
+    "tStartMs": 444500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看到了吗"
+    } ]
+  }, {
+    "tStartMs": 445300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "你如果把它掰起来"
+    } ]
+  }, {
+    "tStartMs": 447900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "你的座椅靠背就会调整位置"
+    } ]
+  }, {
+    "tStartMs": 451733,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "就像这样"
+    } ]
+  }, {
+    "tStartMs": 456533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这里就是刚才说的"
+    } ]
+  }, {
+    "tStartMs": 457933,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "座位下方的充电器（插座）啦"
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你可以充你的手机电脑"
+    } ]
+  }, {
+    "tStartMs": 463200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "甚至数据线充电"
+    } ]
+  }, {
+    "tStartMs": 466433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这里呢有一个挂钩啊"
+    } ]
+  }, {
+    "tStartMs": 468833,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "这个挂钩可以挂你的衣服帽子什么的"
+    } ]
+  }, {
+    "tStartMs": 472700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "一定是轻一点的东西"
+    } ]
+  }, {
+    "tStartMs": 475233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "因为如果是重的话"
+    } ]
+  }, {
+    "tStartMs": 477200,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "列车员会过来叫你把它拿下去"
+    } ]
+  }, {
+    "tStartMs": 484700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "看到扶手上有一个二维码"
+    } ]
+  }, {
+    "tStartMs": 486400,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "你们好奇吗"
+    } ]
+  }, {
+    "tStartMs": 487566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我们扫一下"
+    } ]
+  }, {
+    "tStartMs": 488800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "看看是什么吧"
+    } ]
+  }, {
+    "tStartMs": 490966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "打开这个小程序界面"
+    } ]
+  }, {
+    "tStartMs": 493533,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "你可以看到你所乘坐的列车"
+    } ]
+  }, {
+    "tStartMs": 496733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "它的型号以及它的"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "商务座一等座二等座"
+    } ]
+  }, {
+    "tStartMs": 502500,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "这些座位是什么样子的"
+    } ]
+  }, {
+    "tStartMs": 506900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "You can even order snacks on the train."
+    } ]
+  }, {
+    "tStartMs": 510500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "After you order the snacks,"
+    } ]
+  }, {
+    "tStartMs": 512100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "someone will deliver it to you."
+    } ]
+  }, {
+    "tStartMs": 517566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我们坐的这趟列车从"
+    } ]
+  }, {
+    "tStartMs": 520466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "中国的北方一路南下"
+    } ]
+  }, {
+    "tStartMs": 523933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "每一站的风景也是不一样的"
+    } ]
+  }, {
+    "tStartMs": 526966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "可以看到窗外的植被啊"
+    } ]
+  }, {
+    "tStartMs": 530366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "山呐"
+    } ]
+  }, {
+    "tStartMs": 531833,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "风景啊以及天气气候也越来越不同"
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "现在回来了"
+    } ]
+  }, {
+    "tStartMs": 1226466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这就是今天这个视频了"
+    } ]
+  }, {
+    "tStartMs": 1229000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "谢谢大家跟我一起坐高铁"
+    } ]
+  }, {
+    "tStartMs": 1232200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "如果这个视频能帮助到你们"
+    } ]
+  }, {
+    "tStartMs": 1234600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我会很开心哦"
+    } ]
+  }, {
+    "tStartMs": 66,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "Friends, let's experience it together."
+    } ]
+  }, {
+    "tStartMs": 3400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Let's take the high-speed rail in China."
+    } ]
+  }, {
+    "tStartMs": 6133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "In this video,"
+    } ]
+  }, {
+    "tStartMs": 7933,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "Let's see what facilities are available on the high-speed rail."
+    } ]
+  }, {
+    "tStartMs": 13800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "What can you do?"
+    } ]
+  }, {
+    "tStartMs": 15600,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "And how to order takeout on the high-speed rail in China."
+    } ]
+  }, {
+    "tStartMs": 21933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Are you curious?"
+    } ]
+  }, {
+    "tStartMs": 23466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Let's take a look together."
+    } ]
+  }, {
+    "tStartMs": 69800,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "The electronic screen shows the current car number"
+    } ]
+  }, {
+    "tStartMs": 75833,
+    "dDurationMs": 7033,
+    "segs": [ {
+      "utf8": "car number and the speed of the train at this moment."
+    } ]
+  }, {
+    "tStartMs": 82866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "and the speed of the train at this moment."
+    } ]
+  }, {
+    "tStartMs": 85366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "the high-speed rail station you are approaching."
+    } ]
+  }, {
+    "tStartMs": 88733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "What's the temperature outside?"
+    } ]
+  }, {
+    "tStartMs": 90800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "the weather,"
+    } ]
+  }, {
+    "tStartMs": 92333,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "and some tips for taking the high-speed rail."
+    } ]
+  }, {
+    "tStartMs": 101100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Above the seats in most high-speed rail carriages,"
+    } ]
+  }, {
+    "tStartMs": 105700,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "you will see seat numbers like a, b, c, or d, f."
+    } ]
+  }, {
+    "tStartMs": 110733,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Next to these numbers, you will see green, yellow, and red."
+    } ]
+  }, {
+    "tStartMs": 116033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Like this seat,"
+    } ]
+  }, {
+    "tStartMs": 117300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "It has three green lights,"
+    } ]
+  }, {
+    "tStartMs": 118700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "It means there are no people at this and next stops."
+    } ]
+  }, {
+    "tStartMs": 158666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "This is a sliding door."
+    } ]
+  }, {
+    "tStartMs": 160700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "After closing the door, you can see"
+    } ]
+  }, {
+    "tStartMs": 162966,
+    "dDurationMs": 4934,
+    "segs": [ {
+      "utf8": "After locking the door, it turns red."
+    } ]
+  }, {
+    "tStartMs": 167900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "Let's take a look."
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This is the button for flushing."
+    } ]
+  }, {
+    "tStartMs": 173066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Press this after using the toilet."
+    } ]
+  }, {
+    "tStartMs": 177166,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Here is paper."
+    } ]
+  }, {
+    "tStartMs": 179100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and a handrail."
+    } ]
+  }, {
+    "tStartMs": 180900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "If you are not convenient to move,"
+    } ]
+  }, {
+    "tStartMs": 182566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "you can hold it up."
+    } ]
+  }, {
+    "tStartMs": 191266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Smoking is not allowed on the train."
+    } ]
+  }, {
+    "tStartMs": 193300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Smoke will trigger the alarm system,"
+    } ]
+  }, {
+    "tStartMs": 195866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "and cause the entire train to stop."
+    } ]
+  }, {
+    "tStartMs": 197933,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "The impact is very serious."
+    } ]
+  }, {
+    "tStartMs": 201433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Here is paper."
+    } ]
+  }, {
+    "tStartMs": 202566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "You can throw it into the trash can after using it."
+    } ]
+  }, {
+    "tStartMs": 204833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "Here it says waste bin."
+    } ]
+  }, {
+    "tStartMs": 207966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "This is our squat toilet."
+    } ]
+  }, {
+    "tStartMs": 210633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Here are the aromatherapy tablets."
+    } ]
+  }, {
+    "tStartMs": 213233,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "There is also a magic mirror here."
+    } ]
+  }, {
+    "tStartMs": 214733,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "which can reflect the most beautiful and handsome people."
+    } ]
+  }, {
+    "tStartMs": 219300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Okay, this is the sink."
+    } ]
+  }, {
+    "tStartMs": 222266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "This faucet"
+    } ]
+  }, {
+    "tStartMs": 223700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "It is pressed out of the water, you see"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "What a waste. What a waste."
+    } ]
+  }, {
+    "tStartMs": 230100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "There is paper here after washing."
+    } ]
+  }, {
+    "tStartMs": 231633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "You can use it to wipe."
+    } ]
+  }, {
+    "tStartMs": 233533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Here is a hook."
+    } ]
+  }, {
+    "tStartMs": 234733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "If you have luggage, you can hang it on it."
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And below,"
+    } ]
+  }, {
+    "tStartMs": 237533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "there is also an armrest."
+    } ]
+  }, {
+    "tStartMs": 238966,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "If it's inconvenient, you can hold it up."
+    } ]
+  }, {
+    "tStartMs": 242733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Next, let's go to the toilet bathroom together."
+    } ]
+  }, {
+    "tStartMs": 246833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "Green is no one, remember."
+    } ]
+  }, {
+    "tStartMs": 249966,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Open this sliding door and close it."
+    } ]
+  }, {
+    "tStartMs": 253566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "You can see it."
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "The layout of this bathroom is similar to"
+    } ]
+  }, {
+    "tStartMs": 257166,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "the squat toilet bathroom."
+    } ]
+  }, {
+    "tStartMs": 259833,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "The difference is that there are toilet pads here"
+    } ]
+  }, {
+    "tStartMs": 263500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "You can take down the toilet seat,"
+    } ]
+  }, {
+    "tStartMs": 265566,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and put the pad on it."
+    } ]
+  }, {
+    "tStartMs": 267366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "It's clean and hygienic."
+    } ]
+  }, {
+    "tStartMs": 269233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "Here is the flushing button."
+    } ]
+  }, {
+    "tStartMs": 272300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The same goes for the side."
+    } ]
+  }, {
+    "tStartMs": 274200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "There is toilet paper."
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "and armrests."
+    } ]
+  }, {
+    "tStartMs": 277733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Use it to hold on if you're unsteady."
+    } ]
+  }, {
+    "tStartMs": 281233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "There is some English."
+    } ]
+  }, {
+    "tStartMs": 283166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Oh, the yellow one above"
+    } ]
+  }, {
+    "tStartMs": 284833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "It's a box for aromatherapy tablets."
+    } ]
+  }, {
+    "tStartMs": 286500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "There is a scent inside."
+    } ]
+  }, {
+    "tStartMs": 289433,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "This is the toilet."
+    } ]
+  }, {
+    "tStartMs": 292966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Next to it is a sink."
+    } ]
+  }, {
+    "tStartMs": 294966,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "with a push-button faucet."
+    } ]
+  }, {
+    "tStartMs": 297233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Below is the trash can."
+    } ]
+  }, {
+    "tStartMs": 298933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "It's the same here."
+    } ]
+  }, {
+    "tStartMs": 300766,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and a magic mirror above."
+    } ]
+  }, {
+    "tStartMs": 304566,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "It's for hanging clothes, luggage, and bags."
+    } ]
+  }, {
+    "tStartMs": 308700,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "Let's go out now."
+    } ]
+  }, {
+    "tStartMs": 398233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Behind each seat, like an airplane,"
+    } ]
+  }, {
+    "tStartMs": 400533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "there is a cleaning bag."
+    } ]
+  }, {
+    "tStartMs": 402566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "You can put your garbage in the cleaning bag."
+    } ]
+  }, {
+    "tStartMs": 406266,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "The cleaners will come to collect it later."
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "This is a special reminder card for the quiet car."
+    } ]
+  }, {
+    "tStartMs": 413866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "There is also an English version."
+    } ]
+  }, {
+    "tStartMs": 415200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "Don't worry."
+    } ]
+  }, {
+    "tStartMs": 422666,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "This is a small table, with a weight limit of ten kilograms."
+    } ]
+  }, {
+    "tStartMs": 427633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "and under your seat."
+    } ]
+  }, {
+    "tStartMs": 430366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "there is actually a charging port."
+    } ]
+  }, {
+    "tStartMs": 433433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I will show you in the video later"
+    } ]
+  }, {
+    "tStartMs": 435466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "how to charge it."
+    } ]
+  }, {
+    "tStartMs": 439966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "Look, there is a buckle next to the armrest."
+    } ]
+  }, {
+    "tStartMs": 444500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Do you see it?"
+    } ]
+  }, {
+    "tStartMs": 445300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "If you lift it up,"
+    } ]
+  }, {
+    "tStartMs": 447900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "your seat back will adjust its position."
+    } ]
+  }, {
+    "tStartMs": 451733,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Just like this."
+    } ]
+  }, {
+    "tStartMs": 456533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "This is the charger mentioned earlier"
+    } ]
+  }, {
+    "tStartMs": 457933,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "The charger (socket) under the seat."
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "You can charge your phone, computer,"
+    } ]
+  }, {
+    "tStartMs": 463200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "or even a data cable."
+    } ]
+  }, {
+    "tStartMs": 466433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Here is a hook."
+    } ]
+  }, {
+    "tStartMs": 468833,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "This hook can hang your clothes, hats, and other things."
+    } ]
+  }, {
+    "tStartMs": 472700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "It must be something lighter,"
+    } ]
+  }, {
+    "tStartMs": 475233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Because if it's heavy,"
+    } ]
+  }, {
+    "tStartMs": 477200,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "the conductor will come and ask you to take it down."
+    } ]
+  }, {
+    "tStartMs": 484700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "You can see a QR code on the armrest."
+    } ]
+  }, {
+    "tStartMs": 486400,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Are you curious?"
+    } ]
+  }, {
+    "tStartMs": 487566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Let's scan it."
+    } ]
+  }, {
+    "tStartMs": 488800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "and see what it is."
+    } ]
+  }, {
+    "tStartMs": 490966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Open this mini program interface."
+    } ]
+  }, {
+    "tStartMs": 493533,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "you can see the train you are taking."
+    } ]
+  }, {
+    "tStartMs": 496733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "its model and its"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "business class, first class, and second class seats."
+    } ]
+  }, {
+    "tStartMs": 502500,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "what these seats look like."
+    } ]
+  }, {
+    "tStartMs": 517566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "The train we are taking is from"
+    } ]
+  }, {
+    "tStartMs": 520466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "from the north to the south of China."
+    } ]
+  }, {
+    "tStartMs": 523933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "and the scenery at each stop is also different."
+    } ]
+  }, {
+    "tStartMs": 526966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "You can see the vegetation outside the window,"
+    } ]
+  }, {
+    "tStartMs": 530366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "mountains,"
+    } ]
+  }, {
+    "tStartMs": 531833,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "scenery, and weather and climate are also different."
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "I'm back now."
+    } ]
+  }, {
+    "tStartMs": 1226466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "This is today's video."
+    } ]
+  }, {
+    "tStartMs": 1229000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Thank you for riding the high-speed train with me"
+    } ]
+  }, {
+    "tStartMs": 1232200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If this video can help you,"
+    } ]
+  }, {
+    "tStartMs": 1234600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "I will be very happy."
+    } ]
+  }, {
+    "tStartMs": 1236500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "See u next one 下次见！\nBe happy！❤😊"
+    } ]
+  } ]
+}

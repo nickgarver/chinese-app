@@ -1,0 +1,1483 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 33,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "hēi ， dà jiā hǎo\n嗨  ， 大 家  好 "
+    } ]
+  }, {
+    "tStartMs": 1533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "huān yíng huí dào wǒ de pín dào\n欢   迎   回  到  我 的 频  道 "
+    } ]
+  }, {
+    "tStartMs": 3733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "wǒ shì ān jí lā\n我 是  安 吉 拉"
+    } ]
+  }, {
+    "tStartMs": 5600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "jīn tiān jì xù zán men de zhōng wén bō kè\n今  天   继 续 咱  们  的 中    文  播 客"
+    } ]
+  }, {
+    "tStartMs": 9933,
+    "dDurationMs": 8967,
+    "segs": [ {
+      "utf8": "jīn tiān ， ne wǒ huì bǎ shì pín zhōng chū xiàn de shí gè fēi cháng cháng yòng de hàn yǔ dān cí biāo chū lái\n今  天   ， 呢 我 会  把 视  频  中    出  现   的 十  个 非  常    常    用   的 汉  语 单  词 标   出  来 "
+    } ]
+  }, {
+    "tStartMs": 19566,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "bìng qiě bǎ tā men de yì sī hé fā yīn fàng dào shì pín de zuì hòu\n并   且  把 它 们  的 意 思 和 发 音  放   到  视  频  的 最  后 "
+    } ]
+  }, {
+    "tStartMs": 26433,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ xī wàng dà jiā jīn tiān kàn wán zhè ge shì pín\n我 希 望   大 家  今  天   看  完  这  个 视  频 "
+    } ]
+  }, {
+    "tStartMs": 30833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "néng gòu zhǎng wò shí gè hàn yǔ dān cí\n能   够  掌    握 十  个 汉  语 单  词"
+    } ]
+  }, {
+    "tStartMs": 35633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "zhǎng wò de yì sī ne jiù shì “ xué huì ”\n掌    握 的 意 思 呢 就  是  “ 学  会  ”"
+    } ]
+  }, {
+    "tStartMs": 38533,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "zhǎng ， shǒu zhǎng\n掌    ， 手   掌   "
+    } ]
+  }, {
+    "tStartMs": 39466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "wò ， wò zhù\n握 ， 握 住 "
+    } ]
+  }, {
+    "tStartMs": 42166,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "shǒu zhǎng wò zhù ， tā jiù shì nǐ de dōng xī le\n手   掌    握 住  ， 它 就  是  你 的 东   西 了"
+    } ]
+  }, {
+    "tStartMs": 45933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nǐ jiù xué huì le\n你 就  学  会  了"
+    } ]
+  }, {
+    "tStartMs": 47500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "zhè jiù shì “ zhǎng wò ” de yì sī\n这  就  是  “ 掌    握 ” 的 意 思"
+    } ]
+  }, {
+    "tStartMs": 49900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "wǒ xī wàng dà jiā jīn tiān kàn wán zhè ge shì pín\n我 希 望   大 家  今  天   看  完  这  个 视  频 "
+    } ]
+  }, {
+    "tStartMs": 53200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "néng gòu zhǎng wò shí gè dān cí\n能   够  掌    握 十  个 单  词"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "qí shí rú guǒ yí duàn shì pín néng gòu xué huì shí gè dān cí de huà\n其 实  如 果  一 段   视  频  能   够  学  会  十  个 单  词 的 话 "
+    } ]
+  }, {
+    "tStartMs": 62466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "yǐ jīng fēi cháng fēi cháng lì hài le\n已 经   非  常    非  常    厉 害  了"
+    } ]
+  }, {
+    "tStartMs": 65133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "hǎo ba zán men xiàn zài kāi shǐ ba\n好  吧 咱  们  现   在  开  始  吧"
+    } ]
+  }, {
+    "tStartMs": 67733,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ xiǎng gēn dà jiā liáo de huà tí shì “ fán ěr sài ”\n今  天   我 想    跟  大 家  聊   的 话  题 是  “ 凡  尔 赛  ”"
+    } ]
+  }, {
+    "tStartMs": 72933,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "tīng dào fán ěr sài zhè ge cí ne\n听   到  凡  尔 赛  这  个 词 呢"
+    } ]
+  }, {
+    "tStartMs": 75266,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "dà jiā kěn dìng xiǎng dào de shì fǎ guó de fán ěr sài\n大 家  肯  定   想    到  的 是  法 国  的 凡  尔 赛 "
+    } ]
+  }, {
+    "tStartMs": 80100,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "méi cuò ， fán ěr sài ne shì fǎ guó de yí gè chéng shì\n没  错  ， 凡  尔 赛  呢 是  法 国  的 一 个 城    市 "
+    } ]
+  }, {
+    "tStartMs": 85600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yīng gāi shì zài bā lí fù jìn ba\n应   该  是  在  巴 黎 附 近  吧"
+    } ]
+  }, {
+    "tStartMs": 88533,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "wǒ méi yǒu qù guò\n我 没  有  去 过 "
+    } ]
+  }, {
+    "tStartMs": 89800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "zhè shì wǒ zài wǎng shàng chá de\n这  是  我 在  网   上    查  的"
+    } ]
+  }, {
+    "tStartMs": 92666,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "nà zài nà ér ne yǒu yí gè fēi cháng yǒu míng de huáng gōng\n那 在  那 儿 呢 有  一 个 非  常    有  名   的 皇    宫  "
+    } ]
+  }, {
+    "tStartMs": 98233,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "yǐ qián fǎ guó guó wáng de yí gè huáng gōng ， jiào fán ěr sài gōng\n以 前   法 国  国  王   的 一 个 皇    宫   ， 叫   凡  尔 赛  宫  "
+    } ]
+  }, {
+    "tStartMs": 104666,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "nà zhè ge huáng gōng fēi cháng de háo huá\n那 这  个 皇    宫   非  常    的 豪  华 "
+    } ]
+  }, {
+    "tStartMs": 107933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "yě fēi cháng de yǒu míng\n也 非  常    的 有  名  "
+    } ]
+  }, {
+    "tStartMs": 109866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "xiàng wǒ gēn běn méi yǒu qù guò fǎ guó\n像    我 根  本  没  有  去 过  法 国 "
+    } ]
+  }, {
+    "tStartMs": 112466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "wǒ yě tīng shuō guò zhè ge huáng gōng\n我 也 听   说   过  这  个 皇    宫  "
+    } ]
+  }, {
+    "tStartMs": 116200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "nà hěn duō qù fǎ guó lǚ yóu de rén ne\n那 很  多  去 法 国  旅 游  的 人  呢"
+    } ]
+  }, {
+    "tStartMs": 119433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "qù bā lí lǚ yóu de rén\n去 巴 黎 旅 游  的 人 "
+    } ]
+  }, {
+    "tStartMs": 121633,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "yě yí dìng huì qù zhè ge fán ěr sài gōng dǎ kǎ\n也 一 定   会  去 这  个 凡  尔 赛  宫   打 卡"
+    } ]
+  }, {
+    "tStartMs": 126400,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "qí shí a zhōng guó yě yǒu yí gè “ fán ěr sài ”\n其 实  啊 中    国  也 有  一 个 “ 凡  尔 赛  ”"
+    } ]
+  }, {
+    "tStartMs": 129733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "jīn tiān shì pín de zhǔ tí ne\n今  天   视  频  的 主  题 呢"
+    } ]
+  }, {
+    "tStartMs": 131733,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "wǒ jiù xiǎng gēn dà jiā liáo yi liáo zhōng guó zhè ge fán ěr sài\n我 就  想    跟  大 家  聊   一 聊   中    国  这  个 凡  尔 赛 "
+    } ]
+  }, {
+    "tStartMs": 136300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "zhōng guó de fán ěr sài bú shì yí gè huáng gōng\n中    国  的 凡  尔 赛  不 是  一 个 皇    宫  "
+    } ]
+  }, {
+    "tStartMs": 140233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yě bú shì yí gè chéng shì\n也 不 是  一 个 城    市 "
+    } ]
+  }, {
+    "tStartMs": 142233,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "bú shì yí gè dì fāng\n不 是  一 个 地 方  "
+    } ]
+  }, {
+    "tStartMs": 143500,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "tā shì hàn yǔ zhōng 、 zhōng wén zhōng zuì jìn xīn chū xiàn de yí gè dān cí\n它 是  汉  语 中    、 中    文  中    最  近  新  出  现   的 一 个 单  词"
+    } ]
+  }, {
+    "tStartMs": 150333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "yí gè xīn cí\n一 个 新  词"
+    } ]
+  }, {
+    "tStartMs": 152333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "zuì kāi shǐ de shí hòu ne\n最  开  始  的 时  候  呢"
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "tā shì yí gè wǎng luò liú xíng yǔ\n它 是  一 个 网   络  流  行   语"
+    } ]
+  }, {
+    "tStartMs": 157133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "màn màn dì ， yòng de rén yuè lái yuè duō\n慢  慢  地 ， 用   的 人  越  来  越  多 "
+    } ]
+  }, {
+    "tStartMs": 160133,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "yóu qí shì nián qīng rén yòng de yuè lái yuè duō\n尤  其 是  年   轻   人  用   的 越  来  越  多 "
+    } ]
+  }, {
+    "tStartMs": 164066,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "tā xiàn zài yǐ jīng jī hū biàn chéng le yí gè cháng guī cí huì le\n它 现   在  已 经   几 乎 变   成    了 一 个 常    规  词 汇  了"
+    } ]
+  }, {
+    "tStartMs": 169466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "dà jiā zài xué xí zhōng wén de shí hòu\n大 家  在  学  习 中    文  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 172333,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "yǒu méi yǒu yù jiàn guò zhè ge cí ne\n有  没  有  遇 见   过  这  个 词 呢"
+    } ]
+  }, {
+    "tStartMs": 175700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "yǒu méi yǒu tīng dào guò zhè ge cí ne\n有  没  有  听   到  过  这  个 词 呢"
+    } ]
+  }, {
+    "tStartMs": 179200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ jīng cháng shuā zhōng guó de shè jiāo méi tǐ\n如 果  你 经   常    刷   中    国  的 社  交   媒  体"
+    } ]
+  }, {
+    "tStartMs": 183833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "kàn zhòng guó de duǎn shì pín ya\n看  中    国  的 短   视  频  呀"
+    } ]
+  }, {
+    "tStartMs": 186800,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "huò zhě shuō nǐ yǒu zhōng guó de péng yǒu\n或  者  说   你 有  中    国  的 朋   友 "
+    } ]
+  }, {
+    "tStartMs": 189466,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "nǐ kě néng huì kàn dào zhè yàng de biǎo dá\n你 可 能   会  看  到  这  样   的 表   达"
+    } ]
+  }, {
+    "tStartMs": 192433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "tīng dào zhè yàng de biǎo dá\n听   到  这  样   的 表   达"
+    } ]
+  }, {
+    "tStartMs": 194933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nǐ zhè rén zěn me zhè me fán ěr sài ya\n你 这  人  怎  么 这  么 凡  尔 赛  呀"
+    } ]
+  }, {
+    "tStartMs": 198033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nǐ bié zhè me fán ěr sài le xíng ma\n你 别  这  么 凡  尔 赛  了 行   吗"
+    } ]
+  }, {
+    "tStartMs": 201033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "nǐ zhè shì diǎn xíng de fán ěr sài a\n你 这  是  典   型   的 凡  尔 赛  啊"
+    } ]
+  }, {
+    "tStartMs": 204233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "nà dà jiā zhī dào fán ěr sài shì shén me yì sī ma\n那 大 家  知  道  凡  尔 赛  是  什   么 意 思 吗"
+    } ]
+  }, {
+    "tStartMs": 208000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "jiǎn dān de lái shuō\n简   单  的 来  说  "
+    } ]
+  }, {
+    "tStartMs": 209300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "fán ěr sài shì yì zhǒng shuō huà fāng shì\n凡  尔 赛  是  一 种    说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 212833,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "tā shì yòng yì zhǒng bào yuàn huò zhě bù mǎn de yǔ qì lái xuàn yào zì jǐ de yì zhǒng shuō huà fāng shì\n它 是  用   一 种    抱  怨   或  者  不 满  的 语 气 来  炫   耀  自 己 的 一 种    说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 221433,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "xuàn yào zì jǐ\n炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 222933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "xiǎn bǎi zì jǐ\n显   摆  自 己"
+    } ]
+  }, {
+    "tStartMs": 224633,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "xiǎn bǎi yě shì xuàn yào de yì sī\n显   摆  也 是  炫   耀  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 227866,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "xuàn yào zì jǐ hěn niú 、 hěn niú bī 、 hěn lì hài\n炫   耀  自 己 很  牛  、 很  牛  逼 、 很  厉 害 "
+    } ]
+  }, {
+    "tStartMs": 232133,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "hěn yǒu qián huò zhě qí tā de\n很  有  钱   或  者  其 他 的"
+    } ]
+  }, {
+    "tStartMs": 234833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "xuàn yào shén me dōu kě yǐ\n炫   耀  什   么 都  可 以"
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "zhòng diǎn shì ne\n重    点   是  呢"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "tā bú shì zhí jiē de xuàn yào\n它 不 是  直  接  的 炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 240133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "ér shì yòng yì zhǒng bào yuàn de yǔ qì\n而 是  用   一 种    抱  怨   的 语 气"
+    } ]
+  }, {
+    "tStartMs": 243100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "huò zhě bù mǎn de yǔ qì\n或  者  不 满  的 语 气"
+    } ]
+  }, {
+    "tStartMs": 245066,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "zài bù jīng yì zhī jiān xuàn yào zì jǐ de yì zhǒng shuō huà fāng shì\n在  不 经   意 之  间   炫   耀  自 己 的 一 种    说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 251200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "wǒ jǔ gè lì zǐ dà jiā jiù zhī dào le\n我 举 个 例 子 大 家  就  知  道  了"
+    } ]
+  }, {
+    "tStartMs": 254233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "bǐ rú shuō yí gè rén gēn nǐ shuō\n比 如 说   一 个 人  跟  你 说  "
+    } ]
+  }, {
+    "tStartMs": 257200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "āi wǒ de xīn fáng zi tài fán le\n哎 我 的 新  房   子 太  烦  了"
+    } ]
+  }, {
+    "tStartMs": 259833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "fáng jiān tài duō le\n房   间   太  多  了"
+    } ]
+  }, {
+    "tStartMs": 261866,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "měi tiān wǒ dōu yào huā hěn cháng de shí jiān dǎ sǎo wèi shēng\n每  天   我 都  要  花  很  长    的 时  间   打 扫  卫  生   "
+    } ]
+  }, {
+    "tStartMs": 266700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "tài lèi le\n太  累  了"
+    } ]
+  }, {
+    "tStartMs": 268733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "nà biǎo miàn shàng kàn ne\n那 表   面   上    看  呢"
+    } ]
+  }, {
+    "tStartMs": 270500,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "tā shì zài bào yuàn měi tiān shōu shí fáng jiān 、 dǎ sǎo fáng jiān hěn lèi\n他 是  在  抱  怨   每  天   收   拾  房   间   、 打 扫  房   间   很  累 "
+    } ]
+  }, {
+    "tStartMs": 276400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nà shí jì shang ne\n那 实  际 上    呢"
+    } ]
+  }, {
+    "tStartMs": 277800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "huò zhě bié rén tīng qǐ lái ne\n或  者  别  人  听   起 来  呢"
+    } ]
+  }, {
+    "tStartMs": 280033,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "qí shí shì tā xiǎng zài biǎo dá tā de xīn fáng zi hěn dà\n其 实  是  他 想    在  表   达 他 的 新  房   子 很  大"
+    } ]
+  }, {
+    "tStartMs": 284833,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "tā yǒu yí gè hěn dà de fáng zi 、 tā hěn yǒu qián\n他 有  一 个 很  大 的 房   子 、 他 很  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 290033,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "nǐ kàn a ， tā méi yǒu zhí jiē shuō tā hěn yǒu qián\n你 看  啊 ， 他 没  有  直  接  说   他 很  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 293900,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "méi yǒu zhí jiē dì xuàn yào tā de fáng zi hěn dà\n没  有  直  接  地 炫   耀  他 的 房   子 很  大"
+    } ]
+  }, {
+    "tStartMs": 297466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "tā shì yòng yì zhǒng bù mǎn de yǔ qì\n他 是  用   一 种    不 满  的 语 气"
+    } ]
+  }, {
+    "tStartMs": 300600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "yòng yì zhǒng hěn fán de yǔ qì\n用   一 种    很  烦  的 语 气"
+    } ]
+  }, {
+    "tStartMs": 302866,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "bù jīng yì zhī jiān xuàn yào le tā de fáng zi\n不 经   意 之  间   炫   耀  了 他 的 房   子"
+    } ]
+  }, {
+    "tStartMs": 306700,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "zhè jiù shì yì zhǒng diǎn xíng de fán ěr sài de shuō huà fāng shì\n这  就  是  一 种    典   型   的 凡  尔 赛  的 说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 311533,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "nà wǒ men yě bǎ zhè zhǒng shuō huà fāng shì jiào zuò “ fán ěr sài wén xué ”\n那 我 们  也 把 这  种    说   话  方   式  叫   做  “ 凡  尔 赛  文  学  ”"
+    } ]
+  }, {
+    "tStartMs": 317266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè lǐ de wén xué bìng bú shì yí gè xué kē\n这  里 的 文  学  并   不 是  一 个 学  科"
+    } ]
+  }, {
+    "tStartMs": 321100,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "tā shì yì zhǒng tiáo kǎn de fāng shì\n它 是  一 种    调   侃  的 方   式 "
+    } ]
+  }, {
+    "tStartMs": 324466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "huò zhě shuō shì yì zhǒng kāi wán xiào de fāng shì\n或  者  说   是  一 种    开  玩  笑   的 方   式 "
+    } ]
+  }, {
+    "tStartMs": 327700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "shèn zhì shì yǒu yì xiē fěng cì\n甚   至  是  有  一 些  讽   刺"
+    } ]
+  }, {
+    "tStartMs": 331233,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "lái fěng cì zhè zhǒng xuàn yào de shuō huà fāng shì\n来  讽   刺 这  种    炫   耀  的 说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 334833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "duì tā shì yì zhǒng fěng cì\n对  它 是  一 种    讽   刺"
+    } ]
+  }, {
+    "tStartMs": 336733,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "suǒ yǐ shuō tā shì fán ěr sài wén xué\n所  以 说   它 是  凡  尔 赛  文  学 "
+    } ]
+  }, {
+    "tStartMs": 339800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "dà jiā néng lǐ jiě ma\n大 家  能   理 解  吗"
+    } ]
+  }, {
+    "tStartMs": 341466,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "fán ěr sài zhè ge cí ér shì zěn me lái de ne\n凡  尔 赛  这  个 词 儿 是  怎  么 来  的 呢"
+    } ]
+  }, {
+    "tStartMs": 344733,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "suī rán wǒ zài shēng huó zhōng yě huì jīng cháng shuō zhè ge cí\n虽  然  我 在  生    活  中    也 会  经   常    说   这  个 词"
+    } ]
+  }, {
+    "tStartMs": 349300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "dàn shì wǒ hái zhēn bù zhī dào tā shì zěn me lái de\n但  是  我 还  真   不 知  道  它 是  怎  么 来  的"
+    } ]
+  }, {
+    "tStartMs": 353400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "yú shì wǒ jiù qù shàng wǎng chá le yí xià\n于 是  我 就  去 上    网   查  了 一 下 "
+    } ]
+  }, {
+    "tStartMs": 356733,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "yuán lái shì zài 2 0 2 0 nián de shí hòu\n原   来  是  在  2 0 2 0 年   的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 360466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "dà gài liù nián qián le\n大 概  六  年   前   了"
+    } ]
+  }, {
+    "tStartMs": 362700,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "yǒu yí gè rén zài wǎng shàng yòng zhè zhǒng fāng shì xuàn yào tā zì jǐ de shēng huó\n有  一 个 人  在  网   上    用   这  种    方   式  炫   耀  她 自 己 的 生    活 "
+    } ]
+  }, {
+    "tStartMs": 370300,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "xiǎn bǎi tā zì jǐ háo huá de shēng huó\n显   摆  她 自 己 豪  华  的 生    活 "
+    } ]
+  }, {
+    "tStartMs": 373800,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "xiǎn bǎi tā hěn yǒu qián\n显   摆  她 很  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 375800,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "xiǎn bǎi tā zì jǐ de háo zhái ， hěn háo huá de fáng zi\n显   摆  她 自 己 的 豪  宅   ， 很  豪  华  的 房   子"
+    } ]
+  }, {
+    "tStartMs": 380233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "xiǎn bǎi tā de lǎo gōng tè bié chǒng ài tā\n显   摆  她 的 老  公   特 别  宠    爱 她"
+    } ]
+  }, {
+    "tStartMs": 383700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "hěn duō rén kàn dào zhī hòu dōu gěi tā píng lùn\n很  多  人  看  到  之  后  都  给  她 评   论 "
+    } ]
+  }, {
+    "tStartMs": 387500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "qí zhōng yǒu yí gè rén ya\n其 中    有  一 个 人  呀"
+    } ]
+  }, {
+    "tStartMs": 389466,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "rèn wéi tā zhè zhǒng xuàn yào de fāng shì\n认  为  她 这  种    炫   耀  的 方   式 "
+    } ]
+  }, {
+    "tStartMs": 392866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "tā xuàn yào de zhè xiē dōng xī\n她 炫   耀  的 这  些  东   西"
+    } ]
+  }, {
+    "tStartMs": 395300,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "tè bié xiàng yí bù rì běn màn huà 《 fán ěr sài méi guī 》\n特 别  像    一 部 日 本  漫  画  《 凡  尔 赛  玫  瑰  》"
+    } ]
+  }, {
+    "tStartMs": 400733,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "zhè běn màn huà zhōng miáo xiě de fǎ guó guì zú de shēng huó\n这  本  漫  画  中    描   写  的 法 国  贵  族 的 生    活 "
+    } ]
+  }, {
+    "tStartMs": 405333,
+    "dDurationMs": 7567,
+    "segs": [ {
+      "utf8": "yú shì ne jiù yòng fán ěr sài zhè ge cí lái fěng cì tā de zhè zhǒng xuàn yào\n于 是  呢 就  用   凡  尔 赛  这  个 词 来  讽   刺 她 的 这  种    炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 412900,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "màn màn dì ， zhè ge cí jiù liú chuán kāi le\n慢  慢  地 ， 这  个 词 就  流  传    开  了"
+    } ]
+  }, {
+    "tStartMs": 417100,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "xiàn zài jiù biàn chéng le yí gè dà jiā fēi cháng cháng yòng de yí gè cí huì le\n现   在  就  变   成    了 一 个 大 家  非  常    常    用   的 一 个 词 汇  了"
+    } ]
+  }, {
+    "tStartMs": 422833,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "zán men xiàn zài zài jǔ jǐ gè lì zǐ\n咱  们  现   在  再  举 几 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 425466,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "kàn kàn fán ěr sài zhè zhǒng xuàn yào de fāng shì yǒu shén me tè diǎn\n看  看  凡  尔 赛  这  种    炫   耀  的 方   式  有  什   么 特 点  "
+    } ]
+  }, {
+    "tStartMs": 431033,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "dì yī gè tè diǎn jiù shì xiān biǎn dī zì jǐ 、 zài tái gāo zì jǐ\n第 一 个 特 点   就  是  先   贬   低 自 己 、 再  抬  高  自 己"
+    } ]
+  }, {
+    "tStartMs": 437100,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "biǎn dī 、 tái gāo\n贬   低 、 抬  高 "
+    } ]
+  }, {
+    "tStartMs": 439400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "xiān bǎ zì jǐ shuō dé hěn bù hǎo\n先   把 自 己 说   得 很  不 好 "
+    } ]
+  }, {
+    "tStartMs": 442300,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "rán hòu ne zài ràng dà jiā jué de tā hěn hǎo\n然  后  呢 再  让   大 家  觉  得 他 很  好 "
+    } ]
+  }, {
+    "tStartMs": 446500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "zhè jiù jiào xiān biǎn dī zì jǐ ， bǎ zì jǐ fàng dī\n这  就  叫   先   贬   低 自 己 ， 把 自 己 放   低"
+    } ]
+  }, {
+    "tStartMs": 450200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "bǎ zì jǐ nòng dé hěn dī\n把 自 己 弄   得 很  低"
+    } ]
+  }, {
+    "tStartMs": 452066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "zài bǎ zì jǐ nòng dé hěn gāo\n再  把 自 己 弄   得 很  高 "
+    } ]
+  }, {
+    "tStartMs": 454066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "biǎn dī 、 tái gāo\n贬   低 、 抬  高 "
+    } ]
+  }, {
+    "tStartMs": 456466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "yě jiù shì shuō\n也 就  是  说  "
+    } ]
+  }, {
+    "tStartMs": 457700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "shuō huà de shí hòu xiān shuō zì jǐ bù hǎo\n说   话  的 时  候  先   说   自 己 不 好 "
+    } ]
+  }, {
+    "tStartMs": 461100,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "hěn fán 、 hěn fán nǎo 、 hěn bù mǎn\n很  烦  、 很  烦  恼  、 很  不 满 "
+    } ]
+  }, {
+    "tStartMs": 464400,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "shí jì shang ne ， shì xiǎng ràng dà jiā jué de tā zì jǐ hěn lì hài 、 hěn niú bī\n实  际 上    呢 ， 是  想    让   大 家  觉  得 他 自 己 很  厉 害  、 很  牛  逼"
+    } ]
+  }, {
+    "tStartMs": 470800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nà bǐ rú shuō yǒu yí gè rén gēn nǐ shuō\n那 比 如 说   有  一 个 人  跟  你 说  "
+    } ]
+  }, {
+    "tStartMs": 473400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "āi yā wǒ měi tiān zǎo shàng tài fán le\n哎 呀 我 每  天   早  上    太  烦  了"
+    } ]
+  }, {
+    "tStartMs": 475833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "guì zi lǐ dōu shì bāo ér\n柜  子 里 都  是  包  儿"
+    } ]
+  }, {
+    "tStartMs": 477700,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "wǒ dōu bù zhī dào měi tiān bèi nǎ gè bāo ér chū mén\n我 都  不 知  道  每  天   背  哪 个 包  儿 出  门 "
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "tā shì zài fán nǎo ma ？\n她 是  在  烦  恼  吗 ？"
+    } ]
+  }, {
+    "tStartMs": 484466,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "bú shì ， tā qí shí shì zài xuàn yào zì jǐ\n不 是  ， 她 其 实  是  在  炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 487833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "tā yǒu hěn duō míng pái bāo ér\n她 有  很  多  名   牌  包  儿"
+    } ]
+  }, {
+    "tStartMs": 490433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "yǒu hěn duō dà pái ér de bāo ér\n有  很  多  大 牌  儿 的 包  儿"
+    } ]
+  }, {
+    "tStartMs": 492900,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "zài bǐ rú shuō\n再  比 如 说  "
+    } ]
+  }, {
+    "tStartMs": 493833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "yǒu yí gè rén gēn nǐ shuō\n有  一 个 人  跟  你 说  "
+    } ]
+  }, {
+    "tStartMs": 495466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "āi yā zhēn fán\n哎 呀 真   烦 "
+    } ]
+  }, {
+    "tStartMs": 496533,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "wǒ měi tiān chī zhè me duō dōng xī\n我 每  天   吃  这  么 多  东   西"
+    } ]
+  }, {
+    "tStartMs": 498600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "wǒ jiù shì bù cháng ròu\n我 就  是  不 长    肉 "
+    } ]
+  }, {
+    "tStartMs": 500033,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ shén me shí hòu cái néng pàng yì diǎn a\n我 什   么 时  候  才  能   胖   一 点   啊"
+    } ]
+  }, {
+    "tStartMs": 503033,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "biǎo miàn shàng tā shì zài bào yuàn zì jǐ 、 xián zì jǐ shòu\n表   面   上    她 是  在  抱  怨   自 己 、 嫌   自 己 瘦  "
+    } ]
+  }, {
+    "tStartMs": 507200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "xián zì jǐ chī dōng xī bù cháng ròu\n嫌   自 己 吃  东   西 不 长    肉 "
+    } ]
+  }, {
+    "tStartMs": 510100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "shí jì shang ne 、 huò zhě bié rén tīng qǐ lái ne\n实  际 上    呢 、 或  者  别  人  听   起 来  呢"
+    } ]
+  }, {
+    "tStartMs": 513433,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "tā shì zài xuàn yào zì jǐ bù guǎn zěn me chī dōu bú huì zhǎng pàng\n她 是  在  炫   耀  自 己 不 管   怎  么 吃  都  不 会  长    胖  "
+    } ]
+  }, {
+    "tStartMs": 518833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "dōu yǒu yí gè hǎo de shēn cái\n都  有  一 个 好  的 身   材 "
+    } ]
+  }, {
+    "tStartMs": 521066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "nà me pàng zi tīng jiàn de huà huì hěn shēng qì de ， duì bu duì\n那 么 胖   子 听   见   的 话  会  很  生    气 的 ， 对  不 对 "
+    } ]
+  }, {
+    "tStartMs": 525066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "dì èr gè tè diǎn\n第 二 个 特 点  "
+    } ]
+  }, {
+    "tStartMs": 526333,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "fán ěr sài de rén ne shuō huà huì hěn suí yì\n凡  尔 赛  的 人  呢 说   话  会  很  随  意"
+    } ]
+  }, {
+    "tStartMs": 530233,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "zài bù jīng yì zhī jiān xuàn yào zì jǐ\n在  不 经   意 之  间   炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 534000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "tā men bú huì zhí jiē dì xuàn yào\n他 们  不 会  直  接  地 炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 536466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "bú huì zhí jiē gēn nǐ shuō nǐ kàn wǒ duō yǒu qián\n不 会  直  接  跟  你 说   你 看  我 多  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 539800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "nǐ kàn wǒ lǎo gōng duì wǒ duō hǎo\n你 看  我 老  公   对  我 多  好 "
+    } ]
+  }, {
+    "tStartMs": 542066,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "nǐ kàn wǒ duō cōng ming\n你 看  我 多  聪   明  "
+    } ]
+  }, {
+    "tStartMs": 543900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "nà zhè xiē bú shì fán ěr sài\n那 这  些  不 是  凡  尔 赛 "
+    } ]
+  }, {
+    "tStartMs": 545866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "zhè xiē tài zhí jiē le\n这  些  太  直  接  了"
+    } ]
+  }, {
+    "tStartMs": 547533,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè zhǒng zhí jiē de xuàn yào bú shì fán ěr sài ò\n这  种    直  接  的 炫   耀  不 是  凡  尔 赛  哦"
+    } ]
+  }, {
+    "tStartMs": 551300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "fán ěr sài de rén ne huì yòng hěn suí yì de yǔ qì\n凡  尔 赛  的 人  呢 会  用   很  随  意 的 语 气"
+    } ]
+  }, {
+    "tStartMs": 556133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "hǎo xiàng bù xiǎo xīn shuō chū lái yí yàng\n好  像    不 小   心  说   出  来  一 样  "
+    } ]
+  }, {
+    "tStartMs": 558833,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "jiǎ zhuāng zì jǐ bú shì zài xuàn yào\n假  装     自 己 不 是  在  炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 562033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "nà bǐ rú shuō\n那 比 如 说  "
+    } ]
+  }, {
+    "tStartMs": 562833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "yǒu yí gè rén gēn nǐ shuō ，\n有  一 个 人  跟  你 说   ，"
+    } ]
+  }, {
+    "tStartMs": 564833,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "āi ， wǒ jiā páng biān de nà ge dà pái ， L V diàn\n哎 ， 我 家  旁   边   的 那 个 大 牌  ， L V 店  "
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "wǒ jīn tiān lù guò de shí hòu ， fā xiàn yǒu hǎo duō rén a\n我 今  天   路 过  的 时  候  ， 发 现   有  好  多  人  啊"
+    } ]
+  }, {
+    "tStartMs": 572400,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "wǒ cái xiǎng qǐ lái ， wǒ shàng cì xīn mǎi de bāo ér wǒ hái méi bèi guò ne\n我 才  想    起 来  ， 我 上    次 新  买  的 包  儿 我 还  没  背  过  呢"
+    } ]
+  }, {
+    "tStartMs": 578133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "nà zhè jiù shì yí gè bù jīng yì de xuàn yào\n那 这  就  是  一 个 不 经   意 的 炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 581466,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "tā hǎo xiàng zài suí biàn de liáo tiān ér\n她 好  像    在  随  便   的 聊   天   儿"
+    } ]
+  }, {
+    "tStartMs": 584400,
+    "dDurationMs": 6666,
+    "segs": [ {
+      "utf8": "dàn shì ne nǐ yòu kě yǐ tīng chū lái tā zài xuàn yào zì jǐ zhù de dì fāng hěn fán huá\n但  是  呢 你 又  可 以 听   出  来  她 在  炫   耀  自 己 住  的 地 方   很  繁  华 "
+    } ]
+  }, {
+    "tStartMs": 591300,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "páng biān jiù shì L V diàn\n旁   边   就  是  L V 店  "
+    } ]
+  }, {
+    "tStartMs": 593433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "tā hái yǒu hěn duō bāo ér\n她 还  有  很  多  包  儿"
+    } ]
+  }, {
+    "tStartMs": 595100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "tā yǒu hěn duō L V de bāo ér dōu bèi bú guò lái\n她 有  很  多  L V 的 包  儿 都  背  不 过  来 "
+    } ]
+  }, {
+    "tStartMs": 598533,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "tài duō le ， méi yǒu shí jiān bèi\n太  多  了 ， 没  有  时  间   背 "
+    } ]
+  }, {
+    "tStartMs": 601100,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "nà zhè jiù shì yì zhǒng bù jīng yì zhī jiān de xuàn yào\n那 这  就  是  一 种    不 经   意 之  间   的 炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "dì sān gè tè diǎn\n第 三  个 特 点  "
+    } ]
+  }, {
+    "tStartMs": 606933,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "fán ěr sài de rén ne xǐ huan yòng bié rén de huà lái kuā zì jǐ\n凡  尔 赛  的 人  呢 喜 欢   用   别  人  的 话  来  夸  自 己"
+    } ]
+  }, {
+    "tStartMs": 612200,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "tā bú shì zhí jiē yòng zì jǐ de huà lái xuàn yào\n他 不 是  直  接  用   自 己 的 话  来  炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 616033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "ér shì tōng guò bié rén de zuǐ\n而 是  通   过  别  人  的 嘴 "
+    } ]
+  }, {
+    "tStartMs": 618333,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "tōng guò bié rén shuō de huà lái xuàn yào zì jǐ\n通   过  别  人  说   的 话  来  炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "bǐ rú shuō āi yā wǒ nán péng yǒu zǒng shuō wǒ xiàng yí gè míng xīng\n比 如 说   哎 呀 我 男  朋   友  总   说   我 像    一 个 明   星  "
+    } ]
+  }, {
+    "tStartMs": 627666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "tā měi tiān dōu shuō wǒ hěn xiàng nà ge míng xīng\n他 每  天   都  说   我 很  像    那 个 明   星  "
+    } ]
+  }, {
+    "tStartMs": 630133,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ dōu fán sǐ le\n我 都  烦  死 了"
+    } ]
+  }, {
+    "tStartMs": 631466,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "wǒ yì diǎn ér dōu bù xiǎng hé míng xīng cháng dé yí yàng\n我 一 点   儿 都  不 想    和 明   星   长    得 一 样  "
+    } ]
+  }, {
+    "tStartMs": 634866,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "nà zhè ge jiù shì yòng nán péng yǒu de huà lái xuàn yào zì jǐ cháng dé hěn piào liang\n那 这  个 就  是  用   男  朋   友  的 话  来  炫   耀  自 己 长    得 很  漂   亮   "
+    } ]
+  }, {
+    "tStartMs": 641066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "cháng dé xiàng míng xīng\n长    得 像    明   星  "
+    } ]
+  }, {
+    "tStartMs": 643066,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "zhè jiù shì fán ěr sài de sān gè tè diǎn\n这  就  是  凡  尔 赛  的 三  个 特 点  "
+    } ]
+  }, {
+    "tStartMs": 646700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nà dà jiā kě néng huì wèn\n那 大 家  可 能   会  问 "
+    } ]
+  }, {
+    "tStartMs": 648500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zhōng guó rén wèi shén me huì fán ěr sài ne\n中    国  人  为  什   么 会  凡  尔 赛  呢"
+    } ]
+  }, {
+    "tStartMs": 651533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "yǒu huà zhí jiē shuō bù hǎo ma\n有  话  直  接  说   不 好  吗"
+    } ]
+  }, {
+    "tStartMs": 654466,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "zhè shì yí gè hěn hǎo de wèn tí\n这  是  一 个 很  好  的 问  题"
+    } ]
+  }, {
+    "tStartMs": 656933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "qí shí a zài zhōng guó de wén huà lǐ\n其 实  啊 在  中    国  的 文  化  里"
+    } ]
+  }, {
+    "tStartMs": 660233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "dà jiā tè bié xǐ huan qiān xū\n大 家  特 别  喜 欢   谦   虚"
+    } ]
+  }, {
+    "tStartMs": 663433,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ zhí jiē dì xuàn yào zì jǐ\n如 果  你 直  接  地 炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 666400,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "wǒ hěn piào liang 、 wǒ hěn niú 、 wǒ hěn yǒu qián\n我 很  漂   亮    、 我 很  牛  、 我 很  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 670800,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nà huì xiǎn de nǐ tè bié bù qiān xū\n那 会  显   得 你 特 别  不 谦   虚"
+    } ]
+  }, {
+    "tStartMs": 673433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "dà jiā jué de nǐ tài jiāo ào le\n大 家  觉  得 你 太  骄   傲 了"
+    } ]
+  }, {
+    "tStartMs": 676100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "zài zhōng guó de wén huà lǐ\n在  中    国  的 文  化  里"
+    } ]
+  }, {
+    "tStartMs": 677533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "qiān xū cái shì měi dé\n谦   虚 才  是  美  德"
+    } ]
+  }, {
+    "tStartMs": 680300,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "dàn shì ne xiàn zài yòu yǒu hěn duō rén\n但  是  呢 现   在  又  有  很  多  人 "
+    } ]
+  }, {
+    "tStartMs": 683233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "tè bié xī wàng bié rén zhī dào zì jǐ guò dé hǎo\n特 别  希 望   别  人  知  道  自 己 过  得 好 "
+    } ]
+  }, {
+    "tStartMs": 686733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "zhī dào zì jǐ hěn yǒu qián\n知  道  自 己 很  有  钱  "
+    } ]
+  }, {
+    "tStartMs": 688833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "zhī dào zì jǐ hěn chéng gōng\n知  道  自 己 很  成    功  "
+    } ]
+  }, {
+    "tStartMs": 690900,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "suǒ yǐ ne tā men zhǎo dào le zhè zhǒng “ cōng ming ” de fāng shì\n所  以 呢 他 们  找   到  了 这  种    “ 聪   明   ” 的 方   式 "
+    } ]
+  }, {
+    "tStartMs": 695000,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "yòng yì zhǒng bào yuàn de yǔ qì 、 bù mǎn de yǔ qì lái xuàn yào zì jǐ\n用   一 种    抱  怨   的 语 气 、 不 满  的 语 气 来  炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 700500,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "zhè yàng tā men jiù kě yǐ shuō\n这  样   他 们  就  可 以 说  "
+    } ]
+  }, {
+    "tStartMs": 702033,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "wǒ méi yǒu zài xuàn yào ya\n我 没  有  在  炫   耀  呀"
+    } ]
+  }, {
+    "tStartMs": 703833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "wǒ zhǐ shì zài shuō wǒ zì jǐ de bù mǎn\n我 只  是  在  说   我 自 己 的 不 满 "
+    } ]
+  }, {
+    "tStartMs": 707000,
+    "dDurationMs": 6066,
+    "segs": [ {
+      "utf8": "kě shì tīng de rén ， yì tīng jiù néng zhī dào tā men shì zài xuàn yào zì jǐ\n可 是  听   的 人  ， 一 听   就  能   知  道  他 们  是  在  炫   耀  自 己"
+    } ]
+  }, {
+    "tStartMs": 713300,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "suǒ yǐ shuō fán ěr sài zhè ge cí ， qí shí shì yǒu yì diǎn ér biǎn yì de\n所  以 说   凡  尔 赛  这  个 词 ， 其 实  是  有  一 点   儿 贬   义 的"
+    } ]
+  }, {
+    "tStartMs": 718700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "dà jiā qí shí bù xǐ huan zhè zhǒng shuō huà fāng shì\n大 家  其 实  不 喜 欢   这  种    说   话  方   式 "
+    } ]
+  }, {
+    "tStartMs": 722533,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "jué de zhè zhǒng shuō huà fāng shì tài zuò zuò le\n觉  得 这  种    说   话  方   式  太  做  作  了"
+    } ]
+  }, {
+    "tStartMs": 726100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "tài bù zhēn chéng le\n太  不 真   诚    了"
+    } ]
+  }, {
+    "tStartMs": 728466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "dāng yí gè rén gēn nǐ shuō ， “ nǐ bié fán ěr sài le ”\n当   一 个 人  跟  你 说   ， “ 你 别  凡  尔 赛  了 ”"
+    } ]
+  }, {
+    "tStartMs": 732033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "qí shí tā de yì sī shì\n其 实  他 的 意 思 是 "
+    } ]
+  }, {
+    "tStartMs": 733600,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "xíng le xíng le ， nǐ bié xuàn yào le ， wǒ zhī dào nǐ zài xiǎn bǎi ， bié zhuāng le\n行   了 行   了 ， 你 别  炫   耀  了 ， 我 知  道  你 在  显   摆  ， 别  装     了"
+    } ]
+  }, {
+    "tStartMs": 738966,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "hǎo lā xiàn zài nǐ zhī dào fán ěr sài de yì sī le ba\n好  啦 现   在  你 知  道  凡  尔 赛  的 意 思 了 吧"
+    } ]
+  }, {
+    "tStartMs": 742466,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "zuì hòu ne zán men zài kàn kàn fán ěr sài de yòng fǎ\n最  后  呢 咱  们  再  看  看  凡  尔 赛  的 用   法"
+    } ]
+  }, {
+    "tStartMs": 746500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "dì yī zhǒng yòng fǎ\n第 一 种    用   法"
+    } ]
+  }, {
+    "tStartMs": 747900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhí jiē bǎ tā dàng zuò xíng róng cí\n直  接  把 它 当   做  形   容   词"
+    } ]
+  }, {
+    "tStartMs": 751133,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ zhí jiē shuō yí gè rén\n你 可 以 直  接  说   一 个 人 "
+    } ]
+  }, {
+    "tStartMs": 752933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nǐ yě tài fán ěr sài le\n你 也 太  凡  尔 赛  了"
+    } ]
+  }, {
+    "tStartMs": 754900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "nà zhè shì xíng róng cí\n那 这  是  形   容   词"
+    } ]
+  }, {
+    "tStartMs": 756833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "dì èr gè yòng fǎ ne\n第 二 个 用   法 呢"
+    } ]
+  }, {
+    "tStartMs": 758333,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "shì dòng cí ， nǐ bié fán ěr sài le\n是  动   词 ， 你 别  凡  尔 赛  了"
+    } ]
+  }, {
+    "tStartMs": 762200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nǐ xiàn zài shì zài fán ěr sài\n你 现   在  是  在  凡  尔 赛 "
+    } ]
+  }, {
+    "tStartMs": 765033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "yì sī shì nǐ xiàn zài shì zài xuàn yào\n意 思 是  你 现   在  是  在  炫   耀 "
+    } ]
+  }, {
+    "tStartMs": 768433,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "nà dì sān zhǒng yòng fǎ ne yě kě yǐ dàng chéng yí gè míng cí\n那 第 三  种    用   法 呢 也 可 以 当   成    一 个 名   词"
+    } ]
+  }, {
+    "tStartMs": 773533,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "bǐ rú shuō ， nǐ zhè shì diǎn xíng de fán ěr sài\n比 如 说   ， 你 这  是  典   型   的 凡  尔 赛 "
+    } ]
+  }, {
+    "tStartMs": 777033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nǐ zhè shì diǎn xíng de xuàn yào xíng wéi\n你 这  是  典   型   的 炫   耀  行   为 "
+    } ]
+  }, {
+    "tStartMs": 780033,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "hǎo le fán ěr sài jīn tiān jiù jiǎng dào zhè ér\n好  了 凡  尔 赛  今  天   就  讲    到  这  儿"
+    } ]
+  }, {
+    "tStartMs": 783833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "nǐ men míng bái tā de yì sī hé yòng fǎ le ma\n你 们  明   白  它 的 意 思 和 用   法 了 吗"
+    } ]
+  }, {
+    "tStartMs": 787533,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ men tīng míng bái le\n如 果  你 们  听   明   白  了"
+    } ]
+  }, {
+    "tStartMs": 789300,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "kě yǐ zài píng lùn qū xiě yí jù fán ěr sài de huà\n可 以 在  评   论  区 写  一 句 凡  尔 赛  的 话 "
+    } ]
+  }, {
+    "tStartMs": 794066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "ràng wǒ kàn kàn nǐ xué huì le ma\n让   我 看  看  你 学  会  了 吗"
+    } ]
+  }, {
+    "tStartMs": 796633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "hǎo ba jīn tiān de shì pín jiù dào zhè ér\n好  吧 今  天   的 视  频  就  到  这  儿"
+    } ]
+  }, {
+    "tStartMs": 799600,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "gǎn xiè dà jiā de shōu kàn\n感  谢  大 家  的 收   看 "
+    } ]
+  }, {
+    "tStartMs": 801533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xǐ huan wǒ de pín dào\n如 果  你 喜 欢   我 的 频  道 "
+    } ]
+  }, {
+    "tStartMs": 803466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "yí dìng yào dìng yuè ò bài bài\n一 定   要  订   阅  哦 拜  拜 "
+    } ]
+  } ]
+}

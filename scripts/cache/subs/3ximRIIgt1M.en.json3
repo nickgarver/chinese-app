@@ -1,0 +1,1051 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1500,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Hello everyone, it's 7:50 in the morning right now."
+    } ]
+  }, {
+    "tStartMs": 6800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Not quite 8 o'clock."
+    } ]
+  }, {
+    "tStartMs": 8366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I just finished a class."
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "My first Chinese class is usually at 7 in the morning."
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "So I get up and wash up 30 minutes earlier."
+    } ]
+  }, {
+    "tStartMs": 22600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "to get ready for class."
+    } ]
+  }, {
+    "tStartMs": 24766,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "Now, I want to get my breakfast ready."
+    } ]
+  }, {
+    "tStartMs": 29766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Everyone, look at this little cat plate."
+    } ]
+  }, {
+    "tStartMs": 33400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "I made this with my own hands"
+    } ]
+  }, {
+    "tStartMs": 36133,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "A little plate I made myself"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Even though I'm not great at drawing"
+    } ]
+  }, {
+    "tStartMs": 43066,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "I really enjoy making things myself, doing my own DIY"
+    } ]
+  }, {
+    "tStartMs": 48833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Because I think it's one of a kind"
+    } ]
+  }, {
+    "tStartMs": 52366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Very special"
+    } ]
+  }, {
+    "tStartMs": 54533,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "Today I'm going to use my little helper—the rice cooker"
+    } ]
+  }, {
+    "tStartMs": 59066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "to help me make breakfast"
+    } ]
+  }, {
+    "tStartMs": 65733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Two small steamed buns"
+    } ]
+  }, {
+    "tStartMs": 67266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "One egg"
+    } ]
+  }, {
+    "tStartMs": 68266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "One sausage"
+    } ]
+  }, {
+    "tStartMs": 70133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Chicken breast sausage"
+    } ]
+  }, {
+    "tStartMs": 74266,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "Put them in, there's already water inside"
+    } ]
+  }, {
+    "tStartMs": 80700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "There's a steaming function here"
+    } ]
+  }, {
+    "tStartMs": 85066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "30 minutes"
+    } ]
+  }, {
+    "tStartMs": 87833,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Now let's cut an avocado"
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "This avocado feels very soft already."
+    } ]
+  }, {
+    "tStartMs": 95466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "It's completely ripe."
+    } ]
+  }, {
+    "tStartMs": 98800,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "It seems like it's about to go bad."
+    } ]
+  }, {
+    "tStartMs": 101033,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "So, I need to eat it as soon as possible."
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Actually, I didn't really like avocados before."
+    } ]
+  }, {
+    "tStartMs": 112300,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "But."
+    } ]
+  }, {
+    "tStartMs": 114066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "As I kept eating them, I fell in love with them."
+    } ]
+  }, {
+    "tStartMs": 117700,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Look, it's still okay now."
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "The people around me don't seem to like avocado much."
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "I know avocado is very nutritious."
+    } ]
+  }, {
+    "tStartMs": 131266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "It's a healthy fat."
+    } ]
+  }, {
+    "tStartMs": 136133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Now let's make a cup of coffee."
+    } ]
+  }, {
+    "tStartMs": 139566,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Actually, my method for making coffee is very simple."
+    } ]
+  }, {
+    "tStartMs": 143600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Very simple."
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "One spoonful of freeze-dried coffee."
+    } ]
+  }, {
+    "tStartMs": 147933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Add ice water."
+    } ]
+  }, {
+    "tStartMs": 153366,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Stir, stir"
+    } ]
+  }, {
+    "tStartMs": 156466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The coffee I made today is a bit weak"
+    } ]
+  }, {
+    "tStartMs": 159566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The color isn't that dark"
+    } ]
+  }, {
+    "tStartMs": 163033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Do you all like to drink stronger coffee"
+    } ]
+  }, {
+    "tStartMs": 165600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Or weaker coffee?"
+    } ]
+  }, {
+    "tStartMs": 169666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "It's just that simple"
+    } ]
+  }, {
+    "tStartMs": 171233,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "This is the taste of coffee that I like"
+    } ]
+  }, {
+    "tStartMs": 174266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "Although it's already September now"
+    } ]
+  }, {
+    "tStartMs": 177300,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "But the weather in Guangdong is still very hot"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Very hot"
+    } ]
+  }, {
+    "tStartMs": 184200,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "So, I have no choice but to tie my hair up"
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "I still have to wait 20 minutes now"
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Before breakfast will be ready"
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "So I'll use this time to do some work"
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "To get some work done"
+    } ]
+  }, {
+    "tStartMs": 201700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Tonight, there will be a new video"
+    } ]
+  }, {
+    "tStartMs": 205600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "I hope you all like it."
+    } ]
+  }, {
+    "tStartMs": 208133,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "If you'd like to get more study materials,"
+    } ]
+  }, {
+    "tStartMs": 211900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "you can join my membership."
+    } ]
+  }, {
+    "tStartMs": 221866,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "It's almost 9 now."
+    } ]
+  }, {
+    "tStartMs": 224833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Breakfast time."
+    } ]
+  }, {
+    "tStartMs": 228466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Milk little steamed buns."
+    } ]
+  }, {
+    "tStartMs": 231966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Although these buns are a bit small,"
+    } ]
+  }, {
+    "tStartMs": 234366,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "they are very soft and fluffy."
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Eggs, sausage, avocado, coffee"
+    } ]
+  }, {
+    "tStartMs": 246700,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "Carbs, protein, fat"
+    } ]
+  }, {
+    "tStartMs": 252433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "All present"
+    } ]
+  }, {
+    "tStartMs": 254366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "A perfect breakfast"
+    } ]
+  }, {
+    "tStartMs": 257233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Milk small steamed buns"
+    } ]
+  }, {
+    "tStartMs": 259100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "They have a rich milky aroma"
+    } ]
+  }, {
+    "tStartMs": 266066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Very soft and fluffy"
+    } ]
+  }, {
+    "tStartMs": 267666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Although the flavor is very simple"
+    } ]
+  }, {
+    "tStartMs": 269633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "But it's very tasty."
+    } ]
+  }, {
+    "tStartMs": 272033,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "The milk flavor in this steamed bun is really rich."
+    } ]
+  }, {
+    "tStartMs": 276833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Every day, I eat a different breakfast."
+    } ]
+  }, {
+    "tStartMs": 281400,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Sometimes I eat wontons."
+    } ]
+  }, {
+    "tStartMs": 283266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Sometimes I eat porridge."
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Sometimes I eat rice noodle rolls."
+    } ]
+  }, {
+    "tStartMs": 287700,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "Sometimes I make smoothies."
+    } ]
+  }, {
+    "tStartMs": 291866,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Sometimes, like today, I make steamed buns and eggs."
+    } ]
+  }, {
+    "tStartMs": 297100,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "I think breakfast should be rich"
+    } ]
+  }, {
+    "tStartMs": 300866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and also quite varied"
+    } ]
+  }, {
+    "tStartMs": 303266,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "I can't eat the same breakfast every day"
+    } ]
+  }, {
+    "tStartMs": 306800,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "That way I'd get tired of it easily"
+    } ]
+  }, {
+    "tStartMs": 309733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "And I also think eating breakfast"
+    } ]
+  }, {
+    "tStartMs": 312466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "should be a time to enjoy"
+    } ]
+  }, {
+    "tStartMs": 315433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Because it's the start of the day"
+    } ]
+  }, {
+    "tStartMs": 317866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "it's very important"
+    } ]
+  }, {
+    "tStartMs": 327733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "There's a small parking lot here."
+    } ]
+  }, {
+    "tStartMs": 331833,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "You can park for free for 3 hours."
+    } ]
+  }, {
+    "tStartMs": 336366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "There are charging stations here."
+    } ]
+  }, {
+    "tStartMs": 339066,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "Not only are there charging stations for electric motorcycles,"
+    } ]
+  }, {
+    "tStartMs": 343233,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "there are also charging stations for cars."
+    } ]
+  }, {
+    "tStartMs": 347733,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "So while we exercise, we can charge here."
+    } ]
+  }, {
+    "tStartMs": 368066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This is a comprehensive sports complex."
+    } ]
+  }, {
+    "tStartMs": 371966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "There are many kinds of sports."
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Many kinds of courts"
+    } ]
+  }, {
+    "tStartMs": 380700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "Basketball courts"
+    } ]
+  }, {
+    "tStartMs": 388200,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "Over here are the badminton courts"
+    } ]
+  }, {
+    "tStartMs": 396633,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "And this area is the pickleball courts"
+    } ]
+  }, {
+    "tStartMs": 404566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "On the right-hand side"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "These are also pickleball courts"
+    } ]
+  }, {
+    "tStartMs": 410833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "Up ahead are the tennis courts"
+    } ]
+  }, {
+    "tStartMs": 417533,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I think people who play tennis are so cool"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And finally, there's also a gym here"
+    } ]
+  }, {
+    "tStartMs": 432133,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "There's also a swimming pool inside"
+    } ]
+  }, {
+    "tStartMs": 435633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "So that's why I say this is a comprehensive sports complex"
+    } ]
+  }, {
+    "tStartMs": 439566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "You can do many kinds of sports here"
+    } ]
+  }, {
+    "tStartMs": 443900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I really like the color of this floor"
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "The color of this court is purple"
+    } ]
+  }, {
+    "tStartMs": 452333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Doesn't it look very energetic?"
+    } ]
+  }, {
+    "tStartMs": 456366,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "A pickleball court isn't as big as a tennis court"
+    } ]
+  }, {
+    "tStartMs": 465600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "You can turn on the air conditioning while exercising"
+    } ]
+  }, {
+    "tStartMs": 468566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "That's so nice"
+    } ]
+  }, {
+    "tStartMs": 470033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Warm up before exercising"
+    } ]
+  }, {
+    "tStartMs": 474333,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Look what I brought"
+    } ]
+  }, {
+    "tStartMs": 478166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "These are paddles, and balls"
+    } ]
+  }, {
+    "tStartMs": 481200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Renting paddles here costs money"
+    } ]
+  }, {
+    "tStartMs": 484733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "5 yuan an hour"
+    } ]
+  }, {
+    "tStartMs": 486566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "So I just bought a pair of paddles myself"
+    } ]
+  }, {
+    "tStartMs": 494766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "And the green tea I brewed myself"
+    } ]
+  }, {
+    "tStartMs": 497933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Cold-brewed green tea"
+    } ]
+  }, {
+    "tStartMs": 503833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Two bananas"
+    } ]
+  }, {
+    "tStartMs": 505966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "I can eat them when I get hungry"
+    } ]
+  }, {
+    "tStartMs": 508933,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "And a towel to wipe off sweat"
+    } ]
+  }, {
+    "tStartMs": 516066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "This is the tool for filming videos"
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Warm-up done, let's play"
+    } ]
+  }, {
+    "tStartMs": 540366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Lost a point"
+    } ]
+  }, {
+    "tStartMs": 551066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I've been playing for an hour now."
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Sweating buckets."
+    } ]
+  }, {
+    "tStartMs": 556200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "But it feels great."
+    } ]
+  }, {
+    "tStartMs": 558733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "The process was a bit tough and tiring."
+    } ]
+  }, {
+    "tStartMs": 562533,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "But after finishing, I feel so satisfied and really comfortable."
+    } ]
+  }, {
+    "tStartMs": 567000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "That's the benefit of exercise."
+    } ]
+  }, {
+    "tStartMs": 570766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It's almost 12 o'clock."
+    } ]
+  }, {
+    "tStartMs": 572566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Time to go home and cook."
+    } ]
+  }, {
+    "tStartMs": 574966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "Today I want to eat braised pork ribs."
+    } ]
+  }, {
+    "tStartMs": 579033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "I washed the pork ribs clean."
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "There are about 300 grams of pork ribs here."
+    } ]
+  }, {
+    "tStartMs": 585600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "Ginger slices."
+    } ]
+  }, {
+    "tStartMs": 587066,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "This kind of gourd is called “loofah” where we are."
+    } ]
+  }, {
+    "tStartMs": 590766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Making braised pork ribs."
+    } ]
+  }, {
+    "tStartMs": 592166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "And stir-fried loofah."
+    } ]
+  }, {
+    "tStartMs": 595066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "One meat dish and one vegetable dish."
+    } ]
+  }, {
+    "tStartMs": 597066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "One meat dish, one vegetable dish"
+    } ]
+  }, {
+    "tStartMs": 599700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Perfect"
+    } ]
+  }, {
+    "tStartMs": 648900,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "Do you all know what fruit this is?"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "That's right, it's passion fruit"
+    } ]
+  }, {
+    "tStartMs": 661066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "It's exactly passion fruit season right now"
+    } ]
+  }, {
+    "tStartMs": 664100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "There are a lot of passion fruits being sold outside"
+    } ]
+  }, {
+    "tStartMs": 667400,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "The braised pork ribs are almost done"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The braised pork ribs are almost ready"
+    } ]
+  }, {
+    "tStartMs": 676200,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Personally, I like to add a little passion fruit to it"
+    } ]
+  }, {
+    "tStartMs": 681100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "It's sweet and sour, very appetizing"
+    } ]
+  }, {
+    "tStartMs": 685133,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "No one taught me this, it's a method I came up with myself"
+    } ]
+  }, {
+    "tStartMs": 689100,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "But I think braised pork ribs and passion fruit go very well together"
+    } ]
+  }, {
+    "tStartMs": 702033,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Passion fruit is one of my favorite fruits to eat"
+    } ]
+  }, {
+    "tStartMs": 708433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's rich in vitamin C"
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "Next, once it's mixed well, it's ready to come out of the wok"
+    } ]
+  }, {
+    "tStartMs": 719033,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Wow, it looks so delicious"
+    } ]
+  }, {
+    "tStartMs": 724300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Take a cute plate"
+    } ]
+  }, {
+    "tStartMs": 727300,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "to serve my favorite braised pork ribs"
+    } ]
+  }, {
+    "tStartMs": 739100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "How is it? Not bad, right?"
+    } ]
+  }, {
+    "tStartMs": 743000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "The stir-fried loofah is out of the pan too"
+    } ]
+  }, {
+    "tStartMs": 747633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Simple and easy"
+    } ]
+  }, {
+    "tStartMs": 754433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "The meal is ready"
+    } ]
+  }, {
+    "tStartMs": 756033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "We're about to eat"
+    } ]
+  }, {
+    "tStartMs": 758300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "This is just an ordinary and simple morning for me"
+    } ]
+  }, {
+    "tStartMs": 762433,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "In my eyes, simple is happiness"
+    } ]
+  }, {
+    "tStartMs": 766566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Do you all feel the same way?"
+    } ]
+  }, {
+    "tStartMs": 769566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I hope you all like this video"
+    } ]
+  }, {
+    "tStartMs": 771433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "See you in the next video"
+    } ]
+  }, {
+    "tStartMs": 774400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Bye-bye"
+    } ]
+  } ]
+}

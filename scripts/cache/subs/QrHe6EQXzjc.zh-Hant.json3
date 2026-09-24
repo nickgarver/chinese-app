@@ -1,0 +1,1045 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "大家好,歡迎回到我的頻道"
+    } ]
+  }, {
+    "tStartMs": 3366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我是安吉拉"
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "你們好嗎"
+    } ]
+  }, {
+    "tStartMs": 6366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我又來了啊"
+    } ]
+  }, {
+    "tStartMs": 8100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "今天的視頻"
+    } ]
+  }, {
+    "tStartMs": 9533,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "我想跟大家聊一個輕鬆的話題"
+    } ]
+  }, {
+    "tStartMs": 13933,
+    "dDurationMs": 6233,
+    "segs": [ {
+      "utf8": "給大家介紹一個特好玩兒的網絡詞彙，“從夯到拉”"
+    } ]
+  }, {
+    "tStartMs": 21566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "這個詞兒是一個新詞兒"
+    } ]
+  }, {
+    "tStartMs": 24266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "好像是去年才開始有的"
+    } ]
+  }, {
+    "tStartMs": 27366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "但是現在在中國非常火"
+    } ]
+  }, {
+    "tStartMs": 31100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "如果你經常上中國的社交媒體"
+    } ]
+  }, {
+    "tStartMs": 35133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "刷中國的短視頻"
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "看小紅書啊或者抖音啊"
+    } ]
+  }, {
+    "tStartMs": 40900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "你肯定看到過這個詞兒"
+    } ]
+  }, {
+    "tStartMs": 44266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "“從夯到拉”到底是什麼意思呢"
+    } ]
+  }, {
+    "tStartMs": 47733,
+    "dDurationMs": 7733,
+    "segs": [ {
+      "utf8": "其實它是現在中國年輕人非常愛用的一種評價方式"
+    } ]
+  }, {
+    "tStartMs": 56433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就像給一個東西評分兒一樣"
+    } ]
+  }, {
+    "tStartMs": 59266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "但是呢他沒有用數字評分兒"
+    } ]
+  }, {
+    "tStartMs": 62233,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "而是用了幾個非常奇怪、非常有意思的詞來給東西評分兒"
+    } ]
+  }, {
+    "tStartMs": 69766,
+    "dDurationMs": 9867,
+    "segs": [ {
+      "utf8": "這是一種非常有趣兒的非常有意思的表達從強到弱、從好到壞的一種評價方式"
+    } ]
+  }, {
+    "tStartMs": 80366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "或者是一種排序方式"
+    } ]
+  }, {
+    "tStartMs": 83366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "“"
+    } ]
+  }, {
+    "tStartMs": 86966,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "從第五個等級、拉” 第"
+    } ]
+  }, {
+    "tStartMs": 92300,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "一個評價給了“非常奇怪”到“這五個"
+    } ]
+  }, {
+    "tStartMs": 99266,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "等級”是夯，它表示最好、最牛、最厲害"
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "第二個等級呢，頂級，表示非常好"
+    } ]
+  }, {
+    "tStartMs": 109633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "稍微比夯要差一些"
+    } ]
+  }, {
+    "tStartMs": 112100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "但是也很好了"
+    } ]
+  }, {
+    "tStartMs": 113933,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "第三個等級，人上人，它表示還可以吧，聽好的"
+    } ]
+  }, {
+    "tStartMs": 120133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "第四個等級，NPC"
+    } ]
+  }, {
+    "tStartMs": 123533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "這個等級呢表示非常普通"
+    } ]
+  }, {
+    "tStartMs": 126500,
+    "dDurationMs": 6433,
+    "segs": [ {
+      "utf8": "最後一個等級就是拉，或是拉完了，表示最差最不好的"
+    } ]
+  }, {
+    "tStartMs": 133566,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "這種評價方式現在之所以這麼火，這麼流行"
+    } ]
+  }, {
+    "tStartMs": 139266,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "我覺得最重要的是這5個字非常有意思、非常奇怪"
+    } ]
+  }, {
+    "tStartMs": 145566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "那現在我們就看一下這5個字是怎麼來的"
+    } ]
+  }, {
+    "tStartMs": 150100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "為什麼要用這5個字來表示不同的等級呢"
+    } ]
+  }, {
+    "tStartMs": 154900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "咱們先看最高級-夯"
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "這個字讀夯（hāng）"
+    } ]
+  }, {
+    "tStartMs": 159766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "上面一個大，下面一個力"
+    } ]
+  }, {
+    "tStartMs": 163233,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "它最原始的意思是：蓋房子之前先把地面砸結實"
+    } ]
+  }, {
+    "tStartMs": 169933,
+    "dDurationMs": 7567,
+    "segs": [ {
+      "utf8": "還沒蓋房子之前先把地面、用很重的工具把它砸結實"
+    } ]
+  }, {
+    "tStartMs": 177733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "再蓋房子"
+    } ]
+  }, {
+    "tStartMs": 179433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "這個夯呢就是這個工具"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "力氣很大，大力嘛，力量很大"
+    } ]
+  }, {
+    "tStartMs": 186333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "那力量很大就有很厲害的意思，對不對"
+    } ]
+  }, {
+    "tStartMs": 189500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "那還有一個原因呢"
+    } ]
+  }, {
+    "tStartMs": 191300,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "是在中國的台灣方言裡"
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": "在台灣夯這個字、夯這個字有很流行的意思、很受歡迎的意思"
+    } ]
+  }, {
+    "tStartMs": 202233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "所以在這個評價體系裡呢"
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "夯表示了最牛的、最好的、最牛逼的、最厲害的"
+    } ]
+  }, {
+    "tStartMs": 211633,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "現在中國的年輕人特別愛用夯這個詞"
+    } ]
+  }, {
+    "tStartMs": 216566,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "來形容一個東西非常頂級、非常棒"
+    } ]
+  }, {
+    "tStartMs": 220200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "或評價一個東西非常牛、非常厲害"
+    } ]
+  }, {
+    "tStartMs": 224700,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "比如說：這家奶茶店的奶茶太夯了"
+    } ]
+  }, {
+    "tStartMs": 228966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "意思是這家奶茶店的奶茶味道太好了"
+    } ]
+  }, {
+    "tStartMs": 232700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "太好喝了"
+    } ]
+  }, {
+    "tStartMs": 233566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "是最好喝的"
+    } ]
+  }, {
+    "tStartMs": 235333,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "或者說，這個電影我看了三遍了"
+    } ]
+  }, {
+    "tStartMs": 239133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "這個主演的演技太夯了"
+    } ]
+  }, {
+    "tStartMs": 241933,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "意思是說這個主演的演技太棒了、太厲害了"
+    } ]
+  }, {
+    "tStartMs": 245966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "哎喲你的中文簡直太夯了"
+    } ]
+  }, {
+    "tStartMs": 248533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我給你一個夯​​、給到一個夯"
+    } ]
+  }, {
+    "tStartMs": 251466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "意思是你的中文說的太好了"
+    } ]
+  }, {
+    "tStartMs": 253666,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "我給你評價最高級、最棒的，我給到一個夯"
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "這都是現在比較常用的夯的用法"
+    } ]
+  }, {
+    "tStartMs": 262233,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "太夯了、夯爆了、給到一個夯"
+    } ]
+  }, {
+    "tStartMs": 266500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "這個夯可以形容各種東西"
+    } ]
+  }, {
+    "tStartMs": 269700,
+    "dDurationMs": 10066,
+    "segs": [ {
+      "utf8": "比如說食物啊、餐廳啊、衣服啊、電影啊、音樂呀、遊戲呀等等等等"
+    } ]
+  }, {
+    "tStartMs": 279866,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "只要你覺得它是最好的"
+    } ]
+  }, {
+    "tStartMs": 282133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "你都可以用夯來形容它"
+    } ]
+  }, {
+    "tStartMs": 285266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "現在咱們再看第二級-頂級"
+    } ]
+  }, {
+    "tStartMs": 289100,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "頂級在中文中是什麼意思呢"
+    } ]
+  }, {
+    "tStartMs": 292700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "頂，頭頂，top的意思，是不是"
+    } ]
+  }, {
+    "tStartMs": 296066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "山頂，最高處的意思"
+    } ]
+  }, {
+    "tStartMs": 298633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "所以頂級呢是最高的級別"
+    } ]
+  }, {
+    "tStartMs": 302500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我舉個例子"
+    } ]
+  }, {
+    "tStartMs": 304066,
+    "dDurationMs": 5834,
+    "segs": [ {
+      "utf8": "參加奧運會的運動員都是頂級的運動員"
+    } ]
+  }, {
+    "tStartMs": 310100,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "那這個頂級在我們這個評價系統裡呢"
+    } ]
+  }, {
+    "tStartMs": 313866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "嗯它表示非常好、也是非常厲害的一個級別"
+    } ]
+  }, {
+    "tStartMs": 318333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "但是比夯稍微差一些"
+    } ]
+  }, {
+    "tStartMs": 321233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "如果夯是100分兒"
+    } ]
+  }, {
+    "tStartMs": 323233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那頂級代表的就是90分兒"
+    } ]
+  }, {
+    "tStartMs": 326433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "第三個等級-人上"
+    } ]
+  }, {
+    "tStartMs": 328766,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "人人 上人的意思就是普通人 上面的人"
+    } ]
+  }, {
+    "tStartMs": 332833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "比普通人稍微厲害一些"
+    } ]
+  }, {
+    "tStartMs": 336533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "超過平均水平"
+    } ]
+  }, {
+    "tStartMs": 339033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "人上人這個詞來自於中文的一句俗語"
+    } ]
+  }, {
+    "tStartMs": 344100,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "中國有一個俗語叫做：吃得苦中苦，方為人上人"
+    } ]
+  }, {
+    "tStartMs": 351833,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "意思是：你只有比別人吃了更多的苦"
+    } ]
+  }, {
+    "tStartMs": 356466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "比別人做出了更多的努力"
+    } ]
+  }, {
+    "tStartMs": 359333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "你才能成為比別人更厲害的人"
+    } ]
+  }, {
+    "tStartMs": 363633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "那在這個評價系統裡呢"
+    } ]
+  }, {
+    "tStartMs": 366066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "在這個評價等級"
+    } ]
+  }, {
+    "tStartMs": 368166,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "里人 上人表示比普通要強一些、還可以、比較好"
+    } ]
+  }, {
+    "tStartMs": 374700,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "第四個等級是NPC"
+    } ]
+  }, {
+    "tStartMs": 378333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "這是一個英文的縮寫"
+    } ]
+  }, {
+    "tStartMs": 381766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "遊戲裡的非玩家角色"
+    } ]
+  }, {
+    "tStartMs": 384900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "non player character"
+    } ]
+  }, {
+    "tStartMs": 387366,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "就是我們在玩遊戲的時候、那些背景角色"
+    } ]
+  }, {
+    "tStartMs": 392233,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "背景裡的人，沒人會注意它們"
+    } ]
+  }, {
+    "tStartMs": 395133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "玩遊戲的時候也不會操作它們"
+    } ]
+  }, {
+    "tStartMs": 398300,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "所以呢這個NPC表示非常普通的人、沒人會注意到的人"
+    } ]
+  }, {
+    "tStartMs": 404433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "所以它在這個評價等級裡呢"
+    } ]
+  }, {
+    "tStartMs": 406933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "它表示普通"
+    } ]
+  }, {
+    "tStartMs": 409333,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": "最後一個級別、最後一個等級，也是最差的一個等級，是「拉完了」"
+    } ]
+  }, {
+    "tStartMs": 417466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "拉這個詞呢"
+    } ]
+  }, {
+    "tStartMs": 419066,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "拉這個字來自中國的東北方言"
+    } ]
+  }, {
+    "tStartMs": 424300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "在中國的東北地區"
+    } ]
+  }, {
+    "tStartMs": 426500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "有一個方言詞彙叫「拉胯」"
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "意思是特別差、很差勁"
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "比如說這個人也太拉胯了"
+    } ]
+  }, {
+    "tStartMs": 436233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "意思是這個人太差了"
+    } ]
+  }, {
+    "tStartMs": 438266,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "可能能力很差、或者人品很差"
+    } ]
+  }, {
+    "tStartMs": 441700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "總之是不"
+    } ]
+  }, {
+    "tStartMs": 443766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "這件 嗯再說"
+    } ]
+  }, {
+    "tStartMs": 445266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "這事太好了拉胯"
+    } ]
+  }, {
+    "tStartMs": 448033,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "事做得不太好、完成得不太好"
+    } ]
+  }, {
+    "tStartMs": 452866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那所以在這個評價等級裡呢"
+    } ]
+  }, {
+    "tStartMs": 456166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "用拉來表示很差"
+    } ]
+  }, {
+    "tStartMs": 459333,
+    "dDurationMs": 7933,
+    "segs": [ {
+      "utf8": "拉完了就是不能再差了、最差的、差到極點了，不能更差了"
+    } ]
+  }, {
+    "tStartMs": 467333,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "現在的年輕人也特別愛用拉這個字來形容一些東西"
+    } ]
+  }, {
+    "tStartMs": 473133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "或者給一些東西評價"
+    } ]
+  }, {
+    "tStartMs": 475766,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "比如說：今天我看的這部電影太拉了"
+    } ]
+  }, {
+    "tStartMs": 479700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "看到一半兒我就走了、太沒意思了"
+    } ]
+  }, {
+    "tStartMs": 483066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "或者說哎呦這家餐廳太拉了，又貴又難吃"
+    } ]
+  }, {
+    "tStartMs": 488033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "拉可以單獨使用"
+    } ]
+  }, {
+    "tStartMs": 489866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "也可以說拉完了"
+    } ]
+  }, {
+    "tStartMs": 491866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "拉就很差"
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "拉完了比拉更差"
+    } ]
+  }, {
+    "tStartMs": 495333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "不能再差了"
+    } ]
+  }, {
+    "tStartMs": 497066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "比如說，哎呦我這次考試拉完了，肯定不及格"
+    } ]
+  }, {
+    "tStartMs": 501166,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "意思就是我考得太差了，不能再差了"
+    } ]
+  }, {
+    "tStartMs": 505500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "那這就是拉和拉完了的用法」從拉實完了，肯定不及格意思就是我考得太差了，不能再差了那這就是拉和拉完了的用法"
+    } ]
+  }, {
+    "tStartMs": 508966,
+    "dDurationMs": 7334,
+    "segs": [ {
+      "utf8": "」從之書個很嚴肅的評價方式"
+    } ]
+  }, {
+    "tStartMs": 516533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "在網上誰都可以用"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "評價什麼東西都可以"
+    } ]
+  }, {
+    "tStartMs": 522033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "所以我們會在互聯網上"
+    } ]
+  }, {
+    "tStartMs": 524133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "經常看到一些博主"
+    } ]
+  }, {
+    "tStartMs": 526900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "對自己熟悉領域的東西"
+    } ]
+  }, {
+    "tStartMs": 529466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "或者是自己體驗過的一些東西"
+    } ]
+  }, {
+    "tStartMs": 532500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "用”從夯到拉“做一個評價、做一個排序"
+    } ]
+  }, {
+    "tStartMs": 537433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "表達一下自己的感受"
+    } ]
+  }, {
+    "tStartMs": 539766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "或者呢給別人一個參考"
+    } ]
+  }, {
+    "tStartMs": 543133,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "比如說，一些旅遊博主去了一一個地方旅遊"
+    } ]
+  }, {
+    "tStartMs": 547833,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "他把這個城市的景點」從夯到拉「評價一下、排序一下"
+    } ]
+  }, {
+    "tStartMs": 553900,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "發表了一下自己的感受、自己的想法"
+    } ]
+  }, {
+    "tStartMs": 557333,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "也能給其他的人呢參考"
+    } ]
+  }, {
+    "tStartMs": 560133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "如果其他的人去這個城市旅遊"
+    } ]
+  }, {
+    "tStartMs": 562700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "也可以參考一下他的這個評價、他的這個排序"
+    } ]
+  }, {
+    "tStartMs": 566700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "還有一些比如說科技博主"
+    } ]
+  }, {
+    "tStartMs": 569833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "他們經常會評一些科技產品"
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "什麼手測機呀、相機呀、電腦啊"
+    } ]
+  }, {
+    "tStartMs": 576933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "他們測評完了之後"
+    } ]
+  }, {
+    "tStartMs": 578466,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "就把同類的產品做一個」從夯到拉「的排序"
+    } ]
+  }, {
+    "tStartMs": 583033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "給別人作為參考"
+    } ]
+  }, {
+    "tStartMs": 585066,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "現在網上還有很多很有意思的」從夯到拉「的評價和排序"
+    } ]
+  }, {
+    "tStartMs": 591366,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "很多都是單純的為了搞笑，讓大家開心一下"
+    } ]
+  }, {
+    "tStartMs": 596833,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "我最近看到的一個非常有意思的」從夯到拉"
+    } ]
+  }, {
+    "tStartMs": 602966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "「次世界盃上的球星"
+    } ]
+  }, {
+    "tStartMs": 606966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "把這些球星的顏值，臉長得不好看"
+    } ]
+  }, {
+    "tStartMs": 611700,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "做了一個」從夯到拉「的排序"
+    } ]
+  }, {
+    "tStartMs": 615266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "非常有意思"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "好了今天的視頻咱們就聊到這"
+    } ]
+  }, {
+    "tStartMs": 620166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "從夯到拉"
+    } ]
+  }, {
+    "tStartMs": 621666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "大家學會了嗎"
+    } ]
+  }, {
+    "tStartMs": 623433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "會用了嗎"
+    } ]
+  }, {
+    "tStartMs": 625266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "希望我今天的視頻"
+    } ]
+  }, {
+    "tStartMs": 626900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "對你們學習中文有幫助"
+    } ]
+  }, {
+    "tStartMs": 629433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "如果你對我的視頻感興趣"
+    } ]
+  }, {
+    "tStartMs": 632033,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "大家"
+    } ]
+  }, {
+    "tStartMs": 634566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "下次"
+    } ]
+  }, {
+    "tStartMs": 635666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "訂閱我的頻道哦"
+    } ]
+  } ]
+}

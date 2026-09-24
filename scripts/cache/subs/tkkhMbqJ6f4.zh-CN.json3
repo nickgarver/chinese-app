@@ -1,0 +1,2011 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nǐ zài xué xí hàn yǔ\n你在学习汉语"
+    } ]
+  }, {
+    "tStartMs": 3433,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ zài xué xí xī bān yá yǔ hé rì yǔ\n我在学习西班牙语和日语"
+    } ]
+  }, {
+    "tStartMs": 8800,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "kě néng shì wèi le gōng zuò\n可能是为了工作"
+    } ]
+  }, {
+    "tStartMs": 11666,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "wèi le xué xí\n为了学习"
+    } ]
+  }, {
+    "tStartMs": 13766,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "huò zhě shì wèi le zì jǐ de xìng qù ài hào\n或者是为了自己的兴趣爱好"
+    } ]
+  }, {
+    "tStartMs": 18633,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ men dōu zài xué xí yǔ yán\n我们都在学习语言"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 6999,
+    "segs": [ {
+      "utf8": "dàn shì xué hǎo yì mén yǔ yán yào huā hěn duō shí jiān\n但是学好一门语言要花很多时间"
+    } ]
+  }, {
+    "tStartMs": 31000,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "suǒ yǐ jiān chí hěn zhòng yào\n所以坚持很重要"
+    } ]
+  }, {
+    "tStartMs": 35300,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "yǒu yí gè hǎo de xué xí xí guàn hěn zhòng yào\n有一个好的学习习惯很重要"
+    } ]
+  }, {
+    "tStartMs": 40900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "dà jiā hǎo wǒ shì xiǎo nà\n大家好我是小娜"
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ men yào yì qǐ liáo yí xià\n今天我们要一起聊一下"
+    } ]
+  }, {
+    "tStartMs": 47433,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "xué xí yǔ yán zhè jiàn shì qíng\n学习语言这件事情"
+    } ]
+  }, {
+    "tStartMs": 50300,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "xué xí yǔ yán de xí guàn\n学习语言的习惯"
+    } ]
+  }, {
+    "tStartMs": 53600,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "wǒ de shǒu lǐ yǒu yí gè běn zi\n我的手里有一个本子"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "běn zi shàng yǒu yì xiē wèn tí\n本子上有一些问题"
+    } ]
+  }, {
+    "tStartMs": 59766,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "wǒ huì wèn nǐ yì xiē wèn tí\n我会问你一些问题"
+    } ]
+  }, {
+    "tStartMs": 62900,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "rán hòu wǒ huì huí dá yí xià zhè xiē wèn tí\n然后我会回答一下这些问题"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "wǒ huì fēn xiǎng yí xià wǒ de jīng lì\n我会分享一下我的经历"
+    } ]
+  }, {
+    "tStartMs": 73200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "shǒu xiān dì yī gè wèn tí\n首先第一个问题"
+    } ]
+  }, {
+    "tStartMs": 76900,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "nǐ yì bān shén me shí hòu xué xí zhōng wén\n你一般什么时候学习中文"
+    } ]
+  }, {
+    "tStartMs": 81366,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "zǎo shàng   wǎn shàng\n早上 晚上"
+    } ]
+  }, {
+    "tStartMs": 83900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "hái shì shàng bān de lù shang\n还是上班的路上"
+    } ]
+  }, {
+    "tStartMs": 87766,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "hái shì xià bān yǐ hòu\n还是下班以后"
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "nǐ shén me shí hòu xué xí zhōng wén\n你什么时候学习中文"
+    } ]
+  }, {
+    "tStartMs": 94700,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "wǒ de huà wǒ yì bān zǎo shàng\n我的话我一般早上"
+    } ]
+  }, {
+    "tStartMs": 98433,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "hái yǒu wǎn shàng xué xí yǔ yán\n还有晚上学习语言"
+    } ]
+  }, {
+    "tStartMs": 103233,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ hěn xǐ huan zǎo qǐ\n因为我很喜欢早起"
+    } ]
+  }, {
+    "tStartMs": 107066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "qǐ hěn zǎo bǐ rú 6 diǎn\n起很早比如6点"
+    } ]
+  }, {
+    "tStartMs": 110066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "5 diǎn bàn děng děng\n5点半等等"
+    } ]
+  }, {
+    "tStartMs": 112100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "yīn wèi zǎo shàng de shí hòu\n因为早上的时候"
+    } ]
+  }, {
+    "tStartMs": 114466,
+    "dDurationMs": 6867,
+    "segs": [ {
+      "utf8": "wǒ de dà nǎo hěn qīng xǐng\n我的大脑很清醒"
+    } ]
+  }, {
+    "tStartMs": 121766,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu wǒ xué yǔ yán hěn kuài\n早上的时候我学语言很快"
+    } ]
+  }, {
+    "tStartMs": 125833,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "ér qiě zǎo shàng méi yǒu rén dǎ rǎo\n而且早上没有人打扰"
+    } ]
+  }, {
+    "tStartMs": 130700,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí jiān shì wǒ zì jǐ de\n早上的时间是我自己的"
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hěn xǐ huan zǎo shàng de shí hòu\n所以我很喜欢早上的时候"
+    } ]
+  }, {
+    "tStartMs": 138233,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "chū lái sàn bù huò zhě lái gōng yuán lǐ\n出来散步或者来公园里"
+    } ]
+  }, {
+    "tStartMs": 142000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "rán hòu wǒ yì biān sàn bù\n然后我一边散步"
+    } ]
+  }, {
+    "tStartMs": 145033,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "wǒ yì biān sàn bù\n我一边散步"
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "yì biān xué xí yǔ yán\n一边学习语言"
+    } ]
+  }, {
+    "tStartMs": 150100,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "xué xí xī bān yá yǔ\n学习西班牙语"
+    } ]
+  }, {
+    "tStartMs": 153300,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "rán hòu wǎn shàng de shí hòu\n然后晚上的时候"
+    } ]
+  }, {
+    "tStartMs": 155500,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "bǐ rú shuì jiào yǐ qián\n比如睡觉以前"
+    } ]
+  }, {
+    "tStartMs": 158766,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ yě hěn xǐ huan xué xí yǔ yán\n我也很喜欢学习语言"
+    } ]
+  }, {
+    "tStartMs": 161866,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yīn wèi shuì jiào yǐ qián\n因为睡觉以前"
+    } ]
+  }, {
+    "tStartMs": 164866,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "kàn shǒu jī bù hǎo\n看手机不好"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "duì ba\n对吧"
+    } ]
+  }, {
+    "tStartMs": 167466,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "suǒ yǐ shuì jiào yǐ qián wǒ xǐ huan kàn yí huì er shū\n所以睡觉以前我喜欢看一会儿书"
+    } ]
+  }, {
+    "tStartMs": 172433,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "huò zhě xué xí rì yǔ\n或者学习日语"
+    } ]
+  }, {
+    "tStartMs": 176200,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "zhè yàng kě yǐ bāng zhù wǒ shuì jiào\n这样可以帮助我睡觉"
+    } ]
+  }, {
+    "tStartMs": 181666,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "duì shuì mián yǒu hǎo chù\n对睡眠有好处"
+    } ]
+  }, {
+    "tStartMs": 184466,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "ér qiě wǒ jué de shuì jiào yǐ qián xué xí yǔ yán\n而且我觉得睡觉以前学习语言"
+    } ]
+  }, {
+    "tStartMs": 191000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "huì xué dé hěn kuài\n会学得很快"
+    } ]
+  }, {
+    "tStartMs": 192966,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "hǎo xiàng nǐ shuì jiào de shí hòu yě zài xué xí\n好像你睡觉的时候也在学习"
+    } ]
+  }, {
+    "tStartMs": 197566,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "bù zhī dào shì bu shì zhēn de\n不知道是不是真的"
+    } ]
+  }, {
+    "tStartMs": 200233,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de shì zhè yàng\n但是我觉得是这样"
+    } ]
+  }, {
+    "tStartMs": 204100,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì bān zǎo shàng xué xí xī bān yá yǔ\n所以我一般早上学习西班牙语"
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "wǎn shàng xué xí rì yǔ\n晚上学习日语"
+    } ]
+  }, {
+    "tStartMs": 212900,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "nà xià yí gè wèn tí\n那下一个问题"
+    } ]
+  }, {
+    "tStartMs": 217200,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "nǐ měi tiān dōu xué xí zhōng wén ma\n你每天都学习中文吗"
+    } ]
+  }, {
+    "tStartMs": 222300,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "huò zhě nǐ yì zhōu xué xí jǐ cì zhōng wén\n或者你一周学习几次中文"
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "wǒ de huà\n我的话"
+    } ]
+  }, {
+    "tStartMs": 233100,
+    "dDurationMs": 5799,
+    "segs": [ {
+      "utf8": "wǒ chà bù duō měi tiān dōu xué xí yǔ yán\n我差不多每天都学习语言"
+    } ]
+  }, {
+    "tStartMs": 239666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "chà bù duō měi tiān dōu xué xí\n差不多每天都学习"
+    } ]
+  }, {
+    "tStartMs": 241900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu wǒ xué xí chà bù duō\n早上的时候我学习差不多"
+    } ]
+  }, {
+    "tStartMs": 245900,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "yí gè xiǎo shí\n一个小时"
+    } ]
+  }, {
+    "tStartMs": 247600,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "bàn gè xiǎo shí\n半个小时"
+    } ]
+  }, {
+    "tStartMs": 248500,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "huò zhě yí gè xiǎo shí zuǒ yòu de xī bān yá yǔ\n或者一个小时左右的西班牙语"
+    } ]
+  }, {
+    "tStartMs": 253233,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "yīn wèi zǎo shàng wǒ yǒu hěn duō shí jiān\n因为早上我有很多时间"
+    } ]
+  }, {
+    "tStartMs": 256633,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "dàn shì wǎn shàng de shí hòu\n但是晚上的时候"
+    } ]
+  }, {
+    "tStartMs": 260000,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "wǒ de shí jiān hěn shǎo\n我的时间很少"
+    } ]
+  }, {
+    "tStartMs": 263233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǎn shàng chī wán fàn yǐ hòu\n晚上吃完饭以后"
+    } ]
+  }, {
+    "tStartMs": 267200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ chū qù sàn gè bù\n如果我出去散个步"
+    } ]
+  }, {
+    "tStartMs": 269866,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "rán hòu huí lái\n然后回来"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "rán hòu xǐ zǎo\n然后洗澡"
+    } ]
+  }, {
+    "tStartMs": 274066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "jiù méi yǒu hěn duō shí jiān\n就没有很多时间"
+    } ]
+  }, {
+    "tStartMs": 275966,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì bān wǎn shàng xué xí chà bù duō\n所以我一般晚上学习差不多"
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "1 5 fēn zhōng huò zhě 2 0 fēn zhōng huò zhě bàn gè xiǎo shí\n15分钟或者20分钟或者半个小时"
+    } ]
+  }, {
+    "tStartMs": 285666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu\n有的时候"
+    } ]
+  }, {
+    "tStartMs": 287466,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "dàn shì shí jiān bǐ jiào duǎn\n但是时间比较短"
+    } ]
+  }, {
+    "tStartMs": 291800,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de\n但是我觉得"
+    } ]
+  }, {
+    "tStartMs": 293633,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "rú guǒ měi tiān xué xí yì diǎn\n如果每天学习一点"
+    } ]
+  }, {
+    "tStartMs": 298600,
+    "dDurationMs": 6766,
+    "segs": [ {
+      "utf8": "huì bǐ bǐ rú yī zhōu zhī xué xí yí cì\n会比比如一周只学习一次"
+    } ]
+  }, {
+    "tStartMs": 305600,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "yí cì xué xí 2 gè xiǎo shí 3 gè xiǎo shí gèng hǎo\n一次学习2个小时3个小时更好"
+    } ]
+  }, {
+    "tStartMs": 311833,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "wǒ jué de měi tiān huā yì diǎn shí jiān xué xí yǔ yán gèng hǎo\n我觉得每天花一点时间学习语言更好"
+    } ]
+  }, {
+    "tStartMs": 318166,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "yīn wèi měi tiān nǐ dōu hé zhè mén yǔ yán jiē chù\n因为每天你都和这门语言接触"
+    } ]
+  }, {
+    "tStartMs": 324466,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "nǐ dōu huì jiē chù zhè mén yǔ yán\n你都会接触这门语言"
+    } ]
+  }, {
+    "tStartMs": 327800,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "duì yǔ yán de xué xí gèng yǒu hǎo chù\n对语言的学习更有好处"
+    } ]
+  }, {
+    "tStartMs": 331866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "rán hòu\n然后"
+    } ]
+  }, {
+    "tStartMs": 333366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "nǐ yì bān xǐ huan yí gè rén xué xí\n你一般喜欢一个人学习"
+    } ]
+  }, {
+    "tStartMs": 337633,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "hái shì hé qí tā rén yì qǐ xué xí\n还是和其他人一起学习"
+    } ]
+  }, {
+    "tStartMs": 344033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "wǒ de huà\n我的话"
+    } ]
+  }, {
+    "tStartMs": 345766,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "yīn wèi xiàn zài wǒ shì zì xué\n因为现在我是自学"
+    } ]
+  }, {
+    "tStartMs": 349566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "wǒ zài zì xué xī bān yá yǔ hé rì yǔ\n我在自学西班牙语和日语"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ méi yǒu qí tā de tóng xué\n所以我没有其他的同学"
+    } ]
+  }, {
+    "tStartMs": 356166,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "yì bān wǒ shì yí gè rén xué xí yǔ yán\n一般我是一个人学习语言"
+    } ]
+  }, {
+    "tStartMs": 361666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "dàn shì yǒu de shí hòu\n但是有的时候"
+    } ]
+  }, {
+    "tStartMs": 363866,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "wǒ huì hé wǒ de lǎo gōng yì qǐ xué xí rì yǔ\n我会和我的老公一起学习日语"
+    } ]
+  }, {
+    "tStartMs": 368833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "wǒ jué de liǎng gè rén yì qǐ xué xí yǔ yán\n我觉得两个人一起学习语言"
+    } ]
+  }, {
+    "tStartMs": 372833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "yě hěn yǒu yì sī\n也很有意思"
+    } ]
+  }, {
+    "tStartMs": 374933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "tā xué dé bǐ wǒ màn\n他学得比我慢"
+    } ]
+  }, {
+    "tStartMs": 378433,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǒ xué dé bǐ tā kuài\n我学得比他快"
+    } ]
+  }, {
+    "tStartMs": 381466,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu de shí hòu wǒ men yì qǐ xué xí\n所以有的时候我们一起学习"
+    } ]
+  }, {
+    "tStartMs": 385433,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ jué de hěn yǒu yì sī\n我觉得很有意思"
+    } ]
+  }, {
+    "tStartMs": 388133,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ yǒu xī bān yá yǔ de lǎo shī\n现在我有西班牙语的老师"
+    } ]
+  }, {
+    "tStartMs": 394166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "yě yǒu yí gè rì yǔ de lǎo shī\n也有一个日语的老师"
+    } ]
+  }, {
+    "tStartMs": 396866,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ zài zì xué\n所以我在自学"
+    } ]
+  }, {
+    "tStartMs": 399633,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "dàn shì měi zhōu wǒ huì shàng yí cì kè\n但是每周我会上一次课"
+    } ]
+  }, {
+    "tStartMs": 405533,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "zì xué hé hé lǎo shī yì qǐ shàng kè\n自学和和老师一起上课"
+    } ]
+  }, {
+    "tStartMs": 409666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "suǒ yǐ dōu yǒu\n所以都有"
+    } ]
+  }, {
+    "tStartMs": 411866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "nǐ měi cì xué xí zhōng wén de shí hòu\n你每次学习中文的时候"
+    } ]
+  }, {
+    "tStartMs": 415366,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "nǐ xué xí shén me\n你学习什么"
+    } ]
+  }, {
+    "tStartMs": 418133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nǐ liàn xí shén me\n你练习什么"
+    } ]
+  }, {
+    "tStartMs": 421866,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "zhè ge shì qíng wǒ jué de\n这个事情我觉得"
+    } ]
+  }, {
+    "tStartMs": 426666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "yì bān yi bān lái jiǎng\n一般一般来讲"
+    } ]
+  }, {
+    "tStartMs": 429266,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ men kěn dìng huì xué xí wǒ men xǐ huan de dōng xī\n我们肯定会学习我们喜欢的东西"
+    } ]
+  }, {
+    "tStartMs": 433866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "duì ba\n对吧"
+    } ]
+  }, {
+    "tStartMs": 434666,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xǐ huan kàn shì pín\n如果你喜欢看视频"
+    } ]
+  }, {
+    "tStartMs": 437900,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "nà nǐ kěn dìng jīng cháng kàn shì pín liàn xí tīng lì\n那你肯定经常看视频练习听力"
+    } ]
+  }, {
+    "tStartMs": 442966,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "huò zhě rú guǒ nǐ xǐ huan tīng bō kè\n或者如果你喜欢听播客"
+    } ]
+  }, {
+    "tStartMs": 446766,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "nà nǐ kěn dìng jīng cháng tīng bō kè\n那你肯定经常听播客"
+    } ]
+  }, {
+    "tStartMs": 450500,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xǐ huan yuè dú\n如果你喜欢阅读"
+    } ]
+  }, {
+    "tStartMs": 453433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan dú shū\n你喜欢读书"
+    } ]
+  }, {
+    "tStartMs": 455166,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "nà nǐ kě néng huì dú hěn duō zhōng wén\n那你可能会读很多中文"
+    } ]
+  }, {
+    "tStartMs": 459266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ hěn wài xiàng\n如果你很外向"
+    } ]
+  }, {
+    "tStartMs": 461666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan hé bié rén shuō huà\n你喜欢和别人说话"
+    } ]
+  }, {
+    "tStartMs": 464500,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "nà nǐ kě néng jīng cháng hé zhōng guó de péng yǒu\n那你可能经常和中国的朋友"
+    } ]
+  }, {
+    "tStartMs": 468933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "hé qí tā rén yì qǐ shuō zhōng wén\n和其他人一起说中文"
+    } ]
+  }, {
+    "tStartMs": 473066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "dàn shì\n但是"
+    } ]
+  }, {
+    "tStartMs": 474933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ ne\n我呢"
+    } ]
+  }, {
+    "tStartMs": 477100,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ shì yí gè hěn nèi xiàng de rén\n我觉得我是一个很内向的人"
+    } ]
+  }, {
+    "tStartMs": 481133,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bú shì tè bié xǐ huan shuō huà\n所以我不是特别喜欢说话"
+    } ]
+  }, {
+    "tStartMs": 487066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì jīng cháng\n所以我会经常"
+    } ]
+  }, {
+    "tStartMs": 490266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "kàn shì pín tīng bō kè\n看视频听播客"
+    } ]
+  }, {
+    "tStartMs": 493300,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "wǒ huā le hěn duō shí jiān zài Y o u t u b e shàng kàn shì pín\n我花了很多时间在Youtube上看视频"
+    } ]
+  }, {
+    "tStartMs": 498066,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "zài shǒu jī shàng tīng bō kè\n在手机上听播客"
+    } ]
+  }, {
+    "tStartMs": 502466,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "wǒ jué de duì wǒ de tīng lì hěn yǒu yòng\n我觉得对我的听力很有用"
+    } ]
+  }, {
+    "tStartMs": 506833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ de tīng lì yì bān hěn hǎo\n所以我的听力一般很好"
+    } ]
+  }, {
+    "tStartMs": 510866,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "dàn shì\n但是"
+    } ]
+  }, {
+    "tStartMs": 512900,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ zhī liàn xí tīng lì\n如果我只练习听力"
+    } ]
+  }, {
+    "tStartMs": 516066,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de xī bān yá yǔ\n比如我的西班牙语"
+    } ]
+  }, {
+    "tStartMs": 519233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ kě yǐ tīng dǒng hěn duō\n我觉得我可以听懂很多"
+    } ]
+  }, {
+    "tStartMs": 522333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "dàn shì wǒ bú huì shuō\n但是我不会说"
+    } ]
+  }, {
+    "tStartMs": 526333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "huò zhě wǒ de yǔ fǎ bú gòu hǎo\n或者我的语法不够好"
+    } ]
+  }, {
+    "tStartMs": 530133,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "suǒ yǐ xiàn zài wǒ huì huā yì xiē shí jiān\n所以现在我会花一些时间"
+    } ]
+  }, {
+    "tStartMs": 534933,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "lái xué xí xī bān yá yǔ de dòng cí biàn wèi\n来学习西班牙语的动词变位"
+    } ]
+  }, {
+    "tStartMs": 540500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "c o n j u g a t i o n\nconjugation"
+    } ]
+  }, {
+    "tStartMs": 541733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "tā hěn nán tā hěn fán rén\n它很难它很烦人"
+    } ]
+  }, {
+    "tStartMs": 544233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "dàn shì rú guǒ wǒ xiǎng shuō xī bān yá yǔ\n但是如果我想说西班牙语"
+    } ]
+  }, {
+    "tStartMs": 547866,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "wǒ bì xū xué xí zhè xiē yǔ fǎ\n我必须学习这些语法"
+    } ]
+  }, {
+    "tStartMs": 551766,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì huā hěn duō shí jiān xué xí zhè xiē yǔ fǎ\n所以我会花很多时间学习这些语法"
+    } ]
+  }, {
+    "tStartMs": 557033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu\n有的时候"
+    } ]
+  }, {
+    "tStartMs": 559133,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ tīng le hěn duō\n比如我听了很多"
+    } ]
+  }, {
+    "tStartMs": 561100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "liàn xí le hěn duō\n练习了很多"
+    } ]
+  }, {
+    "tStartMs": 562733,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ jué de wǒ de cí huì hěn shǎo\n现在我觉得我的词汇很少"
+    } ]
+  }, {
+    "tStartMs": 567133,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ rèn shi de dān cí bú gòu duō\n我觉得我认识的单词不够多"
+    } ]
+  }, {
+    "tStartMs": 572466,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "suǒ yǐ zuì jìn wǒ yě kāi shǐ dú xī bān yá yǔ\n所以最近我也开始读西班牙语"
+    } ]
+  }, {
+    "tStartMs": 577866,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "wǒ huì zài wǎng shàng zhǎo yì xiē wén zhāng lái yuè dú\n我会在网上找一些文章来阅读"
+    } ]
+  }, {
+    "tStartMs": 583533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "yīn wèi yuè dú de shí hòu\n因为阅读的时候"
+    } ]
+  }, {
+    "tStartMs": 585733,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "wǒ jué de zhè xiē dān cí huì jì zài nǎo dài lǐ\n我觉得这些单词会记在脑袋里"
+    } ]
+  }, {
+    "tStartMs": 592100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "wǒ jué de hěn yǒu yòng\n我觉得很有用"
+    } ]
+  }, {
+    "tStartMs": 593933,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "suǒ yǐ xiàn zài wǒ huì yuè dú hěn duō xī bān yá yǔ\n所以现在我会阅读很多西班牙语"
+    } ]
+  }, {
+    "tStartMs": 599433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "kǒu yǔ yě shì\n口语也是"
+    } ]
+  }, {
+    "tStartMs": 602300,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu wǒ yě huì shuō\n有的时候我也会说"
+    } ]
+  }, {
+    "tStartMs": 604300,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "wǒ huì nǔ lì shuō yì xiē xī bān yá yǔ\n我会努力说一些西班牙语"
+    } ]
+  }, {
+    "tStartMs": 609133,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "suī rán bú shì měi tiān dōu shuō xī bān yá yǔ\n虽然不是每天都说西班牙语"
+    } ]
+  }, {
+    "tStartMs": 612300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "dàn shì chà bù duō yì zhōu\n但是差不多一周"
+    } ]
+  }, {
+    "tStartMs": 615766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "wǒ huì liàn xí hé lǎo shī liàn xí yí cì\n我会练习和老师练习一次"
+    } ]
+  }, {
+    "tStartMs": 619366,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "zì jǐ liàn xí yí cì huò zhě liǎng cì\n自己练习一次或者两次"
+    } ]
+  }, {
+    "tStartMs": 625566,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "rì yǔ de huà xiàn zài wǒ zài dú hěn duō\n日语的话现在我在读很多"
+    } ]
+  }, {
+    "tStartMs": 630300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ zài kàn hěn duō shì pín\n我在看很多视频"
+    } ]
+  }, {
+    "tStartMs": 632933,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "rán hòu wǒ yě zài dú hěn duō rì yǔ\n然后我也在读很多日语"
+    } ]
+  }, {
+    "tStartMs": 637033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "yīn wèi rì yǔ de K a n j i\n因为日语的Kanji"
+    } ]
+  }, {
+    "tStartMs": 639033,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "wǒ jué de hái shì yào dú hěn duō\n我觉得还是要读很多"
+    } ]
+  }, {
+    "tStartMs": 641466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "suī rán wǒ shì yí gè zhōng guó rén\n虽然我是一个中国人"
+    } ]
+  }, {
+    "tStartMs": 644533,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ kàn dǒng hěn duō K a n j i\n我可以看懂很多Kanji"
+    } ]
+  }, {
+    "tStartMs": 648100,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "yīn wèi K a n j i hé zhōng wén de hàn zì hěn xiàng\n因为Kanji和中文的汉字很像"
+    } ]
+  }, {
+    "tStartMs": 653700,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "zhè shì yí gè hǎo chù\n这是一个好处"
+    } ]
+  }, {
+    "tStartMs": 656300,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "dàn shì tā men de fā yīn bù yí yàng\n但是它们的发音不一样"
+    } ]
+  }, {
+    "tStartMs": 660133,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hái shì yào xué xí K a n j i\n所以我还是要学习Kanji"
+    } ]
+  }, {
+    "tStartMs": 663066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "lìng wài yí gè wèn tí shì\n另外一个问题是"
+    } ]
+  }, {
+    "tStartMs": 664833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan bèi dān cí ma\n你喜欢背单词吗"
+    } ]
+  }, {
+    "tStartMs": 668900,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "wǒ gēn nǐ shuō\n我跟你说"
+    } ]
+  }, {
+    "tStartMs": 669900,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "wǒ tè bié tè bié bù xǐ huan bèi dān cí\n我特别特别不喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 675900,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ zhī dào\n因为我知道"
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "hěn duō rén shuō\n很多人说"
+    } ]
+  }, {
+    "tStartMs": 680466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "kě yǐ yòng A n k i\n可以用Anki"
+    } ]
+  }, {
+    "tStartMs": 682166,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "kě yǐ yòng Q z u i l e t\n可以用Qzuilet"
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "hěn duō rén xǐ huan bèi dān cí\n很多人喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 687433,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "dàn shì wǒ fā xiàn\n但是我发现"
+    } ]
+  }, {
+    "tStartMs": 691200,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "wǒ hǎo xiàng bù xǐ huan bèi dān cí\n我好像不喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 696666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "wǒ yě bù xǐ huan fù xí\n我也不喜欢复习"
+    } ]
+  }, {
+    "tStartMs": 700200,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "wǒ tè bié bù xǐ huan fù xí wǒ xué guò de dōng xī\n我特别不喜欢复习我学过的东西"
+    } ]
+  }, {
+    "tStartMs": 705500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "wǒ zhī dào zhè yàng bù hǎo\n我知道这样不好"
+    } ]
+  }, {
+    "tStartMs": 707866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ men yào fù xí\n因为我们要复习"
+    } ]
+  }, {
+    "tStartMs": 710066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "rán hòu yào xué xí xīn de dōng xī\n然后要学习新的东西"
+    } ]
+  }, {
+    "tStartMs": 713200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "dàn shì\n但是"
+    } ]
+  }, {
+    "tStartMs": 715900,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "wǒ kě néng shì yí gè xǐ huan xīn xiān de dōng xī de rén\n我可能是一个喜欢新鲜的东西的人"
+    } ]
+  }, {
+    "tStartMs": 720800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "wǒ xǐ huan xīn de dōng xī\n我喜欢新的东西"
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì zhí xǐ huan xué xí xīn de dōng xī\n所以我一直喜欢学习新的东西"
+    } ]
+  }, {
+    "tStartMs": 727033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "wǒ huì kàn hěn duō xīn de shì pín\n我会看很多新的视频"
+    } ]
+  }, {
+    "tStartMs": 730200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "tīng hěn duō xīn de bō kè\n听很多新的播客"
+    } ]
+  }, {
+    "tStartMs": 732833,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "wǒ bù xǐ huan kàn yǐ qián xué guò de dōng xī\n我不喜欢看以前学过的东西"
+    } ]
+  }, {
+    "tStartMs": 738100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bù xǐ huan bèi dān cí\n所以我不喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 741233,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "wǒ jué de bèi dān cí yǒu diǎn wú liáo\n我觉得背单词有点无聊"
+    } ]
+  }, {
+    "tStartMs": 750100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "duì yú wǒ lái shuō\n对于我来说"
+    } ]
+  }, {
+    "tStartMs": 751766,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ yù dào le yí gè xīn de dān cí\n如果我遇到了一个新的单词"
+    } ]
+  }, {
+    "tStartMs": 756200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "wǒ bú rèn shi\n我不认识"
+    } ]
+  }, {
+    "tStartMs": 758166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "wǒ huì jué de\n我会觉得"
+    } ]
+  }, {
+    "tStartMs": 759800,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "bǐ rú xià yí cì wǒ qù tīng dōng xī\n比如下一次我去听东西"
+    } ]
+  }, {
+    "tStartMs": 763433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "wǒ huì yòu tīng dào le\n我会又听到了"
+    } ]
+  }, {
+    "tStartMs": 765033,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "huò zhě wǒ yòu\n或者我又"
+    } ]
+  }, {
+    "tStartMs": 766400,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "wǒ dú wén zhāng\n我读文章"
+    } ]
+  }, {
+    "tStartMs": 769166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "wǒ yòu kàn dào le zhè ge dān cí\n我又看到了这个单词"
+    } ]
+  }, {
+    "tStartMs": 771866,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "wǒ jué de\n我觉得"
+    } ]
+  }, {
+    "tStartMs": 773800,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "wǒ huì màn màn dì màn màn dì bǎ zhè ge dān cí xué huì\n我会慢慢地慢慢地把这个单词学会"
+    } ]
+  }, {
+    "tStartMs": 779400,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "ér bú shì yòng hěn duō f l a s h   c a r d s qù jì dān cí\n而不是用很多flash cards去记单词"
+    } ]
+  }, {
+    "tStartMs": 785366,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ bù xǐ huan bèi dān cí\n我觉得我不喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 789400,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ xǐ huan tīng hěn duō cì\n我喜欢听很多次"
+    } ]
+  }, {
+    "tStartMs": 792400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "kàn dào hěn duō cì zhè ge dān cí\n看到很多次这个单词"
+    } ]
+  }, {
+    "tStartMs": 795033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "rán hòu jiù jì zhù le\n然后就记住了"
+    } ]
+  }, {
+    "tStartMs": 797633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ shì zhè yàng de\n我是这样的"
+    } ]
+  }, {
+    "tStartMs": 798966,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "dàn shì rú guǒ nǐ xǐ huan bèi dān cí\n但是如果你喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 802166,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "nǐ jué de bèi dān cí hěn yǒu yòng\n你觉得背单词很有用"
+    } ]
+  }, {
+    "tStartMs": 806233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nà wǒ jué de yě kě yǐ\n那我觉得也可以"
+    } ]
+  }, {
+    "tStartMs": 807633,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "yīn wèi měi gè rén de xí guàn bù yí yàng\n因为每个人的习惯不一样"
+    } ]
+  }, {
+    "tStartMs": 811633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de lǎo gōng\n比如我的老公"
+    } ]
+  }, {
+    "tStartMs": 814033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "tā zài xué yīng yǔ\n他在学英语"
+    } ]
+  }, {
+    "tStartMs": 815700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "tā hěn xǐ huan bèi dān cí\n他很喜欢背单词"
+    } ]
+  }, {
+    "tStartMs": 817533,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "yīn wèi tā jué de\n因为他觉得"
+    } ]
+  }, {
+    "tStartMs": 820500,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "tā de cí huì liáng hěn shǎo\n他的词汇量很少"
+    } ]
+  }, {
+    "tStartMs": 823666,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "tā rèn shi de dān cí hěn shǎo\n他认识的单词很少"
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "suǒ yǐ tā xué yīng yǔ\n所以他学英语"
+    } ]
+  }, {
+    "tStartMs": 829166,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "jiù shì bèi hěn duō dān cí\n就是背很多单词"
+    } ]
+  }, {
+    "tStartMs": 832900,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "dàn shì wǒ xiǎng shuō de shì\n但是我想说的是"
+    } ]
+  }, {
+    "tStartMs": 836166,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng liàn xí tīng lì\n如果你想练习听力"
+    } ]
+  }, {
+    "tStartMs": 840466,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "nà nǐ yào qù tīng\n那你要去听"
+    } ]
+  }, {
+    "tStartMs": 843400,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng liàn xí kǒu yǔ\n如果你想练习口语"
+    } ]
+  }, {
+    "tStartMs": 846733,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "nà nǐ yào qù shuō\n那你要去说"
+    } ]
+  }, {
+    "tStartMs": 848900,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng rèn shi gèng duō de dān cí\n如果你想认识更多的单词"
+    } ]
+  }, {
+    "tStartMs": 852766,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "nà nǐ kě yǐ qù bèi dān cí\n那你可以去背单词"
+    } ]
+  }, {
+    "tStartMs": 856900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dàn shì\n但是"
+    } ]
+  }, {
+    "tStartMs": 859433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hěn zhòng yào de shì\n很重要的是"
+    } ]
+  }, {
+    "tStartMs": 861600,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ zhī bèi dān cí\n如果你只背单词"
+    } ]
+  }, {
+    "tStartMs": 864000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "nà nǐ de tīng lì bú huì hǎo\n那你的听力不会好"
+    } ]
+  }, {
+    "tStartMs": 866400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nǐ de kǒu yǔ yě bú huì hǎo\n你的口语也不会好"
+    } ]
+  }, {
+    "tStartMs": 868833,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de zhè ge hěn zhòng yào\n所以我觉得这个很重要"
+    } ]
+  }, {
+    "tStartMs": 872300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "nǐ xiǎng liàn xí shén me\n你想练习什么"
+    } ]
+  }, {
+    "tStartMs": 874366,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ jiù qù zuò shén me\n你就去做什么"
+    } ]
+  }, {
+    "tStartMs": 876766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "wǒ jué de shì zhè yàng de\n我觉得是这样的"
+    } ]
+  }, {
+    "tStartMs": 878833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "nǐ yǒu méi yǒu zhè yàng de qíng kuàng\n你有没有这样的情况"
+    } ]
+  }, {
+    "tStartMs": 882833,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "jiù shì yǒu de shí hòu\n就是有的时候"
+    } ]
+  }, {
+    "tStartMs": 885400,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "nǐ bù xiǎng xué xí yǔ yán le\n你不想学习语言了"
+    } ]
+  }, {
+    "tStartMs": 889366,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "jīn tiān nǐ hěn lèi\n今天你很累"
+    } ]
+  }, {
+    "tStartMs": 890900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "nǐ bù xiǎng xué xí le\n你不想学习了"
+    } ]
+  }, {
+    "tStartMs": 892700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "huò zhě jīn tiān nǐ yǒu shì qíng\n或者今天你有事情"
+    } ]
+  }, {
+    "tStartMs": 895366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nǐ méi bàn fǎ xué xí yǔ yán\n你没办法学习语言"
+    } ]
+  }, {
+    "tStartMs": 898633,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "nà nǐ huì zěn me bàn\n那你会怎么办"
+    } ]
+  }, {
+    "tStartMs": 900866,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "huò zhě jīn tiān nǐ méi yǒu hěn duō shí jiān\n或者今天你没有很多时间"
+    } ]
+  }, {
+    "tStartMs": 904033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "nà nǐ zěn me bàn\n那你怎么办"
+    } ]
+  }, {
+    "tStartMs": 907566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǐ qián\n以前"
+    } ]
+  }, {
+    "tStartMs": 909833,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "wǒ de huà wǒ jué de jiān chí hěn zhòng yào\n我的话我觉得坚持很重要"
+    } ]
+  }, {
+    "tStartMs": 914566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì jǐn liàng\n所以我会尽量"
+    } ]
+  }, {
+    "tStartMs": 917633,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "wǒ huì jǐn liàng měi tiān dōu xué xí yí gè xiǎo shí\n我会尽量每天都学习一个小时"
+    } ]
+  }, {
+    "tStartMs": 923066,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "měi tiān wǎn shàng dōu xué xí bàn gè xiǎo shí\n每天晚上都学习半个小时"
+    } ]
+  }, {
+    "tStartMs": 927066,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dàn shì yǒu de shí hòu hěn zhèng cháng\n但是有的时候很正常"
+    } ]
+  }, {
+    "tStartMs": 929600,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "wǒ men méi yǒu shí jiān\n我们没有时间"
+    } ]
+  }, {
+    "tStartMs": 931866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "wǒ men yǒu hěn duō shì qíng yào qù zuò\n我们有很多事情要去做"
+    } ]
+  }, {
+    "tStartMs": 935100,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhī qián\n所以之前"
+    } ]
+  }, {
+    "tStartMs": 937600,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "yǐ qián de shí hòu wǒ huì hěn shēng qì\n以前的时候我会很生气"
+    } ]
+  }, {
+    "tStartMs": 939900,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "wǒ jué de   āi yā wǒ jīn tiān méi yǒu xué xí\n我觉得 哎呀我今天没有学习"
+    } ]
+  }, {
+    "tStartMs": 945066,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài wǒ jué de\n但是现在我觉得"
+    } ]
+  }, {
+    "tStartMs": 947866,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "rú guǒ jīn tiān bù xiǎng xué xí le\n如果今天不想学习了"
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "wǒ men kě yǐ bǐ rú kàn gè diàn yǐng\n我们可以比如看个电影"
+    } ]
+  }, {
+    "tStartMs": 954233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "kàn gè xī bān yá yǔ de diàn yǐng\n看个西班牙语的电影"
+    } ]
+  }, {
+    "tStartMs": 956466,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "huò zhě wǒ zuò gè yú jiā\n或者我做个瑜伽"
+    } ]
+  }, {
+    "tStartMs": 958700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "wǒ yòng xī bān yá yǔ de shì pín zuò yú jiā\n我用西班牙语的视频做瑜伽"
+    } ]
+  }, {
+    "tStartMs": 962000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "huò zhě wǒ tīng yì shǒu gē\n或者我听一首歌"
+    } ]
+  }, {
+    "tStartMs": 963866,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "wǒ tīng yì shǒu xī bān yá yǔ de gē\n我听一首西班牙语的歌"
+    } ]
+  }, {
+    "tStartMs": 966400,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "nà wǒ yě zài xué xí\n那我也在学习"
+    } ]
+  }, {
+    "tStartMs": 968300,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "duì ba\n对吧"
+    } ]
+  }, {
+    "tStartMs": 970066,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "huò zhě\n或者"
+    } ]
+  }, {
+    "tStartMs": 971500,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ zhǐ yǒu 5 fēn zhōng\n如果我只有5分钟"
+    } ]
+  }, {
+    "tStartMs": 973600,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "1 0 fēn zhōng\n10分钟"
+    } ]
+  }, {
+    "tStartMs": 974566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nà wǒ yě kě yǐ\n那我也可以"
+    } ]
+  }, {
+    "tStartMs": 977000,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "kàn yí xià yǐ qián xué guò de dān cí\n看一下以前学过的单词"
+    } ]
+  }, {
+    "tStartMs": 980500,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "yě kě yǐ yě shì zài xué xí\n也可以也是在学习"
+    } ]
+  }, {
+    "tStartMs": 983300,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ xiǎng shuō de shì\n所以我想说的是"
+    } ]
+  }, {
+    "tStartMs": 988166,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "wǒ men huì jǐn liàng měi tiān dōu xué xí yì diǎn yǔ yán\n我们会尽量每天都学习一点语言"
+    } ]
+  }, {
+    "tStartMs": 992966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "dàn shì\n但是"
+    } ]
+  }, {
+    "tStartMs": 993766,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ men zuò bú dào měi tiān dōu zhè yàng qù xué xí\n如果我们做不到每天都这样去学习"
+    } ]
+  }, {
+    "tStartMs": 998166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "nà yě méi yǒu tài dà de guān xì\n那也没有太大的关系"
+    } ]
+  }, {
+    "tStartMs": 1002433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "zhè jù huà shì duì wǒ zì jǐ shuō de\n这句话是对我自己说的"
+    } ]
+  }, {
+    "tStartMs": 1005066,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǒ bù zhī dào nǐ shì shén me qíng kuàng\n我不知道你是什么情况"
+    } ]
+  }, {
+    "tStartMs": 1008200,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "rán hòu nǐ yǒu méi yǒu xué guò qí tā de wài yǔ\n然后你有没有学过其他的外语"
+    } ]
+  }, {
+    "tStartMs": 1012700,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "hàn yǔ yǐ wài de wài yǔ\n汉语以外的外语"
+    } ]
+  }, {
+    "tStartMs": 1017433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "nǐ de xué xí xí guàn yí yàng ma\n你的学习习惯一样吗"
+    } ]
+  }, {
+    "tStartMs": 1020933,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de huà\n比如我的话"
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "bù yí yàng\n不一样"
+    } ]
+  }, {
+    "tStartMs": 1025000,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "wǒ yǐ qián zài xué xiào xué de yīng yǔ\n我以前在学校学的英语"
+    } ]
+  }, {
+    "tStartMs": 1028633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "zài zhōng guó xué de yīng yǔ\n在中国学的英语"
+    } ]
+  }, {
+    "tStartMs": 1030733,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "wǒ shàng xué de shí hòu\n我上学的时候"
+    } ]
+  }, {
+    "tStartMs": 1032733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ men zhī xué yǔ fǎ\n我们只学语法"
+    } ]
+  }, {
+    "tStartMs": 1035100,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "zhī kǎo shì zuò liàn xí\n只考试做练习"
+    } ]
+  }, {
+    "tStartMs": 1038500,
+    "dDurationMs": 2499,
+    "segs": [ {
+      "utf8": "dàn shì wǒ cóng lái méi yǒu\n但是我从来没有"
+    } ]
+  }, {
+    "tStartMs": 1041000,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "wǒ hěn shǎo liàn xí tīng lì huò zhě liàn xí kǒu yǔ\n我很少练习听力或者练习口语"
+    } ]
+  }, {
+    "tStartMs": 1045266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "rán hòu hòu lái xué xí fǎ yǔ de shí hòu\n然后后来学习法语的时候"
+    } ]
+  }, {
+    "tStartMs": 1048866,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "wǒ yě shì zài xué xiào xué xí de fǎ yǔ\n我也是在学校学习的法语"
+    } ]
+  }, {
+    "tStartMs": 1053066,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "rán hòu dāng shí wǒ men yǒu wài jiào\n然后当时我们有外教"
+    } ]
+  }, {
+    "tStartMs": 1055700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "yǒu fǎ guó de lǎo shī\n有法国的老师"
+    } ]
+  }, {
+    "tStartMs": 1057433,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "suǒ yǐ tīng lì hé kǒu yǔ liàn xí dé duō yì diǎn\n所以听力和口语练习得多一点"
+    } ]
+  }, {
+    "tStartMs": 1063866,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài xué xí xī bān yá yǔ hé rì yǔ\n但是现在学习西班牙语和日语"
+    } ]
+  }, {
+    "tStartMs": 1068266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "shì wǒ zì jǐ xué de\n是我自己学的"
+    } ]
+  }, {
+    "tStartMs": 1070933,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "wǒ zì xué de zhè liǎng mén yǔ yán\n我自学的这两门语言"
+    } ]
+  }, {
+    "tStartMs": 1074633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "suǒ yǐ hěn bù yí yàng\n所以很不一样"
+    } ]
+  }, {
+    "tStartMs": 1077066,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ huā le hěn duō shí jiān lái liàn xí tīng lì\n我觉得我花了很多时间来练习听力"
+    } ]
+  }, {
+    "tStartMs": 1082733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "kàn le hěn duō shì pín\n看了很多视频"
+    } ]
+  }, {
+    "tStartMs": 1085066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "tīng le hěn duō bō kè\n听了很多播客"
+    } ]
+  }, {
+    "tStartMs": 1089266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "yóu qí shì rì yǔ\n尤其是日语"
+    } ]
+  }, {
+    "tStartMs": 1090900,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ yǐ qián méi yǒu xué guò rì yǔ\n因为我以前没有学过日语"
+    } ]
+  }, {
+    "tStartMs": 1095533,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "suǒ yǐ xué xí de xí guàn wán quán bù yí yàng\n所以学习的习惯完全不一样"
+    } ]
+  }, {
+    "tStartMs": 1101200,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "nà nǐ ne\n那你呢"
+    } ]
+  }, {
+    "tStartMs": 1102200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nǐ xiàn zài xué xí zhōng wén\n你现在学习中文"
+    } ]
+  }, {
+    "tStartMs": 1104633,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "nǐ yǒu shén me xué xí zhōng wén de xí guàn\n你有什么学习中文的习惯"
+    } ]
+  }, {
+    "tStartMs": 1108333,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nǐ shén me shí hòu xué xí\n你什么时候学习"
+    } ]
+  }, {
+    "tStartMs": 1110233,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "nǐ měi zhōu xué xí jǐ cì\n你每周学习几次"
+    } ]
+  }, {
+    "tStartMs": 1113200,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "nǐ měi cì xué xí shén me\n你每次学习什么"
+    } ]
+  }, {
+    "tStartMs": 1116433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "nǐ yǒu méi yǒu bù xiǎng xué xí de shí hòu\n你有没有不想学习的时候"
+    } ]
+  }, {
+    "tStartMs": 1119833,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "nà nǐ zuò shén me\n那你做什么"
+    } ]
+  }, {
+    "tStartMs": 1122300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "xī wàng nǐ kě yǐ fēn xiǎng gěi dà jiā\n希望你可以分享给大家"
+    } ]
+  }, {
+    "tStartMs": 1125733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "rán hòu zài píng lùn qū lǐ gào sù wǒ\n然后在评论区里告诉我"
+    } ]
+  }, {
+    "tStartMs": 1129800,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "nà jīn tiān de shì pín jiù dào zhè lǐ\n那今天的视频就到这里"
+    } ]
+  }, {
+    "tStartMs": 1132733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "wǒ men xià gè shì pín zài jiàn\n我们下个视频再见"
+    } ]
+  }, {
+    "tStartMs": 1134733,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "bài bài\n拜拜"
+    } ]
+  } ]
+}

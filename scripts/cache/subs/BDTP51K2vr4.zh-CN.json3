@@ -1,0 +1,2701 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "如果你的中文不好"
+    } ]
+  }, {
+    "tStartMs": 2200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "你就不会有这个老婆"
+    } ]
+  }, {
+    "tStartMs": 5000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我有时候就接电话"
+    } ]
+  }, {
+    "tStartMs": 6600,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "然后我说话"
+    } ]
+  }, {
+    "tStartMs": 7433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "他们完全不知道我是外国人"
+    } ]
+  }, {
+    "tStartMs": 9400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "经常我用中文和他吵架"
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "嗯...我吵不赢"
+    } ]
+  }, {
+    "tStartMs": 13933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你整个学习中文的过程"
+    } ]
+  }, {
+    "tStartMs": 16333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "大概就是两两三年是吧"
+    } ]
+  }, {
+    "tStartMs": 19266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "啊对差不多"
+    } ]
+  }, {
+    "tStartMs": 20733,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "大家好我是佳佳"
+    } ]
+  }, {
+    "tStartMs": 24133,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "今天我们要聊的话题是怎么学好中文"
+    } ]
+  }, {
+    "tStartMs": 30366,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "当然不是我来聊这个话题"
+    } ]
+  }, {
+    "tStartMs": 34566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "因为中文是我的母语"
+    } ]
+  }, {
+    "tStartMs": 37833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "我邀请了一位嘉宾"
+    } ]
+  }, {
+    "tStartMs": 40866,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "那他是我认识的这么多外国朋友当中"
+    } ]
+  }, {
+    "tStartMs": 47533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "中文最好的"
+    } ]
+  }, {
+    "tStartMs": 49400,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "发音最好的一个外国人"
+    } ]
+  }, {
+    "tStartMs": 53633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那他就是"
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 59233,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "大家好"
+    } ]
+  }, {
+    "tStartMs": 60166,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "他就是我的老公Simon"
+    } ]
+  }, {
+    "tStartMs": 64366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "你好 大家好"
+    } ]
+  }, {
+    "tStartMs": 65633,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "在上一次我们发完了亚琛的视频以后"
+    } ]
+  }, {
+    "tStartMs": 70733,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "下面好多的评论在夸你的中文好"
+    } ]
+  }, {
+    "tStartMs": 74933,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "然后很多人也很好奇"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "你是怎么学中文的"
+    } ]
+  }, {
+    "tStartMs": 80566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "所以今天我们和大家来聊一聊这个话题"
+    } ]
+  }, {
+    "tStartMs": 84833,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "好的 没问题"
+    } ]
+  }, {
+    "tStartMs": 85933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "哈哈 那我们开始吧"
+    } ]
+  }, {
+    "tStartMs": 87366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "首先来说一下"
+    } ]
+  }, {
+    "tStartMs": 89266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你的中文现在是什么水平"
+    } ]
+  }, {
+    "tStartMs": 92733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个很难说"
+    } ]
+  }, {
+    "tStartMs": 94133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但是我上次考了一个中文考试"
+    } ]
+  }, {
+    "tStartMs": 96733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "那就是HSK六级的"
+    } ]
+  }, {
+    "tStartMs": 98933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "可能是三四年前左右吧"
+    } ]
+  }, {
+    "tStartMs": 101833,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "嗯对 就是官方的水平呢"
+    } ]
+  }, {
+    "tStartMs": 104466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "是HSK6"
+    } ]
+  }, {
+    "tStartMs": 106333,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "因为他考的时候还没有更新到HSK9"
+    } ]
+  }, {
+    "tStartMs": 110866,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "对不对"
+    } ]
+  }, {
+    "tStartMs": 111400,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "嗯是的"
+    } ]
+  }, {
+    "tStartMs": 112066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "嗯对"
+    } ]
+  }, {
+    "tStartMs": 113066,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那他的中文到底有多好呢"
+    } ]
+  }, {
+    "tStartMs": 115766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我可以给大家一些例子"
+    } ]
+  }, {
+    "tStartMs": 118533,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "因为我和他生活了这么多年 对吧"
+    } ]
+  }, {
+    "tStartMs": 122866,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "然后呢 就有几几个具体的情况"
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "比如说我和他在成都生活的时候"
+    } ]
+  }, {
+    "tStartMs": 131566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "就每一次出去他都会被夸"
+    } ]
+  }, {
+    "tStartMs": 135166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "就比如说出租车司机"
+    } ]
+  }, {
+    "tStartMs": 138066,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后餐厅的服务员都会夸你的中文好"
+    } ]
+  }, {
+    "tStartMs": 142466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "嗯对"
+    } ]
+  }, {
+    "tStartMs": 143400,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "这个还是经常经常遇到的"
+    } ]
+  }, {
+    "tStartMs": 146033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "不过好像很多外国人都有这个经验"
+    } ]
+  }, {
+    "tStartMs": 148766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就是说一个什么\"你好 谢谢\"什么的"
+    } ]
+  }, {
+    "tStartMs": 151166,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "然后就"
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "哇 你的中文这么好"
+    } ]
+  }, {
+    "tStartMs": 153433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "好厉害哦"
+    } ]
+  }, {
+    "tStartMs": 155133,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "对 但是在四川有一点不一样"
+    } ]
+  }, {
+    "tStartMs": 158533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "因为大家都是说四川话"
+    } ]
+  }, {
+    "tStartMs": 160800,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "然后很多老一辈的四川人"
+    } ]
+  }, {
+    "tStartMs": 164166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "他其实普通话不太好"
+    } ]
+  }, {
+    "tStartMs": 166566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "所以我们在成都的时候"
+    } ]
+  }, {
+    "tStartMs": 169033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "很多人对他说"
+    } ]
+  }, {
+    "tStartMs": 171200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "你的普通话比我还要标准"
+    } ]
+  }, {
+    "tStartMs": 173633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你说的太标准了这样的"
+    } ]
+  }, {
+    "tStartMs": 176233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊是的"
+    } ]
+  }, {
+    "tStartMs": 177033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这偶尔还是会有"
+    } ]
+  }, {
+    "tStartMs": 178200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "但是可能就是"
+    } ]
+  }, {
+    "tStartMs": 179000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "就是跟这个普通话的这个发音有关系"
+    } ]
+  }, {
+    "tStartMs": 183433,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "应该不是词汇什么的"
+    } ]
+  }, {
+    "tStartMs": 184666,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "对就我们还是有川普（四川普通话）"
+    } ]
+  }, {
+    "tStartMs": 187766,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "然后还有一个例子"
+    } ]
+  }, {
+    "tStartMs": 189633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "比如说"
+    } ]
+  }, {
+    "tStartMs": 190933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "就我们在成都经常点外卖"
+    } ]
+  }, {
+    "tStartMs": 193633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "然后经常外卖员给他打电话"
+    } ]
+  }, {
+    "tStartMs": 196533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "他们沟通 沟通 沟通"
+    } ]
+  }, {
+    "tStartMs": 198600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "最后开门的时候"
+    } ]
+  }, {
+    "tStartMs": 200200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "外卖员发现 啊"
+    } ]
+  }, {
+    "tStartMs": 201833,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "你是个老外呀"
+    } ]
+  }, {
+    "tStartMs": 203033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我还以为是个老中"
+    } ]
+  }, {
+    "tStartMs": 205000,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "是的这个刚开始还有点难"
+    } ]
+  }, {
+    "tStartMs": 207966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因为我的发音我觉得比较早"
+    } ]
+  }, {
+    "tStartMs": 209966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "已经还可以了"
+    } ]
+  }, {
+    "tStartMs": 211366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "然后我有时候就接电话"
+    } ]
+  }, {
+    "tStartMs": 213166,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "然后我说话"
+    } ]
+  }, {
+    "tStartMs": 214000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "他们完全不知道我是外国人"
+    } ]
+  }, {
+    "tStartMs": 215933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后他们说的很快"
+    } ]
+  }, {
+    "tStartMs": 217333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我就听不太清楚"
+    } ]
+  }, {
+    "tStartMs": 218833,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "然后有时候有点难"
+    } ]
+  }, {
+    "tStartMs": 220166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "因为他们以为我是中国人"
+    } ]
+  }, {
+    "tStartMs": 222933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "但是本来不是"
+    } ]
+  }, {
+    "tStartMs": 225266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然后还有一个例子就是"
+    } ]
+  }, {
+    "tStartMs": 227366,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "我是中国人  对吧"
+    } ]
+  }, {
+    "tStartMs": 230100,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "但是经常我用中文和他吵架"
+    } ]
+  }, {
+    "tStartMs": 233566,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "嗯...我吵不赢"
+    } ]
+  }, {
+    "tStartMs": 236766,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那我还没有什么可以加的吧"
+    } ]
+  }, {
+    "tStartMs": 239966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "哈哈哈 我可能本来就比较喜欢吵架"
+    } ]
+  }, {
+    "tStartMs": 243633,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "或者辩论嗯"
+    } ]
+  }, {
+    "tStartMs": 244933,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "good for you"
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 246733,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "接下来"
+    } ]
+  }, {
+    "tStartMs": 247333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "我们来聊一聊你学中文的经历吧"
+    } ]
+  }, {
+    "tStartMs": 251200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "就是你怎么开始的"
+    } ]
+  }, {
+    "tStartMs": 252633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "然后学了什么 这样的"
+    } ]
+  }, {
+    "tStartMs": 255133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "是的我刚开始就是"
+    } ]
+  }, {
+    "tStartMs": 257266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "可能从我第一次去台湾的时候要开始"
+    } ]
+  }, {
+    "tStartMs": 261033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "那个时候我还完全不会中文"
+    } ]
+  }, {
+    "tStartMs": 263266,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "那时候我其实也没有学中文的兴趣"
+    } ]
+  }, {
+    "tStartMs": 267033,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "因为我以为我就在那半年左右读书"
+    } ]
+  }, {
+    "tStartMs": 270766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后就回国"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "可能再也没有机会说中文"
+    } ]
+  }, {
+    "tStartMs": 274666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "所以那时候我就完全不想学习"
+    } ]
+  }, {
+    "tStartMs": 277600,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "但是后面我就很喜欢在这边的生活"
+    } ]
+  }, {
+    "tStartMs": 280833,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "包括这个文化呀历史呀什么的"
+    } ]
+  }, {
+    "tStartMs": 285633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "而且经济那么动态"
+    } ]
+  }, {
+    "tStartMs": 287400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "所以我觉得非常的活跃"
+    } ]
+  }, {
+    "tStartMs": 289766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我就觉得很有意思"
+    } ]
+  }, {
+    "tStartMs": 291133,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "然后我就决定我要再次来"
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "可能在那上班或者实习"
+    } ]
+  }, {
+    "tStartMs": 298733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "或者什么再来读书"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后那时候就决定如果我再次来的话"
+    } ]
+  }, {
+    "tStartMs": 304000,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "我一定要学中文"
+    } ]
+  }, {
+    "tStartMs": 305466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "所以我可以比较深入了解这个文化"
+    } ]
+  }, {
+    "tStartMs": 308233,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "这个地方"
+    } ]
+  }, {
+    "tStartMs": 309766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "那时候我就开始自学了"
+    } ]
+  }, {
+    "tStartMs": 312533,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "后面也上课 对吧"
+    } ]
+  }, {
+    "tStartMs": 314400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "但是上课的时间可能"
+    } ]
+  }, {
+    "tStartMs": 316966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "大概一两年左右"
+    } ]
+  }, {
+    "tStartMs": 318933,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "主要在台湾和北京"
+    } ]
+  }, {
+    "tStartMs": 321366,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "然后那个时候可能进步是最大的"
+    } ]
+  }, {
+    "tStartMs": 324266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "语言环境当然很重要"
+    } ]
+  }, {
+    "tStartMs": 327466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "但是不是每一个人都有机会"
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "和有时间去当地学一门语言"
+    } ]
+  }, {
+    "tStartMs": 334866,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "很多人学习中文最大的困难就是"
+    } ]
+  }, {
+    "tStartMs": 338833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "学了很多词"
+    } ]
+  }, {
+    "tStartMs": 340466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "却找不到母语者练习"
+    } ]
+  }, {
+    "tStartMs": 343533,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "一开口还担心自己声调不准"
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "那如果你也想要更轻松的练习中文"
+    } ]
+  }, {
+    "tStartMs": 351266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你可以试一试italki"
+    } ]
+  }, {
+    "tStartMs": 353600,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "italki是一个在线语言学习平台"
+    } ]
+  }, {
+    "tStartMs": 357233,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "提供个性化的一对一语言课程"
+    } ]
+  }, {
+    "tStartMs": 360533,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你可以根据自己的兴趣"
+    } ]
+  }, {
+    "tStartMs": 362933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "需求和学习目标"
+    } ]
+  }, {
+    "tStartMs": 365200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "找到适合自己的老师"
+    } ]
+  }, {
+    "tStartMs": 367400,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "italki在全球有超过3万名老师"
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "支持150多种语言"
+    } ]
+  }, {
+    "tStartMs": 374033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "初学者也不用担心"
+    } ]
+  }, {
+    "tStartMs": 376133,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "你可以筛选会说自己母语的老师"
+    } ]
+  }, {
+    "tStartMs": 379733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "让学习更轻松"
+    } ]
+  }, {
+    "tStartMs": 381866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我非常喜欢的一点是"
+    } ]
+  }, {
+    "tStartMs": 384633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "italki是按课付费"
+    } ]
+  }, {
+    "tStartMs": 386833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "没有强制订阅"
+    } ]
+  }, {
+    "tStartMs": 388733,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "上一节课付一节课的钱"
+    } ]
+  }, {
+    "tStartMs": 391166,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "非常灵活"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "而且你可以直接和母语者练习真实对话"
+    } ]
+  }, {
+    "tStartMs": 399400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这种方式"
+    } ]
+  }, {
+    "tStartMs": 400533,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "对提升听力和口语非常有帮助"
+    } ]
+  }, {
+    "tStartMs": 404400,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "也能让你更有自信的开口说中文"
+    } ]
+  }, {
+    "tStartMs": 408433,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "时间安排也非常自由"
+    } ]
+  }, {
+    "tStartMs": 411266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "不管你平时有多忙"
+    } ]
+  }, {
+    "tStartMs": 413633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "你可以随时随地上课"
+    } ]
+  }, {
+    "tStartMs": 416433,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "如果你正在学中文"
+    } ]
+  }, {
+    "tStartMs": 418633,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "或者准备学习一门新的语言"
+    } ]
+  }, {
+    "tStartMs": 421800,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "点击下方的链接试试看吧"
+    } ]
+  }, {
+    "tStartMs": 424900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "使用我的专属优惠码"
+    } ]
+  }, {
+    "tStartMs": 427066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "JIAYOU"
+    } ]
+  }, {
+    "tStartMs": 427966,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "首次上课满10美元可以获得5美元减免"
+    } ]
+  }, {
+    "tStartMs": 432800,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "只限前50位用户"
+    } ]
+  }, {
+    "tStartMs": 435133,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "感兴趣的话快试试看吧"
+    } ]
+  }, {
+    "tStartMs": 437566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "但是同时也一直自学"
+    } ]
+  }, {
+    "tStartMs": 441266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "很多自学我觉得"
+    } ]
+  }, {
+    "tStartMs": 442700,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "因为如果你完全靠这个课本的话"
+    } ]
+  }, {
+    "tStartMs": 445400,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "里面的这些内容还是非常有限制"
+    } ]
+  }, {
+    "tStartMs": 449466,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "然后要找一些自己的资源"
+    } ]
+  }, {
+    "tStartMs": 451933,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "自己的感兴趣的话题什么的"
+    } ]
+  }, {
+    "tStartMs": 455066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我觉得这样子的进步还更快一些"
+    } ]
+  }, {
+    "tStartMs": 457966,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "更好一些"
+    } ]
+  }, {
+    "tStartMs": 459200,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "我总结一下就是"
+    } ]
+  }, {
+    "tStartMs": 461366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你整个学习中文的过程"
+    } ]
+  }, {
+    "tStartMs": 463566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "大概就是两三年是吧"
+    } ]
+  }, {
+    "tStartMs": 466533,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "啊 对"
+    } ]
+  }, {
+    "tStartMs": 467033,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "差不多 对"
+    } ]
+  }, {
+    "tStartMs": 468066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就是整个是两三年"
+    } ]
+  }, {
+    "tStartMs": 469566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "非常密集的中文课"
+    } ]
+  }, {
+    "tStartMs": 472466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "但是除了这个课程以外"
+    } ]
+  }, {
+    "tStartMs": 474733,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "你也花了大量的时间进行输入"
+    } ]
+  }, {
+    "tStartMs": 477966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "就各种输入"
+    } ]
+  }, {
+    "tStartMs": 479133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "比如说书啦"
+    } ]
+  }, {
+    "tStartMs": 480733,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "然后视频音乐啊"
+    } ]
+  }, {
+    "tStartMs": 483366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "各种各样的内容都会"
+    } ]
+  }, {
+    "tStartMs": 485300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "所以有持续两三年这样的"
+    } ]
+  }, {
+    "tStartMs": 488566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "课和自己自学一起"
+    } ]
+  }, {
+    "tStartMs": 491333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "导致你就是进步非常快"
+    } ]
+  }, {
+    "tStartMs": 493866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "是的 然后我觉得最重要的可能是"
+    } ]
+  }, {
+    "tStartMs": 497166,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "在有这个中文环境的地方生活"
+    } ]
+  }, {
+    "tStartMs": 501033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我觉得这个怎么说"
+    } ]
+  }, {
+    "tStartMs": 502566,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "这个exposure它就非常的重要"
+    } ]
+  }, {
+    "tStartMs": 505866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "那时候我就在"
+    } ]
+  }, {
+    "tStartMs": 507233,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "比如说在台北啊"
+    } ]
+  }, {
+    "tStartMs": 508466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "或者在北京"
+    } ]
+  }, {
+    "tStartMs": 509933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "后面在成都"
+    } ]
+  }, {
+    "tStartMs": 511333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你就怎么说"
+    } ]
+  }, {
+    "tStartMs": 513833,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "你没有办法避开这个语言"
+    } ]
+  }, {
+    "tStartMs": 517066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "你天天都会遇到你"
+    } ]
+  }, {
+    "tStartMs": 519533,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "如果你不用这个语言"
+    } ]
+  }, {
+    "tStartMs": 521400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "你没有办法在那好好的生活"
+    } ]
+  }, {
+    "tStartMs": 523766,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "你没有办法吃饭"
+    } ]
+  }, {
+    "tStartMs": 524866,
+    "dDurationMs": 5434,
+    "segs": [ {
+      "utf8": "你没有办法在那坐公共交通什么的"
+    } ]
+  }, {
+    "tStartMs": 530600,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "或者你没有办法去个地方"
+    } ]
+  }, {
+    "tStartMs": 532566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "去个酒店什么的"
+    } ]
+  }, {
+    "tStartMs": 533800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你必须用这个语言"
+    } ]
+  }, {
+    "tStartMs": 536066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "我自己观察到和我自己总结的"
+    } ]
+  }, {
+    "tStartMs": 539800,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "为什么你的中文这么好呢"
+    } ]
+  }, {
+    "tStartMs": 542200,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "就比如说他刚刚说了他非常喜欢听歌"
+    } ]
+  }, {
+    "tStartMs": 546366,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后我也每一次很惊讶"
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "因为我们每一次去KTV的时候"
+    } ]
+  }, {
+    "tStartMs": 552633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "或者我们他他经常放中文歌的时候"
+    } ]
+  }, {
+    "tStartMs": 556333,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我就会发现"
+    } ]
+  }, {
+    "tStartMs": 557466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "天呐 就是他听的歌"
+    } ]
+  }, {
+    "tStartMs": 560033,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "完全是我长大的时候"
+    } ]
+  }, {
+    "tStartMs": 562933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这些非常经典的歌"
+    } ]
+  }, {
+    "tStartMs": 564800,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "甚至他知道的歌比我知道的还要更多"
+    } ]
+  }, {
+    "tStartMs": 569233,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "就所有中国的流行歌曲"
+    } ]
+  }, {
+    "tStartMs": 572533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "然后包括一些经典的歌曲 你都知道"
+    } ]
+  }, {
+    "tStartMs": 575966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就我非常惊讶"
+    } ]
+  }, {
+    "tStartMs": 577566,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "哈哈哈 是的"
+    } ]
+  }, {
+    "tStartMs": 579200,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我也不知道为什么"
+    } ]
+  }, {
+    "tStartMs": 580233,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "但是可能你在外面经常听到这些歌"
+    } ]
+  }, {
+    "tStartMs": 583400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "然后它就在你脑子里面"
+    } ]
+  }, {
+    "tStartMs": 586233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后你就一直想了解一下"
+    } ]
+  }, {
+    "tStartMs": 588833,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "到底是什么歌"
+    } ]
+  }, {
+    "tStartMs": 589866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "然后你会看歌词"
+    } ]
+  }, {
+    "tStartMs": 591233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "你看他什么意思啊 什么的"
+    } ]
+  }, {
+    "tStartMs": 593166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "然后你慢慢的就习惯"
+    } ]
+  }, {
+    "tStartMs": 595266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "开始喜欢上这些歌"
+    } ]
+  }, {
+    "tStartMs": 597766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "然后当然去KTV什么的"
+    } ]
+  }, {
+    "tStartMs": 599800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你就可以自己 怎么说"
+    } ]
+  }, {
+    "tStartMs": 603000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "表演出来一个"
+    } ]
+  }, {
+    "tStartMs": 604033,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "哈哈哈 对"
+    } ]
+  }, {
+    "tStartMs": 605466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "那我总结的第二个原因是"
+    } ]
+  }, {
+    "tStartMs": 608000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "他非常非常爱模仿"
+    } ]
+  }, {
+    "tStartMs": 610000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "就不只是中文"
+    } ]
+  }, {
+    "tStartMs": 611433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "英语也是"
+    } ]
+  }, {
+    "tStartMs": 612466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "他很喜欢模仿各种英语口音"
+    } ]
+  }, {
+    "tStartMs": 615266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "然后甚至偶尔要模仿四川人"
+    } ]
+  }, {
+    "tStartMs": 618733,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "说四川话等等"
+    } ]
+  }, {
+    "tStartMs": 621366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我觉得这个是第二个原因"
+    } ]
+  }, {
+    "tStartMs": 623933,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "然后第三个我自己发现的是"
+    } ]
+  }, {
+    "tStartMs": 627166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我们在中国的时候"
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "他随时随地都在查词"
+    } ]
+  }, {
+    "tStartMs": 632333,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "就是在外面遇到一个不认识的词"
+    } ]
+  }, {
+    "tStartMs": 635400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "他就会立刻拿出手机来查"
+    } ]
+  }, {
+    "tStartMs": 637433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后加入收藏"
+    } ]
+  }, {
+    "tStartMs": 638833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "是的 可能需要这个好奇心才行"
+    } ]
+  }, {
+    "tStartMs": 642966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "你就在外面"
+    } ]
+  }, {
+    "tStartMs": 644266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我看到一个东西我不认识"
+    } ]
+  }, {
+    "tStartMs": 646166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "然后我 怎么说"
+    } ]
+  }, {
+    "tStartMs": 648300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "我就不得不去查一下是什么意思"
+    } ]
+  }, {
+    "tStartMs": 651366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "不然我没有办法放心 哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 653433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "对 然后最后一点呢"
+    } ]
+  }, {
+    "tStartMs": 655266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "是以前在中国的时候"
+    } ]
+  }, {
+    "tStartMs": 657766,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "你还是比较经常看中文书"
+    } ]
+  }, {
+    "tStartMs": 660733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "还有中文的新闻"
+    } ]
+  }, {
+    "tStartMs": 663300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "现在可能少一点了"
+    } ]
+  }, {
+    "tStartMs": 665166,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "嗯 肯定是那时候稍微多一点"
+    } ]
+  }, {
+    "tStartMs": 667933,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "包括和我的那时候的工作也有关系"
+    } ]
+  }, {
+    "tStartMs": 671233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "看一些文章什么的"
+    } ]
+  }, {
+    "tStartMs": 672866,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "现在还有"
+    } ]
+  }, {
+    "tStartMs": 673733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "那是肯定没有那么多"
+    } ]
+  }, {
+    "tStartMs": 675200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "对 是的 我自己总结是这4个点"
+    } ]
+  }, {
+    "tStartMs": 679666,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "那关于为什么你的发音这么好呢"
+    } ]
+  }, {
+    "tStartMs": 684033,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "我觉得还是因为你爱模仿"
+    } ]
+  }, {
+    "tStartMs": 687633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "还有什么原因 为什么你的发音这么好"
+    } ]
+  }, {
+    "tStartMs": 691333,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "发音这么好"
+    } ]
+  }, {
+    "tStartMs": 692366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "那可能是因为这个模仿的事情"
+    } ]
+  }, {
+    "tStartMs": 695433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "包括我也不知道为什么"
+    } ]
+  }, {
+    "tStartMs": 697000,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "但是我自己发现"
+    } ]
+  }, {
+    "tStartMs": 699766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我有一个很大的口音"
+    } ]
+  }, {
+    "tStartMs": 701600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我就不太舒服"
+    } ]
+  }, {
+    "tStartMs": 703933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我说英语什么的也是这样子"
+    } ]
+  }, {
+    "tStartMs": 705966,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我就希望我可以最越标准越好"
+    } ]
+  }, {
+    "tStartMs": 710200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "英语的话也是"
+    } ]
+  }, {
+    "tStartMs": 712566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "包括如果我和一个英语母语者说话"
+    } ]
+  }, {
+    "tStartMs": 716266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那我也喜欢"
+    } ]
+  }, {
+    "tStartMs": 717433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "可能比较自然地"
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "适应到他的说话的方式"
+    } ]
+  }, {
+    "tStartMs": 721866,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "如果是一个英国的英语口音"
+    } ]
+  }, {
+    "tStartMs": 724800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "那我可能自己也会"
+    } ]
+  }, {
+    "tStartMs": 726600,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "突然变成那种英式英语对吧"
+    } ]
+  }, {
+    "tStartMs": 730533,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "对你这个调整哈"
+    } ]
+  }, {
+    "tStartMs": 732833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "对调整 如果是和一个美国的什么的"
+    } ]
+  }, {
+    "tStartMs": 736766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我可能也会有这个变化"
+    } ]
+  }, {
+    "tStartMs": 738933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "在中国也是"
+    } ]
+  }, {
+    "tStartMs": 740266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "如果我和南方人说话"
+    } ]
+  }, {
+    "tStartMs": 742000,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "我的口音慢慢就会变成南方口音"
+    } ]
+  }, {
+    "tStartMs": 746233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "如果我和北方"
+    } ]
+  }, {
+    "tStartMs": 747666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "或者一般那种说普通话的人说话"
+    } ]
+  }, {
+    "tStartMs": 750566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我就是比较标准的普通话"
+    } ]
+  }, {
+    "tStartMs": 752933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "有点难说"
+    } ]
+  }, {
+    "tStartMs": 754100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "对 你之前还是台湾腔来着"
+    } ]
+  }, {
+    "tStartMs": 756566,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "然后你到了北京"
+    } ]
+  }, {
+    "tStartMs": 757633,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "就变成这种标准的普通话的样子"
+    } ]
+  }, {
+    "tStartMs": 760866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "对 是有一点点这样子"
+    } ]
+  }, {
+    "tStartMs": 762533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "当然不是完全会说这些方言什么的"
+    } ]
+  }, {
+    "tStartMs": 766133,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "但是就有一点点这样子的口音"
+    } ]
+  }, {
+    "tStartMs": 768166,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 768800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "就是你受不了有口音"
+    } ]
+  }, {
+    "tStartMs": 770766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "所以你也会比较努力的"
+    } ]
+  }, {
+    "tStartMs": 772566,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "让自己发各种语言都更标准"
+    } ]
+  }, {
+    "tStartMs": 775766,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "有点吧"
+    } ]
+  }, {
+    "tStartMs": 776400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "有点好像是一个比较自然的东西"
+    } ]
+  }, {
+    "tStartMs": 778533,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我都不会自己选择这样"
+    } ]
+  }, {
+    "tStartMs": 780866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "但是我就自然的适应"
+    } ]
+  }, {
+    "tStartMs": 783166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我不知道为什么"
+    } ]
+  }, {
+    "tStartMs": 784600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "那下一个问题就是"
+    } ]
+  }, {
+    "tStartMs": 787133,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "中文好有为你的生活带来什么好处吗"
+    } ]
+  }, {
+    "tStartMs": 791833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我先说一个"
+    } ]
+  }, {
+    "tStartMs": 793066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "哦 你说"
+    } ]
+  }, {
+    "tStartMs": 793666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "哈哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 796066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "就是如果你的中文不好"
+    } ]
+  }, {
+    "tStartMs": 799400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你就不会有这个老婆"
+    } ]
+  }, {
+    "tStartMs": 801800,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "就因为我在和你见面以前"
+    } ]
+  }, {
+    "tStartMs": 807433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我已经下定决心"
+    } ]
+  }, {
+    "tStartMs": 809166,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "是我不要和一个不了解我的文化"
+    } ]
+  }, {
+    "tStartMs": 812766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "和不会说我语言的人在一起"
+    } ]
+  }, {
+    "tStartMs": 815600,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "所以我发现你的中文那么好的时候"
+    } ]
+  }, {
+    "tStartMs": 818933,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "然后我我才会愿意和你去约会"
+    } ]
+  }, {
+    "tStartMs": 822633,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "幸好我那时候也会说中文"
+    } ]
+  }, {
+    "tStartMs": 826133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "不然就没有没有这个老婆了是吧"
+    } ]
+  }, {
+    "tStartMs": 828533,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "对 还没有这个孩子  啊也没有这个孩子"
+    } ]
+  }, {
+    "tStartMs": 831533,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 832200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后我觉得这确实是一个很大的好处"
+    } ]
+  }, {
+    "tStartMs": 835400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "当然我们认识的是一个(好处)"
+    } ]
+  }, {
+    "tStartMs": 837866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "但是那时候肯定不是这个目的"
+    } ]
+  }, {
+    "tStartMs": 840366,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "然后现在我们有一个孩子是吧"
+    } ]
+  }, {
+    "tStartMs": 845233,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "然后她快三岁 然后她在学两种语言"
+    } ]
+  }, {
+    "tStartMs": 849666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "中文和德文"
+    } ]
+  }, {
+    "tStartMs": 850833,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "然后我现在这个样子"
+    } ]
+  }, {
+    "tStartMs": 852733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我就无论我们在说什么语言"
+    } ]
+  }, {
+    "tStartMs": 855333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我都可以都会听得懂"
+    } ]
+  }, {
+    "tStartMs": 857033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以我觉得这是一个很大的好处"
+    } ]
+  }, {
+    "tStartMs": 859333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "但是除了这些个人的原因之外"
+    } ]
+  }, {
+    "tStartMs": 861966,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "我觉得"
+    } ]
+  }, {
+    "tStartMs": 863733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "能够了解"
+    } ]
+  }, {
+    "tStartMs": 865000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "深入了解一个像中国对我来说"
+    } ]
+  }, {
+    "tStartMs": 868800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "那么陌生的一个地方"
+    } ]
+  }, {
+    "tStartMs": 870533,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "刚开始陌生的地方"
+    } ]
+  }, {
+    "tStartMs": 872200,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "我觉得是一个很大的优势"
+    } ]
+  }, {
+    "tStartMs": 876133,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "如果你是不知道可能别的国家"
+    } ]
+  }, {
+    "tStartMs": 881000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "欧洲的国家什么的"
+    } ]
+  }, {
+    "tStartMs": 882966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "那可能很多人还是会说英语什么的"
+    } ]
+  }, {
+    "tStartMs": 886666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "你可能还会有很多"
+    } ]
+  }, {
+    "tStartMs": 888433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "关于这个国家的英语资源什么的"
+    } ]
+  }, {
+    "tStartMs": 891000,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "可能都还可以"
+    } ]
+  }, {
+    "tStartMs": 893166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "但是在中国如果你不会中文的话"
+    } ]
+  }, {
+    "tStartMs": 896333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那你基本上没有办法深入了解"
+    } ]
+  }, {
+    "tStartMs": 899133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "那这其实也是可以回去我刚刚说的这个"
+    } ]
+  }, {
+    "tStartMs": 901933,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "为什么开始学中文 那时候"
+    } ]
+  }, {
+    "tStartMs": 905566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "那就是因为我在那感觉"
+    } ]
+  }, {
+    "tStartMs": 907833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "如果你不会这个语言"
+    } ]
+  }, {
+    "tStartMs": 910600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "你肯定也可以在那玩的很开心"
+    } ]
+  }, {
+    "tStartMs": 913266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "但是你就在这个表面上"
+    } ]
+  }, {
+    "tStartMs": 915600,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "你没有办法深入的了解"
+    } ]
+  }, {
+    "tStartMs": 917566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "就是其实中国是完全另外一个世界"
+    } ]
+  }, {
+    "tStartMs": 921766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "如果你不会中文的话"
+    } ]
+  }, {
+    "tStartMs": 923466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "你很难去探索到这个世界"
+    } ]
+  }, {
+    "tStartMs": 925766,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "是的"
+    } ]
+  }, {
+    "tStartMs": 926666,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "所以我觉得这就是一个很大的好处"
+    } ]
+  }, {
+    "tStartMs": 929400,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "然后我就很开心我做到了这个大任务"
+    } ]
+  }, {
+    "tStartMs": 934466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我们的孩儿来了"
+    } ]
+  }, {
+    "tStartMs": 935766,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "对我们的孩儿来了"
+    } ]
+  }, {
+    "tStartMs": 936966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "好那最后一个呢"
+    } ]
+  }, {
+    "tStartMs": 939766,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "就是你可以给学中文的人一些建议吗"
+    } ]
+  }, {
+    "tStartMs": 944466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "怎么学好中文"
+    } ]
+  }, {
+    "tStartMs": 946266,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "okay首先我觉得如果你想学中文的话"
+    } ]
+  }, {
+    "tStartMs": 949566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "你就需要一个很大的动力"
+    } ]
+  }, {
+    "tStartMs": 951833,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "我觉得"
+    } ]
+  }, {
+    "tStartMs": 952533,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "因为作为最起码作为一个欧洲人"
+    } ]
+  }, {
+    "tStartMs": 956166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "或者一个西方人"
+    } ]
+  }, {
+    "tStartMs": 957733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "学中文的话就是一个很难的事情"
+    } ]
+  }, {
+    "tStartMs": 960333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "你肯定要花很多时间"
+    } ]
+  }, {
+    "tStartMs": 962066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "然后这个过程肯定会很痛苦"
+    } ]
+  }, {
+    "tStartMs": 964466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我觉得是"
+    } ]
+  }, {
+    "tStartMs": 965933,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "然后"
+    } ]
+  }, {
+    "tStartMs": 967200,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "如果你想怎么说熬过这个痛苦"
+    } ]
+  }, {
+    "tStartMs": 972366,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "那你就必须有一个很强的目的"
+    } ]
+  }, {
+    "tStartMs": 976000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "或者一个很强的动力才行"
+    } ]
+  }, {
+    "tStartMs": 978966,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "我刚刚已经说了一些我个人的动力"
+    } ]
+  }, {
+    "tStartMs": 982766,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "但是可能每个人有自己的动力"
+    } ]
+  }, {
+    "tStartMs": 985333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "可能是跟个人方面有关系"
+    } ]
+  }, {
+    "tStartMs": 989766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "或者跟他们的事业有关系"
+    } ]
+  }, {
+    "tStartMs": 992000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "或者可能和他们的 不知道"
+    } ]
+  }, {
+    "tStartMs": 997000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "旅行方式什么的都可以"
+    } ]
+  }, {
+    "tStartMs": 999133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "或者自己家庭可能也有中国人 谁知道"
+    } ]
+  }, {
+    "tStartMs": 1002366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "但是我觉得"
+    } ]
+  }, {
+    "tStartMs": 1003733,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "有一只猫在树上"
+    } ]
+  }, {
+    "tStartMs": 1007400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "sorry"
+    } ]
+  }, {
+    "tStartMs": 1008533,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "但是我觉得如果你有这个动力的话"
+    } ]
+  }, {
+    "tStartMs": 1012400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "就好"
+    } ]
+  }, {
+    "tStartMs": 1013666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "然后这样子你已经有一个很好的基础"
+    } ]
+  }, {
+    "tStartMs": 1016600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "从这个基础开始"
+    } ]
+  }, {
+    "tStartMs": 1018233,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "我觉得你找一些你自己感兴趣的话题"
+    } ]
+  }, {
+    "tStartMs": 1021566,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "或者你感兴趣的资源"
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "然后你的这个学习的过程"
+    } ]
+  }, {
+    "tStartMs": 1026866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "会稍微舒服一点"
+    } ]
+  }, {
+    "tStartMs": 1029066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "不会那么的强迫学习"
+    } ]
+  }, {
+    "tStartMs": 1031366,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "多多使用这个语言"
+    } ]
+  }, {
+    "tStartMs": 1033066,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后去一些有这个中文环境的地方"
+    } ]
+  }, {
+    "tStartMs": 1037533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你可以去东南亚某一些地方"
+    } ]
+  }, {
+    "tStartMs": 1039633,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "你可以中国大陆呀"
+    } ]
+  }, {
+    "tStartMs": 1040866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "你可以去台湾呀什么的 无所谓反正"
+    } ]
+  }, {
+    "tStartMs": 1043833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "或者你在美国什么的"
+    } ]
+  }, {
+    "tStartMs": 1045466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "去一个Chinatown都可以"
+    } ]
+  }, {
+    "tStartMs": 1047366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "反正你就需要这个环境"
+    } ]
+  }, {
+    "tStartMs": 1049266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那边是粤语和闽南语"
+    } ]
+  }, {
+    "tStartMs": 1051566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "哈哈哈那非常有可能啊"
+    } ]
+  }, {
+    "tStartMs": 1053433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "非常有可能"
+    } ]
+  }, {
+    "tStartMs": 1054433,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "我觉得动力这个是真的"
+    } ]
+  }, {
+    "tStartMs": 1057566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "就为什么我学德语那么痛苦"
+    } ]
+  }, {
+    "tStartMs": 1060533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "然后进步很慢呢"
+    } ]
+  }, {
+    "tStartMs": 1061966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "是因为我完全没有动力"
+    } ]
+  }, {
+    "tStartMs": 1064666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就我们认识这么多年"
+    } ]
+  }, {
+    "tStartMs": 1067066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "完全没有动力？哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1069800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "就一直说中文我们甚至英语都不说"
+    } ]
+  }, {
+    "tStartMs": 1072766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "所以我就一直觉得不是很有必要"
+    } ]
+  }, {
+    "tStartMs": 1075833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "然后在柏林也是"
+    } ]
+  }, {
+    "tStartMs": 1077333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "说英语你也可以活下去"
+    } ]
+  }, {
+    "tStartMs": 1079166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "所以我就是因为没有太大的动力"
+    } ]
+  }, {
+    "tStartMs": 1082266,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "所以我就一直进步很慢"
+    } ]
+  }, {
+    "tStartMs": 1085466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "嗯是的 然后我觉得"
+    } ]
+  }, {
+    "tStartMs": 1087833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "如果想真正的学习这个语言"
+    } ]
+  }, {
+    "tStartMs": 1090666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "最好去那待一年左右什么的最少"
+    } ]
+  }, {
+    "tStartMs": 1095600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "然后就慢慢的适应这个环境"
+    } ]
+  }, {
+    "tStartMs": 1098733,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "那这样进步肯定是最快的"
+    } ]
+  }, {
+    "tStartMs": 1101666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "然后你发现你的进步快"
+    } ]
+  }, {
+    "tStartMs": 1104200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "你的动力也会更强"
+    } ]
+  }, {
+    "tStartMs": 1106600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "那今天的视频就要结束了"
+    } ]
+  }, {
+    "tStartMs": 1109333,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我们的孩子要跑过来了"
+    } ]
+  }, {
+    "tStartMs": 1111866,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "那就拜拜了"
+    } ]
+  }, {
+    "tStartMs": 1114033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜"
+    } ]
+  }, {
+    "tStartMs": 1115200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "bye bye 加油"
+    } ]
+  }, {
+    "tStartMs": 1118666,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "加油学中文"
+    } ]
+  }, {
+    "tStartMs": 1120066,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "jiayouchinese"
+    } ]
+  }, {
+    "tStartMs": 1124266,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "if you'd like to support my work you can join as a YouTube member"
+    } ]
+  }, {
+    "tStartMs": 1128600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "you'll get early access to new videos"
+    } ]
+  }, {
+    "tStartMs": 1131233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "full transcripts and core vocabulary in pinyin"
+    } ]
+  }, {
+    "tStartMs": 1134466,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Chinese and English as well as audio files"
+    } ]
+  }, {
+    "tStartMs": 1137933,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "your support means a lot to me"
+    } ]
+  } ]
+}

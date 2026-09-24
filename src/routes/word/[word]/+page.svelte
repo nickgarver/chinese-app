@@ -41,44 +41,68 @@
     <div class="page">
       <a class="btn ghost sm auto" href="{base}/search">← Search</a>
 
-      <div class="card pop center">
-        <div class="zh hero-zh">{word.w}</div>
-        <div class="hero-py">{word.p}</div>
-        <div class="hero-en">{word.d}</div>
-        <button class="speak center" aria-label="Play" onclick={() => speak(word.w)}>♪</button>
-      </div>
+      <!-- word and its progress side by side -->
+      <div class="word-top">
+        <div class="card pop word-card">
+          <div class="zh hero-zh">{word.w}</div>
+          <div class="hero-py">{word.p}</div>
+          <div class="hero-en">{word.d}</div>
+          <button class="speak center" aria-label="Play" onclick={() => speak(word.w)}>♪</button>
+        </div>
 
-      <div class="card">
-        <p class="label">Where it comes from</p>
-        <p class="note tight">{originLabel(word)}</p>
+        <div class="card word-progress">
+          <p class="label">Your progress</p>
+          <p class="status {status}">{STATUS_LABEL[status]}</p>
 
-        <p class="label spaced">Categories</p>
-        {#if cats.length}
-          <div class="chips spaced">
-            {#each cats as c}
-              <span class="chip tight">
-                {#if c.emoji}<span class="emoji">{c.emoji}</span>{/if}{c.label}
-              </span>
-            {/each}
-          </div>
-        {:else}
-          <p class="note tight">Not tagged yet.</p>
-        {/if}
-      </div>
-
-      <div class="card">
-        <p class="label">Your progress</p>
-        <p class="note tight">
-          <strong>{STATUS_LABEL[status]}</strong>
           {#if card && card.reps > 0}
-            · {card.reps} review{card.reps === 1 ? '' : 's'}
-            · next {nextReview(card)}
-            {#if card.lapses}· {card.lapses} lapse{card.lapses === 1 ? '' : 's'}{/if}
+            <dl class="facts">
+              <div><dt>Reviews</dt><dd>{Math.round(card.reps)}</dd></div>
+              <div><dt>Interval</dt><dd>{card.interval}d</dd></div>
+              <div><dt>Next</dt><dd>{nextReview(card)}</dd></div>
+              {#if card.lapses >= 1}
+                <div><dt>Lapses</dt><dd>{Math.round(card.lapses)}</dd></div>
+              {/if}
+            </dl>
+          {:else}
+            <p class="note tight">Not practised yet.</p>
           {/if}
-        </p>
-        {#if isOverdue(card)}
-          <p class="note tight">Ready to review.</p>
-        {/if}
+
+          <div class="word-actions">
+            {#if status !== 'known'}
+              <button class="btn ghost sm" onclick={() => progress.markKnown(word.w)}>
+                Mark known
+              </button>
+            {/if}
+            {#if card}
+              <button class="btn ghost sm" onclick={() => progress.forget(word.w)}>
+                Reset
+              </button>
+            {/if}
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="meta-row">
+          <div>
+            <p class="label">Where it comes from</p>
+            <p class="note tight">{originLabel(word)}</p>
+          </div>
+          <div>
+            <p class="label">Categories</p>
+            {#if cats.length}
+              <div class="chips spaced">
+                {#each cats as c}
+                  <span class="chip tight">
+                    {#if c.emoji}<span class="emoji">{c.emoji}</span>{/if}{c.label}
+                  </span>
+                {/each}
+              </div>
+            {:else}
+              <p class="note tight">Not tagged yet.</p>
+            {/if}
+          </div>
+        </div>
       </div>
 
       <div class="card">

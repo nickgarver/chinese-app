@@ -1,0 +1,349 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "Gěi dà jiā jiè shào yí xià zhè ge shì shén me\n给大家介绍一下这个是什么"
+    } ]
+  }, {
+    "tStartMs": 5133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Chuáng qí\n床旗"
+    } ]
+  }, {
+    "tStartMs": 6733,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "Yě jiào chuáng wěi jīn\n也叫床尾巾"
+    } ]
+  }, {
+    "tStartMs": 11566,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "Yīn wèi wǒ men zhù de jiǔ diàn shì Nèi Měng gǔ de jiǔ diàn\n因为我们住的酒店是内蒙古的酒店"
+    } ]
+  }, {
+    "tStartMs": 15900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Měng gǔ yuán sù fēi cháng zhòng\n蒙古元素非常重"
+    } ]
+  }, {
+    "tStartMs": 18533,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Suǒ yǐ tā zhè ge chuáng qí\n所以它这个床旗"
+    } ]
+  }, {
+    "tStartMs": 21633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Shàng miàn xiě le\n上面写了  "
+    } ]
+  }, {
+    "tStartMs": 23533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "“Yīng xióng shàng mǎ de dì fang”\n  “英雄上马的地方”"
+    } ]
+  }, {
+    "tStartMs": 26366,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Nà zhè ge “yīng xióng” shì shéi le\n那这个\"英雄\"是谁了"
+    } ]
+  }, {
+    "tStartMs": 27800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Nǐ men yě zhī dào\n你们也知道"
+    } ]
+  }, {
+    "tStartMs": 28900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Yě lèi bǐ nǎ xiē rén\n也类比哪些人"
+    } ]
+  }, {
+    "tStartMs": 31333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Wèi shén me yǒu de jiǔ diàn huò zhě jiā lǐ\n为什么有的酒店或者家里"
+    } ]
+  }, {
+    "tStartMs": 33600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Tā men xǐ huan fàng chuáng qí / chuáng wěi jīn ne\n他们喜欢放床旗/床尾巾呢"
+    } ]
+  }, {
+    "tStartMs": 36900,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "Zhǔ yào yǒu jǐ ge zuò yòng, dì yī\n主要有几个作用第一"
+    } ]
+  }, {
+    "tStartMs": 41333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Jiù shì zhuāng shì\n就是装饰"
+    } ]
+  }, {
+    "tStartMs": 42833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Yì bān jiǔ diàn dōu shì bái sè de\n一般酒店都是白色的"
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Chún bái sè de chuáng pǐn\n纯白色的床品"
+    } ]
+  }, {
+    "tStartMs": 47833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Xiǎn de gān jìng\n显得干净"
+    } ]
+  }, {
+    "tStartMs": 49500,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "Dàn shì ne, chún bái sè yòu hěn dān diào\n但是呢纯白色又很单调"
+    } ]
+  }, {
+    "tStartMs": 52033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Jiù bǐ rú shuō wǒ men jīn tiān zhù de zhè ge jiǔ diàn\n就比如说我们今天住的这个酒店"
+    } ]
+  }, {
+    "tStartMs": 54200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Tā shì Měng gǔ yuán sù, suǒ yǐ ne\n它是蒙古元素所以呢"
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Tā xiě le “yīng xióng shàng mǎ de dì fang”\n它写了“英雄上马的地方”"
+    } ]
+  }, {
+    "tStartMs": 59833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Nà zài jiā shàng tā zhè yí ge\n那再加上它这一个"
+    } ]
+  }, {
+    "tStartMs": 61933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "“Yīng xióng shàng mǎ de dì fang” de bào zhěn\n“英雄上马的地方”的抱枕"
+    } ]
+  }, {
+    "tStartMs": 65100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Yì qǐ pèi duì\n一起配对"
+    } ]
+  }, {
+    "tStartMs": 66966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Zhè yàng de huà, xiǎn de zhěng ge\n这样的话显得整个"
+    } ]
+  }, {
+    "tStartMs": 68800,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Bái sè de chuáng pǐn jiù bú zài nà me de dān diào\n白色的床品就不再那么的单调"
+    } ]
+  }, {
+    "tStartMs": 72033,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Yǒu yì zhǒng zì jǐ de tè sè le\n有一种自己的特色了"
+    } ]
+  }, {
+    "tStartMs": 74733,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Dì yī ge jiù shì qǐ dào zhuāng shì de zuò yòng\n第一个就是起到装饰的作用"
+    } ]
+  }, {
+    "tStartMs": 77833,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Dì èr ge ne\n第二个呢"
+    } ]
+  }, {
+    "tStartMs": 79133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Jiù shì gé zāng\n就是隔脏"
+    } ]
+  }, {
+    "tStartMs": 82033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Yǒu shí hou wǒ men gāng jìn jiǔ diàn\n有时候我们刚进酒店"
+    } ]
+  }, {
+    "tStartMs": 83800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Nà wǒ men de bāo fàng zài nǎ lǐ\n那我们的包放在哪里"
+    } ]
+  }, {
+    "tStartMs": 85400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Kě yǐ fàng zài chuáng qí shàng\n可以放在床旗上"
+    } ]
+  }, {
+    "tStartMs": 87433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Nà wǒ men zuò zài nǎ lǐ ne\n那我们坐在哪里呢"
+    } ]
+  }, {
+    "tStartMs": 89366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Wǒ men méi yǒu\n我们没有"
+    } ]
+  }, {
+    "tStartMs": 90966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Chuān shuì yī shuì kù\n穿睡衣睡裤"
+    } ]
+  }, {
+    "tStartMs": 92966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Wǒ men kě yǐ zuò zài zhè ge shàng miàn\n我们可以坐在这个上面"
+    } ]
+  }, {
+    "tStartMs": 94900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Chuān zhe wài kù zuò zài shàng miàn\n穿着外裤坐在上面"
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "Yǒu shí hou yě kě yǐ fàng yì xiē lín shí de dōng xi\n有时候也可以放一些临时的东西"
+    } ]
+  }, {
+    "tStartMs": 99766,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Bǐ rú shuō nǐ diǎn le wài mài a\n比如说你点了外卖啊"
+    } ]
+  }, {
+    "tStartMs": 101333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Fàng shàng qu, fàng shàng qu\n放上去放上去"
+    } ]
+  }, {
+    "tStartMs": 102733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Jiù bú huì bǎ nǐ de zhè ge bèi zi nòng zāng le\n就不会把你的这个被子弄脏了"
+    } ]
+  }, {
+    "tStartMs": 105333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Wǎn shang shuì jiào de shí hou nǐ jiù\n晚上睡觉的时候你就"
+    } ]
+  }, {
+    "tStartMs": 107166,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "Bú huì gǎn jué bù shū fu le\n不会感觉不舒服了"
+    } ]
+  }, {
+    "tStartMs": 110500,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Hái yǒu yì zhǒng zuò yòng\n还有一种作用"
+    } ]
+  }, {
+    "tStartMs": 111433,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Tā men shuō shì zhè ge chuáng qí a, tā huì\n他们说是这个床旗啊它会"
+    } ]
+  }, {
+    "tStartMs": 114400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Jiù shì zhè ge bèi jiǎo, bǎ nǐ de bèi jiǎo yā zhù\n就是这个被角,把你的被角压住"
+    } ]
+  }, {
+    "tStartMs": 117133,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Yǐ fáng nǐ wǎn shang shuì jiào de shí hou\n以防你晚上睡觉的时候"
+    } ]
+  }, {
+    "tStartMs": 119100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Nǐ tī kāi zhè ge bèi jiǎo\n你踢开这个被角"
+    } ]
+  }, {
+    "tStartMs": 120766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Dàn shì wǒ jué de zhè ge zuò yòng ba\n但是我觉得这个作用吧"
+    } ]
+  }, {
+    "tStartMs": 123100,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Wēi hū qí wēi\n微乎其微"
+    } ]
+  }, {
+    "tStartMs": 125433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Nǐ men de jiā lǐ yǒu chuáng qí ma\n你们的家里有床旗吗"
+    } ]
+  }, {
+    "tStartMs": 127700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Nǐ men de jiā lǐ yǒu chuáng wěi jīn ma\n你们的家里有床尾巾吗"
+    } ]
+  }, {
+    "tStartMs": 131600,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "Píng lùn liú yán gào su wǒ\n评论留言告诉我"
+    } ]
+  }, {
+    "tStartMs": 134133,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Nǐ men xǐ huan bù xǐ huan\n你们喜欢不喜欢"
+    } ]
+  } ]
+}

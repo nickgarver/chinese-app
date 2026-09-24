@@ -1,0 +1,1231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hēi ， dà jiā hǎo\n嗨  ， 大 家  好 "
+    } ]
+  }, {
+    "tStartMs": 2000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "huān yíng huí dào wǒ de pín dào\n欢   迎   回  到  我 的 频  道 "
+    } ]
+  }, {
+    "tStartMs": 4633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "wǒ shì ān jí lā\n我 是  安 吉 拉"
+    } ]
+  }, {
+    "tStartMs": 6600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "hǎo jiǔ bú jiàn le\n好  久  不 见   了"
+    } ]
+  }, {
+    "tStartMs": 8500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "wǒ zuì jìn yì zhí dōu méi yǒu gēng xīn shì pín\n我 最  近  一 直  都  没  有  更   新  视  频 "
+    } ]
+  }, {
+    "tStartMs": 13400,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ gǎn mào yì zhí dōu méi yǒu hǎo\n因  为  我 感  冒  一 直  都  没  有  好 "
+    } ]
+  }, {
+    "tStartMs": 17133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "qián liǎng tiān yòu yǒu diǎn er yán zhòng le\n前   两    天   又  有  点   儿 严  重    了"
+    } ]
+  }, {
+    "tStartMs": 20833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "yì zhí zài ké sou\n一 直  在  咳 嗽 "
+    } ]
+  }, {
+    "tStartMs": 22700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "ké sou dé hěn lì hài\n咳 嗽  得 很  厉 害 "
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "suǒ yǐ méi yǒu gēng xīn shì pín\n所  以 没  有  更   新  视  频 "
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "jīn tiān hǎo yì xiē le\n今  天   好  一 些  了"
+    } ]
+  }, {
+    "tStartMs": 29533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "wǒ yòu huí lái le\n我 又  回  来  了"
+    } ]
+  }, {
+    "tStartMs": 31200,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "jì xù hé dà jiā liáo tiān ér\n继 续 和 大 家  聊   天   儿"
+    } ]
+  }, {
+    "tStartMs": 33933,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "jīn tiān xiǎng gēn dà jiā liáo de huà tí shì “ duǎn shì pín ”\n今  天   想    跟  大 家  聊   的 话  题 是  “ 短   视  频  ”"
+    } ]
+  }, {
+    "tStartMs": 39033,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "dà jiā píng shí huì shuā duǎn shì pín ma\n大 家  平   时  会  刷   短   视  频  吗"
+    } ]
+  }, {
+    "tStartMs": 43133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "yòng shǒu jī shuā duǎn shì pín\n用   手   机 刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 45833,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "kàn duǎn shì pín\n看  短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 48600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "nà zài zhōng guó ne\n那 在  中    国  呢"
+    } ]
+  }, {
+    "tStartMs": 50033,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "hěn duō zhōng guó rén dōu fēi cháng xǐ huan shuā duǎn shì pín\n很  多  中    国  人  都  非  常    喜 欢   刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 55033,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "zài zhōng guó yě yǒu hěn duō duǎn shì pín de A P P\n在  中    国  也 有  很  多  短   视  频  的 A P P"
+    } ]
+  }, {
+    "tStartMs": 59733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "qí zhōng zuì huǒ de\n其 中    最  火  的"
+    } ]
+  }, {
+    "tStartMs": 62333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "yòng de rén zuì duō de jiù shì dǒu yīn\n用   的 人  最  多  的 就  是  抖  音 "
+    } ]
+  }, {
+    "tStartMs": 66133,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "dǒu yīn zài qí tā de guó jiā hǎo xiàng yě kě yǐ yòng ba\n抖  音  在  其 他 的 国  家  好  像    也 可 以 用   吧"
+    } ]
+  }, {
+    "tStartMs": 70100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "dàn shì zhǐ shì zài zhōng guó\n但  是  只  是  在  中    国 "
+    } ]
+  }, {
+    "tStartMs": 72233,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "měi tiān jiù yǒu 8 yì de rén zài yòng dǒu yīn shuā duǎn shì pín\n每  天   就  有  8 亿 的 人  在  用   抖  音  刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "bìng qiě zhè xiē rén\n并   且  这  些  人 "
+    } ]
+  }, {
+    "tStartMs": 79666,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "měi tiān yòng dǒu yīn shuā duǎn shì pín de píng jūn shí jiān\n每  天   用   抖  音  刷   短   视  频  的 平   均  时  间  "
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "měi gè rén shì yí gè bàn xiǎo shí\n每  个 人  是  一 个 半  小   时 "
+    } ]
+  }, {
+    "tStartMs": 87733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "kě yǐ kàn dào\n可 以 看  到 "
+    } ]
+  }, {
+    "tStartMs": 89066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "zhōng guó rén shì duō me xǐ huan shuā duǎn shì pín le\n中    国  人  是  多  么 喜 欢   刷   短   视  频  了"
+    } ]
+  }, {
+    "tStartMs": 92466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "wǒ jīn tiān wèi shén me xiǎng liáo zhè ge huà tí ne\n我 今  天   为  什   么 想    聊   这  个 话  题 呢"
+    } ]
+  }, {
+    "tStartMs": 96300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ fā xiàn\n因  为  我 发 现  "
+    } ]
+  }, {
+    "tStartMs": 97400,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "wǒ zuì jìn duì shuā duǎn shì pín yǒu diǎn er shàng yǐn le\n我 最  近  对  刷   短   视  频  有  点   儿 上    瘾  了"
+    } ]
+  }, {
+    "tStartMs": 102333,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "shàng yǐn de yì sī jiù shì nǐ zǒng shì xiǎng zuò yí jiàn shì qíng\n上    瘾  的 意 思 就  是  你 总   是  想    做  一 件   事  情  "
+    } ]
+  }, {
+    "tStartMs": 107533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "kòng zhì bú zhù zì jǐ\n控   制  不 住  自 己"
+    } ]
+  }, {
+    "tStartMs": 109333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "xiǎng tíng xià lái què tíng bú xià lái\n想    停   下  来  却  停   不 下  来 "
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "zhè jiù jiào shàng yǐn le\n这  就  叫   上    瘾  了"
+    } ]
+  }, {
+    "tStartMs": 114433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "yǒu de rén huì duì chōu yān shàng yǐn\n有  的 人  会  对  抽   烟  上    瘾 "
+    } ]
+  }, {
+    "tStartMs": 117333,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "yǒu de rén huì duì hē jiǔ shàng yǐn\n有  的 人  会  对  喝 酒  上    瘾 "
+    } ]
+  }, {
+    "tStartMs": 119900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "wǒ xiàn zài duì shuā duǎn shì pín shàng yǐn le\n我 现   在  对  刷   短   视  频  上    瘾  了"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "zhǐ yào yǒu shí jiān\n只  要  有  时  间  "
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "wǒ jiù xiǎng dǎ kāi shǒu jī shuā duǎn shì pín\n我 就  想    打 开  手   机 刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 128733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "chī fàn de shí hòu huì shuā duǎn shì pín\n吃  饭  的 时  候  会  刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 132033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "shuì jiào zhī qián\n睡   觉   之  前  "
+    } ]
+  }, {
+    "tStartMs": 133800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "tǎng zài chuáng shàng shū shū fú fú de ， xiǎng shuā duǎn shì pín\n躺   在  床     上    舒  舒  服 服 的 ， 想    刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 138733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "hái yǒu zuì kě pà de shì\n还  有  最  可 怕 的 是 "
+    } ]
+  }, {
+    "tStartMs": 140833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "měi tiān zǎo shàng yì zhēng kāi yǎn jīng\n每  天   早  上    一 睁    开  眼  睛  "
+    } ]
+  }, {
+    "tStartMs": 143900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "wǒ jiù xiǎng dǎ kāi shǒu jī shuā yí huì er duǎn shì pín\n我 就  想    打 开  手   机 刷   一 会  儿 短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 148433,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "qí shí rú guǒ zhī shuā yí huì er duǎn shì pín\n其 实  如 果  只  刷   一 会  儿 短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 152100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "fàng sōng yí xià\n放   松   一 下 "
+    } ]
+  }, {
+    "tStartMs": 153400,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "wǒ jué de shì méi yǒu wèn tí de\n我 觉  得 是  没  有  问  题 的"
+    } ]
+  }, {
+    "tStartMs": 155833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "nà wǒ xiàn zài de wèn tí shì\n那 我 现   在  的 问  题 是 "
+    } ]
+  }, {
+    "tStartMs": 157833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "míng míng wǒ zhī xiǎng kàn yí huì er\n明   明   我 只  想    看  一 会  儿"
+    } ]
+  }, {
+    "tStartMs": 160666,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jīng cháng kàn zhe kàn zhe ， jiù kàn le yí gè xiǎo shí 、 liǎng gè xiǎo shí\n但  是  我 经   常    看  着  看  着  ， 就  看  了 一 个 小   时  、 两    个 小   时 "
+    } ]
+  }, {
+    "tStartMs": 168033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "nà zhè zhǒng gǎn jué ne\n那 这  种    感  觉  呢"
+    } ]
+  }, {
+    "tStartMs": 169233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "ràng wǒ hěn bù shū fú\n让   我 很  不 舒  服"
+    } ]
+  }, {
+    "tStartMs": 171133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "ràng wǒ yǒu yì zhǒng fù zuì gǎn\n让   我 有  一 种    负 罪  感 "
+    } ]
+  }, {
+    "tStartMs": 174033,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ xiàn zài měi tiān huā tài duō de shí jiān\n我 觉  得 我 现   在  每  天   花  太  多  的 时  间  "
+    } ]
+  }, {
+    "tStartMs": 178300,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "zài yì xiē méi yǒu yòng de shì qíng shàng\n在  一 些  没  有  用   的 事  情   上   "
+    } ]
+  }, {
+    "tStartMs": 181333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "ràng wǒ gǎn jué yǒu yì xiē fù zuì gǎn\n让   我 感  觉  有  一 些  负 罪  感 "
+    } ]
+  }, {
+    "tStartMs": 183933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "yǒu yì xiē jiāo lǜ\n有  一 些  焦   虑"
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "wǒ xiǎng jiè diào shuā duǎn shì pín zhè ge xí guàn\n我 想    戒  掉   刷   短   视  频  这  个 习 惯  "
+    } ]
+  }, {
+    "tStartMs": 190400,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "wèi liǎo jiě jué zuì jìn kùn rǎo wǒ de zhè ge wèn tí\n为  了   解  决  最  近  困  扰  我 的 这  个 问  题"
+    } ]
+  }, {
+    "tStartMs": 193900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "wǒ tè yì wèn le yí xià A I\n我 特 意 问  了 一 下  A I"
+    } ]
+  }, {
+    "tStartMs": 197333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wèn le yí xià tā\n问  了 一 下  他"
+    } ]
+  }, {
+    "tStartMs": 198666,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "wèi shén me wǒ huì duì shuā duǎn shì pín shàng yǐn ？\n为  什   么 我 会  对  刷   短   视  频  上    瘾  ？"
+    } ]
+  }, {
+    "tStartMs": 202600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǒ zěn me cái néng jiè diào duǎn shì pín ？\n我 怎  么 才  能   戒  掉   短   视  频  ？"
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ jiù gēn dà jiā fēn xiǎng yí xià\n今  天   我 就  跟  大 家  分  享    一 下 "
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "A I shì zěn me huí dá wǒ de\nA I 是  怎  么 回  答 我 的"
+    } ]
+  }, {
+    "tStartMs": 210733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "tā dōu gēn wǒ shuō le shén me\n它 都  跟  我 说   了 什   么"
+    } ]
+  }, {
+    "tStartMs": 212733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "zài huí dá wǒ de wèn tí zhī qián ne\n在  回  答 我 的 问  题 之  前   呢"
+    } ]
+  }, {
+    "tStartMs": 215233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "A I hěn tiē xīn\nA I 很  贴  心 "
+    } ]
+  }, {
+    "tStartMs": 217033,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "tā xiān ān wèi le wǒ\n它 先   安 慰  了 我"
+    } ]
+  }, {
+    "tStartMs": 218933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "tā gēn wǒ shuō\n它 跟  我 说  "
+    } ]
+  }, {
+    "tStartMs": 219900,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "duì duǎn shì pín shàng yǐn bú shì wǒ zì jǐ de wèn tí\n对  短   视  频  上    瘾  不 是  我 自 己 的 问  题"
+    } ]
+  }, {
+    "tStartMs": 224233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "bú shì yīn wèi wǒ bú gòu zì lǜ\n不 是  因  为  我 不 够  自 律"
+    } ]
+  }, {
+    "tStartMs": 226866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "ràng wǒ bú yào yǒu fù zuì gǎn\n让   我 不 要  有  负 罪  感 "
+    } ]
+  }, {
+    "tStartMs": 229300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "duì duǎn shì pín shàng yǐn ne\n对  短   视  频  上    瘾  呢"
+    } ]
+  }, {
+    "tStartMs": 231100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "shì dà nǎo 、 xīn qíng 、 hái yǒu ruǎn jiàn\n是  大 脑  、 心  情   、 还  有  软   件  "
+    } ]
+  }, {
+    "tStartMs": 235133,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "zhè sān gè dōng xī yì qǐ zuò yòng de jié guǒ\n这  三  个 东   西 一 起 作  用   的 结  果 "
+    } ]
+  }, {
+    "tStartMs": 239233,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "tā gēn wǒ shuō\n它 跟  我 说  "
+    } ]
+  }, {
+    "tStartMs": 240466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "měi gè rén dōu huì yù dào zhè yàng de wèn tí\n每  个 人  都  会  遇 到  这  样   的 问  题"
+    } ]
+  }, {
+    "tStartMs": 243633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "xiān ràng wǒ fàng qīng sōng\n先   让   我 放   轻   松  "
+    } ]
+  }, {
+    "tStartMs": 245466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "bú yào yǒu fù zuì gǎn\n不 要  有  负 罪  感 "
+    } ]
+  }, {
+    "tStartMs": 247733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "jiē xià lái tā jiù gào sù le wǒ\n接  下  来  它 就  告  诉 了 我"
+    } ]
+  }, {
+    "tStartMs": 250066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "rén men huì duì duǎn shì pín shàng yǐn de sān gè yuán yīn\n人  们  会  对  短   视  频  上    瘾  的 三  个 原   因 "
+    } ]
+  }, {
+    "tStartMs": 254266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "dì yī gè yuán yīn shì wǒ men dà nǎo de yuán yīn\n第 一 个 原   因  是  我 们  大 脑  的 原   因 "
+    } ]
+  }, {
+    "tStartMs": 258033,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "tā shuō wǒ men de dà nǎo xǐ huan jiǎn dān 、 kuài sù de kuài lè\n它 说   我 们  的 大 脑  喜 欢   简   单  、 快   速 的 快   乐"
+    } ]
+  }, {
+    "tStartMs": 263466,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "bǐ rú shuō wǒ men rú guǒ xué xí 、 kàn shū huò zhě yùn dòng de shí hòu\n比 如 说   我 们  如 果  学  习 、 看  书  或  者  运  动   的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 268833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "kuài lè lái de shì hěn màn de\n快   乐 来  的 是  很  慢  的"
+    } ]
+  }, {
+    "tStartMs": 272033,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ men zài xué xí kàn shū de shí hòu\n我 们  在  学  习 看  书  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 274733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "tōng cháng yào kàn hěn cháng shí jiān\n通   常    要  看  很  长    时  间  "
+    } ]
+  }, {
+    "tStartMs": 277133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "hái yào sī kǎo\n还  要  思 考 "
+    } ]
+  }, {
+    "tStartMs": 278833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "cái huì xué huì xīn de zhī shi\n才  会  学  会  新  的 知  识 "
+    } ]
+  }, {
+    "tStartMs": 281500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "cái yǒu chéng jiù gǎn\n才  有  成    就  感 "
+    } ]
+  }, {
+    "tStartMs": 283600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "yùn dòng yě shì yí yàng de\n运  动   也 是  一 样   的"
+    } ]
+  }, {
+    "tStartMs": 285633,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "bǐ rú shuō wǒ men pǎo bù 、 jiàn shēn de shí hòu\n比 如 说   我 们  跑  步 、 健   身   的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 288700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yě yào jīng guò hěn cháng shí jiān\n也 要  经   过  很  长    时  间  "
+    } ]
+  }, {
+    "tStartMs": 291466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "liú hěn duō hàn\n流  很  多  汗 "
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "hěn lèi zhī hòu\n很  累  之  后 "
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "cái huì huò dé yùn dòng zhī hòu de nà zhǒng fàng sōng a 、 hái yǒu shū fú\n才  会  获  得 运  动   之  后  的 那 种    放   松   啊 、 还  有  舒  服"
+    } ]
+  }, {
+    "tStartMs": 300500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "dàn shì duǎn shì pín jiù bù yí yàng le\n但  是  短   视  频  就  不 一 样   了"
+    } ]
+  }, {
+    "tStartMs": 303033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "měi gè duǎn shì pín shí jiān dōu hěn duǎn\n每  个 短   视  频  时  间   都  很  短  "
+    } ]
+  }, {
+    "tStartMs": 306200,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "zhǐ yǒu shí jǐ miǎo 、 jǐ shí miǎo huò zhě yì fēn zhōng de shí jiān\n只  有  十  几 秒   、 几 十  秒   或  者  一 分  钟    的 时  间  "
+    } ]
+  }, {
+    "tStartMs": 311800,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nà zhè xiē duǎn shì pín ne\n那 这  些  短   视  频  呢"
+    } ]
+  }, {
+    "tStartMs": 313700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "néng gòu hěn kuài ràng wǒ men biàn de hěn kāi xīn\n能   够  很  快   让   我 们  变   得 很  开  心 "
+    } ]
+  }, {
+    "tStartMs": 317666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "biàn de hěn cì jī\n变   得 很  刺 激"
+    } ]
+  }, {
+    "tStartMs": 319266,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "huò zhě yí xià zǐ biàn de xīn qíng hěn hǎo\n或  者  一 下  子 变   得 心  情   很  好 "
+    } ]
+  }, {
+    "tStartMs": 322266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "měi kàn dào yì tiáo duǎn shì pín de shí hòu\n每  看  到  一 条   短   视  频  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 324500,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "wǒ men de dà nǎo dōu huì hěn kuài dì fēn mì yì zhǒng ràng rén kuài lè de dōng xī\n我 们  的 大 脑  都  会  很  快   地 分  泌 一 种    让   人  快   乐 的 东   西"
+    } ]
+  }, {
+    "tStartMs": 330700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "nà yì tiáo jié shù zhī hòu\n那 一 条   结  束  之  后 "
+    } ]
+  }, {
+    "tStartMs": 332133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "mǎ shàng yòu lái le yì tiáo xīn de\n马 上    又  来  了 一 条   新  的"
+    } ]
+  }, {
+    "tStartMs": 334833,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhè zhǒng kuài lè shì chí xù bú duàn de\n所  以 这  种    快   乐 是  持  续 不 断   的"
+    } ]
+  }, {
+    "tStartMs": 338233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "huì ràng rén tíng bú xià lái\n会  让   人  停   不 下  来 "
+    } ]
+  }, {
+    "tStartMs": 340633,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "màn màn dì ， dà nǎo jiù huì xí guàn zhè zhǒng kuài sù de kuài lè\n慢  慢  地 ， 大 脑  就  会  习 惯   这  种    快   速 的 快   乐"
+    } ]
+  }, {
+    "tStartMs": 345333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ men zài qù kàn shū a\n如 果  我 们  再  去 看  书  啊"
+    } ]
+  }, {
+    "tStartMs": 347933,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "xiě dōng xī a\n写  东   西 啊"
+    } ]
+  }, {
+    "tStartMs": 349300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "xiǎng ān jìng zuò shì de shí hòu\n想    安 静   做  事  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 351433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "jiù hěn nán jiān chí xià qù\n就  很  难  坚   持  下  去"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "huì jué de hěn kū zào 、 hěn wú liáo\n会  觉  得 很  枯 燥  、 很  无 聊  "
+    } ]
+  }, {
+    "tStartMs": 356400,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "méi bàn fǎ ān jìng xià lái\n没  办  法 安 静   下  来 "
+    } ]
+  }, {
+    "tStartMs": 358866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "zhè jiù shì wèi shén me wǒ men yuè shuā duǎn shì pín\n这  就  是  为  什   么 我 们  越  刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 362666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "yuè nán zhuān zhù dì zuò yí jiàn shì qíng de yuán yīn\n越  难  专    注  地 做  一 件   事  情   的 原   因 "
+    } ]
+  }, {
+    "tStartMs": 366800,
+    "dDurationMs": 6266,
+    "segs": [ {
+      "utf8": "dì èr gè yuán yīn ne shì duǎn shì pín néng gòu ràng rén de xīn qíng biàn hǎo\n第 二 个 原   因  呢 是  短   视  频  能   够  让   人  的 心  情   变   好 "
+    } ]
+  }, {
+    "tStartMs": 373200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "xiàn zài de shēng huó\n现   在  的 生    活 "
+    } ]
+  }, {
+    "tStartMs": 374600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "měi gè rén de yā lì dōu hěn dà\n每  个 人  的 压 力 都  很  大"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "suǒ yǐ měi gè rén dōu yǒu hěn lèi de shí hòu\n所  以 每  个 人  都  有  很  累  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 380533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "xīn qíng bù hǎo de shí hòu\n心  情   不 好  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 382266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "huò zhě hěn gū dú de shí hòu\n或  者  很  孤 独 的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 385100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "nà zài zhè zhǒng shí hòu\n那 在  这  种    时  候 "
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "rèn hé rén dōu xū yào yì zhǒng fāng shì\n任  何 人  都  需 要  一 种    方   式 "
+    } ]
+  }, {
+    "tStartMs": 388833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "néng ràng zì jǐ fàng sōng xià lái\n能   让   自 己 放   松   下  来 "
+    } ]
+  }, {
+    "tStartMs": 391066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "néng ràng zì jǐ de xīn qíng biàn de hǎo yì diǎn ér\n能   让   自 己 的 心  情   变   得 好  一 点   儿"
+    } ]
+  }, {
+    "tStartMs": 394433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nà duǎn shì pín ne\n那 短   视  频  呢"
+    } ]
+  }, {
+    "tStartMs": 395833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "jiù shì zuì jiǎn dān de yì zhǒng fāng fǎ\n就  是  最  简   单  的 一 种    方   法"
+    } ]
+  }, {
+    "tStartMs": 399100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "yīn wèi shuā duǎn shì pín\n因  为  刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 401066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "nǐ bù xū yào chū mén\n你 不 需 要  出  门 "
+    } ]
+  }, {
+    "tStartMs": 402866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "yě bù xū yào huā qián\n也 不 需 要  花  钱  "
+    } ]
+  }, {
+    "tStartMs": 404933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "zhǐ yào dǎ kāi shǒu jī jiù kě yǐ le\n只  要  打 开  手   机 就  可 以 了"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "suǒ yǐ duì hěn duō rén lái shuō\n所  以 对  很  多  人  来  说  "
+    } ]
+  }, {
+    "tStartMs": 409933,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "shuā duǎn shì pín bù jǐn shì yì zhǒng yú lè fāng shì\n刷   短   视  频  不 仅  是  一 种    娱 乐 方   式 "
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yě néng ān wèi rén de qíng xù\n也 能   安 慰  人  的 情   绪"
+    } ]
+  }, {
+    "tStartMs": 416700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "ràng zì jǐ de xīn qíng biàn hǎo\n让   自 己 的 心  情   变   好 "
+    } ]
+  }, {
+    "tStartMs": 419333,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "suǒ yǐ màn màn dì ， rén men zài xīn qíng bù hǎo de shí hòu\n所  以 慢  慢  地 ， 人  们  在  心  情   不 好  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 423733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "wú liáo de shí hòu\n无 聊   的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 425233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "jiù huì zì rán ér rán dì\n就  会  自 然  而 然  地"
+    } ]
+  }, {
+    "tStartMs": 427833,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "hěn zì rán dì dǎ kāi shǒu jī shuā duǎn shì pín\n很  自 然  地 打 开  手   机 刷   短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 431600,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "màn màn dì jiù huì xíng chéng xí guàn le\n慢  慢  地 就  会  形   成    习 惯   了"
+    } ]
+  }, {
+    "tStartMs": 434933,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "dì sān gè yuán yīn\n第 三  个 原   因 "
+    } ]
+  }, {
+    "tStartMs": 436200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "yě shì zuì zhòng yào de yí gè yuán yīn\n也 是  最  重    要  的 一 个 原   因 "
+    } ]
+  }, {
+    "tStartMs": 439100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "duǎn shì pín de ruǎn jiàn\n短   视  频  的 软   件  "
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "jiù shì wèi le ràng guān zhòng yì zhí bù tíng dì kàn xià qù\n就  是  为  了 让   观   众    一 直  不 停   地 看  下  去"
+    } ]
+  }, {
+    "tStartMs": 445666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "yīn wèi duǎn shì pín shì méi yǒu jié wěi de\n因  为  短   视  频  是  没  有  结  尾  的"
+    } ]
+  }, {
+    "tStartMs": 449133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "wǒ men kàn shū zǒng huì kàn wán\n我 们  看  书  总   会  看  完 "
+    } ]
+  }, {
+    "tStartMs": 451933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "kàn diàn yǐng ne\n看  电   影   呢"
+    } ]
+  }, {
+    "tStartMs": 453066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "yě huì yǒu yí gè jié jú\n也 会  有  一 个 结  局"
+    } ]
+  }, {
+    "tStartMs": 455100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "dàn shì duǎn shì pín yì tiáo jié shù zhī hòu\n但  是  短   视  频  一 条   结  束  之  后 "
+    } ]
+  }, {
+    "tStartMs": 458533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "mǎ shàng huì yǒu xià yì tiáo\n马 上    会  有  下  一 条  "
+    } ]
+  }, {
+    "tStartMs": 460900,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "suǒ yǐ dà nǎo jiē shōu bú dào jié shù de xìn hào\n所  以 大 脑  接  收   不 到  结  束  的 信  号 "
+    } ]
+  }, {
+    "tStartMs": 465266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "jiù xiǎng yì zhí kàn xià qù\n就  想    一 直  看  下  去"
+    } ]
+  }, {
+    "tStartMs": 467733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "nà lìng wài ne\n那 另   外  呢"
+    } ]
+  }, {
+    "tStartMs": 468933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "duǎn shì pín yě fēi cháng dǒng wǒ men\n短   视  频  也 非  常    懂   我 们 "
+    } ]
+  }, {
+    "tStartMs": 471600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "tā huì wèi wǒ men zuò yí gè dà shù jù de fēn xī\n它 会  为  我 们  做  一 个 大 数  据 的 分  析"
+    } ]
+  }, {
+    "tStartMs": 475400,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "huì bù tíng de gěi wǒ men tuī sòng wǒ men ài kàn de nèi róng\n会  不 停   的 给  我 们  推  送   我 们  爱 看  的 内  容  "
+    } ]
+  }, {
+    "tStartMs": 480200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "dōu shì ài kàn de nèi róng\n都  是  爱 看  的 内  容  "
+    } ]
+  }, {
+    "tStartMs": 481633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "suǒ yǐ hěn nán tíng xià lái\n所  以 很  难  停   下  来 "
+    } ]
+  }, {
+    "tStartMs": 483833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "chú le gào sù wǒ\n除  了 告  诉 我"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "rén men\n人  们 "
+    } ]
+  }, {
+    "tStartMs": 485800,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "wèi shén me huì duì duǎn shì pín shàng yǐn de yuán yīn zhī wài ne\n为  什   么 会  对  短   视  频  上    瘾  的 原   因  之  外  呢"
+    } ]
+  }, {
+    "tStartMs": 490700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "A I hái gào sù le wǒ\nA I 还  告  诉 了 我"
+    } ]
+  }, {
+    "tStartMs": 492433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "jǐ gè kè fú duǎn shì pín shàng yǐn de fāng fǎ\n几 个 克 服 短   视  频  上    瘾  的 方   法"
+    } ]
+  }, {
+    "tStartMs": 496833,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "zěn me zuò cái néng ràng zì jǐ bú duì duǎn shì pín shàng yǐn\n怎  么 做  才  能   让   自 己 不 对  短   视  频  上    瘾 "
+    } ]
+  }, {
+    "tStartMs": 502500,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "bǐ rú shuō\n比 如 说  "
+    } ]
+  }, {
+    "tStartMs": 503533,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "tā gào sù wǒ ， xiàn zhì shuā duǎn shì pín de shí jiān\n它 告  诉 我 ， 限   制  刷   短   视  频  的 时  间  "
+    } ]
+  }, {
+    "tStartMs": 508700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "bǐ rú shuō\n比 如 说  "
+    } ]
+  }, {
+    "tStartMs": 509200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "xiàn zhì zì jǐ měi tiān zhǐ néng shuā 1 0 fēn zhōng de duǎn shì pín\n限   制  自 己 每  天   只  能   刷   1 0 分  钟    的 短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 514433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "zhǐ néng shuā 2 0 fēn zhōng de duǎn shì pín\n只  能   刷   2 0 分  钟    的 短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 517433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "gěi zì jǐ xiàn zhì yí gè yán gé de shí jiān\n给  自 己 限   制  一 个 严  格 的 时  间  "
+    } ]
+  }, {
+    "tStartMs": 521266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "nà dì èr gè ne\n那 第 二 个 呢"
+    } ]
+  }, {
+    "tStartMs": 522500,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "wǒ jué de yě kě yǐ cháng shì yí xià\n我 觉  得 也 可 以 尝    试  一 下 "
+    } ]
+  }, {
+    "tStartMs": 525433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "jiù shì zài shuì qián\n就  是  在  睡   前  "
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "zài shuì jiào zhī qián bǎ shǒu jī guān jī\n在  睡   觉   之  前   把 手   机 关   机"
+    } ]
+  }, {
+    "tStartMs": 530733,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "zhè yàng jiù bú huì zài shuì qián yì zhí kàn shǒu jī\n这  样   就  不 会  在  睡   前   一 直  看  手   机"
+    } ]
+  }, {
+    "tStartMs": 534466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "yǐng xiǎng shuì mián le\n影   响    睡   眠   了"
+    } ]
+  }, {
+    "tStartMs": 536433,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "nà hái yǒu yí gè fāng fǎ\n那 还  有  一 个 方   法"
+    } ]
+  }, {
+    "tStartMs": 537600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ jué de tīng qǐ lái yě shì tǐng hǎo de\n我 觉  得 听   起 来  也 是  挺   好  的"
+    } ]
+  }, {
+    "tStartMs": 540866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "zài nǐ xiǎng shuā duǎn shì pín de shí hòu\n在  你 想    刷   短   视  频  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 543266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "zhuǎn yí yí xià zì jǐ de zhù yì lì\n转    移 一 下  自 己 的 注  意 力"
+    } ]
+  }, {
+    "tStartMs": 546033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "qù gān diǎn bié de shì qíng\n去 干  点   别  的 事  情  "
+    } ]
+  }, {
+    "tStartMs": 548200,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhè xiē fāng fǎ wǒ dōu zhǔn bèi shì yí xià\n这  些  方   法 我 都  准   备  试  一 下 "
+    } ]
+  }, {
+    "tStartMs": 551433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "dào shí hòu gào sù nǐ men yǒu méi yǒu xiào guǒ\n到  时  候  告  诉 你 们  有  没  有  效   果 "
+    } ]
+  }, {
+    "tStartMs": 554866,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "nà dà jiā píng shí yǒu méi yǒu duì duǎn shì pín shàng yǐn de kùn rǎo ne\n那 大 家  平   时  有  没  有  对  短   视  频  上    瘾  的 困  扰  呢"
+    } ]
+  }, {
+    "tStartMs": 560500,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "nǐ men shì zěn me jiě jué zhè ge wèn tí de\n你 们  是  怎  么 解  决  这  个 问  题 的"
+    } ]
+  }, {
+    "tStartMs": 564066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ men yě yǒu tóng yàng de jīng lì\n如 果  你 们  也 有  同   样   的 经   历"
+    } ]
+  }, {
+    "tStartMs": 566666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "hé tóng yàng de wèn tí\n和 同   样   的 问  题"
+    } ]
+  }, {
+    "tStartMs": 568833,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "huān yíng zài píng lùn qū yì qǐ tǎo lùn\n欢   迎   在  评   论  区 一 起 讨  论 "
+    } ]
+  }, {
+    "tStartMs": 572666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "nà jīn tiān de shì pín jiù dào zhè ba\n那 今  天   的 视  频  就  到  这  吧"
+    } ]
+  }, {
+    "tStartMs": 575266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "fēi cháng gǎn xiè nǐ men de shōu kàn\n非  常    感  谢  你 们  的 收   看 "
+    } ]
+  }, {
+    "tStartMs": 577933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ duì wǒ de shì pín\n如 果  你 对  我 的 视  频 "
+    } ]
+  }, {
+    "tStartMs": 579733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "duì wǒ de pín dào gǎn xìng qù\n对  我 的 频  道  感  兴   趣"
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "huān yíng dìng yuè wǒ de pín dào\n欢   迎   订   阅  我 的 频  道 "
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "hǎo ba zán men jīn tiān jiù dào zhè ba\n好  吧 咱  们  今  天   就  到  这  吧"
+    } ]
+  }, {
+    "tStartMs": 586500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "xià cì zài jiàn bài bài\n下  次 再  见   拜  拜 "
+    } ]
+  } ]
+}

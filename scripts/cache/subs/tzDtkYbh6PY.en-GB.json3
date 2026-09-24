@@ -1,0 +1,2221 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hi, friends!"
+    } ]
+  }, {
+    "tStartMs": 1166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Good morning, everyone!"
+    } ]
+  }, {
+    "tStartMs": 2366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I'm Mini. Welcome to my channel."
+    } ]
+  }, {
+    "tStartMs": 5633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "In today's video, I'm going to take"
+    } ]
+  }, {
+    "tStartMs": 7833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "you grocery shopping with me"
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and teach you some"
+    } ]
+  }, {
+    "tStartMs": 12600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "very useful Chinese expressions at the supermarket."
+    } ]
+  }, {
+    "tStartMs": 18000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "I'm going to put on a hat."
+    } ]
+  }, {
+    "tStartMs": 19966,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "This is a baseball cap. A baseball cap."
+    } ]
+  }, {
+    "tStartMs": 24100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "I especially want to wear this hat today"
+    } ]
+  }, {
+    "tStartMs": 27400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "because, just between us, I didn't wash my hair."
+    } ]
+  }, {
+    "tStartMs": 31900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Haha, my hair feels a little greasy."
+    } ]
+  }, {
+    "tStartMs": 35200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Greasy hair."
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "So I'll wear a hat to cover it up. Haha!"
+    } ]
+  }, {
+    "tStartMs": 44566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Before going to the supermarket—"
+    } ]
+  }, {
+    "tStartMs": 47366,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "Oh, this camera looks so funny!"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I have to remember to take this shopping bag."
+    } ]
+  }, {
+    "tStartMs": 53866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "This is a shopping bag."
+    } ]
+  }, {
+    "tStartMs": 55700,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "Now I'm putting the shopping bag into my backpack."
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "This is a bǎ-sentence."
+    } ]
+  }, {
+    "tStartMs": 64066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Put the shopping bag into the backpack."
+    } ]
+  }, {
+    "tStartMs": 70500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "You can also say,"
+    } ]
+  }, {
+    "tStartMs": 71866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "“I put my phone into my backpack.”"
+    } ]
+  }, {
+    "tStartMs": 76500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "“I put my glasses into my backpack.”"
+    } ]
+  }, {
+    "tStartMs": 79966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "These are all bǎ-sentences."
+    } ]
+  }, {
+    "tStartMs": 81666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Put something somewhere."
+    } ]
+  }, {
+    "tStartMs": 89100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "All right, now we can go!"
+    } ]
+  }, {
+    "tStartMs": 91966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "It feels a little chilly this morning. Haha!"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "We've arrived at the supermarket!"
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Okay, let's go inside first."
+    } ]
+  }, {
+    "tStartMs": 101433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Here, we'll get a shopping cart first."
+    } ]
+  }, {
+    "tStartMs": 105066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "This is a shopping cart. Push a shopping cart."
+    } ]
+  }, {
+    "tStartMs": 112066,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Then we enter the supermarket. Enter the supermarket."
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Hey, you know what?"
+    } ]
+  }, {
+    "tStartMs": 117933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "As soon as I came in, I saw"
+    } ]
+  }, {
+    "tStartMs": 119266,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "a fruit that's a really good deal."
+    } ]
+  }, {
+    "tStartMs": 124400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "Look at these grapes."
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "These are grapes."
+    } ]
+  }, {
+    "tStartMs": 128333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "And they're only $5.99 each. Hey!"
+    } ]
+  }, {
+    "tStartMs": 131866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "On sale. On sale."
+    } ]
+  }, {
+    "tStartMs": 134866,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "And they look very fresh."
+    } ]
+  }, {
+    "tStartMs": 139700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow!"
+    } ]
+  }, {
+    "tStartMs": 141266,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "These grapes look very fresh. Very fresh."
+    } ]
+  }, {
+    "tStartMs": 144500,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "I've decided to buy a box."
+    } ]
+  }, {
+    "tStartMs": 148666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 149200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "look—this box is a little damaged."
+    } ]
+  }, {
+    "tStartMs": 151900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "So I've decided to exchange it for another one."
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Because when I shop,"
+    } ]
+  }, {
+    "tStartMs": 160400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I usually pick things carefully."
+    } ]
+  }, {
+    "tStartMs": 162666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Pick—you need to choose carefully."
+    } ]
+  }, {
+    "tStartMs": 164700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Choose the fresher ones,"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "the ones that look better."
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "This is my first time shopping here in the morning."
+    } ]
+  }, {
+    "tStartMs": 173100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It's morning right now."
+    } ]
+  }, {
+    "tStartMs": 174900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Why does it feel so crowded?"
+    } ]
+  }, {
+    "tStartMs": 177166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "It seems even busier than at night."
+    } ]
+  }, {
+    "tStartMs": 180066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "This is also a great deal."
+    } ]
+  }, {
+    "tStartMs": 183100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "These are mandarins, right?"
+    } ]
+  }, {
+    "tStartMs": 184866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "These are oranges."
+    } ]
+  }, {
+    "tStartMs": 186566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Oranges or mandarins?"
+    } ]
+  }, {
+    "tStartMs": 187866,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "I can't tell."
+    } ]
+  }, {
+    "tStartMs": 190333,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "But this bag is $5.99."
+    } ]
+  }, {
+    "tStartMs": 194733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's also on sale for $5.99."
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 200166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I think that's a great deal."
+    } ]
+  }, {
+    "tStartMs": 203700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Let's get a bag."
+    } ]
+  }, {
+    "tStartMs": 205866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, but"
+    } ]
+  }, {
+    "tStartMs": 206866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I suddenly realized something:"
+    } ]
+  }, {
+    "tStartMs": 208766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "this bag of mandarins is really heavy."
+    } ]
+  }, {
+    "tStartMs": 212466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "I don't think I can carry it home."
+    } ]
+  }, {
+    "tStartMs": 216466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "It's too heavy. Too heavy."
+    } ]
+  }, {
+    "tStartMs": 219366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Never mind. I'll give up."
+    } ]
+  }, {
+    "tStartMs": 221666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "This is really too heavy. Forget it."
+    } ]
+  }, {
+    "tStartMs": 224366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "I don't want it anymore."
+    } ]
+  }, {
+    "tStartMs": 226533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "I put it back."
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Put it back. Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 231933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Over here"
+    } ]
+  }, {
+    "tStartMs": 233066,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "is the fruit section."
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "There are lots of fruits."
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "And look,"
+    } ]
+  }, {
+    "tStartMs": 238733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "this is a bag."
+    } ]
+  }, {
+    "tStartMs": 241466,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "A plastic bag. A plastic bag."
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If you want to buy fruit"
+    } ]
+  }, {
+    "tStartMs": 246966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "or vegetables,"
+    } ]
+  }, {
+    "tStartMs": 248666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "you can use a plastic bag to hold them."
+    } ]
+  }, {
+    "tStartMs": 251300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Put them in a plastic bag. Haha!"
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "The fruit at the supermarket is really affordable today,"
+    } ]
+  }, {
+    "tStartMs": 258733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "but all this fruit is so heavy."
+    } ]
+  }, {
+    "tStartMs": 261466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "Look at these bananas."
+    } ]
+  }, {
+    "tStartMs": 264133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "The bananas are also very cheap today:"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "89 cents a pound."
+    } ]
+  }, {
+    "tStartMs": 269966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Eighty-nine cents. I really want some!"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "But they're so heavy."
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Let's pick one."
+    } ]
+  }, {
+    "tStartMs": 277966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Which of these two is better?"
+    } ]
+  }, {
+    "tStartMs": 280500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "When we compare things,"
+    } ]
+  }, {
+    "tStartMs": 281966,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "we say, “Which of these two is better?”"
+    } ]
+  }, {
+    "tStartMs": 285933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Which one is better? Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 288766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah!"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Okay, I'm going to take this one."
+    } ]
+  }, {
+    "tStartMs": 293166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "This one is smaller"
+    } ]
+  }, {
+    "tStartMs": 294500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "and not as heavy."
+    } ]
+  }, {
+    "tStartMs": 296100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Let's put these bananas in the shopping cart."
+    } ]
+  }, {
+    "tStartMs": 299933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Into the shopping cart. Let's go!"
+    } ]
+  }, {
+    "tStartMs": 303966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Look, this is a scale. A scale."
+    } ]
+  }, {
+    "tStartMs": 307666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "For example, put the bananas on top."
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Let's see how much they weigh."
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "Oh, they're about two pounds."
+    } ]
+  }, {
+    "tStartMs": 319233,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "We call this “weighing.” Weighing."
+    } ]
+  }, {
+    "tStartMs": 326600,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "Okay, we've finished browsing the produce section."
+    } ]
+  }, {
+    "tStartMs": 330833,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "Now I'm going to look for ground coffee."
+    } ]
+  }, {
+    "tStartMs": 336700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "When you want to find something,"
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "you can say,"
+    } ]
+  }, {
+    "tStartMs": 338933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "“I'm going to look for...”"
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "For example, “I'm going to look for ground coffee.”"
+    } ]
+  }, {
+    "tStartMs": 344200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "“I'm going to look for milk.”"
+    } ]
+  }, {
+    "tStartMs": 347200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's not here."
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, it's not here either."
+    } ]
+  }, {
+    "tStartMs": 351133,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Supermarkets have different shelves."
+    } ]
+  }, {
+    "tStartMs": 354900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "These are shelves. Shelves."
+    } ]
+  }, {
+    "tStartMs": 357933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And above them,"
+    } ]
+  }, {
+    "tStartMs": 359366,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "there are clear aisle signs. Aisle signs."
+    } ]
+  }, {
+    "tStartMs": 363900,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "They tell you"
+    } ]
+  }, {
+    "tStartMs": 365366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "what products are in this section."
+    } ]
+  }, {
+    "tStartMs": 367566,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "That makes it easier for us to"
+    } ]
+  }, {
+    "tStartMs": 369933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "find what we want to buy."
+    } ]
+  }, {
+    "tStartMs": 373033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Ah, here's my favorite pasta!"
+    } ]
+  }, {
+    "tStartMs": 377233,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "I buy this pasta often."
+    } ]
+  }, {
+    "tStartMs": 382133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "But it doesn't seem to be on sale today."
+    } ]
+  }, {
+    "tStartMs": 385566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Items with a yellow label like this—"
+    } ]
+  }, {
+    "tStartMs": 388600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "this kind of yellow label means they're on sale."
+    } ]
+  }, {
+    "tStartMs": 392300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 394433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "But then I thought about it."
+    } ]
+  }, {
+    "tStartMs": 395933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I think I still have a lot of pasta at home"
+    } ]
+  }, {
+    "tStartMs": 398133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "that I haven't finished,"
+    } ]
+  }, {
+    "tStartMs": 400300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "so I won't buy any for now. Haha!"
+    } ]
+  }, {
+    "tStartMs": 403033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Let's keep looking for ground coffee."
+    } ]
+  }, {
+    "tStartMs": 405833,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "Found it! There are so many kinds of coffee here."
+    } ]
+  }, {
+    "tStartMs": 409600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I need to buy coffee."
+    } ]
+  }, {
+    "tStartMs": 412566,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There are so many choices!"
+    } ]
+  }, {
+    "tStartMs": 414700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "Actually, I've tried almost all of these."
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Do you have any coffee brands"
+    } ]
+  }, {
+    "tStartMs": 420766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "that you especially recommend?"
+    } ]
+  }, {
+    "tStartMs": 423833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I usually buy ground coffee"
+    } ]
+  }, {
+    "tStartMs": 426566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "because I have a coffee maker at home,"
+    } ]
+  }, {
+    "tStartMs": 428566,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "so I make my own coffee."
+    } ]
+  }, {
+    "tStartMs": 431733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Wow, is ground coffee really this expensive now?"
+    } ]
+  }, {
+    "tStartMs": 436300,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I can barely find any under ten dollars."
+    } ]
+  }, {
+    "tStartMs": 442300,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "And these prices are after the discount."
+    } ]
+  }, {
+    "tStartMs": 444333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "Even on sale, they're $13 or $14. So expensive!"
+    } ]
+  }, {
+    "tStartMs": 448966,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "What should I do? I'll run out of coffee tomorrow."
+    } ]
+  }, {
+    "tStartMs": 452766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Hmm..."
+    } ]
+  }, {
+    "tStartMs": 454933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Forget it. I won't buy it now—it's too expensive."
+    } ]
+  }, {
+    "tStartMs": 457966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I'll check another supermarket next time."
+    } ]
+  }, {
+    "tStartMs": 461233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "At the supermarket,"
+    } ]
+  }, {
+    "tStartMs": 462933,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "there are some Chinese sentences we may use often."
+    } ]
+  }, {
+    "tStartMs": 467133,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "For example, I just taught you “I want to buy...”"
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "For example, “I want to buy ground coffee.”"
+    } ]
+  }, {
+    "tStartMs": 473600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "You can also say, “I'm looking for ground coffee.”"
+    } ]
+  }, {
+    "tStartMs": 476933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "“I'm looking for...” Or,"
+    } ]
+  }, {
+    "tStartMs": 479966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "“Let me think about what I need to buy.”"
+    } ]
+  }, {
+    "tStartMs": 482633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "What do I need to buy?"
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "What do I need to buy?"
+    } ]
+  }, {
+    "tStartMs": 487033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "This section"
+    } ]
+  }, {
+    "tStartMs": 488166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "is all freezer cases."
+    } ]
+  }, {
+    "tStartMs": 491233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Freezer cases."
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Everything sold in here"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "needs to be kept frozen."
+    } ]
+  }, {
+    "tStartMs": 497500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "For example, this is yogurt. Yogurt."
+    } ]
+  }, {
+    "tStartMs": 501100,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "And there are some frozen foods."
+    } ]
+  }, {
+    "tStartMs": 506133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Here is the milk. Milk."
+    } ]
+  }, {
+    "tStartMs": 510600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Here in Vancouver,"
+    } ]
+  }, {
+    "tStartMs": 512766,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "the milk sold in supermarkets comes in huge jugs."
+    } ]
+  }, {
+    "tStartMs": 517800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I can't finish one by myself,"
+    } ]
+  }, {
+    "tStartMs": 520166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "because I don't drink milk every day."
+    } ]
+  }, {
+    "tStartMs": 523966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "So I think such a big jug would be wasteful."
+    } ]
+  }, {
+    "tStartMs": 526533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "If I can't finish it, it won't stay fresh."
+    } ]
+  }, {
+    "tStartMs": 529333,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "But if you buy the small jug,"
+    } ]
+  }, {
+    "tStartMs": 531300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "it's not as good a deal."
+    } ]
+  }, {
+    "tStartMs": 533433,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Let me show you the prices."
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "Look, the large jug is over six dollars,"
+    } ]
+  }, {
+    "tStartMs": 541700,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "while the small one is over five dollars."
+    } ]
+  }, {
+    "tStartMs": 547233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So the large jug is definitely a better deal."
+    } ]
+  }, {
+    "tStartMs": 551833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "But I can't finish the large one."
+    } ]
+  }, {
+    "tStartMs": 556300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "What I was just doing"
+    } ]
+  }, {
+    "tStartMs": 557233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "was comparing prices."
+    } ]
+  }, {
+    "tStartMs": 559766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "Compare—compare prices. Right."
+    } ]
+  }, {
+    "tStartMs": 563633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "Look at these seasonings."
+    } ]
+  }, {
+    "tStartMs": 567366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "These sauces are more"
+    } ]
+  }, {
+    "tStartMs": 570833,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "suited to the kind of cooking you do, right?"
+    } ]
+  }, {
+    "tStartMs": 574433,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Western food, right?"
+    } ]
+  }, {
+    "tStartMs": 577700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "But people like us"
+    } ]
+  }, {
+    "tStartMs": 579400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "use them less often."
+    } ]
+  }, {
+    "tStartMs": 582733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This section sells many"
+    } ]
+  }, {
+    "tStartMs": 584933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Asian seasonings."
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "For example, this one:"
+    } ]
+  }, {
+    "tStartMs": 592100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Lao Gan Ma chili sauce. Lao Gan Ma chili sauce."
+    } ]
+  }, {
+    "tStartMs": 595366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "It's something we often eat with our meals."
+    } ]
+  }, {
+    "tStartMs": 598833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "But supermarkets like this"
+    } ]
+  }, {
+    "tStartMs": 600600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "don't sell a very large selection."
+    } ]
+  }, {
+    "tStartMs": 602533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Usually, when I need sauces or seasonings,"
+    } ]
+  }, {
+    "tStartMs": 605033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I go to a Chinese supermarket."
+    } ]
+  }, {
+    "tStartMs": 607833,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Oh, right—earlier,"
+    } ]
+  }, {
+    "tStartMs": 610433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "some of you reminded me"
+    } ]
+  }, {
+    "tStartMs": 612366,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "that this pizza needs to go in the freezer. Aha!"
+    } ]
+  }, {
+    "tStartMs": 617433,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Some friends even emailed me"
+    } ]
+  }, {
+    "tStartMs": 620200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "to tell me to put it in the freezer."
+    } ]
+  }, {
+    "tStartMs": 622600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Now I know!"
+    } ]
+  }, {
+    "tStartMs": 623733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I immediately put it in the freezer compartment"
+    } ]
+  }, {
+    "tStartMs": 627400,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "of my refrigerator."
+    } ]
+  }, {
+    "tStartMs": 628733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Thank you, really!"
+    } ]
+  }, {
+    "tStartMs": 631000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Look,"
+    } ]
+  }, {
+    "tStartMs": 631966,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "this supermarket also sells my favorite dumplings."
+    } ]
+  }, {
+    "tStartMs": 637233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "These—"
+    } ]
+  }, {
+    "tStartMs": 639300,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "I absolutely love these dumplings."
+    } ]
+  }, {
+    "tStartMs": 647033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "These are pork and napa cabbage dumplings."
+    } ]
+  }, {
+    "tStartMs": 652033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 653366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But I'm not planning to buy them today"
+    } ]
+  }, {
+    "tStartMs": 655833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "because I still have two bags at home."
+    } ]
+  }, {
+    "tStartMs": 657833,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "I want to finish those before buying more. Haha!"
+    } ]
+  }, {
+    "tStartMs": 660333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "We open the freezer door. Open it."
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "Then put them back. Put them back."
+    } ]
+  }, {
+    "tStartMs": 669700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "And close it again. Close it."
+    } ]
+  }, {
+    "tStartMs": 673033,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "I also really like buying frozen vegetables like these"
+    } ]
+  }, {
+    "tStartMs": 676500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "because they're very convenient."
+    } ]
+  }, {
+    "tStartMs": 677766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "You can just toss them into a pot and cook them."
+    } ]
+  }, {
+    "tStartMs": 681600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "We call these frozen vegetables."
+    } ]
+  }, {
+    "tStartMs": 683900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Frozen vegetables."
+    } ]
+  }, {
+    "tStartMs": 686200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Something like this"
+    } ]
+  }, {
+    "tStartMs": 687100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "is called a price tag."
+    } ]
+  }, {
+    "tStartMs": 690233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "A label with the price—a tag."
+    } ]
+  }, {
+    "tStartMs": 692733,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "It shows the price of each product."
+    } ]
+  }, {
+    "tStartMs": 700700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Next, I'm going to look at the meat."
+    } ]
+  }, {
+    "tStartMs": 702600,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Let's see if there are any good deals or specials."
+    } ]
+  }, {
+    "tStartMs": 706533,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "I really feel that in this episode,"
+    } ]
+  }, {
+    "tStartMs": 708100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I've kept talking about two words:"
+    } ]
+  }, {
+    "tStartMs": 710200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "one is “a good deal,”"
+    } ]
+  }, {
+    "tStartMs": 711733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "and the other is “on sale.”"
+    } ]
+  }, {
+    "tStartMs": 713966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "That's because the cost of living here is really high,"
+    } ]
+  }, {
+    "tStartMs": 717133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "so you have to spend carefully"
+    } ]
+  }, {
+    "tStartMs": 720533,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "and be very frugal."
+    } ]
+  }, {
+    "tStartMs": 723500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Hey, I can see myself here! Haha!"
+    } ]
+  }, {
+    "tStartMs": 726233,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Okay, over here is the chicken."
+    } ]
+  }, {
+    "tStartMs": 730833,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I think chicken is very expensive in Canada."
+    } ]
+  }, {
+    "tStartMs": 733933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "It's almost the same price as pork."
+    } ]
+  }, {
+    "tStartMs": 738833,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Over here are some sausages."
+    } ]
+  }, {
+    "tStartMs": 743300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And over here is the pork."
+    } ]
+  }, {
+    "tStartMs": 746900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "For this one, look—"
+    } ]
+  }, {
+    "tStartMs": 748566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "there's a label on it."
+    } ]
+  }, {
+    "tStartMs": 749966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It says “$2 off.”"
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "In Chinese, we would say “two dollars cheaper”"
+    } ]
+  }, {
+    "tStartMs": 757500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "or “two dollars off.”"
+    } ]
+  }, {
+    "tStartMs": 760666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "And look at what's written up here."
+    } ]
+  }, {
+    "tStartMs": 762233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "These are points. Points."
+    } ]
+  }, {
+    "tStartMs": 766433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "When we shop at a supermarket,"
+    } ]
+  }, {
+    "tStartMs": 769033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "we usually have a supermarket rewards card."
+    } ]
+  }, {
+    "tStartMs": 772166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "When we use that rewards card"
+    } ]
+  }, {
+    "tStartMs": 773633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "to buy things,"
+    } ]
+  }, {
+    "tStartMs": 776000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "points are added to our account."
+    } ]
+  }, {
+    "tStartMs": 778266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "It's a great deal."
+    } ]
+  }, {
+    "tStartMs": 780366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "These points"
+    } ]
+  }, {
+    "tStartMs": 781266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "can be redeemed for money in the future."
+    } ]
+  }, {
+    "tStartMs": 784433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Let me show you."
+    } ]
+  }, {
+    "tStartMs": 785266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I often buy this rotisserie chicken too,"
+    } ]
+  }, {
+    "tStartMs": 788100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "but their rotisserie chicken is a little expensive:"
+    } ]
+  }, {
+    "tStartMs": 791033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "$13.99. Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 793233,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Wow, it's nice and hot!"
+    } ]
+  }, {
+    "tStartMs": 795466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "When we shop, we often say,"
+    } ]
+  }, {
+    "tStartMs": 798700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "“This product is a little expensive,”"
+    } ]
+  }, {
+    "tStartMs": 801633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "or “It's a little cheap.”"
+    } ]
+  }, {
+    "tStartMs": 804233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Expensive; cheap."
+    } ]
+  }, {
+    "tStartMs": 806100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "That's how we say it when comparing things:"
+    } ]
+  }, {
+    "tStartMs": 809000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "“a little expensive,” “a little cheap,”"
+    } ]
+  }, {
+    "tStartMs": 812066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "or “This is a really good deal,”"
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "or “This is a good price.”"
+    } ]
+  }, {
+    "tStartMs": 816466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "If you want to ask the price,"
+    } ]
+  }, {
+    "tStartMs": 818166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "we usually say,"
+    } ]
+  }, {
+    "tStartMs": 819466,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "“How much is this?”"
+    } ]
+  }, {
+    "tStartMs": 823800,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "All right, because I don't have much time,"
+    } ]
+  }, {
+    "tStartMs": 826566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I have to go home."
+    } ]
+  }, {
+    "tStartMs": 827966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "And from my original shopping list,"
+    } ]
+  }, {
+    "tStartMs": 831633,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I didn't buy very many things."
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "I only bought grapes and bananas, so"
+    } ]
+  }, {
+    "tStartMs": 838666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "I've decided to take that bag of mandarins—"
+    } ]
+  }, {
+    "tStartMs": 841766,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "the one we saw"
+    } ]
+  }, {
+    "tStartMs": 842966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "by the entrance earlier."
+    } ]
+  }, {
+    "tStartMs": 844900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "It's just over five dollars, which is a great deal."
+    } ]
+  }, {
+    "tStartMs": 848800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Since I didn't buy too much,"
+    } ]
+  }, {
+    "tStartMs": 850466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "I think I should be able to carry it home."
+    } ]
+  }, {
+    "tStartMs": 853300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Okay, let's choose one."
+    } ]
+  }, {
+    "tStartMs": 855000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Pick—pick one."
+    } ]
+  }, {
+    "tStartMs": 859833,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Let's take this one."
+    } ]
+  }, {
+    "tStartMs": 862200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "This one it is."
+    } ]
+  }, {
+    "tStartMs": 864866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 866700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Now let's go check out. Check out."
+    } ]
+  }, {
+    "tStartMs": 870766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "This is the staffed checkout area."
+    } ]
+  }, {
+    "tStartMs": 873833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Staffed checkout."
+    } ]
+  }, {
+    "tStartMs": 875200,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "And up ahead is the self-checkout."
+    } ]
+  }, {
+    "tStartMs": 879233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You can use self-checkout here."
+    } ]
+  }, {
+    "tStartMs": 883166,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "But let's use the staffed checkout"
+    } ]
+  }, {
+    "tStartMs": 888066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "over here."
+    } ]
+  }, {
+    "tStartMs": 889833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Line up."
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "We're lining up here. Lining up."
+    } ]
+  }, {
+    "tStartMs": 895166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "This area"
+    } ]
+  }, {
+    "tStartMs": 895966,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "is also called the checkout counter."
+    } ]
+  }, {
+    "tStartMs": 900266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "This divider"
+    } ]
+  }, {
+    "tStartMs": 901966,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "is called a checkout divider in Chinese."
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But we almost never say that in everyday life,"
+    } ]
+  }, {
+    "tStartMs": 910100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "because we rarely need to use the word."
+    } ]
+  }, {
+    "tStartMs": 912366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I don't see these very often either."
+    } ]
+  }, {
+    "tStartMs": 915633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Now I'm going to put the"
+    } ]
+  }, {
+    "tStartMs": 917666,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "items I bought on this counter. The counter."
+    } ]
+  }, {
+    "tStartMs": 922266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Put them on the counter."
+    } ]
+  }, {
+    "tStartMs": 924866,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Hello, here's my card."
+    } ]
+  }, {
+    "tStartMs": 927500,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Here,"
+    } ]
+  }, {
+    "tStartMs": 928200,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "I gave my supermarket rewards card to the cashier."
+    } ]
+  }, {
+    "tStartMs": 932733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Rewards card. Rewards card."
+    } ]
+  }, {
+    "tStartMs": 934900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "That way, I can earn points."
+    } ]
+  }, {
+    "tStartMs": 938033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 940266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "The employee who checks you out at the counter"
+    } ]
+  }, {
+    "tStartMs": 942700,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "is called a cashier. A cashier."
+    } ]
+  }, {
+    "tStartMs": 946700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Now I'm putting the scanned items"
+    } ]
+  }, {
+    "tStartMs": 949866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "back into the shopping cart."
+    } ]
+  }, {
+    "tStartMs": 952466,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "After I paid, the cashier gave me the receipt."
+    } ]
+  }, {
+    "tStartMs": 957400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Okay, now let's return the cart."
+    } ]
+  }, {
+    "tStartMs": 965733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Let's go! We're done shopping."
+    } ]
+  }, {
+    "tStartMs": 971266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Although I didn't buy much,"
+    } ]
+  }, {
+    "tStartMs": 972233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "it still feels pretty heavy."
+    } ]
+  }, {
+    "tStartMs": 974800,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "I spent a total of $13.91 today."
+    } ]
+  }, {
+    "tStartMs": 980500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "What I'm holding"
+    } ]
+  }, {
+    "tStartMs": 982166,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "is a receipt. A receipt."
+    } ]
+  }, {
+    "tStartMs": 986600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Thirteen dollars and ninety-one cents."
+    } ]
+  }, {
+    "tStartMs": 987800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And everything I bought was fruit."
+    } ]
+  }, {
+    "tStartMs": 989433,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "I bought a box of grapes,"
+    } ]
+  }, {
+    "tStartMs": 990700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "a bunch of bananas,"
+    } ]
+  }, {
+    "tStartMs": 992433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and a bag of, uh, mandarins. Haha!"
+    } ]
+  }, {
+    "tStartMs": 996266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I honestly don't know if they're mandarins or oranges."
+    } ]
+  }, {
+    "tStartMs": 998366,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Whatever!"
+    } ]
+  }, {
+    "tStartMs": 999666,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Now we're carrying—carrying—"
+    } ]
+  }, {
+    "tStartMs": 1003800,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "carrying this shopping bag home."
+    } ]
+  }, {
+    "tStartMs": 1007000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Going home, going home. I'm so tired!"
+    } ]
+  }, {
+    "tStartMs": 1009800,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "All right, friends."
+    } ]
+  }, {
+    "tStartMs": 1010866,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "Have you learned all of today's"
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "useful supermarket expressions?"
+    } ]
+  }, {
+    "tStartMs": 1015600,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1017066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Recently,"
+    } ]
+  }, {
+    "tStartMs": 1018066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I also launched my YouTube membership."
+    } ]
+  }, {
+    "tStartMs": 1020600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "I'll share more of"
+    } ]
+  }, {
+    "tStartMs": 1022766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "my everyday life with you there,"
+    } ]
+  }, {
+    "tStartMs": 1026300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "and I'll also provide"
+    } ]
+  }, {
+    "tStartMs": 1027866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "more detailed study guides."
+    } ]
+  }, {
+    "tStartMs": 1030566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "If you enjoy my videos"
+    } ]
+  }, {
+    "tStartMs": 1032800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "and want to learn Chinese expressions"
+    } ]
+  }, {
+    "tStartMs": 1034166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "through my real life,"
+    } ]
+  }, {
+    "tStartMs": 1036966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "remember to subscribe to my channel!"
+    } ]
+  }, {
+    "tStartMs": 1039100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You can also join my YouTube membership."
+    } ]
+  }, {
+    "tStartMs": 1041500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "I'll share even more exciting content with you."
+    } ]
+  }, {
+    "tStartMs": 1044800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "All right, that's all for today's episode."
+    } ]
+  }, {
+    "tStartMs": 1047000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "See you next time!"
+    } ]
+  }, {
+    "tStartMs": 1048566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Thank you for watching and supporting me."
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye-bye!"
+    } ]
+  }, {
+    "tStartMs": 1052366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "These are the grapes I bought today."
+    } ]
+  }, {
+    "tStartMs": 1054266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Let's try one."
+    } ]
+  }, {
+    "tStartMs": 1056766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Mm-hmm..."
+    } ]
+  }, {
+    "tStartMs": 1060266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Wow, this grape is so sour!"
+    } ]
+  }, {
+    "tStartMs": 1062833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Mm-hmm..."
+    } ]
+  }, {
+    "tStartMs": 1065666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This grape is really sour!"
+    } ]
+  }, {
+    "tStartMs": 1068766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Sour—so sour!"
+    } ]
+  } ]
+}

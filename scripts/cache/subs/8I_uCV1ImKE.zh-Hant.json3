@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "我們大多數人學習一門新語言的方式都反了。"
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "我們從單字、文法、句子開始，"
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "然後期待最後才理解意思。"
+    } ]
+  }, {
+    "tStartMs": 10166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "但我認為，語言學習的順序\n其實正好相反。"
+    } ]
+  }, {
+    "tStartMs": 13833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "意思應該先出現。"
+    } ]
+  }, {
+    "tStartMs": 15466,
+    "dDurationMs": 6034,
+    "segs": [ {
+      "utf8": "然後，意思幫助我們發現\n語言中的單字和結構。"
+    } ]
+  }, {
+    "tStartMs": 22066,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我來示範一下。"
+    } ]
+  }, {
+    "tStartMs": 24300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不要翻譯。"
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "只要看。"
+    } ]
+  }, {
+    "tStartMs": 27100,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "我拿起杯子。"
+    } ]
+  }, {
+    "tStartMs": 31466,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "你可能不知道「我」、「拿起」或「杯子」\n分別是什麼意思。"
+    } ]
+  }, {
+    "tStartMs": 36600,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "但你能理解發生了什麼。"
+    } ]
+  }, {
+    "tStartMs": 39366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我拿起了一個杯子。"
+    } ]
+  }, {
+    "tStartMs": 41900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "所以，你仍然可以理解整個訊息，"
+    } ]
+  }, {
+    "tStartMs": 44666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "即使你不是每個詞都懂。"
+    } ]
+  }, {
+    "tStartMs": 48233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "再看一次。"
+    } ]
+  }, {
+    "tStartMs": 50400,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "我拿起手機。"
+    } ]
+  }, {
+    "tStartMs": 55566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "注意看。"
+    } ]
+  }, {
+    "tStartMs": 57533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "哪裡變了？"
+    } ]
+  }, {
+    "tStartMs": 59366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "人沒有變。"
+    } ]
+  }, {
+    "tStartMs": 62033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "動作沒有變。"
+    } ]
+  }, {
+    "tStartMs": 64966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "只有物品變了。"
+    } ]
+  }, {
+    "tStartMs": 67866,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "中文也有一部分跟著變了。"
+    } ]
+  }, {
+    "tStartMs": 71366,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "最後一部分\n從「杯子」變成了「手機」。"
+    } ]
+  }, {
+    "tStartMs": 77066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "不需要背單字表，"
+    } ]
+  }, {
+    "tStartMs": 81266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "你已經可以推斷出："
+    } ]
+  }, {
+    "tStartMs": 84266,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "「杯子」是 “cup”，\n「手機」是 “phone”。"
+    } ]
+  }, {
+    "tStartMs": 90666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "不是因為有人直接給了你翻譯。"
+    } ]
+  }, {
+    "tStartMs": 95233,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "而是因為你理解了兩個訊息，\n並注意到了變化。"
+    } ]
+  }, {
+    "tStartMs": 100866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "現在再換一個部分。"
+    } ]
+  }, {
+    "tStartMs": 104066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "他拿起手機。"
+    } ]
+  }, {
+    "tStartMs": 107266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "再看一次，哪裡變了？"
+    } ]
+  }, {
+    "tStartMs": 111066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "手機沒有變。"
+    } ]
+  }, {
+    "tStartMs": 114200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "動作沒有變。"
+    } ]
+  }, {
+    "tStartMs": 117700,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "只有人變了。"
+    } ]
+  }, {
+    "tStartMs": 120300,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "中文也有一部分跟著變了。"
+    } ]
+  }, {
+    "tStartMs": 124100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "第一部分\n從「我」變成了「他」。"
+    } ]
+  }, {
+    "tStartMs": 129166,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "你注意到哪一部分\n仍然沒有變嗎？"
+    } ]
+  }, {
+    "tStartMs": 134600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "是「拿起」。"
+    } ]
+  }, {
+    "tStartMs": 136766,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "現在，結構開始\n顯現出來。"
+    } ]
+  }, {
+    "tStartMs": 141966,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "前面可以是「我」或「他」，"
+    } ]
+  }, {
+    "tStartMs": 145200,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "接著是「拿起」，後面是「杯子」或「手機」。"
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "一開始，「我拿起杯子」聽起來可能像"
+    } ]
+  }, {
+    "tStartMs": 153733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "一串連續的聲音，"
+    } ]
+  }, {
+    "tStartMs": 157166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "與整個事件聯繫在一起。"
+    } ]
+  }, {
+    "tStartMs": 160333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但現在，這串聲音開始"
+    } ]
+  }, {
+    "tStartMs": 163300,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "分成有意義的部分。"
+    } ]
+  }, {
+    "tStartMs": 166700,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "你開始發現一個規律。"
+    } ]
+  }, {
+    "tStartMs": 169600,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "「拿起」前面可以放一個人，"
+    } ]
+  }, {
+    "tStartMs": 173500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "後面可以放一個物品。"
+    } ]
+  }, {
+    "tStartMs": 175866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "於是，這個過程形成了一個循環。"
+    } ]
+  }, {
+    "tStartMs": 180300,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "當你理解越來越多的訊息"
+    } ]
+  }, {
+    "tStartMs": 183333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "並持續接觸可理解輸入時，"
+    } ]
+  }, {
+    "tStartMs": 185766,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "你就能開始發現\n語言內部的結構。"
+    } ]
+  }, {
+    "tStartMs": 190666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "這正是我透過可理解輸入\n學習西班牙語時"
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "所體驗到的過程。"
+    } ]
+  }, {
+    "tStartMs": 197866,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "也是我教授中文時\n想要創造的學習方式。"
+    } ]
+  }, {
+    "tStartMs": 203633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "所以，核心觀點是："
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "語言學習不應該\n從單字和文法開始。"
+    } ]
+  }, {
+    "tStartMs": 209766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "而應該從意思開始。"
+    } ]
+  }, {
+    "tStartMs": 211866,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "在實際學習中，如果你想\n從零開始學習一門新語言，"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "先選擇能透過語境\n理解大部分內容的材料。"
+    } ]
+  }, {
+    "tStartMs": 221066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "不要遇到每個生詞都停下來。"
+    } ]
+  }, {
+    "tStartMs": 223866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "相反，繼續聽下去，"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "讓相同的單字和結構"
+    } ]
+  }, {
+    "tStartMs": 229100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "在不同情境中\n一次又一次地出現。"
+    } ]
+  }, {
+    "tStartMs": 233766,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "一開始，圖片、動作\n和其他語境"
+    } ]
+  }, {
+    "tStartMs": 237333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "可以幫助你理解訊息。"
+    } ]
+  }, {
+    "tStartMs": 240566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "隨著時間推移，你已經理解的內容"
+    } ]
+  }, {
+    "tStartMs": 242900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "會開始幫助你理解更多。"
+    } ]
+  }, {
+    "tStartMs": 246633,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "你就這樣逐漸從\n理解情境"
+    } ]
+  }, {
+    "tStartMs": 250433,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "過渡到理解語言本身。"
+    } ]
+  } ]
+}

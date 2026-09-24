@@ -3,6 +3,7 @@
   import { progress } from '$lib/progress.svelte.js';
   import { session } from '$lib/session.svelte.js';
   import { speak } from '$lib/tts.js';
+  import { sfx } from '$lib/sfx.svelte.js';
 
   let { data, scope, onexit } = $props();
 
@@ -11,11 +12,15 @@
   const current = $derived(run.queue[0] ?? null);
   const front = $derived(run.config.front === 'zh');
 
+  const examples = $derived(current ? sentencesFor(data, current.w) : []);
+  const example = $derived(examples.length ? examples[run.exampleAt % examples.length] : null);
+
   function grade(rating) {
     const word = current;
     if (!word) return;
     progress.grade(word.w, rating);
     run.tally[rating] += 1;
+    sfx.play(rating === 'again' ? 'wrong' : 'correct');
 
     const rest = run.queue.slice(1);
     if (rating === 'again') rest.splice(Math.min(2, rest.length), 0, word);
@@ -23,13 +28,12 @@
 
     run.queue = rest;
     run.revealed = false;
-    run.showExample = false;
+    run.exampleAt = 0;
   }
+  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
 {#if current}
-  {@const examples = sentencesFor(data, current.w)}
-
   <div class="page">
     <div class="session-head">
       <div class="bar grow">
@@ -38,6 +42,9 @@
       <span class="muted">{run.queue.length} left</span>
       <button class="btn ghost sm auto" onclick={onexit}>Exit</button>
     </div>
+
+    <!-- fixed height so revealing an answer never shifts the card -->
+    <p class="origin">{originLabel(current)}</p>
 
     <div class="card pop flash">
       {#if front}
@@ -54,38 +61,38 @@
         {/if}
       {/if}
 
-      <div class="flash-badges">
-        <span class="chip badge" class:on={current.c.length > 0}>{originLabel(current)}</span>
-        {#if run.revealed || front}
-          <button class="speak" aria-label="Play audio" onclick={() => speak(current.w)}>♪</button>
-        {/if}
-      </div>
+      {#if run.revealed || front}
+        <button class="speak" aria-label="Play audio" onclick={() => speak(current.w)}>♪</button>
+      {/if}
     </div>
 
-    {#if run.revealed && examples.length}
+    {#if run.revealed && example}
       <div class="card">
-        <button class="btn ghost sm auto" onclick={() => (run.showExample = !run.showExample)}>
-          {run.showExample ? 'Hide' : 'Show'} example sentence
-        </button>
-
-        {#if run.showExample}
-          {@const ex = examples[0]}
-          <div class="example spaced">
-            <div class="body">
-              <p class="zh example-zh">{ex.zh}</p>
-              <p class="example-py">{ex.py}</p>
-              <p class="example-en">{ex.en}</p>
-            </div>
-            <button class="speak" aria-label="Play sentence" onclick={() => speak(ex.zh)}>♪</button>
+        <div class="example">
+          <div class="body">
+            <p class="zh example-zh">{example.zh}</p>
+            <p class="example-py">{example.py}</p>
+            <p class="example-en">{example.en}</p>
           </div>
-        {/if}
+          <div class="example-tools">
+            <button class="speak" aria-label="Play sentence" onclick={() => speak(example.zh)}>♪</button>
+            {#if examples.length > 1}
+              <button
+                class="speak"
+                aria-label="Another sentence"
+                title="{(run.exampleAt % examples.length) + 1} of {examples.length}"
+                onclick={() => (run.exampleAt += 1)}
+              >↻</button>
+            {/if}
+          </div>
+        </div>
       </div>
     {/if}
 
     {#if !run.revealed}
       <button class="btn primary" onclick={() => (run.revealed = true)}>Show answer</button>
     {:else}
-      <div class="stack">
+      <div class="stack grade">
         <div class="row">
           <button class="btn bad" onclick={() => grade('again')}>Don't know</button>
           <button class="btn warn" onclick={() => grade('hard')}>Do again</button>
@@ -95,8 +102,9 @@
     {/if}
   </div>
 {:else}
+  <PageHeader title="Session done" account={false} />
+
   <div class="page">
-    <h1>Session done</h1>
     <div class="card pop">
       <div class="stats">
         <div>

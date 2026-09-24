@@ -1,0 +1,1573 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "hello大家好。好久好久不见了"
+    } ]
+  }, {
+    "tStartMs": 5466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "我好久好久没有录vlog了"
+    } ]
+  }, {
+    "tStartMs": 20266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "那这几天"
+    } ]
+  }, {
+    "tStartMs": 21766,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我在进行一个短途旅行"
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我在镇江"
+    } ]
+  }, {
+    "tStartMs": 28666,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "这个地方在上海的西北部"
+    } ]
+  }, {
+    "tStartMs": 34566,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "离上海坐火车大概只要一个半小时"
+    } ]
+  }, {
+    "tStartMs": 39066,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我住的酒店就在镇江"
+    } ]
+  }, {
+    "tStartMs": 42500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "最著名的一个景点旁边"
+    } ]
+  }, {
+    "tStartMs": 45700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "这个景点叫做西津渡"
+    } ]
+  }, {
+    "tStartMs": 49100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "在古代是一个渡口"
+    } ]
+  }, {
+    "tStartMs": 52966,
+    "dDurationMs": 4734,
+    "segs": [ {
+      "utf8": "所以镇江在古代其实挺重要的"
+    } ]
+  }, {
+    "tStartMs": 58066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "但我猜你们现在应该"
+    } ]
+  }, {
+    "tStartMs": 60566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "没有多少人听过这个城市"
+    } ]
+  }, {
+    "tStartMs": 64033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "所以今天我就想带你们一起看一看"
+    } ]
+  }, {
+    "tStartMs": 68500,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "西津渡现在是一个"
+    } ]
+  }, {
+    "tStartMs": 71833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "像商业古街一样的地方"
+    } ]
+  }, {
+    "tStartMs": 75066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "其实这样的古街"
+    } ]
+  }, {
+    "tStartMs": 76633,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "现在在中国很多景点都非常常见"
+    } ]
+  }, {
+    "tStartMs": 81166,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "而且很多看起来都很像"
+    } ]
+  }, {
+    "tStartMs": 85366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "但好在今天是周一"
+    } ]
+  }, {
+    "tStartMs": 89100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "和以前周末来旅游不一样"
+    } ]
+  }, {
+    "tStartMs": 92633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "人少很多"
+    } ]
+  }, {
+    "tStartMs": 95366,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "但也不是特别特别少"
+    } ]
+  }, {
+    "tStartMs": 98800,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "所以对我来说就有一种刚刚好的氛围"
+    } ]
+  }, {
+    "tStartMs": 104766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那像这样一条老街"
+    } ]
+  }, {
+    "tStartMs": 107933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "现在就主要是传统"
+    } ]
+  }, {
+    "tStartMs": 110866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "民居和一些商铺饭店"
+    } ]
+  }, {
+    "tStartMs": 114833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "民宿的结合"
+    } ]
+  }, {
+    "tStartMs": 116766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "有很多民宿"
+    } ]
+  }, {
+    "tStartMs": 118600,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "他们一楼是咖啡厅或者酒吧"
+    } ]
+  }, {
+    "tStartMs": 122666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "二楼三楼或者更高的"
+    } ]
+  }, {
+    "tStartMs": 125333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "楼层就是住宿的地方"
+    } ]
+  }, {
+    "tStartMs": 128866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "和很多地方一样"
+    } ]
+  }, {
+    "tStartMs": 130733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这里的星巴克也建成了"
+    } ]
+  }, {
+    "tStartMs": 134633,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "和当地建筑风格匹配的样子"
+    } ]
+  }, {
+    "tStartMs": 140133,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "包括麦当劳也是"
+    } ]
+  }, {
+    "tStartMs": 143533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "在我的印象中"
+    } ]
+  }, {
+    "tStartMs": 145333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "肯德基做的本地化的尝试"
+    } ]
+  }, {
+    "tStartMs": 149966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "其实是比麦当劳更多的"
+    } ]
+  }, {
+    "tStartMs": 152433,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但我觉得这样的建筑设计应该也是"
+    } ]
+  }, {
+    "tStartMs": 155633,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "麦当劳做的一个本地化的尝试吧"
+    } ]
+  }, {
+    "tStartMs": 160866,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "你们看这里有一个小小的装饰"
+    } ]
+  }, {
+    "tStartMs": 166066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这个写的是篆书"
+    } ]
+  }, {
+    "tStartMs": 169366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "我大概能认出来"
+    } ]
+  }, {
+    "tStartMs": 171200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "它写的就是“西津渡码头”"
+    } ]
+  }, {
+    "tStartMs": 178433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "这边有一座雕塑"
+    } ]
+  }, {
+    "tStartMs": 181733,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "我觉得应该就是以前码头的"
+    } ]
+  }, {
+    "tStartMs": 187166,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "码头的船夫的样子"
+    } ]
+  }, {
+    "tStartMs": 191766,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这一块特别安静"
+    } ]
+  }, {
+    "tStartMs": 195233,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "这里眼前就是一片绿意"
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "如果我们看到眼前有"
+    } ]
+  }, {
+    "tStartMs": 202400,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "一大片绿色的植物"
+    } ]
+  }, {
+    "tStartMs": 205166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "一大片绿色的自然的景观"
+    } ]
+  }, {
+    "tStartMs": 207866,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我们就可以说眼前有一片绿意"
+    } ]
+  }, {
+    "tStartMs": 211833,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这是比较诗意的说法"
+    } ]
+  }, {
+    "tStartMs": 214966,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "但是古街我今天想带你们就看到这里"
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "现在我要去一个我更期待的地方"
+    } ]
+  }, {
+    "tStartMs": 224366,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "也希望是一个更安静的地方"
+    } ]
+  }, {
+    "tStartMs": 229366,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "好的，现在我们到了"
+    } ]
+  }, {
+    "tStartMs": 232466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "我们今天的第二个地方"
+    } ]
+  }, {
+    "tStartMs": 235266,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这个地方叫焦山"
+    } ]
+  }, {
+    "tStartMs": 237866,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "就是后面那座山"
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "我们现在要等渡船过来"
+    } ]
+  }, {
+    "tStartMs": 243133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "接我们去那座山"
+    } ]
+  }, {
+    "tStartMs": 246000,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "其实镇江有三座比较有名的山"
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "但是我选这里是因为这座山"
+    } ]
+  }, {
+    "tStartMs": 255433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "是唯一一座在长江中的山"
+    } ]
+  }, {
+    "tStartMs": 260366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "它被江水环绕"
+    } ]
+  }, {
+    "tStartMs": 264166,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以我觉得比较特别"
+    } ]
+  }, {
+    "tStartMs": 266533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "比较吸引我"
+    } ]
+  }, {
+    "tStartMs": 268366,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "那也有的人把这座山叫做“江中浮玉”"
+    } ]
+  }, {
+    "tStartMs": 273566,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "就是浮在江中的一块玉"
+    } ]
+  }, {
+    "tStartMs": 278166,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "可以看到现在渡船向我们开过来了"
+    } ]
+  }, {
+    "tStartMs": 289600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "现在我们上船啦"
+    } ]
+  }, {
+    "tStartMs": 316200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在准备靠岸"
+    } ]
+  }, {
+    "tStartMs": 321366,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "现在我们到焦山门口了"
+    } ]
+  }, {
+    "tStartMs": 326666,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "这就是大门口"
+    } ]
+  }, {
+    "tStartMs": 330333,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "上面从右往左写着“焦山胜境”"
+    } ]
+  }, {
+    "tStartMs": 337166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "“胜境”一般就是用来形容一个特别好"
+    } ]
+  }, {
+    "tStartMs": 340366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "特别美的地方"
+    } ]
+  }, {
+    "tStartMs": 343466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "你们应该会注意到很多中国"
+    } ]
+  }, {
+    "tStartMs": 346033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "的景区都有这样的石狮子"
+    } ]
+  }, {
+    "tStartMs": 349566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "其实是一对"
+    } ]
+  }, {
+    "tStartMs": 351966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "一公一母"
+    } ]
+  }, {
+    "tStartMs": 355133,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "母狮子的脚下一般都有一头小狮子"
+    } ]
+  }, {
+    "tStartMs": 360966,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "而公狮子的脚下一般都会踩着一个球"
+    } ]
+  }, {
+    "tStartMs": 369566,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "这边还有更多石雕的狮子"
+    } ]
+  }, {
+    "tStartMs": 374733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "撅着屁股的狮子"
+    } ]
+  }, {
+    "tStartMs": 379333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "现在我们进了山"
+    } ]
+  }, {
+    "tStartMs": 381433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "因为有了树荫"
+    } ]
+  }, {
+    "tStartMs": 383866,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "终于感觉凉快多了"
+    } ]
+  }, {
+    "tStartMs": 391033,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "这边还有一个佛学院"
+    } ]
+  }, {
+    "tStartMs": 406966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "再往前走就是一座寺庙"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这座寺庙叫定慧寺"
+    } ]
+  }, {
+    "tStartMs": 414566,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "有三个石桥通向它"
+    } ]
+  }, {
+    "tStartMs": 420033,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "定慧寺后面又有一座塔"
+    } ]
+  }, {
+    "tStartMs": 424733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "现在我进来"
+    } ]
+  }, {
+    "tStartMs": 426966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "整体的感受就是"
+    } ]
+  }, {
+    "tStartMs": 429566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "整个景区非常有层次"
+    } ]
+  }, {
+    "tStartMs": 432633,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "走进来一层又一层的"
+    } ]
+  }, {
+    "tStartMs": 436566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "每一个地方都是景色"
+    } ]
+  }, {
+    "tStartMs": 443133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "这些都是用来烧香的"
+    } ]
+  }, {
+    "tStartMs": 448633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但可能因为今天是周一吧"
+    } ]
+  }, {
+    "tStartMs": 451833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "没有什么人来烧香"
+    } ]
+  }, {
+    "tStartMs": 455033,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "你更多看到的是这里的"
+    } ]
+  }, {
+    "tStartMs": 457733,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "工作人员或者一些僧侣走来走去"
+    } ]
+  }, {
+    "tStartMs": 464433,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "游客很少"
+    } ]
+  }, {
+    "tStartMs": 467400,
+    "dDurationMs": 6666,
+    "segs": [ {
+      "utf8": "你们看这个寺庙前面也有一对石狮子"
+    } ]
+  }, {
+    "tStartMs": 474633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "只不过比我们刚刚在"
+    } ]
+  }, {
+    "tStartMs": 476833,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "门口看到的小多了"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "我们发现了一只非常亲人的小猫"
+    } ]
+  }, {
+    "tStartMs": 486200,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "而且因为听说这上面有一些猫"
+    } ]
+  }, {
+    "tStartMs": 490866,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "所以我提前准备了食物（猫粮）"
+    } ]
+  }, {
+    "tStartMs": 496733,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "啊，等一下"
+    } ]
+  }, {
+    "tStartMs": 497733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我解不开"
+    } ]
+  }, {
+    "tStartMs": 506566,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "但不知道他现在饿不饿"
+    } ]
+  }, {
+    "tStartMs": 510033,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "等一下哦"
+    } ]
+  }, {
+    "tStartMs": 513833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "他现在躺下来了"
+    } ]
+  }, {
+    "tStartMs": 515800,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "非常放松"
+    } ]
+  }, {
+    "tStartMs": 519733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "等一下哦"
+    } ]
+  }, {
+    "tStartMs": 524633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我就放一点吧"
+    } ]
+  }, {
+    "tStartMs": 526066,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "不然把这边的环境弄脏了"
+    } ]
+  }, {
+    "tStartMs": 542200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "但我觉得这边的人"
+    } ]
+  }, {
+    "tStartMs": 543766,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "应该也有在规律的喂它"
+    } ]
+  }, {
+    "tStartMs": 549766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "看起来被养的挺好的"
+    } ]
+  }, {
+    "tStartMs": 561733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "吃完了"
+    } ]
+  }, {
+    "tStartMs": 564466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "很满足的样子"
+    } ]
+  }, {
+    "tStartMs": 569833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "你想打招呼吗？"
+    } ]
+  }, {
+    "tStartMs": 580800,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "哇，你们看这边有一个龙的造型的钟"
+    } ]
+  }, {
+    "tStartMs": 586966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我猜应该是钟吧"
+    } ]
+  }, {
+    "tStartMs": 588833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "用来敲的"
+    } ]
+  }, {
+    "tStartMs": 593166,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "真的一个人都没有"
+    } ]
+  }, {
+    "tStartMs": 595566,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我很少在寺庙有这样的体验"
+    } ]
+  }, {
+    "tStartMs": 599600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "看来以后真的要选工作日来寺庙"
+    } ]
+  }, {
+    "tStartMs": 605933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "接下来我会安静的逛一会寺庙"
+    } ]
+  }, {
+    "tStartMs": 609066,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "然后把相机关掉"
+    } ]
+  }, {
+    "tStartMs": 613633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "现在我走到景区更里面了"
+    } ]
+  }, {
+    "tStartMs": 617433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这边反而有更多人"
+    } ]
+  }, {
+    "tStartMs": 620566,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "大家好像都在坐着乘凉休息"
+    } ]
+  }, {
+    "tStartMs": 624800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "可能因为天气真的太热了吧"
+    } ]
+  }, {
+    "tStartMs": 627966,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "你们看"
+    } ]
+  }, {
+    "tStartMs": 629933,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "从这个角度看刚刚的"
+    } ]
+  }, {
+    "tStartMs": 633266,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "寺院和石桥那一块好美啊"
+    } ]
+  }, {
+    "tStartMs": 638766,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "真的就像一幅画"
+    } ]
+  }, {
+    "tStartMs": 641800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我们走近一点"
+    } ]
+  }, {
+    "tStartMs": 648800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这垂下来的树叶就像"
+    } ]
+  }, {
+    "tStartMs": 652000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "画框上的装饰一样"
+    } ]
+  }, {
+    "tStartMs": 656866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我没想到这边还有一个"
+    } ]
+  }, {
+    "tStartMs": 663400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "碑林"
+    } ]
+  }, {
+    "tStartMs": 666233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "这特别吸引我这样的书法爱好者"
+    } ]
+  }, {
+    "tStartMs": 671466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "让我们进去看一下"
+    } ]
+  }, {
+    "tStartMs": 687833,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "这一块碑是清代乾隆皇帝留下的"
+    } ]
+  }, {
+    "tStartMs": 695800,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "哇，你们看阳光透过这一个"
+    } ]
+  }, {
+    "tStartMs": 699533,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "花窗打在地上的阴影"
+    } ]
+  }, {
+    "tStartMs": 707466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "又一只小猫"
+    } ]
+  }, {
+    "tStartMs": 711333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这只白猫比起我一般"
+    } ]
+  }, {
+    "tStartMs": 713400,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "看到的白猫要大胆很多"
+    } ]
+  }, {
+    "tStartMs": 718800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "一直闭着眼睛，打了个哈欠"
+    } ]
+  }, {
+    "tStartMs": 726066,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "我没想到这座碑林这么大"
+    } ]
+  }, {
+    "tStartMs": 733066,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "这里面还有一些石桌子石椅子"
+    } ]
+  }, {
+    "tStartMs": 737866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "还有一个像茶室一样的地方"
+    } ]
+  }, {
+    "tStartMs": 742466,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "整个碑林看起来就像一座小小的园林"
+    } ]
+  }, {
+    "tStartMs": 753433,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "没想到这里面还藏着一片竹林"
+    } ]
+  }, {
+    "tStartMs": 758366,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "特别茂密的竹子"
+    } ]
+  }, {
+    "tStartMs": 761666,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "就好像突然会有一只熊猫出现一样"
+    } ]
+  }, {
+    "tStartMs": 767866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这里面还有更多更多的碑刻"
+    } ]
+  }, {
+    "tStartMs": 773133,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "真是很安静的一片地呢"
+    } ]
+  }, {
+    "tStartMs": 781566,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "那你们应该知道书法有不同的字体"
+    } ]
+  }, {
+    "tStartMs": 786533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "像这种比较规整的就是楷书"
+    } ]
+  }, {
+    "tStartMs": 791800,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "这种笔画之间连起来的"
+    } ]
+  }, {
+    "tStartMs": 794866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "你们可能有点看不懂的"
+    } ]
+  }, {
+    "tStartMs": 797333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就叫行书"
+    } ]
+  }, {
+    "tStartMs": 799733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "如果连的不那么厉害"
+    } ]
+  }, {
+    "tStartMs": 802133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我们也会叫行楷"
+    } ]
+  }, {
+    "tStartMs": 807933,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "不仅有刻字"
+    } ]
+  }, {
+    "tStartMs": 809566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "还有像这样的刻画"
+    } ]
+  }, {
+    "tStartMs": 812333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这一位就是观音"
+    } ]
+  }, {
+    "tStartMs": 814933,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "对中国人来说很重要的神仙"
+    } ]
+  }, {
+    "tStartMs": 818266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "还有梅花的刻画"
+    } ]
+  }, {
+    "tStartMs": 821433,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "它没有画一整棵树的梅花"
+    } ]
+  }, {
+    "tStartMs": 825533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "而是画了其中的一枝"
+    } ]
+  }, {
+    "tStartMs": 829533,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "这么这么多的竹子"
+    } ]
+  }, {
+    "tStartMs": 831400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "真的让这个地方显得特别安静"
+    } ]
+  }, {
+    "tStartMs": 835833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "如果可以"
+    } ]
+  }, {
+    "tStartMs": 837400,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "真希望在这边待一整个下午"
+    } ]
+  }, {
+    "tStartMs": 840966,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "而且这里面还特别凉快"
+    } ]
+  }, {
+    "tStartMs": 843866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "但是现在已经3点多了"
+    } ]
+  }, {
+    "tStartMs": 846433,
+    "dDurationMs": 5567,
+    "segs": [ {
+      "utf8": "然后从焦山回到市区的"
+    } ]
+  }, {
+    "tStartMs": 852933,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "渡船最晚的一班是5:45"
+    } ]
+  }, {
+    "tStartMs": 857600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "所以我现在要抓紧一点"
+    } ]
+  }, {
+    "tStartMs": 861033,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "马上爬到山顶去看一下那座塔"
+    } ]
+  }, {
+    "tStartMs": 866966,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "哎，人就是不能太贪心"
+    } ]
+  }, {
+    "tStartMs": 870533,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "就是如果想要像我这样慢慢走慢慢看"
+    } ]
+  }, {
+    "tStartMs": 875200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "还给你们录视频的话"
+    } ]
+  }, {
+    "tStartMs": 878733,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "应该早上八九点就过来的"
+    } ]
+  }, {
+    "tStartMs": 882200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "可是我太懒了起不来"
+    } ]
+  }, {
+    "tStartMs": 885200,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "看到了吗"
+    } ]
+  }, {
+    "tStartMs": 886133,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "一只黑猫"
+    } ]
+  }, {
+    "tStartMs": 890133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "你在吃什么"
+    } ]
+  }, {
+    "tStartMs": 894833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "你在做什么呢"
+    } ]
+  }, {
+    "tStartMs": 897600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你的牙齿痒吗"
+    } ]
+  }, {
+    "tStartMs": 900333,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "没想到这里还藏着一个盆景园"
+    } ]
+  }, {
+    "tStartMs": 905433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "天呐"
+    } ]
+  }, {
+    "tStartMs": 907366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你们可以告诉我焦山"
+    } ]
+  }, {
+    "tStartMs": 909166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "还有什么地方是它没有的吗？"
+    } ]
+  }, {
+    "tStartMs": 912466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这个地方真的值得逛一天"
+    } ]
+  }, {
+    "tStartMs": 915800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "可惜我来的太晚了"
+    } ]
+  }, {
+    "tStartMs": 918400,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "只能选择性的逛一逛"
+    } ]
+  }, {
+    "tStartMs": 922333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "不过本来旅游就是有"
+    } ]
+  }, {
+    "tStartMs": 925000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "一些地方要错过的嘛"
+    } ]
+  }, {
+    "tStartMs": 930766,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "现在这里应该就正式上山了"
+    } ]
+  }, {
+    "tStartMs": 935166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我们走上台阶"
+    } ]
+  }, {
+    "tStartMs": 939133,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "说实话我第一次看到这样的标识"
+    } ]
+  }, {
+    "tStartMs": 943633,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "两个标识都是是告诉你上山"
+    } ]
+  }, {
+    "tStartMs": 947133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "而不是去哪个地方"
+    } ]
+  }, {
+    "tStartMs": 950166,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "不知道这样的标识是否真的有意义"
+    } ]
+  }, {
+    "tStartMs": 955833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "那我们选择这条上山之路吧"
+    } ]
+  }, {
+    "tStartMs": 962400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "爬山的时候"
+    } ]
+  }, {
+    "tStartMs": 963666,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "我特别特别喜欢这些"
+    } ]
+  }, {
+    "tStartMs": 966400,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "从树叶之间照下来的阳光"
+    } ]
+  }, {
+    "tStartMs": 973566,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "从这边可以看到市区"
+    } ]
+  }, {
+    "tStartMs": 976733,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "但是你能感觉到我们离市区很远"
+    } ]
+  }, {
+    "tStartMs": 980033,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我们隔绝了市区的噪音啊"
+    } ]
+  }, {
+    "tStartMs": 984866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "污染啊"
+    } ]
+  }, {
+    "tStartMs": 989466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "但我觉得这座山应该不太高"
+    } ]
+  }, {
+    "tStartMs": 993533,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "很快就可以爬到山顶了"
+    } ]
+  }, {
+    "tStartMs": 1032433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这座亭子的名字很有意思"
+    } ]
+  }, {
+    "tStartMs": 1041233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "叫做“吸江楼”"
+    } ]
+  }, {
+    "tStartMs": 1046033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这个就是“吸”"
+    } ]
+  }, {
+    "tStartMs": 1048666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "好像这座亭子要把旁边的"
+    } ]
+  }, {
+    "tStartMs": 1052333,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "长江的水全部吸进去一样"
+    } ]
+  }, {
+    "tStartMs": 1058933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "我感觉我到山顶了"
+    } ]
+  }, {
+    "tStartMs": 1063266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我觉得我的体力不如以前了"
+    } ]
+  }, {
+    "tStartMs": 1066366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "可能因为前不久感染了新冠吧"
+    } ]
+  }, {
+    "tStartMs": 1070066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "对身体的打击真的很大"
+    } ]
+  }, {
+    "tStartMs": 1081200,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "前面就是一座塔"
+    } ]
+  }, {
+    "tStartMs": 1087766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "这座塔叫“万佛塔”"
+    } ]
+  }, {
+    "tStartMs": 1090666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "因为里面据说有一万尊佛像"
+    } ]
+  }, {
+    "tStartMs": 1096000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但它已经不是原来的塔了"
+    } ]
+  }, {
+    "tStartMs": 1099000,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "是重建的"
+    } ]
+  }, {
+    "tStartMs": 1101466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "应该是有七层高"
+    } ]
+  }, {
+    "tStartMs": 1104966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我们在这边还可以"
+    } ]
+  }, {
+    "tStartMs": 1106466,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "看到远处的江景和市区"
+    } ]
+  }, {
+    "tStartMs": 1119633,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "但是这座万佛塔看起来好像不能进去"
+    } ]
+  }, {
+    "tStartMs": 1127000,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "门上上了锁"
+    } ]
+  }, {
+    "tStartMs": 1129433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但我能通过这个门缝看到里面"
+    } ]
+  }, {
+    "tStartMs": 1134366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "里面在施工"
+    } ]
+  }, {
+    "tStartMs": 1136366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "难怪不能进去呢"
+    } ]
+  }, {
+    "tStartMs": 1142333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "现在下午4:15"
+    } ]
+  }, {
+    "tStartMs": 1145866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我准备下山啦"
+    } ]
+  }, {
+    "tStartMs": 1151866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "现在我们下来了"
+    } ]
+  }, {
+    "tStartMs": 1153733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "到江边了"
+    } ]
+  }, {
+    "tStartMs": 1155866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "在这里可以欣赏江景"
+    } ]
+  }, {
+    "tStartMs": 1159333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "虽然已经下午4点多了"
+    } ]
+  }, {
+    "tStartMs": 1161200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "但是太阳还是挺晒的"
+    } ]
+  }, {
+    "tStartMs": 1167600,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "但说实话"
+    } ]
+  }, {
+    "tStartMs": 1169333,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "从这这座江中小山往"
+    } ]
+  }, {
+    "tStartMs": 1174166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "远处看的景色并不怎么好"
+    } ]
+  }, {
+    "tStartMs": 1177833,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "因为它自己本身就是江上最好的景色"
+    } ]
+  } ]
+}

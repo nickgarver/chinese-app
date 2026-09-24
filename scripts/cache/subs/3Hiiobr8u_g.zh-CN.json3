@@ -1,0 +1,883 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "下午好,今天我要做蓝莓玛芬"
+    } ]
+  }, {
+    "tStartMs": 6133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "所以在这个视频"
+    } ]
+  }, {
+    "tStartMs": 9666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "你们可能会学到"
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "很多关于烘焙的词汇"
+    } ]
+  }, {
+    "tStartMs": 16333,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "还有食材"
+    } ]
+  }, {
+    "tStartMs": 19300,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "还有烘焙的工具以及一些动作"
+    } ]
+  }, {
+    "tStartMs": 25700,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "比如说\"拿\",\"搅拌\"等等"
+    } ]
+  }, {
+    "tStartMs": 30933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "还有怎么用把字句"
+    } ]
+  }, {
+    "tStartMs": 34366,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "一会儿在我女儿的幼儿园有一个活动"
+    } ]
+  }, {
+    "tStartMs": 40866,
+    "dDurationMs": 5034,
+    "segs": [ {
+      "utf8": "家长需要带一些零食去幼儿园"
+    } ]
+  }, {
+    "tStartMs": 46133,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "所以我现在要开始了"
+    } ]
+  }, {
+    "tStartMs": 50300,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "老样子我们还是先来看一看"
+    } ]
+  }, {
+    "tStartMs": 55333,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "会用到哪一些食材"
+    } ]
+  }, {
+    "tStartMs": 59733,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "首先呢是面粉"
+    } ]
+  }, {
+    "tStartMs": 64200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "然后酸奶"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "糖、盐和蓝莓、黄油"
+    } ]
+  }, {
+    "tStartMs": 76933,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "鸡蛋、泡打粉和柠檬"
+    } ]
+  }, {
+    "tStartMs": 83400,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "现在我们来看一看"
+    } ]
+  }, {
+    "tStartMs": 86400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "可能会用到哪些工具"
+    } ]
+  }, {
+    "tStartMs": 91200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "一个蛋糕烤盘"
+    } ]
+  }, {
+    "tStartMs": 95733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后当然纸杯"
+    } ]
+  }, {
+    "tStartMs": 99466,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "一个大大的碗"
+    } ]
+  }, {
+    "tStartMs": 103066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "一把刮刀"
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "一个电子秤"
+    } ]
+  }, {
+    "tStartMs": 109566,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "然后还有一个刮丝器"
+    } ]
+  }, {
+    "tStartMs": 114766,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这是我今天的食谱"
+    } ]
+  }, {
+    "tStartMs": 118900,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "还是在小红书找的"
+    } ]
+  }, {
+    "tStartMs": 122433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "if you'd like to support my work"
+    } ]
+  }, {
+    "tStartMs": 124366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "you can join as a YouTube member"
+    } ]
+  }, {
+    "tStartMs": 126666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "you get early access to new videos"
+    } ]
+  }, {
+    "tStartMs": 129400,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "full transcripts andcore vocabulary lists in pinyin"
+    } ]
+  }, {
+    "tStartMs": 132733,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Chinese and English"
+    } ]
+  }, {
+    "tStartMs": 134000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "as well as audio files"
+    } ]
+  }, {
+    "tStartMs": 136100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "your support means a lot to me"
+    } ]
+  }, {
+    "tStartMs": 140300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "第一步"
+    } ]
+  }, {
+    "tStartMs": 142266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "200克面粉"
+    } ]
+  }, {
+    "tStartMs": 147600,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "我把面粉倒进碗里"
+    } ]
+  }, {
+    "tStartMs": 153133,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "多了一点点"
+    } ]
+  }, {
+    "tStartMs": 158200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "刚刚好"
+    } ]
+  }, {
+    "tStartMs": 161166,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "然后5克泡打粉"
+    } ]
+  }, {
+    "tStartMs": 169666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "放进杯子里"
+    } ]
+  }, {
+    "tStartMs": 174966,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "然后是100克蓝莓"
+    } ]
+  }, {
+    "tStartMs": 183100,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "然后150克酸奶"
+    } ]
+  }, {
+    "tStartMs": 190266,
+    "dDurationMs": 4934,
+    "segs": [ {
+      "utf8": "我用勺子舀酸奶"
+    } ]
+  }, {
+    "tStartMs": 196333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "我把酸奶放进碗里"
+    } ]
+  }, {
+    "tStartMs": 201900,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "现在是163克，太多了"
+    } ]
+  }, {
+    "tStartMs": 209933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 212200,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "现在刚刚好"
+    } ]
+  }, {
+    "tStartMs": 214933,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我把酸奶盒盖上"
+    } ]
+  }, {
+    "tStartMs": 219600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "然后70克黄油"
+    } ]
+  }, {
+    "tStartMs": 225300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我用刀切黄油"
+    } ]
+  }, {
+    "tStartMs": 230300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "再来一点"
+    } ]
+  }, {
+    "tStartMs": 233366,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "然后48克糖"
+    } ]
+  }, {
+    "tStartMs": 238900,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "很多中国人喜欢玛芬"
+    } ]
+  }, {
+    "tStartMs": 243166,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "或者蛋糕不要太甜"
+    } ]
+  }, {
+    "tStartMs": 246733,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "所以我不知道这个食谱"
+    } ]
+  }, {
+    "tStartMs": 251266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "对你们来说会不会不够甜"
+    } ]
+  }, {
+    "tStartMs": 255266,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "如果你喜欢吃甜的蛋糕"
+    } ]
+  }, {
+    "tStartMs": 259400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "可以多加一点糖"
+    } ]
+  }, {
+    "tStartMs": 263466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "我把糖倒进碗里"
+    } ]
+  }, {
+    "tStartMs": 267900,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "OK这是我刚刚融化的黄油"
+    } ]
+  }, {
+    "tStartMs": 273866,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "倒进这个碗里"
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "然后再把酸奶倒进去"
+    } ]
+  }, {
+    "tStartMs": 287066,
+    "dDurationMs": 6534,
+    "segs": [ {
+      "utf8": "接着我们打一个鸡蛋在里面"
+    } ]
+  }, {
+    "tStartMs": 294333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这是鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 295766,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "我们打一个鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 303200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "这是鸡蛋壳"
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "然后我看一下食谱"
+    } ]
+  }, {
+    "tStartMs": 314133,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "然后我们把糖倒进去"
+    } ]
+  }, {
+    "tStartMs": 322300,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "再放一克盐"
+    } ]
+  }, {
+    "tStartMs": 326600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "一克可能抓一下"
+    } ]
+  }, {
+    "tStartMs": 332200,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "现在我们把它们搅拌均匀"
+    } ]
+  }, {
+    "tStartMs": 339133,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "我用刮刀把食材搅拌均匀"
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 6466,
+    "segs": [ {
+      "utf8": "这是我们刚才放的面粉和泡打粉"
+    } ]
+  }, {
+    "tStartMs": 353800,
+    "dDurationMs": 8833,
+    "segs": [ {
+      "utf8": "现在我们把搅拌好的液体放进粉里面"
+    } ]
+  }, {
+    "tStartMs": 363066,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "我把它们倒进来"
+    } ]
+  }, {
+    "tStartMs": 367666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这个动作是“倒”"
+    } ]
+  }, {
+    "tStartMs": 374166,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "我用刮刀把这些液体刮下来"
+    } ]
+  }, {
+    "tStartMs": 380666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "不要浪费"
+    } ]
+  }, {
+    "tStartMs": 383100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "这个动作是“刮”"
+    } ]
+  }, {
+    "tStartMs": 388966,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "现在我要洗一下柠檬"
+    } ]
+  }, {
+    "tStartMs": 395133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这是一张厨房纸"
+    } ]
+  }, {
+    "tStartMs": 398800,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "我用厨房纸把柠檬擦干"
+    } ]
+  }, {
+    "tStartMs": 405566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后"
+    } ]
+  }, {
+    "tStartMs": 408666,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "我擦一点柠檬皮在里面"
+    } ]
+  }, {
+    "tStartMs": 418533,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "很多人说蛋糕里面"
+    } ]
+  }, {
+    "tStartMs": 420933,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "加一点柠檬皮会更香"
+    } ]
+  }, {
+    "tStartMs": 425800,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "味道更丰富更好吃"
+    } ]
+  }, {
+    "tStartMs": 429933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "你觉得呢"
+    } ]
+  }, {
+    "tStartMs": 432066,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "现在我们把它们搅拌均匀"
+    } ]
+  }, {
+    "tStartMs": 437800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看"
+    } ]
+  }, {
+    "tStartMs": 445266,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "搅拌好了"
+    } ]
+  }, {
+    "tStartMs": 446900,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "然后现在放进2/3的蓝莓"
+    } ]
+  }, {
+    "tStartMs": 452933,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "剩下的1/3我们用来装饰"
+    } ]
+  }, {
+    "tStartMs": 457666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "放在最上面"
+    } ]
+  }, {
+    "tStartMs": 460733,
+    "dDurationMs": 6433,
+    "segs": [ {
+      "utf8": "我把蓝莓倒进这个碗里面"
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "好，现在再轻轻的搅拌均匀"
+    } ]
+  }, {
+    "tStartMs": 477333,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "好，现在我把纸杯放进烤盘"
+    } ]
+  }, {
+    "tStartMs": 485866,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我也不知道会有多少个"
+    } ]
+  }, {
+    "tStartMs": 491466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "看一下吧"
+    } ]
+  }, {
+    "tStartMs": 495700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "先放8个"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 7433,
+    "segs": [ {
+      "utf8": "然后我们把面糊放进纸杯"
+    } ]
+  }, {
+    "tStartMs": 516366,
+    "dDurationMs": 7167,
+    "segs": [ {
+      "utf8": "然后现在我们把这些蓝莓放在最上面"
+    } ]
+  }, {
+    "tStartMs": 523533,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "装饰一下"
+    } ]
+  }, {
+    "tStartMs": 530500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "不是很均匀"
+    } ]
+  }, {
+    "tStartMs": 532533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "有的多有的少"
+    } ]
+  }, {
+    "tStartMs": 535333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "希望还可以"
+    } ]
+  }, {
+    "tStartMs": 537300,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "全部放好了"
+    } ]
+  }, {
+    "tStartMs": 540266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "烤箱我已经预热了"
+    } ]
+  }, {
+    "tStartMs": 543733,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后我们把蛋糕放进去"
+    } ]
+  }, {
+    "tStartMs": 554733,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "开180度 25分钟"
+    } ]
+  }, {
+    "tStartMs": 559900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "那我们现在就等它做好吧"
+    } ]
+  }, {
+    "tStartMs": 564600,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "现在我的厨房一片混乱"
+    } ]
+  }, {
+    "tStartMs": 568366,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "我要收拾和清理一下"
+    } ]
+  }, {
+    "tStartMs": 574533,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "剩下的柠檬放冰箱"
+    } ]
+  }, {
+    "tStartMs": 578566,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "剩下的纸杯放柜子里"
+    } ]
+  }, {
+    "tStartMs": 589933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "然后再洗一下碗"
+    } ]
+  }, {
+    "tStartMs": 593366,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "垃圾丢进垃圾桶"
+    } ]
+  }, {
+    "tStartMs": 599333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "脏的碗放进洗碗机"
+    } ]
+  }, {
+    "tStartMs": 609066,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "我用抹布把台面擦干净"
+    } ]
+  }, {
+    "tStartMs": 614866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好了"
+    } ]
+  }, {
+    "tStartMs": 616666,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "我已经收拾好了"
+    } ]
+  }, {
+    "tStartMs": 620266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "现在我的厨房不脏了"
+    } ]
+  }, {
+    "tStartMs": 624066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "也不乱了"
+    } ]
+  }, {
+    "tStartMs": 626266,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "现在很干净很整齐"
+    } ]
+  }, {
+    "tStartMs": 631600,
+    "dDurationMs": 6466,
+    "segs": [ {
+      "utf8": "我用一张毛巾擦干我的手"
+    } ]
+  }, {
+    "tStartMs": 638900,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "现在我们来看一看蛋糕怎么样了"
+    } ]
+  }, {
+    "tStartMs": 647900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我感觉我要迟到了"
+    } ]
+  }, {
+    "tStartMs": 651733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "得快一点"
+    } ]
+  }, {
+    "tStartMs": 654666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "我戴上了防烫手套"
+    } ]
+  }, {
+    "tStartMs": 659766,
+    "dDurationMs": 8167,
+    "segs": [ {
+      "utf8": "然后我把烤盘端出来看一下"
+    } ]
+  }, {
+    "tStartMs": 668966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇"
+    } ]
+  }, {
+    "tStartMs": 670666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "看着很不错对不对"
+    } ]
+  }, {
+    "tStartMs": 674966,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 675700,
+    "dDurationMs": 7666,
+    "segs": [ {
+      "utf8": "现在我要把蛋糕放进这个盒子里面"
+    } ]
+  }, {
+    "tStartMs": 684400,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "一个"
+    } ]
+  }, {
+    "tStartMs": 686366,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "2个... 7个"
+    } ]
+  }, {
+    "tStartMs": 692100,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "8个"
+    } ]
+  }, {
+    "tStartMs": 693800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "刚刚好OK"
+    } ]
+  }, {
+    "tStartMs": 697700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "那我要快点出发了"
+    } ]
+  }, {
+    "tStartMs": 701766,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "为什么每一次那么着急"
+    } ]
+  }, {
+    "tStartMs": 705366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "那我们下个视频见"
+    } ]
+  }, {
+    "tStartMs": 708666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "祝我今天好运"
+    } ]
+  }, {
+    "tStartMs": 711600,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "再见谢谢你们观看我的视频"
+    } ]
+  }, {
+    "tStartMs": 716300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "再见"
+    } ]
+  } ]
+}

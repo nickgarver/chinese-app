@@ -1,0 +1,1093 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 27966,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Hi everyone, today I've come to Shenzhen"
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "a young city that I really like"
+    } ]
+  }, {
+    "tStartMs": 36666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "Now I'm at Shenzhen Talent Park"
+    } ]
+  }, {
+    "tStartMs": 41766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "and this is also my first time here"
+    } ]
+  }, {
+    "tStartMs": 44866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The scenery here is super beautiful"
+    } ]
+  }, {
+    "tStartMs": 48500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Let me show you"
+    } ]
+  }, {
+    "tStartMs": 52433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "See, isn't it beautiful"
+    } ]
+  }, {
+    "tStartMs": 56200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "Even though it's summer now"
+    } ]
+  }, {
+    "tStartMs": 59100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "But with the sea breeze blowing,"
+    } ]
+  }, {
+    "tStartMs": 61900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "it feels very cool."
+    } ]
+  }, {
+    "tStartMs": 66700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's a little past 1 PM now,"
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "but there are still a lot of people in the park."
+    } ]
+  }, {
+    "tStartMs": 75166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "This is a park by the sea."
+    } ]
+  }, {
+    "tStartMs": 78366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "You can see that"
+    } ]
+  }, {
+    "tStartMs": 80266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "it's right by the sea,"
+    } ]
+  }, {
+    "tStartMs": 82466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "a coastal park."
+    } ]
+  }, {
+    "tStartMs": 85133,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "There's a uniquely shaped building here."
+    } ]
+  }, {
+    "tStartMs": 94933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "What does this building look like?"
+    } ]
+  }, {
+    "tStartMs": 97766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Doesn't it look like a rocket?"
+    } ]
+  }, {
+    "tStartMs": 103533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "This park is very clean."
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "I haven't seen a single piece of trash yet."
+    } ]
+  }, {
+    "tStartMs": 114733,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "I noticed that above this park,"
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "there are many drones flying around."
+    } ]
+  }, {
+    "tStartMs": 123966,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "It turns out this park can use drones to deliver food."
+    } ]
+  }, {
+    "tStartMs": 140966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "It says the steps to order here."
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "1, 2, 3, 4, 5."
+    } ]
+  }, {
+    "tStartMs": 147733,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "Its operating hours are 10 a.m. to 8 p.m."
+    } ]
+  }, {
+    "tStartMs": 153600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Let's give it a try."
+    } ]
+  }, {
+    "tStartMs": 155800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Tap on this drone delivery."
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "First, scan this QR code with WeChat."
+    } ]
+  }, {
+    "tStartMs": 167400,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "Here you can order food delivery."
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "There's quite a selection."
+    } ]
+  }, {
+    "tStartMs": 176166,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "Rice, drinks, ice cream, popsicles"
+    } ]
+  }, {
+    "tStartMs": 180833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Some daily necessities can also be delivered."
+    } ]
+  }, {
+    "tStartMs": 184133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's too hot today."
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Let's have a popsicle."
+    } ]
+  }, {
+    "tStartMs": 188100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I ordered three popsicles."
+    } ]
+  }, {
+    "tStartMs": 189900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "Chocolate popsicle, 15 yuan."
+    } ]
+  }, {
+    "tStartMs": 192666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "But the delivery fee is 11 yuan."
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "The delivery fee costs more than the popsicle."
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "It gave me a discount."
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "So I only need to pay 10 yuan for the ice cream."
+    } ]
+  }, {
+    "tStartMs": 206433,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "You can see the current status of your drone \"delivery person\" here."
+    } ]
+  }, {
+    "tStartMs": 215200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Now it's waiting for takeoff."
+    } ]
+  }, {
+    "tStartMs": 217433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "The item is boarding."
+    } ]
+  }, {
+    "tStartMs": 220066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "It will be delivered soon."
+    } ]
+  }, {
+    "tStartMs": 229833,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Another drone is delivering food."
+    } ]
+  }, {
+    "tStartMs": 233966,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "It will land on top of the delivery locker."
+    } ]
+  }, {
+    "tStartMs": 239700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Then it places the delivery in the locker."
+    } ]
+  }, {
+    "tStartMs": 245466,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "After dropping off, it will take off again."
+    } ]
+  }, {
+    "tStartMs": 250233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "To deliver the next order."
+    } ]
+  }, {
+    "tStartMs": 251866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Just like a delivery person."
+    } ]
+  }, {
+    "tStartMs": 258166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "One drone leaves."
+    } ]
+  }, {
+    "tStartMs": 259900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Another drone arrives."
+    } ]
+  }, {
+    "tStartMs": 264366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "We use the pickup code to retrieve our order."
+    } ]
+  }, {
+    "tStartMs": 280400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "The locker door is open."
+    } ]
+  }, {
+    "tStartMs": 281766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Please take out the meal box as soon as possible."
+    } ]
+  }, {
+    "tStartMs": 285300,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "Open the box, and here is our food delivery."
+    } ]
+  }, {
+    "tStartMs": 290866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Then we fold the box."
+    } ]
+  }, {
+    "tStartMs": 295866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Put it back here for recycling."
+    } ]
+  }, {
+    "tStartMs": 308466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "It only took 10 minutes."
+    } ]
+  }, {
+    "tStartMs": 310900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Our ice cream arrived."
+    } ]
+  }, {
+    "tStartMs": 312933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's really super fast."
+    } ]
+  }, {
+    "tStartMs": 316133,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Here is the chocolate ice cream we bought."
+    } ]
+  }, {
+    "tStartMs": 322766,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "The drone-delivered ice cream and gelato are especially delicious"
+    } ]
+  }, {
+    "tStartMs": 328900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It's too hot today"
+    } ]
+  }, {
+    "tStartMs": 330933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "The ice cream is melting right away"
+    } ]
+  }, {
+    "tStartMs": 333900,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I have to say, technology is really advancing more and more"
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Technology is changing our lives"
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Even learning languages is becoming more and more convenient"
+    } ]
+  }, {
+    "tStartMs": 344966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "Now I want to share with you our old friend FluentU"
+    } ]
+  }, {
+    "tStartMs": 349500,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "It recently launched a very practical new feature"
+    } ]
+  }, {
+    "tStartMs": 355766,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "You can practice Chinese by chatting with it about any topic."
+    } ]
+  }, {
+    "tStartMs": 359900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "If you make a mistake,"
+    } ]
+  }, {
+    "tStartMs": 361466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "it will help you correct it."
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "If you don't know how to express something,"
+    } ]
+  }, {
+    "tStartMs": 364966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "it will guide you step by step."
+    } ]
+  }, {
+    "tStartMs": 367166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It's like having a teacher anytime,"
+    } ]
+  }, {
+    "tStartMs": 369366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "practicing spoken language with you."
+    } ]
+  }, {
+    "tStartMs": 371733,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "I also like using real videos on FluentU to learn languages."
+    } ]
+  }, {
+    "tStartMs": 376500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Because you learn expressions that native speakers actually use"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "instead of the stiff sentences from textbooks"
+    } ]
+  }, {
+    "tStartMs": 383466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "We can also use any video with subtitles on YouTube and Netflix"
+    } ]
+  }, {
+    "tStartMs": 388100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "to learn content we're genuinely interested in"
+    } ]
+  }, {
+    "tStartMs": 391266,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "When we come across a word we don't know"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "we can look it up and add it to our personal word list"
+    } ]
+  }, {
+    "tStartMs": 395766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "Then FluentU will automatically arrange reviews and practice for you"
+    } ]
+  }, {
+    "tStartMs": 399200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "making it easier to remember"
+    } ]
+  }, {
+    "tStartMs": 401300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "If you're interested,"
+    } ]
+  }, {
+    "tStartMs": 403200,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "quickly click my link"
+    } ]
+  }, {
+    "tStartMs": 404866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "to try out FluentU's new features."
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "You can also get exclusive discounts."
+    } ]
+  }, {
+    "tStartMs": 410633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I hope this can help you"
+    } ]
+  }, {
+    "tStartMs": 412233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "learn Chinese more easily and naturally."
+    } ]
+  }, {
+    "tStartMs": 441300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The 34-degree heat is unbearable,"
+    } ]
+  }, {
+    "tStartMs": 444900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "so now we're shopping at the mall."
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "The sweeping robot is working diligently."
+    } ]
+  }, {
+    "tStartMs": 457500,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "The streets here are very clean."
+    } ]
+  }, {
+    "tStartMs": 462566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "There are many, many shops."
+    } ]
+  }, {
+    "tStartMs": 465100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "And there are high-rise buildings."
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "It's a famous commercial area."
+    } ]
+  }, {
+    "tStartMs": 477833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "It's the World Cup season right now."
+    } ]
+  }, {
+    "tStartMs": 481500,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "There's a big soccer ball model ahead."
+    } ]
+  }, {
+    "tStartMs": 491400,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "This street has many specialty restaurants."
+    } ]
+  }, {
+    "tStartMs": 500033,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "This restaurant looks like a palace, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 504700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "Decorated like a palace"
+    } ]
+  }, {
+    "tStartMs": 509800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Looks very high-end and luxurious"
+    } ]
+  }, {
+    "tStartMs": 520133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I thought they were real"
+    } ]
+  }, {
+    "tStartMs": 521666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But they are fake"
+    } ]
+  }, {
+    "tStartMs": 523466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Fake flowers"
+    } ]
+  }, {
+    "tStartMs": 524933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "But they look real"
+    } ]
+  }, {
+    "tStartMs": 534533,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "This seems to be a Mexican or Spanish restaurant"
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It's a Spanish restaurant."
+    } ]
+  }, {
+    "tStartMs": 544033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Spanish traditional paella."
+    } ]
+  }, {
+    "tStartMs": 553433,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "The atmosphere looks amazing."
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Every store is unique and beautiful."
+    } ]
+  }, {
+    "tStartMs": 564200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "It makes you want to take photos."
+    } ]
+  }, {
+    "tStartMs": 572133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "This one is a Mexican restaurant."
+    } ]
+  }, {
+    "tStartMs": 580666,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "The pink door is especially cute."
+    } ]
+  }, {
+    "tStartMs": 586933,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Because it's summer now."
+    } ]
+  }, {
+    "tStartMs": 589100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The weather is really too hot."
+    } ]
+  }, {
+    "tStartMs": 591500,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "So even outside, I have a small fan."
+    } ]
+  }, {
+    "tStartMs": 598233,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "But a small fan is still not enough."
+    } ]
+  }, {
+    "tStartMs": 601400,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "At 34 degrees Celsius heat,"
+    } ]
+  }, {
+    "tStartMs": 603066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "how can one fan be enough?"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "These are real flowers."
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Although the colors aren't that pretty,"
+    } ]
+  }, {
+    "tStartMs": 614233,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "they are indeed real."
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "There's an elephant on top of that building"
+    } ]
+  }, {
+    "tStartMs": 623833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Its trunk is very, very long"
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Almost touching the ground"
+    } ]
+  }, {
+    "tStartMs": 635500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "There's a huge screen here"
+    } ]
+  }, {
+    "tStartMs": 640433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "A ton of people are queuing up here"
+    } ]
+  }, {
+    "tStartMs": 643400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "They're lining up to get into this store"
+    } ]
+  }, {
+    "tStartMs": 650500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "I'm so curious"
+    } ]
+  }, {
+    "tStartMs": 651566,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "So we're queuing up too to see what's inside"
+    } ]
+  }, {
+    "tStartMs": 656733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Why can it attract so many people?"
+    } ]
+  }, {
+    "tStartMs": 664633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Finally got in."
+    } ]
+  }, {
+    "tStartMs": 668000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I came back to life with the AC."
+    } ]
+  }, {
+    "tStartMs": 673000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "As soon as I entered, I saw a very huge"
+    } ]
+  }, {
+    "tStartMs": 677833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "very realistic statue."
+    } ]
+  }, {
+    "tStartMs": 682866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Oh my god, it's terrifying, so lifelike."
+    } ]
+  }, {
+    "tStartMs": 685366,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Like a giant."
+    } ]
+  }, {
+    "tStartMs": 691066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Everyone, look at his hands and feet."
+    } ]
+  }, {
+    "tStartMs": 695666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Very detailed."
+    } ]
+  }, {
+    "tStartMs": 701566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Especially realistic."
+    } ]
+  }, {
+    "tStartMs": 712500,
+    "dDurationMs": 6966,
+    "segs": [ {
+      "utf8": "Similarly, this is a very realistic moving cow."
+    } ]
+  }, {
+    "tStartMs": 721466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Take a look."
+    } ]
+  }, {
+    "tStartMs": 722733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Is it realistic?"
+    } ]
+  }, {
+    "tStartMs": 725133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Pretty awesome, right?"
+    } ]
+  }, {
+    "tStartMs": 751000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "I thought it was a free exhibition."
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "But it's actually a store."
+    } ]
+  }, {
+    "tStartMs": 757133,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "It's an artful store"
+    } ]
+  }, {
+    "tStartMs": 762966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's very successful"
+    } ]
+  }, {
+    "tStartMs": 763966,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Because it attracts a lot of people to come and see"
+    } ]
+  }, {
+    "tStartMs": 793700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "Now I've come to Shenzhen Bay Park"
+    } ]
+  }, {
+    "tStartMs": 798066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Taking a walk after dinner"
+    } ]
+  }, {
+    "tStartMs": 801366,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "There are tons of people here on weekends"
+    } ]
+  }, {
+    "tStartMs": 805733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Many people are sitting by the sea enjoying the breeze"
+    } ]
+  }, {
+    "tStartMs": 811466,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "Many people are also riding bicycles"
+    } ]
+  }, {
+    "tStartMs": 815100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Riding a bike along the seaside"
+    } ]
+  }, {
+    "tStartMs": 819966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "It's evening now"
+    } ]
+  }, {
+    "tStartMs": 823466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "The sky has just gotten a little dark"
+    } ]
+  }, {
+    "tStartMs": 826366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "The buildings over there have their lights on"
+    } ]
+  }, {
+    "tStartMs": 830566,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "When it gets a little later"
+    } ]
+  }, {
+    "tStartMs": 832700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "When the sky gets darker"
+    } ]
+  }, {
+    "tStartMs": 835166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "If all the buildings over there light up"
+    } ]
+  }, {
+    "tStartMs": 838266,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "That will be a really beautiful night view"
+    } ]
+  }, {
+    "tStartMs": 847266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "There are so many big rocks here."
+    } ]
+  }, {
+    "tStartMs": 853200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "It's packed with people over there."
+    } ]
+  }, {
+    "tStartMs": 857000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "Many people are taking photos there."
+    } ]
+  }, {
+    "tStartMs": 861366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I can't see it very clearly."
+    } ]
+  }, {
+    "tStartMs": 863000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "It's a bit blurry."
+    } ]
+  }, {
+    "tStartMs": 864733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "But over there, it's a mountain."
+    } ]
+  }, {
+    "tStartMs": 867533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "There's a big bridge here."
+    } ]
+  }, {
+    "tStartMs": 872700,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "The sound of the sea water is really comfortable."
+    } ]
+  }, {
+    "tStartMs": 877366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Blowing in the cool sea breeze"
+    } ]
+  }, {
+    "tStartMs": 880733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "From here you can see more buildings"
+    } ]
+  }, {
+    "tStartMs": 884433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Everyone is waiting for the night view"
+    } ]
+  }, {
+    "tStartMs": 887500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "So interesting"
+    } ]
+  } ]
+}

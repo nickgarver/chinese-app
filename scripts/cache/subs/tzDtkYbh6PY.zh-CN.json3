@@ -1,0 +1,2221 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "hāi péng yǒu men\n嗨 朋 友 们"
+    } ]
+  }, {
+    "tStartMs": 1166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "dà jiā zǎo shàng hǎo a\n大 家 早 上 好 啊"
+    } ]
+  }, {
+    "tStartMs": 2366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "wǒ shì MINI huān yíng nǐ lái dào wǒ de pín dào\n我 是 MINI 欢 迎 你 来 到 我 的 频 道"
+    } ]
+  }, {
+    "tStartMs": 5633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ ne jīn tiān zhè qī jié mù huì dài\n我 呢 今 天 这 期 节 目 会 带"
+    } ]
+  }, {
+    "tStartMs": 7833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "nǐ men yī kuài qù guàng chāo shì\n你 们 一 块 去 逛 超 市"
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "zài chāo shì lǐ xué xí yī xiē\n在 超 市 里 学 习 一 些"
+    } ]
+  }, {
+    "tStartMs": 12600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "fēi cháng shí yòng de zhōng wén biǎo dá\n非 常 实 用 的 中 文 表 达"
+    } ]
+  }, {
+    "tStartMs": 18000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "wǒ zhǔn bèi dài yí gè mào zi\n我 准 备 戴 一 个 帽 子"
+    } ]
+  }, {
+    "tStartMs": 19966,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "zhè ge shì bàng qiú mào bàng qiú mào èn\n这 个 是 棒 球 帽 棒 球 帽 嗯"
+    } ]
+  }, {
+    "tStartMs": 24100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "rán hòu wǒ jīn tiān tè bié xiǎng dài zhè ge mào zi\n然 后 我 今 天 特 别 想 戴 这 个 帽 子"
+    } ]
+  }, {
+    "tStartMs": 27400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "yīn wèi qiāo qiāo de gào sù nǐ men méi yǒu xǐ tóu fā\n因 为 悄 悄 的 告 诉 你 们 没 有 洗 头 发"
+    } ]
+  }, {
+    "tStartMs": 31900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "hā hā jué de tóu fà yǒu diǎn yóu\n哈 哈 觉 得 头 发 有 点 油"
+    } ]
+  }, {
+    "tStartMs": 35200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "tóu fà yóu\n头 发 油"
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "suǒ yǐ ne jiù dài yí gè mào zi lái zhē yī xià hā hā\n所 以 呢 就 戴 一 个 帽 子 来 遮 一 下 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 44566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "qù chāo shì zhī qián\n去 超 市 之 前"
+    } ]
+  }, {
+    "tStartMs": 47366,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "ya zhè ge xiàng jī tài hǎo xiào le\n呀 这 个 相 机 太 好 笑 了"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ yí dìng yào jì de ná zhè ge gòu wù dài\n我 一 定 要 记 得 拿 这 个 购 物 袋"
+    } ]
+  }, {
+    "tStartMs": 53866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "zhè ge shì gòu wù dài\n这 个 是 购 物 袋"
+    } ]
+  }, {
+    "tStartMs": 55700,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "wǒ xiàn zài yào bǎ gòu wù dài fàng jìn bēi bāo\n我 现 在 要 把 购 物 袋 放 进 背 包"
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "zhè shì yí gè bǎ zì jù\n这 是 一 个 把 字 句"
+    } ]
+  }, {
+    "tStartMs": 64066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "bǎ gòu wù dài fàng jìn bēi bāo\n把 购 物 袋 放 进 背 包"
+    } ]
+  }, {
+    "tStartMs": 70500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "nǐ yě kě yǐ shuō\n你 也 可 以 说"
+    } ]
+  }, {
+    "tStartMs": 71866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "wǒ bǎ shǒu jī fàng jìn bēi bāo\n我 把 手 机 放 进 背 包"
+    } ]
+  }, {
+    "tStartMs": 76500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "wǒ bǎ yǎn jìng fàng jìn bēi bāo\n我 把 眼 镜 放 进 背 包"
+    } ]
+  }, {
+    "tStartMs": 79966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "dōu kě yǐ bǎ zì jù\n都 可 以 把 字 句"
+    } ]
+  }, {
+    "tStartMs": 81666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "bǎ shén me dōng xī fàng jìn nǎ lǐ\n把 什 么 东 西 放 进 哪 里"
+    } ]
+  }, {
+    "tStartMs": 89100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "hǎo la zhè huí kě yǐ zǒu le\n好 啦 这 回 可 以 走 了"
+    } ]
+  }, {
+    "tStartMs": 91966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "gǎn jué jīn tiān zǎo chén yǒu diǎn liáng ó hā hā\n感 觉 今 天 早 晨 有 点 凉 哦 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "wǒ men dào chāo shì la\n我 们 到 超 市 啦"
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "hǎo jìn chāo shì xiān\n好 进 超 市 先"
+    } ]
+  }, {
+    "tStartMs": 101433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "zhè lǐ ne wǒ men xiān tuī yí gè gòu wù chē\n这 里 呢 我 们 先 推 一 个 购 物 车"
+    } ]
+  }, {
+    "tStartMs": 105066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "zhè ge shì gòu wù chē gòu wù chē tuī gòu wù chē\n这 个 是 购 物 车 购 物 车 推 购 物 车"
+    } ]
+  }, {
+    "tStartMs": 112066,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "rán hòu wǒ men jìn rù chāo shì jìn rù chāo shì\n然 后 我 们 进 入 超 市 进 入 超 市"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "āi nǐ men zhī dào ma\n哎 你 们 知 道 吗"
+    } ]
+  }, {
+    "tStartMs": 117933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ yī jìn lái jiù kàn dào le\n我 一 进 来 就 看 到 了"
+    } ]
+  }, {
+    "tStartMs": 119266,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "yí gè tè bié huá suàn de shuǐ guǒ zhè ge\n一 个 特 别 划 算 的 水 果 这 个"
+    } ]
+  }, {
+    "tStartMs": 124400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "nǐ men kàn zhè ge pú táo\n你 们 看 这 个 葡 萄"
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "zhè ge shì pú táo\n这 个 是 葡 萄"
+    } ]
+  }, {
+    "tStartMs": 128333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "rán hòu cái wǔ kuài jiǔ máo jiǔ yí gè āi\n然 后 才 五 块 九 毛 九 一 个 哎"
+    } ]
+  }, {
+    "tStartMs": 131866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "tè jià tè jià\n特 价 特 价"
+    } ]
+  }, {
+    "tStartMs": 134866,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "rán hòu tā kàn zhe hěn xīn xiān\n然 后 它 看 着 很 新 鲜"
+    } ]
+  }, {
+    "tStartMs": 139700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "wa\n哇"
+    } ]
+  }, {
+    "tStartMs": 141266,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "zhè ge pú táo kàn zhe hěn xīn xiān hěn xīn xiān\n这 个 葡 萄 看 着 很 新 鲜 很 新 鲜"
+    } ]
+  }, {
+    "tStartMs": 144500,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "wǒ jué dìng mǎi yī hé\n我 决 定 买 一 盒"
+    } ]
+  }, {
+    "tStartMs": 148666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "dàn shì ne\n但 是 呢"
+    } ]
+  }, {
+    "tStartMs": 149200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nǐ men kàn zhè ge hé zi yǒu yì diǎn diǎn huài le\n你 们 看 这 个 盒 子 有 一 点 点 坏 了"
+    } ]
+  }, {
+    "tStartMs": 151900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué dìng zài huàn yí gè huàn yí gè\n所 以 我 决 定 再 换 一 个 换 一 个"
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "yīn wèi mǎi dōng xī ne\n因 为 买 东 西 呢"
+    } ]
+  }, {
+    "tStartMs": 160400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ tōng cháng huì tiāo xuǎn de\n我 通 常 会 挑 选 的"
+    } ]
+  }, {
+    "tStartMs": 162666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "tiāo xuǎn yào tiāo xuǎn yī xià\n挑 选 要 挑 选 一 下"
+    } ]
+  }, {
+    "tStartMs": 164700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "tiāo xuǎn bǐ jiào xīn xiān de\n挑 选 比 较 新 鲜 的"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "kàn qǐ lái bǐ jiào hǎo de\n看 起 来 比 较 好 的"
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "zhè shì wǒ dì yī cì zǎo chén lái guàng chāo shì ó\n这 是 我 第 一 次 早 晨 来 逛 超 市 哦"
+    } ]
+  }, {
+    "tStartMs": 173100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "xiàn zài shì shàng wǔ\n现 在 是 上 午"
+    } ]
+  }, {
+    "tStartMs": 174900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "zěn me gǎn jué rén zhè me duō\n怎 么 感 觉 人 这 么 多"
+    } ]
+  }, {
+    "tStartMs": 177166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "gǎn jué rén bǐ wǎn shàng hái duō\n感 觉 人 比 晚 上 还 多"
+    } ]
+  }, {
+    "tStartMs": 180066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "zhè ge yě hěn huá suàn\n这 个 也 很 划 算"
+    } ]
+  }, {
+    "tStartMs": 183100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "zhè ge shì jú zi ba\n这 个 是 橘 子 吧"
+    } ]
+  }, {
+    "tStartMs": 184866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "zhè ge shì chéng zi\n这 个 是 橙 子"
+    } ]
+  }, {
+    "tStartMs": 186566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "chéng zi hái shì jú zi\n橙 子 还 是 橘 子"
+    } ]
+  }, {
+    "tStartMs": 187866,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "gǎo bù qīng chǔ\n搞 不 清 楚"
+    } ]
+  }, {
+    "tStartMs": 190333,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "dàn shì zhè yī bāo shì wǔ kuài jiǔ máo jiǔ\n但 是 这 一 包 是 五 块 九 毛 九"
+    } ]
+  }, {
+    "tStartMs": 194733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "yě shì tè jià wǔ kuài jiǔ máo jiǔ\n也 是 特 价 五 块 九 毛 九"
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "ó\n哦"
+    } ]
+  }, {
+    "tStartMs": 200166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "wǒ jué de hěn huá suàn ne\n我 觉 得 很 划 算 呢"
+    } ]
+  }, {
+    "tStartMs": 203700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "lái yī bāo\n来 一 包"
+    } ]
+  }, {
+    "tStartMs": 205866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "a dàn shì ne\n啊 但 是 呢"
+    } ]
+  }, {
+    "tStartMs": 206866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "wǒ hū rán yì shí dào yí gè wèn tí\n我 忽 然 意 识 到 一 个 问 题"
+    } ]
+  }, {
+    "tStartMs": 208766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "jiù shì zhè ge jú zi tā fēi cháng de zhòng āi\n就 是 这 个 橘 子 它 非 常 的 重 哎"
+    } ]
+  }, {
+    "tStartMs": 212466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ kě néng bèi bù huí qù\n我 觉 得 我 可 能 背 不 回 去"
+    } ]
+  }, {
+    "tStartMs": 216466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "tā tài zhòng le tài zhòng le\n它 太 重 了 太 重 了"
+    } ]
+  }, {
+    "tStartMs": 219366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "suàn le fàng qì ba\n算 了 放 弃 吧"
+    } ]
+  }, {
+    "tStartMs": 221666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "zhè ge zhēn de tài zhòng le suàn le\n这 个 真 的 太 重 了 算 了"
+    } ]
+  }, {
+    "tStartMs": 224366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "bú yào le wǒ bú yào le\n不 要 了 我 不 要 了"
+    } ]
+  }, {
+    "tStartMs": 226533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "wǒ bǎ tā fàng huí qù le\n我 把 它 放 回 去 了"
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "fàng huí qù le èn\n放 回 去 了 嗯"
+    } ]
+  }, {
+    "tStartMs": 231933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "èn zhè biān ne\n嗯 这 边 呢"
+    } ]
+  }, {
+    "tStartMs": 233066,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "shì shuǐ guǒ qū\n是 水 果 区"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "yǒu hěn duō de shuǐ guǒ\n有 很 多 的 水 果"
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "rán hòu nǐ men kàn\n然 后 你 们 看"
+    } ]
+  }, {
+    "tStartMs": 238733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "zhè ge shì yí gè dài zi\n这 个 是 一 个 袋 子"
+    } ]
+  }, {
+    "tStartMs": 241466,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "sù liào dài sù liào dài\n塑 料 袋 塑 料 袋"
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "jiù shì rú guǒ nǐ yào mǎi shuǐ guǒ\n就 是 如 果 你 要 买 水 果"
+    } ]
+  }, {
+    "tStartMs": 246966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "huò zhě shì shū cài de huà ne\n或 者 是 蔬 菜 的 话 呢"
+    } ]
+  }, {
+    "tStartMs": 248666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "jiù kě yǐ yòng nà ge sù liào dài zhuāng\n就 可 以 用 那 个 塑 料 袋 装"
+    } ]
+  }, {
+    "tStartMs": 251300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "yòng sù liào dài zhuāng hā hā\n用 塑 料 袋 装 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "jīn tiān chāo shì lǐ de shuǐ guǒ zhēn de dōu hěn huá suàn\n今 天 超 市 里 的 水 果 真 的 都 很 划 算"
+    } ]
+  }, {
+    "tStartMs": 258733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "dàn shì ne zhè xiē shuǐ guǒ dōu hěn zhòng āi\n但 是 呢 这 些 水 果 都 很 重 哎"
+    } ]
+  }, {
+    "tStartMs": 261466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "nǐ men kàn zhè ge xiāng jiāo\n你 们 看 这 个 香 蕉"
+    } ]
+  }, {
+    "tStartMs": 264133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "zhè ge xiāng jiāo jīn tiān yě hěn pián yi\n这 个 香 蕉 今 天 也 很 便 宜"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "bā máo jiǔ yī bàng\n八 毛 九 一 磅"
+    } ]
+  }, {
+    "tStartMs": 269966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "bā máo jiǔ ， hǎo xiǎng mǎi a\n八 毛 九 ， 好 想 买 啊"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "kě shì tā hǎo zhòng a\n可 是 它 好 重 啊"
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "tiāo xuǎn yí gè ba\n挑 选 一 个 吧"
+    } ]
+  }, {
+    "tStartMs": 277966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "zhè liǎng gè nǎ ge hǎo yì diǎn\n这 两 个 哪 个 好 一 点"
+    } ]
+  }, {
+    "tStartMs": 280500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "yì bān wǒ men bǐ jiào shén me\n一 般 我 们 比 较 什 么"
+    } ]
+  }, {
+    "tStartMs": 281966,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "wǒ men huì shuō zhè liǎng gè nǎ ge hǎo yì diǎn\n我 们 会 说 这 两 个 哪 个 好 一 点"
+    } ]
+  }, {
+    "tStartMs": 285933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nǎ ge hǎo yì diǎn èn\n哪 个 好 一 点 嗯"
+    } ]
+  }, {
+    "tStartMs": 288766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "a\n啊"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "hǎo ba wǒ zhǔn bèi ná zhè ge le\n好 吧 我 准 备 拿 这 个 了"
+    } ]
+  }, {
+    "tStartMs": 293166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "zhè ge xiǎo yì diǎn\n这 个 小 一 点"
+    } ]
+  }, {
+    "tStartMs": 294500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "méi yǒu nà me zhòng\n没 有 那 么 重"
+    } ]
+  }, {
+    "tStartMs": 296100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "wǒ men bǎ zhè ge xiāng jiāo fàng jìn gòu wù chē\n我 们 把 这 个 香 蕉 放 进 购 物 车"
+    } ]
+  }, {
+    "tStartMs": 299933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "fàng jìn gòu wù chē zǒu\n放 进 购 物 车 走"
+    } ]
+  }, {
+    "tStartMs": 303966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "nǐ men kàn zhè ge shì yí gè chèng chèng\n你 们 看 这 个 是 一 个 秤 秤"
+    } ]
+  }, {
+    "tStartMs": 307666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "bǐ rú shuō xiāng jiāo fàng zài shàng miàn ， fàng\n比 如 说 香 蕉 放 在 上 面 ， 放"
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "kàn kàn tā yǒu duō zhòng\n看 看 它 有 多 重"
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "ó chà bu duō yǒu liǎng bàng liǎng bàng zhè yàng zi\n哦 差 不 多 有 两 磅 两 磅 这 样 子"
+    } ]
+  }, {
+    "tStartMs": 319233,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè ge wǒ men jiào chēng zhòng chēng zhòng\n这 个 我 们 叫 称 重 称 重"
+    } ]
+  }, {
+    "tStartMs": 326600,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "èn nà shū cài hé shuǐ guǒ qū wǒ men jiù guàng wán le\n嗯 那 蔬 菜 和 水 果 区 我 们 就 逛 完 了"
+    } ]
+  }, {
+    "tStartMs": 330833,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "wǒ xiàn zài yào qù zhǎo yī xià kā fēi fěn\n我 现 在 要 去 找 一 下 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 336700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "è nǐ yào zhǎo shén me dōng xī\n呃 你 要 找 什 么 东 西"
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ shuō\n你 可 以 说"
+    } ]
+  }, {
+    "tStartMs": 338933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "wǒ qù zhǎo shén me shén me\n我 去 找 什 么 什 么"
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ qù zhǎo kā fēi fěn\n比 如 我 去 找 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 344200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "wǒ qù zhǎo niú nǎi\n我 去 找 牛 奶"
+    } ]
+  }, {
+    "tStartMs": 347200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "bù zài zhè lǐ\n不 在 这 里"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a yě bù zài zhè lǐ\n啊 也 不 在 这 里"
+    } ]
+  }, {
+    "tStartMs": 351133,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "nǐ men kàn chāo shì lǐ huì yǒu bù tóng de huò jià\n你 们 看 超 市 里 会 有 不 同 的 货 架"
+    } ]
+  }, {
+    "tStartMs": 354900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "zhè xiē shì huò jià huò jià\n这 些 是 货 架 货 架"
+    } ]
+  }, {
+    "tStartMs": 357933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "rán hòu shàng miàn ne\n然 后 上 面 呢"
+    } ]
+  }, {
+    "tStartMs": 359366,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "yǒu hěn qīng chǔ de zhǐ shì pái zhǐ shì pái\n有 很 清 楚 的 指 示 牌 指 示 牌"
+    } ]
+  }, {
+    "tStartMs": 363900,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "gào sù nǐ zhè ge qū yù ne\n告 诉 你 这 个 区 域 呢"
+    } ]
+  }, {
+    "tStartMs": 365366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "dōu bǎi le shén me shāng pǐn\n都 摆 了 什 么 商 品"
+    } ]
+  }, {
+    "tStartMs": 367566,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "zhè yàng kě yǐ fāng biàn wǒ men qù è\n这 样 可 以 方 便 我 们 去 呃"
+    } ]
+  }, {
+    "tStartMs": 369933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "xún zhǎo wǒ men yào mǎi de dōng xī\n寻 找 我 们 要 买 的 东 西"
+    } ]
+  }, {
+    "tStartMs": 373033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "a zhè lǐ yǒu wǒ zuì ài de yì dà lì miàn\n啊 这 里 有 我 最 爱 的 意 大 利 面"
+    } ]
+  }, {
+    "tStartMs": 377233,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "zhè ge wǒ jīng cháng mǎi zhè ge yì dà lì miàn\n这 个 我 经 常 买 这 个 意 大 利 面"
+    } ]
+  }, {
+    "tStartMs": 382133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "dàn shì jīn tiān hǎo xiàng méi yǒu zhé kòu\n但 是 今 天 好 像 没 有 折 扣"
+    } ]
+  }, {
+    "tStartMs": 385566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "xiàng zhè zhǒng tiē le huáng sè huáng biāo\n像 这 种 贴 了 黄 色 黄 标"
+    } ]
+  }, {
+    "tStartMs": 388600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "huáng sè de zhè zhǒng jiù shì tè jià de\n黄 色 的 这 种 就 是 特 价 的"
+    } ]
+  }, {
+    "tStartMs": 392300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "èn\n嗯"
+    } ]
+  }, {
+    "tStartMs": 394433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "dàn shì wǒ xiǎng le yī xià\n但 是 我 想 了 一 下"
+    } ]
+  }, {
+    "tStartMs": 395933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "hǎo xiàng wǒ jiā lǐ de yì dà lì miàn\n好 像 我 家 里 的 意 大 利 面"
+    } ]
+  }, {
+    "tStartMs": 398133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "hái yǒu hěn duō méi yǒu chī wán de\n还 有 很 多 没 有 吃 完 的"
+    } ]
+  }, {
+    "tStartMs": 400300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "suǒ yǐ jiù xiān bù mǎi la hā hā\n所 以 就 先 不 买 啦 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 403033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "jì xù qù zhǎo kā fēi fěn\n继 续 去 找 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 405833,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhǎo dào le zhè lǐ yǒu hěn duō hěn duō de kā fēi\n找 到 了 这 里 有 很 多 很 多 的 咖 啡"
+    } ]
+  }, {
+    "tStartMs": 409600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "wǒ yào mǎi kā fēi\n我 要 买 咖 啡"
+    } ]
+  }, {
+    "tStartMs": 412566,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "hǎo duō ya\n好 多 呀"
+    } ]
+  }, {
+    "tStartMs": 414700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "qí shí zhè shàng miàn de wǒ jī běn dōu hē guò\n其 实 这 上 面 的 我 基 本 都 喝 过"
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ men yǒu méi yǒu shén me tè bié\n你 们 有 没 有 什 么 特 别"
+    } ]
+  }, {
+    "tStartMs": 420766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "tuī jiàn wǒ hē de kā fēi pǐn pái ne\n推 荐 我 喝 的 咖 啡 品 牌 呢"
+    } ]
+  }, {
+    "tStartMs": 423833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "èn wǒ yì bān huì mǎi kā fēi fěn\n嗯 我 一 般 会 买 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 426566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ jiā lǐ yǒu yí gè kā fēi jī\n因 为 我 家 里 有 一 个 咖 啡 机"
+    } ]
+  }, {
+    "tStartMs": 428566,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "wǒ jiù huì zì jǐ zuò kā fēi\n我 就 会 自 己 做 咖 啡"
+    } ]
+  }, {
+    "tStartMs": 431733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "wa xiàn zài de kā fēi fěn dōu zhè me guì de ma\n哇 现 在 的 咖 啡 粉 都 这 么 贵 的 吗"
+    } ]
+  }, {
+    "tStartMs": 436300,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "wán quán méi yǒu kàn dào jǐ gè shí kuài qián yǐ xià de ya\n完 全 没 有 看 到 几 个 十 块 钱 以 下 的 呀"
+    } ]
+  }, {
+    "tStartMs": 442300,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "ér qiě dōu hái shì dǎ wán zhé de\n而 且 都 还 是 打 完 折 的"
+    } ]
+  }, {
+    "tStartMs": 444333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "dǎ wán zhé dōu yào shí sān dào shí sì kuài hǎo guì ó\n打 完 折 都 要 十 三 到 十 四 块 好 贵 哦"
+    } ]
+  }, {
+    "tStartMs": 448966,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "zěn me bàn wǒ de kā fēi fěn míng tiān jiù méi yǒu le\n怎 么 办 我 的 咖 啡 粉 明 天 就 没 有 了"
+    } ]
+  }, {
+    "tStartMs": 452766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "hēng hēng hēng\n哼 哼 哼"
+    } ]
+  }, {
+    "tStartMs": 454933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "suàn le wǒ xiān bù mǎi le tài guì le\n算 了 我 先 不 买 了 太 贵 了"
+    } ]
+  }, {
+    "tStartMs": 457966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "xià cì huàn yí gè chāo shì kàn yī xià\n下 次 换 一 个 超 市 看 一 下"
+    } ]
+  }, {
+    "tStartMs": 461233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "rán hòu wǒ men zài chāo shì lǐ ne\n然 后 我 们 在 超 市 里 呢"
+    } ]
+  }, {
+    "tStartMs": 462933,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "kě néng huì jīng cháng shuō de yī xiē è zhōng wén de jù zi\n可 能 会 经 常 说 的 一 些 呃 中 文 的 句 子"
+    } ]
+  }, {
+    "tStartMs": 467133,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "bǐ rú shuō gāng cái jiào le nǐ men wǒ yào mǎi shén me\n比 如 说 刚 才 教 了 你 们 我 要 买 什 么"
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ yào mǎi kā fēi fěn\n比 如 我 要 买 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 473600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "rán hòu nǐ yě kě yǐ shuō wǒ zài zhǎo kā fēi fěn\n然 后 你 也 可 以 说 我 在 找 咖 啡 粉"
+    } ]
+  }, {
+    "tStartMs": 476933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ zài zhǎo huò zhě è\n我 在 找 或 者 呃"
+    } ]
+  }, {
+    "tStartMs": 479966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "wǒ yào xiǎng yī xiǎng wǒ yào mǎi shén me\n我 要 想 一 想 我 要 买 什 么"
+    } ]
+  }, {
+    "tStartMs": 482633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "èn wǒ yào mǎi shén me\n嗯 我 要 买 什 么"
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "wǒ yào mǎi shén me\n我 要 买 什 么"
+    } ]
+  }, {
+    "tStartMs": 487033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "zhè ge qū yù ne\n这 个 区 域 呢"
+    } ]
+  }, {
+    "tStartMs": 488166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "dōu shì lěng dòng bīng guì\n都 是 冷 冻 冰 柜"
+    } ]
+  }, {
+    "tStartMs": 491233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "lěng dòng bīng guì\n冷 冻 冰 柜"
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "zhè lǐ miàn mài de dōu shì yī xiē\n这 里 面 卖 的 都 是 一 些"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "bì xū yào bīng dòng de shāng pǐn\n必 须 要 冰 冻 的 商 品"
+    } ]
+  }, {
+    "tStartMs": 497500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "bǐ rú shuō zhè ge shì suān nǎi suān nǎi\n比 如 说 这 个 是 酸 奶 酸 奶"
+    } ]
+  }, {
+    "tStartMs": 501100,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "hái yǒu yī xiē è lěng dòng de shí wù\n还 有 一 些 呃 冷 冻 的 食 物"
+    } ]
+  }, {
+    "tStartMs": 506133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "zhè lǐ ne jiù shì niú nǎi niú nǎi\n这 里 呢 就 是 牛 奶 牛 奶"
+    } ]
+  }, {
+    "tStartMs": 510600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "nà wēn gē huá zhè biān ne\n那 温 哥 华 这 边 呢"
+    } ]
+  }, {
+    "tStartMs": 512766,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "chāo shì lǐ de niú nǎi dōu shì nà zhǒng hěn dà yī tǒng de\n超 市 里 的 牛 奶 都 是 那 种 很 大 一 桶 的"
+    } ]
+  }, {
+    "tStartMs": 517800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "rán hòu wǒ zì jǐ yòu hē bù wán\n然 后 我 自 己 又 喝 不 完"
+    } ]
+  }, {
+    "tStartMs": 520166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ niú nǎi yě bú huì měi tiān dōu hē\n因 为 我 牛 奶 也 不 会 每 天 都 喝"
+    } ]
+  }, {
+    "tStartMs": 523966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "jiù jué de zhè me dà yī tǒng hěn làng fèi\n就 觉 得 这 么 大 一 桶 很 浪 费"
+    } ]
+  }, {
+    "tStartMs": 526533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "hē bù wán tā yòu huì bù xīn xiān le\n喝 不 完 它 又 会 不 新 鲜 了"
+    } ]
+  }, {
+    "tStartMs": 529333,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "dàn shì nǐ yào mǎi xiǎo tǒng de ne\n但 是 你 要 买 小 桶 的 呢"
+    } ]
+  }, {
+    "tStartMs": 531300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "tā yòu bú shì hěn huá suàn\n它 又 不 是 很 划 算"
+    } ]
+  }, {
+    "tStartMs": 533433,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "wǒ gěi nǐ men kàn yī xià jià gé\n我 给 你 们 看 一 下 价 格"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "nǐ kàn zhè ge dà tǒng de shì liù kuài duō\n你 看 这 个 大 桶 的 是 六 块 多"
+    } ]
+  }, {
+    "tStartMs": 541700,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "rán hòu xiǎo tǒng de shì wǔ kuài duō\n然 后 小 桶 的 是 五 块 多"
+    } ]
+  }, {
+    "tStartMs": 547233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "wǒ jiù jué de kěn dìng shì dà tǒng de yào huá suàn yī xiē\n我 就 觉 得 肯 定 是 大 桶 的 要 划 算 一 些"
+    } ]
+  }, {
+    "tStartMs": 551833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "èn dàn shì dà tǒng de wǒ yòu hē bù wán\n嗯 但 是 大 桶 的 我 又 喝 不 完"
+    } ]
+  }, {
+    "tStartMs": 556300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "nà wǒ gāng cái ne\n那 我 刚 才 呢"
+    } ]
+  }, {
+    "tStartMs": 557233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "jiù shì zài bǐ jiào jià gé\n就 是 在 比 较 价 格"
+    } ]
+  }, {
+    "tStartMs": 559766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "bǐ jiào bǐ jiào jià gé duì\n比 较 比 较 价 格 对"
+    } ]
+  }, {
+    "tStartMs": 563633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "nǐ men kàn xiàng zhè xiē tiáo liào\n你 们 看 像 这 些 调 料"
+    } ]
+  }, {
+    "tStartMs": 567366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "è zhè xiē jiàng liào jiàng liào jiù shì bǐ jiào\n呃 这 些 酱 料 酱 料 就 是 比 较"
+    } ]
+  }, {
+    "tStartMs": 570833,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "shì hé nǐ men zuò fàn de yòng de duì ba\n适 合 你 们 做 饭 的 用 的 对 吧"
+    } ]
+  }, {
+    "tStartMs": 574433,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "jiù shì è xī cān duì bú duì\n就 是 呃 西 餐 对 不 对"
+    } ]
+  }, {
+    "tStartMs": 577700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "dàn shì xiàng wǒ men de huà ne\n但 是 像 我 们 的 话 呢"
+    } ]
+  }, {
+    "tStartMs": 579400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "jiù huì bǐ jiào shǎo yòng dào\n就 会 比 较 少 用 到"
+    } ]
+  }, {
+    "tStartMs": 582733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "zhè ge qū yù tā mài hěn duō\n这 个 区 域 他 卖 很 多"
+    } ]
+  }, {
+    "tStartMs": 584933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "wǒ men yà zhōu de è tiáo liào\n我 们 亚 洲 的 呃 调 料"
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "bǐ rú shuō xiàng zhè ge\n比 如 说 像 这 个"
+    } ]
+  }, {
+    "tStartMs": 592100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "zhè ge lǎo gàn mā là jiàng lǎo gàn mā là jiàng\n这 个 老 干 妈 辣 酱 老 干 妈 辣 酱"
+    } ]
+  }, {
+    "tStartMs": 595366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "jiù shì wǒ men chī fàn jīng cháng huì chī de duì\n就 是 我 们 吃 饭 经 常 会 吃 的 对"
+    } ]
+  }, {
+    "tStartMs": 598833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "dàn shì xiàng zhè ge chāo shì lǐ mài\n但 是 像 这 个 超 市 里 卖"
+    } ]
+  }, {
+    "tStartMs": 600600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "de zhè zhǒng jiù huì bǐ jiào shǎo\n的 这 种 就 会 比 较 少"
+    } ]
+  }, {
+    "tStartMs": 602533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "yì bān wǒ yào mǎi yī xiē jiàng a tiáo liào a\n一 般 我 要 买 一 些 酱 啊 调 料 啊"
+    } ]
+  }, {
+    "tStartMs": 605033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ huì qù huá rén chāo shì èn\n我 会 去 华 人 超 市 嗯"
+    } ]
+  }, {
+    "tStartMs": 607833,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "duì le zhī qián ne\n对 了 之 前 呢"
+    } ]
+  }, {
+    "tStartMs": 610433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "èn nǐ men yǒu rén tí xǐng wǒ\n嗯 你 们 有 人 提 醒 我"
+    } ]
+  }, {
+    "tStartMs": 612366,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "zhè zhǒng pī sà pī sà yào fàng jìn lěng dòng guì lǐ a hā\n这 种 披 萨 披 萨 要 放 进 冷 冻 柜 里 啊 哈"
+    } ]
+  }, {
+    "tStartMs": 617433,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "ér qiě ne hái yǒu péng yǒu gěi wǒ fā le Email\n而 且 呢 还 有 朋 友 给 我 发 了 Email"
+    } ]
+  }, {
+    "tStartMs": 620200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "gào sù wǒ yào fàng lěng dòng guì\n告 诉 我 要 放 冷 冻 柜"
+    } ]
+  }, {
+    "tStartMs": 622600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "zhè huí wǒ zhī dào le\n这 回 我 知 道 了"
+    } ]
+  }, {
+    "tStartMs": 623733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "wǒ dāng shí lì kè jiù bǎ tā fàng zài le lěng dòng\n我 当 时 立 刻 就 把 它 放 在 了 冷 冻"
+    } ]
+  }, {
+    "tStartMs": 627400,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "bīng xiāng de lěng dòng guì lǐ\n冰 箱 的 冷 冻 柜 里"
+    } ]
+  }, {
+    "tStartMs": 628733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "xiè xiè nǐ men zhēn de\n谢 谢 你 们 真 的"
+    } ]
+  }, {
+    "tStartMs": 631000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "nǐ men kàn\n你 们 看"
+    } ]
+  }, {
+    "tStartMs": 631966,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "zhè jiā chāo shì hái huì mài wǒ zuì ài chī de jiǎo zi\n这 家 超 市 还 会 卖 我 最 爱 吃 的 饺 子"
+    } ]
+  }, {
+    "tStartMs": 637233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "zhè ge\n这 个"
+    } ]
+  }, {
+    "tStartMs": 639300,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "zhè ge jiǎo zi wǒ chāo jí ài chī\n这 个 饺 子 我 超 级 爱 吃"
+    } ]
+  }, {
+    "tStartMs": 647033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "zhè ge shì zhū ròu bái cài de zhū ròu bái cài de shuǐ jiǎo\n这 个 是 猪 肉 白 菜 的 猪 肉 白 菜 的 水 饺"
+    } ]
+  }, {
+    "tStartMs": 652033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "èn\n嗯"
+    } ]
+  }, {
+    "tStartMs": 653366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "dàn shì ne wǒ jīn tiān bù dǎ suàn mǎi\n但 是 呢 我 今 天 不 打 算 买"
+    } ]
+  }, {
+    "tStartMs": 655833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yīn wèi jiā lǐ miàn hái yǒu liǎng dài\n因 为 家 里 面 还 有 两 袋"
+    } ]
+  }, {
+    "tStartMs": 657833,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "xiǎng yào chī wán zài mǎi hā hā\n想 要 吃 完 再 买 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 660333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "wǒ men dǎ kāi bīng xiāng mén dǎ kāi\n我 们 打 开 冰 箱 门 打 开"
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "rán hòu bǎ tā fàng huí qù fàng huí qù\n然 后 把 它 放 回 去 放 回 去"
+    } ]
+  }, {
+    "tStartMs": 669700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zài guān shàng guān shàng\n再 关 上 关 上"
+    } ]
+  }, {
+    "tStartMs": 673033,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè zhǒng lěng dòng shū cài wǒ yě hěn xǐ huān mǎi\n这 种 冷 冻 蔬 菜 我 也 很 喜 欢 买"
+    } ]
+  }, {
+    "tStartMs": 676500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "yīn wèi hěn fāng biàn\n因 为 很 方 便"
+    } ]
+  }, {
+    "tStartMs": 677766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "jiù zhí jiē bǎ tā diū jìn guō lǐ zhǔ jiù hǎo le\n就 直 接 把 它 丢 进 锅 里 煮 就 好 了"
+    } ]
+  }, {
+    "tStartMs": 681600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "zhè ge shì wǒ men jiào lěng dòng shū cài\n这 个 是 我 们 叫 冷 冻 蔬 菜"
+    } ]
+  }, {
+    "tStartMs": 683900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "lěng dòng shū cài\n冷 冻 蔬 菜"
+    } ]
+  }, {
+    "tStartMs": 686200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "xiàng zhè zhǒng ne\n像 这 种 呢"
+    } ]
+  }, {
+    "tStartMs": 687100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ men jiào zuò jià gé biāo qiān\n我 们 叫 做 价 格 标 签"
+    } ]
+  }, {
+    "tStartMs": 690233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "jià gé de biāo qiān biāo qiān\n价 格 的 标 签 标 签"
+    } ]
+  }, {
+    "tStartMs": 692733,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "duì shàng miàn huì yǒu měi yí gè chǎn pǐn de jià gé jià gé\n对 上 面 会 有 每 一 个 产 品 的 价 格 价 格"
+    } ]
+  }, {
+    "tStartMs": 700700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "jiē xià lái wǒ yào kàn yī kàn ròu\n接 下 来 我 要 看 一 看 肉"
+    } ]
+  }, {
+    "tStartMs": 702600,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "èn kàn kàn yǒu méi yǒu bǐ jiào huá suàn de tè jià de\n嗯 看 看 有 没 有 比 较 划 算 的 特 价 的"
+    } ]
+  }, {
+    "tStartMs": 706533,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "wǒ zhēn de jué de wǒ zhè qī jié mù\n我 真 的 觉 得 我 这 期 节 目"
+    } ]
+  }, {
+    "tStartMs": 708100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yì zhí zài gēn nǐ men jiǎng liǎng gè cí\n一 直 在 跟 你 们 讲 两 个 词"
+    } ]
+  }, {
+    "tStartMs": 710200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "yí gè shì huá suàn\n一 个 是 划 算"
+    } ]
+  }, {
+    "tStartMs": 711733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "lìng wài yí gè shì tè jià\n另 外 一 个 是 特 价"
+    } ]
+  }, {
+    "tStartMs": 713966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "yīn wèi zhè biān de shēng huó chéng běn zhēn de hěn gāo\n因 为 这 边 的 生 活 成 本 真 的 很 高"
+    } ]
+  }, {
+    "tStartMs": 717133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "suǒ yǐ jié shěng zhe huā qián\n所 以 节 省 着 花 钱"
+    } ]
+  }, {
+    "tStartMs": 720533,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "yào hěn jié shěng\n要 很 节 省"
+    } ]
+  }, {
+    "tStartMs": 723500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "āi zhè lǐ néng kàn dào wǒ hā hā\n哎 这 里 能 看 到 我 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 726233,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "hǎo rán hòu zhè biān shì jī ròu jī ròu\n好 然 后 这 边 是 鸡 肉 鸡 肉"
+    } ]
+  }, {
+    "tStartMs": 730833,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "wǒ jué de jiā ná dà de jī ròu mài de hěn guì\n我 觉 得 加 拿 大 的 鸡 肉 卖 的 很 贵"
+    } ]
+  }, {
+    "tStartMs": 733933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "jī hū gēn zhū ròu shì yí gè jià gé èn\n几 乎 跟 猪 肉 是 一 个 价 格 嗯"
+    } ]
+  }, {
+    "tStartMs": 738833,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "zhè biān de huà shì yī xiē xiāng cháng xiāng cháng\n这 边 的 话 是 一 些 香 肠 香 肠"
+    } ]
+  }, {
+    "tStartMs": 743300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "rán hòu zhè biān shì zhū ròu zhū ròu\n然 后 这 边 是 猪 肉 猪 肉"
+    } ]
+  }, {
+    "tStartMs": 746900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "zhè zhǒng nǐ kàn\n这 种 你 看"
+    } ]
+  }, {
+    "tStartMs": 748566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "shàng miàn yǒu zhè ge biāo jì\n上 面 有 这 个 标 记"
+    } ]
+  }, {
+    "tStartMs": 749966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "tā xiě le è liǎng dāo off\n他 写 了 呃 两 刀 off"
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "nà wǒ men huì shuō shì pián yi liǎng dāo\n那 我 们 会 说 是 便 宜 两 刀"
+    } ]
+  }, {
+    "tStartMs": 757500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "huò zhě pián yi liǎng kuài qián\n或 者 便 宜 两 块 钱"
+    } ]
+  }, {
+    "tStartMs": 760666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "rán hòu nǐ men kàn zhè shàng miàn de\n然 后 你 们 看 这 上 面 的"
+    } ]
+  }, {
+    "tStartMs": 762233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "zhè ge xiě de shì jī fēn jī fēn\n这 个 写 的 是 积 分 积 分"
+    } ]
+  }, {
+    "tStartMs": 766433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "jiù shì wǒ men yì bān guàng chāo shì de shí hòu ne\n就 是 我 们 一 般 逛 超 市 的 时 候 呢"
+    } ]
+  }, {
+    "tStartMs": 769033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "dū huì yǒu chāo shì de jī fēn kǎ jī fēn kǎ\n都 会 有 超 市 的 积 分 卡 积 分 卡"
+    } ]
+  }, {
+    "tStartMs": 772166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "rán hòu yòng nà ge jī fēn kǎ\n然 后 用 那 个 积 分 卡"
+    } ]
+  }, {
+    "tStartMs": 773633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "qù è mǎi dōng xī de shí hòu\n去 呃 买 东 西 的 时 候"
+    } ]
+  }, {
+    "tStartMs": 776000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "tā jiù huì yǒu jī fēn zài nǐ de zhàng hù lǐ\n他 就 会 有 积 分 在 你 的 账 户 里"
+    } ]
+  }, {
+    "tStartMs": 778266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "jiù hěn huá suàn\n就 很 划 算"
+    } ]
+  }, {
+    "tStartMs": 780366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "zhè ge jī fēn ne\n这 个 积 分 呢"
+    } ]
+  }, {
+    "tStartMs": 781266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "zài wèi lái jiù kě yǐ dǐ chéng qián a\n在 未 来 就 可 以 抵 成 钱 啊"
+    } ]
+  }, {
+    "tStartMs": 784433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "gěi nǐ men kàn\n给 你 们 看"
+    } ]
+  }, {
+    "tStartMs": 785266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "zhè ge kǎo jī wǒ yě jīng cháng mǎi\n这 个 烤 鸡 我 也 经 常 买"
+    } ]
+  }, {
+    "tStartMs": 788100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "dàn tā men jiā de kǎo jī huì yǒu yì diǎn diǎn guì\n但 他 们 家 的 烤 鸡 会 有 一 点 点 贵"
+    } ]
+  }, {
+    "tStartMs": 791033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "shí sān kuài jiǔ máo jiǔ èn\n十 三 块 九 毛 九 嗯"
+    } ]
+  }, {
+    "tStartMs": 793233,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "wa hěn rè hū\n哇 很 热 乎"
+    } ]
+  }, {
+    "tStartMs": 795466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "nà wǒ men mǎi dōng xī de shí hòu yì bān huì shuō\n那 我 们 买 东 西 的 时 候 一 般 会 说"
+    } ]
+  }, {
+    "tStartMs": 798700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "zhè ge shāng pǐn yǒu diǎn guì\n这 个 商 品 有 点 贵"
+    } ]
+  }, {
+    "tStartMs": 801633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "huò zhě yǒu diǎn pián yi\n或 者 有 点 便 宜"
+    } ]
+  }, {
+    "tStartMs": 804233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "guì ， pián yi\n贵 ， 便 宜"
+    } ]
+  }, {
+    "tStartMs": 806100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "a bǐ jiào de shí hòu wǒ men huì zhè yàng jiǎng\n啊 比 较 的 时 候 我 们 会 这 样 讲"
+    } ]
+  }, {
+    "tStartMs": 809000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǒu diǎn guì yǒu diǎn pián yi\n有 点 贵 有 点 便 宜"
+    } ]
+  }, {
+    "tStartMs": 812066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "huò zhě zhè ge hěn huá suàn\n或 者 这 个 很 划 算"
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "huò zhě hěn hé shì èn\n或 者 很 合 适 嗯"
+    } ]
+  }, {
+    "tStartMs": 816466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "rú guǒ shì yào wèn jià gé de huà\n如 果 是 要 问 价 格 的 话"
+    } ]
+  }, {
+    "tStartMs": 818166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "wǒ men yì bān huì shuō\n我 们 一 般 会 说"
+    } ]
+  }, {
+    "tStartMs": 819466,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "zhè ge duō shǎo qián ？\n这 个 多 少 钱 ？"
+    } ]
+  }, {
+    "tStartMs": 823800,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "hǎo ba nà wǒ yīn wèi shí jiān de guān xì ne\n好 吧 那 我 因 为 时 间 的 关 系 呢"
+    } ]
+  }, {
+    "tStartMs": 826566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "wǒ bì xū yào huí qù le\n我 必 须 要 回 去 了"
+    } ]
+  }, {
+    "tStartMs": 827966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "rán hòu è yuán dìng de gòu wù qīng dān lǐ\n然 后 呃 原 定 的 购 物 清 单 里"
+    } ]
+  }, {
+    "tStartMs": 831633,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "de dōng xī bìng méi yǒu mǎi de hěn duō\n的 东 西 并 没 有 买 的 很 多"
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "zhǐ mǎi le è pú táo hái yǒu xiāng jiāo suǒ yǐ ne\n只 买 了 呃 葡 萄 还 有 香 蕉 所 以 呢"
+    } ]
+  }, {
+    "tStartMs": 838666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "wǒ jué dìng yào bǎ nà ge jú zi ná zhe\n我 决 定 要 把 那 个 橘 子 拿 着"
+    } ]
+  }, {
+    "tStartMs": 841766,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "jiù shì gāng cái wǒ men zài\n就 是 刚 才 我 们 在"
+    } ]
+  }, {
+    "tStartMs": 842966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "mén kǒu kàn dào de nà ge jú zi\n门 口 看 到 的 那 个 橘 子"
+    } ]
+  }, {
+    "tStartMs": 844900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "wǔ kuài duō wǒ jué de hěn huá suàn hěn hé shì\n五 块 多 我 觉 得 很 划 算 很 合 适"
+    } ]
+  }, {
+    "tStartMs": 848800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ méi yǒu mǎi tài duō dōng xī\n因 为 我 没 有 买 太 多 东 西"
+    } ]
+  }, {
+    "tStartMs": 850466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de wǒ yīng gāi kě yǐ bèi huí qù\n所 以 我 觉 得 我 应 该 可 以 背 回 去"
+    } ]
+  }, {
+    "tStartMs": 853300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "hǎo wǒ men tiāo yí gè\n好 我 们 挑 一 个"
+    } ]
+  }, {
+    "tStartMs": 855000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "tiāo tiāo yí gè\n挑 挑 一 个"
+    } ]
+  }, {
+    "tStartMs": 859833,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "jiù zhè ge ba\n就 这 个 吧"
+    } ]
+  }, {
+    "tStartMs": 862200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "jiù zhè ge ba\n就 这 个 吧"
+    } ]
+  }, {
+    "tStartMs": 864866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "hǎo\n好"
+    } ]
+  }, {
+    "tStartMs": 866700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "wǒ men xiàn zài qù jié zhàng jié zhàng\n我 们 现 在 去 结 账 结 账"
+    } ]
+  }, {
+    "tStartMs": 870766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "zhè biān shì rén gōng jié zhàng de qū yù\n这 边 是 人 工 结 账 的 区 域"
+    } ]
+  }, {
+    "tStartMs": 873833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "rén gōng jié zhàng\n人 工 结 账"
+    } ]
+  }, {
+    "tStartMs": 875200,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "rán hòu qián miàn ne shì zì zhù jié zhàng\n然 后 前 面 呢 是 自 助 结 账"
+    } ]
+  }, {
+    "tStartMs": 879233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "zhè lǐ kě yǐ zì zhù jié zhàng\n这 里 可 以 自 助 结 账"
+    } ]
+  }, {
+    "tStartMs": 883166,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "nà wǒ men hái shì lái zhè ge rén gōng jié zhàng de dì fāng\n那 我 们 还 是 来 这 个 人 工 结 账 的 地 方"
+    } ]
+  }, {
+    "tStartMs": 888066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "zài zhè lǐ ba\n在 这 里 吧"
+    } ]
+  }, {
+    "tStartMs": 889833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "pái duì\n排 队"
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "wǒ men zài zhè lǐ pái duì pái duì\n我 们 在 这 里 排 队 排 队"
+    } ]
+  }, {
+    "tStartMs": 895166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "nà zhè lǐ ne\n那 这 里 呢"
+    } ]
+  }, {
+    "tStartMs": 895966,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "wǒ men yě jiào shōu yín tái shōu yín tái\n我 们 也 叫 收 银 台 收 银 台"
+    } ]
+  }, {
+    "tStartMs": 900266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "zhè ge fēn lí de dōng xī ne\n这 个 分 离 的 东 西 呢"
+    } ]
+  }, {
+    "tStartMs": 901966,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "zhōng wén lǐ jiào zuò fēn gé gān fēn gé gān\n中 文 里 叫 做 分 隔 杆 分 隔 杆"
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "dàn shì shēng huó lǐ wǒ men jī hū bù huì zhè yàng qù shuō\n但 是 生 活 里 我 们 几 乎 不 会 这 样 去 说"
+    } ]
+  }, {
+    "tStartMs": 910100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yīn wèi hǎo xiàng wǒ men hěn shǎo yòng dào\n因 为 好 像 我 们 很 少 用 到"
+    } ]
+  }, {
+    "tStartMs": 912366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "wǒ yě hěn shǎo jiàn dào tā\n我 也 很 少 见 到 它"
+    } ]
+  }, {
+    "tStartMs": 915633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "nà wǒ xiàn zài jiù yào bǎ wǒ mǎi de\n那 我 现 在 就 要 把 我 买 的"
+    } ]
+  }, {
+    "tStartMs": 917666,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "shāng pǐn fàng zài zhè ge guì tái shàng guì tái\n商 品 放 在 这 个 柜 台 上 柜 台"
+    } ]
+  }, {
+    "tStartMs": 922266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "fàng zài guì tái shàng\n放 在 柜 台 上"
+    } ]
+  }, {
+    "tStartMs": 924866,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "hello here's my card\nhello here's my card"
+    } ]
+  }, {
+    "tStartMs": 927500,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "zhè lǐ ne\n这 里 呢"
+    } ]
+  }, {
+    "tStartMs": 928200,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "wǒ bǎ wǒ de chāo shì huì yuán kǎ gěi le fú wù yuán\n我 把 我 的 超 市 会 员 卡 给 了 服 务 员"
+    } ]
+  }, {
+    "tStartMs": 932733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "huì yuán kǎ huì yuán kǎ\n会 员 卡 会 员 卡"
+    } ]
+  }, {
+    "tStartMs": 934900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "zhè yàng jiù kě yǐ jī fēn le\n这 样 就 可 以 积 分 了"
+    } ]
+  }, {
+    "tStartMs": 938033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "thank you\nthank you"
+    } ]
+  }, {
+    "tStartMs": 940266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "nà zài guì tái jié zhàng de gōng zuò rén yuán ne\n那 在 柜 台 结 账 的 工 作 人 员 呢"
+    } ]
+  }, {
+    "tStartMs": 942700,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "wǒ men jiào zuò shōu yín yuán shōu yín yuán\n我 们 叫 做 收 银 员 收 银 员"
+    } ]
+  }, {
+    "tStartMs": 946700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ yào bǎ yǐ jīng sǎo guò de shāng pǐn ne\n现 在 我 要 把 已 经 扫 过 的 商 品 呢"
+    } ]
+  }, {
+    "tStartMs": 949866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "fàng huí gòu wù chē\n放 回 购 物 车"
+    } ]
+  }, {
+    "tStartMs": 952466,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "jié wán zhàng shōu yín yuán bǎ xiǎo piào gěi le wǒ\n结 完 账 收 银 员 把 小 票 给 了 我"
+    } ]
+  }, {
+    "tStartMs": 957400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "hǎo de wǒ men xiàn zài bǎ chē fàng huí qù\n好 的 我 们 现 在 把 车 放 回 去"
+    } ]
+  }, {
+    "tStartMs": 965733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "zǒu la zǒu la mǎi wán le\n走 啦 走 啦 买 完 了"
+    } ]
+  }, {
+    "tStartMs": 971266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "suī rán méi mǎi shén me\n虽 然 没 买 什 么"
+    } ]
+  }, {
+    "tStartMs": 972233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "dàn shì hái shì tǐng zhòng de gǎn jué\n但 是 还 是 挺 重 的 感 觉"
+    } ]
+  }, {
+    "tStartMs": 974800,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "rán hòu wǒ jīn tiān yī gòng shì xiāo fèi shí sān kuài jiǔ máo yī\n然 后 我 今 天 一 共 是 消 费 十 三 块 九 毛 一"
+    } ]
+  }, {
+    "tStartMs": 980500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "wǒ shǒu shàng ná de zhè ge ne\n我 手 上 拿 的 这 个 呢"
+    } ]
+  }, {
+    "tStartMs": 982166,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "shì gòu wù xiǎo piào gòu wù xiǎo piào\n是 购 物 小 票 购 物 小 票"
+    } ]
+  }, {
+    "tStartMs": 986600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "shí sān kuài jiǔ máo yī\n十 三 块 九 毛 一"
+    } ]
+  }, {
+    "tStartMs": 987800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "rán hòu mǎi de dōu shì shuǐ guǒ\n然 后 买 的 都 是 水 果"
+    } ]
+  }, {
+    "tStartMs": 989433,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "mǎi le yí gè pú táo\n买 了 一 个 葡 萄"
+    } ]
+  }, {
+    "tStartMs": 990700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "mǎi le yí gè xiāng jiāo\n买 了 一 个 香 蕉"
+    } ]
+  }, {
+    "tStartMs": 992433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "rán hòu mǎi le yí gè è jú zi hā hā\n然 后 买 了 一 个 呃 橘 子 哈 哈"
+    } ]
+  }, {
+    "tStartMs": 996266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ zhēn de bù zhī dào shì jú zi hái shì chéng zi\n我 真 的 不 知 道 是 橘 子 还 是 橙 子"
+    } ]
+  }, {
+    "tStartMs": 998366,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "guǎn tā ne\n管 它 呢"
+    } ]
+  }, {
+    "tStartMs": 999666,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "rán hòu ne wǒ men xiàn zài līn līn līn zhe\n然 后 呢 我 们 现 在 拎 拎 拎 着"
+    } ]
+  }, {
+    "tStartMs": 1003800,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "līn zhe zhè ge gòu wù dài huí jiā le\n拎 着 这 个 购 物 袋 回 家 了"
+    } ]
+  }, {
+    "tStartMs": 1007000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "huí jiā huí jiā hǎo lèi ó\n回 家 回 家 好 累 哦"
+    } ]
+  }, {
+    "tStartMs": 1009800,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "hǎo ba péng yǒu men\n好 吧 朋 友 们"
+    } ]
+  }, {
+    "tStartMs": 1010866,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "nà jīn tiān de zhè xiē chāo shì de cháng yòng biǎo dá\n那 今 天 的 这 些 超 市 的 常 用 表 达"
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "nǐ men dōu xué huì le ma\n你 们 都 学 会 了 吗"
+    } ]
+  }, {
+    "tStartMs": 1015600,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "hǎo\n好"
+    } ]
+  }, {
+    "tStartMs": 1017066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "nà wǒ zuì jìn ne\n那 我 最 近 呢"
+    } ]
+  }, {
+    "tStartMs": 1018066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "yě kāi tōng le wǒ de Youtube huì yuán pín dào\n也 开 通 了 我 的 Youtube 会 员 频 道"
+    } ]
+  }, {
+    "tStartMs": 1020600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "huì gēn nǐ men fēn xiǎng gèng duō wǒ\n会 跟 你 们 分 享 更 多 我"
+    } ]
+  }, {
+    "tStartMs": 1022766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "de píng shí de rì cháng shēng huó a\n的 平 时 的 日 常 生 活 啊"
+    } ]
+  }, {
+    "tStartMs": 1026300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "rán hòu yě huì gěi nǐ men tí gōng\n然 后 也 会 给 你 们 提 供"
+    } ]
+  }, {
+    "tStartMs": 1027866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "gèng xiáng xì de xué xí shǒu cè\n更 详 细 的 学 习 手 册"
+    } ]
+  }, {
+    "tStartMs": 1030566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ men yě xǐ huān kàn wǒ de shì pín\n如 果 你 们 也 喜 欢 看 我 的 视 频"
+    } ]
+  }, {
+    "tStartMs": 1032800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "xiǎng yào tōng guò wǒ de zhēn shí\n想 要 通 过 我 的 真 实"
+    } ]
+  }, {
+    "tStartMs": 1034166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "shēng huó lái xué xí zhōng wén biǎo dá\n生 活 来 学 习 中 文 表 达"
+    } ]
+  }, {
+    "tStartMs": 1036966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nà jì de guān zhù wǒ de pín dào ó\n那 记 得 关 注 我 的 频 道 哦"
+    } ]
+  }, {
+    "tStartMs": 1039100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nǐ men yě kě yǐ dìng yuè wǒ de huì yuán pín dào\n你 们 也 可 以 订 阅 我 的 会 员 频 道"
+    } ]
+  }, {
+    "tStartMs": 1041500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "huì yǒu gèng jīng cǎi de nèi róng fēn xiǎng gěi nǐ men\n会 有 更 精 彩 的 内 容 分 享 给 你 们"
+    } ]
+  }, {
+    "tStartMs": 1044800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "hǎo de nà jīn tiān de jié mù jiù dào zhè lǐ la\n好 的 那 今 天 的 节 目 就 到 这 里 啦"
+    } ]
+  }, {
+    "tStartMs": 1047000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "wǒ men xià qī zài jiàn\n我 们 下 期 再 见"
+    } ]
+  }, {
+    "tStartMs": 1048566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "gǎn xiè nǐ men de guān kàn hé zhī chí ó\n感 谢 你 们 的 观 看 和 支 持 哦"
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "bài bài\n拜 拜"
+    } ]
+  }, {
+    "tStartMs": 1052366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "zhè jiù shì jīn tiān mǎi de pú táo\n这 就 是 今 天 买 的 葡 萄"
+    } ]
+  }, {
+    "tStartMs": 1054266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "lái wǒ men cháng yí gè\n来 我 们 尝 一 个"
+    } ]
+  }, {
+    "tStartMs": 1056766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "èn èn èn\n嗯 嗯 嗯"
+    } ]
+  }, {
+    "tStartMs": 1060266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "wa zhè ge pú táo hǎo suān\n哇 这 个 葡 萄 好 酸"
+    } ]
+  }, {
+    "tStartMs": 1062833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "èn èn\n嗯 嗯"
+    } ]
+  }, {
+    "tStartMs": 1065666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "zhè ge pú táo hǎo suān a\n这 个 葡 萄 好 酸 啊"
+    } ]
+  }, {
+    "tStartMs": 1068766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "suān hǎo suān a\n酸 好 酸 啊"
+    } ]
+  } ]
+}

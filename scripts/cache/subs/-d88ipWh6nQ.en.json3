@@ -1,0 +1,2323 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 29895,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "你们好,我是Jade\nnǐ men hǎo, wǒ shì Jade\nHello, I’m Jade."
+    } ]
+  }, {
+    "tStartMs": 34234,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "今天我休息在家\njīn tiān wǒ xiū xī zài jiā\nToday I’m resting at home."
+    } ]
+  }, {
+    "tStartMs": 38855,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "所以我打算做一些家务\nsuǒ yǐ wǒ dǎ suàn zuò yī xiē jiā wù\nSo I’m going to do some housework."
+    } ]
+  }, {
+    "tStartMs": 44694,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "打扫卫生\ndǎ sǎo wèi shēng\nCleaning."
+    } ]
+  }, {
+    "tStartMs": 47814,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那么在这个视频\nnà me zài zhè gè shì pín\nSo in this video"
+    } ]
+  }, {
+    "tStartMs": 51532,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "我会说一些跟做家务和\nwǒ huì shuō yī xiē gēn zuò jiā wù hé\nI’ll talk about some Chinese words related to housework and"
+    } ]
+  }, {
+    "tStartMs": 58121,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "打扫卫生有关的中文\ndǎ sǎo wèi shēng yǒu guān de zhōng wén\ncleaning."
+    } ]
+  }, {
+    "tStartMs": 65987,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "我一般会先从卧室开始打扫\nwǒ yī bān huì xiān cóng wò shì kāi shǐ dǎ sǎo\nI usually start by cleaning the bedroom."
+    } ]
+  }, {
+    "tStartMs": 73667,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "这里是我的卧室\nzhè lǐ shì wǒ de wò shì\nThis is my bedroom."
+    } ]
+  }, {
+    "tStartMs": 77959,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "卧室就是睡觉的地方\nwò shì jiù shì shuì jiào de dì fāng\nThe bedroom is where you sleep."
+    } ]
+  }, {
+    "tStartMs": 83427,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "睡觉的房间叫做卧室\nshuì jiào de fáng jiān jiào zuò wò shì\nThe room where you sleep is called a bedroom."
+    } ]
+  }, {
+    "tStartMs": 90549,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "这里是我的卧室\nzhè lǐ shì wǒ de wò shì\nThis is my bedroom."
+    } ]
+  }, {
+    "tStartMs": 96651,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "卧室里面有床\nwò shì lǐ miàn yǒu chuáng\nThere is a bed in the bedroom."
+    } ]
+  }, {
+    "tStartMs": 100726,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这是床\nzhè shì chuáng\nThis is a bed."
+    } ]
+  }, {
+    "tStartMs": 103189,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "床铺,我的床\nchuáng pù, wǒ de chuáng\nBed, my bed."
+    } ]
+  }, {
+    "tStartMs": 107349,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我睡在床上\nwǒ shuì zài chuáng shàng\nI sleep on the bed."
+    } ]
+  }, {
+    "tStartMs": 111189,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "躺在床上\ntǎng zài chuáng shàng\nLying on the bed."
+    } ]
+  }, {
+    "tStartMs": 113989,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这是我的床\nzhè shì wǒ de chuáng\nThis is my bed."
+    } ]
+  }, {
+    "tStartMs": 117748,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "床\nchuáng\nBed."
+    } ]
+  }, {
+    "tStartMs": 119049,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "我要先打扫我的床\nwǒ yào xiān dǎ sǎo wǒ de chuáng\nI’m going to clean my bed first."
+    } ]
+  }, {
+    "tStartMs": 124261,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "我的床上有被子\nwǒ de chuáng shàng yǒu bèi zi\nThere is a blanket on my bed."
+    } ]
+  }, {
+    "tStartMs": 130606,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "这是被子\nzhè shì bèi zi\nThis is a blanket."
+    } ]
+  }, {
+    "tStartMs": 134164,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "睡觉的时候我把被子盖在身上\nshuì jiào de shí hòu wǒ bǎ bèi zi gài zài shēn shàng\nWhen I sleep, I cover myself with the blanket."
+    } ]
+  }, {
+    "tStartMs": 142862,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "被子\nbèi zi\nBlanket."
+    } ]
+  }, {
+    "tStartMs": 144109,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "把被子盖在身上\nbǎ bèi zi gài zài shēn shàng\nCover yourself with the blanket."
+    } ]
+  }, {
+    "tStartMs": 148794,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "被子\nbèi zi\nBlanket."
+    } ]
+  }, {
+    "tStartMs": 149868,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "我现在要先把被子拿走\nwǒ xiàn zài yào xiān bǎ bèi zi ná zǒu\nNow I’m going to take the blanket away first."
+    } ]
+  }, {
+    "tStartMs": 156139,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "把被子放在旁边\nbǎ bèi zi fàng zài páng biān\nPut the blanket to the side."
+    } ]
+  }, {
+    "tStartMs": 160558,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "把被子拿走\nbǎ bèi zi ná zǒu\nTake the blanket away."
+    } ]
+  }, {
+    "tStartMs": 166945,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "床上还有枕头\nchuáng shàng huán yǒu zhěn tou\nThere is also a pillow on the bed."
+    } ]
+  }, {
+    "tStartMs": 171419,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "枕头\nzhěn tou\nPillow."
+    } ]
+  }, {
+    "tStartMs": 173620,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这是枕头\nzhè shì zhěn tou\nThis is a pillow."
+    } ]
+  }, {
+    "tStartMs": 176362,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "枕头\nzhěn tou\nPillow."
+    } ]
+  }, {
+    "tStartMs": 177836,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "睡觉的时候睡在上面\nshuì jiào de shí hòu shuì zài shàng miàn\nYou sleep on it when you go to bed."
+    } ]
+  }, {
+    "tStartMs": 183118,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "枕头\nzhěn tou\nPillow."
+    } ]
+  }, {
+    "tStartMs": 184625,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "枕头\nzhěn tou\nPillow."
+    } ]
+  }, {
+    "tStartMs": 187168,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "两个枕头\nliǎng gè zhěn tou\nTwo pillows."
+    } ]
+  }, {
+    "tStartMs": 189593,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "一个两个\nyí gè liǎng gè\nOne, two."
+    } ]
+  }, {
+    "tStartMs": 191826,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "有两个枕头\nyǒu liǎng gè zhěn tou\nThere are two pillows."
+    } ]
+  }, {
+    "tStartMs": 196473,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "我要先清洁枕头\nwǒ yào xiān qīng jié zhěn tou\nI’m going to clean the pillows first."
+    } ]
+  }, {
+    "tStartMs": 201587,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这是一个粘毛器\nzhè shì yí gè nián máo qì\nThis is a lint roller."
+    } ]
+  }, {
+    "tStartMs": 205968,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "粘毛器\nnián máo qì\nLint roller."
+    } ]
+  }, {
+    "tStartMs": 208228,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "它上面的纸\ntā shàng miàn de zhǐ\nThe paper on it."
+    } ]
+  }, {
+    "tStartMs": 211520,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "这是纸\nzhè shì zhǐ\nThis is paper."
+    } ]
+  }, {
+    "tStartMs": 213122,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "这个纸是黏的\nzhè gè zhǐ shì nián de\nThis paper is sticky."
+    } ]
+  }, {
+    "tStartMs": 216779,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "黏的\nnián de\nSticky."
+    } ]
+  }, {
+    "tStartMs": 218001,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "它可以把枕头上面的脏东西粘下来\ntā kě yǐ bǎ zhěn tou shàng miàn de zāng dōng xī nián xià lái\nIt can pick dirt off the pillow."
+    } ]
+  }, {
+    "tStartMs": 228939,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "粘毛器\nnián máo qì\nLint roller."
+    } ]
+  }, {
+    "tStartMs": 232779,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "所以我会用粘毛器来清洁枕头\nsuǒ yǐ wǒ huì yòng nián máo qì lái qīng jié zhěn tou\nSo I’ll use the lint roller to clean the pillows."
+    } ]
+  }, {
+    "tStartMs": 240619,
+    "dDurationMs": 5784,
+    "segs": [ {
+      "utf8": "用粘毛器清洁枕头\nyòng nián máo qì qīng jié zhěn tou\nCleaning the pillows with a lint roller."
+    } ]
+  }, {
+    "tStartMs": 247422,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "我用粘毛器在枕头上滚动\nwǒ yòng nián máo qì zài zhěn tou shàng gǔn dòng\nI roll the lint roller over the pillow."
+    } ]
+  }, {
+    "tStartMs": 255148,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "滚动粘毛器\ngǔn dòng nián máo qì\nRolling the lint roller."
+    } ]
+  }, {
+    "tStartMs": 259238,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "来清洁枕头\nlái qīng jié zhěn tou\nTo clean the pillow."
+    } ]
+  }, {
+    "tStartMs": 263887,
+    "dDurationMs": 10480,
+    "segs": [ {
+      "utf8": "让粘毛器把枕头表面的脏东西粘掉\nràng nián máo qì bǎ zhěn tou biǎo miàn de zāng dōng xī nián diào\nLet the lint roller pick up the dirt on the pillow surface."
+    } ]
+  }, {
+    "tStartMs": 275424,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "这样枕头就干净了\nzhè yàng zhěn tou jiù gān jìng le\nThat way the pillow will be clean."
+    } ]
+  }, {
+    "tStartMs": 280320,
+    "dDurationMs": 6647,
+    "segs": [ {
+      "utf8": "粘毛器上面粘走了很多脏东西\nnián máo qì shàng miàn nián zǒu le hěn duō zāng dōng xī\nThe lint roller has picked up a lot of dirt."
+    } ]
+  }, {
+    "tStartMs": 287767,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "粘毛器\nnián máo qì\nLint roller."
+    } ]
+  }, {
+    "tStartMs": 289918,
+    "dDurationMs": 6936,
+    "segs": [ {
+      "utf8": "粘毛器的纸上面粘了很多脏东西\nnián máo qì de zhǐ shàng miàn nián le hěn duō zāng dōng xī\nA lot of dirt has stuck to the lint roller paper."
+    } ]
+  }, {
+    "tStartMs": 297269,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "有头发,还有一些灰尘\nyǒu tóu fà, huán yǒu yī xiē huī chén\nThere’s hair, and some dust too."
+    } ]
+  }, {
+    "tStartMs": 302215,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "所以我要把这一层纸撕掉\nsuǒ yǐ wǒ yào bǎ zhè yī céng zhǐ sī diào\nSo I’m going to tear off this layer of paper."
+    } ]
+  }, {
+    "tStartMs": 308329,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "把脏的这一层纸撕掉\nbǎ zāng de zhè yī céng zhǐ sī diào\nTear off the dirty layer of paper."
+    } ]
+  }, {
+    "tStartMs": 314793,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这个动作叫做撕\nzhè gè dòng zuò jiào zuò sī\nThis action is called tearing."
+    } ]
+  }, {
+    "tStartMs": 318237,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我把纸撕掉\nwǒ bǎ zhǐ sī diào\nI tear off the paper."
+    } ]
+  }, {
+    "tStartMs": 321882,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "撕掉\nsī diào\nTear off."
+    } ]
+  }, {
+    "tStartMs": 323727,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "这样粘毛器又干净了\nzhè yàng nián máo qì yòu gān jìng le\nNow the lint roller is clean again."
+    } ]
+  }, {
+    "tStartMs": 327967,
+    "dDurationMs": 7701,
+    "segs": [ {
+      "utf8": "我就可以继续清洁另一个枕头\nwǒ jiù kě yǐ jì xù qīng jié lìng yí gè zhěn tou\nThen I can keep cleaning the other pillow."
+    } ]
+  }, {
+    "tStartMs": 336234,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "这是第二个枕头\nzhè shì dì èr gè zhěn tou\nThis is the second pillow."
+    } ]
+  }, {
+    "tStartMs": 339594,
+    "dDurationMs": 6312,
+    "segs": [ {
+      "utf8": "我现在继续用粘毛器滚动\nwǒ xiàn zài jì xù yòng nián máo qì gǔn dòng\nNow I’ll keep rolling the lint roller."
+    } ]
+  }, {
+    "tStartMs": 346994,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "滚动粘毛器\ngǔn dòng nián máo qì\nRolling the lint roller."
+    } ]
+  }, {
+    "tStartMs": 351636,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "清洁这个枕头\nqīng jié zhè gè zhěn tou\nTo clean this pillow."
+    } ]
+  }, {
+    "tStartMs": 357556,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "把脏东西粘走\nbǎ zāng dōng xī nián zǒu\nPick up the dirt."
+    } ]
+  }, {
+    "tStartMs": 361977,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "这样枕头就干净了\nzhè yàng zhěn tou jiù gān jìng le\nThat way the pillow will be clean."
+    } ]
+  }, {
+    "tStartMs": 365897,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "我把干净的枕头放回原位\nwǒ bǎ gān jìng de zhěn tou fàng huí yuán wèi\nI put the clean pillow back in its place."
+    } ]
+  }, {
+    "tStartMs": 372576,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "把它放回原来的位置\nbǎ tā fàng huí yuán lái de wèi zhì\nPut it back where it was."
+    } ]
+  }, {
+    "tStartMs": 381656,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "把枕头放回原来的位置\nbǎ zhěn tou fàng huí yuán lái de wèi zhì\nPut the pillow back where it belongs."
+    } ]
+  }, {
+    "tStartMs": 388416,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "枕头就干净了\nzhěn tou jiù gān jìng le\nThen the pillow is clean."
+    } ]
+  }, {
+    "tStartMs": 392342,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "床上还有床单\nchuáng shàng huán yǒu chuáng dān\nThere are also bedsheets on the bed."
+    } ]
+  }, {
+    "tStartMs": 396506,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "这一张铺在床上的布\nzhè yī zhāng pū zài chuáng shàng de bù\nThe cloth spread on the bed."
+    } ]
+  }, {
+    "tStartMs": 402200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这个叫做床单\nzhè gè jiào zuò chuáng dān\nThis is called a bedsheet."
+    } ]
+  }, {
+    "tStartMs": 405726,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这是床单\nzhè shì chuáng dān\nThis is a bedsheet."
+    } ]
+  }, {
+    "tStartMs": 408201,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "床单铺在床上\nchuáng dān pū zài chuáng shàng\nThe bedsheet is spread on the bed."
+    } ]
+  }, {
+    "tStartMs": 412269,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "床单\nchuáng dān\nBedsheet."
+    } ]
+  }, {
+    "tStartMs": 414145,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "我要用长的粘毛器\nwǒ yào yòng cháng de nián máo qì\nI’m going to use the long lint roller"
+    } ]
+  }, {
+    "tStartMs": 421120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "来清洁床单\nlái qīng jié chuáng dān\nto clean the bedsheet."
+    } ]
+  }, {
+    "tStartMs": 426774,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "这也是一个粘毛器\nzhè yě shì yí gè nián máo qì\nThis is also a lint roller."
+    } ]
+  }, {
+    "tStartMs": 432153,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "粘毛器\nnián máo qì\nLint roller."
+    } ]
+  }, {
+    "tStartMs": 433567,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "它是长的粘毛器\ntā shì cháng de nián máo qì\nIt’s the long lint roller."
+    } ]
+  }, {
+    "tStartMs": 440131,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "刚才用的这个是短的\ngāng cái yòng de zhè gè shì duǎn de\nThe one we just used was short."
+    } ]
+  }, {
+    "tStartMs": 446512,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是长的\nzhè shì cháng de\nThis one is long."
+    } ]
+  }, {
+    "tStartMs": 449181,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "长的,短的,长的,短的\ncháng de, duǎn de, cháng de, duǎn de\nLong, short, long, short."
+    } ]
+  }, {
+    "tStartMs": 454570,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "它们都是粘毛器\ntā men dū shì nián máo qì\nThey’re all lint rollers."
+    } ]
+  }, {
+    "tStartMs": 460902,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "我现在要用长的粘毛器\nwǒ xiàn zài yào yòng cháng de nián máo qì\nNow I’m going to use the long lint roller"
+    } ]
+  }, {
+    "tStartMs": 466932,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "来清洁床单\nlái qīng jié chuáng dān\nto clean the bedsheet."
+    } ]
+  }, {
+    "tStartMs": 471208,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "铺在床上的床单\npū zài chuáng shàng de chuáng dān\nThe bedsheet spread on the bed."
+    } ]
+  }, {
+    "tStartMs": 475048,
+    "dDurationMs": 4282,
+    "segs": [ {
+      "utf8": "我还是用粘毛器\nwǒ huán shì yòng nián máo qì\nI’m still using the lint roller."
+    } ]
+  }, {
+    "tStartMs": 479730,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "在床单上面滚动\nzài chuáng dān shàng miàn gǔn dòng\nRolling it over the bedsheet."
+    } ]
+  }, {
+    "tStartMs": 485052,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "滚动来清洁床单\ngǔn dòng lái qīng jié chuáng dān\nRolling it back and forth to clean the bedsheet."
+    } ]
+  }, {
+    "tStartMs": 490832,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "来回地滚动\nlái huí dì gǔn dòng\nRolling back and forth."
+    } ]
+  }, {
+    "tStartMs": 495787,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "粘毛器上面粘了很多灰尘\nnián máo qì shàng miàn nián le hěn duō huī chén\nA lot of dust has stuck to the lint roller."
+    } ]
+  }, {
+    "tStartMs": 503207,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "还有脏东西\nhuán yǒu zāng dōng xī\nAnd other dirt."
+    } ]
+  }, {
+    "tStartMs": 505447,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "我还是把这一层纸撕掉\nwǒ huán shì bǎ zhè yī céng zhǐ sī diào\nI’m going to tear off this layer of paper again."
+    } ]
+  }, {
+    "tStartMs": 512222,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "把它撕掉\nbǎ tā sī diào\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 514605,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因为它脏了\nyīn wèi tā zāng le\nBecause it’s dirty."
+    } ]
+  }, {
+    "tStartMs": 517427,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "把它撕掉\nbǎ tā sī diào\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 521020,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "这是一层纸\nzhè shì yī céng zhǐ\nThis is a layer of paper."
+    } ]
+  }, {
+    "tStartMs": 524060,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "把它撕掉\nbǎ tā sī diào\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 533747,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "又得到了一层干净的纸\nyòu dé dào le yī céng gān jìng de zhǐ\nNow I have a clean layer of paper again."
+    } ]
+  }, {
+    "tStartMs": 538427,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "这一层是干净的\nzhè yī céng shì gān jìng de\nThis layer is clean."
+    } ]
+  }, {
+    "tStartMs": 541549,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我会再清洁多一次\nwǒ huì zài qīng jié duō yī cì\nI’ll clean it once more."
+    } ]
+  }, {
+    "tStartMs": 545549,
+    "dDurationMs": 3506,
+    "segs": [ {
+      "utf8": "再滚动它一次\nzài gǔn dòng tā yī cì\nRoll it again."
+    } ]
+  }, {
+    "tStartMs": 549073,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "来清洁床单\nlái qīng jié chuáng dān\nTo clean the bedsheet."
+    } ]
+  }, {
+    "tStartMs": 555830,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这一次的粘毛器\nzhè yī cì de nián máo qì\nThis time the lint roller"
+    } ]
+  }, {
+    "tStartMs": 559232,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "已经没有那么脏了\nyǐ jīng méi yǒu nà me zāng le\nisn’t as dirty anymore."
+    } ]
+  }, {
+    "tStartMs": 563265,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "所以床单干净了\nsuǒ yǐ chuáng dān gān jìng le\nSo the bedsheet is clean."
+    } ]
+  }, {
+    "tStartMs": 567454,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "我再把这一层纸撕掉\nwǒ zài bǎ zhè yī céng zhǐ sī diào\nI’ll tear off this layer of paper again."
+    } ]
+  }, {
+    "tStartMs": 572397,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "撕掉\nsī diào\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 575293,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "这个就可以丢掉,不要了\nzhè gè jiù kě yǐ diū diào, bú yào le\nThis can be thrown away, it’s no longer needed."
+    } ]
+  }, {
+    "tStartMs": 581613,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "粘毛器\nnián máo qì\nLint roller."
+    } ]
+  }, {
+    "tStartMs": 584020,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "长的粘毛器,和短的粘毛器\ncháng de nián máo qì, hé duǎn de nián máo qì\nThe long lint roller and the short lint roller."
+    } ]
+  }, {
+    "tStartMs": 594033,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "这样我的床铺就清洁干净了\nzhè yàng wǒ de chuáng pù jiù qīng jié gān jìng le\nThat way my bed is all clean."
+    } ]
+  }, {
+    "tStartMs": 603098,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我现在把被子\nwǒ xiàn zài bǎ bèi zi\nNow I’m going to put the blanket"
+    } ]
+  }, {
+    "tStartMs": 606395,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "被子放回床上\nbèi zi fàng huí chuáng shàng\nput the blanket back on the bed."
+    } ]
+  }, {
+    "tStartMs": 610627,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "这是被子\nzhè shì bèi zi\nThis is a blanket."
+    } ]
+  }, {
+    "tStartMs": 612547,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "被子\nbèi zi\nBlanket."
+    } ]
+  }, {
+    "tStartMs": 613407,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "我把被子放在干净的床上\nwǒ bǎ bèi zi fàng zài gān jìng de chuáng shàng\nI put the blanket on the clean bed."
+    } ]
+  }, {
+    "tStartMs": 619289,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "被子放回来\nbèi zi fàng huí lái\nPut the blanket back."
+    } ]
+  }, {
+    "tStartMs": 623305,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "第二张被子也放回床上\ndì èr zhāng bèi zi yě fàng huí chuáng shàng\nThe second blanket is also put back on the bed."
+    } ]
+  }, {
+    "tStartMs": 628272,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "放回来\nfàng huí lái\nPut it back."
+    } ]
+  }, {
+    "tStartMs": 630707,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "这样我的床就完成了清洁\nzhè yàng wǒ de chuáng jiù wán chéng le qīng jié\nThat way I’ve finished cleaning my bed."
+    } ]
+  }, {
+    "tStartMs": 637418,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "接下来我要清洁客厅,客厅\njiē xià lái wǒ yào qīng jié kè tīng, kè tīng\nNext I’m going to clean the living room, the living room."
+    } ]
+  }, {
+    "tStartMs": 643972,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "这里是客厅\nzhè lǐ shì kè tīng\nThis is the living room."
+    } ]
+  }, {
+    "tStartMs": 647418,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "我要打扫,打扫客厅,客厅\nwǒ yào dǎ sǎo, dǎ sǎo kè tīng, kè tīng\nI’m going to clean, clean the living room, the living room."
+    } ]
+  }, {
+    "tStartMs": 653692,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "客厅有沙发\nkè tīng yǒu shā fā\nThere is a sofa in the living room."
+    } ]
+  }, {
+    "tStartMs": 656386,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是沙发\nzhè shì shā fā\nThis is a sofa."
+    } ]
+  }, {
+    "tStartMs": 658718,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "沙发,还有地毯\nshā fā, huán yǒu dì tǎn\nA sofa, and a rug."
+    } ]
+  }, {
+    "tStartMs": 662232,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这一张是地毯\nzhè yī zhāng shì dì tǎn\nThis is a rug."
+    } ]
+  }, {
+    "tStartMs": 665688,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "地毯,沙发,地毯\ndì tǎn, shā fā, dì tǎn\nRug, sofa, rug."
+    } ]
+  }, {
+    "tStartMs": 669111,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "我先清洁沙发和地毯\nwǒ xiān qīng jié shā fā hé dì tǎn\nI’ll clean the sofa and the rug first."
+    } ]
+  }, {
+    "tStartMs": 674311,
+    "dDurationMs": 5374,
+    "segs": [ {
+      "utf8": "我还是会用粘毛器\nwǒ huán shì huì yòng nián máo qì\nI’ll still use the lint roller."
+    } ]
+  }, {
+    "tStartMs": 679948,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "用粘毛器来清洁沙发\nyòng nián máo qì lái qīng jié shā fā\nUse the lint roller to clean the sofa."
+    } ]
+  }, {
+    "tStartMs": 685143,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "因为我养猫\nyīn wèi wǒ yǎng māo\nBecause I have a cat."
+    } ]
+  }, {
+    "tStartMs": 687757,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这是我的猫\nzhè shì wǒ de māo\nThis is my cat."
+    } ]
+  }, {
+    "tStartMs": 690284,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "沙发上会粘有一些猫的毛\nshā fā shàng huì nián yǒu yī xiē māo de máo\nSome cat hair sticks to the sofa."
+    } ]
+  }, {
+    "tStartMs": 696745,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "所以我用粘毛器\nsuǒ yǐ wǒ yòng nián máo qì\nSo I use the lint roller"
+    } ]
+  }, {
+    "tStartMs": 700110,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "用这个短的小的粘毛器\nyòng zhè gè duǎn de xiǎo de nián máo qì\nusing this short, small lint roller"
+    } ]
+  }, {
+    "tStartMs": 705081,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "来清洁沙发\nlái qīng jié shā fā\nto clean the sofa."
+    } ]
+  }, {
+    "tStartMs": 708444,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "还是像清洁床单一样\nhái shì xiàng qīng jié chuáng dān yī yàng\nJust like when cleaning the bedsheet,"
+    } ]
+  }, {
+    "tStartMs": 713816,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "我用粘毛器滚动\nwǒ yòng nián máo qì gǔn dòng\nI roll the lint roller"
+    } ]
+  }, {
+    "tStartMs": 717383,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "在沙发上滚动来清洁\nzài shā fā shàng gǔn dòng lái qīng jié\nrolling it over the sofa to clean it."
+    } ]
+  }, {
+    "tStartMs": 724529,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "上面粘了\nshàng miàn nián le\nIt has stuck to"
+    } ]
+  }, {
+    "tStartMs": 726491,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "已经粘了很多脏的东西\nyǐ jīng nián le hěn duō zāng de dōng xī\nit’s already picked up a lot of dirt."
+    } ]
+  }, {
+    "tStartMs": 731704,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "有毛发和灰尘\nyǒu máo fà hé huī chén\nThere’s hair and dust."
+    } ]
+  }, {
+    "tStartMs": 738452,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "滚动\ngǔn dòng\nRolling."
+    } ]
+  }, {
+    "tStartMs": 739991,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "让粘毛器在沙发上滚动来清洁\nràng nián máo qì zài shā fā shàng gǔn dòng lái qīng jié\nLet the lint roller roll over the sofa to clean it."
+    } ]
+  }, {
+    "tStartMs": 748178,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "很多的脏东西\nhěn duō de zāng dōng xī\nA lot of dirt."
+    } ]
+  }, {
+    "tStartMs": 750898,
+    "dDurationMs": 6707,
+    "segs": [ {
+      "utf8": "我还是把这一层脏的纸撕掉\nwǒ huán shì bǎ zhè yī céng zāng de zhǐ sī diào\nI’ll tear off this dirty layer of paper again."
+    } ]
+  }, {
+    "tStartMs": 758234,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "撕掉它\nsī diào tā\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 760874,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "撕掉不要了\nsī diào bú yào le\nTear it off and throw it away."
+    } ]
+  }, {
+    "tStartMs": 763714,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "有了干净的粘毛纸\nyǒu le gān jìng de nián máo zhǐ\nNow I have a clean lint roller sheet."
+    } ]
+  }, {
+    "tStartMs": 766834,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "我再继续滚动\nwǒ zài jì xù gǔn dòng\nI’ll keep rolling."
+    } ]
+  }, {
+    "tStartMs": 770968,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "再清洁一次\nzài qīng jié yī cì\nClean it again."
+    } ]
+  }, {
+    "tStartMs": 775138,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Oh sorry\nOh sorry\nOh sorry"
+    } ]
+  }, {
+    "tStartMs": 780928,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "继续把这一层脏的纸再撕掉\njì xù bǎ zhè yī céng zāng de zhǐ zài sī diào\nKeep tearing off this dirty layer of paper."
+    } ]
+  }, {
+    "tStartMs": 788118,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "撕掉它\nsī diào tā\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 789759,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "撕掉\nsī diào\nTear it off."
+    } ]
+  }, {
+    "tStartMs": 792125,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "这样沙发就清洁好了\nzhè yàng shā fā jiù qīng jié hǎo le\nNow the sofa is clean."
+    } ]
+  }, {
+    "tStartMs": 799213,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "现在我来清洁地毯,地毯,地毯\nxiàn zài wǒ lái qīng jié dì tǎn, dì tǎn, dì tǎn\nNow I’m going to clean the rug, the rug, the rug."
+    } ]
+  }, {
+    "tStartMs": 804893,
+    "dDurationMs": 3054,
+    "segs": [ {
+      "utf8": "我先把茶几\nwǒ xiān bǎ chá jī\nI’ll first move the coffee table"
+    } ]
+  }, {
+    "tStartMs": 808228,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "这一张小的桌子\nzhè yī zhāng xiǎo de zhuō zǐ\nthis small table."
+    } ]
+  }, {
+    "tStartMs": 811619,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "这一张叫做茶几,茶几\nzhè yī zhāng jiào zuò chá jī, chá jī\nThis is called a coffee table, a coffee table."
+    } ]
+  }, {
+    "tStartMs": 815859,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我先把茶几移开\nwǒ xiān bǎ chá jī yí kāi\nI’ll move the coffee table away first."
+    } ]
+  }, {
+    "tStartMs": 820831,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "让它离开地毯\nràng tā lí kāi dì tǎn\nLet it leave the rug."
+    } ]
+  }, {
+    "tStartMs": 824035,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "先把茶几移走\nxiān bǎ chá jī yí zǒu\nMove the coffee table away first."
+    } ]
+  }, {
+    "tStartMs": 827935,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "把它移开\nbǎ tā yí kāi\nMove it aside."
+    } ]
+  }, {
+    "tStartMs": 833823,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "地毯上还有一些杂物\ndì tǎn shàng huán yǒu yī xiē zá wù\nThere are still some things on the rug."
+    } ]
+  }, {
+    "tStartMs": 838193,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "比如逗猫棒\nbǐ rú dòu māo bàng\nFor example, a cat toy."
+    } ]
+  }, {
+    "tStartMs": 840985,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这是一个逗猫棒\nzhè shì yí gè dòu māo bàng\nThis is a cat toy."
+    } ]
+  }, {
+    "tStartMs": 843511,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "是猫咪的玩具\nshì māo mī de wán jù\nIt’s a toy for cats."
+    } ]
+  }, {
+    "tStartMs": 846391,
+    "dDurationMs": 4089,
+    "segs": [ {
+      "utf8": "我也把它先放在旁边\nwǒ yě bǎ tā xiān fàng zài páng biān\nI’ll also put it aside first."
+    } ]
+  }, {
+    "tStartMs": 850815,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "放到沙发上\nfàng dào shā fā shàng\nPut it on the sofa."
+    } ]
+  }, {
+    "tStartMs": 853025,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "放在沙发上\nfàng zài shā fā shàng\nPut it on the sofa"
+    } ]
+  }, {
+    "tStartMs": 856497,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "这是一张靠背椅\nzhè shì yī zhāng kào bèi yǐ\nThis is an armchair"
+    } ]
+  }, {
+    "tStartMs": 859927,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "靠背椅\nkào bèi yǐ\nArmchair"
+    } ]
+  }, {
+    "tStartMs": 861207,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "我也把它拿走\nwǒ yě bǎ tā ná zǒu\nI’ll take it away too"
+    } ]
+  }, {
+    "tStartMs": 864337,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "放在沙发上\nfàng zài shā fā shàng\nPut it on the sofa"
+    } ]
+  }, {
+    "tStartMs": 867897,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "还有一些杂物\nhuán yǒu yī xiē zá wù\nThere are also some clutter"
+    } ]
+  }, {
+    "tStartMs": 870697,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "我先把它们拿走\nwǒ xiān bǎ tā men ná zǒu\nI’ll take them away first"
+    } ]
+  }, {
+    "tStartMs": 876059,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "放在旁边\nfàng zài páng biān\nPut it aside"
+    } ]
+  }, {
+    "tStartMs": 881219,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "这样地毯上就没有别的东西了\nzhè yàng dì tǎn shàng jiù méi yǒu bié de dōng xī le\nThat way there won’t be anything else on the carpet"
+    } ]
+  }, {
+    "tStartMs": 886579,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "我可以开始清洁地毯\nwǒ kě yǐ kāi shǐ qīng jié dì tǎn\nI can start cleaning the carpet"
+    } ]
+  }, {
+    "tStartMs": 892872,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "我会用吸尘器\nwǒ huì yòng xī chén qì\nI’ll use the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 896112,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这是吸尘器\nzhè shì xī chén qì\nThis is a vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 898900,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "我用吸尘器来清洁\nwǒ yòng xī chén qì lái qīng jié\nI use the vacuum cleaner to clean"
+    } ]
+  }, {
+    "tStartMs": 903280,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "清洁地毯\nqīng jié dì tǎn\nClean the carpet"
+    } ]
+  }, {
+    "tStartMs": 906908,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这是吸尘器的机器\nzhè shì xī chén qì de jī qì\nThis is the vacuum cleaner unit"
+    } ]
+  }, {
+    "tStartMs": 911123,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "这是一个小的吸头\nzhè shì yí gè xiǎo de xī tóu\nThis is a small nozzle"
+    } ]
+  }, {
+    "tStartMs": 914636,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "吸头\nxī tóu\nNozzle"
+    } ]
+  }, {
+    "tStartMs": 916521,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "我先把这个吸头\nwǒ xiān bǎ zhè gè xī tóu\nI’ll first take this nozzle"
+    } ]
+  }, {
+    "tStartMs": 919882,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "装到吸尘器上\nzhuāng dào xī chén qì shàng\nattach it to the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 923510,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "把它装\nbǎ tā zhuāng\nAttach it"
+    } ]
+  }, {
+    "tStartMs": 925508,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "安装\nān zhuāng\nInstall it"
+    } ]
+  }, {
+    "tStartMs": 926588,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "安装到吸尘器上面\nān zhuāng dào xī chén qì shàng miàn\nInstall it onto the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 930574,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "这样就可以用吸尘器来清洁地毯\nzhè yàng jiù kě yǐ yòng xī chén qì lái qīng jié dì tǎn\nThen I can use the vacuum cleaner to clean the carpet"
+    } ]
+  }, {
+    "tStartMs": 937141,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "吸尘器\nxī chén qì\nVacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 939486,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "这个吸尘器的开关在这里\nzhè gè xī chén qì de kāi guān zài zhè lǐ\nThe switch for this vacuum cleaner is here"
+    } ]
+  }, {
+    "tStartMs": 943672,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "这是它的开关\nzhè shì tā de kāi guān\nThis is its switch"
+    } ]
+  }, {
+    "tStartMs": 946411,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "开关,开关\nkāi guān, kāi guān\nSwitch, switch"
+    } ]
+  }, {
+    "tStartMs": 949631,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "摁一下\nèn yī xià\nPress it"
+    } ]
+  }, {
+    "tStartMs": 950992,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "摁住它\nèn zhù tā\nHold it down"
+    } ]
+  }, {
+    "tStartMs": 953952,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "吸尘器就可以工作\nxī chén qì jiù kě yǐ gōng zuò\nThe vacuum cleaner can start working"
+    } ]
+  }, {
+    "tStartMs": 957656,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "工作\ngōng zuò\nWork"
+    } ]
+  }, {
+    "tStartMs": 959232,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "摁住开关\nèn zhù kāi guān\nHold down the switch"
+    } ]
+  }, {
+    "tStartMs": 961232,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "让吸尘器工作\nràng xī chén qì gōng zuò\nMake the vacuum cleaner work"
+    } ]
+  }, {
+    "tStartMs": 968325,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "我用吸尘器把地毯都吸了一遍\nwǒ yòng xī chén qì bǎ dì tǎn dū xī le yī biàn\nI vacuumed the whole carpet"
+    } ]
+  }, {
+    "tStartMs": 974217,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "这样地毯算是干净了\nzhè yàng dì tǎn suàn shì gān jìng le\nThat means the carpet is clean"
+    } ]
+  }, {
+    "tStartMs": 979159,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "清洁完地毯和沙发之后\nqīng jié wán dì tǎn hé shā fā zhī hòu\nAfter cleaning the carpet and sofa"
+    } ]
+  }, {
+    "tStartMs": 988566,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "我要清洁客厅的地板,地板\nwǒ yào qīng jié kè tīng de dì bǎn, dì bǎn\nI’m going to clean the living room floor, the floor"
+    } ]
+  }, {
+    "tStartMs": 995382,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我还是会用吸尘器\nwǒ huán shì huì yòng xī chén qì\nI’ll still use the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 999781,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "用吸尘器清洁客厅的地板\nyòng xī chén qì qīng jié kè tīng de dì bǎn\nUse the vacuum cleaner to clean the living room floor"
+    } ]
+  }, {
+    "tStartMs": 1005979,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "吸尘\nxī chén\nVacuuming"
+    } ]
+  }, {
+    "tStartMs": 1008622,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "刚才我用吸尘器清洁地毯,地毯\ngāng cái wǒ yòng xī chén qì qīng jié dì tǎn, dì tǎn\nJust now I used the vacuum cleaner to clean the carpet, the carpet"
+    } ]
+  }, {
+    "tStartMs": 1016589,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "用的是这个小的,小的,吸头\nyòng de shì zhè gè xiǎo de, xiǎo de, xī tóu\nI used this small, small nozzle"
+    } ]
+  }, {
+    "tStartMs": 1023108,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "吸尘的吸头\nxī chén de xī tóu\nVacuum nozzle"
+    } ]
+  }, {
+    "tStartMs": 1025674,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "但是地板很大\ndàn shì dì bǎn hěn dà\nBut the floor is very big"
+    } ]
+  }, {
+    "tStartMs": 1029281,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "所以我要换,我要换一个吸头\nsuǒ yǐ wǒ yào huàn, wǒ yào huàn yí gè xī tóu\nSo I need to change, I need to change the nozzle"
+    } ]
+  }, {
+    "tStartMs": 1035823,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "我先把这个小的,小的吸头取下来\nwǒ xiān bǎ zhè gè xiǎo de, xiǎo de xī tóu qǔ xià lái\nI’ll first take off this small, small nozzle"
+    } ]
+  }, {
+    "tStartMs": 1043417,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "把它拆,拆下来,拆下来\nbǎ tā chāi, chāi xià lái, chāi xià lái\nTake it off, remove it, remove it"
+    } ]
+  }, {
+    "tStartMs": 1048506,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "换一个长的,长的吸头\nhuàn yí gè cháng de, cháng de xī tóu\nChange to a long, long nozzle"
+    } ]
+  }, {
+    "tStartMs": 1055906,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "这是一个长的吸头\nzhè shì yí gè cháng de xī tóu\nThis is a long nozzle"
+    } ]
+  }, {
+    "tStartMs": 1060953,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "刚才是小的、短的吸头\ngāng cái shì xiǎo de 、 duǎn de xī tóu\nJust now it was a small, short nozzle"
+    } ]
+  }, {
+    "tStartMs": 1065701,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "我要换成这个长的,长的吸头\nwǒ yào huàn chéng zhè gè cháng de, cháng de xī tóu\nI want to switch to this long, long nozzle"
+    } ]
+  }, {
+    "tStartMs": 1072664,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "来吸地板\nlái xī dì bǎn\nto vacuum the floor"
+    } ]
+  }, {
+    "tStartMs": 1076384,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "还是把这个吸头安装\nhái shì bǎ zhè gè xī tóu ān zhuāng\nStill attach this nozzle"
+    } ]
+  }, {
+    "tStartMs": 1081279,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "安装到吸尘器的机器上\nān zhuāng dào xī chén qì de jī qì shàng\nattach it to the vacuum cleaner unit"
+    } ]
+  }, {
+    "tStartMs": 1086358,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "把它装上去\nbǎ tā zhuāng shǎng qù\nPut it on"
+    } ]
+  }, {
+    "tStartMs": 1089263,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这样就装好了\nzhè yàng jiù zhuāng hǎo le\nNow it’s attached"
+    } ]
+  }, {
+    "tStartMs": 1092158,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "我现在要吸尘,吸尘\nwǒ xiàn zài yào xī chén, xī chén\nI’m going to vacuum now, vacuum"
+    } ]
+  }, {
+    "tStartMs": 1097753,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "清洁客厅的地板,地板\nqīng jié kè tīng de dì bǎn, dì bǎn\nclean the living room floor, the floor"
+    } ]
+  }, {
+    "tStartMs": 1109384,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "这就是地板,地板\nzhè jiù shì dì bǎn, dì bǎn\nThis is the floor, the floor"
+    } ]
+  }, {
+    "tStartMs": 1113052,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "我用吸尘器清洁\nwǒ yòng xī chén qì qīng jié\nI use the vacuum cleaner to clean"
+    } ]
+  }, {
+    "tStartMs": 1118257,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "用吸尘器清洁地板\nyòng xī chén qì qīng jié dì bǎn\nUse the vacuum cleaner to clean the floor"
+    } ]
+  }, {
+    "tStartMs": 1122417,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "吸尘\nxī chén\nVacuuming"
+    } ]
+  }, {
+    "tStartMs": 1123537,
+    "dDurationMs": 3394,
+    "segs": [ {
+      "utf8": "我现在在吸尘\nwǒ xiàn zài zài xī chén\nI’m vacuuming now"
+    } ]
+  }, {
+    "tStartMs": 1127257,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "吸尘\nxī chén\nVacuuming"
+    } ]
+  }, {
+    "tStartMs": 1130923,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "我刚刚吸完尘,吸完尘\nwǒ gāng gāng xī wán chén, xī wán chén\nI just finished vacuuming, finished vacuuming"
+    } ]
+  }, {
+    "tStartMs": 1136613,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "把客厅的地板\nbǎ kè tīng de dì bǎn\nthe living room floor"
+    } ]
+  }, {
+    "tStartMs": 1139812,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "地板清洁干净了\ndì bǎn qīng jié gān jìng le\nThe floor is now clean"
+    } ]
+  }, {
+    "tStartMs": 1143246,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "现在我要把吸尘器\nxiàn zài wǒ yào bǎ xī chén qì\nNow I’m going to empty the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1147887,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "吸尘器里面的垃圾\nxī chén qì lǐ miàn de lā jī\nthe trash inside the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1152167,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "垃圾倒掉,倒掉\nlā jī dǎo diào, dǎo diào\ndump the trash, dump it"
+    } ]
+  }, {
+    "tStartMs": 1155784,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "因为吸尘有很多垃圾\nyīn wèi xī chén yǒu hěn duō lā jī\nbecause vacuuming collects a lot of trash"
+    } ]
+  }, {
+    "tStartMs": 1160929,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "有灰尘、头发\nyǒu huī chén 、 tóu fà\nThere’s dust and hair"
+    } ]
+  }, {
+    "tStartMs": 1164188,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "它装在这里面\ntā zhuāng zài zhè lǐ miàn\nIt’s stored in here"
+    } ]
+  }, {
+    "tStartMs": 1167217,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我要把它倒掉,倒掉\nwǒ yào bǎ tā dǎo diào, dǎo diào\nI’m going to dump it, dump it"
+    } ]
+  }, {
+    "tStartMs": 1171091,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "倒在垃圾桶\ndǎo zài lā jī tǒng\ninto the trash can"
+    } ]
+  }, {
+    "tStartMs": 1174730,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "这是垃圾桶,垃圾桶\nzhè shì lā jī tǒng, lā jī tǒng\nThis is a trash can, trash can"
+    } ]
+  }, {
+    "tStartMs": 1179616,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "垃圾桶的盖子,盖子\nlā jī tǒng de gài zi, gài zi\nThe lid of the trash can, lid"
+    } ]
+  }, {
+    "tStartMs": 1182983,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "把它打开\nbǎ tā dǎ kāi\nOpen it"
+    } ]
+  }, {
+    "tStartMs": 1185367,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "打开盖子\ndǎ kāi gài zi\nOpen the lid"
+    } ]
+  }, {
+    "tStartMs": 1188487,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "垃圾桶的盖子打开\nlā jī tǒng de gài zi dǎ kāi\nOpen the trash can lid"
+    } ]
+  }, {
+    "tStartMs": 1193925,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "然后把吸尘器里面的垃圾倒掉\nrán hòu bǎ xī chén qì lǐ miàn de lā jī dǎo diào\nThen dump out the trash from the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1206306,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "倒完之后\ndǎo wán zhī hòu\nAfter dumping it out"
+    } ]
+  }, {
+    "tStartMs": 1208012,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "把垃圾桶的盖子盖回去\nbǎ lā jī tǒng de gài zi gài huí qù\nPut the trash can lid back on"
+    } ]
+  }, {
+    "tStartMs": 1214594,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "把它盖好\nbǎ tā gài hǎo\nClose it"
+    } ]
+  }, {
+    "tStartMs": 1218028,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "这样吸尘器就清洁好了\nzhè yàng xī chén qì jiù qīng jié hǎo le\nThen the vacuum cleaner is clean"
+    } ]
+  }, {
+    "tStartMs": 1223167,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是茶几\nzhè shì chá jī\nThis is a coffee table"
+    } ]
+  }, {
+    "tStartMs": 1227117,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这张小桌子叫做茶几\nzhè zhāng xiǎo zhuō zǐ jiào zuò chá jī\nThis small table is called a coffee table"
+    } ]
+  }, {
+    "tStartMs": 1230957,
+    "dDurationMs": 4202,
+    "segs": [ {
+      "utf8": "我的茶几现在很乱\nwǒ de chá jī xiàn zài hěn luàn\nMy coffee table is very messy right now"
+    } ]
+  }, {
+    "tStartMs": 1235478,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "很乱\nhěn luàn\nVery messy"
+    } ]
+  }, {
+    "tStartMs": 1237051,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "太多东西了\ntài duō dōng xī le\nToo many things"
+    } ]
+  }, {
+    "tStartMs": 1239336,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "很多东西在茶几上面\nhěn duō dōng xī zài chá jī shàng miàn\nThere are a lot of things on the coffee table"
+    } ]
+  }, {
+    "tStartMs": 1244971,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "所以我要收拾\nsuǒ yǐ wǒ yào shōu shí\nSo I need to tidy up"
+    } ]
+  }, {
+    "tStartMs": 1248104,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "收拾茶几\nshōu shí chá jī\nTidy up the coffee table"
+    } ]
+  }, {
+    "tStartMs": 1250811,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "把上面的东西整理\nbǎ shàng miàn de dōng xī zhěng lǐ\nOrganize the things on it"
+    } ]
+  }, {
+    "tStartMs": 1254891,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "整理一下\nzhěng lǐ yī xià\nOrganize it a bit"
+    } ]
+  }, {
+    "tStartMs": 1256643,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "还要擦一下\nhuán yào cā yī xià\nAnd wipe it too"
+    } ]
+  }, {
+    "tStartMs": 1259415,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "擦干净\ncā gān jìng\nWipe it clean"
+    } ]
+  }, {
+    "tStartMs": 1261066,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "把茶几擦干净\nbǎ chá jī cā gān jìng\nWipe the coffee table clean"
+    } ]
+  }, {
+    "tStartMs": 1264535,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那我现在开始整理\nnà wǒ xiàn zài kāi shǐ zhěng lǐ\nThen I’ll start organizing now"
+    } ]
+  }, {
+    "tStartMs": 1267735,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "我先把东西都放在旁边\nwǒ xiān bǎ dōng xī dū fàng zài páng biān\nI’ll first put everything aside"
+    } ]
+  }, {
+    "tStartMs": 1274375,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "把所有东西拿走\nbǎ suǒ yǒu dōng xī ná zǒu\nTake everything away"
+    } ]
+  }, {
+    "tStartMs": 1277055,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "放在旁边\nfàng zài páng biān\nPut it aside"
+    } ]
+  }, {
+    "tStartMs": 1282955,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "然后我用湿巾\nrán hòu wǒ yòng shī jīn\nThen I’ll use a wet wipe"
+    } ]
+  }, {
+    "tStartMs": 1286217,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "湿巾就是有水的纸巾\nshī jīn jiù shì yǒu shuǐ de zhǐ jīn\nA wet wipe is a tissue with water"
+    } ]
+  }, {
+    "tStartMs": 1292057,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "湿巾,它有水擦\nshī jīn, tā yǒu shuǐ cā\nWet wipe, it has water to wipe with"
+    } ]
+  }, {
+    "tStartMs": 1296287,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "我要用湿巾擦茶几\nwǒ yào yòng shī jīn cā chá jī\nI’m going to wipe the coffee table with a wet wipe"
+    } ]
+  }, {
+    "tStartMs": 1300731,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "擦，这个动作叫做擦\ncā， zhè gè dòng zuò jiào zuò cā\nWiping, this action is called wiping"
+    } ]
+  }, {
+    "tStartMs": 1305023,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我把茶几擦干净\nwǒ bǎ chá jī cā gān jìng\nI wipe the coffee table clean"
+    } ]
+  }, {
+    "tStartMs": 1310857,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "擦桌子\ncā zhuō zǐ\nWipe the table"
+    } ]
+  }, {
+    "tStartMs": 1312537,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "我在擦桌子\nwǒ zài cā zhuō zǐ\nI’m wiping the table"
+    } ]
+  }, {
+    "tStartMs": 1316554,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "等桌子干了之后\nděng zhuō zǐ gān le zhī hòu\nAfter the table dries"
+    } ]
+  }, {
+    "tStartMs": 1319954,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "因为湿巾有水\nyīn wèi shī jīn yǒu shuǐ\nBecause the wet wipe has water"
+    } ]
+  }, {
+    "tStartMs": 1323088,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "有水\nyǒu shuǐ\nHas water"
+    } ]
+  }, {
+    "tStartMs": 1324211,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "所以现在桌子是湿的\nsuǒ yǐ xiàn zài zhuō zǐ shì shī de\nSo the table is wet now"
+    } ]
+  }, {
+    "tStartMs": 1328269,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "湿的\nshī de\nWet"
+    } ]
+  }, {
+    "tStartMs": 1329366,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "还不能放东西\nhuán bù néng fàng dōng xī\nI can’t put anything on it yet"
+    } ]
+  }, {
+    "tStartMs": 1331981,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "我等一会儿等桌子干了\nwǒ děng yī huì ér děng zhuō zǐ gān le\nI’ll wait for a while until the table dries"
+    } ]
+  }, {
+    "tStartMs": 1336971,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "干了我再把东西放回来\ngān le wǒ zài bǎ dōng xī fàng huí lái\nWhen it dries, I’ll put the things back"
+    } ]
+  }, {
+    "tStartMs": 1341874,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "等一下\nděng yī xià\nWait a moment"
+    } ]
+  }, {
+    "tStartMs": 1343468,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "现在茶几已经干了\nxiàn zài chá jī yǐ jīng gān le\nNow the coffee table is already dry"
+    } ]
+  }, {
+    "tStartMs": 1348415,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "干爽了\ngān shuǎng le\nDry and fresh"
+    } ]
+  }, {
+    "tStartMs": 1349823,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "已经干了\nyǐ jīng gān le\nIt’s already dry"
+    } ]
+  }, {
+    "tStartMs": 1351508,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "所以我可以把东西都整理整齐\nsuǒ yǐ wǒ kě yǐ bǎ dōng xī dū zhěng lǐ zhěng qí\nSo I can put everything back in order"
+    } ]
+  }, {
+    "tStartMs": 1357297,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "放回来\nfàng huí lái\nPut it back"
+    } ]
+  }, {
+    "tStartMs": 1360148,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "首先是杂志\nshǒu xiān shì zá zhì\nFirst are the magazines"
+    } ]
+  }, {
+    "tStartMs": 1363439,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "有一些杂志\nyǒu yī xiē zá zhì\nThere are some magazines"
+    } ]
+  }, {
+    "tStartMs": 1369726,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "还有纸巾\nhuán yǒu zhǐ jīn\nAnd tissues"
+    } ]
+  }, {
+    "tStartMs": 1371482,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "这是纸巾\nzhè shì zhǐ jīn\nThis is a tissue"
+    } ]
+  }, {
+    "tStartMs": 1375071,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "和电脑,电脑\nhé diàn nǎo, diàn nǎo\nAnd the computer, computer"
+    } ]
+  }, {
+    "tStartMs": 1378480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "笔记本电脑\nbǐ jì běn diàn nǎo\nLaptop"
+    } ]
+  }, {
+    "tStartMs": 1381280,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "另一台电脑\nlìng yī tái diàn nǎo\nAnother computer"
+    } ]
+  }, {
+    "tStartMs": 1383761,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "和它们的充电线\nhé tā men de chōng diàn xiàn\nAnd their charging cables"
+    } ]
+  }, {
+    "tStartMs": 1387167,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "电脑的充电线\ndiàn nǎo de chōng diàn xiàn\nThe computer’s charging cable"
+    } ]
+  }, {
+    "tStartMs": 1389531,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "鼠标\nshǔ biāo\nMouse"
+    } ]
+  }, {
+    "tStartMs": 1390821,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "鼠标\nshǔ biāo\nMouse"
+    } ]
+  }, {
+    "tStartMs": 1391661,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "电脑的鼠标\ndiàn nǎo de shǔ biāo\nThe computer mouse"
+    } ]
+  }, {
+    "tStartMs": 1394522,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "和遥控器\nhé yáo kòng qì\nAnd the remote control"
+    } ]
+  }, {
+    "tStartMs": 1396282,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "这是遥控器\nzhè shì yáo kòng qì\nThis is a remote control"
+    } ]
+  }, {
+    "tStartMs": 1398424,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "看电视的遥控器\nkàn diàn shì de yáo kòng qì\nTV remote"
+    } ]
+  }, {
+    "tStartMs": 1402122,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "电视遥控器\ndiàn shì yáo kòng qì\nTV remote control"
+    } ]
+  }, {
+    "tStartMs": 1404828,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "也放回来\nyě fàng huí lái\nPut it back too"
+    } ]
+  }, {
+    "tStartMs": 1406954,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "还有一个硬盘\nhuán yǒu yí gè yìng pán\nThere’s also a hard drive"
+    } ]
+  }, {
+    "tStartMs": 1409602,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是我的硬盘\nzhè shì wǒ de yìng pán\nThis is my hard drive"
+    } ]
+  }, {
+    "tStartMs": 1412604,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "移动硬盘\nyí dòng yìng pán\nPortable hard drive"
+    } ]
+  }, {
+    "tStartMs": 1415604,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "储存,储存东西的硬盘\nchǔ cún, chǔ cún dōng xī de yìng pán\nA hard drive for storing things"
+    } ]
+  }, {
+    "tStartMs": 1419524,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "也放回来\nyě fàng huí lái\nPut it back too"
+    } ]
+  }, {
+    "tStartMs": 1421444,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "这样我的茶几就很整齐\nzhè yàng wǒ de chá jī jiù hěn zhěng qí\nNow my coffee table is very neat"
+    } ]
+  }, {
+    "tStartMs": 1426604,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "也很干净了\nyě hěn gān jìng le\nAnd very clean too"
+    } ]
+  }, {
+    "tStartMs": 1428444,
+    "dDurationMs": 4377,
+    "segs": [ {
+      "utf8": "我现在在厨房\nwǒ xiàn zài zài chú fáng\nI’m in the kitchen now"
+    } ]
+  }, {
+    "tStartMs": 1433211,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "这是我的厨房\nzhè shì wǒ de chú fáng\nThis is my kitchen"
+    } ]
+  }, {
+    "tStartMs": 1436601,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "厨房\nchú fáng\nKitchen"
+    } ]
+  }, {
+    "tStartMs": 1438040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "厨房的地板\nchú fáng de dì bǎn\nThe kitchen floor"
+    } ]
+  }, {
+    "tStartMs": 1440446,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我也需要清洁地板\nwǒ yě xū yào qīng jié dì bǎn\nI also need to clean the floor"
+    } ]
+  }, {
+    "tStartMs": 1443856,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "清洁厨房的地板\nqīng jié chú fáng de dì bǎn\nClean the kitchen floor"
+    } ]
+  }, {
+    "tStartMs": 1447847,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "但是厨房的地板\ndàn shì chú fáng de dì bǎn\nBut for the kitchen floor"
+    } ]
+  }, {
+    "tStartMs": 1450567,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "我不用吸尘器\nwǒ bù yòng xī chén qì\nI don’t use a vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1453942,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "我用扫把\nwǒ yòng sǎo bǎ\nI use a broom"
+    } ]
+  }, {
+    "tStartMs": 1457177,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这是扫把\nzhè shì sǎo bǎ\nThis is a broom"
+    } ]
+  }, {
+    "tStartMs": 1460327,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "我用扫把来扫地\nwǒ yòng sǎo bǎ lái sǎo dì\nI use a broom to sweep the floor"
+    } ]
+  }, {
+    "tStartMs": 1464400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "用扫把扫地\nyòng sǎo bǎ sǎo dì\nSweep the floor with a broom"
+    } ]
+  }, {
+    "tStartMs": 1467571,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "清洁厨房的地板\nqīng jié chú fáng de dì bǎn\nClean the kitchen floor"
+    } ]
+  }, {
+    "tStartMs": 1471091,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "我一般用扫把\nwǒ yī bān yòng sǎo bǎ\nI usually use a broom"
+    } ]
+  }, {
+    "tStartMs": 1473629,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "这是扫把\nzhè shì sǎo bǎ\nThis is a broom"
+    } ]
+  }, {
+    "tStartMs": 1475931,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "扫地\nsǎo dì\nSweep the floor"
+    } ]
+  }, {
+    "tStartMs": 1478411,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "厨房的地板\nchú fáng de dì bǎn\nThe kitchen floor"
+    } ]
+  }, {
+    "tStartMs": 1481760,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "有时候会有油\nyǒu shí hòu huì yǒu yóu\nSometimes there’s oil"
+    } ]
+  }, {
+    "tStartMs": 1485171,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "所以我不喜欢用吸尘器\nsuǒ yǐ wǒ bù xǐ huān yòng xī chén qì\nSo I don’t like to use a vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1491170,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "我会用扫把来扫地\nwǒ huì yòng sǎo bǎ lái sǎo dì\nI’ll use a broom to sweep the floor"
+    } ]
+  }, {
+    "tStartMs": 1494610,
+    "dDurationMs": 5056,
+    "segs": [ {
+      "utf8": "我刚刚用扫把\nwǒ gāng gāng yòng sǎo bǎ\nJust now I used a broom"
+    } ]
+  }, {
+    "tStartMs": 1500158,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "扫了这些灰尘,这些垃圾,这些垃圾出来\nsǎo le zhèi xiē huī chén, zhèi xiē lā jī, zhèi xiē lā jī chū lái\nto sweep up this dust, this trash, all this trash out"
+    } ]
+  }, {
+    "tStartMs": 1506398,
+    "dDurationMs": 3682,
+    "segs": [ {
+      "utf8": "我现在要用垃圾铲\nwǒ xiàn zài yào yòng lā jī chǎn\nNow I’m going to use a dustpan"
+    } ]
+  }, {
+    "tStartMs": 1510536,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这是垃圾铲\nzhè shì lā jī chǎn\nThis is a dustpan"
+    } ]
+  }, {
+    "tStartMs": 1515409,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "用扫把,用扫把,把垃圾\nyòng sǎo bǎ, yòng sǎo bǎ, bǎ lā jī\nUse the broom, use the broom, to sweep the trash"
+    } ]
+  }, {
+    "tStartMs": 1520267,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "扫进垃圾铲里\nsǎo jìn lā jī chǎn lǐ\ninto the dustpan"
+    } ]
+  }, {
+    "tStartMs": 1524066,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "用垃圾铲\nyòng lā jī chǎn\nUse the dustpan"
+    } ]
+  }, {
+    "tStartMs": 1526224,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "垃圾铲来装\nlā jī chǎn lái zhuāng\nto hold"
+    } ]
+  }, {
+    "tStartMs": 1529426,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "装垃圾\nzhuāng lā jī\nthe trash"
+    } ]
+  }, {
+    "tStartMs": 1531855,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "扫把把垃圾扫进\nsǎo bǎ bǎ lā jī sǎo jìn\nThe broom sweeps the trash"
+    } ]
+  }, {
+    "tStartMs": 1535898,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "扫进垃圾铲里面\nsǎo jìn lā jī chǎn lǐ miàn\ninto the dustpan"
+    } ]
+  }, {
+    "tStartMs": 1539731,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "用垃圾铲来装垃圾\nyòng lā jī chǎn lái zhuāng lā jī\nUse the dustpan to hold the trash"
+    } ]
+  }, {
+    "tStartMs": 1544026,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "待会儿再把垃圾铲\ndài huì ér zài bǎ lā jī chǎn\nI'll empty the dustpan later."
+    } ]
+  }, {
+    "tStartMs": 1547059,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "里面的垃圾倒,倒掉\nlǐ miàn de lā jī dǎo, dǎo diào\nPour out the trash inside, dump it out."
+    } ]
+  }, {
+    "tStartMs": 1551128,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "倒去垃圾桶\ndǎo qù lā jī tǒng\nDump it into the trash can."
+    } ]
+  }, {
+    "tStartMs": 1553501,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "把垃圾铲里面的垃圾倒进垃圾桶里\nbǎ lā jī chǎn lǐ miàn de lā jī dǎo jìn lā jī tǒng lǐ\nPour the trash from the dustpan into the trash can."
+    } ]
+  }, {
+    "tStartMs": 1559956,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "扫把,扫把\nsǎo bǎ, sǎo bǎ\nBroom, broom."
+    } ]
+  }, {
+    "tStartMs": 1562317,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "垃圾铲,垃圾铲\nlā jī chǎn, lā jī chǎn\nDustpan, dustpan."
+    } ]
+  }, {
+    "tStartMs": 1566730,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "扫干净之后\nsǎo gān jìng zhī hòu\nAfter sweeping it clean,"
+    } ]
+  }, {
+    "tStartMs": 1569525,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "我会用湿巾\nwǒ huì yòng shī jīn\nI'll use a wet wipe"
+    } ]
+  }, {
+    "tStartMs": 1572948,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "也是湿巾来拖地\nyě shì shī jīn lái tuō dì\nand a wet wipe to mop the floor."
+    } ]
+  }, {
+    "tStartMs": 1577595,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "拖地\ntuō dì\nMop the floor."
+    } ]
+  }, {
+    "tStartMs": 1580046,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "清洁厨房的地板\nqīng jié chú fáng de dì bǎn\nClean the kitchen floor."
+    } ]
+  }, {
+    "tStartMs": 1583889,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "拖地\ntuō dì\nMop the floor."
+    } ]
+  }, {
+    "tStartMs": 1586126,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "扫完之后再拖\nsǎo wán zhī hòu zài tuō\nMop after sweeping."
+    } ]
+  }, {
+    "tStartMs": 1589467,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "我现在在拖地\nwǒ xiàn zài zài tuō dì\nI'm mopping the floor now."
+    } ]
+  }, {
+    "tStartMs": 1595516,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "拖完地的地板就干净了\ntuō wán dì de dì bǎn jiù gān jìng le\nAfter mopping, the floor will be clean."
+    } ]
+  }, {
+    "tStartMs": 1600596,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "厨房的地板清洁好了\nchú fáng de dì bǎn qīng jié hǎo le\nThe kitchen floor has been cleaned."
+    } ]
+  }, {
+    "tStartMs": 1605747,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这些就是我今天\nzhèi xiē jiù shì wǒ jīn tiān\nThese are the things I did today"
+    } ]
+  }, {
+    "tStartMs": 1609591,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "打扫卫生和做家务的\ndǎ sǎo wèi shēng hé zuò jiā wù de\nwhile cleaning and doing housework."
+    } ]
+  }, {
+    "tStartMs": 1614420,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "全部内容\nquán bù nèi róng\nThat's everything."
+    } ]
+  }, {
+    "tStartMs": 1617127,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "你平时会打扫卫生吗？\nnǐ píng shí huì dǎ sǎo wèi shēng ma ？\nDo you usually clean?"
+    } ]
+  }, {
+    "tStartMs": 1622907,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "你做家务都会做\nnǐ zuò jiā wù dōu huì zuò\nWhen you do housework, what do you"
+    } ]
+  }, {
+    "tStartMs": 1626757,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "哪些事情\nněi xiē shì qíng\ndo?"
+    } ]
+  }, {
+    "tStartMs": 1629386,
+    "dDurationMs": 6121,
+    "segs": [ {
+      "utf8": "可以在下面的评论区告诉我\nkě yǐ zài xià miàn de píng lùn qū gào sù wǒ\nYou can tell me in the comments below."
+    } ]
+  }, {
+    "tStartMs": 1635987,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "谢谢观看\nxiè xiè guān kàn\nThanks for watching."
+    } ]
+  }, {
+    "tStartMs": 1637987,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "下个视频再见\nxià gè shì pín zài jiàn\nSee you in the next video."
+    } ]
+  } ]
+}

@@ -1,0 +1,811 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 147,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "hello，大家好，欢迎来到今天的中文教学视频\nhello， dà jiā hǎo， huān yíng lái dào jīn tiān de zhōng wén jiào xué shì pín\nHello, everyone, welcome to today's Chinese learning video."
+    } ]
+  }, {
+    "tStartMs": 5887,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "我是大贝。\nwǒ shì dà bèi。\nI'm Dabei."
+    } ]
+  }, {
+    "tStartMs": 7513,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "今天我们在火车站。\njīn tiān wǒ men zài huǒ chē zhàn。\nToday we're at the train station."
+    } ]
+  }, {
+    "tStartMs": 12473,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "火车站，\nhuǒ chē zhàn，\nTrain station,"
+    } ]
+  }, {
+    "tStartMs": 15273,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "那我们走吧。\nnà wǒ men zǒu bā。\nthen let's go."
+    } ]
+  }, {
+    "tStartMs": 19492,
+    "dDurationMs": 2182,
+    "segs": [ {
+      "utf8": "来到火车站，\nlái dào huǒ chē zhàn，\nComing to the train station,"
+    } ]
+  }, {
+    "tStartMs": 22234,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我们可以看到，\nwǒ men kě yǐ kàn dào，\nwe can see,"
+    } ]
+  }, {
+    "tStartMs": 24794,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "看到。\nkàn dào。\nsee."
+    } ]
+  }, {
+    "tStartMs": 26954,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "铁轨，\ntiě guǐ，\nrailway track,"
+    } ]
+  }, {
+    "tStartMs": 29434,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "铁轨，\ntiě guǐ，\nrailway track,"
+    } ]
+  }, {
+    "tStartMs": 31754,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这是铁轨。\nzhè shì tiě guǐ。\nThis is a railway track."
+    } ]
+  }, {
+    "tStartMs": 35001,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "在火车站\nzài huǒ chē zhàn\nAt the train station"
+    } ]
+  }, {
+    "tStartMs": 37721,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "有铁轨，\nyǒu tiě guǐ，\nthere are railway tracks,"
+    } ]
+  }, {
+    "tStartMs": 40282,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "火车在铁轨上行驶\nhuǒ chē zài tiě guǐ shàng xíng shǐ\ntrains run on the tracks."
+    } ]
+  }, {
+    "tStartMs": 47082,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "在火车站，\nzài huǒ chē zhàn，\nAt the train station,"
+    } ]
+  }, {
+    "tStartMs": 49642,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "我们可以看到。\nwǒ men kě yǐ kàn dào。\nwe can see."
+    } ]
+  }, {
+    "tStartMs": 53802,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "火车，\nhuǒ chē，\ntrain,"
+    } ]
+  }, {
+    "tStartMs": 56522,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这是火车，\nzhè shì huǒ chē，\nThis is a train,"
+    } ]
+  }, {
+    "tStartMs": 60122,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "这是正在行驶的火车。\nzhè shì zhèng zài xíng shǐ de huǒ chē。\nThis is a train that is running."
+    } ]
+  }, {
+    "tStartMs": 66042,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我们继续往下。\nwǒ men jì xù wǎng xià。\nLet's keep going."
+    } ]
+  }, {
+    "tStartMs": 69109,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这是显示屏，\nzhè shì xiǎn shì píng，\nThis is a display board,"
+    } ]
+  }, {
+    "tStartMs": 72709,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这是显示屏。\nzhè shì xiǎn shì píng。\nThis is a display board."
+    } ]
+  }, {
+    "tStartMs": 76629,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "来到火车站，\nlái dào huǒ chē zhàn，\nComing to the train station,"
+    } ]
+  }, {
+    "tStartMs": 78549,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "你需要在显示屏上\nnǐ xū yào zài xiǎn shì píng shàng\nyou need to check"
+    } ]
+  }, {
+    "tStartMs": 83212,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "查火车信息。\nchá huǒ chē xìn xī。\ntrain information on the display board."
+    } ]
+  }, {
+    "tStartMs": 87509,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "这是火车信息，\nzhè shì huǒ chē xìn xī，\nThis is train information,"
+    } ]
+  }, {
+    "tStartMs": 91989,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "这是不同的火车信息。\nzhè shì bù tóng de huǒ chē xìn xī。\nThis is different train information."
+    } ]
+  }, {
+    "tStartMs": 97269,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "那我们来看一下。\nnà wǒ men lái kàn yī xià。\nLet's take a look."
+    } ]
+  }, {
+    "tStartMs": 100784,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "这是火车车次。\nzhè shì huǒ chē chē cì。\nThis is the train number."
+    } ]
+  }, {
+    "tStartMs": 106144,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这是终点站。\nzhè shì zhōng diǎn zhàn。\nThis is the final destination."
+    } ]
+  }, {
+    "tStartMs": 110624,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "终点站。\nzhōng diǎn zhàn。\nFinal destination."
+    } ]
+  }, {
+    "tStartMs": 116544,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这是车站平台号。\nzhè shì chē zhàn píng tái hào。\nThis is the platform number."
+    } ]
+  }, {
+    "tStartMs": 121424,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "车站平台号。\nchē zhàn píng tái hào。\nPlatform number."
+    } ]
+  }, {
+    "tStartMs": 128304,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "下面的是重要的信息。\nxià miàn de shì zhòng yào de xìn xī。\nThe information below is important."
+    } ]
+  }, {
+    "tStartMs": 133424,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "重要的信息。\nzhòng yào de xìn xī。\nImportant information."
+    } ]
+  }, {
+    "tStartMs": 137024,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "如果有突发情况或者\nrú guǒ yǒu tū fā qíng kuàng huò zhě\nIf there is an emergency or"
+    } ]
+  }, {
+    "tStartMs": 141465,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "特殊情况，火车站会在这里显示\ntè shū qíng kuàng， huǒ chē zhàn huì zài zhè lǐ xiǎn shì\nspecial situation, the station will display it here."
+    } ]
+  }, {
+    "tStartMs": 148144,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "我们再说一遍，这是显示屏，\nwǒ men zài shuō yī biàn， zhè shì xiǎn shì píng，\nLet's say it again, this is a display board,"
+    } ]
+  }, {
+    "tStartMs": 153664,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "这是显示屏。\nzhè shì xiǎn shì píng。\nthis is a display board."
+    } ]
+  }, {
+    "tStartMs": 157344,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "继续往下。\njì xù wǎng xià。\nLet's keep going."
+    } ]
+  }, {
+    "tStartMs": 159351,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这是售票机。\nzhè shì shòu piào jī。\nThis is a ticket machine."
+    } ]
+  }, {
+    "tStartMs": 162871,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这是售票机。\nzhè shì shòu piào jī。\nThis is a ticket machine."
+    } ]
+  }, {
+    "tStartMs": 165991,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "你可以在售票机购买车票\nnǐ kě yǐ zài shòu piào jī gòu mǎi chē piào\nYou can buy tickets at the ticket machine"
+    } ]
+  }, {
+    "tStartMs": 171948,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你可以在售票机\nnǐ kě yǐ zài shòu piào jī\nYou can at the ticket machine"
+    } ]
+  }, {
+    "tStartMs": 174791,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "购买车票。\ngòu mǎi chē piào。\nbuy tickets."
+    } ]
+  }, {
+    "tStartMs": 177271,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "当然你也可以提前在网上\ndāng rán nǐ yě kě yǐ tí qián zài wǎng shàng\nOf course, you can also buy tickets online"
+    } ]
+  }, {
+    "tStartMs": 182471,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "购买车票。\ngòu mǎi chē piào。\nbuy tickets."
+    } ]
+  }, {
+    "tStartMs": 184471,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "在网上购买车票。\nzài wǎng shàng gòu mǎi chē piào。\nbuy tickets online."
+    } ]
+  }, {
+    "tStartMs": 188631,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是垃圾桶。\nzhè shì lā jī tǒng。\nThis is a trash can."
+    } ]
+  }, {
+    "tStartMs": 191751,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这是垃圾桶。\nzhè shì lā jī tǒng。\nThis is a trash can."
+    } ]
+  }, {
+    "tStartMs": 194808,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "我们继续往下。\nwǒ men jì xù wǎng xià。\nLet's keep going."
+    } ]
+  }, {
+    "tStartMs": 197725,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "在我的身后有一台\nzài wǒ de shēn hòu yǒu yī tái\nBehind me there is a"
+    } ]
+  }, {
+    "tStartMs": 202296,
+    "dDurationMs": 1429,
+    "segs": [ {
+      "utf8": "咖啡机。\nkā fēi jī。\ncoffee machine."
+    } ]
+  }, {
+    "tStartMs": 204925,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这是咖啡机。\nzhè shì kā fēi jī。\nThis is a coffee machine."
+    } ]
+  }, {
+    "tStartMs": 209085,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "咖啡机是卖咖啡的机器\nkā fēi jī shì mài kā fēi de jī qì\nA coffee machine is a machine that sells coffee"
+    } ]
+  }, {
+    "tStartMs": 215460,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "所以它叫咖啡机。\nsuǒ yǐ tā jiào kā fēi jī。\nso it's called a coffee machine."
+    } ]
+  }, {
+    "tStartMs": 219460,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "如果你需要喝咖啡\nrú guǒ nǐ xū yào hē kā fēi\nIf you want to drink coffee"
+    } ]
+  }, {
+    "tStartMs": 225352,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "那么这个机器就\nnà me zhè gè jī qì jiù\nthen this machine"
+    } ]
+  }, {
+    "tStartMs": 228454,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "可以买到。\nkě yǐ mǎi dào。\ncan get it."
+    } ]
+  }, {
+    "tStartMs": 232500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "这是零食售卖机。\nzhè shì líng shí shòu mài jī。\nThis is a snack vending machine."
+    } ]
+  }, {
+    "tStartMs": 236820,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这是零食售卖机。\nzhè shì líng shí shòu mài jī。\nThis is a snack vending machine."
+    } ]
+  }, {
+    "tStartMs": 240740,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "如果你需要吃东西，\nrú guǒ nǐ xū yào chī dōng xī，\nIf you need something to eat,"
+    } ]
+  }, {
+    "tStartMs": 245620,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "吃东西，\nchī dōng xī，\nsomething to eat,"
+    } ]
+  }, {
+    "tStartMs": 248100,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "那么就可以在这个机器上买到\nnà me jiù kě yǐ zài zhè gè jī qì shàng mǎi dào\nthen you can buy it from this machine."
+    } ]
+  }, {
+    "tStartMs": 254888,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这个是长椅。\nzhè gè shì cháng yǐ。\nThis is a bench."
+    } ]
+  }, {
+    "tStartMs": 258408,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这个是长椅，\nzhè gè shì cháng yǐ，\nThis is a bench,"
+    } ]
+  }, {
+    "tStartMs": 261448,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "你可以坐在长椅上\nnǐ kě yǐ zuò zài cháng yǐ shàng\nyou can sit on the bench"
+    } ]
+  }, {
+    "tStartMs": 266168,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "等车。\nděng chē。\nand wait for the bus."
+    } ]
+  }, {
+    "tStartMs": 268055,
+    "dDurationMs": 5393,
+    "segs": [ {
+      "utf8": "你可以坐在长椅上等车。\nnǐ kě yǐ zuò zài cháng yǐ shàng děng chē。\nYou can sit on the bench and wait for the bus."
+    } ]
+  }, {
+    "tStartMs": 274661,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "当火车来了以后，\ndāng huǒ chē lái le yǐ hòu，\nWhen the train arrives,"
+    } ]
+  }, {
+    "tStartMs": 277941,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "你需要上车。\nnǐ xū yào shàng chē。\nyou need to get on."
+    } ]
+  }, {
+    "tStartMs": 281701,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "你需要上车，\nnǐ xū yào shàng chē，\nYou need to get on,"
+    } ]
+  }, {
+    "tStartMs": 284741,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "然后开始旅行。\nrán hòu kāi shǐ lǚ xíng。\nand then start your journey."
+    } ]
+  }, {
+    "tStartMs": 288581,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "上车，开始旅行。\nshàng chē， kāi shǐ lǚ xíng。\nGet on and start your journey."
+    } ]
+  }, {
+    "tStartMs": 293621,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "那么在火车站，\nnà me zài huǒ chē zhàn，\nSo at the train station,"
+    } ]
+  }, {
+    "tStartMs": 296341,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "我们需要注意什么？\nwǒ men xū yào zhù yì shén me ？\nwhat do we need to pay attention to?"
+    } ]
+  }, {
+    "tStartMs": 300421,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "注意背包，\nzhù yì bēi bāo，\nWatch your backpack,"
+    } ]
+  }, {
+    "tStartMs": 303701,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "看好背包，\nkàn hǎo bēi bāo，\nkeep an eye on your backpack,"
+    } ]
+  }, {
+    "tStartMs": 306981,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "拿好行李，\nná hǎo xíng lǐ，\nhold on to your luggage,"
+    } ]
+  }, {
+    "tStartMs": 310021,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "拿好行李，\nná hǎo xíng lǐ，\nhold on to your luggage,"
+    } ]
+  }, {
+    "tStartMs": 312821,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "小心小偷，\nxiǎo xīn xiǎo tōu，\nbeware of pickpockets,"
+    } ]
+  }, {
+    "tStartMs": 316021,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "小心小偷。\nxiǎo xīn xiǎo tōu。\nbeware of pickpockets."
+    } ]
+  }, {
+    "tStartMs": 319208,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "火车站还有公交站台，\nhuǒ chē zhàn huán yǒu gōng jiāo zhàn tái，\nThere is also a bus stop at the train station,"
+    } ]
+  }, {
+    "tStartMs": 324728,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "这是公交站台，\nzhè shì gōng jiāo zhàn tái，\nthis is a bus stop,"
+    } ]
+  }, {
+    "tStartMs": 329128,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这是公交车，\nzhè shì gōng jiāo chē，\nthis is a bus,"
+    } ]
+  }, {
+    "tStartMs": 332181,
+    "dDurationMs": 8467,
+    "segs": [ {
+      "utf8": "这是公交车，这是公交站台指示牌。\nzhè shì gōng jiāo chē， zhè shì gōng jiāo zhàn tái zhǐ shì pái。\nthis is a bus, this is a bus stop sign."
+    } ]
+  }, {
+    "tStartMs": 341848,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这是公交站台指示牌。\nzhè shì gōng jiāo zhàn tái zhǐ shì pái。\nThis is a bus stop sign."
+    } ]
+  }, {
+    "tStartMs": 346488,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "现在我们上车。\nxiàn zài wǒ men shàng chē。\nNow let's get on."
+    } ]
+  }, {
+    "tStartMs": 351114,
+    "dDurationMs": 240,
+    "segs": [ {
+      "utf8": "这\nzhè\nThis"
+    } ]
+  }, {
+    "tStartMs": 351709,
+    "dDurationMs": 4047,
+    "segs": [ {
+      "utf8": "现在我在公交车上。\nxiàn zài wǒ zài gōng jiāo chē shàng。\nNow I'm on the bus."
+    } ]
+  }, {
+    "tStartMs": 357149,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "现在我在公交车上。\nxiàn zài wǒ zài gōng jiāo chē shàng。\nNow I'm on the bus."
+    } ]
+  }, {
+    "tStartMs": 363389,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "这是座位，\nzhè shì zuò wèi，\nThis is a seat,"
+    } ]
+  }, {
+    "tStartMs": 365949,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这是座位。\nzhè shì zuò wèi。\nThis is a seat."
+    } ]
+  }, {
+    "tStartMs": 368756,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这个是下车铃，\nzhè gè shì xià chē líng，\nThis is the stop button,"
+    } ]
+  }, {
+    "tStartMs": 373236,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "这个是下车铃。\nzhè gè shì xià chē líng。\nThis is the stop button."
+    } ]
+  }, {
+    "tStartMs": 376996,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "如果你要下车，\nrú guǒ nǐ yào xià chē，\nIf you want to get off,"
+    } ]
+  }, {
+    "tStartMs": 380916,
+    "dDurationMs": 2261,
+    "segs": [ {
+      "utf8": "你需要按\nnǐ xū yào àn\nyou need to press"
+    } ]
+  }, {
+    "tStartMs": 383626,
+    "dDurationMs": 907,
+    "segs": [ {
+      "utf8": "按\nàn\npress"
+    } ]
+  }, {
+    "tStartMs": 384676,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "这个按钮，\nzhè gè àn niǔ，\nthis button,"
+    } ]
+  }, {
+    "tStartMs": 387236,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "按钮。\nàn niǔ。\nbutton."
+    } ]
+  }, {
+    "tStartMs": 389036,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这是扶手，\nzhè shì fú shǒu，\nThis is a handrail,"
+    } ]
+  }, {
+    "tStartMs": 392396,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这是扶手。\nzhè shì fú shǒu。\nThis is a handrail."
+    } ]
+  }, {
+    "tStartMs": 395996,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "在车上你需要\nzài chē shàng nǐ xū yào\nOn the bus you need to"
+    } ]
+  }, {
+    "tStartMs": 400108,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "握紧扶手，\nwò jǐn fú shǒu，\nhold on to the handrail,"
+    } ]
+  }, {
+    "tStartMs": 404087,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "握紧扶手\nwò jǐn fú shǒu\nhold on to the handrail"
+    } ]
+  }, {
+    "tStartMs": 407010,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "好了，这就是今天的火车站学习，\nhǎo le， zhè jiù shì jīn tiān de huǒ chē zhàn xué xí，\nAlright, that's today's train station lesson,"
+    } ]
+  }, {
+    "tStartMs": 412115,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "我们再来复习一下今天的词语。\nwǒ men zài lái fù xí yī xià jīn tiān de cí yǔ。\nlet's review today's vocabulary."
+    } ]
+  }, {
+    "tStartMs": 418050,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "首先，第一火车站，\nshǒu xiān， dì yī huǒ chē zhàn，\nFirst, the train station,"
+    } ]
+  }, {
+    "tStartMs": 422466,
+    "dDurationMs": 2384,
+    "segs": [ {
+      "utf8": "我在火车站。\nwǒ zài huǒ chē zhàn。\nI'm at the train station."
+    } ]
+  }, {
+    "tStartMs": 426530,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这是火车站站台，\nzhè shì huǒ chē zhàn zhàn tái，\nThis is the train station platform,"
+    } ]
+  }, {
+    "tStartMs": 430450,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "这是火车站站台。\nzhè shì huǒ chē zhàn zhàn tái。\nThis is the train station platform."
+    } ]
+  }, {
+    "tStartMs": 435814,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "那个是火车，\nnà gè shì huǒ chē，\nThat is a train,"
+    } ]
+  }, {
+    "tStartMs": 438875,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那个是火车。\nnà gè shì huǒ chē。\nthat is a train."
+    } ]
+  }, {
+    "tStartMs": 444155,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "这个是公交车站台，\nzhè gè shì gōng jiāo chē zhàn tái，\nThis is the bus stop platform,"
+    } ]
+  }, {
+    "tStartMs": 448635,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "这个是公交车站台，\nzhè gè shì gōng jiāo chē zhàn tái，\nThis is the bus stop platform,"
+    } ]
+  }, {
+    "tStartMs": 452635,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这是公交车，\nzhè shì gōng jiāo chē，\nThis is a bus,"
+    } ]
+  }, {
+    "tStartMs": 455755,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是公交车。\nzhè shì gōng jiāo chē。\nThis is a bus."
+    } ]
+  }, {
+    "tStartMs": 459115,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "如果你需要坐火车，\nrú guǒ nǐ xū yào zuò huǒ chē，\nIf you need to take a train,"
+    } ]
+  }, {
+    "tStartMs": 463355,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "那么你需要到火车站站台；\nnà me nǐ xū yào dào huǒ chē zhàn zhàn tái ；\nthen you need to go to the train station platform;"
+    } ]
+  }, {
+    "tStartMs": 468155,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "如果你需要坐公交车，\nrú guǒ nǐ xū yào zuò gōng jiāo chē，\nIf you need to take a bus,"
+    } ]
+  }, {
+    "tStartMs": 472235,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "那么你需要到公交车站台。\nnà me nǐ xū yào dào gōng jiāo chē zhàn tái。\nthen you need to go to the bus stop platform."
+    } ]
+  }, {
+    "tStartMs": 477829,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "接着，我们在售票机上买票，\njiē zháo， wǒ men zài shòu piào jī shàng mǎi piào，\nNext, we buy tickets at the ticket machine,"
+    } ]
+  }, {
+    "tStartMs": 483528,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "我们在售票机上买票，\nwǒ men zài shòu piào jī shàng mǎi piào，\nwe buy tickets at the ticket machine,"
+    } ]
+  }, {
+    "tStartMs": 487829,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "我们在咖啡机上买咖啡，\nwǒ men zài kā fēi jī shàng mǎi kā fēi，\nwe buy coffee at the coffee machine,"
+    } ]
+  }, {
+    "tStartMs": 493349,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "我们在咖啡机上买咖啡，\nwǒ men zài kā fēi jī shàng mǎi kā fēi，\nwe buy coffee at the coffee machine,"
+    } ]
+  }, {
+    "tStartMs": 499029,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "我们在零食机上买零食，\nwǒ men zài líng shí jī shàng mǎi líng shí，\nwe buy snacks at the snack machine,"
+    } ]
+  }, {
+    "tStartMs": 504869,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "我们在零食机上买零食。\nwǒ men zài líng shí jī shàng mǎi líng shí。\nwe buy snacks at the snack machine."
+    } ]
+  }, {
+    "tStartMs": 510789,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "上车以后，你需要给乘务员检票\nshàng chē yǐ hòu， nǐ xū yào gěi chéng wù yuán jiǎn piào\nAfter getting on, you need to have the conductor check your ticket"
+    } ]
+  }, {
+    "tStartMs": 517710,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "你需要给乘务员检票\nnǐ xū yào gěi chéng wù yuán jiǎn piào\nyou need to have the conductor check your ticket"
+    } ]
+  }, {
+    "tStartMs": 522162,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "好啦，这就是今天的火车站中文学习，\nhǎo lā， zhè jiù shì jīn tiān de huǒ chē zhàn zhōng wén xué xí，\nAlright, that's today's Chinese lesson about the train station,"
+    } ]
+  }, {
+    "tStartMs": 526967,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "你学会了吗？还有什么更想学的，\nnǐ xué huì le ma ？ huán yǒu shén me gēng xiǎng xué de，\nhave you learned it? What else would you like to learn,"
+    } ]
+  }, {
+    "tStartMs": 530722,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "在评论下方告诉我，\nzài píng lùn xià fāng gào sù wǒ，\ntell me in the comments below,"
+    } ]
+  }, {
+    "tStartMs": 533522,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "拜拜。\nbài bài。\nbye-bye."
+    } ]
+  } ]
+}

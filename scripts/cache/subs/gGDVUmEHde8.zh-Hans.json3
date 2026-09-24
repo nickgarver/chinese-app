@@ -1,0 +1,1231 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "嗨，大家好"
+    } ]
+  }, {
+    "tStartMs": 2000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "欢迎回到我的频道"
+    } ]
+  }, {
+    "tStartMs": 4633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我是安吉拉"
+    } ]
+  }, {
+    "tStartMs": 6600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "好久不见了"
+    } ]
+  }, {
+    "tStartMs": 8500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "我最近一直都没有更新视频"
+    } ]
+  }, {
+    "tStartMs": 13400,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "因为我感冒一直都没有好"
+    } ]
+  }, {
+    "tStartMs": 17133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "前两天又有点儿严重了"
+    } ]
+  }, {
+    "tStartMs": 20833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "一直在咳嗽"
+    } ]
+  }, {
+    "tStartMs": 22700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "咳嗽得很厉害"
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "所以没有更新视频"
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "今天好一些了"
+    } ]
+  }, {
+    "tStartMs": 29533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我又回来了"
+    } ]
+  }, {
+    "tStartMs": 31200,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "继续和大家聊天儿"
+    } ]
+  }, {
+    "tStartMs": 33933,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "今天想跟大家聊的话题是“短视频”"
+    } ]
+  }, {
+    "tStartMs": 39033,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "大家平时会刷短视频吗"
+    } ]
+  }, {
+    "tStartMs": 43133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "用手机刷短视频"
+    } ]
+  }, {
+    "tStartMs": 45833,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "看短视频"
+    } ]
+  }, {
+    "tStartMs": 48600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "那在中国呢"
+    } ]
+  }, {
+    "tStartMs": 50033,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "很多中国人都非常喜欢刷短视频"
+    } ]
+  }, {
+    "tStartMs": 55033,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "在中国也有很多短视频的APP"
+    } ]
+  }, {
+    "tStartMs": 59733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "其中最火的"
+    } ]
+  }, {
+    "tStartMs": 62333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "用的人最多的就是抖音"
+    } ]
+  }, {
+    "tStartMs": 66133,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "抖音在其他的国家好像也可以用吧"
+    } ]
+  }, {
+    "tStartMs": 70100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "但是只是在中国"
+    } ]
+  }, {
+    "tStartMs": 72233,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "每天就有8亿的人在用抖音刷短视频"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "并且这些人"
+    } ]
+  }, {
+    "tStartMs": 79666,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "每天用抖音刷短视频的平均时间"
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "每个人是一个半小时"
+    } ]
+  }, {
+    "tStartMs": 87733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "可以看到"
+    } ]
+  }, {
+    "tStartMs": 89066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "中国人是多么喜欢刷短视频了"
+    } ]
+  }, {
+    "tStartMs": 92466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我今天为什么想聊这个话题呢"
+    } ]
+  }, {
+    "tStartMs": 96300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "因为我发现"
+    } ]
+  }, {
+    "tStartMs": 97400,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "我最近对刷短视频有点儿上瘾了"
+    } ]
+  }, {
+    "tStartMs": 102333,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "上瘾的意思就是你总是想做一件事情"
+    } ]
+  }, {
+    "tStartMs": 107533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "控制不住自己"
+    } ]
+  }, {
+    "tStartMs": 109333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "想停下来却停不下来"
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这就叫上瘾了"
+    } ]
+  }, {
+    "tStartMs": 114433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "有的人会对抽烟上瘾"
+    } ]
+  }, {
+    "tStartMs": 117333,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "有的人会对喝酒上瘾"
+    } ]
+  }, {
+    "tStartMs": 119900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "我现在对刷短视频上瘾了"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "只要有时间"
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我就想打开手机刷短视频"
+    } ]
+  }, {
+    "tStartMs": 128733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "吃饭的时候会刷短视频"
+    } ]
+  }, {
+    "tStartMs": 132033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "睡觉之前"
+    } ]
+  }, {
+    "tStartMs": 133800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "躺在床上舒舒服服的，想刷短视频"
+    } ]
+  }, {
+    "tStartMs": 138733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "还有最可怕的是"
+    } ]
+  }, {
+    "tStartMs": 140833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "每天早上一睁开眼睛"
+    } ]
+  }, {
+    "tStartMs": 143900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "我就想打开手机刷一会儿短视频"
+    } ]
+  }, {
+    "tStartMs": 148433,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "其实如果只刷一会儿短视频"
+    } ]
+  }, {
+    "tStartMs": 152100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "放松一下"
+    } ]
+  }, {
+    "tStartMs": 153400,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "我觉得是没有问题的"
+    } ]
+  }, {
+    "tStartMs": 155833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "那我现在的问题是"
+    } ]
+  }, {
+    "tStartMs": 157833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "明明我只想看一会儿"
+    } ]
+  }, {
+    "tStartMs": 160666,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "但是我经常看着看着，就看了一个小时、两个小时"
+    } ]
+  }, {
+    "tStartMs": 168033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那这种感觉呢"
+    } ]
+  }, {
+    "tStartMs": 169233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "让我很不舒服"
+    } ]
+  }, {
+    "tStartMs": 171133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "让我有一种负罪感"
+    } ]
+  }, {
+    "tStartMs": 174033,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "我觉得我现在每天花太多的时间"
+    } ]
+  }, {
+    "tStartMs": 178300,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "在一些没有用的事情上"
+    } ]
+  }, {
+    "tStartMs": 181333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "让我感觉有一些负罪感"
+    } ]
+  }, {
+    "tStartMs": 183933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "有一些焦虑"
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "我想戒掉刷短视频这个习惯"
+    } ]
+  }, {
+    "tStartMs": 190400,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "为了解决最近困扰我的这个问题"
+    } ]
+  }, {
+    "tStartMs": 193900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "我特意问了一下AI"
+    } ]
+  }, {
+    "tStartMs": 197333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "问了一下他"
+    } ]
+  }, {
+    "tStartMs": 198666,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "为什么我会对刷短视频上瘾？"
+    } ]
+  }, {
+    "tStartMs": 202600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "我怎么才能戒掉短视频？"
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "今天我就跟大家分享一下"
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "AI是怎么回答我的"
+    } ]
+  }, {
+    "tStartMs": 210733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "它都跟我说了什么"
+    } ]
+  }, {
+    "tStartMs": 212733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "在回答我的问题之前呢"
+    } ]
+  }, {
+    "tStartMs": 215233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "AI很贴心"
+    } ]
+  }, {
+    "tStartMs": 217033,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "它先安慰了我"
+    } ]
+  }, {
+    "tStartMs": 218933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "它跟我说"
+    } ]
+  }, {
+    "tStartMs": 219900,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "对短视频上瘾不是我自己的问题"
+    } ]
+  }, {
+    "tStartMs": 224233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "不是因为我不够自律"
+    } ]
+  }, {
+    "tStartMs": 226866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "让我不要有负罪感"
+    } ]
+  }, {
+    "tStartMs": 229300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "对短视频上瘾呢"
+    } ]
+  }, {
+    "tStartMs": 231100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "是大脑、心情、还有软件"
+    } ]
+  }, {
+    "tStartMs": 235133,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这三个东西一起作用的结果"
+    } ]
+  }, {
+    "tStartMs": 239233,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "它跟我说"
+    } ]
+  }, {
+    "tStartMs": 240466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "每个人都会遇到这样的问题"
+    } ]
+  }, {
+    "tStartMs": 243633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "先让我放轻松"
+    } ]
+  }, {
+    "tStartMs": 245466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "不要有负罪感"
+    } ]
+  }, {
+    "tStartMs": 247733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "接下来它就告诉了我"
+    } ]
+  }, {
+    "tStartMs": 250066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "人们会对短视频上瘾的三个原因"
+    } ]
+  }, {
+    "tStartMs": 254266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "第一个原因是我们大脑的原因"
+    } ]
+  }, {
+    "tStartMs": 258033,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "它说我们的大脑喜欢简单、快速的快乐"
+    } ]
+  }, {
+    "tStartMs": 263466,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "比如说我们如果学习、看书或者运动的时候"
+    } ]
+  }, {
+    "tStartMs": 268833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "快乐来的是很慢的"
+    } ]
+  }, {
+    "tStartMs": 272033,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我们在学习看书的时候"
+    } ]
+  }, {
+    "tStartMs": 274733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "通常要看很长时间"
+    } ]
+  }, {
+    "tStartMs": 277133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "还要思考"
+    } ]
+  }, {
+    "tStartMs": 278833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "才会学会新的知识"
+    } ]
+  }, {
+    "tStartMs": 281500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "才有成就感"
+    } ]
+  }, {
+    "tStartMs": 283600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "运动也是一样的"
+    } ]
+  }, {
+    "tStartMs": 285633,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "比如说我们跑步、健身的时候"
+    } ]
+  }, {
+    "tStartMs": 288700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "也要经过很长时间"
+    } ]
+  }, {
+    "tStartMs": 291466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "流很多汗"
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "很累之后"
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "才会获得运动之后的那种放松啊、还有舒服"
+    } ]
+  }, {
+    "tStartMs": 300500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "但是短视频就不一样了"
+    } ]
+  }, {
+    "tStartMs": 303033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "每个短视频时间都很短"
+    } ]
+  }, {
+    "tStartMs": 306200,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "只有十几秒、几十秒或者一分钟的时间"
+    } ]
+  }, {
+    "tStartMs": 311800,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "那这些短视频呢"
+    } ]
+  }, {
+    "tStartMs": 313700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "能够很快让我们变得很开心"
+    } ]
+  }, {
+    "tStartMs": 317666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "变得很刺激"
+    } ]
+  }, {
+    "tStartMs": 319266,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "或者一下子变得心情很好"
+    } ]
+  }, {
+    "tStartMs": 322266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "每看到一条短视频的时候"
+    } ]
+  }, {
+    "tStartMs": 324500,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "我们的大脑都会很快地分泌一种让人快乐的东西"
+    } ]
+  }, {
+    "tStartMs": 330700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "那一条结束之后"
+    } ]
+  }, {
+    "tStartMs": 332133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "马上又来了一条新的"
+    } ]
+  }, {
+    "tStartMs": 334833,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "所以这种快乐是持续不断的"
+    } ]
+  }, {
+    "tStartMs": 338233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "会让人停不下来"
+    } ]
+  }, {
+    "tStartMs": 340633,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "慢慢地，大脑就会习惯这种快速的快乐"
+    } ]
+  }, {
+    "tStartMs": 345333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "如果我们再去看书啊"
+    } ]
+  }, {
+    "tStartMs": 347933,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "写东西啊"
+    } ]
+  }, {
+    "tStartMs": 349300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "想安静做事的时候"
+    } ]
+  }, {
+    "tStartMs": 351433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "就很难坚持下去"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "会觉得很枯燥、很无聊"
+    } ]
+  }, {
+    "tStartMs": 356400,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "没办法安静下来"
+    } ]
+  }, {
+    "tStartMs": 358866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "这就是为什么我们越刷短视频"
+    } ]
+  }, {
+    "tStartMs": 362666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "越难专注地做一件事情的原因"
+    } ]
+  }, {
+    "tStartMs": 366800,
+    "dDurationMs": 6266,
+    "segs": [ {
+      "utf8": "第二个原因呢是短视频能够让人的心情变好"
+    } ]
+  }, {
+    "tStartMs": 373200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "现在的生活"
+    } ]
+  }, {
+    "tStartMs": 374600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "每个人的压力都很大"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "所以每个人都有很累的时候"
+    } ]
+  }, {
+    "tStartMs": 380533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "心情不好的时候"
+    } ]
+  }, {
+    "tStartMs": 382266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "或者很孤独的时候"
+    } ]
+  }, {
+    "tStartMs": 385100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "那在这种时候"
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "任何人都需要一种方式"
+    } ]
+  }, {
+    "tStartMs": 388833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "能让自己放松下来"
+    } ]
+  }, {
+    "tStartMs": 391066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "能让自己的心情变得好一点儿"
+    } ]
+  }, {
+    "tStartMs": 394433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那短视频呢"
+    } ]
+  }, {
+    "tStartMs": 395833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "就是最简单的一种方法"
+    } ]
+  }, {
+    "tStartMs": 399100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "因为刷短视频"
+    } ]
+  }, {
+    "tStartMs": 401066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "你不需要出门"
+    } ]
+  }, {
+    "tStartMs": 402866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "也不需要花钱"
+    } ]
+  }, {
+    "tStartMs": 404933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "只要打开手机就可以了"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "所以对很多人来说"
+    } ]
+  }, {
+    "tStartMs": 409933,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "刷短视频不仅是一种娱乐方式"
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "也能安慰人的情绪"
+    } ]
+  }, {
+    "tStartMs": 416700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "让自己的心情变好"
+    } ]
+  }, {
+    "tStartMs": 419333,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "所以慢慢地，人们在心情不好的时候"
+    } ]
+  }, {
+    "tStartMs": 423733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "无聊的时候"
+    } ]
+  }, {
+    "tStartMs": 425233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "就会自然而然地"
+    } ]
+  }, {
+    "tStartMs": 427833,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "很自然地打开手机刷短视频"
+    } ]
+  }, {
+    "tStartMs": 431600,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "慢慢地就会形成习惯了"
+    } ]
+  }, {
+    "tStartMs": 434933,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "第三个原因"
+    } ]
+  }, {
+    "tStartMs": 436200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "也是最重要的一个原因"
+    } ]
+  }, {
+    "tStartMs": 439100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "短视频的软件"
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "就是为了让观众一直不停地看下去"
+    } ]
+  }, {
+    "tStartMs": 445666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "因为短视频是没有结尾的"
+    } ]
+  }, {
+    "tStartMs": 449133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我们看书总会看完"
+    } ]
+  }, {
+    "tStartMs": 451933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "看电影呢"
+    } ]
+  }, {
+    "tStartMs": 453066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "也会有一个结局"
+    } ]
+  }, {
+    "tStartMs": 455100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但是短视频一条结束之后"
+    } ]
+  }, {
+    "tStartMs": 458533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "马上会有下一条"
+    } ]
+  }, {
+    "tStartMs": 460900,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "所以大脑接收不到结束的信号"
+    } ]
+  }, {
+    "tStartMs": 465266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "就想一直看下去"
+    } ]
+  }, {
+    "tStartMs": 467733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "那另外呢"
+    } ]
+  }, {
+    "tStartMs": 468933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "短视频也非常懂我们"
+    } ]
+  }, {
+    "tStartMs": 471600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "它会为我们做一个大数据的分析"
+    } ]
+  }, {
+    "tStartMs": 475400,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "会不停的给我们推送我们爱看的内容"
+    } ]
+  }, {
+    "tStartMs": 480200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "都是爱看的内容"
+    } ]
+  }, {
+    "tStartMs": 481633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "所以很难停下来"
+    } ]
+  }, {
+    "tStartMs": 483833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "除了告诉我"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "人们"
+    } ]
+  }, {
+    "tStartMs": 485800,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "为什么会对短视频上瘾的原因之外呢"
+    } ]
+  }, {
+    "tStartMs": 490700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "AI还告诉了我"
+    } ]
+  }, {
+    "tStartMs": 492433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "几个克服短视频上瘾的方法"
+    } ]
+  }, {
+    "tStartMs": 496833,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "怎么做才能让自己不对短视频上瘾"
+    } ]
+  }, {
+    "tStartMs": 502500,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "比如说"
+    } ]
+  }, {
+    "tStartMs": 503533,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "它告诉我，限制刷短视频的时间"
+    } ]
+  }, {
+    "tStartMs": 508700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "比如说"
+    } ]
+  }, {
+    "tStartMs": 509200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "限制自己每天只能刷10分钟的短视频"
+    } ]
+  }, {
+    "tStartMs": 514433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "只能刷20分钟的短视频"
+    } ]
+  }, {
+    "tStartMs": 517433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "给自己限制一个严格的时间"
+    } ]
+  }, {
+    "tStartMs": 521266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "那第二个呢"
+    } ]
+  }, {
+    "tStartMs": 522500,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我觉得也可以尝试一下"
+    } ]
+  }, {
+    "tStartMs": 525433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "就是在睡前"
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "在睡觉之前把手机关机"
+    } ]
+  }, {
+    "tStartMs": 530733,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "这样就不会在睡前一直看手机"
+    } ]
+  }, {
+    "tStartMs": 534466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "影响睡眠了"
+    } ]
+  }, {
+    "tStartMs": 536433,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那还有一个方法"
+    } ]
+  }, {
+    "tStartMs": 537600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我觉得听起来也是挺好的"
+    } ]
+  }, {
+    "tStartMs": 540866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "在你想刷短视频的时候"
+    } ]
+  }, {
+    "tStartMs": 543266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "转移一下自己的注意力"
+    } ]
+  }, {
+    "tStartMs": 546033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "去干点别的事情"
+    } ]
+  }, {
+    "tStartMs": 548200,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这些方法我都准备试一下"
+    } ]
+  }, {
+    "tStartMs": 551433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "到时候告诉你们有没有效果"
+    } ]
+  }, {
+    "tStartMs": 554866,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "那大家平时有没有对短视频上瘾的困扰呢"
+    } ]
+  }, {
+    "tStartMs": 560500,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "你们是怎么解决这个问题的"
+    } ]
+  }, {
+    "tStartMs": 564066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "如果你们也有同样的经历"
+    } ]
+  }, {
+    "tStartMs": 566666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "和同样的问题"
+    } ]
+  }, {
+    "tStartMs": 568833,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "欢迎在评论区一起讨论"
+    } ]
+  }, {
+    "tStartMs": 572666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "那今天的视频就到这吧"
+    } ]
+  }, {
+    "tStartMs": 575266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "非常感谢你们的收看"
+    } ]
+  }, {
+    "tStartMs": 577933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "如果你对我的视频"
+    } ]
+  }, {
+    "tStartMs": 579733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "对我的频道感兴趣"
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "欢迎订阅我的频道"
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "好吧咱们今天就到这吧"
+    } ]
+  }, {
+    "tStartMs": 586500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "下次再见拜拜"
+    } ]
+  } ]
+}

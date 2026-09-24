@@ -109,10 +109,12 @@
     if (!allOpen) for (const g of groups) next[g.level] = true;
     opened = next;
   }
+  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
+<PageHeader title="Search" />
+
 <div class="page">
-  <h1>Search</h1>
 
   <input
     class="field"

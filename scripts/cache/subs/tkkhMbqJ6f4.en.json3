@@ -1,0 +1,2011 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nǐ zài xué xí hàn yǔ\nYou're learning Chinese"
+    } ]
+  }, {
+    "tStartMs": 3433,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ zài xué xí xī bān yá yǔ hé rì yǔ\nI'm learning Spanish and Japanese"
+    } ]
+  }, {
+    "tStartMs": 8800,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "kě néng shì wèi le gōng zuò\nMaybe for work"
+    } ]
+  }, {
+    "tStartMs": 11666,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "wèi le xué xí\nFor study"
+    } ]
+  }, {
+    "tStartMs": 13766,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "huò zhě shì wèi le zì jǐ de xìng qù ài hào\nOr just for a personal hobby"
+    } ]
+  }, {
+    "tStartMs": 18633,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ men dōu zài xué xí yǔ yán\nWe're all learning languages"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 6999,
+    "segs": [ {
+      "utf8": "dàn shì xué hǎo yì mén yǔ yán yào huā hěn duō shí jiān\nBut mastering a language takes a lot of time"
+    } ]
+  }, {
+    "tStartMs": 31000,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "suǒ yǐ jiān chí hěn zhòng yào\nSo persistence is key"
+    } ]
+  }, {
+    "tStartMs": 35300,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "yǒu yí gè hǎo de xué xí xí guàn hěn zhòng yào\nHaving good study habits matters"
+    } ]
+  }, {
+    "tStartMs": 40900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "dà jiā hǎo wǒ shì xiǎo nà\nHi everyone, I'm Xiaona"
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ men yào yì qǐ liáo yí xià\nToday we're going to talk about"
+    } ]
+  }, {
+    "tStartMs": 47433,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "xué xí yǔ yán zhè jiàn shì qíng\nLearning languages"
+    } ]
+  }, {
+    "tStartMs": 50300,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "xué xí yǔ yán de xí guàn\nLanguage learning habits"
+    } ]
+  }, {
+    "tStartMs": 53600,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "wǒ de shǒu lǐ yǒu yí gè běn zi\nI have a notebook in my hand"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "běn zi shàng yǒu yì xiē wèn tí\nThere are some questions in it"
+    } ]
+  }, {
+    "tStartMs": 59766,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "wǒ huì wèn nǐ yì xiē wèn tí\nI'll ask you some questions"
+    } ]
+  }, {
+    "tStartMs": 62900,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "rán hòu wǒ huì huí dá yí xià zhè xiē wèn tí\nThen I'll answer them myself"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "wǒ huì fēn xiǎng yí xià wǒ de jīng lì\nI'll share my experiences"
+    } ]
+  }, {
+    "tStartMs": 73200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "shǒu xiān dì yī gè wèn tí\nFirst, question one"
+    } ]
+  }, {
+    "tStartMs": 76900,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "nǐ yì bān shén me shí hòu xué xí zhōng wén\nWhen do you usually study Chinese"
+    } ]
+  }, {
+    "tStartMs": 81366,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "zǎo shàng   wǎn shàng\nMorning or evening"
+    } ]
+  }, {
+    "tStartMs": 83900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "hái shì shàng bān de lù shang\nOr on the way to work"
+    } ]
+  }, {
+    "tStartMs": 87766,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "hái shì xià bān yǐ hòu\nOr after work"
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "nǐ shén me shí hòu xué xí zhōng wén\nWhen do you study Chinese"
+    } ]
+  }, {
+    "tStartMs": 94700,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "wǒ de huà wǒ yì bān zǎo shàng\nFor me, I usually study in the morning"
+    } ]
+  }, {
+    "tStartMs": 98433,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "hái yǒu wǎn shàng xué xí yǔ yán\nAnd in the evening I study languages"
+    } ]
+  }, {
+    "tStartMs": 103233,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ hěn xǐ huan zǎo qǐ\nBecause I really like waking up early"
+    } ]
+  }, {
+    "tStartMs": 107066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "qǐ hěn zǎo bǐ rú 6 diǎn\nGetting up very early, like at 6"
+    } ]
+  }, {
+    "tStartMs": 110066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "5 diǎn bàn děng děng\nOr 5:30, etc."
+    } ]
+  }, {
+    "tStartMs": 112100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "yīn wèi zǎo shàng de shí hòu\nBecause in the morning"
+    } ]
+  }, {
+    "tStartMs": 114466,
+    "dDurationMs": 6867,
+    "segs": [ {
+      "utf8": "wǒ de dà nǎo hěn qīng xǐng\nMy brain is very clear"
+    } ]
+  }, {
+    "tStartMs": 121766,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu wǒ xué yǔ yán hěn kuài\nIn the morning I learn languages fast"
+    } ]
+  }, {
+    "tStartMs": 125833,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "ér qiě zǎo shàng méi yǒu rén dǎ rǎo\nAnd in the morning no one disturbs me"
+    } ]
+  }, {
+    "tStartMs": 130700,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí jiān shì wǒ zì jǐ de\nThe morning time is my own"
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hěn xǐ huan zǎo shàng de shí hòu\nSo I really like the morning"
+    } ]
+  }, {
+    "tStartMs": 138233,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "chū lái sàn bù huò zhě lái gōng yuán lǐ\nGoing out for a walk or to the park"
+    } ]
+  }, {
+    "tStartMs": 142000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "rán hòu wǒ yì biān sàn bù\nThen I walk"
+    } ]
+  }, {
+    "tStartMs": 145033,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "wǒ yì biān sàn bù\nI walk"
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "yì biān xué xí yǔ yán\nAnd study languages at the same time"
+    } ]
+  }, {
+    "tStartMs": 150100,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "xué xí xī bān yá yǔ\nStudying Spanish"
+    } ]
+  }, {
+    "tStartMs": 153300,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "rán hòu wǎn shàng de shí hòu\nAnd in the evening,"
+    } ]
+  }, {
+    "tStartMs": 155500,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "bǐ rú shuì jiào yǐ qián\nlike before going to bed,"
+    } ]
+  }, {
+    "tStartMs": 158766,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ yě hěn xǐ huan xué xí yǔ yán\nI also really enjoy learning languages."
+    } ]
+  }, {
+    "tStartMs": 161866,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yīn wèi shuì jiào yǐ qián\nBecause before bed,"
+    } ]
+  }, {
+    "tStartMs": 164866,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "kàn shǒu jī bù hǎo\nlooking at your phone isn't good,"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "duì ba\nright?"
+    } ]
+  }, {
+    "tStartMs": 167466,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "suǒ yǐ shuì jiào yǐ qián wǒ xǐ huan kàn yí huì er shū\nSo before bed, I like to read for a bit,"
+    } ]
+  }, {
+    "tStartMs": 172433,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "huò zhě xué xí rì yǔ\nor study Japanese."
+    } ]
+  }, {
+    "tStartMs": 176200,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "zhè yàng kě yǐ bāng zhù wǒ shuì jiào\nThis helps me fall asleep,"
+    } ]
+  }, {
+    "tStartMs": 181666,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "duì shuì mián yǒu hǎo chù\nand it's good for my sleep."
+    } ]
+  }, {
+    "tStartMs": 184466,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "ér qiě wǒ jué de shuì jiào yǐ qián xué xí yǔ yán\nAlso, I feel that learning a language before bed"
+    } ]
+  }, {
+    "tStartMs": 191000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "huì xué dé hěn kuài\nhelps you learn faster."
+    } ]
+  }, {
+    "tStartMs": 192966,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "hǎo xiàng nǐ shuì jiào de shí hòu yě zài xué xí\nIt's like you're still learning while you sleep."
+    } ]
+  }, {
+    "tStartMs": 197566,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "bù zhī dào shì bu shì zhēn de\nI don't know if that's true,"
+    } ]
+  }, {
+    "tStartMs": 200233,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de shì zhè yàng\nbut I think it is."
+    } ]
+  }, {
+    "tStartMs": 204100,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì bān zǎo shàng xué xí xī bān yá yǔ\nSo I usually study Spanish in the morning,"
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "wǎn shàng xué xí rì yǔ\nand Japanese at night."
+    } ]
+  }, {
+    "tStartMs": 212900,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "nà xià yí gè wèn tí\nSo, next question:"
+    } ]
+  }, {
+    "tStartMs": 217200,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "nǐ měi tiān dōu xué xí zhōng wén ma\nDo you study Chinese every day,"
+    } ]
+  }, {
+    "tStartMs": 222300,
+    "dDurationMs": 5099,
+    "segs": [ {
+      "utf8": "huò zhě nǐ yì zhōu xué xí jǐ cì zhōng wén\nor how many times a week do you study it?"
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "wǒ de huà\nMy words"
+    } ]
+  }, {
+    "tStartMs": 233100,
+    "dDurationMs": 5799,
+    "segs": [ {
+      "utf8": "wǒ chà bù duō měi tiān dōu xué xí yǔ yán\nI study languages almost every day"
+    } ]
+  }, {
+    "tStartMs": 239666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "chà bù duō měi tiān dōu xué xí\nAlmost every day I study"
+    } ]
+  }, {
+    "tStartMs": 241900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu wǒ xué xí chà bù duō\nIn the morning I study for about"
+    } ]
+  }, {
+    "tStartMs": 245900,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "yí gè xiǎo shí\nan hour"
+    } ]
+  }, {
+    "tStartMs": 247600,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "bàn gè xiǎo shí\nhalf an hour"
+    } ]
+  }, {
+    "tStartMs": 248500,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "huò zhě yí gè xiǎo shí zuǒ yòu de xī bān yá yǔ\nor about an hour of Spanish"
+    } ]
+  }, {
+    "tStartMs": 253233,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "yīn wèi zǎo shàng wǒ yǒu hěn duō shí jiān\nBecause in the morning I have a lot of time"
+    } ]
+  }, {
+    "tStartMs": 256633,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "dàn shì wǎn shàng de shí hòu\nBut in the evening"
+    } ]
+  }, {
+    "tStartMs": 260000,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "wǒ de shí jiān hěn shǎo\nI have very little time"
+    } ]
+  }, {
+    "tStartMs": 263233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǎn shàng chī wán fàn yǐ hòu\nAfter dinner in the evening"
+    } ]
+  }, {
+    "tStartMs": 267200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ chū qù sàn gè bù\nIf I go out for a walk"
+    } ]
+  }, {
+    "tStartMs": 269866,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "rán hòu huí lái\nThen come back"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "rán hòu xǐ zǎo\nThen take a shower"
+    } ]
+  }, {
+    "tStartMs": 274066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "jiù méi yǒu hěn duō shí jiān\nThere isn't much time left"
+    } ]
+  }, {
+    "tStartMs": 275966,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì bān wǎn shàng xué xí chà bù duō\nSo I usually study for about"
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "1 5 fēn zhōng huò zhě 2 0 fēn zhōng huò zhě bàn gè xiǎo shí\n15 minutes or 20 minutes or half an hour"
+    } ]
+  }, {
+    "tStartMs": 285666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu\nSometimes"
+    } ]
+  }, {
+    "tStartMs": 287466,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "dàn shì shí jiān bǐ jiào duǎn\nBut the time is quite short"
+    } ]
+  }, {
+    "tStartMs": 291800,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de\nBut I think"
+    } ]
+  }, {
+    "tStartMs": 293633,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "rú guǒ měi tiān xué xí yì diǎn\nIf you study a little every day"
+    } ]
+  }, {
+    "tStartMs": 298600,
+    "dDurationMs": 6766,
+    "segs": [ {
+      "utf8": "huì bǐ bǐ rú yī zhōu zhī xué xí yí cì\nIt's better than, say, studying only once a week"
+    } ]
+  }, {
+    "tStartMs": 305600,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "yí cì xué xí 2 gè xiǎo shí 3 gè xiǎo shí gèng hǎo\nStudying for 2 or 3 hours at a time"
+    } ]
+  }, {
+    "tStartMs": 311833,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "wǒ jué de měi tiān huā yì diǎn shí jiān xué xí yǔ yán gèng hǎo\nI think spending a little time on language every day is better"
+    } ]
+  }, {
+    "tStartMs": 318166,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "yīn wèi měi tiān nǐ dōu hé zhè mén yǔ yán jiē chù\nBecause every day you're in contact with the language"
+    } ]
+  }, {
+    "tStartMs": 324466,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "nǐ dōu huì jiē chù zhè mén yǔ yán\nYou get exposed to the language"
+    } ]
+  }, {
+    "tStartMs": 327800,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "duì yǔ yán de xué xí gèng yǒu hǎo chù\nIt's more beneficial for language learning"
+    } ]
+  }, {
+    "tStartMs": 331866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "rán hòu\nThen"
+    } ]
+  }, {
+    "tStartMs": 333366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "nǐ yì bān xǐ huan yí gè rén xué xí\nDo you usually prefer studying alone"
+    } ]
+  }, {
+    "tStartMs": 337633,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "hái shì hé qí tā rén yì qǐ xué xí\nOr studying with others"
+    } ]
+  }, {
+    "tStartMs": 344033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "wǒ de huà\nFor me"
+    } ]
+  }, {
+    "tStartMs": 345766,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "yīn wèi xiàn zài wǒ shì zì xué\nSince I'm self-studying now"
+    } ]
+  }, {
+    "tStartMs": 349566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "wǒ zài zì xué xī bān yá yǔ hé rì yǔ\nI'm self-studying Spanish and Japanese"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ méi yǒu qí tā de tóng xué\nSo I don't have other classmates"
+    } ]
+  }, {
+    "tStartMs": 356166,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "yì bān wǒ shì yí gè rén xué xí yǔ yán\nI usually study languages alone"
+    } ]
+  }, {
+    "tStartMs": 361666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "dàn shì yǒu de shí hòu\nBut sometimes"
+    } ]
+  }, {
+    "tStartMs": 363866,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "wǒ huì hé wǒ de lǎo gōng yì qǐ xué xí rì yǔ\nI study Japanese with my husband"
+    } ]
+  }, {
+    "tStartMs": 368833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "wǒ jué de liǎng gè rén yì qǐ xué xí yǔ yán\nI think studying a language together"
+    } ]
+  }, {
+    "tStartMs": 372833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "yě hěn yǒu yì sī\nIs also very fun"
+    } ]
+  }, {
+    "tStartMs": 374933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "tā xué dé bǐ wǒ màn\nHe learns slower than me"
+    } ]
+  }, {
+    "tStartMs": 378433,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǒ xué dé bǐ tā kuài\nI learn faster than him"
+    } ]
+  }, {
+    "tStartMs": 381466,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu de shí hòu wǒ men yì qǐ xué xí\nSo sometimes we study together"
+    } ]
+  }, {
+    "tStartMs": 385433,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ jué de hěn yǒu yì sī\nI find it very interesting"
+    } ]
+  }, {
+    "tStartMs": 388133,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ yǒu xī bān yá yǔ de lǎo shī\nNow I have a Spanish teacher"
+    } ]
+  }, {
+    "tStartMs": 394166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "yě yǒu yí gè rì yǔ de lǎo shī\nAnd also a Japanese teacher"
+    } ]
+  }, {
+    "tStartMs": 396866,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ zài zì xué\nSo I'm self-studying"
+    } ]
+  }, {
+    "tStartMs": 399633,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "dàn shì měi zhōu wǒ huì shàng yí cì kè\nBut I take a class once a week"
+    } ]
+  }, {
+    "tStartMs": 405533,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "zì xué hé hé lǎo shī yì qǐ shàng kè\nBoth self-study and classes with teachers"
+    } ]
+  }, {
+    "tStartMs": 409666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "suǒ yǐ dōu yǒu\nSo I have both"
+    } ]
+  }, {
+    "tStartMs": 411866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "nǐ měi cì xué xí zhōng wén de shí hòu\nEvery time you study Chinese"
+    } ]
+  }, {
+    "tStartMs": 415366,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "nǐ xué xí shén me\nWhat do you study"
+    } ]
+  }, {
+    "tStartMs": 418133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nǐ liàn xí shén me\nWhat do you practice"
+    } ]
+  }, {
+    "tStartMs": 421866,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "zhè ge shì qíng wǒ jué de\nThis thing, I think"
+    } ]
+  }, {
+    "tStartMs": 426666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "yì bān yi bān lái jiǎng\nGenerally, generally speaking"
+    } ]
+  }, {
+    "tStartMs": 429266,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ men kěn dìng huì xué xí wǒ men xǐ huan de dōng xī\nWe definitely study what we like"
+    } ]
+  }, {
+    "tStartMs": 433866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "duì ba\nRight"
+    } ]
+  }, {
+    "tStartMs": 434666,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xǐ huan kàn shì pín\nIf you like watching videos"
+    } ]
+  }, {
+    "tStartMs": 437900,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "nà nǐ kěn dìng jīng cháng kàn shì pín liàn xí tīng lì\nThen you definitely watch videos often to practice listening"
+    } ]
+  }, {
+    "tStartMs": 442966,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "huò zhě rú guǒ nǐ xǐ huan tīng bō kè\nOr if you like listening to podcasts"
+    } ]
+  }, {
+    "tStartMs": 446766,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "nà nǐ kěn dìng jīng cháng tīng bō kè\nThen you definitely listen to podcasts often"
+    } ]
+  }, {
+    "tStartMs": 450500,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xǐ huan yuè dú\nIf you enjoy reading"
+    } ]
+  }, {
+    "tStartMs": 453433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan dú shū\nYou like to read books"
+    } ]
+  }, {
+    "tStartMs": 455166,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "nà nǐ kě néng huì dú hěn duō zhōng wén\nThen you might read a lot of Chinese"
+    } ]
+  }, {
+    "tStartMs": 459266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ hěn wài xiàng\nIf you're very outgoing"
+    } ]
+  }, {
+    "tStartMs": 461666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan hé bié rén shuō huà\nYou like talking to others"
+    } ]
+  }, {
+    "tStartMs": 464500,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "nà nǐ kě néng jīng cháng hé zhōng guó de péng yǒu\nThen you might often speak Chinese with Chinese friends"
+    } ]
+  }, {
+    "tStartMs": 468933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "hé qí tā rén yì qǐ shuō zhōng wén\nAnd other people"
+    } ]
+  }, {
+    "tStartMs": 473066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "dàn shì\nBut"
+    } ]
+  }, {
+    "tStartMs": 474933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ ne\nAs for me"
+    } ]
+  }, {
+    "tStartMs": 477100,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ shì yí gè hěn nèi xiàng de rén\nI think I'm a very introverted person"
+    } ]
+  }, {
+    "tStartMs": 481133,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bú shì tè bié xǐ huan shuō huà\nSo I don't really like talking much"
+    } ]
+  }, {
+    "tStartMs": 487066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì jīng cháng\nSo I often"
+    } ]
+  }, {
+    "tStartMs": 490266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "kàn shì pín tīng bō kè\nWatch videos and listen to podcasts"
+    } ]
+  }, {
+    "tStartMs": 493300,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "wǒ huā le hěn duō shí jiān zài Y o u t u b e shàng kàn shì pín\nI spend a lot of time watching videos on YouTube"
+    } ]
+  }, {
+    "tStartMs": 498066,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "zài shǒu jī shàng tīng bō kè\nListening to podcasts on my phone"
+    } ]
+  }, {
+    "tStartMs": 502466,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "wǒ jué de duì wǒ de tīng lì hěn yǒu yòng\nI think it's really useful for my listening skills"
+    } ]
+  }, {
+    "tStartMs": 506833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ de tīng lì yì bān hěn hǎo\nSo my listening is usually pretty good"
+    } ]
+  }, {
+    "tStartMs": 510866,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "dàn shì\nBut"
+    } ]
+  }, {
+    "tStartMs": 512900,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ zhī liàn xí tīng lì\nIf I only practice listening"
+    } ]
+  }, {
+    "tStartMs": 516066,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de xī bān yá yǔ\nLike with my Spanish"
+    } ]
+  }, {
+    "tStartMs": 519233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ kě yǐ tīng dǒng hěn duō\nI feel like I can understand a lot"
+    } ]
+  }, {
+    "tStartMs": 522333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "dàn shì wǒ bú huì shuō\nBut I can't speak it"
+    } ]
+  }, {
+    "tStartMs": 526333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "huò zhě wǒ de yǔ fǎ bú gòu hǎo\nOr my grammar isn't good enough"
+    } ]
+  }, {
+    "tStartMs": 530133,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "suǒ yǐ xiàn zài wǒ huì huā yì xiē shí jiān\nSo now I'll spend some time"
+    } ]
+  }, {
+    "tStartMs": 534933,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "lái xué xí xī bān yá yǔ de dòng cí biàn wèi\nLearning Spanish verb conjugations"
+    } ]
+  }, {
+    "tStartMs": 540500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "c o n j u g a t i o n\nconjugation"
+    } ]
+  }, {
+    "tStartMs": 541733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "tā hěn nán tā hěn fán rén\nIt's hard and it's annoying"
+    } ]
+  }, {
+    "tStartMs": 544233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "dàn shì rú guǒ wǒ xiǎng shuō xī bān yá yǔ\nBut if I want to speak Spanish"
+    } ]
+  }, {
+    "tStartMs": 547866,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "wǒ bì xū xué xí zhè xiē yǔ fǎ\nI have to learn this grammar"
+    } ]
+  }, {
+    "tStartMs": 551766,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì huā hěn duō shí jiān xué xí zhè xiē yǔ fǎ\nSo I'll spend a lot of time on it"
+    } ]
+  }, {
+    "tStartMs": 557033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu\nSometimes"
+    } ]
+  }, {
+    "tStartMs": 559133,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ tīng le hěn duō\nLike I've listened a lot"
+    } ]
+  }, {
+    "tStartMs": 561100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "liàn xí le hěn duō\nAnd practiced a lot"
+    } ]
+  }, {
+    "tStartMs": 562733,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ jué de wǒ de cí huì hěn shǎo\nNow I feel my vocabulary is small"
+    } ]
+  }, {
+    "tStartMs": 567133,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ rèn shi de dān cí bú gòu duō\nI feel I don't know enough words"
+    } ]
+  }, {
+    "tStartMs": 572466,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "suǒ yǐ zuì jìn wǒ yě kāi shǐ dú xī bān yá yǔ\nSo lately I've also started reading Spanish"
+    } ]
+  }, {
+    "tStartMs": 577866,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "wǒ huì zài wǎng shàng zhǎo yì xiē wén zhāng lái yuè dú\nI'll find articles online to read"
+    } ]
+  }, {
+    "tStartMs": 583533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "yīn wèi yuè dú de shí hòu\nBecause when I read"
+    } ]
+  }, {
+    "tStartMs": 585733,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "wǒ jué de zhè xiē dān cí huì jì zài nǎo dài lǐ\nI feel these words stick in my head"
+    } ]
+  }, {
+    "tStartMs": 592100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "wǒ jué de hěn yǒu yòng\nI find it really useful"
+    } ]
+  }, {
+    "tStartMs": 593933,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "suǒ yǐ xiàn zài wǒ huì yuè dú hěn duō xī bān yá yǔ\nSo now I read a lot of Spanish"
+    } ]
+  }, {
+    "tStartMs": 599433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "kǒu yǔ yě shì\nAnd speaking too"
+    } ]
+  }, {
+    "tStartMs": 602300,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu wǒ yě huì shuō\nSometimes I also speak"
+    } ]
+  }, {
+    "tStartMs": 604300,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "wǒ huì nǔ lì shuō yì xiē xī bān yá yǔ\nI try to speak some Spanish"
+    } ]
+  }, {
+    "tStartMs": 609133,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "suī rán bú shì měi tiān dōu shuō xī bān yá yǔ\nNot every day though"
+    } ]
+  }, {
+    "tStartMs": 612300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "dàn shì chà bù duō yì zhōu\nBut about once a week"
+    } ]
+  }, {
+    "tStartMs": 615766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "wǒ huì liàn xí hé lǎo shī liàn xí yí cì\nI practice with my teacher once"
+    } ]
+  }, {
+    "tStartMs": 619366,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "zì jǐ liàn xí yí cì huò zhě liǎng cì\nAnd practice on my own once or twice"
+    } ]
+  }, {
+    "tStartMs": 625566,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "rì yǔ de huà xiàn zài wǒ zài dú hěn duō\nAs for Japanese, I'm reading a lot now"
+    } ]
+  }, {
+    "tStartMs": 630300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ zài kàn hěn duō shì pín\nI'm watching many videos"
+    } ]
+  }, {
+    "tStartMs": 632933,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "rán hòu wǒ yě zài dú hěn duō rì yǔ\nAnd I'm also reading a lot of Japanese"
+    } ]
+  }, {
+    "tStartMs": 637033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "yīn wèi rì yǔ de K a n j i\nBecause of Japanese Kanji"
+    } ]
+  }, {
+    "tStartMs": 639033,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "wǒ jué de hái shì yào dú hěn duō\nI think I still need to read a lot"
+    } ]
+  }, {
+    "tStartMs": 641466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "suī rán wǒ shì yí gè zhōng guó rén\nEven though I'm Chinese"
+    } ]
+  }, {
+    "tStartMs": 644533,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ kàn dǒng hěn duō K a n j i\nI can understand many Kanji"
+    } ]
+  }, {
+    "tStartMs": 648100,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "yīn wèi K a n j i hé zhōng wén de hàn zì hěn xiàng\nBecause Kanji is similar to Chinese characters"
+    } ]
+  }, {
+    "tStartMs": 653700,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "zhè shì yí gè hǎo chù\nThat's an advantage"
+    } ]
+  }, {
+    "tStartMs": 656300,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "dàn shì tā men de fā yīn bù yí yàng\nBut their pronunciations are different"
+    } ]
+  }, {
+    "tStartMs": 660133,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hái shì yào xué xí K a n j i\nSo I still need to learn Kanji"
+    } ]
+  }, {
+    "tStartMs": 663066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "lìng wài yí gè wèn tí shì\nAnother issue is"
+    } ]
+  }, {
+    "tStartMs": 664833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "nǐ xǐ huan bèi dān cí ma\nDo you like memorizing words?"
+    } ]
+  }, {
+    "tStartMs": 668900,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "wǒ gēn nǐ shuō\nLet me tell you"
+    } ]
+  }, {
+    "tStartMs": 669900,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "wǒ tè bié tè bié bù xǐ huan bèi dān cí\nI really, really hate memorizing words"
+    } ]
+  }, {
+    "tStartMs": 675900,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ zhī dào\nBecause I know"
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "hěn duō rén shuō\nA lot of people say"
+    } ]
+  }, {
+    "tStartMs": 680466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "kě yǐ yòng A n k i\nYou can use Anki"
+    } ]
+  }, {
+    "tStartMs": 682166,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "kě yǐ yòng Q z u i l e t\nYou can use Quizlet"
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "hěn duō rén xǐ huan bèi dān cí\nMany people like memorizing words"
+    } ]
+  }, {
+    "tStartMs": 687433,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "dàn shì wǒ fā xiàn\nBut I've found"
+    } ]
+  }, {
+    "tStartMs": 691200,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "wǒ hǎo xiàng bù xǐ huan bèi dān cí\nI don't seem to like memorizing words"
+    } ]
+  }, {
+    "tStartMs": 696666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "wǒ yě bù xǐ huan fù xí\nI don't like reviewing either"
+    } ]
+  }, {
+    "tStartMs": 700200,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "wǒ tè bié bù xǐ huan fù xí wǒ xué guò de dōng xī\nI really hate reviewing what I've learned"
+    } ]
+  }, {
+    "tStartMs": 705500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "wǒ zhī dào zhè yàng bù hǎo\nI know that's not good"
+    } ]
+  }, {
+    "tStartMs": 707866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ men yào fù xí\nBecause we need to review"
+    } ]
+  }, {
+    "tStartMs": 710066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "rán hòu yào xué xí xīn de dōng xī\nAnd then learn new things"
+    } ]
+  }, {
+    "tStartMs": 713200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "dàn shì\nBut"
+    } ]
+  }, {
+    "tStartMs": 715900,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "wǒ kě néng shì yí gè xǐ huan xīn xiān de dōng xī de rén\nI might be someone who likes new things"
+    } ]
+  }, {
+    "tStartMs": 720800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "wǒ xǐ huan xīn de dōng xī\nI like new stuff"
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ yì zhí xǐ huan xué xí xīn de dōng xī\nSo I always enjoy learning new things"
+    } ]
+  }, {
+    "tStartMs": 727033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "wǒ huì kàn hěn duō xīn de shì pín\nI watch lots of new videos"
+    } ]
+  }, {
+    "tStartMs": 730200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "tīng hěn duō xīn de bō kè\nI listen to lots of new podcasts"
+    } ]
+  }, {
+    "tStartMs": 732833,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "wǒ bù xǐ huan kàn yǐ qián xué guò de dōng xī\nI don't like reviewing things I've learned before"
+    } ]
+  }, {
+    "tStartMs": 738100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bù xǐ huan bèi dān cí\nSo I don't like memorizing vocabulary"
+    } ]
+  }, {
+    "tStartMs": 741233,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "wǒ jué de bèi dān cí yǒu diǎn wú liáo\nI think memorizing words is a bit boring"
+    } ]
+  }, {
+    "tStartMs": 750100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "duì yú wǒ lái shuō\nFor me"
+    } ]
+  }, {
+    "tStartMs": 751766,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ yù dào le yí gè xīn de dān cí\nIf I come across a new word"
+    } ]
+  }, {
+    "tStartMs": 756200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "wǒ bú rèn shi\nThat I don't know"
+    } ]
+  }, {
+    "tStartMs": 758166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "wǒ huì jué de\nI'll think"
+    } ]
+  }, {
+    "tStartMs": 759800,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "bǐ rú xià yí cì wǒ qù tīng dōng xī\nLike next time I listen to something"
+    } ]
+  }, {
+    "tStartMs": 763433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "wǒ huì yòu tīng dào le\nI'll hear it again"
+    } ]
+  }, {
+    "tStartMs": 765033,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "huò zhě wǒ yòu\nOr I'll"
+    } ]
+  }, {
+    "tStartMs": 766400,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "wǒ dú wén zhāng\nRead an article"
+    } ]
+  }, {
+    "tStartMs": 769166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "wǒ yòu kàn dào le zhè ge dān cí\nAnd see that word again"
+    } ]
+  }, {
+    "tStartMs": 771866,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "wǒ jué de\nI think"
+    } ]
+  }, {
+    "tStartMs": 773800,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "wǒ huì màn màn dì màn màn dì bǎ zhè ge dān cí xué huì\nI'll slowly, slowly learn that word"
+    } ]
+  }, {
+    "tStartMs": 779400,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "ér bú shì yòng hěn duō f l a s h   c a r d s qù jì dān cí\nInstead of using lots of flashcards to memorize words"
+    } ]
+  }, {
+    "tStartMs": 785366,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ bù xǐ huan bèi dān cí\nI think I don't like memorizing vocabulary"
+    } ]
+  }, {
+    "tStartMs": 789400,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wǒ xǐ huan tīng hěn duō cì\nI like hearing it many times"
+    } ]
+  }, {
+    "tStartMs": 792400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "kàn dào hěn duō cì zhè ge dān cí\nSeeing that word many times"
+    } ]
+  }, {
+    "tStartMs": 795033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "rán hòu jiù jì zhù le\nAnd then I remember it"
+    } ]
+  }, {
+    "tStartMs": 797633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "wǒ shì zhè yàng de\nThat's how I am"
+    } ]
+  }, {
+    "tStartMs": 798966,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "dàn shì rú guǒ nǐ xǐ huan bèi dān cí\nBut if you like memorizing words"
+    } ]
+  }, {
+    "tStartMs": 802166,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "nǐ jué de bèi dān cí hěn yǒu yòng\nAnd you find it useful"
+    } ]
+  }, {
+    "tStartMs": 806233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nà wǒ jué de yě kě yǐ\nThen I think that's fine too"
+    } ]
+  }, {
+    "tStartMs": 807633,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "yīn wèi měi gè rén de xí guàn bù yí yàng\nBecause everyone has different habits"
+    } ]
+  }, {
+    "tStartMs": 811633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de lǎo gōng\nFor example, my husband"
+    } ]
+  }, {
+    "tStartMs": 814033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "tā zài xué yīng yǔ\nHe's learning English"
+    } ]
+  }, {
+    "tStartMs": 815700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "tā hěn xǐ huan bèi dān cí\nHe really likes memorizing words"
+    } ]
+  }, {
+    "tStartMs": 817533,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "yīn wèi tā jué de\nBecause he thinks"
+    } ]
+  }, {
+    "tStartMs": 820500,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "tā de cí huì liáng hěn shǎo\nHis vocabulary is very small"
+    } ]
+  }, {
+    "tStartMs": 823666,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "tā rèn shi de dān cí hěn shǎo\nHe knows very few words"
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "suǒ yǐ tā xué yīng yǔ\nSo when he learns English"
+    } ]
+  }, {
+    "tStartMs": 829166,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "jiù shì bèi hěn duō dān cí\nHe just memorizes a lot of words"
+    } ]
+  }, {
+    "tStartMs": 832900,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "dàn shì wǒ xiǎng shuō de shì\nBut what I want to say is"
+    } ]
+  }, {
+    "tStartMs": 836166,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng liàn xí tīng lì\nIf you want to practice listening"
+    } ]
+  }, {
+    "tStartMs": 840466,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "nà nǐ yào qù tīng\nThen you need to listen"
+    } ]
+  }, {
+    "tStartMs": 843400,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng liàn xí kǒu yǔ\nIf you want to practice speaking"
+    } ]
+  }, {
+    "tStartMs": 846733,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "nà nǐ yào qù shuō\nThen you need to speak"
+    } ]
+  }, {
+    "tStartMs": 848900,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng rèn shi gèng duō de dān cí\nIf you want to learn more words"
+    } ]
+  }, {
+    "tStartMs": 852766,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "nà nǐ kě yǐ qù bèi dān cí\nThen you can memorize words"
+    } ]
+  }, {
+    "tStartMs": 856900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dàn shì\nBut"
+    } ]
+  }, {
+    "tStartMs": 859433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hěn zhòng yào de shì\nwhat's important is"
+    } ]
+  }, {
+    "tStartMs": 861600,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ zhī bèi dān cí\nif you only memorize words"
+    } ]
+  }, {
+    "tStartMs": 864000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "nà nǐ de tīng lì bú huì hǎo\nyour listening won't improve"
+    } ]
+  }, {
+    "tStartMs": 866400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nǐ de kǒu yǔ yě bú huì hǎo\nand your speaking won't improve either"
+    } ]
+  }, {
+    "tStartMs": 868833,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de zhè ge hěn zhòng yào\nso I think this is really important"
+    } ]
+  }, {
+    "tStartMs": 872300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "nǐ xiǎng liàn xí shén me\nwhatever you want to practice"
+    } ]
+  }, {
+    "tStartMs": 874366,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "nǐ jiù qù zuò shén me\njust go do that"
+    } ]
+  }, {
+    "tStartMs": 876766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "wǒ jué de shì zhè yàng de\nthat's what I believe"
+    } ]
+  }, {
+    "tStartMs": 878833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "nǐ yǒu méi yǒu zhè yàng de qíng kuàng\nhave you ever had this situation"
+    } ]
+  }, {
+    "tStartMs": 882833,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "jiù shì yǒu de shí hòu\nwhere sometimes"
+    } ]
+  }, {
+    "tStartMs": 885400,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "nǐ bù xiǎng xué xí yǔ yán le\nyou don't feel like studying a language"
+    } ]
+  }, {
+    "tStartMs": 889366,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "jīn tiān nǐ hěn lèi\ntoday you're really tired"
+    } ]
+  }, {
+    "tStartMs": 890900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "nǐ bù xiǎng xué xí le\nyou don't want to study"
+    } ]
+  }, {
+    "tStartMs": 892700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "huò zhě jīn tiān nǐ yǒu shì qíng\nor today you have things to do"
+    } ]
+  }, {
+    "tStartMs": 895366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nǐ méi bàn fǎ xué xí yǔ yán\nyou can't study the language"
+    } ]
+  }, {
+    "tStartMs": 898633,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "nà nǐ huì zěn me bàn\nso what would you do"
+    } ]
+  }, {
+    "tStartMs": 900866,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "huò zhě jīn tiān nǐ méi yǒu hěn duō shí jiān\nor today you don't have much time"
+    } ]
+  }, {
+    "tStartMs": 904033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "nà nǐ zěn me bàn\nthen what do you do"
+    } ]
+  }, {
+    "tStartMs": 907566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǐ qián\nbefore"
+    } ]
+  }, {
+    "tStartMs": 909833,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "wǒ de huà wǒ jué de jiān chí hěn zhòng yào\nFor me, I think persistence is key"
+    } ]
+  }, {
+    "tStartMs": 914566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì jǐn liàng\nSo I'll try my best"
+    } ]
+  }, {
+    "tStartMs": 917633,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "wǒ huì jǐn liàng měi tiān dōu xué xí yí gè xiǎo shí\nI'll try to study for an hour every day"
+    } ]
+  }, {
+    "tStartMs": 923066,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "měi tiān wǎn shàng dōu xué xí bàn gè xiǎo shí\nStudy for half an hour every night"
+    } ]
+  }, {
+    "tStartMs": 927066,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dàn shì yǒu de shí hòu hěn zhèng cháng\nBut sometimes it's normal"
+    } ]
+  }, {
+    "tStartMs": 929600,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "wǒ men méi yǒu shí jiān\nWe don't have time"
+    } ]
+  }, {
+    "tStartMs": 931866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "wǒ men yǒu hěn duō shì qíng yào qù zuò\nWe have lots of things to do"
+    } ]
+  }, {
+    "tStartMs": 935100,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhī qián\nSo before"
+    } ]
+  }, {
+    "tStartMs": 937600,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "yǐ qián de shí hòu wǒ huì hěn shēng qì\nIn the past, I'd get upset"
+    } ]
+  }, {
+    "tStartMs": 939900,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "wǒ jué de   āi yā wǒ jīn tiān méi yǒu xué xí\nI'd think, oh, I didn't study today"
+    } ]
+  }, {
+    "tStartMs": 945066,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài wǒ jué de\nBut now I think"
+    } ]
+  }, {
+    "tStartMs": 947866,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "rú guǒ jīn tiān bù xiǎng xué xí le\nIf I don't feel like studying today"
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "wǒ men kě yǐ bǐ rú kàn gè diàn yǐng\nWe can, for example, watch a movie"
+    } ]
+  }, {
+    "tStartMs": 954233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "kàn gè xī bān yá yǔ de diàn yǐng\nWatch a movie in Spanish"
+    } ]
+  }, {
+    "tStartMs": 956466,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "huò zhě wǒ zuò gè yú jiā\nOr I do some yoga"
+    } ]
+  }, {
+    "tStartMs": 958700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "wǒ yòng xī bān yá yǔ de shì pín zuò yú jiā\nI do yoga with Spanish videos"
+    } ]
+  }, {
+    "tStartMs": 962000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "huò zhě wǒ tīng yì shǒu gē\nOr I listen to a song"
+    } ]
+  }, {
+    "tStartMs": 963866,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "wǒ tīng yì shǒu xī bān yá yǔ de gē\nI listen to a Spanish song"
+    } ]
+  }, {
+    "tStartMs": 966400,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "nà wǒ yě zài xué xí\nThen I'm still learning"
+    } ]
+  }, {
+    "tStartMs": 968300,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "duì ba\nRight?"
+    } ]
+  }, {
+    "tStartMs": 970066,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "huò zhě\nOr"
+    } ]
+  }, {
+    "tStartMs": 971500,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ zhǐ yǒu 5 fēn zhōng\nif I only have 5 minutes"
+    } ]
+  }, {
+    "tStartMs": 973600,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "1 0 fēn zhōng\nor 10 minutes"
+    } ]
+  }, {
+    "tStartMs": 974566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nà wǒ yě kě yǐ\nthen I can also"
+    } ]
+  }, {
+    "tStartMs": 977000,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "kàn yí xià yǐ qián xué guò de dān cí\nreview words I've learned before"
+    } ]
+  }, {
+    "tStartMs": 980500,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "yě kě yǐ yě shì zài xué xí\nthat's still learning"
+    } ]
+  }, {
+    "tStartMs": 983300,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ xiǎng shuō de shì\nso what I'm trying to say is"
+    } ]
+  }, {
+    "tStartMs": 988166,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "wǒ men huì jǐn liàng měi tiān dōu xué xí yì diǎn yǔ yán\nwe'll try to learn a bit of the language every day"
+    } ]
+  }, {
+    "tStartMs": 992966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "dàn shì\nbut"
+    } ]
+  }, {
+    "tStartMs": 993766,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ men zuò bú dào měi tiān dōu zhè yàng qù xué xí\nif we can't manage to study like that every day"
+    } ]
+  }, {
+    "tStartMs": 998166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "nà yě méi yǒu tài dà de guān xì\nit's not a big deal"
+    } ]
+  }, {
+    "tStartMs": 1002433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "zhè jù huà shì duì wǒ zì jǐ shuō de\nthis is something I tell myself"
+    } ]
+  }, {
+    "tStartMs": 1005066,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "wǒ bù zhī dào nǐ shì shén me qíng kuàng\nI don't know what your situation is"
+    } ]
+  }, {
+    "tStartMs": 1008200,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "rán hòu nǐ yǒu méi yǒu xué guò qí tā de wài yǔ\nand have you learned any other foreign languages"
+    } ]
+  }, {
+    "tStartMs": 1012700,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "hàn yǔ yǐ wài de wài yǔ\nbesides Chinese"
+    } ]
+  }, {
+    "tStartMs": 1017433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "nǐ de xué xí xí guàn yí yàng ma\nare your study habits the same"
+    } ]
+  }, {
+    "tStartMs": 1020933,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de huà\nfor example, for me"
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "bù yí yàng\nit's different"
+    } ]
+  }, {
+    "tStartMs": 1025000,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "wǒ yǐ qián zài xué xiào xué de yīng yǔ\nI learned English in school before"
+    } ]
+  }, {
+    "tStartMs": 1028633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "zài zhōng guó xué de yīng yǔ\nEnglish learned in China"
+    } ]
+  }, {
+    "tStartMs": 1030733,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "wǒ shàng xué de shí hòu\nWhen I was in school"
+    } ]
+  }, {
+    "tStartMs": 1032733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wǒ men zhī xué yǔ fǎ\nWe only learned grammar"
+    } ]
+  }, {
+    "tStartMs": 1035100,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "zhī kǎo shì zuò liàn xí\nOnly took exams and did exercises"
+    } ]
+  }, {
+    "tStartMs": 1038500,
+    "dDurationMs": 2499,
+    "segs": [ {
+      "utf8": "dàn shì wǒ cóng lái méi yǒu\nBut I never"
+    } ]
+  }, {
+    "tStartMs": 1041000,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "wǒ hěn shǎo liàn xí tīng lì huò zhě liàn xí kǒu yǔ\nI rarely practiced listening or speaking"
+    } ]
+  }, {
+    "tStartMs": 1045266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "rán hòu hòu lái xué xí fǎ yǔ de shí hòu\nThen later when I learned French"
+    } ]
+  }, {
+    "tStartMs": 1048866,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "wǒ yě shì zài xué xiào xué xí de fǎ yǔ\nI also learned French at school"
+    } ]
+  }, {
+    "tStartMs": 1053066,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "rán hòu dāng shí wǒ men yǒu wài jiào\nAnd back then we had foreign teachers"
+    } ]
+  }, {
+    "tStartMs": 1055700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "yǒu fǎ guó de lǎo shī\nTeachers from France"
+    } ]
+  }, {
+    "tStartMs": 1057433,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "suǒ yǐ tīng lì hé kǒu yǔ liàn xí dé duō yì diǎn\nSo we practiced listening and speaking more"
+    } ]
+  }, {
+    "tStartMs": 1063866,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài xué xí xī bān yá yǔ hé rì yǔ\nBut now learning Spanish and Japanese"
+    } ]
+  }, {
+    "tStartMs": 1068266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "shì wǒ zì jǐ xué de\nI'm learning them on my own"
+    } ]
+  }, {
+    "tStartMs": 1070933,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "wǒ zì xué de zhè liǎng mén yǔ yán\nI self-studied both languages"
+    } ]
+  }, {
+    "tStartMs": 1074633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "suǒ yǐ hěn bù yí yàng\nSo it's very different"
+    } ]
+  }, {
+    "tStartMs": 1077066,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ huā le hěn duō shí jiān lái liàn xí tīng lì\nI think I spent a lot of time practicing listening"
+    } ]
+  }, {
+    "tStartMs": 1082733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "kàn le hěn duō shì pín\nWatched many videos"
+    } ]
+  }, {
+    "tStartMs": 1085066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "tīng le hěn duō bō kè\nListened to many podcasts"
+    } ]
+  }, {
+    "tStartMs": 1089266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "yóu qí shì rì yǔ\nEspecially Japanese"
+    } ]
+  }, {
+    "tStartMs": 1090900,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ yǐ qián méi yǒu xué guò rì yǔ\nBecause I had never learned Japanese before"
+    } ]
+  }, {
+    "tStartMs": 1095533,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "suǒ yǐ xué xí de xí guàn wán quán bù yí yàng\nSo the learning habits are completely different"
+    } ]
+  }, {
+    "tStartMs": 1101200,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "nà nǐ ne\nWhat about you"
+    } ]
+  }, {
+    "tStartMs": 1102200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nǐ xiàn zài xué xí zhōng wén\nYou're learning Chinese now"
+    } ]
+  }, {
+    "tStartMs": 1104633,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "nǐ yǒu shén me xué xí zhōng wén de xí guàn\nWhat habits do you have for learning Chinese"
+    } ]
+  }, {
+    "tStartMs": 1108333,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "nǐ shén me shí hòu xué xí\nWhen do you study"
+    } ]
+  }, {
+    "tStartMs": 1110233,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "nǐ měi zhōu xué xí jǐ cì\nHow many times a week do you study"
+    } ]
+  }, {
+    "tStartMs": 1113200,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "nǐ měi cì xué xí shén me\nWhat do you study each time"
+    } ]
+  }, {
+    "tStartMs": 1116433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "nǐ yǒu méi yǒu bù xiǎng xué xí de shí hòu\nDo you ever not want to study"
+    } ]
+  }, {
+    "tStartMs": 1119833,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "nà nǐ zuò shén me\nWhat do you do then"
+    } ]
+  }, {
+    "tStartMs": 1122300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "xī wàng nǐ kě yǐ fēn xiǎng gěi dà jiā\nI hope you can share with everyone"
+    } ]
+  }, {
+    "tStartMs": 1125733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "rán hòu zài píng lùn qū lǐ gào sù wǒ\nThen tell me in the comments"
+    } ]
+  }, {
+    "tStartMs": 1129800,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "nà jīn tiān de shì pín jiù dào zhè lǐ\nThat's it for today's video"
+    } ]
+  }, {
+    "tStartMs": 1132733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "wǒ men xià gè shì pín zài jiàn\nSee you in the next video"
+    } ]
+  }, {
+    "tStartMs": 1134733,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "bài bài\nBye bye"
+    } ]
+  } ]
+}

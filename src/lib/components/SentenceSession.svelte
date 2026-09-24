@@ -1,5 +1,8 @@
 <script>
   import { session } from '$lib/session.svelte.js';
+  import { progress } from '$lib/progress.svelte.js';
+  import { RECOGNITION_WEIGHT } from '$lib/srs.js';
+  import { sfx } from '$lib/sfx.svelte.js';
   import { speak } from '$lib/tts.js';
 
   let { scope, onexit } = $props();
@@ -22,7 +25,13 @@
   function choose(option) {
     if (run.picked) return;
     run.picked = option;
-    if (option.id === round.item.id) run.score += 1;
+    const right = option.id === round.item.id;
+    if (right) run.score += 1;
+    sfx.play(right ? 'correct' : 'wrong');
+    // Only the word this round was built around, not every word in the line —
+    // otherwise one sentence would bump eight cards at once. Recognition counts
+    // for a third of a vocab review either way.
+    progress.grade(round.item.word, right ? 'good' : 'again', RECOGNITION_WEIGHT);
   }
 
   function next() {
@@ -30,6 +39,7 @@
     if (run.at + 1 >= run.rounds.length) run.done = true;
     else run.at += 1;
   }
+  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
 {#if !run.done && round}
@@ -87,8 +97,9 @@
     {/if}
   </div>
 {:else}
+  <PageHeader title="Session done" account={false} />
+
   <div class="page">
-    <h1>Session done</h1>
     <div class="card pop center">
       <div class="score">{run.score}/{run.rounds.length}</div>
       <p class="note tight">Sentence rounds are not tracked.</p>

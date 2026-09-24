@@ -1,0 +1,2083 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 366,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Hi, friends!"
+    } ]
+  }, {
+    "tStartMs": 1233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Hello, everyone. I'm Mini."
+    } ]
+  }, {
+    "tStartMs": 2800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Welcome to my channel."
+    } ]
+  }, {
+    "tStartMs": 5166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "In today's episode,"
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm going to make spaghetti."
+    } ]
+  }, {
+    "tStartMs": 10100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "It's my dinner."
+    } ]
+  }, {
+    "tStartMs": 12500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I'll use real, everyday actions to help"
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "you learn the entire cooking process"
+    } ]
+  }, {
+    "tStartMs": 19966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the practical Chinese used along the way."
+    } ]
+  }, {
+    "tStartMs": 23166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "We'll start by cooking the pasta,"
+    } ]
+  }, {
+    "tStartMs": 25366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "then prepare the ingredients,"
+    } ]
+  }, {
+    "tStartMs": 27700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "make the sauce,"
+    } ]
+  }, {
+    "tStartMs": 29666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "and finally eat."
+    } ]
+  }, {
+    "tStartMs": 32833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Today's episode is still"
+    } ]
+  }, {
+    "tStartMs": 34333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "a comprehensible input video."
+    } ]
+  }, {
+    "tStartMs": 37033,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "So, observe my actions"
+    } ]
+  }, {
+    "tStartMs": 39366,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "and understand the Chinese words through them."
+    } ]
+  }, {
+    "tStartMs": 43433,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "This method"
+    } ]
+  }, {
+    "tStartMs": 44500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "will make them easier to remember."
+    } ]
+  }, {
+    "tStartMs": 46766,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "And today, you'll learn"
+    } ]
+  }, {
+    "tStartMs": 48833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "some very practical verbs."
+    } ]
+  }, {
+    "tStartMs": 50966,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "First, I'll teach you a useful expression."
+    } ]
+  }, {
+    "tStartMs": 54300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "Tonight,"
+    } ]
+  }, {
+    "tStartMs": 55500,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "when you're going to cook,"
+    } ]
+  }, {
+    "tStartMs": 57100,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "at that moment,"
+    } ]
+  }, {
+    "tStartMs": 57966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "you can ask your family,"
+    } ]
+  }, {
+    "tStartMs": 59500,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "“What do you want to eat tonight?”"
+    } ]
+  }, {
+    "tStartMs": 62866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "“What do you want to eat tonight?”"
+    } ]
+  }, {
+    "tStartMs": 66433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "How can you answer?"
+    } ]
+  }, {
+    "tStartMs": 68233,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "You can say, “I want to eat...”"
+    } ]
+  }, {
+    "tStartMs": 72566,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "For example, “I want noodles.”"
+    } ]
+  }, {
+    "tStartMs": 76233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "“I want rice.”"
+    } ]
+  }, {
+    "tStartMs": 78700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Tonight, I want spaghetti."
+    } ]
+  }, {
+    "tStartMs": 82800,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Now I'm going to cook the pasta first."
+    } ]
+  }, {
+    "tStartMs": 88466,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "The first step is to filter some water."
+    } ]
+  }, {
+    "tStartMs": 93833,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "This is my water-filter pitcher."
+    } ]
+  }, {
+    "tStartMs": 100666,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "Now I'm filling it with water."
+    } ]
+  }, {
+    "tStartMs": 107200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Once it's filled, look."
+    } ]
+  }, {
+    "tStartMs": 109400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "The water filters down by itself."
+    } ]
+  }, {
+    "tStartMs": 113866,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "The filtered water"
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "will be cleaner."
+    } ]
+  }, {
+    "tStartMs": 117966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "We need to wait a little."
+    } ]
+  }, {
+    "tStartMs": 120833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "While we're waiting,"
+    } ]
+  }, {
+    "tStartMs": 122600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I can prepare the ingredients first."
+    } ]
+  }, {
+    "tStartMs": 128600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 129900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Here is the"
+    } ]
+  }, {
+    "tStartMs": 132766,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "bacon I prepared."
+    } ]
+  }, {
+    "tStartMs": 135633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Look—bacon."
+    } ]
+  }, {
+    "tStartMs": 138500,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "I've already defrosted it."
+    } ]
+  }, {
+    "tStartMs": 142166,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "“Defrost” means taking something"
+    } ]
+  }, {
+    "tStartMs": 145400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "out of the freezer to thaw."
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "There's another word"
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "that's more common in speech:"
+    } ]
+  }, {
+    "tStartMs": 152200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "“huàn,” meaning “to thaw.”"
+    } ]
+  }, {
+    "tStartMs": 154466,
+    "dDurationMs": 5634,
+    "segs": [ {
+      "utf8": "For example, I usually set out a piece of meat to thaw in the morning"
+    } ]
+  }, {
+    "tStartMs": 160233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "because I'll cook it at lunchtime."
+    } ]
+  }, {
+    "tStartMs": 162166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "So I need to thaw a piece of meat."
+    } ]
+  }, {
+    "tStartMs": 164900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Today, we're having spaghetti,"
+    } ]
+  }, {
+    "tStartMs": 167033,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "so pasta is essential."
+    } ]
+  }, {
+    "tStartMs": 171433,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Look, this is my spaghetti."
+    } ]
+  }, {
+    "tStartMs": 177266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Let's see what's in the fridge."
+    } ]
+  }, {
+    "tStartMs": 179966,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "This is my refrigerator."
+    } ]
+  }, {
+    "tStartMs": 181300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Let's open it first."
+    } ]
+  }, {
+    "tStartMs": 183500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Open the refrigerator—open."
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 188966,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "Oh, I don't have many ingredients left in here."
+    } ]
+  }, {
+    "tStartMs": 193033,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "I think I can cut up a little tomato."
+    } ]
+  }, {
+    "tStartMs": 198000,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Take this tomato out—take it out."
+    } ]
+  }, {
+    "tStartMs": 202500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This action is “take out.”"
+    } ]
+  }, {
+    "tStartMs": 204300,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Take the tomato out."
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "This is my sauce."
+    } ]
+  }, {
+    "tStartMs": 208166,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "It's the sauce for the spaghetti."
+    } ]
+  }, {
+    "tStartMs": 211766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "Let's take the sauce out too."
+    } ]
+  }, {
+    "tStartMs": 214866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Then we'll close the refrigerator."
+    } ]
+  }, {
+    "tStartMs": 218200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Close it."
+    } ]
+  }, {
+    "tStartMs": 219500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'll"
+    } ]
+  }, {
+    "tStartMs": 222433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "give this pan a quick rinse first."
+    } ]
+  }, {
+    "tStartMs": 225766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "We call this “shuàn”—to rinse quickly."
+    } ]
+  }, {
+    "tStartMs": 227866,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "The pan is already clean, but"
+    } ]
+  }, {
+    "tStartMs": 231033,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "I usually give it another quick rinse before cooking."
+    } ]
+  }, {
+    "tStartMs": 235100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Rinse."
+    } ]
+  }, {
+    "tStartMs": 237866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 239966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Next, we'll take the water we just filtered"
+    } ]
+  }, {
+    "tStartMs": 243633,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "and pour it into the pot."
+    } ]
+  }, {
+    "tStartMs": 247766,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "This action is “pour.”"
+    } ]
+  }, {
+    "tStartMs": 251100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Pour the water into the pot."
+    } ]
+  }, {
+    "tStartMs": 254166,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Okay, that's about enough."
+    } ]
+  }, {
+    "tStartMs": 257100,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "First, we need to boil the water."
+    } ]
+  }, {
+    "tStartMs": 261766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "This is the pot lid."
+    } ]
+  }, {
+    "tStartMs": 265666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Put the lid on."
+    } ]
+  }, {
+    "tStartMs": 268666,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "This is an induction cooktop."
+    } ]
+  }, {
+    "tStartMs": 272766,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Let's turn it on."
+    } ]
+  }, {
+    "tStartMs": 277700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Adjust the temperature."
+    } ]
+  }, {
+    "tStartMs": 281666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Now we're heating the water."
+    } ]
+  }, {
+    "tStartMs": 283900,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "While we wait for it to boil,"
+    } ]
+  }, {
+    "tStartMs": 285800,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "I'm going to cut the tomato."
+    } ]
+  }, {
+    "tStartMs": 289833,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "This is my tomato."
+    } ]
+  }, {
+    "tStartMs": 293800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "It already feels very soft."
+    } ]
+  }, {
+    "tStartMs": 297433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "I need to eat it soon,"
+    } ]
+  }, {
+    "tStartMs": 298700,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "or it will go bad."
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "Let's wash the tomato first."
+    } ]
+  }, {
+    "tStartMs": 305666,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Wash, wash, wash the tomato."
+    } ]
+  }, {
+    "tStartMs": 312266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This is my very"
+    } ]
+  }, {
+    "tStartMs": 314066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "small cutting board. It's tiny."
+    } ]
+  }, {
+    "tStartMs": 321666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "This is a knife."
+    } ]
+  }, {
+    "tStartMs": 325266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Next, let's cut the tomato."
+    } ]
+  }, {
+    "tStartMs": 328033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Cut it open."
+    } ]
+  }, {
+    "tStartMs": 332700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 334166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I can probably only eat half of it"
+    } ]
+  }, {
+    "tStartMs": 337066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "because a whole one is too much for me."
+    } ]
+  }, {
+    "tStartMs": 339466,
+    "dDurationMs": 5534,
+    "segs": [ {
+      "utf8": "So, I'll take out my plastic wrap."
+    } ]
+  }, {
+    "tStartMs": 348200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Pull it out."
+    } ]
+  }, {
+    "tStartMs": 349766,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Pull, pull it out."
+    } ]
+  }, {
+    "tStartMs": 351700,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "Then tear it off."
+    } ]
+  }, {
+    "tStartMs": 357800,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Wrap up this half of the tomato."
+    } ]
+  }, {
+    "tStartMs": 365000,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Then we'll put it in the refrigerator."
+    } ]
+  }, {
+    "tStartMs": 369166,
+    "dDurationMs": 8500,
+    "segs": [ {
+      "utf8": "Next, we'll keep cutting the tomato."
+    } ]
+  }, {
+    "tStartMs": 377666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Cut it into chunks."
+    } ]
+  }, {
+    "tStartMs": 382566,
+    "dDurationMs": 6267,
+    "segs": [ {
+      "utf8": "Then put the tomato into a bowl."
+    } ]
+  }, {
+    "tStartMs": 389666,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "Now let's rinse the knife."
+    } ]
+  }, {
+    "tStartMs": 396566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "The cutting board needs rinsing too."
+    } ]
+  }, {
+    "tStartMs": 399200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Give it a rinse."
+    } ]
+  }, {
+    "tStartMs": 401200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "Oh, the water is boiling!"
+    } ]
+  }, {
+    "tStartMs": 405033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow!"
+    } ]
+  }, {
+    "tStartMs": 406266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "The water is boiling, so we can add the pasta."
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 413766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "This should be about enough for me."
+    } ]
+  }, {
+    "tStartMs": 416700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Let's put the pasta in."
+    } ]
+  }, {
+    "tStartMs": 419100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "We call this “xià miàn”—putting noodles into boiling water."
+    } ]
+  }, {
+    "tStartMs": 424833,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "Of course, you can also say “cook the noodles.”"
+    } ]
+  }, {
+    "tStartMs": 429233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "For spaghetti,"
+    } ]
+  }, {
+    "tStartMs": 432966,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "the instructions usually say to cook it for about ten minutes."
+    } ]
+  }, {
+    "tStartMs": 436766,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But I prefer"
+    } ]
+  }, {
+    "tStartMs": 440366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "softer noodles,"
+    } ]
+  }, {
+    "tStartMs": 442766,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "so I usually cook them for fifteen minutes."
+    } ]
+  }, {
+    "tStartMs": 446866,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Some people prefer"
+    } ]
+  }, {
+    "tStartMs": 449400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "firmer noodles."
+    } ]
+  }, {
+    "tStartMs": 451766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Everyone's taste is a little different."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Soft or firm."
+    } ]
+  }, {
+    "tStartMs": 456600,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Do you prefer your noodles softer"
+    } ]
+  }, {
+    "tStartMs": 458633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "or firmer?"
+    } ]
+  }, {
+    "tStartMs": 460600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Tell me in the comments."
+    } ]
+  }, {
+    "tStartMs": 463066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When I make the sauce later,"
+    } ]
+  }, {
+    "tStartMs": 465066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I want to add some garlic."
+    } ]
+  }, {
+    "tStartMs": 468566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Look, this is garlic."
+    } ]
+  }, {
+    "tStartMs": 470266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "So now I'm going to cut the garlic."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Usually, we smash it first."
+    } ]
+  }, {
+    "tStartMs": 476166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Smash it a few times,"
+    } ]
+  }, {
+    "tStartMs": 477900,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "and the skin will be easier to peel off."
+    } ]
+  }, {
+    "tStartMs": 481666,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So this action is “smash.”"
+    } ]
+  }, {
+    "tStartMs": 486366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 487700,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "Look, the skin comes off very easily."
+    } ]
+  }, {
+    "tStartMs": 495300,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Then mince it."
+    } ]
+  }, {
+    "tStartMs": 500300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Take the chopped garlic"
+    } ]
+  }, {
+    "tStartMs": 502233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "and put it on this small plate."
+    } ]
+  }, {
+    "tStartMs": 503966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "This is a small plate."
+    } ]
+  }, {
+    "tStartMs": 506166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "Put it on the plate."
+    } ]
+  }, {
+    "tStartMs": 509166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Let's check my noodles."
+    } ]
+  }, {
+    "tStartMs": 512300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 513366,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "I'm stirring them like this with chopsticks."
+    } ]
+  }, {
+    "tStartMs": 516833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "While stirring,"
+    } ]
+  }, {
+    "tStartMs": 518300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I can feel"
+    } ]
+  }, {
+    "tStartMs": 520100,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "how soft or firm the noodles are."
+    } ]
+  }, {
+    "tStartMs": 524166,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "I think they're about right now. They're ready."
+    } ]
+  }, {
+    "tStartMs": 529233,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Next,"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "I'll get a bowl."
+    } ]
+  }, {
+    "tStartMs": 532200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "I've got a bowl."
+    } ]
+  }, {
+    "tStartMs": 533766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "I'm getting ready to serve the noodles."
+    } ]
+  }, {
+    "tStartMs": 536700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "First, I'll pick them up."
+    } ]
+  }, {
+    "tStartMs": 539866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Pick them up with chopsticks."
+    } ]
+  }, {
+    "tStartMs": 542166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Lift the noodles up,"
+    } ]
+  }, {
+    "tStartMs": 543666,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "then put them into the bowl."
+    } ]
+  }, {
+    "tStartMs": 547200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Wow!"
+    } ]
+  }, {
+    "tStartMs": 550366,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I'm holding the camera with one hand"
+    } ]
+  }, {
+    "tStartMs": 552800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "and picking up the noodles with chopsticks in the other,"
+    } ]
+  }, {
+    "tStartMs": 556633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "so it's a little difficult."
+    } ]
+  }, {
+    "tStartMs": 560800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "I wish I had"
+    } ]
+  }, {
+    "tStartMs": 562766,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "a camera operator to film me right now."
+    } ]
+  }, {
+    "tStartMs": 565266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Seriously."
+    } ]
+  }, {
+    "tStartMs": 566900,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "When you film this kind of vlog by yourself,"
+    } ]
+  }, {
+    "tStartMs": 570833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "sometimes everything gets a bit chaotic."
+    } ]
+  }, {
+    "tStartMs": 573566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "This is an idiom I'm teaching you:"
+    } ]
+  }, {
+    "tStartMs": 575666,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "“shǒu máng jiǎo luàn”—to be in a fluster."
+    } ]
+  }, {
+    "tStartMs": 577900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "You can look up what it means."
+    } ]
+  }, {
+    "tStartMs": 580733,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "Okay, I'll keep lifting the noodles and serving them into the bowl."
+    } ]
+  }, {
+    "tStartMs": 588500,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 589233,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "Next, I'm going to make the sauce."
+    } ]
+  }, {
+    "tStartMs": 594600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I'll switch to another pan."
+    } ]
+  }, {
+    "tStartMs": 600433,
+    "dDurationMs": 7233,
+    "segs": [ {
+      "utf8": "This is a wok—a stir-fry pan."
+    } ]
+  }, {
+    "tStartMs": 608166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I'll use it to make the sauce."
+    } ]
+  }, {
+    "tStartMs": 610300,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "Oh, right!"
+    } ]
+  }, {
+    "tStartMs": 611066,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "I need to put on an apron."
+    } ]
+  }, {
+    "tStartMs": 614033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Wait a moment."
+    } ]
+  }, {
+    "tStartMs": 618100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Look, this is an apron."
+    } ]
+  }, {
+    "tStartMs": 623033,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "You should put it on before cooking—wear an apron."
+    } ]
+  }, {
+    "tStartMs": 629833,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "First, I need to open this sauce."
+    } ]
+  }, {
+    "tStartMs": 633466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "This is spaghetti sauce."
+    } ]
+  }, {
+    "tStartMs": 636066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 637600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "This is so hard to twist open."
+    } ]
+  }, {
+    "tStartMs": 639900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "This action is “twist.”"
+    } ]
+  }, {
+    "tStartMs": 642666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "It's very tight right now."
+    } ]
+  }, {
+    "tStartMs": 644666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "It's so tight that I can't twist it open."
+    } ]
+  }, {
+    "tStartMs": 647800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's also a little slippery"
+    } ]
+  }, {
+    "tStartMs": 650433,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "because there's water on it."
+    } ]
+  }, {
+    "tStartMs": 651866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's a bit slippery."
+    } ]
+  }, {
+    "tStartMs": 653500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Let me see."
+    } ]
+  }, {
+    "tStartMs": 655433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "I'll get a towel and try it this way."
+    } ]
+  }, {
+    "tStartMs": 659300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "No, that didn't work."
+    } ]
+  }, {
+    "tStartMs": 660000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "It's still very slippery."
+    } ]
+  }, {
+    "tStartMs": 662766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "What should I do?"
+    } ]
+  }, {
+    "tStartMs": 665366,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Use more force."
+    } ]
+  }, {
+    "tStartMs": 667633,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Push harder!"
+    } ]
+  }, {
+    "tStartMs": 669466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Oh, it still won't open."
+    } ]
+  }, {
+    "tStartMs": 671066,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "Oh my gosh, this is really hard to open!"
+    } ]
+  }, {
+    "tStartMs": 675900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "Friends, when this happens,"
+    } ]
+  }, {
+    "tStartMs": 678166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "what do you do?"
+    } ]
+  }, {
+    "tStartMs": 680500,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "I'll try another method."
+    } ]
+  }, {
+    "tStartMs": 682966,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "Turn it upside down like this."
+    } ]
+  }, {
+    "tStartMs": 686100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Then tap the bottom."
+    } ]
+  }, {
+    "tStartMs": 692166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I learned all these methods online."
+    } ]
+  }, {
+    "tStartMs": 694866,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "I don't know if they'll work."
+    } ]
+  }, {
+    "tStartMs": 698400,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Still no."
+    } ]
+  }, {
+    "tStartMs": 701900,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "This is making me so mad!"
+    } ]
+  }, {
+    "tStartMs": 704366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "I'll get a piece of paper."
+    } ]
+  }, {
+    "tStartMs": 709800,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "I've got some paper."
+    } ]
+  }, {
+    "tStartMs": 711466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Let's see if a tissue works."
+    } ]
+  }, {
+    "tStartMs": 716766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Oh, I suddenly remembered:"
+    } ]
+  }, {
+    "tStartMs": 718233,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "this is a new, unopened jar of sauce!"
+    } ]
+  }, {
+    "tStartMs": 725233,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "So I have to"
+    } ]
+  }, {
+    "tStartMs": 726700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "pry it open with a spoon first."
+    } ]
+  }, {
+    "tStartMs": 730800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This action is “pry.”"
+    } ]
+  }, {
+    "tStartMs": 732800,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "Using a spoon like this is “prying.”"
+    } ]
+  }, {
+    "tStartMs": 738800,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Hey, did you hear that sound?"
+    } ]
+  }, {
+    "tStartMs": 742066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "It should be fine now."
+    } ]
+  }, {
+    "tStartMs": 745633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Ah, I finally opened it!"
+    } ]
+  }, {
+    "tStartMs": 748266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Now,"
+    } ]
+  }, {
+    "tStartMs": 749066,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "I'm going to cook the sauce."
+    } ]
+  }, {
+    "tStartMs": 751800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh..."
+    } ]
+  }, {
+    "tStartMs": 753066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Before I start cooking,"
+    } ]
+  }, {
+    "tStartMs": 754400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "I need to turn on the range hood."
+    } ]
+  }, {
+    "tStartMs": 757633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "This is the range hood."
+    } ]
+  }, {
+    "tStartMs": 762600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Okay, it's on."
+    } ]
+  }, {
+    "tStartMs": 764733,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "Now we'll pour some oil into the pan."
+    } ]
+  }, {
+    "tStartMs": 771200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Once the oil is hot, we can start cooking."
+    } ]
+  }, {
+    "tStartMs": 774933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I usually hold my hand over it to test the temperature."
+    } ]
+  }, {
+    "tStartMs": 779400,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "That's about right."
+    } ]
+  }, {
+    "tStartMs": 780933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "First, put the garlic into the pan."
+    } ]
+  }, {
+    "tStartMs": 785633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Stir-fry it a few times."
+    } ]
+  }, {
+    "tStartMs": 787633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Stir-fry, stir-fry."
+    } ]
+  }, {
+    "tStartMs": 793633,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "I also like to smell it like this."
+    } ]
+  }, {
+    "tStartMs": 797433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Mm, it smells so good!"
+    } ]
+  }, {
+    "tStartMs": 801066,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "After that,"
+    } ]
+  }, {
+    "tStartMs": 801766,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I put the meat and tomato into the pan."
+    } ]
+  }, {
+    "tStartMs": 805800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Keep stir-frying."
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "That's about right."
+    } ]
+  }, {
+    "tStartMs": 813033,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "Next, I'm going to pour in the sauce."
+    } ]
+  }, {
+    "tStartMs": 820000,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Use a spoon to scoop it."
+    } ]
+  }, {
+    "tStartMs": 822166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This is “scoop.”"
+    } ]
+  }, {
+    "tStartMs": 825000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Scoop it out."
+    } ]
+  }, {
+    "tStartMs": 831500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Here,"
+    } ]
+  }, {
+    "tStartMs": 832500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I can adjust the heat."
+    } ]
+  }, {
+    "tStartMs": 836000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "This is the plus sign."
+    } ]
+  }, {
+    "tStartMs": 837600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The plus sign makes the heat higher."
+    } ]
+  }, {
+    "tStartMs": 840500,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "The minus sign makes the heat lower."
+    } ]
+  }, {
+    "tStartMs": 844500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Low heat."
+    } ]
+  }, {
+    "tStartMs": 847100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "High heat."
+    } ]
+  }, {
+    "tStartMs": 848900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "This unit is called a watt."
+    } ]
+  }, {
+    "tStartMs": 851300,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "For example, this is 800 watts."
+    } ]
+  }, {
+    "tStartMs": 854466,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "One thousand watts."
+    } ]
+  }, {
+    "tStartMs": 857466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Six hundred watts."
+    } ]
+  }, {
+    "tStartMs": 860200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Sprinkle in some salt."
+    } ]
+  }, {
+    "tStartMs": 862200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "This is salt."
+    } ]
+  }, {
+    "tStartMs": 865000,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "Sprinkle, sprinkle."
+    } ]
+  }, {
+    "tStartMs": 868766,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Next, I'll take the noodles I cooked earlier"
+    } ]
+  }, {
+    "tStartMs": 871233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and add them to the pan to stir-fry."
+    } ]
+  }, {
+    "tStartMs": 874666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Woo-hoo!"
+    } ]
+  }, {
+    "tStartMs": 877700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow!"
+    } ]
+  }, {
+    "tStartMs": 880000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Keep stir-frying for a while"
+    } ]
+  }, {
+    "tStartMs": 883000,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "so the sauce thoroughly coats the noodles."
+    } ]
+  }, {
+    "tStartMs": 889166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 890266,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "It smells amazing!"
+    } ]
+  }, {
+    "tStartMs": 893100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "All right, it's done!"
+    } ]
+  }, {
+    "tStartMs": 896400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 897833,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Look, I made such a big panful!"
+    } ]
+  }, {
+    "tStartMs": 901700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Next, I'll serve the noodles."
+    } ]
+  }, {
+    "tStartMs": 905366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Serve them onto a plate."
+    } ]
+  }, {
+    "tStartMs": 907666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Serve."
+    } ]
+  }, {
+    "tStartMs": 908900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Oh, it's so heavy!"
+    } ]
+  }, {
+    "tStartMs": 917166,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "All right, look!"
+    } ]
+  }, {
+    "tStartMs": 919300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "This is my dinner today."
+    } ]
+  }, {
+    "tStartMs": 921200,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "The spaghetti is ready!"
+    } ]
+  }, {
+    "tStartMs": 924766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Mm, it looks pretty good."
+    } ]
+  }, {
+    "tStartMs": 928300,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I'm carrying my dinner."
+    } ]
+  }, {
+    "tStartMs": 930200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Carry—carry the plate."
+    } ]
+  }, {
+    "tStartMs": 932266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "I'll carry it over and eat."
+    } ]
+  }, {
+    "tStartMs": 936600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 938766,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "Now I'm going to eat."
+    } ]
+  }, {
+    "tStartMs": 943133,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "I honestly think the spaghetti I made"
+    } ]
+  }, {
+    "tStartMs": 945066,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "is quite delicious."
+    } ]
+  }, {
+    "tStartMs": 949400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 951033,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "It's very soft."
+    } ]
+  }, {
+    "tStartMs": 952300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The texture is really good."
+    } ]
+  }, {
+    "tStartMs": 954866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 957166,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Food you make yourself really tastes amazing."
+    } ]
+  }, {
+    "tStartMs": 961166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Homemade food just tastes better."
+    } ]
+  }, {
+    "tStartMs": 963300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "It's just so fragrant and delicious."
+    } ]
+  }, {
+    "tStartMs": 967600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "When you want to describe food,"
+    } ]
+  }, {
+    "tStartMs": 969400,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "you can say,"
+    } ]
+  }, {
+    "tStartMs": 970433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "“Mm, it's so delicious!”"
+    } ]
+  }, {
+    "tStartMs": 973800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "“It smells amazing!”"
+    } ]
+  }, {
+    "tStartMs": 977166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "“It tastes so good!”"
+    } ]
+  }, {
+    "tStartMs": 981566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 983800,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Here in Vancouver,"
+    } ]
+  }, {
+    "tStartMs": 985033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I cook for myself quite often."
+    } ]
+  }, {
+    "tStartMs": 988066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "My last video was about my morning routine."
+    } ]
+  }, {
+    "tStartMs": 992200,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "I also shared with you"
+    } ]
+  }, {
+    "tStartMs": 995166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "that here,"
+    } ]
+  }, {
+    "tStartMs": 996466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "eating out can be very expensive."
+    } ]
+  }, {
+    "tStartMs": 999600,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "So, if they have time, most people"
+    } ]
+  }, {
+    "tStartMs": 1003366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "choose to eat at home."
+    } ]
+  }, {
+    "tStartMs": 1005766,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I also think cooking for yourself is healthier"
+    } ]
+  }, {
+    "tStartMs": 1010100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and more nutritious."
+    } ]
+  }, {
+    "tStartMs": 1012433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Throughout today's cooking process,"
+    } ]
+  }, {
+    "tStartMs": 1015500,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "I shared many practical verbs."
+    } ]
+  }, {
+    "tStartMs": 1021466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "When you're learning,"
+    } ]
+  }, {
+    "tStartMs": 1024166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "you can watch the video"
+    } ]
+  }, {
+    "tStartMs": 1026666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and understand the words through my actions."
+    } ]
+  }, {
+    "tStartMs": 1028766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "That makes them easier to remember."
+    } ]
+  }, {
+    "tStartMs": 1031866,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "In the future,"
+    } ]
+  }, {
+    "tStartMs": 1032900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I'll continue making videos like this,"
+    } ]
+  }, {
+    "tStartMs": 1036233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "using our everyday lives"
+    } ]
+  }, {
+    "tStartMs": 1038233,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "to learn Chinese through comprehensible input."
+    } ]
+  }, {
+    "tStartMs": 1041233,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "So, if you also enjoy"
+    } ]
+  }, {
+    "tStartMs": 1042600,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "learning Chinese this way,"
+    } ]
+  }, {
+    "tStartMs": 1044666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "remember to subscribe to my channel."
+    } ]
+  }, {
+    "tStartMs": 1046866,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "If you'd like to practise spoken Chinese with me"
+    } ]
+  }, {
+    "tStartMs": 1049200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "online, one-on-one,"
+    } ]
+  }, {
+    "tStartMs": 1051833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "you can subscribe to my Patreon."
+    } ]
+  }, {
+    "tStartMs": 1054000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "My YouTube channel also has memberships now,"
+    } ]
+  }, {
+    "tStartMs": 1057400,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "where I'll share extra videos with you."
+    } ]
+  }, {
+    "tStartMs": 1060900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 1061500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "That's all for today's episode."
+    } ]
+  }, {
+    "tStartMs": 1065633,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Thank you for watching."
+    } ]
+  }, {
+    "tStartMs": 1066866,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "See you next time. Bye-bye!"
+    } ]
+  }, {
+    "tStartMs": 1073166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Delicious, delicious!"
+    } ]
+  } ]
+}

@@ -1,0 +1,2035 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6267,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "亲爱的听众朋友们，大家好！"
+    } ]
+  }, {
+    "tStartMs": 7967,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "欢迎回到新一期的《每天中文》，我是李明。"
+    } ]
+  }, {
+    "tStartMs": 11500,
+    "dDurationMs": 1757,
+    "segs": [ {
+      "utf8": "大家好，我是王雨！"
+    } ]
+  }, {
+    "tStartMs": 13267,
+    "dDurationMs": 2256,
+    "segs": [ {
+      "utf8": "哎呀李明，算起来我们真的好"
+    } ]
+  }, {
+    "tStartMs": 15533,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "久没跟听众朋友们聊天了。"
+    } ]
+  }, {
+    "tStartMs": 17800,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "俗话说“一日不见，如隔三秋”，"
+    } ]
+  }, {
+    "tStartMs": 20967,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "这段时间大家过得好吗？"
+    } ]
+  }, {
+    "tStartMs": 22900,
+    "dDurationMs": 1257,
+    "segs": [ {
+      "utf8": "有没有想我们呀？"
+    } ]
+  }, {
+    "tStartMs": 26233,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "后台都有不少朋友留言催我们更新"
+    } ]
+  }, {
+    "tStartMs": 28633,
+    "dDurationMs": 3924,
+    "segs": [ {
+      "utf8": "呢。其实这段时间我们一直在准备更有趣、"
+    } ]
+  }, {
+    "tStartMs": 32567,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "更实用的内容。"
+    } ]
+  }, {
+    "tStartMs": 34067,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "这不，今天一有空，我们就赶紧来和大家见面了！"
+    } ]
+  }, {
+    "tStartMs": 37467,
+    "dDurationMs": 2756,
+    "segs": [ {
+      "utf8": "没错，真的特别想念大家！"
+    } ]
+  }, {
+    "tStartMs": 40233,
+    "dDurationMs": 3957,
+    "segs": [ {
+      "utf8": "其实今天一进录音室，我就迫不及待想跟你、"
+    } ]
+  }, {
+    "tStartMs": 44200,
+    "dDurationMs": 3257,
+    "segs": [ {
+      "utf8": "还有正在听节目的朋友们分享一件事。"
+    } ]
+  }, {
+    "tStartMs": 47467,
+    "dDurationMs": 2356,
+    "segs": [ {
+      "utf8": "李明，我今天早上遇到了一件"
+    } ]
+  }, {
+    "tStartMs": 49833,
+    "dDurationMs": 4024,
+    "segs": [ {
+      "utf8": "特别尴尬的事，我现在想起来还觉得脸红呢。"
+    } ]
+  }, {
+    "tStartMs": 53867,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "怎么了？大清早的，发生什么事了"
+    } ]
+  }, {
+    "tStartMs": 56833,
+    "dDurationMs": 1524,
+    "segs": [ {
+      "utf8": "让你这么不好意思？"
+    } ]
+  }, {
+    "tStartMs": 58367,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "快跟我讲讲。"
+    } ]
+  }, {
+    "tStartMs": 59167,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "我今天在地铁站门口碰到了大卫。"
+    } ]
+  }, {
+    "tStartMs": 62267,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "你知道的，就是那个刚来中国留学、"
+    } ]
+  }, {
+    "tStartMs": 65067,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "正在努力学中文的美国朋友。"
+    } ]
+  }, {
+    "tStartMs": 67700,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "我们好久没见了，就站在路边聊了几句。"
+    } ]
+  }, {
+    "tStartMs": 71233,
+    "dDurationMs": 857,
+    "segs": [ {
+      "utf8": "分开的时候，"
+    } ]
+  }, {
+    "tStartMs": 72100,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "我很自然地对他说了一句："
+    } ]
+  }, {
+    "tStartMs": 74267,
+    "dDurationMs": 1423,
+    "segs": [ {
+      "utf8": "“改天一起吃饭啊！”"
+    } ]
+  }, {
+    "tStartMs": 75700,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "这句话很正常啊，"
+    } ]
+  }, {
+    "tStartMs": 77567,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "我们平时跟朋友道别的时候，"
+    } ]
+  }, {
+    "tStartMs": 79767,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "十次里面有八次都会这么说吧。"
+    } ]
+  }, {
+    "tStartMs": 82200,
+    "dDurationMs": 1357,
+    "segs": [ {
+      "utf8": "这有什么好尴尬的？"
+    } ]
+  }, {
+    "tStartMs": 83567,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "问题就出在这儿！"
+    } ]
+  }, {
+    "tStartMs": 85267,
+    "dDurationMs": 923,
+    "segs": [ {
+      "utf8": "我刚说完，"
+    } ]
+  }, {
+    "tStartMs": 86200,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "大卫马上就把手机拿出来了，"
+    } ]
+  }, {
+    "tStartMs": 88500,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "特别认真地看着我问：“好啊，"
+    } ]
+  }, {
+    "tStartMs": 91067,
+    "dDurationMs": 4123,
+    "segs": [ {
+      "utf8": "王雨，那我们是明天晚上吃，还是后天晚上吃？"
+    } ]
+  }, {
+    "tStartMs": 95200,
+    "dDurationMs": 4623,
+    "segs": [ {
+      "utf8": "你想吃火锅还是烤鸭？”我当时一下子就愣住了。"
+    } ]
+  }, {
+    "tStartMs": 99833,
+    "dDurationMs": 2524,
+    "segs": [ {
+      "utf8": "因为我这周的日程排得满满的，"
+    } ]
+  }, {
+    "tStartMs": 102367,
+    "dDurationMs": 4456,
+    "segs": [ {
+      "utf8": "我刚才那句话，真的只是一句习惯性的客套话啊！"
+    } ]
+  }, {
+    "tStartMs": 106833,
+    "dDurationMs": 2024,
+    "segs": [ {
+      "utf8": "(笑) 原来是这样！"
+    } ]
+  }, {
+    "tStartMs": 108867,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "大卫肯定是把你的客套话当成真正的邀请了。"
+    } ]
+  }, {
+    "tStartMs": 112867,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "这种误会在学中文的外国朋友身上太常见了。"
+    } ]
+  }, {
+    "tStartMs": 117267,
+    "dDurationMs": 1823,
+    "segs": [ {
+      "utf8": "那你后来是怎么回答他的？"
+    } ]
+  }, {
+    "tStartMs": 119100,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "我当时支支吾吾了半天，脸都红了。"
+    } ]
+  }, {
+    "tStartMs": 122500,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "最后只能硬着头皮跟他说，"
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "我这几天工作有点忙，下周我再联系他。"
+    } ]
+  }, {
+    "tStartMs": 128900,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "大卫看我的眼神，"
+    } ]
+  }, {
+    "tStartMs": 130867,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "让我觉得自己好像骗了他一样，特别不好意思！"
+    } ]
+  }, {
+    "tStartMs": 134967,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "李明，你说外国朋友听到这种话，"
+    } ]
+  }, {
+    "tStartMs": 137700,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "是不是真的很容易误会啊？"
+    } ]
+  }, {
+    "tStartMs": 139800,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "是的，王雨，你不用觉得不好意思。"
+    } ]
+  }, {
+    "tStartMs": 142900,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "你说的这句话，"
+    } ]
+  }, {
+    "tStartMs": 144233,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "在我们中国人的文化里，叫做客套话，"
+    } ]
+  }, {
+    "tStartMs": 147433,
+    "dDurationMs": 1524,
+    "segs": [ {
+      "utf8": "或者叫客气话。"
+    } ]
+  }, {
+    "tStartMs": 148967,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "这绝对不是在骗人，"
+    } ]
+  }, {
+    "tStartMs": 150600,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "而是一种非常普遍的社交习惯。"
+    } ]
+  }, {
+    "tStartMs": 153767,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "今天既然聊到了这个，我觉得"
+    } ]
+  }, {
+    "tStartMs": 155967,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "我们可以好好聊聊中国人的客套话。"
+    } ]
+  }, {
+    "tStartMs": 158967,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "对于很多刚开始学中文的朋友来说，"
+    } ]
+  }, {
+    "tStartMs": 161767,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "这确实是一个很大的难题。"
+    } ]
+  }, {
+    "tStartMs": 164300,
+    "dDurationMs": 923,
+    "segs": [ {
+      "utf8": "是啊，"
+    } ]
+  }, {
+    "tStartMs": 165233,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "大卫刚才的反应让我突然意识到，"
+    } ]
+  }, {
+    "tStartMs": 167967,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "如果外国朋友不了解这种文化习惯，"
+    } ]
+  }, {
+    "tStartMs": 170767,
+    "dDurationMs": 4123,
+    "segs": [ {
+      "utf8": "直接从字面意思去听，真的会产生很大的误会。"
+    } ]
+  }, {
+    "tStartMs": 174900,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "没错。其实在生活里，客套话"
+    } ]
+  }, {
+    "tStartMs": 178067,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "就像是人与人交往时的润滑油。"
+    } ]
+  }, {
+    "tStartMs": 181100,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "你想想看，两辆自行车挨得很近，"
+    } ]
+  }, {
+    "tStartMs": 183900,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "齿轮之间如果没有润滑油，是不是很容易卡住？"
+    } ]
+  }, {
+    "tStartMs": 187700,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "人与人打交道也是一样的。"
+    } ]
+  }, {
+    "tStartMs": 190167,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "客套话并不是为了传递什么准"
+    } ]
+  }, {
+    "tStartMs": 192467,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "确的计划，而是为了表达一种友善、"
+    } ]
+  }, {
+    "tStartMs": 195300,
+    "dDurationMs": 3557,
+    "segs": [ {
+      "utf8": "热情和尊重的态度，让大家感觉更舒服。"
+    } ]
+  }, {
+    "tStartMs": 198867,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "你这个比喻太形象了，"
+    } ]
+  }, {
+    "tStartMs": 200767,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "润滑油！确实是这样，"
+    } ]
+  }, {
+    "tStartMs": 203267,
+    "dDurationMs": 1556,
+    "segs": [ {
+      "utf8": "如果我和大卫聊完，"
+    } ]
+  }, {
+    "tStartMs": 204833,
+    "dDurationMs": 3024,
+    "segs": [ {
+      "utf8": "我直接说：“好了，聊完了，再见。”"
+    } ]
+  }, {
+    "tStartMs": 207867,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "这样听起来好像冷冰冰的，"
+    } ]
+  }, {
+    "tStartMs": 210167,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "甚至有点不礼貌，对吧？"
+    } ]
+  }, {
+    "tStartMs": 211900,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "对啊！你说那句“改天一起吃饭”，"
+    } ]
+  }, {
+    "tStartMs": 214967,
+    "dDurationMs": 3856,
+    "segs": [ {
+      "utf8": "真正的意思并不是说我已经订好位子了。"
+    } ]
+  }, {
+    "tStartMs": 218833,
+    "dDurationMs": 190,
+    "segs": [ {
+      "utf8": "它的"
+    } ]
+  }, {
+    "tStartMs": 219033,
+    "dDurationMs": 2824,
+    "segs": [ {
+      "utf8": "真正意思是：“今天见到你我很高兴，"
+    } ]
+  }, {
+    "tStartMs": 221867,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "我很珍惜我们的友情，"
+    } ]
+  }, {
+    "tStartMs": 223667,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "希望以后还能经常联系。”这是一种感情上的表达。"
+    } ]
+  }, {
+    "tStartMs": 225867,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "哎，说到这个，我突然想到了"
+    } ]
+  }, {
+    "tStartMs": 228600,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "另一个最经典的例子，"
+    } ]
+  }, {
+    "tStartMs": 230667,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "那就是中国人见面最喜欢说的那句："
+    } ]
+  }, {
+    "tStartMs": 233800,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "“你吃了吗？”"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "(笑) 哈哈，对！“你吃了吗”，"
+    } ]
+  }, {
+    "tStartMs": 237267,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "这绝对是所有学中文的朋友都会遇到的"
+    } ]
+  }, {
+    "tStartMs": 240467,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "第一个文化挑战。"
+    } ]
+  }, {
+    "tStartMs": 242167,
+    "dDurationMs": 2256,
+    "segs": [ {
+      "utf8": "很多外国朋友第一次听到的时候，"
+    } ]
+  }, {
+    "tStartMs": 244433,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "心里都会特别纠结。"
+    } ]
+  }, {
+    "tStartMs": 246900,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "他们会想：“他为什么问我吃没吃？"
+    } ]
+  }, {
+    "tStartMs": 249767,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "如果我说我没吃，他是不是要请我吃饭？"
+    } ]
+  }, {
+    "tStartMs": 253167,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "如果我说我吃了，"
+    } ]
+  }, {
+    "tStartMs": 254567,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "他会不会觉得我不礼貌？”"
+    } ]
+  }, {
+    "tStartMs": 256067,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "哈哈，我以前也遇到过！"
+    } ]
+  }, {
+    "tStartMs": 258467,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "有一次我中午在公司楼道里"
+    } ]
+  }, {
+    "tStartMs": 260567,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "遇到一个外国实习生，"
+    } ]
+  }, {
+    "tStartMs": 262600,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "我笑着问他：“吃了吗？”"
+    } ]
+  }, {
+    "tStartMs": 264500,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "他特别紧张地看着我，"
+    } ]
+  }, {
+    "tStartMs": 266233,
+    "dDurationMs": 1457,
+    "segs": [ {
+      "utf8": "犹豫了好几秒钟，"
+    } ]
+  }, {
+    "tStartMs": 267700,
+    "dDurationMs": 3357,
+    "segs": [ {
+      "utf8": "然后小声说：“王雨，我还没吃呢，"
+    } ]
+  }, {
+    "tStartMs": 271067,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "可是我现在真的没有钱请你吃饭。”"
+    } ]
+  }, {
+    "tStartMs": 273900,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "我当时真是哭笑不得！"
+    } ]
+  }, {
+    "tStartMs": 276067,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "这太好玩了。"
+    } ]
+  }, {
+    "tStartMs": 277967,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "其实在以前，大家最关心的事情"
+    } ]
+  }, {
+    "tStartMs": 280667,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "就是能不能吃饱饭。"
+    } ]
+  }, {
+    "tStartMs": 282767,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "所以问对方吃了吗，就是最真诚、最温暖的关心。"
+    } ]
+  }, {
+    "tStartMs": 287067,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "到了今天，这句话"
+    } ]
+  }, {
+    "tStartMs": 288667,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "已经变成了一种像“你好”一样的问候。"
+    } ]
+  }, {
+    "tStartMs": 291467,
+    "dDurationMs": 923,
+    "segs": [ {
+      "utf8": "那李明，"
+    } ]
+  }, {
+    "tStartMs": 292400,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "如果大家在路上遇到中国朋友问"
+    } ]
+  }, {
+    "tStartMs": 294900,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "“吃了吗”，应该怎么回答最自然呢？"
+    } ]
+  }, {
+    "tStartMs": 297700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "你快给大家支个招。"
+    } ]
+  }, {
+    "tStartMs": 299300,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "无论你实际上是吃了还是没吃，"
+    } ]
+  }, {
+    "tStartMs": 302100,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "如果现在"
+    } ]
+  }, {
+    "tStartMs": 302800,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "不是正好大家一起去吃饭的时间，"
+    } ]
+  }, {
+    "tStartMs": 305600,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "最简单的回答就是笑着说：“吃了，"
+    } ]
+  }, {
+    "tStartMs": 308400,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "你呢？”或者说：“正准备去吃呢，"
+    } ]
+  }, {
+    "tStartMs": 310700,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "你吃了吗？”这样回答最轻松，"
+    } ]
+  }, {
+    "tStartMs": 313167,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "打个招呼就过去了，完全不需要多想。"
+    } ]
+  }, {
+    "tStartMs": 316767,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "听你这么一说，其实逻辑特别简单。"
+    } ]
+  }, {
+    "tStartMs": 319800,
+    "dDurationMs": 4523,
+    "segs": [ {
+      "utf8": "不过，我们再回到刚才那个改天吃饭的问题。"
+    } ]
+  }, {
+    "tStartMs": 324333,
+    "dDurationMs": 1724,
+    "segs": [ {
+      "utf8": "很多人可能会问，那"
+    } ]
+  }, {
+    "tStartMs": 326067,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "我到底怎么才能分清楚，"
+    } ]
+  }, {
+    "tStartMs": 328100,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "对方是真的想请我吃饭，还是仅仅在说客套话呢？"
+    } ]
+  }, {
+    "tStartMs": 332500,
+    "dDurationMs": 1423,
+    "segs": [ {
+      "utf8": "这个问得太好了。"
+    } ]
+  }, {
+    "tStartMs": 333933,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "其实只要看两点，大家就能马上明白。"
+    } ]
+  }, {
+    "tStartMs": 337333,
+    "dDurationMs": 3557,
+    "segs": [ {
+      "utf8": "第一点，看对方有没有说具体的时间和地点。"
+    } ]
+  }, {
+    "tStartMs": 340900,
+    "dDurationMs": 857,
+    "segs": [ {
+      "utf8": "你想想，"
+    } ]
+  }, {
+    "tStartMs": 341767,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "如果一个人只是对你说：“改天有空"
+    } ]
+  }, {
+    "tStartMs": 344300,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "一起吃饭”，或者“下次再聚”。"
+    } ]
+  }, {
+    "tStartMs": 346700,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "这里面有具体是哪一天吗？"
+    } ]
+  }, {
+    "tStartMs": 349067,
+    "dDurationMs": 2456,
+    "segs": [ {
+      "utf8": "没有。有具体去哪家餐厅吗？"
+    } ]
+  }, {
+    "tStartMs": 351533,
+    "dDurationMs": 2657,
+    "segs": [ {
+      "utf8": "也没有。“改天”是哪一天？"
+    } ]
+  }, {
+    "tStartMs": 354200,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "改天往往就是不知道要等到什么时候。"
+    } ]
+  }, {
+    "tStartMs": 357167,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "哈哈，对！"
+    } ]
+  }, {
+    "tStartMs": 358800,
+    "dDurationMs": 3857,
+    "segs": [ {
+      "utf8": "改天有空，很多时候就等于以后再说。"
+    } ]
+  }, {
+    "tStartMs": 362667,
+    "dDurationMs": 3223,
+    "segs": [ {
+      "utf8": "那如果是真正的邀请，一般会怎么说呢？"
+    } ]
+  }, {
+    "tStartMs": 365900,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "真正的邀请，一定是具体的。"
+    } ]
+  }, {
+    "tStartMs": 368500,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "比如对方如果真想请你吃饭，"
+    } ]
+  }, {
+    "tStartMs": 370533,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "他通常会说：“小王，这周六晚上你有空吗？"
+    } ]
+  }, {
+    "tStartMs": 374533,
+    "dDurationMs": 1424,
+    "segs": [ {
+      "utf8": "我知道三里屯有一家"
+    } ]
+  }, {
+    "tStartMs": 375967,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "特别好吃的四川菜馆，"
+    } ]
+  }, {
+    "tStartMs": 377900,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "周六晚上六点我带你去尝尝怎么样？”"
+    } ]
+  }, {
+    "tStartMs": 380733,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "你看，周六晚上、三里屯、四川菜，"
+    } ]
+  }, {
+    "tStartMs": 384400,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "时间、地点、吃什么，全都清清楚楚。"
+    } ]
+  }, {
+    "tStartMs": 387900,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "确实是这样！"
+    } ]
+  }, {
+    "tStartMs": 389200,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "而且对方如果真的想约你，他还会主动跟进。"
+    } ]
+  }, {
+    "tStartMs": 393400,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "比如第二天再发微信问你："
+    } ]
+  }, {
+    "tStartMs": 395800,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "“周六那家餐厅我已经订好位子了，"
+    } ]
+  }, {
+    "tStartMs": 398533,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "你那天方便吗？”如果只是客套话，"
+    } ]
+  }, {
+    "tStartMs": 401600,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "说完那一瞬间就结束了，"
+    } ]
+  }, {
+    "tStartMs": 403733,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "回去之后谁也不会再专门提这件事。"
+    } ]
+  }, {
+    "tStartMs": 406700,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "对，对方回去可能就把这事给忘了。"
+    } ]
+  }, {
+    "tStartMs": 409867,
+    "dDurationMs": 3323,
+    "segs": [ {
+      "utf8": "所以第二点就是看对方有没有后续的行动。"
+    } ]
+  }, {
+    "tStartMs": 413200,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "如果不确定的话，"
+    } ]
+  }, {
+    "tStartMs": 414533,
+    "dDurationMs": 2624,
+    "segs": [ {
+      "utf8": "千万不要当场拿手机去定日子，"
+    } ]
+  }, {
+    "tStartMs": 417167,
+    "dDurationMs": 1956,
+    "segs": [ {
+      "utf8": "那样两个人都会有点尴尬。"
+    } ]
+  }, {
+    "tStartMs": 419133,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "哎，李明，除了吃饭，"
+    } ]
+  }, {
+    "tStartMs": 421733,
+    "dDurationMs": 3857,
+    "segs": [ {
+      "utf8": "面对别人的夸奖，中国人的回答也特别有意思。"
+    } ]
+  }, {
+    "tStartMs": 425600,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "你平时要是被别人当面夸奖了，"
+    } ]
+  }, {
+    "tStartMs": 428200,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "你的第一反应是什么？"
+    } ]
+  }, {
+    "tStartMs": 429933,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "我可能还是会习惯性地说："
+    } ]
+  }, {
+    "tStartMs": 432100,
+    "dDurationMs": 623,
+    "segs": [ {
+      "utf8": "“哪里哪里，"
+    } ]
+  }, {
+    "tStartMs": 432733,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "您过奖了。”或者说：“没有没有，"
+    } ]
+  }, {
+    "tStartMs": 435100,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "我只是运气好。”对吧！"
+    } ]
+  }, {
+    "tStartMs": 437267,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "这也是我们中国人特别习惯的客套，就是谦虚。"
+    } ]
+  }, {
+    "tStartMs": 441367,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "可是对于习惯了"
+    } ]
+  }, {
+    "tStartMs": 442700,
+    "dDurationMs": 4057,
+    "segs": [ {
+      "utf8": "直接说谢谢的西方朋友来说，他们会觉得很奇怪。"
+    } ]
+  }, {
+    "tStartMs": 446767,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "他们会想：“我明明在夸你做得好，"
+    } ]
+  }, {
+    "tStartMs": 449700,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "你为什么一直说‘没有没有’？"
+    } ]
+  }, {
+    "tStartMs": 451900,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "难道你觉得我说得不对吗？”"
+    } ]
+  }, {
+    "tStartMs": 454133,
+    "dDurationMs": 1757,
+    "segs": [ {
+      "utf8": "这是因为在中国文化里，"
+    } ]
+  }, {
+    "tStartMs": 455900,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "太直接地接受赞美，有时候会被认为是不够谦虚。"
+    } ]
+  }, {
+    "tStartMs": 460100,
+    "dDurationMs": 290,
+    "segs": [ {
+      "utf8": "所以"
+    } ]
+  }, {
+    "tStartMs": 460400,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "当别人夸你“中文说得真好”的时候，"
+    } ]
+  }, {
+    "tStartMs": 462900,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "中国人最习惯说的客套话就是："
+    } ]
+  }, {
+    "tStartMs": 465400,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "“哪里哪里，还差得远呢。”"
+    } ]
+  }, {
+    "tStartMs": 467533,
+    "dDurationMs": 4324,
+    "segs": [ {
+      "utf8": "哈哈，不过我觉得现在的年轻人也有变化了。"
+    } ]
+  }, {
+    "tStartMs": 471867,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "现在很多年轻人被夸奖的时候，"
+    } ]
+  }, {
+    "tStartMs": 474400,
+    "dDurationMs": 1757,
+    "segs": [ {
+      "utf8": "也会笑着说：“谢谢，"
+    } ]
+  }, {
+    "tStartMs": 476167,
+    "dDurationMs": 2323,
+    "segs": [ {
+      "utf8": "听你这么说我太开心了。”"
+    } ]
+  }, {
+    "tStartMs": 478500,
+    "dDurationMs": 3223,
+    "segs": [ {
+      "utf8": "李明，如果是学中文的朋友被夸奖了，"
+    } ]
+  }, {
+    "tStartMs": 481733,
+    "dDurationMs": 1924,
+    "segs": [ {
+      "utf8": "他们怎么回答最合适呢？"
+    } ]
+  }, {
+    "tStartMs": 483667,
+    "dDurationMs": 1523,
+    "segs": [ {
+      "utf8": "我觉得如果大家觉得"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "“哪里哪里”这个词不太好记，"
+    } ]
+  }, {
+    "tStartMs": 487467,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "其实完全可以先大方地说一声“谢谢”，"
+    } ]
+  }, {
+    "tStartMs": 490333,
+    "dDurationMs": 2324,
+    "segs": [ {
+      "utf8": "然后加上一句：“你太客气了”，"
+    } ]
+  }, {
+    "tStartMs": 492667,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "或者“我还得多向大家学习”。"
+    } ]
+  }, {
+    "tStartMs": 495167,
+    "dDurationMs": 2323,
+    "segs": [ {
+      "utf8": "这样既礼貌，又体现了谦虚，"
+    } ]
+  }, {
+    "tStartMs": 497500,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "听起来会让人觉得特别舒服。"
+    } ]
+  }, {
+    "tStartMs": 499533,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "这个建议太实用了！哎，"
+    } ]
+  }, {
+    "tStartMs": 501800,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "李明，除了夸奖，"
+    } ]
+  }, {
+    "tStartMs": 503767,
+    "dDurationMs": 4623,
+    "segs": [ {
+      "utf8": "送礼物和收礼物的时候，那个客套话也特别精彩。"
+    } ]
+  }, {
+    "tStartMs": 508400,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "每次过年过节去亲戚家，"
+    } ]
+  }, {
+    "tStartMs": 510500,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "我都觉得那场面像是在推手一样。"
+    } ]
+  }, {
+    "tStartMs": 513333,
+    "dDurationMs": 2124,
+    "segs": [ {
+      "utf8": "(笑) 哈哈，你形容得太对了！"
+    } ]
+  }, {
+    "tStartMs": 515467,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "在中文里，我们管这个叫“推让”。"
+    } ]
+  }, {
+    "tStartMs": 518500,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "比如你去中国朋友家做客，带了一盒水果。"
+    } ]
+  }, {
+    "tStartMs": 521500,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "你刚递过去，主人通常第一句话会说什么？"
+    } ]
+  }, {
+    "tStartMs": 525000,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "主人肯定会一边把礼物推回来，"
+    } ]
+  }, {
+    "tStartMs": 527567,
+    "dDurationMs": 3356,
+    "segs": [ {
+      "utf8": "一边特别热情地说：“哎呀，你来就来嘛，"
+    } ]
+  }, {
+    "tStartMs": 530933,
+    "dDurationMs": 1557,
+    "segs": [ {
+      "utf8": "买这么多东西干什么！"
+    } ]
+  }, {
+    "tStartMs": 532500,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "太客气了，快拿回去，千万别花钱！”"
+    } ]
+  }, {
+    "tStartMs": 536200,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "对！然后客人就要马上把礼物再推回去，"
+    } ]
+  }, {
+    "tStartMs": 538733,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "说：“没有没有，就是一点小意思，"
+    } ]
+  }, {
+    "tStartMs": 541200,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "给叔叔阿姨买的，不值什么钱，"
+    } ]
+  }, {
+    "tStartMs": 543333,
+    "dDurationMs": 1324,
+    "segs": [ {
+      "utf8": "您一定要收下！”"
+    } ]
+  }, {
+    "tStartMs": 544667,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "然后主人又推回来说：“真的不用，"
+    } ]
+  }, {
+    "tStartMs": 547400,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "家里什么都有，快拿走！”接着客人再推过去。"
+    } ]
+  }, {
+    "tStartMs": 551300,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "两个人就在门口推过来推过去，"
+    } ]
+  }, {
+    "tStartMs": 553900,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "至少要推上两三次。"
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "我有个外国朋友"
+    } ]
+  }, {
+    "tStartMs": 557967,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "第一次看到，还以为两个人要吵架呢！"
+    } ]
+  }, {
+    "tStartMs": 560967,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "(笑) 这太夸张了！"
+    } ]
+  }, {
+    "tStartMs": 562967,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "不过这种推让在很多外国朋友眼里，"
+    } ]
+  }, {
+    "tStartMs": 565800,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "确实特别奇怪。"
+    } ]
+  }, {
+    "tStartMs": 567500,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "他们会问我：“李明，"
+    } ]
+  }, {
+    "tStartMs": 569367,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "如果主人真的不想要，为什么最后又收下了呢？"
+    } ]
+  }, {
+    "tStartMs": 573067,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "如果他想要，"
+    } ]
+  }, {
+    "tStartMs": 574167,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "为什么一开始要拒绝呢？”"
+    } ]
+  }, {
+    "tStartMs": 576100,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "是啊，这其实是一种什么心理呢？"
+    } ]
+  }, {
+    "tStartMs": 579067,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "这就是中国人讲的面子和人情。"
+    } ]
+  }, {
+    "tStartMs": 582200,
+    "dDurationMs": 1357,
+    "segs": [ {
+      "utf8": "在中国人的想法里，"
+    } ]
+  }, {
+    "tStartMs": 583567,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "如果别人一送礼物，"
+    } ]
+  }, {
+    "tStartMs": 585067,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "你马上伸手接过来放进包里，"
+    } ]
+  }, {
+    "tStartMs": 587500,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "会显得你太着急了，好像很想要别人的东西一样。"
+    } ]
+  }, {
+    "tStartMs": 591600,
+    "dDurationMs": 1557,
+    "segs": [ {
+      "utf8": "所以，先客气地"
+    } ]
+  }, {
+    "tStartMs": 593167,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "拒绝一下，不是真的不要，"
+    } ]
+  }, {
+    "tStartMs": 594900,
+    "dDurationMs": 1423,
+    "segs": [ {
+      "utf8": "而是在表达尊重，"
+    } ]
+  }, {
+    "tStartMs": 596333,
+    "dDurationMs": 2624,
+    "segs": [ {
+      "utf8": "意思是：“你人来了我就很高兴了，"
+    } ]
+  }, {
+    "tStartMs": 598967,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "你的心意比礼物更重要。”原来是这样。"
+    } ]
+  }, {
+    "tStartMs": 602667,
+    "dDurationMs": 1456,
+    "segs": [ {
+      "utf8": "客人坚持要送，"
+    } ]
+  }, {
+    "tStartMs": 604133,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "也是为了表达自己的诚意，"
+    } ]
+  }, {
+    "tStartMs": 606300,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "表示我是真心实意想送给你的。"
+    } ]
+  }, {
+    "tStartMs": 609267,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "没错。推让了两三次之后，"
+    } ]
+  }, {
+    "tStartMs": 611800,
+    "dDurationMs": 1557,
+    "segs": [ {
+      "utf8": "主人最后收下礼物，"
+    } ]
+  }, {
+    "tStartMs": 613367,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "还会说一句：“那这次就太谢谢你了，"
+    } ]
+  }, {
+    "tStartMs": 616333,
+    "dDurationMs": 2657,
+    "segs": [ {
+      "utf8": "下次来千万不能买东西了啊！”"
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "你看，这样一来，"
+    } ]
+  }, {
+    "tStartMs": 620400,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "送礼物的人觉得心意被接受了，"
+    } ]
+  }, {
+    "tStartMs": 622900,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "收礼物的人也很有礼貌，双方都很高兴。"
+    } ]
+  }, {
+    "tStartMs": 626333,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "懂了！所以听众朋友们"
+    } ]
+  }, {
+    "tStartMs": 628600,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "如果去中国朋友家做客，"
+    } ]
+  }, {
+    "tStartMs": 630733,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "遇到主人推让，千万不要害怕，"
+    } ]
+  }, {
+    "tStartMs": 633800,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "也不用真的把东西拿走。"
+    } ]
+  }, {
+    "tStartMs": 636167,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "微笑着坚持两下，"
+    } ]
+  }, {
+    "tStartMs": 637900,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "说一句“就是一点小心意”，"
+    } ]
+  }, {
+    "tStartMs": 640333,
+    "dDurationMs": 3224,
+    "segs": [ {
+      "utf8": "对方就会高高兴兴地收下了。"
+    } ]
+  }, {
+    "tStartMs": 643567,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "对，而且如果别人送你东西，"
+    } ]
+  }, {
+    "tStartMs": 645467,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "你也可以学会说一句：“哎呀，"
+    } ]
+  }, {
+    "tStartMs": 647700,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "你太客气了，真的太感谢了。”"
+    } ]
+  }, {
+    "tStartMs": 650900,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "这句“太客气了”，在很多场合都特别好用。"
+    } ]
+  }, {
+    "tStartMs": 654600,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "没错，“太客气了”这四个字真的太实用了。"
+    } ]
+  }, {
+    "tStartMs": 659200,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "不过李明，还有一种客套话"
+    } ]
+  }, {
+    "tStartMs": 661767,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "我觉得难度更大，那就是拒绝别人的时候。"
+    } ]
+  }, {
+    "tStartMs": 666067,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "中国人好像很少当面直接说“不”，对不对？"
+    } ]
+  }, {
+    "tStartMs": 669500,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "你说得太对了。"
+    } ]
+  }, {
+    "tStartMs": 671400,
+    "dDurationMs": 3257,
+    "segs": [ {
+      "utf8": "这可以说是中文里最含蓄的一部分。"
+    } ]
+  }, {
+    "tStartMs": 674667,
+    "dDurationMs": 3056,
+    "segs": [ {
+      "utf8": "比如有人请你参加活动，你不想去。"
+    } ]
+  }, {
+    "tStartMs": 677733,
+    "dDurationMs": 3024,
+    "segs": [ {
+      "utf8": "如果你直接看着对方的眼睛说：“不，"
+    } ]
+  }, {
+    "tStartMs": 680767,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "我不去”，或者“不行”，"
+    } ]
+  }, {
+    "tStartMs": 682967,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "对方可能会觉得很没有面子，"
+    } ]
+  }, {
+    "tStartMs": 685400,
+    "dDurationMs": 2323,
+    "segs": [ {
+      "utf8": "场面会一下子变得很冷。"
+    } ]
+  }, {
+    "tStartMs": 687733,
+    "dDurationMs": 4424,
+    "segs": [ {
+      "utf8": "是的，那种感觉就好像当面把门关上了一样。"
+    } ]
+  }, {
+    "tStartMs": 692167,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "所以中国人为了保护大家的感情，"
+    } ]
+  }, {
+    "tStartMs": 694900,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "往往会用一种比较温柔的方式来拒绝。"
+    } ]
+  }, {
+    "tStartMs": 698700,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "对，我们会给对方留一个面子。"
+    } ]
+  }, {
+    "tStartMs": 701067,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "王雨，如果平时有人找你帮忙，"
+    } ]
+  }, {
+    "tStartMs": 703800,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "或者请你参加一个你不想去的聚会，"
+    } ]
+  }, {
+    "tStartMs": 706667,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "你一般会怎么说？"
+    } ]
+  }, {
+    "tStartMs": 708000,
+    "dDurationMs": 4523,
+    "segs": [ {
+      "utf8": "我通常会用一种很为难的语气说："
+    } ]
+  }, {
+    "tStartMs": 712533,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "“哎呀，这周末啊……"
+    } ]
+  }, {
+    "tStartMs": 714367,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "这周末我可能有点不太方便呢，"
+    } ]
+  }, {
+    "tStartMs": 717067,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "我家里有点事。”或者我会说："
+    } ]
+  }, {
+    "tStartMs": 719900,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "“那我回去看一下日程安排吧，"
+    } ]
+  }, {
+    "tStartMs": 722267,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "如果有时间我再联系你。”"
+    } ]
+  }, {
+    "tStartMs": 724400,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "听听，这就是最自然的表达方式！"
+    } ]
+  }, {
+    "tStartMs": 727600,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "大家一定要注意王雨刚才用的几个词，"
+    } ]
+  }, {
+    "tStartMs": 730667,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "比如“可能”、“有点不太方便”、"
+    } ]
+  }, {
+    "tStartMs": 733533,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "“回去看一下”、“以后再说”。"
+    } ]
+  }, {
+    "tStartMs": 736500,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "当一个中国人对你说“可能不太方便”，"
+    } ]
+  }, {
+    "tStartMs": 739667,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "或者“我回头看看”的时候，很多时候"
+    } ]
+  }, {
+    "tStartMs": 742700,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "他的意思其实就是“我不方便去”。"
+    } ]
+  }, {
+    "tStartMs": 745500,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "哈哈，没错！"
+    } ]
+  }, {
+    "tStartMs": 747133,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "如果你听到我说“我回去看看安排”，"
+    } ]
+  }, {
+    "tStartMs": 750567,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "然后过了好几天我都没有再联系你，"
+    } ]
+  }, {
+    "tStartMs": 754067,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "那就说明我不方便去，大家就不要一直追着问了。"
+    } ]
+  }, {
+    "tStartMs": 758667,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "这就是理解背后的意思。"
+    } ]
+  }, {
+    "tStartMs": 761300,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "在中文交流中，听懂这种客气的拒绝，"
+    } ]
+  }, {
+    "tStartMs": 764733,
+    "dDurationMs": 4224,
+    "segs": [ {
+      "utf8": "不仅能让对方舒服，也是一种很成熟的沟通方式。"
+    } ]
+  }, {
+    "tStartMs": 768967,
+    "dDurationMs": 3156,
+    "segs": [ {
+      "utf8": "哎，李明，今天跟你聊了这么多，"
+    } ]
+  }, {
+    "tStartMs": 772133,
+    "dDurationMs": 1224,
+    "segs": [ {
+      "utf8": "我突然觉得，"
+    } ]
+  }, {
+    "tStartMs": 773367,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "这些我们每天都在用的客套话，背后"
+    } ]
+  }, {
+    "tStartMs": 776667,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "其实包含了很多温暖和善意。"
+    } ]
+  }, {
+    "tStartMs": 779533,
+    "dDurationMs": 4624,
+    "segs": [ {
+      "utf8": "是的。客套话的真正目的，其实就是为别人着想。"
+    } ]
+  }, {
+    "tStartMs": 784167,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "我不直接伤害你，我给你留面子；"
+    } ]
+  }, {
+    "tStartMs": 787100,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "我对你表达关心，让你觉得被重视。"
+    } ]
+  }, {
+    "tStartMs": 790533,
+    "dDurationMs": 1924,
+    "segs": [ {
+      "utf8": "只要我们明白了这些规则，"
+    } ]
+  }, {
+    "tStartMs": 792467,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "就不会觉得它很复杂了。"
+    } ]
+  }, {
+    "tStartMs": 794500,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "总结得太好了！"
+    } ]
+  }, {
+    "tStartMs": 796133,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "那我来帮大家快速总结一下"
+    } ]
+  }, {
+    "tStartMs": 798867,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "今天聊到的几个关键点："
+    } ]
+  }, {
+    "tStartMs": 801467,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "第一，遇到别人问你“吃了吗”，"
+    } ]
+  }, {
+    "tStartMs": 804333,
+    "dDurationMs": 4224,
+    "segs": [ {
+      "utf8": "微笑着回答“吃了，你呢”，就可以轻松过关。"
+    } ]
+  }, {
+    "tStartMs": 808567,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "第二，"
+    } ]
+  }, {
+    "tStartMs": 809367,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "当别人对你说“改天一起吃饭”的时候，"
+    } ]
+  }, {
+    "tStartMs": 812267,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "如果没有具体的时间和地点，"
+    } ]
+  }, {
+    "tStartMs": 814700,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "那只是一句友好的道别，"
+    } ]
+  }, {
+    "tStartMs": 816767,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "微笑着说“好呀”就可以了，"
+    } ]
+  }, {
+    "tStartMs": 819300,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "不用当场追问具体时间。"
+    } ]
+  }, {
+    "tStartMs": 821600,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "第三，当别人夸奖你的时候，"
+    } ]
+  }, {
+    "tStartMs": 824400,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "大方地说“谢谢”，"
+    } ]
+  }, {
+    "tStartMs": 826100,
+    "dDurationMs": 4857,
+    "segs": [ {
+      "utf8": "再加上一句“你太客气了”，既礼貌又谦虚。"
+    } ]
+  }, {
+    "tStartMs": 830967,
+    "dDurationMs": 4156,
+    "segs": [ {
+      "utf8": "收礼物的时候，记得客气地推让一两次再收下。"
+    } ]
+  }, {
+    "tStartMs": 835133,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "第四，当别人对你说“有点不方便”、"
+    } ]
+  }, {
+    "tStartMs": 838333,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "或者“以后再说”的时候，"
+    } ]
+  }, {
+    "tStartMs": 840200,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "要明白这通常是一种礼貌的拒绝，"
+    } ]
+  }, {
+    "tStartMs": 843267,
+    "dDurationMs": 2323,
+    "segs": [ {
+      "utf8": "大家保持微笑就好了。"
+    } ]
+  }, {
+    "tStartMs": 845600,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "掌握了这几点，"
+    } ]
+  }, {
+    "tStartMs": 847667,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "我相信大家以后再和中国朋友聊天，"
+    } ]
+  }, {
+    "tStartMs": 850967,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "心里就会更有底气了！"
+    } ]
+  }, {
+    "tStartMs": 853167,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "(笑) 哈哈，希望大家以后交流时能更轻松。"
+    } ]
+  }, {
+    "tStartMs": 857167,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "王雨，不知不觉我们今天已经聊了这么久了。"
+    } ]
+  }, {
+    "tStartMs": 860667,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "是啊，时间过得真快！"
+    } ]
+  }, {
+    "tStartMs": 862967,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "亲爱的听众朋友们，在你们的国家，"
+    } ]
+  }, {
+    "tStartMs": 866067,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "大家平时也有类似的客套话吗？"
+    } ]
+  }, {
+    "tStartMs": 869267,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "当别人对你说客套话的时候，"
+    } ]
+  }, {
+    "tStartMs": 871667,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "你遇到过什么有趣的故事吗？"
+    } ]
+  }, {
+    "tStartMs": 874200,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "非常欢迎大家在评论区用中文写下你"
+    } ]
+  }, {
+    "tStartMs": 877267,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "们的经历和想法，我们都会认真看的。"
+    } ]
+  }, {
+    "tStartMs": 880200,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "感谢大家收听今天的《每天中文》，"
+    } ]
+  }, {
+    "tStartMs": 883400,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "我们下期节目不见不散！"
+    } ]
+  }, {
+    "tStartMs": 885800,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "下次再聊，大家再见！"
+    } ]
+  } ]
+}

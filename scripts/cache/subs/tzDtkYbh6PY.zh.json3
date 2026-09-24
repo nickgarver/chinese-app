@@ -1,0 +1,2221 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "嗨朋友们"
+    } ]
+  }, {
+    "tStartMs": 1166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "大家早上好啊"
+    } ]
+  }, {
+    "tStartMs": 2366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我是MINI欢迎你来到我的频道"
+    } ]
+  }, {
+    "tStartMs": 5633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我呢今天这期节目会带"
+    } ]
+  }, {
+    "tStartMs": 7833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "你们一块去逛超市"
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "在超市里学习一些"
+    } ]
+  }, {
+    "tStartMs": 12600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "非常实用的中文表达"
+    } ]
+  }, {
+    "tStartMs": 18000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我准备戴一个帽子"
+    } ]
+  }, {
+    "tStartMs": 19966,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "这个是棒球帽棒球帽嗯"
+    } ]
+  }, {
+    "tStartMs": 24100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "然后我今天特别想戴这个帽子"
+    } ]
+  }, {
+    "tStartMs": 27400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "因为悄悄的告诉你们没有洗头发"
+    } ]
+  }, {
+    "tStartMs": 31900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "哈哈觉得头发有点油"
+    } ]
+  }, {
+    "tStartMs": 35200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "头发油"
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 5066,
+    "segs": [ {
+      "utf8": "所以呢就戴一个帽子来遮一下哈哈"
+    } ]
+  }, {
+    "tStartMs": 44566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "去超市之前"
+    } ]
+  }, {
+    "tStartMs": 47366,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "呀这个相机太好笑了"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我一定要记得拿这个购物袋"
+    } ]
+  }, {
+    "tStartMs": 53866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这个是购物袋"
+    } ]
+  }, {
+    "tStartMs": 55700,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "我现在要把购物袋放进背包"
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "这是一个把字句"
+    } ]
+  }, {
+    "tStartMs": 64066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "把购物袋放进背包"
+    } ]
+  }, {
+    "tStartMs": 70500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "你也可以说"
+    } ]
+  }, {
+    "tStartMs": 71866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我把手机放进背包"
+    } ]
+  }, {
+    "tStartMs": 76500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "我把眼镜放进背包"
+    } ]
+  }, {
+    "tStartMs": 79966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "都可以把字句"
+    } ]
+  }, {
+    "tStartMs": 81666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "把什么东西放进哪里"
+    } ]
+  }, {
+    "tStartMs": 89100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "好啦这回可以走了"
+    } ]
+  }, {
+    "tStartMs": 91966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "感觉今天早晨有点凉哦哈哈"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我们到超市啦"
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "好进超市先"
+    } ]
+  }, {
+    "tStartMs": 101433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "这里呢我们先推一个购物车"
+    } ]
+  }, {
+    "tStartMs": 105066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "这个是购物车购物车推购物车"
+    } ]
+  }, {
+    "tStartMs": 112066,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "然后我们进入超市进入超市"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "哎你们知道吗"
+    } ]
+  }, {
+    "tStartMs": 117933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我一进来就看到了"
+    } ]
+  }, {
+    "tStartMs": 119266,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "一个特别划算的水果这个"
+    } ]
+  }, {
+    "tStartMs": 124400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "你们看这个葡萄"
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这个是葡萄"
+    } ]
+  }, {
+    "tStartMs": 128333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "然后才五块九毛九一个哎"
+    } ]
+  }, {
+    "tStartMs": 131866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "特价特价"
+    } ]
+  }, {
+    "tStartMs": 134866,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "然后它看着很新鲜"
+    } ]
+  }, {
+    "tStartMs": 139700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇"
+    } ]
+  }, {
+    "tStartMs": 141266,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "这个葡萄看着很新鲜很新鲜"
+    } ]
+  }, {
+    "tStartMs": 144500,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我决定买一盒"
+    } ]
+  }, {
+    "tStartMs": 148666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 149200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "你们看这个盒子有一点点坏了"
+    } ]
+  }, {
+    "tStartMs": 151900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "所以我决定再换一个换一个"
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "因为买东西呢"
+    } ]
+  }, {
+    "tStartMs": 160400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我通常会挑选的"
+    } ]
+  }, {
+    "tStartMs": 162666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "挑选要挑选一下"
+    } ]
+  }, {
+    "tStartMs": 164700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "挑选比较新鲜的"
+    } ]
+  }, {
+    "tStartMs": 166500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "看起来比较好的"
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "这是我第一次早晨来逛超市哦"
+    } ]
+  }, {
+    "tStartMs": 173100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "现在是上午"
+    } ]
+  }, {
+    "tStartMs": 174900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "怎么感觉人这么多"
+    } ]
+  }, {
+    "tStartMs": 177166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "感觉人比晚上还多"
+    } ]
+  }, {
+    "tStartMs": 180066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这个也很划算"
+    } ]
+  }, {
+    "tStartMs": 183100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这个是橘子吧"
+    } ]
+  }, {
+    "tStartMs": 184866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这个是橙子"
+    } ]
+  }, {
+    "tStartMs": 186566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "橙子还是橘子"
+    } ]
+  }, {
+    "tStartMs": 187866,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "搞不清楚"
+    } ]
+  }, {
+    "tStartMs": 190333,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "但是这一包是五块九毛九"
+    } ]
+  }, {
+    "tStartMs": 194733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "也是特价五块九毛九"
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦"
+    } ]
+  }, {
+    "tStartMs": 200166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我觉得很划算呢"
+    } ]
+  }, {
+    "tStartMs": 203700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "来一包"
+    } ]
+  }, {
+    "tStartMs": 205866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "啊但是呢"
+    } ]
+  }, {
+    "tStartMs": 206866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我忽然意识到一个问题"
+    } ]
+  }, {
+    "tStartMs": 208766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "就是这个橘子它非常的重哎"
+    } ]
+  }, {
+    "tStartMs": 212466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "我觉得我可能背不回去"
+    } ]
+  }, {
+    "tStartMs": 216466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "它太重了太重了"
+    } ]
+  }, {
+    "tStartMs": 219366,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "算了放弃吧"
+    } ]
+  }, {
+    "tStartMs": 221666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "这个真的太重了算了"
+    } ]
+  }, {
+    "tStartMs": 224366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "不要了我不要了"
+    } ]
+  }, {
+    "tStartMs": 226533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我把它放回去了"
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "放回去了嗯"
+    } ]
+  }, {
+    "tStartMs": 231933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "嗯这边呢"
+    } ]
+  }, {
+    "tStartMs": 233066,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "是水果区"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "有很多的水果"
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "然后你们看"
+    } ]
+  }, {
+    "tStartMs": 238733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这个是一个袋子"
+    } ]
+  }, {
+    "tStartMs": 241466,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "塑料袋塑料袋"
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就是如果你要买水果"
+    } ]
+  }, {
+    "tStartMs": 246966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "或者是蔬菜的话呢"
+    } ]
+  }, {
+    "tStartMs": 248666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "就可以用那个塑料袋装"
+    } ]
+  }, {
+    "tStartMs": 251300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "用塑料袋装哈哈"
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "今天超市里的水果真的都很划算"
+    } ]
+  }, {
+    "tStartMs": 258733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "但是呢这些水果都很重哎"
+    } ]
+  }, {
+    "tStartMs": 261466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "你们看这个香蕉"
+    } ]
+  }, {
+    "tStartMs": 264133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这个香蕉今天也很便宜"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "八毛九一磅"
+    } ]
+  }, {
+    "tStartMs": 269966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "八毛九，好想买啊"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "可是它好重啊"
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "挑选一个吧"
+    } ]
+  }, {
+    "tStartMs": 277966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这两个哪个好一点"
+    } ]
+  }, {
+    "tStartMs": 280500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "一般我们比较什么"
+    } ]
+  }, {
+    "tStartMs": 281966,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我们会说这两个哪个好一点"
+    } ]
+  }, {
+    "tStartMs": 285933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "哪个好一点嗯"
+    } ]
+  }, {
+    "tStartMs": 288766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "好吧我准备拿这个了"
+    } ]
+  }, {
+    "tStartMs": 293166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这个小一点"
+    } ]
+  }, {
+    "tStartMs": 294500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "没有那么重"
+    } ]
+  }, {
+    "tStartMs": 296100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我们把这个香蕉放进购物车"
+    } ]
+  }, {
+    "tStartMs": 299933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "放进购物车走"
+    } ]
+  }, {
+    "tStartMs": 303966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你们看这个是一个秤秤"
+    } ]
+  }, {
+    "tStartMs": 307666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "比如说香蕉放在上面，放"
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "看看它有多重"
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "哦差不多有两磅两磅这样子"
+    } ]
+  }, {
+    "tStartMs": 319233,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这个我们叫称重称重"
+    } ]
+  }, {
+    "tStartMs": 326600,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "嗯那蔬菜和水果区我们就逛完了"
+    } ]
+  }, {
+    "tStartMs": 330833,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "我现在要去找一下咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 336700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "呃你要找什么东西"
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "你可以说"
+    } ]
+  }, {
+    "tStartMs": 338933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我去找什么什么"
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "比如我去找咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 344200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我去找牛奶"
+    } ]
+  }, {
+    "tStartMs": 347200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "不在这里"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "啊也不在这里"
+    } ]
+  }, {
+    "tStartMs": 351133,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "你们看超市里会有不同的货架"
+    } ]
+  }, {
+    "tStartMs": 354900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "这些是货架货架"
+    } ]
+  }, {
+    "tStartMs": 357933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后上面呢"
+    } ]
+  }, {
+    "tStartMs": 359366,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "有很清楚的指示牌指示牌"
+    } ]
+  }, {
+    "tStartMs": 363900,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "告诉你这个区域呢"
+    } ]
+  }, {
+    "tStartMs": 365366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "都摆了什么商品"
+    } ]
+  }, {
+    "tStartMs": 367566,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这样可以方便我们去呃"
+    } ]
+  }, {
+    "tStartMs": 369933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "寻找我们要买的东西"
+    } ]
+  }, {
+    "tStartMs": 373033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "啊这里有我最爱的意大利面"
+    } ]
+  }, {
+    "tStartMs": 377233,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "这个我经常买这个意大利面"
+    } ]
+  }, {
+    "tStartMs": 382133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "但是今天好像没有折扣"
+    } ]
+  }, {
+    "tStartMs": 385566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "像这种贴了黄色黄标"
+    } ]
+  }, {
+    "tStartMs": 388600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "黄色的这种就是特价的"
+    } ]
+  }, {
+    "tStartMs": 392300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 394433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "但是我想了一下"
+    } ]
+  }, {
+    "tStartMs": 395933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "好像我家里的意大利面"
+    } ]
+  }, {
+    "tStartMs": 398133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "还有很多没有吃完的"
+    } ]
+  }, {
+    "tStartMs": 400300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "所以就先不买啦哈哈"
+    } ]
+  }, {
+    "tStartMs": 403033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "继续去找咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 405833,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "找到了这里有很多很多的咖啡"
+    } ]
+  }, {
+    "tStartMs": 409600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我要买咖啡"
+    } ]
+  }, {
+    "tStartMs": 412566,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "好多呀"
+    } ]
+  }, {
+    "tStartMs": 414700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "其实这上面的我基本都喝过"
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "你们有没有什么特别"
+    } ]
+  }, {
+    "tStartMs": 420766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "推荐我喝的咖啡品牌呢"
+    } ]
+  }, {
+    "tStartMs": 423833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "嗯我一般会买咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 426566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因为我家里有一个咖啡机"
+    } ]
+  }, {
+    "tStartMs": 428566,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "我就会自己做咖啡"
+    } ]
+  }, {
+    "tStartMs": 431733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "哇现在的咖啡粉都这么贵的吗"
+    } ]
+  }, {
+    "tStartMs": 436300,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "完全没有看到几个十块钱以下的呀"
+    } ]
+  }, {
+    "tStartMs": 442300,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "而且都还是打完折的"
+    } ]
+  }, {
+    "tStartMs": 444333,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "打完折都要十三到十四块好贵哦"
+    } ]
+  }, {
+    "tStartMs": 448966,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "怎么办我的咖啡粉明天就没有了"
+    } ]
+  }, {
+    "tStartMs": 452766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哼哼哼"
+    } ]
+  }, {
+    "tStartMs": 454933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "算了我先不买了太贵了"
+    } ]
+  }, {
+    "tStartMs": 457966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "下次换一个超市看一下"
+    } ]
+  }, {
+    "tStartMs": 461233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "然后我们在超市里呢"
+    } ]
+  }, {
+    "tStartMs": 462933,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "可能会经常说的一些呃中文的句子"
+    } ]
+  }, {
+    "tStartMs": 467133,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "比如说刚才教了你们我要买什么"
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "比如我要买咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 473600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "然后你也可以说我在找咖啡粉"
+    } ]
+  }, {
+    "tStartMs": 476933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我在找或者呃"
+    } ]
+  }, {
+    "tStartMs": 479966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "我要想一想我要买什么"
+    } ]
+  }, {
+    "tStartMs": 482633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "嗯我要买什么"
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "我要买什么"
+    } ]
+  }, {
+    "tStartMs": 487033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个区域呢"
+    } ]
+  }, {
+    "tStartMs": 488166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "都是冷冻冰柜"
+    } ]
+  }, {
+    "tStartMs": 491233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "冷冻冰柜"
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这里面卖的都是一些"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "必须要冰冻的商品"
+    } ]
+  }, {
+    "tStartMs": 497500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "比如说这个是酸奶酸奶"
+    } ]
+  }, {
+    "tStartMs": 501100,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "还有一些呃冷冻的食物"
+    } ]
+  }, {
+    "tStartMs": 506133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "这里呢就是牛奶牛奶"
+    } ]
+  }, {
+    "tStartMs": 510600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "那温哥华这边呢"
+    } ]
+  }, {
+    "tStartMs": 512766,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "超市里的牛奶都是那种很大一桶的"
+    } ]
+  }, {
+    "tStartMs": 517800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "然后我自己又喝不完"
+    } ]
+  }, {
+    "tStartMs": 520166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "因为我牛奶也不会每天都喝"
+    } ]
+  }, {
+    "tStartMs": 523966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "就觉得这么大一桶很浪费"
+    } ]
+  }, {
+    "tStartMs": 526533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "喝不完它又会不新鲜了"
+    } ]
+  }, {
+    "tStartMs": 529333,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "但是你要买小桶的呢"
+    } ]
+  }, {
+    "tStartMs": 531300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "它又不是很划算"
+    } ]
+  }, {
+    "tStartMs": 533433,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我给你们看一下价格"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "你看这个大桶的是六块多"
+    } ]
+  }, {
+    "tStartMs": 541700,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "然后小桶的是五块多"
+    } ]
+  }, {
+    "tStartMs": 547233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "我就觉得肯定是大桶的要划算一些"
+    } ]
+  }, {
+    "tStartMs": 551833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "嗯但是大桶的我又喝不完"
+    } ]
+  }, {
+    "tStartMs": 556300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "那我刚才呢"
+    } ]
+  }, {
+    "tStartMs": 557233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "就是在比较价格"
+    } ]
+  }, {
+    "tStartMs": 559766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "比较比较价格对"
+    } ]
+  }, {
+    "tStartMs": 563633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "你们看像这些调料"
+    } ]
+  }, {
+    "tStartMs": 567366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "呃这些酱料酱料就是比较"
+    } ]
+  }, {
+    "tStartMs": 570833,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "适合你们做饭的用的对吧"
+    } ]
+  }, {
+    "tStartMs": 574433,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "就是呃西餐对不对"
+    } ]
+  }, {
+    "tStartMs": 577700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "但是像我们的话呢"
+    } ]
+  }, {
+    "tStartMs": 579400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "就会比较少用到"
+    } ]
+  }, {
+    "tStartMs": 582733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "这个区域他卖很多"
+    } ]
+  }, {
+    "tStartMs": 584933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我们亚洲的呃调料"
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "比如说像这个"
+    } ]
+  }, {
+    "tStartMs": 592100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "这个老干妈辣酱老干妈辣酱"
+    } ]
+  }, {
+    "tStartMs": 595366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "就是我们吃饭经常会吃的对"
+    } ]
+  }, {
+    "tStartMs": 598833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "但是像这个超市里卖"
+    } ]
+  }, {
+    "tStartMs": 600600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "的这种就会比较少"
+    } ]
+  }, {
+    "tStartMs": 602533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "一般我要买一些酱啊调料啊"
+    } ]
+  }, {
+    "tStartMs": 605033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我会去华人超市嗯"
+    } ]
+  }, {
+    "tStartMs": 607833,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "对了之前呢"
+    } ]
+  }, {
+    "tStartMs": 610433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "嗯你们有人提醒我"
+    } ]
+  }, {
+    "tStartMs": 612366,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "这种披萨披萨要放进冷冻柜里啊哈"
+    } ]
+  }, {
+    "tStartMs": 617433,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "而且呢还有朋友给我发了Email"
+    } ]
+  }, {
+    "tStartMs": 620200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "告诉我要放冷冻柜"
+    } ]
+  }, {
+    "tStartMs": 622600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这回我知道了"
+    } ]
+  }, {
+    "tStartMs": 623733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "我当时立刻就把它放在了冷冻"
+    } ]
+  }, {
+    "tStartMs": 627400,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "冰箱的冷冻柜里"
+    } ]
+  }, {
+    "tStartMs": 628733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "谢谢你们真的"
+    } ]
+  }, {
+    "tStartMs": 631000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "你们看"
+    } ]
+  }, {
+    "tStartMs": 631966,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "这家超市还会卖我最爱吃的饺子"
+    } ]
+  }, {
+    "tStartMs": 637233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "这个"
+    } ]
+  }, {
+    "tStartMs": 639300,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "这个饺子我超级爱吃"
+    } ]
+  }, {
+    "tStartMs": 647033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "这个是猪肉白菜的猪肉白菜的水饺"
+    } ]
+  }, {
+    "tStartMs": 652033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 653366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但是呢我今天不打算买"
+    } ]
+  }, {
+    "tStartMs": 655833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "因为家里面还有两袋"
+    } ]
+  }, {
+    "tStartMs": 657833,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "想要吃完再买哈哈"
+    } ]
+  }, {
+    "tStartMs": 660333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我们打开冰箱门打开"
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "然后把它放回去放回去"
+    } ]
+  }, {
+    "tStartMs": 669700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "再关上关上"
+    } ]
+  }, {
+    "tStartMs": 673033,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这种冷冻蔬菜我也很喜欢买"
+    } ]
+  }, {
+    "tStartMs": 676500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "因为很方便"
+    } ]
+  }, {
+    "tStartMs": 677766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "就直接把它丢进锅里煮就好了"
+    } ]
+  }, {
+    "tStartMs": 681600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这个是我们叫冷冻蔬菜"
+    } ]
+  }, {
+    "tStartMs": 683900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "冷冻蔬菜"
+    } ]
+  }, {
+    "tStartMs": 686200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "像这种呢"
+    } ]
+  }, {
+    "tStartMs": 687100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我们叫做价格标签"
+    } ]
+  }, {
+    "tStartMs": 690233,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "价格的标签标签"
+    } ]
+  }, {
+    "tStartMs": 692733,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "对上面会有每一个产品的价格价格"
+    } ]
+  }, {
+    "tStartMs": 700700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "接下来我要看一看肉"
+    } ]
+  }, {
+    "tStartMs": 702600,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "嗯看看有没有比较划算的特价的"
+    } ]
+  }, {
+    "tStartMs": 706533,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我真的觉得我这期节目"
+    } ]
+  }, {
+    "tStartMs": 708100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "一直在跟你们讲两个词"
+    } ]
+  }, {
+    "tStartMs": 710200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "一个是划算"
+    } ]
+  }, {
+    "tStartMs": 711733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "另外一个是特价"
+    } ]
+  }, {
+    "tStartMs": 713966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "因为这边的生活成本真的很高"
+    } ]
+  }, {
+    "tStartMs": 717133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "所以节省着花钱"
+    } ]
+  }, {
+    "tStartMs": 720533,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "要很节省"
+    } ]
+  }, {
+    "tStartMs": 723500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "哎这里能看到我哈哈"
+    } ]
+  }, {
+    "tStartMs": 726233,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "好然后这边是鸡肉鸡肉"
+    } ]
+  }, {
+    "tStartMs": 730833,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我觉得加拿大的鸡肉卖的很贵"
+    } ]
+  }, {
+    "tStartMs": 733933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "几乎跟猪肉是一个价格嗯"
+    } ]
+  }, {
+    "tStartMs": 738833,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这边的话是一些香肠香肠"
+    } ]
+  }, {
+    "tStartMs": 743300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "然后这边是猪肉猪肉"
+    } ]
+  }, {
+    "tStartMs": 746900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "这种你看"
+    } ]
+  }, {
+    "tStartMs": 748566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "上面有这个标记"
+    } ]
+  }, {
+    "tStartMs": 749966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "他写了呃两刀off"
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "那我们会说是便宜两刀"
+    } ]
+  }, {
+    "tStartMs": 757500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "或者便宜两块钱"
+    } ]
+  }, {
+    "tStartMs": 760666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "然后你们看这上面的"
+    } ]
+  }, {
+    "tStartMs": 762233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "这个写的是积分积分"
+    } ]
+  }, {
+    "tStartMs": 766433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就是我们一般逛超市的时候呢"
+    } ]
+  }, {
+    "tStartMs": 769033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "都会有超市的积分卡积分卡"
+    } ]
+  }, {
+    "tStartMs": 772166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "然后用那个积分卡"
+    } ]
+  }, {
+    "tStartMs": 773633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "去呃买东西的时候"
+    } ]
+  }, {
+    "tStartMs": 776000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "他就会有积分在你的账户里"
+    } ]
+  }, {
+    "tStartMs": 778266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "就很划算"
+    } ]
+  }, {
+    "tStartMs": 780366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个积分呢"
+    } ]
+  }, {
+    "tStartMs": 781266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "在未来就可以抵成钱啊"
+    } ]
+  }, {
+    "tStartMs": 784433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "给你们看"
+    } ]
+  }, {
+    "tStartMs": 785266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这个烤鸡我也经常买"
+    } ]
+  }, {
+    "tStartMs": 788100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但他们家的烤鸡会有一点点贵"
+    } ]
+  }, {
+    "tStartMs": 791033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "十三块九毛九 嗯"
+    } ]
+  }, {
+    "tStartMs": 793233,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "哇很热乎"
+    } ]
+  }, {
+    "tStartMs": 795466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "那我们买东西的时候一般会说"
+    } ]
+  }, {
+    "tStartMs": 798700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "这个商品有点贵"
+    } ]
+  }, {
+    "tStartMs": 801633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "或者有点便宜"
+    } ]
+  }, {
+    "tStartMs": 804233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "贵，便宜"
+    } ]
+  }, {
+    "tStartMs": 806100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "啊比较的时候我们会这样讲"
+    } ]
+  }, {
+    "tStartMs": 809000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "有点贵有点便宜"
+    } ]
+  }, {
+    "tStartMs": 812066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "或者这个很划算"
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "或者很合适嗯"
+    } ]
+  }, {
+    "tStartMs": 816466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "如果是要问价格的话"
+    } ]
+  }, {
+    "tStartMs": 818166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们一般会说"
+    } ]
+  }, {
+    "tStartMs": 819466,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "这个多少钱？"
+    } ]
+  }, {
+    "tStartMs": 823800,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "好吧那我因为时间的关系呢"
+    } ]
+  }, {
+    "tStartMs": 826566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我必须要回去了"
+    } ]
+  }, {
+    "tStartMs": 827966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "然后呃原定的购物清单里"
+    } ]
+  }, {
+    "tStartMs": 831633,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "的东西并没有买的很多"
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "只买了呃葡萄还有香蕉所以呢"
+    } ]
+  }, {
+    "tStartMs": 838666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我决定要把那个橘子拿着"
+    } ]
+  }, {
+    "tStartMs": 841766,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "就是刚才我们在"
+    } ]
+  }, {
+    "tStartMs": 842966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "门口看到的那个橘子"
+    } ]
+  }, {
+    "tStartMs": 844900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "五块多我觉得很划算很合适"
+    } ]
+  }, {
+    "tStartMs": 848800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "因为我没有买太多东西"
+    } ]
+  }, {
+    "tStartMs": 850466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "所以我觉得我应该可以背回去"
+    } ]
+  }, {
+    "tStartMs": 853300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "好我们挑一个"
+    } ]
+  }, {
+    "tStartMs": 855000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "挑挑一个"
+    } ]
+  }, {
+    "tStartMs": 859833,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "就这个吧"
+    } ]
+  }, {
+    "tStartMs": 862200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "就这个吧"
+    } ]
+  }, {
+    "tStartMs": 864866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 866700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "我们现在去结账结账"
+    } ]
+  }, {
+    "tStartMs": 870766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这边是人工结账的区域"
+    } ]
+  }, {
+    "tStartMs": 873833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "人工结账"
+    } ]
+  }, {
+    "tStartMs": 875200,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "然后前面呢是自助结账"
+    } ]
+  }, {
+    "tStartMs": 879233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这里可以自助结账"
+    } ]
+  }, {
+    "tStartMs": 883166,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "那我们还是来这个人工结账的地方"
+    } ]
+  }, {
+    "tStartMs": 888066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "在这里吧"
+    } ]
+  }, {
+    "tStartMs": 889833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "排队"
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "我们在这里排队排队"
+    } ]
+  }, {
+    "tStartMs": 895166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那这里呢"
+    } ]
+  }, {
+    "tStartMs": 895966,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "我们也叫收银台收银台"
+    } ]
+  }, {
+    "tStartMs": 900266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这个分离的东西呢"
+    } ]
+  }, {
+    "tStartMs": 901966,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "中文里叫做分隔杆分隔杆"
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "但是生活里我们几乎不会这样去说"
+    } ]
+  }, {
+    "tStartMs": 910100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "因为好像我们很少用到"
+    } ]
+  }, {
+    "tStartMs": 912366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我也很少见到它"
+    } ]
+  }, {
+    "tStartMs": 915633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "那我现在就要把我买的"
+    } ]
+  }, {
+    "tStartMs": 917666,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "商品放在这个柜台上柜台"
+    } ]
+  }, {
+    "tStartMs": 922266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "放在柜台上"
+    } ]
+  }, {
+    "tStartMs": 924866,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "hello here's my card"
+    } ]
+  }, {
+    "tStartMs": 927500,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "这里呢"
+    } ]
+  }, {
+    "tStartMs": 928200,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "我把我的超市会员卡给了服务员"
+    } ]
+  }, {
+    "tStartMs": 932733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "会员卡会员卡"
+    } ]
+  }, {
+    "tStartMs": 934900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这样就可以积分了"
+    } ]
+  }, {
+    "tStartMs": 938033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "thank you"
+    } ]
+  }, {
+    "tStartMs": 940266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "那在柜台结账的工作人员呢"
+    } ]
+  }, {
+    "tStartMs": 942700,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "我们叫做收银员收银员"
+    } ]
+  }, {
+    "tStartMs": 946700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "现在我要把已经扫过的商品呢"
+    } ]
+  }, {
+    "tStartMs": 949866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "放回购物车"
+    } ]
+  }, {
+    "tStartMs": 952466,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "结完账收银员把小票给了我"
+    } ]
+  }, {
+    "tStartMs": 957400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "好的我们现在把车放回去"
+    } ]
+  }, {
+    "tStartMs": 965733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "走啦走啦买完了"
+    } ]
+  }, {
+    "tStartMs": 971266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "虽然没买什么"
+    } ]
+  }, {
+    "tStartMs": 972233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "但是还是挺重的感觉"
+    } ]
+  }, {
+    "tStartMs": 974800,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "然后我今天一共是消费十三块九毛一"
+    } ]
+  }, {
+    "tStartMs": 980500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "我手上拿的这个呢"
+    } ]
+  }, {
+    "tStartMs": 982166,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "是购物小票购物小票"
+    } ]
+  }, {
+    "tStartMs": 986600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "十三块九毛一"
+    } ]
+  }, {
+    "tStartMs": 987800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "然后买的都是水果"
+    } ]
+  }, {
+    "tStartMs": 989433,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "买了一个葡萄"
+    } ]
+  }, {
+    "tStartMs": 990700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "买了一个香蕉"
+    } ]
+  }, {
+    "tStartMs": 992433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "然后买了一个呃橘子哈哈"
+    } ]
+  }, {
+    "tStartMs": 996266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我真的不知道是橘子还是橙子"
+    } ]
+  }, {
+    "tStartMs": 998366,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "管它呢"
+    } ]
+  }, {
+    "tStartMs": 999666,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "然后呢我们现在拎拎拎着"
+    } ]
+  }, {
+    "tStartMs": 1003800,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "拎着这个购物袋回家了"
+    } ]
+  }, {
+    "tStartMs": 1007000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "回家回家好累哦"
+    } ]
+  }, {
+    "tStartMs": 1009800,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "好吧朋友们"
+    } ]
+  }, {
+    "tStartMs": 1010866,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "那今天的这些超市的常用表达"
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你们都学会了吗"
+    } ]
+  }, {
+    "tStartMs": 1015600,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 1017066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那我最近呢"
+    } ]
+  }, {
+    "tStartMs": 1018066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "也开通了我的Youtube会员频道"
+    } ]
+  }, {
+    "tStartMs": 1020600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "会跟你们分享更多我"
+    } ]
+  }, {
+    "tStartMs": 1022766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "的平时的日常生活啊"
+    } ]
+  }, {
+    "tStartMs": 1026300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "然后也会给你们提供"
+    } ]
+  }, {
+    "tStartMs": 1027866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "更详细的学习手册"
+    } ]
+  }, {
+    "tStartMs": 1030566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "如果你们也喜欢看我的视频"
+    } ]
+  }, {
+    "tStartMs": 1032800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "想要通过我的真实"
+    } ]
+  }, {
+    "tStartMs": 1034166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "生活来学习中文表达"
+    } ]
+  }, {
+    "tStartMs": 1036966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "那记得关注我的频道哦"
+    } ]
+  }, {
+    "tStartMs": 1039100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你们也可以订阅我的会员频道"
+    } ]
+  }, {
+    "tStartMs": 1041500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "会有更精彩的内容分享给你们"
+    } ]
+  }, {
+    "tStartMs": 1044800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "好的那今天的节目就到这里啦"
+    } ]
+  }, {
+    "tStartMs": 1047000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们下期再见"
+    } ]
+  }, {
+    "tStartMs": 1048566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "感谢你们的观看和支持哦"
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜"
+    } ]
+  }, {
+    "tStartMs": 1052366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "这就是今天买的葡萄"
+    } ]
+  }, {
+    "tStartMs": 1054266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "来我们尝一个"
+    } ]
+  }, {
+    "tStartMs": 1056766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "嗯嗯嗯"
+    } ]
+  }, {
+    "tStartMs": 1060266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "哇这个葡萄好酸"
+    } ]
+  }, {
+    "tStartMs": 1062833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "嗯嗯"
+    } ]
+  }, {
+    "tStartMs": 1065666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这个葡萄好酸啊"
+    } ]
+  }, {
+    "tStartMs": 1068766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "酸好酸啊"
+    } ]
+  } ]
+}

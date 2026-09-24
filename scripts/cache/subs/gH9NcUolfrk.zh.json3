@@ -1,0 +1,1009 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 366,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "嗨，大家好，好久不见"
+    } ]
+  }, {
+    "tStartMs": 4566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "最近我都没怎么出门因为"
+    } ]
+  }, {
+    "tStartMs": 10066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "7月在上海"
+    } ]
+  }, {
+    "tStartMs": 12733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "天气真的不怎么样"
+    } ]
+  }, {
+    "tStartMs": 15366,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "先是连续不断的梅雨季"
+    } ]
+  }, {
+    "tStartMs": 19233,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "每天都下雨"
+    } ]
+  }, {
+    "tStartMs": 21800,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "又潮湿又闷热"
+    } ]
+  }, {
+    "tStartMs": 25366,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "然后这几天上海又受到台风的影响"
+    } ]
+  }, {
+    "tStartMs": 29766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我也不太敢出门"
+    } ]
+  }, {
+    "tStartMs": 31966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你们可以看到今天风还是挺大的"
+    } ]
+  }, {
+    "tStartMs": 34966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "不过从明天周一起"
+    } ]
+  }, {
+    "tStartMs": 38233,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "上海应该就不太受台风的影响"
+    } ]
+  }, {
+    "tStartMs": 43033,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "那其实今天我也不是要出门"
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "我只是要去我的邻居朋友家"
+    } ]
+  }, {
+    "tStartMs": 50033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "帮她照顾一下小猫"
+    } ]
+  }, {
+    "tStartMs": 52833,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "因为她最近去别的城市出差了"
+    } ]
+  }, {
+    "tStartMs": 57033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "然后我也就是想跟你们分享一下"
+    } ]
+  }, {
+    "tStartMs": 59966,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我这几天照顾小猫的心得"
+    } ]
+  }, {
+    "tStartMs": 63666,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "因为我是没有养宠物的经验的"
+    } ]
+  }, {
+    "tStartMs": 67733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "然后我发现"
+    } ]
+  }, {
+    "tStartMs": 69800,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "和小猫相处比我想象中的要复杂很多"
+    } ]
+  }, {
+    "tStartMs": 76833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "也并不是那么顺利"
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "因为可能我们不养宠物的人"
+    } ]
+  }, {
+    "tStartMs": 82400,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "对于小猫小狗的认知都是来源于"
+    } ]
+  }, {
+    "tStartMs": 86466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "网上的视频"
+    } ]
+  }, {
+    "tStartMs": 87833,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "比如说你可以开心的摸摸它"
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "在中文里我们会叫"
+    } ]
+  }, {
+    "tStartMs": 95733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "撸猫撸狗"
+    } ]
+  }, {
+    "tStartMs": 97733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "和它玩，它很听话"
+    } ]
+  }, {
+    "tStartMs": 100166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "也不反抗"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "随便你怎么摸"
+    } ]
+  }, {
+    "tStartMs": 103966,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "但是现实中往往不是这样的"
+    } ]
+  }, {
+    "tStartMs": 107966,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "那本来我朋友给我的任务就是每天"
+    } ]
+  }, {
+    "tStartMs": 112800,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "或者每隔两天就去她家帮小猫铲屎"
+    } ]
+  }, {
+    "tStartMs": 118533,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "对，去它拉便便的盆子里帮它铲屎"
+    } ]
+  }, {
+    "tStartMs": 124633,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "说到铲屎"
+    } ]
+  }, {
+    "tStartMs": 125833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我想教你们一个词"
+    } ]
+  }, {
+    "tStartMs": 127766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "就是在中文里最近比较火的一个词"
+    } ]
+  }, {
+    "tStartMs": 131133,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "叫做“铲屎官”"
+    } ]
+  }, {
+    "tStartMs": 133966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "“官”的意思就是官员"
+    } ]
+  }, {
+    "tStartMs": 136133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "尤其是古代那种比较大"
+    } ]
+  }, {
+    "tStartMs": 138433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "比较正式的政府的官"
+    } ]
+  }, {
+    "tStartMs": 142266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "但是他们把“官”加在“铲屎”后面"
+    } ]
+  }, {
+    "tStartMs": 145766,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "就有一种自嘲的感觉"
+    } ]
+  }, {
+    "tStartMs": 151666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "把铲屎当做一种工作"
+    } ]
+  }, {
+    "tStartMs": 155033,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "其实我觉得这个词也很有意思"
+    } ]
+  }, {
+    "tStartMs": 158800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "因为它也是在告诉想养宠物的人"
+    } ]
+  }, {
+    "tStartMs": 163833,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "养宠物并不只是它们给你"
+    } ]
+  }, {
+    "tStartMs": 166766,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "提供陪伴或者休闲娱乐"
+    } ]
+  }, {
+    "tStartMs": 169866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你也是有责任的"
+    } ]
+  }, {
+    "tStartMs": 172066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "而铲屎就是最基础的一种"
+    } ]
+  }, {
+    "tStartMs": 174666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "哎呀这风太大了"
+    } ]
+  }, {
+    "tStartMs": 177500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "所以今天这个视频"
+    } ]
+  }, {
+    "tStartMs": 179333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我并不会带你们出门玩"
+    } ]
+  }, {
+    "tStartMs": 181966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我现在要去我朋友的家"
+    } ]
+  }, {
+    "tStartMs": 184366,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后我想看看能不能录到一点"
+    } ]
+  }, {
+    "tStartMs": 187566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我和小猫互动的视频给你们看"
+    } ]
+  }, {
+    "tStartMs": 191066,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "然后如果你们当中有资深的养猫人士"
+    } ]
+  }, {
+    "tStartMs": 195866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "也可以给我提供一些经验"
+    } ]
+  }, {
+    "tStartMs": 198133,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "因为我也是打算可能在"
+    } ]
+  }, {
+    "tStartMs": 200766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "今年年底就开始养一只小猫"
+    } ]
+  }, {
+    "tStartMs": 204566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "那就看看今天我到"
+    } ]
+  }, {
+    "tStartMs": 206900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "朋友家录视频的时候"
+    } ]
+  }, {
+    "tStartMs": 209566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "它赏不赏脸吧"
+    } ]
+  }, {
+    "tStartMs": 212333,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "说不定它都不愿意出现在摄像头中"
+    } ]
+  }, {
+    "tStartMs": 217200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "现在我要先进行一个铲屎的工作"
+    } ]
+  }, {
+    "tStartMs": 222100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "它对于这个新相机超级好奇呢"
+    } ]
+  }, {
+    "tStartMs": 228466,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "嘿嘿"
+    } ]
+  }, {
+    "tStartMs": 232333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "涨薪，涨薪"
+    } ]
+  }, {
+    "tStartMs": 236466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这只小猫叫“涨薪”"
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "其实zhǎngxīn有两个不同的意思"
+    } ]
+  }, {
+    "tStartMs": 243566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "怎么说呢"
+    } ]
+  }, {
+    "tStartMs": 245533,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "它的主人给它取的名字就是“涨薪水”"
+    } ]
+  }, {
+    "tStartMs": 251300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "因为她希望自己薪水能"
+    } ]
+  }, {
+    "tStartMs": 253733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "慢慢慢慢的越来越多"
+    } ]
+  }, {
+    "tStartMs": 256566,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "但是我们还有一个zhǎngxīn"
+    } ]
+  }, {
+    "tStartMs": 258700,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "就是这个掌心"
+    } ]
+  }, {
+    "tStartMs": 260800,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "手掌的中心"
+    } ]
+  }, {
+    "tStartMs": 263166,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "所以你们知道有时候确实要看汉字"
+    } ]
+  }, {
+    "tStartMs": 266700,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "和语境才能知道我们说的是哪个词"
+    } ]
+  }, {
+    "tStartMs": 274366,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "涨薪，我给你买了新的玩具"
+    } ]
+  }, {
+    "tStartMs": 278100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "但是我不知道质量怎么样"
+    } ]
+  }, {
+    "tStartMs": 282466,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "这是一个弹力球"
+    } ]
+  }, {
+    "tStartMs": 286200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然后上面有一个小的羽毛"
+    } ]
+  }, {
+    "tStartMs": 291333,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "因为涨薪在我来的时候"
+    } ]
+  }, {
+    "tStartMs": 294733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "它只有一个逗猫棒"
+    } ]
+  }, {
+    "tStartMs": 296666,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "然后我发现"
+    } ]
+  }, {
+    "tStartMs": 298333,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "它已经对逗猫棒失去了兴趣"
+    } ]
+  }, {
+    "tStartMs": 300866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "所以我从昨天开始就"
+    } ]
+  }, {
+    "tStartMs": 303100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "买了一些新的玩具"
+    } ]
+  }, {
+    "tStartMs": 305666,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "因为我前几天刚开始照顾它的时候"
+    } ]
+  }, {
+    "tStartMs": 310066,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我发现我有一个错误的地方"
+    } ]
+  }, {
+    "tStartMs": 313200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "就是我会用手陪它玩"
+    } ]
+  }, {
+    "tStartMs": 316166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "然后它就特别喜欢咬我手"
+    } ]
+  }, {
+    "tStartMs": 319300,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我就去想为什么"
+    } ]
+  }, {
+    "tStartMs": 321366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "就是因为每次它咬我手"
+    } ]
+  }, {
+    "tStartMs": 323466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "我就会习惯性的"
+    } ]
+  }, {
+    "tStartMs": 326333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "本能的抽回"
+    } ]
+  }, {
+    "tStartMs": 328066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "这就跟它在自然里看到的猎物一样"
+    } ]
+  }, {
+    "tStartMs": 331200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "对吧？涨薪它原来是生活在街道上的"
+    } ]
+  }, {
+    "tStartMs": 335400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "它几个月大的时候"
+    } ]
+  }, {
+    "tStartMs": 337166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "主人把它捡回来"
+    } ]
+  }, {
+    "tStartMs": 339733,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "然后我就开始"
+    } ]
+  }, {
+    "tStartMs": 341700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "先是用这些玩具去让它"
+    } ]
+  }, {
+    "tStartMs": 344966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "释放一些它捕猎的天性"
+    } ]
+  }, {
+    "tStartMs": 347733,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "然后我的手可能就对它失去了"
+    } ]
+  }, {
+    "tStartMs": 352066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "原来那种猎物的吸引力"
+    } ]
+  }, {
+    "tStartMs": 355733,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "其次我改的就是"
+    } ]
+  }, {
+    "tStartMs": 357866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "它如果再要咬我的手"
+    } ]
+  }, {
+    "tStartMs": 359600,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我会放在那里不动"
+    } ]
+  }, {
+    "tStartMs": 361400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "让它看起来不那么像猎物"
+    } ]
+  }, {
+    "tStartMs": 364600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "然后它再咬"
+    } ]
+  }, {
+    "tStartMs": 365933,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我就会发出“嘶——”的声音提醒它"
+    } ]
+  }, {
+    "tStartMs": 369466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "然后它好像真的能听懂"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "能看出我不喜欢它咬我手"
+    } ]
+  }, {
+    "tStartMs": 382066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "还有一个新的逗猫棒"
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "它就是长得跟棒棒糖一样"
+    } ]
+  }, {
+    "tStartMs": 387933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "然后下面也吊了一根"
+    } ]
+  }, {
+    "tStartMs": 390900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "对猫很有吸引力的羽毛"
+    } ]
+  }, {
+    "tStartMs": 394066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "涨薪"
+    } ]
+  }, {
+    "tStartMs": 399633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "然后我看网上别人说"
+    } ]
+  }, {
+    "tStartMs": 402866,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "动这个逗猫棒的时候"
+    } ]
+  }, {
+    "tStartMs": 404833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "要让它不那么有规律的动"
+    } ]
+  }, {
+    "tStartMs": 408066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "因为自然界里的猎物"
+    } ]
+  }, {
+    "tStartMs": 410633,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "动起来也是没有规律的"
+    } ]
+  }, {
+    "tStartMs": 420800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "它现在在观察"
+    } ]
+  }, {
+    "tStartMs": 464866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "还是引起了一些它的兴趣的哦"
+    } ]
+  }, {
+    "tStartMs": 471500,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "爱玩儿是好事"
+    } ]
+  }, {
+    "tStartMs": 482066,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "它现在身上还穿着绝育服"
+    } ]
+  }, {
+    "tStartMs": 484833,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "因为它大概一周前刚做完绝育"
+    } ]
+  }, {
+    "tStartMs": 488666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "然后这个绝育的小衣服就是"
+    } ]
+  }, {
+    "tStartMs": 491300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "保护它的伤口的"
+    } ]
+  }, {
+    "tStartMs": 493266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "所以我现在也不敢让它动太多"
+    } ]
+  }, {
+    "tStartMs": 496700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "因为可能伤口还没有完全恢复好"
+    } ]
+  }, {
+    "tStartMs": 503066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这么快就失去兴趣了今天"
+    } ]
+  }, {
+    "tStartMs": 506633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "涨薪"
+    } ]
+  }, {
+    "tStartMs": 518533,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "然后我看网上说"
+    } ]
+  }, {
+    "tStartMs": 520466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "陪它们玩之后"
+    } ]
+  }, {
+    "tStartMs": 521633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "要给它们喂点零食"
+    } ]
+  }, {
+    "tStartMs": 523666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这样它们就真的会"
+    } ]
+  }, {
+    "tStartMs": 525033,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "觉得自己捕到猎一样"
+    } ]
+  }, {
+    "tStartMs": 528466,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "哎，人类真的是能想出各种办法"
+    } ]
+  }, {
+    "tStartMs": 532233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个你吃吗？"
+    } ]
+  }, {
+    "tStartMs": 539933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那还是吃的"
+    } ]
+  }, {
+    "tStartMs": 543833,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "看来你不喜欢这个黄色的零食"
+    } ]
+  }, {
+    "tStartMs": 546400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "那我以后不喂你了"
+    } ]
+  }, {
+    "tStartMs": 551266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "它现在想跟我保持一定的距离"
+    } ]
+  }, {
+    "tStartMs": 555266,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那我就让它这样自己待着"
+    } ]
+  }, {
+    "tStartMs": 559266,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "因为不管是动物还是人"
+    } ]
+  }, {
+    "tStartMs": 562800,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我们都要有一定的边界感"
+    } ]
+  }, {
+    "tStartMs": 566900,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "就是不能总是主动往对方身上靠"
+    } ]
+  }, {
+    "tStartMs": 572800,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "对不对，涨薪？"
+    } ]
+  }, {
+    "tStartMs": 575566,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "它特别喜欢这样踩在我的脚上"
+    } ]
+  }, {
+    "tStartMs": 579833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "涨薪~"
+    } ]
+  }, {
+    "tStartMs": 582466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "然后我发现现在伸手给它"
+    } ]
+  }, {
+    "tStartMs": 584700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "它好像真的不咬了，你看"
+    } ]
+  }, {
+    "tStartMs": 588133,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "它反倒是贴过来让我摸"
+    } ]
+  }, {
+    "tStartMs": 593266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "然后我就觉得这几天"
+    } ]
+  }, {
+    "tStartMs": 594700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "好像真的找对了点方法"
+    } ]
+  }, {
+    "tStartMs": 597366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "还是有那么一点小小的成就感的"
+    } ]
+  }, {
+    "tStartMs": 600833,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "感觉自己做铲屎官达到了合格线吧"
+    } ]
+  }, {
+    "tStartMs": 605500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "60分"
+    } ]
+  }, {
+    "tStartMs": 607066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "然后我也很开心我朋友就是能信任我"
+    } ]
+  }, {
+    "tStartMs": 611166,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "让我在这几天这样去照顾小猫"
+    } ]
+  }, {
+    "tStartMs": 616300,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "然后也让我对于自己以后"
+    } ]
+  }, {
+    "tStartMs": 618966,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "要养宠物更加有把握了"
+    } ]
+  } ]
+}

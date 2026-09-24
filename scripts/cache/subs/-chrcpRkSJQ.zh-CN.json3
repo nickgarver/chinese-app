@@ -1,0 +1,1435 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "nǐ zhù zài nǎ lǐ\n你住在哪里"
+    } ]
+  }, {
+    "tStartMs": 2933,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "nǐ zhù zài shén me dì fāng\n你住在什么地方"
+    } ]
+  }, {
+    "tStartMs": 6066,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "nǐ zhù zài chéng shì hái shì nóng cūn\n你住在城市还是农村"
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "nǐ zhù zài dài chéng shì hái shì xiǎo chéng shì\n你住在大城市还是小城市"
+    } ]
+  }, {
+    "tStartMs": 17333,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ men yào liáo de huà tí shì “ wǒ de chéng shì ”\n今天我们要聊的话题是“我的城市”"
+    } ]
+  }, {
+    "tStartMs": 24133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "“ wǒ zhù de dì fāng ”\n“我住的地方”"
+    } ]
+  }, {
+    "tStartMs": 28066,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "dà jiā hǎo   rú guǒ nǐ hái bú rèn shi wǒ\n大家好 如果你还不认识我"
+    } ]
+  }, {
+    "tStartMs": 32500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "wǒ jiào xiǎo nà\n我叫小娜"
+    } ]
+  }, {
+    "tStartMs": 34466,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "huān yíng nǐ hé wǒ yì qǐ xué zhōng wén\n欢迎你和我一起学中文"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "wǒ zhù zài nǎ lǐ ne\n我住在哪里呢"
+    } ]
+  }, {
+    "tStartMs": 43566,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "wǒ zhù zài tiān jīn\n我住在天津"
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "tiān jīn shì yí gè chéng shì\n天津是一个城市"
+    } ]
+  }, {
+    "tStartMs": 50566,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "hěn dà de chéng shì\n很大的城市"
+    } ]
+  }, {
+    "tStartMs": 53166,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "tiān jīn zài zhōng guó de běi fāng\n天津在中国的北方"
+    } ]
+  }, {
+    "tStartMs": 58133,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "lí běi jīng hěn jìn\n离北京很近"
+    } ]
+  }, {
+    "tStartMs": 62533,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "nà tiān jīn shì hěn dà hěn dà de chéng shì ma\n那天津是很大很大的城市吗"
+    } ]
+  }, {
+    "tStartMs": 67900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "zài zhōng guó\n在中国"
+    } ]
+  }, {
+    "tStartMs": 69266,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "wǒ men shuō zhōng guó yǒu sì gè zuì dà de chéng shì\n我们说中国有四个最大的城市"
+    } ]
+  }, {
+    "tStartMs": 76166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "wǒ men jiào yí xiàn chéng shì\n我们叫一线城市"
+    } ]
+  }, {
+    "tStartMs": 79466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "jiù shì zuì dà de chéng shì\n就是最大的城市"
+    } ]
+  }, {
+    "tStartMs": 82866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "tā men de rén kǒu hěn duō\n它们的人口很多"
+    } ]
+  }, {
+    "tStartMs": 86666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "yǒu hěn duō rén\n有很多人"
+    } ]
+  }, {
+    "tStartMs": 88500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "chéng shì hěn dà\n城市很大"
+    } ]
+  }, {
+    "tStartMs": 91933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "chéng shì de jīng jì hěn hǎo\n城市的经济很好"
+    } ]
+  }, {
+    "tStartMs": 95866,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "chéng shì lǐ yǒu hěn duō hěn duō gōng zuò\n城市里有很多很多工作"
+    } ]
+  }, {
+    "tStartMs": 99766,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "zhè yàng de chéng shì wǒ men jiào yí xiàn chéng shì\n这样的城市我们叫一线城市"
+    } ]
+  }, {
+    "tStartMs": 105533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "zhōng guó de yí xiàn chéng shì yǒu\n中国的一线城市有"
+    } ]
+  }, {
+    "tStartMs": 109400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "běi shàng guǎng shēn\n北上广深"
+    } ]
+  }, {
+    "tStartMs": 112766,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "jiù shì běi jīng 、 shàng hǎi 、 guǎng zhōu 、 shēn zhèn\n就是北京、上海、广州、深圳"
+    } ]
+  }, {
+    "tStartMs": 118966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "tiān jīn bú shì yí xiàn chéng shì\n天津不是一线城市"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "dàn shì tiān jīn yě shì hěn dà de chéng shì\n但是天津也是很大的城市"
+    } ]
+  }, {
+    "tStartMs": 128733,
+    "dDurationMs": 9033,
+    "segs": [ {
+      "utf8": "bǐ rú tiān jīn de rén kǒu yǒu 1 3 0 0 wàn zuǒ yòu\n比如天津的人口有1300万左右"
+    } ]
+  }, {
+    "tStartMs": 138133,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "1 , 3 0 0 wàn   nà běi jīng ne\n1,300万 那北京呢"
+    } ]
+  }, {
+    "tStartMs": 143500,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "běi jīng de rén kǒu yǒu duō shǎo\n北京的人口有多少"
+    } ]
+  }, {
+    "tStartMs": 147266,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "běi jīng chà bù duō yǒu 2 0 0 0 wàn rén\n北京差不多有2000万人"
+    } ]
+  }, {
+    "tStartMs": 151866,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "běi jīng de rén kǒu shì 2 0 0 0 wàn zuǒ yòu\n北京的人口是2000万左右"
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 7066,
+    "segs": [ {
+      "utf8": "nà nǐ zhù zài nǐ xiàn zài de chéng shì duō jiǔ le\n那你住在你现在的城市多久了"
+    } ]
+  }, {
+    "tStartMs": 165900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "hěn cháng shí jiān le ma\n很长时间了吗"
+    } ]
+  }, {
+    "tStartMs": 169300,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "wǒ ne wǒ shì cóng . . .\n我呢我是从..."
+    } ]
+  }, {
+    "tStartMs": 175733,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "wǒ shì yǐ qián wǒ zài tiān jīn shàng dà xué\n我是以前我在天津上大学"
+    } ]
+  }, {
+    "tStartMs": 180966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "yǐ qián wǒ zài tiān jīn shàng xué\n以前我在天津上学"
+    } ]
+  }, {
+    "tStartMs": 184166,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "rán hòu wǒ de lǎo gōng\n然后我的老公"
+    } ]
+  }, {
+    "tStartMs": 187100,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "wǒ de lǎo gōng xiàn zài zài tiān jīn gōng zuò\n我的老公现在在天津工作"
+    } ]
+  }, {
+    "tStartMs": 191666,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ zài tiān jīn zhù le hěn duō nián le\n所以我在天津住了很多年了"
+    } ]
+  }, {
+    "tStartMs": 198100,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "dàn shì wǒ bú shì tiān jīn rén\n但是我不是天津人"
+    } ]
+  }, {
+    "tStartMs": 203600,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "wǒ bú shì zài tiān jīn chū shēng de\n我不是在天津出生的"
+    } ]
+  }, {
+    "tStartMs": 208100,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "wǒ shì zài lìng wài yí gè dì fāng chū shēng de\n我是在另外一个地方出生的"
+    } ]
+  }, {
+    "tStartMs": 212100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bú shì tiān jīn rén\n所以我不是天津人"
+    } ]
+  }, {
+    "tStartMs": 215666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "wǒ bú shì tiān jīn běn dì rén\n我不是天津本地人"
+    } ]
+  }, {
+    "tStartMs": 219600,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "tiān jīn shì shén me yàng de\n天津是什么样的"
+    } ]
+  }, {
+    "tStartMs": 222633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "tiān jīn hǎo wán ma\n天津好玩吗"
+    } ]
+  }, {
+    "tStartMs": 225800,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "tiān jīn de shì zhōng xīn\n天津的市中心"
+    } ]
+  }, {
+    "tStartMs": 228533,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "zài tiān jīn de chéng shì de zhōng xīn\n在天津的城市的中心"
+    } ]
+  }, {
+    "tStartMs": 232966,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "yǒu yì tiáo hé\n有一条河"
+    } ]
+  }, {
+    "tStartMs": 235133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "yǒu yì tiáo hé\n有一条河"
+    } ]
+  }, {
+    "tStartMs": 237033,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "nà ge hé jiào hǎi hé\n那个河叫海河"
+    } ]
+  }, {
+    "tStartMs": 240533,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "zài hǎi hé de shàng miàn yǒu hěn duō qiáo\n在海河的上面有很多桥"
+    } ]
+  }, {
+    "tStartMs": 246166,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn de qiáo hěn yǒu míng\n所以天津的桥很有名"
+    } ]
+  }, {
+    "tStartMs": 250633,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn de jiàn zhù\n然后天津的建筑"
+    } ]
+  }, {
+    "tStartMs": 254533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "yě hěn yǒu yì sī\n也很有意思"
+    } ]
+  }, {
+    "tStartMs": 257166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "zài tiān jīn de shì zhōng xīn\n在天津的市中心"
+    } ]
+  }, {
+    "tStartMs": 260333,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "yǒu liǎng gè dì fāng\n有两个地方"
+    } ]
+  }, {
+    "tStartMs": 263033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yí gè dì fāng jiào wǔ dà dào\n一个地方叫五大道"
+    } ]
+  }, {
+    "tStartMs": 267433,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "lìng wài yí gè dì fāng jiào yì shì fēng qíng qū\n另外一个地方叫意式风情区"
+    } ]
+  }, {
+    "tStartMs": 273466,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "nà lǐ yǒu hěn duō yǒu yì sī de jiàn zhù\n那里有很多有意思的建筑"
+    } ]
+  }, {
+    "tStartMs": 278800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "nà lǐ de jiàn zhù\n那里的建筑"
+    } ]
+  }, {
+    "tStartMs": 281666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "bú shì zhōng guó de fēng gé\n不是中国的风格"
+    } ]
+  }, {
+    "tStartMs": 285266,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "yǒu diǎn xiàng wài guó de jiàn zhù\n有点像外国的建筑"
+    } ]
+  }, {
+    "tStartMs": 289400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhōng guó rén hěn xǐ huan\n所以中国人很喜欢"
+    } ]
+  }, {
+    "tStartMs": 292933,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "nà lǐ yǒu hěn duō jiǔ bā 、 fàn diàn\n那里有很多酒吧、饭店"
+    } ]
+  }, {
+    "tStartMs": 297066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "wǎn shàng de shí hòu hěn hǎo kàn\n晚上的时候很好看"
+    } ]
+  }, {
+    "tStartMs": 301066,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu hěn duō rén wǎn shàng qù nà lǐ chī fàn\n所以有很多人晚上去那里吃饭"
+    } ]
+  }, {
+    "tStartMs": 306833,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "huò zhě qù hǎi hé de biān shàng sàn bù\n或者去海河的边上散步"
+    } ]
+  }, {
+    "tStartMs": 312033,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "yīn wèi hǎi hé hé zhè liǎng gè dì fāng hěn jìn\n因为海河和这两个地方很近"
+    } ]
+  }, {
+    "tStartMs": 320466,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn yǒu shén me měi shí\n然后天津有什么美食"
+    } ]
+  }, {
+    "tStartMs": 324733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu shén me hǎo chī de\n天津有什么好吃的"
+    } ]
+  }, {
+    "tStartMs": 329066,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "tiān jīn de xiǎo chī hěn yǒu míng\n天津的小吃很有名"
+    } ]
+  }, {
+    "tStartMs": 334966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu jiān bǐng guǒ zǐ\n天津有煎饼果子"
+    } ]
+  }, {
+    "tStartMs": 339333,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "jiān bǐng guǒ zǐ yì bān wǒ men zǎo shàng chī   shì zǎo fàn\n煎饼果子一般我们早上吃 是早饭"
+    } ]
+  }, {
+    "tStartMs": 345233,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu dòu fu nǎo\n天津还有豆腐脑"
+    } ]
+  }, {
+    "tStartMs": 348966,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "shì dòu fu\n是豆腐"
+    } ]
+  }, {
+    "tStartMs": 350800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "dòu fu nǎo\n豆腐脑"
+    } ]
+  }, {
+    "tStartMs": 352866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu\n早上的时候"
+    } ]
+  }, {
+    "tStartMs": 354333,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "tiān jīn rén hěn xǐ huan chī dòu fu nǎo hé yóu tiáo\n天津人很喜欢吃豆腐脑和油条"
+    } ]
+  }, {
+    "tStartMs": 359733,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "dòu fu nǎo hé yóu tiáo hěn dā pèi\n豆腐脑和油条很搭配"
+    } ]
+  }, {
+    "tStartMs": 365166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn hái yǒu bāo zǐ\n然后天津还有包子"
+    } ]
+  }, {
+    "tStartMs": 367966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "tiān jīn de bāo zǐ yě hěn yǒu míng\n天津的包子也很有名"
+    } ]
+  }, {
+    "tStartMs": 371833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ hěn xǐ huan tiān jīn de bāo zǐ\n我很喜欢天津的包子"
+    } ]
+  }, {
+    "tStartMs": 376166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu má huā\n天津还有麻花"
+    } ]
+  }, {
+    "tStartMs": 379566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "tiān jīn de má huā yě hěn yǒu míng\n天津的麻花也很有名"
+    } ]
+  }, {
+    "tStartMs": 384266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hǎo chī ma\n好吃吗"
+    } ]
+  }, {
+    "tStartMs": 386000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ jué de nǐ kě yǐ cháng yi cháng\n我觉得你可以尝一尝"
+    } ]
+  }, {
+    "tStartMs": 390066,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de yǒu diǎn bú tài jiàn kāng\n但是我觉得有点不太健康"
+    } ]
+  }, {
+    "tStartMs": 394400,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "yīn wèi yǒu hěn duō yóu\n因为有很多油"
+    } ]
+  }, {
+    "tStartMs": 396733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "suǒ yǐ kě yǐ cháng yi cháng\n所以可以尝一尝"
+    } ]
+  }, {
+    "tStartMs": 398633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hěn xiāng\n很香"
+    } ]
+  }, {
+    "tStartMs": 401200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu shén me hǎo wán de\n天津还有什么好玩的"
+    } ]
+  }, {
+    "tStartMs": 404800,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "duì   tiān jīn huà hěn yǒu yì sī\n对 天津话很有意思"
+    } ]
+  }, {
+    "tStartMs": 409566,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "tiān jīn huà jiù shì tiān jīn rén shuō de huà\n天津话就是天津人说的话"
+    } ]
+  }, {
+    "tStartMs": 414833,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "tā men bù shuō pǔ tōng huà\n他们不说普通话"
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "yīn wèi zài zhōng guó\n因为在中国"
+    } ]
+  }, {
+    "tStartMs": 420333,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "hěn duō dì fāng dōu yǒu zì jǐ de fāng yán\n很多地方都有自己的方言"
+    } ]
+  }, {
+    "tStartMs": 426233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "zhè lǐ de rén\n这里的人"
+    } ]
+  }, {
+    "tStartMs": 427633,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "tiān jīn de rén shuō tiān jīn huà\n天津的人说天津话"
+    } ]
+  }, {
+    "tStartMs": 431666,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "shì tiān jīn de fāng yán\n是天津的方言"
+    } ]
+  }, {
+    "tStartMs": 434533,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "tā men de fāng yán hěn yǒu yì sī\n他们的方言很有意思"
+    } ]
+  }, {
+    "tStartMs": 439133,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "zhè lǐ de rén huì bǎ hěn duō rén jiào \" jiě jie \"\n这里的人会把很多人叫\"姐姐\""
+    } ]
+  }, {
+    "tStartMs": 444533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "huì bǎ hěn duō nǚ shēng jiào jiě jie\n会把很多女生叫姐姐"
+    } ]
+  }, {
+    "tStartMs": 448933,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "nián qīng de nǚ shēng   tā men huì jiào jiě jie\n年轻的女生 他们会叫姐姐"
+    } ]
+  }, {
+    "tStartMs": 453566,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "lǎo de   lǎo tài tài tā men yě huì jiào jiě jie\n老的 老太太他们也会叫姐姐"
+    } ]
+  }, {
+    "tStartMs": 460166,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "bǐ rú   wǒ yì kāi shǐ lái tiān jīn de shí hòu\n比如 我一开始来天津的时候"
+    } ]
+  }, {
+    "tStartMs": 465933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zài lù shang yǒu yí gè\n在路上有一个"
+    } ]
+  }, {
+    "tStartMs": 468966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yǒu yí gè lǎo rén\n有一个老人"
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǒu yí gè lǎo tóu er\n有一个老头儿"
+    } ]
+  }, {
+    "tStartMs": 473966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "tā chà bù duō wǒ jué de 6 0 duō suì\n他差不多我觉得60多岁"
+    } ]
+  }, {
+    "tStartMs": 478466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "rán hòu\n然后"
+    } ]
+  }, {
+    "tStartMs": 480166,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "tā zài lù shang jiào wǒ\n他在路上叫我"
+    } ]
+  }, {
+    "tStartMs": 482600,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "“ āi   jiě jie   jiě jie ”\n“哎 姐姐 姐姐”"
+    } ]
+  }, {
+    "tStartMs": 484633,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "dāng shí wǒ hěn chī jīng\n当时我很吃惊"
+    } ]
+  }, {
+    "tStartMs": 487800,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ jué de\n因为我觉得"
+    } ]
+  }, {
+    "tStartMs": 489633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "wǒ bǐ tā nián qīng\n我比他年轻"
+    } ]
+  }, {
+    "tStartMs": 492133,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "wèi shén me jiào wǒ jiě jie\n为什么叫我姐姐"
+    } ]
+  }, {
+    "tStartMs": 494733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "duì ba\n对吧"
+    } ]
+  }, {
+    "tStartMs": 495933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "zhè shì tiān jīn de tè sè\n这是天津的特色"
+    } ]
+  }, {
+    "tStartMs": 499066,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "nà rú guǒ zài tiān jīn jū zhù ne\n那如果在天津居住呢"
+    } ]
+  }, {
+    "tStartMs": 502933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn zěn me yàng\n住在天津怎么样"
+    } ]
+  }, {
+    "tStartMs": 506333,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn yǒu shén me yōu diǎn\n住在天津有什么优点"
+    } ]
+  }, {
+    "tStartMs": 510866,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǒu shén me quē diǎn\n有什么缺点"
+    } ]
+  }, {
+    "tStartMs": 514600,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ ne   wǒ bú zhù zài shì zhōng xīn\n我呢 我不住在市中心"
+    } ]
+  }, {
+    "tStartMs": 519700,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "wǒ zhù zài jiāo qū\n我住在郊区"
+    } ]
+  }, {
+    "tStartMs": 523100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "lí shì zhōng xīn hěn yuǎn\n离市中心很远"
+    } ]
+  }, {
+    "tStartMs": 527200,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "cóng wǒ jiā dào shì zhōng xīn\n从我家到市中心"
+    } ]
+  }, {
+    "tStartMs": 532233,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ yào xiān kāi chē   bàn gè xiǎo shí\n我要先开车 半个小时"
+    } ]
+  }, {
+    "tStartMs": 537400,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "rán hòu zài zuò dì tiě   bàn gè xiǎo shí\n然后再坐地铁 半个小时"
+    } ]
+  }, {
+    "tStartMs": 542200,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "wǒ cái néng dào shì zhōng xīn\n我才能到市中心"
+    } ]
+  }, {
+    "tStartMs": 545100,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "suǒ yǐ cóng wǒ jiā dào shì zhōng xīn yào yí gè xiǎo shí\n所以从我家到市中心要一个小时"
+    } ]
+  }, {
+    "tStartMs": 552200,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "wǒ zhù zài jiāo qū\n我住在郊区"
+    } ]
+  }, {
+    "tStartMs": 555266,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ zhù de dì fāng hái xíng\n我觉得我住的地方还行"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ bú zhù zài shì zhōng xīn\n因为我不住在市中心"
+    } ]
+  }, {
+    "tStartMs": 564500,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhè lǐ méi yǒu hěn duō rén\n所以这里没有很多人"
+    } ]
+  }, {
+    "tStartMs": 568466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "méi yǒu hěn duō zào yīn\n没有很多噪音"
+    } ]
+  }, {
+    "tStartMs": 571866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "bù chǎo\n不吵"
+    } ]
+  }, {
+    "tStartMs": 573500,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "rán hòu zhè lǐ yǒu yí gè hěn dà de gōng yuán\n然后这里有一个很大的公园"
+    } ]
+  }, {
+    "tStartMs": 579066,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yǒu yí gè hěn dà de hú\n有一个很大的湖"
+    } ]
+  }, {
+    "tStartMs": 581866,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de hái kě yǐ\n所以我觉得还可以"
+    } ]
+  }, {
+    "tStartMs": 584833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yǒu dà zì rán\n有大自然"
+    } ]
+  }, {
+    "tStartMs": 587133,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ yùn dòng\n我可以运动"
+    } ]
+  }, {
+    "tStartMs": 589300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ qí chē\n我可以骑车"
+    } ]
+  }, {
+    "tStartMs": 591466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ pǎo bù\n我可以跑步"
+    } ]
+  }, {
+    "tStartMs": 593633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de hái kě yǐ\n所以我觉得还可以"
+    } ]
+  }, {
+    "tStartMs": 597200,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "rán hòu wǒ zhù de dì fāng de páng biān\n然后我住的地方的旁边"
+    } ]
+  }, {
+    "tStartMs": 601400,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "yǒu yí gè hěn dà de cài shì chǎng\n有一个很大的菜市场"
+    } ]
+  }, {
+    "tStartMs": 605833,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "wǒ měi zhōu kě yǐ qù zhè ge cài shì chǎng mǎi cài 、 mǎi shuǐ guǒ\n我每周可以去这个菜市场买菜、买水果"
+    } ]
+  }, {
+    "tStartMs": 613133,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "nà lǐ de cài hé shuǐ guǒ hěn xīn xiān\n那里的菜和水果很新鲜"
+    } ]
+  }, {
+    "tStartMs": 617466,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu zhè ge cài shì chǎng   wǒ jué de hěn xìng fú\n所以有这个菜市场 我觉得很幸福"
+    } ]
+  }, {
+    "tStartMs": 624300,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "rán hòu zhù zài tiān jīn\n然后住在天津"
+    } ]
+  }, {
+    "tStartMs": 627466,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "huò zhě zhù zài tiān jīn de jiāo qū\n或者住在天津的郊区"
+    } ]
+  }, {
+    "tStartMs": 632266,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "yǒu yí gè yōu diǎn shì   zhè lǐ de fáng zi bú guì\n有一个优点是 这里的房子不贵"
+    } ]
+  }, {
+    "tStartMs": 637633,
+    "dDurationMs": 6733,
+    "segs": [ {
+      "utf8": "zhè lǐ de fáng zi bǐ qí tā de chéng shì lǐ de fáng zi\n这里的房子比其他的城市里的房子"
+    } ]
+  }, {
+    "tStartMs": 644533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "pián yi pián yi hěn duō\n便宜便宜很多"
+    } ]
+  }, {
+    "tStartMs": 649500,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "rán hòu zài tiān jīn\n然后在天津"
+    } ]
+  }, {
+    "tStartMs": 653333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "tiān jīn de jié zòu hěn màn\n天津的节奏很慢"
+    } ]
+  }, {
+    "tStartMs": 657400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "tiān jīn de rén bù zháo jí\n天津的人不着急"
+    } ]
+  }, {
+    "tStartMs": 660533,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "tā men ǹg màn màn dì chī\n他们嗯慢慢地吃"
+    } ]
+  }, {
+    "tStartMs": 663633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "màn màn dì hē\n慢慢地喝"
+    } ]
+  }, {
+    "tStartMs": 665300,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "tiān jīn de rén méi yǒu nà me zháo jí\n天津的人没有那么着急"
+    } ]
+  }, {
+    "tStartMs": 669900,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "tiān jīn de shēng huó jié zòu màn yì diǎn\n天津的生活节奏慢一点"
+    } ]
+  }, {
+    "tStartMs": 675100,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhè ge wǒ hěn xǐ huan\n所以这个我很喜欢"
+    } ]
+  }, {
+    "tStartMs": 679800,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "rán hòu zhù zài tiān jīn de jiāo qū yǒu shén me quē diǎn\n然后住在天津的郊区有什么缺点"
+    } ]
+  }, {
+    "tStartMs": 685900,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn yǒu shén me quē diǎn\n住在天津有什么缺点"
+    } ]
+  }, {
+    "tStartMs": 690066,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "yǒu shén me bù hǎo de dì fāng\n有什么不好的地方"
+    } ]
+  }, {
+    "tStartMs": 694333,
+    "dDurationMs": 6666,
+    "segs": [ {
+      "utf8": "dì yī wǒ jué de shì tiān jīn zhè lǐ\n第一我觉得是天津这里"
+    } ]
+  }, {
+    "tStartMs": 701033,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "tiān jīn de páng biān\n天津的旁边"
+    } ]
+  }, {
+    "tStartMs": 704633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "wǒ de shǒu jī xiǎng le bù hǎo yì si\n我的手机响了不好意思"
+    } ]
+  }, {
+    "tStartMs": 711433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "bǎ shǒu jī guān diào\n把手机关掉"
+    } ]
+  }, {
+    "tStartMs": 714666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "tiān jīn de páng biān méi yǒu shān\n天津的旁边没有山"
+    } ]
+  }, {
+    "tStartMs": 718100,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ tè bié xǐ huan shān\n因为我特别喜欢山"
+    } ]
+  }, {
+    "tStartMs": 721800,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn méi yǒu shān\n所以天津没有山"
+    } ]
+  }, {
+    "tStartMs": 725133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "wǒ bú shì tè bié xǐ huan\n我不是特别喜欢"
+    } ]
+  }, {
+    "tStartMs": 728233,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn yǒu hǎi ma\n然后天津有海吗"
+    } ]
+  }, {
+    "tStartMs": 731600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "tiān jīn lí hǎi hěn jìn\n天津离海很近"
+    } ]
+  }, {
+    "tStartMs": 734266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu hǎi\n天津有海"
+    } ]
+  }, {
+    "tStartMs": 735933,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "dàn hǎi biān bù piào liang\n但海边不漂亮"
+    } ]
+  }, {
+    "tStartMs": 739700,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "méi yǒu shā tān\n没有沙滩"
+    } ]
+  }, {
+    "tStartMs": 743266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ jué de\n我觉得"
+    } ]
+  }, {
+    "tStartMs": 745466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "bú shì hěn hǎo\n不是很好"
+    } ]
+  }, {
+    "tStartMs": 746633,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "tiān jīn shì yí gè mǎ tóu\n天津是一个码头"
+    } ]
+  }, {
+    "tStartMs": 749700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yǒu hěn duō chuán lái tiān jīn\n有很多船来天津"
+    } ]
+  }, {
+    "tStartMs": 752333,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn de hǎi biān bú shì hěn hǎo\n所以天津的海边不是很好"
+    } ]
+  }, {
+    "tStartMs": 757466,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn de qì hòu zěn me yàng ne\n然后天津的气候怎么样呢"
+    } ]
+  }, {
+    "tStartMs": 761633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "tiān jīn de qì hòu\n天津的气候"
+    } ]
+  }, {
+    "tStartMs": 764233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ shì běi fāng rén\n因为我是北方人"
+    } ]
+  }, {
+    "tStartMs": 766733,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "wǒ chū shēng zài běi fāng\n我出生在北方"
+    } ]
+  }, {
+    "tStartMs": 769233,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hěn xí guàn zài tiān jīn\n所以我很习惯在天津"
+    } ]
+  }, {
+    "tStartMs": 773833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yì nián yǒu sì gè jì jié\n一年有四个季节"
+    } ]
+  }, {
+    "tStartMs": 777633,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "chūn tiān 、 xià tiān 、 qiū tiān 、 dōng tiān\n春天、夏天、秋天、冬天"
+    } ]
+  }, {
+    "tStartMs": 782266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "xià tiān de shí hòu hěn rè\n夏天的时候很热"
+    } ]
+  }, {
+    "tStartMs": 785133,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "xià tiān de shí hòu kě yǐ dào 3 5 dù huò zhě 4 0 dù\n夏天的时候可以到35度或者40度"
+    } ]
+  }, {
+    "tStartMs": 790733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "hěn rè\n很热"
+    } ]
+  }, {
+    "tStartMs": 792266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "dōng tiān de shí hòu hěn lěng\n冬天的时候很冷"
+    } ]
+  }, {
+    "tStartMs": 794866,
+    "dDurationMs": 6367,
+    "segs": [ {
+      "utf8": "dōng tiān de shí hòu huì dào líng xià 5 dù líng xià 1 0 dù\n冬天的时候会到零下5度零下10度"
+    } ]
+  }, {
+    "tStartMs": 801600,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu dōng tiān de shí hòu huì xià xuě\n有的时候冬天的时候会下雪"
+    } ]
+  }, {
+    "tStartMs": 805666,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài xià xuě hěn shǎo\n但是现在下雪很少"
+    } ]
+  }, {
+    "tStartMs": 810633,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "kě néng měi nián xià yí cì\n可能每年下一次"
+    } ]
+  }, {
+    "tStartMs": 813700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "huò zhě zuì duō liǎng cì\n或者最多两次"
+    } ]
+  }, {
+    "tStartMs": 818200,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "zhè shì tiān jīn de yōu diǎn hé quē diǎn\n这是天津的优点和缺点"
+    } ]
+  }, {
+    "tStartMs": 824066,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "nà yǐ hòu wǒ yào yì zhí zhù zài tiān jīn ma\n那以后我要一直住在天津吗"
+    } ]
+  }, {
+    "tStartMs": 830466,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "wǒ xiǎng zhù zài shén me yàng de dì fāng\n我想住在什么样的地方"
+    } ]
+  }, {
+    "tStartMs": 834900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "wǒ jué de\n我觉得"
+    } ]
+  }, {
+    "tStartMs": 836700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "wǒ bù xiǎng yì zhí zhù zài tiān jīn\n我不想一直住在天津"
+    } ]
+  }, {
+    "tStartMs": 840266,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "yīn wèi nǐ men zhī dào wǒ bù xǐ huan chéng shì\n因为你们知道我不喜欢城市"
+    } ]
+  }, {
+    "tStartMs": 844800,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "wǒ gèng xǐ huan dà zì rán\n我更喜欢大自然"
+    } ]
+  }, {
+    "tStartMs": 848033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ xiǎng zhù zài\n所以我想住在"
+    } ]
+  }, {
+    "tStartMs": 852400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "kě néng yǒu shān de dì fāng\n可能有山的地方"
+    } ]
+  }, {
+    "tStartMs": 855000,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "huò zhě yǒu hǎi de dì fāng\n或者有海的地方"
+    } ]
+  }, {
+    "tStartMs": 857700,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "wǒ xiǎng zhù zài yí gè yǒu shān huò zhě yǒu hǎi\n我想住在一个有山或者有海"
+    } ]
+  }, {
+    "tStartMs": 862633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "yǒu dà zì rán de dì fāng\n有大自然的地方"
+    } ]
+  }, {
+    "tStartMs": 865933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "kě yǐ shì chéng shì\n可以是城市"
+    } ]
+  }, {
+    "tStartMs": 869100,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "dàn shì yào shi yí gè hěn xiǎo de chéng shì\n但是要是一个很小的城市"
+    } ]
+  }, {
+    "tStartMs": 874466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "méi yǒu nà me duō rén\n没有那么多人"
+    } ]
+  }, {
+    "tStartMs": 876666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "méi yǒu nà me duō chē\n没有那么多车"
+    } ]
+  }, {
+    "tStartMs": 879466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "kě yǐ\n可以"
+    } ]
+  }, {
+    "tStartMs": 880266,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "huò zhě wǒ yě kě yǐ zhù zài xiāng xià\n或者我也可以住在乡下"
+    } ]
+  }, {
+    "tStartMs": 884466,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "zhù zài nóng cūn\n住在农村"
+    } ]
+  }, {
+    "tStartMs": 886466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "wǒ yě hěn xǐ huan\n我也很喜欢"
+    } ]
+  }, {
+    "tStartMs": 888333,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "hǎo   xiàn zài nǐ zhī dào\n好 现在你知道"
+    } ]
+  }, {
+    "tStartMs": 890666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "wǒ zhù de dì fāng shì shén me yàng de le\n我住的地方是什么样的了"
+    } ]
+  }, {
+    "tStartMs": 894666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nà nǐ zhù de dì fāng ne\n那你住的地方呢"
+    } ]
+  }, {
+    "tStartMs": 897133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nǐ zhù zài nǎ lǐ\n你住在哪里"
+    } ]
+  }, {
+    "tStartMs": 899133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "nǐ zhù de dì fāng hǎo wán ma\n你住的地方好玩吗"
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "nǐ zhù de dì fāng yǒu shén me yōu diǎn\n你住的地方有什么优点"
+    } ]
+  }, {
+    "tStartMs": 905933,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yǒu shén me quē diǎn\n有什么缺点"
+    } ]
+  }, {
+    "tStartMs": 908366,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "nǐ xiǎng yì zhí zhù zài zhè ge dì fāng ma\n你想一直住在这个地方吗"
+    } ]
+  }, {
+    "tStartMs": 913200,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "huān yíng nǐ zài píng lùn qū lǐ gào sù wǒ\n欢迎你在评论区里告诉我"
+    } ]
+  }, {
+    "tStartMs": 918066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "xiè xiè dà jiā guān kàn jīn tiān de shì pín\n谢谢大家观看今天的视频"
+    } ]
+  }, {
+    "tStartMs": 921333,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "wǒ men jīn tiān jiù dào zhè lǐ\n我们今天就到这里"
+    } ]
+  }, {
+    "tStartMs": 923600,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "xià gè shì pín zài jiàn   bài bài\n下个视频再见 拜拜"
+    } ]
+  } ]
+}

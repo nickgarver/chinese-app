@@ -1,0 +1,1051 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1500,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "dà jiā hǎo ， xiàn zài shì zǎo shàng 7 : 5 0\n大 家  好  ， 现   在  是  早  上    7 : 5 0"
+    } ]
+  }, {
+    "tStartMs": 6800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "bú dào 8 diǎn\n不 到  8 点  "
+    } ]
+  }, {
+    "tStartMs": 8366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "wǒ gāng gāng shàng wán yì jié kè\n我 刚   刚   上    完  一 节  课"
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "wǒ de dì yī jié zhōng wén kè tōng cháng huì zài zǎo shàng 7 diǎn\n我 的 第 一 节  中    文  课 通   常    会  在  早  上    7 点  "
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì tí qián 3 0 fēn zhōng qǐ chuáng 、 xǐ shù\n所  以 我 会  提 前   3 0 分  钟    起 床     、 洗 漱 "
+    } ]
+  }, {
+    "tStartMs": 22600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "zhǔn bèi shàng kè\n准   备  上    课"
+    } ]
+  }, {
+    "tStartMs": 24766,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "xiàn zài ne ， wǒ xiǎng lái zhǔn bèi wǒ de zǎo cān\n现   在  呢 ， 我 想    来  准   备  我 的 早  餐 "
+    } ]
+  }, {
+    "tStartMs": 29766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "dà jiā kàn zhè ge xiǎo māo pán zi\n大 家  看  这  个 小   猫  盘  子"
+    } ]
+  }, {
+    "tStartMs": 33400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "zhè shì wǒ qīn shǒu zuò de\n这  是  我 亲  手   做  的"
+    } ]
+  }, {
+    "tStartMs": 36133,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "wǒ zì jǐ zuò de yí gè xiǎo pán zi\n我 自 己 做  的 一 个 小   盘  子"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "suī rán wǒ huà huà bù zěn me yàng\n虽  然  我 画  画  不 怎  么 样  "
+    } ]
+  }, {
+    "tStartMs": 43066,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "dàn shì wǒ hěn xǐ huan zì jǐ zuò dōng xī ， zì jǐ D I Y\n但  是  我 很  喜 欢   自 己 做  东   西 ， 自 己 D I Y"
+    } ]
+  }, {
+    "tStartMs": 48833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ jué de zhè shì dú yī wú èr de\n因  为  我 觉  得 这  是  独 一 无 二 的"
+    } ]
+  }, {
+    "tStartMs": 52366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "fēi cháng tè bié\n非  常    特 别 "
+    } ]
+  }, {
+    "tStartMs": 54533,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ yào yòng wǒ de xiǎo zhù shǒu — diàn fàn guō\n今  天   我 要  用   我 的 小   助  手   — 电   饭  锅 "
+    } ]
+  }, {
+    "tStartMs": 59066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "lái bāng wǒ zuò zǎo cān\n来  帮   我 做  早  餐 "
+    } ]
+  }, {
+    "tStartMs": 65733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "liǎng gè xiǎo mán tou\n两    个 小   馒  头 "
+    } ]
+  }, {
+    "tStartMs": 67266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "yí gè jī dàn\n一 个 鸡 蛋 "
+    } ]
+  }, {
+    "tStartMs": 68266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "yì gēn xiāng cháng\n一 根  香    肠   "
+    } ]
+  }, {
+    "tStartMs": 70133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "jī xiōng ròu xiāng cháng\n鸡 胸    肉  香    肠   "
+    } ]
+  }, {
+    "tStartMs": 74266,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "fàng jìn qù ， lǐ miàn yǐ jīng yǒu shuǐ le\n放   进  去 ， 里 面   已 经   有  水   了"
+    } ]
+  }, {
+    "tStartMs": 80700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yí gè zhēng dōng xī de gōng néng\n这  里 有  一 个 蒸    东   西 的 功   能  "
+    } ]
+  }, {
+    "tStartMs": 85066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "3 0 fēn zhōng\n3 0 分  钟   "
+    } ]
+  }, {
+    "tStartMs": 87833,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "xiàn zài qiè gè niú yóu guǒ\n现   在  切  个 牛  油  果 "
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "zhè ge niú yóu guǒ mō qǐ lái yǐ jīng hěn ruǎn le\n这  个 牛  油  果  摸 起 来  已 经   很  软   了"
+    } ]
+  }, {
+    "tStartMs": 95466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "yǐ jīng shú tòu le\n已 经   熟  透  了"
+    } ]
+  }, {
+    "tStartMs": 98800,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "hǎo xiàng kuài yào làn le\n好  像    快   要  烂  了"
+    } ]
+  }, {
+    "tStartMs": 101033,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "suǒ yǐ ne ， yào jǐn kuài bǎ tā chī diào\n所  以 呢 ， 要  尽  快   把 它 吃  掉  "
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "qí shí wǒ yǐ qián bú tài xǐ huan chī niú yóu guǒ\n其 实  我 以 前   不 太  喜 欢   吃  牛  油  果 "
+    } ]
+  }, {
+    "tStartMs": 112300,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "dàn shì ne\n但  是  呢"
+    } ]
+  }, {
+    "tStartMs": 114066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "chī zhe chī zhe jiù ài shàng le\n吃  着  吃  着  就  爱 上    了"
+    } ]
+  }, {
+    "tStartMs": 117700,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "nǐ kàn xiàn zài hái kě yǐ\n你 看  现   在  还  可 以"
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "wǒ shēn biān de rén hǎo xiàng dōu bú tài xǐ huan chī niú yóu guǒ\n我 身   边   的 人  好  像    都  不 太  喜 欢   吃  牛  油  果 "
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "wǒ zhī dào niú yóu guǒ shì hěn yǒu yíng yǎng de\n我 知  道  牛  油  果  是  很  有  营   养   的"
+    } ]
+  }, {
+    "tStartMs": 131266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "shì yōu zhì de zhī fáng\n是  优  质  的 脂  肪  "
+    } ]
+  }, {
+    "tStartMs": 136133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "xiàn zài lái zuò yì bēi kā fēi\n现   在  来  做  一 杯  咖 啡 "
+    } ]
+  }, {
+    "tStartMs": 139566,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "qí shí wǒ zuò kā fēi de fāng fǎ fēi cháng jiǎn dān\n其 实  我 做  咖 啡  的 方   法 非  常    简   单 "
+    } ]
+  }, {
+    "tStartMs": 143600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "shí fēn jiǎn dān\n十  分  简   单 "
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "yì sháo dòng gān kā fēi\n一 勺   冻   干  咖 啡 "
+    } ]
+  }, {
+    "tStartMs": 147933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "jiā rù bīng shuǐ\n加  入 冰   水  "
+    } ]
+  }, {
+    "tStartMs": 153366,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "jiǎo bàn jiǎo bàn\n搅   拌  搅   拌 "
+    } ]
+  }, {
+    "tStartMs": 156466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "jīn tiān zuò de kā fēi bǐ jiào dàn\n今  天   做  的 咖 啡  比 较   淡 "
+    } ]
+  }, {
+    "tStartMs": 159566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "yán sè méi yǒu nà me shēn\n颜  色 没  有  那 么 深  "
+    } ]
+  }, {
+    "tStartMs": 163033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "dà jiā xǐ huan hē nóng yì diǎn de kā fēi\n大 家  喜 欢   喝 浓   一 点   的 咖 啡 "
+    } ]
+  }, {
+    "tStartMs": 165600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "hái shì dàn yì diǎn de kā fēi ne\n还  是  淡  一 点   的 咖 啡  呢"
+    } ]
+  }, {
+    "tStartMs": 169666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "jiù shì zhè me jiǎn dān\n就  是  这  么 简   单 "
+    } ]
+  }, {
+    "tStartMs": 171233,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "zhè jiù shì wǒ xǐ huan de kā fēi de wèi dào\n这  就  是  我 喜 欢   的 咖 啡  的 味  道 "
+    } ]
+  }, {
+    "tStartMs": 174266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "suī rán xiàn zài yǐ jīng shì 9 yuè le\n虽  然  现   在  已 经   是  9 月  了"
+    } ]
+  }, {
+    "tStartMs": 177300,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "dàn shì guǎng dōng de tiān qì hái shì hěn rè\n但  是  广    东   的 天   气 还  是  很  热"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "hěn yán rè\n很  炎  热"
+    } ]
+  }, {
+    "tStartMs": 184200,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "suǒ yǐ ne ， wǒ zhǐ hǎo bǎ wǒ de tóu fa bǎng qǐ lái\n所  以 呢 ， 我 只  好  把 我 的 头  发 绑   起 来 "
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "xiàn zài hái yào děng 2 0 fēn zhōng\n现   在  还  要  等   2 0 分  钟   "
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "zǎo cān cái huì zuò hǎo\n早  餐  才  会  做  好 "
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ huì lì yòng zhè ge shí jiān lái chǔ lǐ yí xià gōng zuò\n所  以 我 会  利 用   这  个 时  间   来  处  理 一 下  工   作 "
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "lái zuò yí xià gōng zuò\n来  做  一 下  工   作 "
+    } ]
+  }, {
+    "tStartMs": 201700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "jīn tiān wǎn shàng ne ， huì yǒu yí gè xīn shì pín\n今  天   晚  上    呢 ， 会  有  一 个 新  视  频 "
+    } ]
+  }, {
+    "tStartMs": 205600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "xī wàng dà jiā xǐ huan\n希 望   大 家  喜 欢  "
+    } ]
+  }, {
+    "tStartMs": 208133,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "rú guǒ dà jiā xiǎng huò dé gèng duō de xué xí zī liào\n如 果  大 家  想    获  得 更   多  的 学  习 资 料  "
+    } ]
+  }, {
+    "tStartMs": 211900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "kě yǐ jiā rù wǒ de huì yuán ò\n可 以 加  入 我 的 会  员   哦"
+    } ]
+  }, {
+    "tStartMs": 221866,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "xiàn zài chà bù duō 9 diǎn le\n现   在  差  不 多  9 点   了"
+    } ]
+  }, {
+    "tStartMs": 224833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "zǎo cān shí jiān\n早  餐  时  间  "
+    } ]
+  }, {
+    "tStartMs": 228466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "niú nǎi xiǎo mán tou\n牛  奶  小   馒  头 "
+    } ]
+  }, {
+    "tStartMs": 231966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "zhè ge mán tou suī rán yǒu diǎn xiǎo\n这  个 馒  头  虽  然  有  点   小  "
+    } ]
+  }, {
+    "tStartMs": 234366,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "dàn shì tā fēi cháng dì sōng ruǎn\n但  是  它 非  常    地 松   软  "
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "jī dàn 、 xiāng cháng 、 niú yóu guǒ 、 kā fēi\n鸡 蛋  、 香    肠    、 牛  油  果  、 咖 啡 "
+    } ]
+  }, {
+    "tStartMs": 246700,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "tàn shuǐ 、 dàn bái zhì 、 zhī fáng\n碳  水   、 蛋  白  质  、 脂  肪  "
+    } ]
+  }, {
+    "tStartMs": 252433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "quán bù yǒu le\n全   部 有  了"
+    } ]
+  }, {
+    "tStartMs": 254366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "wán měi de zǎo cān\n完  美  的 早  餐 "
+    } ]
+  }, {
+    "tStartMs": 257233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "niú nǎi xiǎo mán tou\n牛  奶  小   馒  头 "
+    } ]
+  }, {
+    "tStartMs": 259100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "yǒu hěn xiāng de niú nǎi wèi\n有  很  香    的 牛  奶  味 "
+    } ]
+  }, {
+    "tStartMs": 266066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "hěn sōng ruǎn\n很  松   软  "
+    } ]
+  }, {
+    "tStartMs": 267666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "wèi dào suī rán hěn jiǎn dān\n味  道  虽  然  很  简   单 "
+    } ]
+  }, {
+    "tStartMs": 269633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "dàn shì hěn hǎo chī\n但  是  很  好  吃 "
+    } ]
+  }, {
+    "tStartMs": 272033,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "zhè ge mán tou de niú nǎi wèi zhēn de fēi cháng nóng yù\n这  个 馒  头  的 牛  奶  味  真   的 非  常    浓   郁"
+    } ]
+  }, {
+    "tStartMs": 276833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ měi tiān ne ， dōu huì chī bù yí yàng de zǎo cān\n我 每  天   呢 ， 都  会  吃  不 一 样   的 早  餐 "
+    } ]
+  }, {
+    "tStartMs": 281400,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "yǒu shí hòu chī hún tun\n有  时  候  吃  馄  饨 "
+    } ]
+  }, {
+    "tStartMs": 283266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "yǒu shí hòu chī zhōu\n有  时  候  吃  粥  "
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "yǒu shí hòu chī cháng fěn\n有  时  候  吃  肠    粉 "
+    } ]
+  }, {
+    "tStartMs": 287700,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "yǒu shí hòu huì zuò nǎi xī\n有  时  候  会  做  奶  昔"
+    } ]
+  }, {
+    "tStartMs": 291866,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "yǒu shí hòu huì xiàng jīn tiān zhè yàng zuò mán tou 、 jī dàn\n有  时  候  会  像    今  天   这  样   做  馒  头  、 鸡 蛋 "
+    } ]
+  }, {
+    "tStartMs": 297100,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ jué de zǎo cān yīng gāi shì yào fēng fù\n我 觉  得 早  餐  应   该  是  要  丰   富"
+    } ]
+  }, {
+    "tStartMs": 300866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "hái yǒu bǐ jiào duō yàng de\n还  有  比 较   多  样   的"
+    } ]
+  }, {
+    "tStartMs": 303266,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "wǒ bù néng měi tiān dōu chī yí yàng de zǎo cān\n我 不 能   每  天   都  吃  一 样   的 早  餐 "
+    } ]
+  }, {
+    "tStartMs": 306800,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zhè yàng wǒ huì hěn róng yì chī nì\n这  样   我 会  很  容   易 吃  腻"
+    } ]
+  }, {
+    "tStartMs": 309733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "ér qiě wǒ yě jué de chī zǎo cān\n而 且  我 也 觉  得 吃  早  餐 "
+    } ]
+  }, {
+    "tStartMs": 312466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "yīng gāi shì yí gè xiǎng shòu de shí jiān\n应   该  是  一 个 享    受   的 时  间  "
+    } ]
+  }, {
+    "tStartMs": 315433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "yīn wèi shì yì tiān de kāi shǐ\n因  为  是  一 天   的 开  始 "
+    } ]
+  }, {
+    "tStartMs": 317866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "fēi cháng zhòng yào\n非  常    重    要 "
+    } ]
+  }, {
+    "tStartMs": 327733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yí gè xiǎo xiǎo de tíng chē chǎng\n这  里 有  一 个 小   小   的 停   车  场   "
+    } ]
+  }, {
+    "tStartMs": 331833,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "kě yǐ miǎn fèi tíng chē 3 gè xiǎo shí\n可 以 免   费  停   车  3 个 小   时 "
+    } ]
+  }, {
+    "tStartMs": 336366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu chōng diàn zhuāng\n这  里 有  充    电   桩    "
+    } ]
+  }, {
+    "tStartMs": 339066,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "bù jǐn yǒu diàn dòng mó tuō chē de chōng diàn zhuāng\n不 仅  有  电   动   摩 托  车  的 充    电   桩    "
+    } ]
+  }, {
+    "tStartMs": 343233,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "hái yǒu xiǎo qì chē de chōng diàn zhuāng\n还  有  小   汽 车  的 充    电   桩    "
+    } ]
+  }, {
+    "tStartMs": 347733,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "nà wǒ men yùn dòng de tóng shí jiù kě yǐ zài zhè lǐ chōng diàn\n那 我 们  运  动   的 同   时  就  可 以 在  这  里 充    电  "
+    } ]
+  }, {
+    "tStartMs": 368066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "zhè shì yí gè zōng hé de tǐ yù guǎn\n这  是  一 个 综   合 的 体 育 馆  "
+    } ]
+  }, {
+    "tStartMs": 371966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "yǒu hěn duō zhǒng yùn dòng\n有  很  多  种    运  动  "
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "hěn duō zhǒng chǎng dì\n很  多  种    场    地"
+    } ]
+  }, {
+    "tStartMs": 380700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "lán qiú chǎng dì\n篮  球  场    地"
+    } ]
+  }, {
+    "tStartMs": 388200,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "zhè biān shì yǔ máo qiú chǎng dì\n这  边   是  羽 毛  球  场    地"
+    } ]
+  }, {
+    "tStartMs": 396633,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "zhè ge qū yù ne ， jiù shì pǐ kè qiú de chǎng dì\n这  个 区 域 呢 ， 就  是  匹 克 球  的 场    地"
+    } ]
+  }, {
+    "tStartMs": 404566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "yòu shǒu biān\n右  手   边  "
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "zhè yě shì pǐ kè qiú de chǎng dì\n这  也 是  匹 克 球  的 场    地"
+    } ]
+  }, {
+    "tStartMs": 410833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "qián miàn zhè shì wǎng qiú chǎng dì\n前   面   这  是  网   球  场    地"
+    } ]
+  }, {
+    "tStartMs": 417533,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "wǒ jué de dǎ wǎng qiú de rén hǎo kù a\n我 觉  得 打 网   球  的 人  好  酷 啊"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "zuì hòu zhè lǐ hái yǒu yí gè jiàn shēn fáng\n最  后  这  里 还  有  一 个 健   身   房  "
+    } ]
+  }, {
+    "tStartMs": 432133,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "lǐ miàn hái yǒu yóu yǒng chí\n里 面   还  有  游  泳   池 "
+    } ]
+  }, {
+    "tStartMs": 435633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ shuō zhè shì yí gè zōng hé de tǐ yù guǎn\n所  以 我 说   这  是  一 个 综   合 的 体 育 馆  "
+    } ]
+  }, {
+    "tStartMs": 439566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "zài zhè lǐ kě yǐ zuò hěn duō zhǒng yùn dòng\n在  这  里 可 以 做  很  多  种    运  动  "
+    } ]
+  }, {
+    "tStartMs": 443900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "wǒ hěn xǐ huan zhè ge dì bǎn de yán sè\n我 很  喜 欢   这  个 地 板  的 颜  色"
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "zhè ge qiú chǎng de yán sè shì zǐ sè de\n这  个 球  场    的 颜  色 是  紫 色 的"
+    } ]
+  }, {
+    "tStartMs": 452333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "shì bu shì kàn zhe hěn yǒu huó lì\n是  不 是  看  着  很  有  活  力"
+    } ]
+  }, {
+    "tStartMs": 456366,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "pǐ kè qiú chǎng méi yǒu wǎng qiú chǎng nà me dà\n匹 克 球  场    没  有  网   球  场    那 么 大"
+    } ]
+  }, {
+    "tStartMs": 465600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "kě yǐ kāi kōng diào yùn dòng\n可 以 开  空   调   运  动  "
+    } ]
+  }, {
+    "tStartMs": 468566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "tài shuǎng le\n太  爽     了"
+    } ]
+  }, {
+    "tStartMs": 470033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "yùn dòng zhī qián xiān rè shēn\n运  动   之  前   先   热 身  "
+    } ]
+  }, {
+    "tStartMs": 474333,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "kàn wǒ dài le shén me guò lái\n看  我 带  了 什   么 过  来 "
+    } ]
+  }, {
+    "tStartMs": 478166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "zhè ge shì qiú pāi ， hái yǒu qiú\n这  个 是  球  拍  ， 还  有  球 "
+    } ]
+  }, {
+    "tStartMs": 481200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "zài zhè lǐ zū qiú pāi shì yào qián de\n在  这  里 租 球  拍  是  要  钱   的"
+    } ]
+  }, {
+    "tStartMs": 484733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "5 kuài qián yí gè xiǎo shí\n5 块   钱   一 个 小   时 "
+    } ]
+  }, {
+    "tStartMs": 486566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ gān cuì zì jǐ mǎi le yí duì qiú pāi\n所  以 我 干  脆  自 己 买  了 一 对  球  拍 "
+    } ]
+  }, {
+    "tStartMs": 494766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "hái yǒu wǒ zì jǐ pào de lǜ chá\n还  有  我 自 己 泡  的 绿 茶 "
+    } ]
+  }, {
+    "tStartMs": 497933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "lěng pào lǜ chá\n冷   泡  绿 茶 "
+    } ]
+  }, {
+    "tStartMs": 503833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "liǎng gēn xiāng jiāo\n两    根  香    蕉  "
+    } ]
+  }, {
+    "tStartMs": 505966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "è le shí hòu kě yǐ chī\n饿 了 时  候  可 以 吃 "
+    } ]
+  }, {
+    "tStartMs": 508933,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "hái yǒu yì tiáo cā hàn de máo jīn\n还  有  一 条   擦 汗  的 毛  巾 "
+    } ]
+  }, {
+    "tStartMs": 516066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "zhè ge shì pāi shì pín de gōng jù\n这  个 是  拍  视  频  的 工   具"
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "rè shēn jié shù ， kāi dǎ\n热 身   结  束  ， 开  打"
+    } ]
+  }, {
+    "tStartMs": 540366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "shū le yí gè qiú\n输  了 一 个 球 "
+    } ]
+  }, {
+    "tStartMs": 551066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "dǎ wán yí gè xiǎo shí le\n打 完  一 个 小   时  了"
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "dà bào hàn\n大 暴  汗 "
+    } ]
+  }, {
+    "tStartMs": 556200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dàn shì hěn shū chàng\n但  是  很  舒  畅   "
+    } ]
+  }, {
+    "tStartMs": 558733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "guò chéng yǒu diǎn xīn kǔ yǒu diǎn lèi\n过  程    有  点   辛  苦 有  点   累 "
+    } ]
+  }, {
+    "tStartMs": 562533,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "dàn shì dǎ wán yǐ hòu fēi cháng mǎn zú 、 hěn shū chàng\n但  是  打 完  以 后  非  常    满  足 、 很  舒  畅   "
+    } ]
+  }, {
+    "tStartMs": 567000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "zhè ge jiù shì yùn dòng de hǎo chù\n这  个 就  是  运  动   的 好  处 "
+    } ]
+  }, {
+    "tStartMs": 570766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "kuài 1 2 diǎn le\n快   1 2 点   了"
+    } ]
+  }, {
+    "tStartMs": 572566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "huí jiā zuò fàn lā\n回  家  做  饭  啦"
+    } ]
+  }, {
+    "tStartMs": 574966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ xiǎng chī hóng shāo pái gǔ\n今  天   我 想    吃  红   烧   排  骨"
+    } ]
+  }, {
+    "tStartMs": 579033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "wǒ bǎ pái gǔ xǐ gān jìng le\n我 把 排  骨 洗 干  净   了"
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu dà gài 3 0 0 kè de pái gǔ\n这  里 有  大 概  3 0 0 克 的 排  骨"
+    } ]
+  }, {
+    "tStartMs": 585600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "jiāng piàn\n姜    片  "
+    } ]
+  }, {
+    "tStartMs": 587066,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "zhè zhòng guā zài wǒ men zhè lǐ jiào “ sī guā ”\n这  种    瓜  在  我 们  这  里 叫   “ 丝 瓜  ”"
+    } ]
+  }, {
+    "tStartMs": 590766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "zuò hóng shāo pái gǔ\n做  红   烧   排  骨"
+    } ]
+  }, {
+    "tStartMs": 592166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "hái yǒu chǎo sī guā\n还  有  炒   丝 瓜 "
+    } ]
+  }, {
+    "tStartMs": 595066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "yì hūn yí sù\n一 荤  一 素"
+    } ]
+  }, {
+    "tStartMs": 597066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "yí ròu yí cài\n一 肉  一 菜 "
+    } ]
+  }, {
+    "tStartMs": 599700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "wán měi\n完  美 "
+    } ]
+  }, {
+    "tStartMs": 648900,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "dà jiā zhī dào zhè shì shén me shuǐ guǒ ma\n大 家  知  道  这  是  什   么 水   果  吗"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "duì le ， jiù shì bǎi xiāng guǒ\n对  了 ， 就  是  百  香    果 "
+    } ]
+  }, {
+    "tStartMs": 661066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "xiàn zài gāng hǎo shì bǎi xiāng guǒ de jì jié\n现   在  刚   好  是  百  香    果  的 季 节 "
+    } ]
+  }, {
+    "tStartMs": 664100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "wài miàn yǒu hěn duō bǎi xiāng guǒ zài mài\n外  面   有  很  多  百  香    果  在  卖 "
+    } ]
+  }, {
+    "tStartMs": 667400,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "hóng shāo pái gǔ chà bù duō hǎo le\n红   烧   排  骨 差  不 多  好  了"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "hóng shāo pái gǔ chà bù duō zuò hǎo le\n红   烧   排  骨 差  不 多  做  好  了"
+    } ]
+  }, {
+    "tStartMs": 676200,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "wǒ gè rén ne ， xǐ huan jiā yì diǎn bǎi xiāng guǒ jìn qù\n我 个 人  呢 ， 喜 欢   加  一 点   百  香    果  进  去"
+    } ]
+  }, {
+    "tStartMs": 681100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "suān suān tián tián de ， hěn kāi wèi\n酸   酸   甜   甜   的 ， 很  开  胃 "
+    } ]
+  }, {
+    "tStartMs": 685133,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "méi yǒu rén jiào wǒ ， shì wǒ zì jǐ xiǎng chū lái de bàn fǎ\n没  有  人  教   我 ， 是  我 自 己 想    出  来  的 办  法"
+    } ]
+  }, {
+    "tStartMs": 689100,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de hóng shāo pái gǔ gēn bǎi xiāng guǒ shì hěn pèi de\n但  是  我 觉  得 红   烧   排  骨 跟  百  香    果  是  很  配  的"
+    } ]
+  }, {
+    "tStartMs": 702033,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "bǎi xiāng guǒ shì wǒ zuì xǐ huan chī de shuǐ guǒ zhī yī\n百  香    果  是  我 最  喜 欢   吃  的 水   果  之  一"
+    } ]
+  }, {
+    "tStartMs": 708433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "tā yǒu fēng fù de wéi shēng sù c\n它 有  丰   富 的 维  生    素 c"
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "jiē xià lái bǎ tā bàn yún le jiù kě yǐ chū guō le\n接  下  来  把 它 拌  匀  了 就  可 以 出  锅  了"
+    } ]
+  }, {
+    "tStartMs": 719033,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "wā ， hǎo měi wèi de yàng zi ò\n哇 ， 好  美  味  的 样   子 哦"
+    } ]
+  }, {
+    "tStartMs": 724300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "ná yí gè kě ài de pán zi\n拿 一 个 可 爱 的 盘  子"
+    } ]
+  }, {
+    "tStartMs": 727300,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "lái shèng wǒ zuì xǐ huan de hóng shāo pái gǔ\n来  盛    我 最  喜 欢   的 红   烧   排  骨"
+    } ]
+  }, {
+    "tStartMs": 739100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "zěn me yàng ？ hái kě yǐ ba ？\n怎  么 样   ？ 还  可 以 吧 ？"
+    } ]
+  }, {
+    "tStartMs": 743000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "qīng chǎo sī guā yě chū guō le\n清   炒   丝 瓜  也 出  锅  了"
+    } ]
+  }, {
+    "tStartMs": 747633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "jiǎn jiǎn dān dān\n简   简   单  单 "
+    } ]
+  }, {
+    "tStartMs": 754433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "fàn zuò hǎo le\n饭  做  好  了"
+    } ]
+  }, {
+    "tStartMs": 756033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "mǎ shàng yào kāi fàn le\n马 上    要  开  饭  了"
+    } ]
+  }, {
+    "tStartMs": 758300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "zhè ge jiù shì wǒ pǔ tōng yòu jiǎn dān de yí gè zǎo shàng\n这  个 就  是  我 普 通   又  简   单  的 一 个 早  上   "
+    } ]
+  }, {
+    "tStartMs": 762433,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "zài wǒ yǎn zhōng ， jiǎn dān jiù shì xìng fú\n在  我 眼  中    ， 简   单  就  是  幸   福"
+    } ]
+  }, {
+    "tStartMs": 766566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "dà jiā yě shì zhè me jué de de ma\n大 家  也 是  这  么 觉  得 的 吗"
+    } ]
+  }, {
+    "tStartMs": 769566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "xī wàng dà jiā xǐ huan zhè ge shì pín\n希 望   大 家  喜 欢   这  个 视  频 "
+    } ]
+  }, {
+    "tStartMs": 771433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ men xià gè shì pín jiàn\n我 们  下  个 视  频  见  "
+    } ]
+  }, {
+    "tStartMs": 774400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "bài bài\n拜  拜 "
+    } ]
+  } ]
+}

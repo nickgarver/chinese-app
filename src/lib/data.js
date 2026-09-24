@@ -92,3 +92,56 @@ export function shuffle(arr) {
 export function syllables(pinyin) {
   return pinyin.trim().split(/\s+/);
 }
+
+let clipCache;
+
+/**
+ * Clips are fetched separately from the main dataset so the rest of the app
+ * never pays for them. Resolves to null when clips.json hasn't been built.
+ */
+export async function loadClips() {
+  if (clipCache !== undefined) return clipCache;
+  try {
+    const res = await fetch(`${base}/data/clips.json`);
+    if (!res.ok) throw new Error('missing');
+    const raw = await res.json();
+    clipCache = { clips: raw.c, index: raw.byWord };
+  } catch {
+    clipCache = null;
+  }
+  return clipCache;
+}
+
+function toClip(clipData, id, word) {
+  const [video, start, end, text, py, level, en] = clipData.clips[id];
+  return { id, video, start, end, text, py, level, en, word };
+}
+
+/**
+ * Every clip, regardless of the current filters. Used to draw distractors:
+ * the filter decides which clip you're tested on, not which wrong answers
+ * you're offered, and a narrow filter otherwise recycles the same four.
+ */
+export function allClips(clipData) {
+  if (!clipData) return [];
+  return clipData.clips.map((_, id) => toClip(clipData, id, ''));
+}
+
+/**
+ * Clips for a selection of words, deduped.
+ * Rows are [videoId, start, end, text, pinyin, level, english].
+ */
+export function clipPool(clipData, words) {
+  if (!clipData) return [];
+  const seen = new Set();
+  const pool = [];
+  for (const v of words) {
+    for (const id of clipData.index[v.w] || []) {
+      if (seen.has(id)) continue;
+      seen.add(id);
+      pool.push(toClip(clipData, id, v.w));
+    }
+  }
+  pool.sort((a, b) => a.level - b.level || a.text.length - b.text.length);
+  return pool;
+}

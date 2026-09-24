@@ -1,0 +1,2611 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Hello"
+    } ]
+  }, {
+    "tStartMs": 2033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "everyone, I'm Maomika,"
+    } ]
+  }, {
+    "tStartMs": 4466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "welcome to my channel!"
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Today I want to share a vlog with you all."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "I just got back from the gym. Recently, I discovered"
+    } ]
+  }, {
+    "tStartMs": 16866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "a new gym opened near my house"
+    } ]
+  }, {
+    "tStartMs": 19866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": ", and the environment looks"
+    } ]
+  }, {
+    "tStartMs": 22500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "great"
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": ". I figured spring's here"
+    } ]
+  }, {
+    "tStartMs": 26833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": ", and this hibernating animal could"
+    } ]
+  }, {
+    "tStartMs": 30466,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "finally come out and explore!"
+    } ]
+  }, {
+    "tStartMs": 31333,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 33900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": ", I went to try out this gym."
+    } ]
+  }, {
+    "tStartMs": 37300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Now that I've"
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "finished my workout,"
+    } ]
+  }, {
+    "tStartMs": 42133,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I'm going home to cook myself"
+    } ]
+  }, {
+    "tStartMs": 44466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "a meal, haha."
+    } ]
+  }, {
+    "tStartMs": 46533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "I rarely cook"
+    } ]
+  }, {
+    "tStartMs": 49233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "because my parents live nearby,"
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "and I often eat at home."
+    } ]
+  }, {
+    "tStartMs": 54133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Today, I"
+    } ]
+  }, {
+    "tStartMs": 54933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "want to share"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "a quick and easy meal recipe"
+    } ]
+  }, {
+    "tStartMs": 59466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": ". First, I"
+    } ]
+  }, {
+    "tStartMs": 60266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "want to share the ingredients:"
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "this is a box of minced salmon"
+    } ]
+  }, {
+    "tStartMs": 69966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "(chopped salmon),"
+    } ]
+  }, {
+    "tStartMs": 73933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "this is an egg, and"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "this is a wrap."
+    } ]
+  }, {
+    "tStartMs": 80966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "You"
+    } ]
+  }, {
+    "tStartMs": 82033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "can see"
+    } ]
+  }, {
+    "tStartMs": 85800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "these need to be frozen."
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "I think these wraps are quite healthy;"
+    } ]
+  }, {
+    "tStartMs": 91533,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "it says they're high in protein"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "and have a low GI."
+    } ]
+  }, {
+    "tStartMs": 100433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "This"
+    } ]
+  }, {
+    "tStartMs": 101633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "is a bag of"
+    } ]
+  }, {
+    "tStartMs": 103966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "salad greens; I love arugula."
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "I also have..."
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "I have"
+    } ]
+  }, {
+    "tStartMs": 115166,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 118333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "a jar"
+    } ]
+  }, {
+    "tStartMs": 119200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "of this hot sauce,"
+    } ]
+  }, {
+    "tStartMs": 123433,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "so I'm going to make a wrap later"
+    } ]
+  }, {
+    "tStartMs": 130200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "—an egg and salmon wrap. Okay,"
+    } ]
+  }, {
+    "tStartMs": 134033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "this wrap"
+    } ]
+  }, {
+    "tStartMs": 135200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "is frozen,"
+    } ]
+  }, {
+    "tStartMs": 136600,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "so I'll take one out and heat it up first."
+    } ]
+  }, {
+    "tStartMs": 142700,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "It's a round wrap"
+    } ]
+  }, {
+    "tStartMs": 145066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "; wraps are usually round."
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "This is a round wrap."
+    } ]
+  }, {
+    "tStartMs": 149366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "Okay, let me put it in the pan."
+    } ]
+  }, {
+    "tStartMs": 159633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Here's a look."
+    } ]
+  }, {
+    "tStartMs": 161166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Okay, I'll put this wrap"
+    } ]
+  }, {
+    "tStartMs": 164333,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "in the pan and heat it up."
+    } ]
+  }, {
+    "tStartMs": 170433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "The wrap"
+    } ]
+  }, {
+    "tStartMs": 171466,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "is slowly emitting a little aroma."
+    } ]
+  }, {
+    "tStartMs": 180700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Then ,"
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I'll take out an egg,"
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "crack it onto the wrap"
+    } ]
+  }, {
+    "tStartMs": 198366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": ", and stir it"
+    } ]
+  }, {
+    "tStartMs": 205133,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "to spread the egg evenly."
+    } ]
+  }, {
+    "tStartMs": 213566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "The egg looks very nice."
+    } ]
+  }, {
+    "tStartMs": 226566,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Then I'll flip the wrap over."
+    } ]
+  }, {
+    "tStartMs": 232633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Haha, my heat is very low,"
+    } ]
+  }, {
+    "tStartMs": 236333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "so it"
+    } ]
+  }, {
+    "tStartMs": 237233,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "'s not very hot."
+    } ]
+  }, {
+    "tStartMs": 238200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "I'm doing it with my hands."
+    } ]
+  }, {
+    "tStartMs": 242433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Let's be civilized and"
+    } ]
+  }, {
+    "tStartMs": 244066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "use a spatula."
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "After the egg is cooked, I'll"
+    } ]
+  }, {
+    "tStartMs": 253533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "take the wrap out and"
+    } ]
+  }, {
+    "tStartMs": 256933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "put it on a plate."
+    } ]
+  }, {
+    "tStartMs": 259200,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Now,"
+    } ]
+  }, {
+    "tStartMs": 260333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I need to stir-fry the salmon"
+    } ]
+  }, {
+    "tStartMs": 264033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": ". The salmon I bought"
+    } ]
+  }, {
+    "tStartMs": 265666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "needs to be heated before eating."
+    } ]
+  }, {
+    "tStartMs": 269333,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "First, I'll add a little oil to the pan"
+    } ]
+  }, {
+    "tStartMs": 279600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": ", then"
+    } ]
+  }, {
+    "tStartMs": 281133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "pour in the chopped salmon. Okay"
+    } ]
+  }, {
+    "tStartMs": 287966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": ", stir-fry it"
+    } ]
+  }, {
+    "tStartMs": 299166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": ", add a little black pepper,"
+    } ]
+  }, {
+    "tStartMs": 301233,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "and continue stir-frying."
+    } ]
+  }, {
+    "tStartMs": 304866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'm going to open this can"
+    } ]
+  }, {
+    "tStartMs": 312533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to show you."
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "This can... Inside"
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "is a beef sauce,"
+    } ]
+  }, {
+    "tStartMs": 318266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "and it's spicy."
+    } ]
+  }, {
+    "tStartMs": 322366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "I'm going to scoop a spoonful"
+    } ]
+  }, {
+    "tStartMs": 331366,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and spread it on this pancake"
+    } ]
+  }, {
+    "tStartMs": 339500,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "so I can taste how spicy it is."
+    } ]
+  }, {
+    "tStartMs": 346166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Hmm, it's a little spicy"
+    } ]
+  }, {
+    "tStartMs": 353266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": ", but very flavorful."
+    } ]
+  }, {
+    "tStartMs": 355066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "This chili sauce is delicious"
+    } ]
+  }, {
+    "tStartMs": 358700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "because I think eating"
+    } ]
+  }, {
+    "tStartMs": 361900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "salmon flakes alone can be a bit fishy"
+    } ]
+  }, {
+    "tStartMs": 365100,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": ", ​​so I need to use a chili sauce to cover up the fishy smell."
+    } ]
+  }, {
+    "tStartMs": 373766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Next, I'll put the"
+    } ]
+  }, {
+    "tStartMs": 377100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "stir-fried salmon meat"
+    } ]
+  }, {
+    "tStartMs": 379433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "on the pancake"
+    } ]
+  }, {
+    "tStartMs": 392666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": ", and then add a little lettuce"
+    } ]
+  }, {
+    "tStartMs": 397900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "and arugula"
+    } ]
+  }, {
+    "tStartMs": 408800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": ". Okay,"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "haha,"
+    } ]
+  }, {
+    "tStartMs": 414433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I hope it doesn't turn out badly."
+    } ]
+  }, {
+    "tStartMs": 415933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Roll it up"
+    } ]
+  }, {
+    "tStartMs": 425266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": ", haha,"
+    } ]
+  }, {
+    "tStartMs": 428333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and then roll it up. Rolled up, um,"
+    } ]
+  }, {
+    "tStartMs": 430933,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "and then rolled it up."
+    } ]
+  }, {
+    "tStartMs": 432266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Usually, I would do this:"
+    } ]
+  }, {
+    "tStartMs": 454300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "um, and then roll it up . After"
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "rolling it up,"
+    } ]
+  }, {
+    "tStartMs": 461700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "it might leak when you eat it like this, right?"
+    } ]
+  }, {
+    "tStartMs": 466266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "I'll use a piece of parchment paper."
+    } ]
+  }, {
+    "tStartMs": 470066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "This is baking paper ."
+    } ]
+  }, {
+    "tStartMs": 475833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Just roll it up. Let"
+    } ]
+  }, {
+    "tStartMs": 478333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "me show you. Okay, let me show you."
+    } ]
+  }, {
+    "tStartMs": 479333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Okay, let me show you."
+    } ]
+  }, {
+    "tStartMs": 491833,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "The"
+    } ]
+  }, {
+    "tStartMs": 496033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "finished product looks pretty good"
+    } ]
+  }, {
+    "tStartMs": 498233,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": ", right? And I feel that it's quite high in protein,"
+    } ]
+  }, {
+    "tStartMs": 503633,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "vitamins, and"
+    } ]
+  }, {
+    "tStartMs": 505333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "fiber, right?"
+    } ]
+  }, {
+    "tStartMs": 507033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "It should be quite healthy."
+    } ]
+  }, {
+    "tStartMs": 508566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "So I'll take a bite first to see if it's good."
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Hmm, I haven't eaten any meat yet."
+    } ]
+  }, {
+    "tStartMs": 526966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Let me take another bite. It"
+    } ]
+  }, {
+    "tStartMs": 528966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "didn't turn out badly"
+    } ]
+  }, {
+    "tStartMs": 540066,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": ", it's great. *Eating...*"
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "Help!"
+    } ]
+  }, {
+    "tStartMs": 555066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "This chili oil"
+    } ]
+  }, {
+    "tStartMs": 559866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "is spilled on the floor,"
+    } ]
+  }, {
+    "tStartMs": 561266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I need to clean it up."
+    } ]
+  }, {
+    "tStartMs": 565066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "It's springtime,"
+    } ]
+  }, {
+    "tStartMs": 567700,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "and spring is a season when allergies are very common."
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I remember the week before last,"
+    } ]
+  }, {
+    "tStartMs": 575033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "my students and I were both"
+    } ]
+  }, {
+    "tStartMs": 576866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "crying on camera at the same time"
+    } ]
+  }, {
+    "tStartMs": 579066,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": ", haha,"
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I found it really funny"
+    } ]
+  }, {
+    "tStartMs": 583200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "because we both had spring allergies."
+    } ]
+  }, {
+    "tStartMs": 587333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "It's gotten a little better these past few days"
+    } ]
+  }, {
+    "tStartMs": 589233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": ". Every year in spring,"
+    } ]
+  }, {
+    "tStartMs": 591100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "during the first week"
+    } ]
+  }, {
+    "tStartMs": 593400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "of a certain flower blooming"
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": ", my allergy symptoms are particularly severe."
+    } ]
+  }, {
+    "tStartMs": 598166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "I can't open my eyes"
+    } ]
+  }, {
+    "tStartMs": 600166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": ", my eyes water constantly"
+    } ]
+  }, {
+    "tStartMs": 602700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": ", and my nose runs."
+    } ]
+  }, {
+    "tStartMs": 605100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These are all my allergy symptoms."
+    } ]
+  }, {
+    "tStartMs": 608233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Recently, it's gotten much better"
+    } ]
+  }, {
+    "tStartMs": 609900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": ", and the weather has warmed up,"
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "so I'm more willing to go out."
+    } ]
+  }, {
+    "tStartMs": 614366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I've recently"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "gone to the gym,"
+    } ]
+  }, {
+    "tStartMs": 618666,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I've also resumed my weekly swimming routine"
+    } ]
+  }, {
+    "tStartMs": 622066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ". I still need to exercise"
+    } ]
+  }, {
+    "tStartMs": 624800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "to stay healthy."
+    } ]
+  }, {
+    "tStartMs": 627300,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "I 'm very grateful to the YouTube viewers who"
+    } ]
+  }, {
+    "tStartMs": 631666,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "have supported my educational endeavors."
+    } ]
+  }, {
+    "tStartMs": 636166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "Some friends have booked classes on my Italki channel or"
+    } ]
+  }, {
+    "tStartMs": 639100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "taken my Freetalk classes,"
+    } ]
+  }, {
+    "tStartMs": 642800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "but they've never left"
+    } ]
+  }, {
+    "tStartMs": 644200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "comments on my channel."
+    } ]
+  }, {
+    "tStartMs": 645966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I feel honored that"
+    } ]
+  }, {
+    "tStartMs": 648600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "many friends have had a pleasant chat with me"
+    } ]
+  }, {
+    "tStartMs": 651000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": ". My experiences can attract some people"
+    } ]
+  }, {
+    "tStartMs": 654300,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "and keep them"
+    } ]
+  }, {
+    "tStartMs": 655933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "curious about the world."
+    } ]
+  }, {
+    "tStartMs": 658133,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "But in recent conversations,"
+    } ]
+  }, {
+    "tStartMs": 661500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I've realized that"
+    } ]
+  }, {
+    "tStartMs": 663900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "compared to my twenties,"
+    } ]
+  }, {
+    "tStartMs": 667300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "I feel my world has"
+    } ]
+  }, {
+    "tStartMs": 668966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "become a little more closed off,"
+    } ]
+  }, {
+    "tStartMs": 671066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "especially in the last two years."
+    } ]
+  }, {
+    "tStartMs": 673366,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "My life has changed a lot,"
+    } ]
+  }, {
+    "tStartMs": 676800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "which has made me"
+    } ]
+  }, {
+    "tStartMs": 679733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "even more closed off"
+    } ]
+  }, {
+    "tStartMs": 681933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "in some ways."
+    } ]
+  }, {
+    "tStartMs": 682966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I'm wondering if"
+    } ]
+  }, {
+    "tStartMs": 684266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "this closed-off state is a good thing or a bad thing"
+    } ]
+  }, {
+    "tStartMs": 687700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": ";"
+    } ]
+  }, {
+    "tStartMs": 688666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I don't have a good answer yet"
+    } ]
+  }, {
+    "tStartMs": 691600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": ". But at the same time, I'm"
+    } ]
+  }, {
+    "tStartMs": 692933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "very grateful to my students. They allow me"
+    } ]
+  }, {
+    "tStartMs": 695766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "to maintain some connection with the world even"
+    } ]
+  }, {
+    "tStartMs": 698933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "in a closed-off environment."
+    } ]
+  }, {
+    "tStartMs": 702766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So I'm happy to teach every week."
+    } ]
+  }, {
+    "tStartMs": 705433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Many friends"
+    } ]
+  }, {
+    "tStartMs": 706933,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "ask me the first thing after class: \""
+    } ]
+  }, {
+    "tStartMs": 708600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Are you satisfied with your current situation?\""
+    } ]
+  }, {
+    "tStartMs": 711833,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "And I say"
+    } ]
+  }, {
+    "tStartMs": 712700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I'm satisfied. Yes, I'm very happy with"
+    } ]
+  }, {
+    "tStartMs": 714500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "this"
+    } ]
+  }, {
+    "tStartMs": 715066,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "state."
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "On the one hand, I"
+    } ]
+  }, {
+    "tStartMs": 719633,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "'m doing educational work without emotional burdens;"
+    } ]
+  }, {
+    "tStartMs": 723900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "on the other hand"
+    } ]
+  }, {
+    "tStartMs": 724700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": ", communication with students is smooth."
+    } ]
+  }, {
+    "tStartMs": 727800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Teaching students a language"
+    } ]
+  }, {
+    "tStartMs": 731066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "gives me a sense of accomplishment,"
+    } ]
+  }, {
+    "tStartMs": 733200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "including my"
+    } ]
+  }, {
+    "tStartMs": 735400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "work at the university."
+    } ]
+  }, {
+    "tStartMs": 736800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "Because, well, some students might"
+    } ]
+  }, {
+    "tStartMs": 741066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "have a lot of problems at the beginning of"
+    } ]
+  }, {
+    "tStartMs": 743333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "the semester , especially with homework and papers. But"
+    } ]
+  }, {
+    "tStartMs": 746366,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "after two or three months of training,"
+    } ]
+  }, {
+    "tStartMs": 750900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "many students have"
+    } ]
+  }, {
+    "tStartMs": 752100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "made rapid progress."
+    } ]
+  }, {
+    "tStartMs": 753366,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Every student's progress"
+    } ]
+  }, {
+    "tStartMs": 755100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "gives me a great sense of accomplishment."
+    } ]
+  }, {
+    "tStartMs": 757766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "I think this is"
+    } ]
+  }, {
+    "tStartMs": 759533,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "another benefit of being a teacher, haha."
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So, many friends have asked me"
+    } ]
+  }, {
+    "tStartMs": 765100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "if I'm satisfied with my current situation"
+    } ]
+  }, {
+    "tStartMs": 767600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": ". I think I'm very satisfied right now."
+    } ]
+  }, {
+    "tStartMs": 771700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Are there any things I'm dissatisfied with"
+    } ]
+  }, {
+    "tStartMs": 774500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "? Not really."
+    } ]
+  }, {
+    "tStartMs": 777366,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "I'm never dissatisfied with others;"
+    } ]
+  }, {
+    "tStartMs": 779933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "I'm always dissatisfied with myself."
+    } ]
+  }, {
+    "tStartMs": 781933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "I might feel that spring is here,"
+    } ]
+  }, {
+    "tStartMs": 785366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "and my mindset is a bit different."
+    } ]
+  }, {
+    "tStartMs": 787400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "The weather is warmer,"
+    } ]
+  }, {
+    "tStartMs": 788533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "and I'm more willing to go out."
+    } ]
+  }, {
+    "tStartMs": 790066,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "I'm thinking of going to the gym"
+    } ]
+  }, {
+    "tStartMs": 793766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "more often and exercising"
+    } ]
+  }, {
+    "tStartMs": 795000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "more to improve my health."
+    } ]
+  }, {
+    "tStartMs": 796900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Actually"
+    } ]
+  }, {
+    "tStartMs": 797966,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": ", I feel that my sleep"
+    } ]
+  }, {
+    "tStartMs": 801100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "hasn't been good lately ."
+    } ]
+  }, {
+    "tStartMs": 804900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "There's another reason why my sleep is bad"
+    } ]
+  }, {
+    "tStartMs": 806666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": ": my upstairs neighbor"
+    } ]
+  }, {
+    "tStartMs": 809100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "is a little strange"
+    } ]
+  }, {
+    "tStartMs": 811266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": ". I've already argued with him two or three times"
+    } ]
+  }, {
+    "tStartMs": 813533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": ". He's blocked me"
+    } ]
+  }, {
+    "tStartMs": 815166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "and won't communicate with me anymore."
+    } ]
+  }, {
+    "tStartMs": 817100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I'm speechless."
+    } ]
+  }, {
+    "tStartMs": 819033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "My upstairs neighbor"
+    } ]
+  }, {
+    "tStartMs": 823066,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "only comes back to stay two or three nights a week,"
+    } ]
+  }, {
+    "tStartMs": 827366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "but"
+    } ]
+  }, {
+    "tStartMs": 828766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "he doesn't sleep during those two or three nights."
+    } ]
+  }, {
+    "tStartMs": 832433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Okay,"
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "you can play games"
+    } ]
+  }, {
+    "tStartMs": 835933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "or watch TV"
+    } ]
+  }, {
+    "tStartMs": 837066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "at home , no problem."
+    } ]
+  }, {
+    "tStartMs": 838933,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "But cleaning in the middle of the night"
+    } ]
+  }, {
+    "tStartMs": 842133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "with a vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "is unacceptable."
+    } ]
+  }, {
+    "tStartMs": 847300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And he"
+    } ]
+  }, {
+    "tStartMs": 848933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "'s not in the living room."
+    } ]
+  }, {
+    "tStartMs": 850766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "If he were cleaning in the living room,"
+    } ]
+  }, {
+    "tStartMs": 853033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I wouldn't hear it"
+    } ]
+  }, {
+    "tStartMs": 854900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "while"
+    } ]
+  }, {
+    "tStartMs": 856166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "I'm sleeping in my bedroom."
+    } ]
+  }, {
+    "tStartMs": 857866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "But he's only"
+    } ]
+  }, {
+    "tStartMs": 859933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "cleaning or doing something else"
+    } ]
+  }, {
+    "tStartMs": 862900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "in his bedroom"
+    } ]
+  }, {
+    "tStartMs": 865100,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "at night,"
+    } ]
+  }, {
+    "tStartMs": 866466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and it"
+    } ]
+  }, {
+    "tStartMs": 868266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "'s very loud."
+    } ]
+  }, {
+    "tStartMs": 869733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I've tried talking to him."
+    } ]
+  }, {
+    "tStartMs": 871266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "The first time I talked to him,"
+    } ]
+  }, {
+    "tStartMs": 874633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "because he rarely comes back,"
+    } ]
+  }, {
+    "tStartMs": 876233,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I thought he had rented out his house."
+    } ]
+  }, {
+    "tStartMs": 879533,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "So I asked him"
+    } ]
+  }, {
+    "tStartMs": 880433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ", \"Neighbor, have you"
+    } ]
+  }, {
+    "tStartMs": 883033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "rented out your house?\""
+    } ]
+  }, {
+    "tStartMs": 885066,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "He said no,"
+    } ]
+  }, {
+    "tStartMs": 886433,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "no one is home."
+    } ]
+  }, {
+    "tStartMs": 888100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It was 2:30 in the morning."
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So I stood at his door and"
+    } ]
+  }, {
+    "tStartMs": 892366,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "said, \"Your lights are on, someone's home."
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Should I call the police?\""
+    } ]
+  }, {
+    "tStartMs": 897366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "You"
+    } ]
+  }, {
+    "tStartMs": 898000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "said you're not home,"
+    } ]
+  }, {
+    "tStartMs": 899500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "but someone's home."
+    } ]
+  }, {
+    "tStartMs": 900900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "The noise was so loud,"
+    } ]
+  }, {
+    "tStartMs": 903133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "of course I had to call the police, right?"
+    } ]
+  }, {
+    "tStartMs": 905700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Then he ignored me."
+    } ]
+  }, {
+    "tStartMs": 908000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "The next afternoon,"
+    } ]
+  }, {
+    "tStartMs": 910133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "he said, \"There might be a dog walking around in our house."
+    } ]
+  }, {
+    "tStartMs": 913933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "\" I knew he was lying."
+    } ]
+  }, {
+    "tStartMs": 916100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "There was nothing I could do, right?"
+    } ]
+  }, {
+    "tStartMs": 918366,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Later,"
+    } ]
+  }, {
+    "tStartMs": 918833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I stopped communicating with him directly"
+    } ]
+  }, {
+    "tStartMs": 920266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and went to the property management"
+    } ]
+  }, {
+    "tStartMs": 922166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "to ask if they could help talk to the neighbor about"
+    } ]
+  }, {
+    "tStartMs": 925466,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "the poor soundproofing of the house"
+    } ]
+  }, {
+    "tStartMs": 930633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "and ask them not to clean at night."
+    } ]
+  }, {
+    "tStartMs": 933300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Haha."
+    } ]
+  }, {
+    "tStartMs": 935500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Then,"
+    } ]
+  }, {
+    "tStartMs": 936866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "I don't know what happened,"
+    } ]
+  }, {
+    "tStartMs": 938133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "maybe I angered him a little."
+    } ]
+  }, {
+    "tStartMs": 941700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Some people get angry"
+    } ]
+  }, {
+    "tStartMs": 943800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "when they're caught lying"
+    } ]
+  }, {
+    "tStartMs": 946900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": ". He"
+    } ]
+  }, {
+    "tStartMs": 949166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "didn't change anything."
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "The next few times,"
+    } ]
+  }, {
+    "tStartMs": 953033,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "he told me he only came one or two days a week."
+    } ]
+  }, {
+    "tStartMs": 958233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Actually, it wasn't just one or two days."
+    } ]
+  }, {
+    "tStartMs": 959133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "He came back very loudly,"
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I could hear"
+    } ]
+  }, {
+    "tStartMs": 962200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "him. I knew which day he came back."
+    } ]
+  }, {
+    "tStartMs": 964133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Anyway, it doesn't matter."
+    } ]
+  }, {
+    "tStartMs": 965366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "It just means he doesn't live here every day,"
+    } ]
+  }, {
+    "tStartMs": 967666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 968433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "But during the Chinese New Year,"
+    } ]
+  }, {
+    "tStartMs": 970400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "the"
+    } ]
+  }, {
+    "tStartMs": 972933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "conflict escalated a little."
+    } ]
+  }, {
+    "tStartMs": 974566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "During the Chinese"
+    } ]
+  }, {
+    "tStartMs": 975866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "New Year, around 12:00"
+    } ]
+  }, {
+    "tStartMs": 978433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "a.m.,"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "he... He took out his vacuum cleaner,"
+    } ]
+  }, {
+    "tStartMs": 982466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "and at that moment"
+    } ]
+  }, {
+    "tStartMs": 983400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I tried to message him"
+    } ]
+  }, {
+    "tStartMs": 985166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": ", but I could n't"
+    } ]
+  }, {
+    "tStartMs": 987500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "because he had blocked me, haha"
+    } ]
+  }, {
+    "tStartMs": 990366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": ". I couldn't stand it!"
+    } ]
+  }, {
+    "tStartMs": 992066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "I had just fallen asleep,"
+    } ]
+  }, {
+    "tStartMs": 994400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and the loud noise of the vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 997100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "woke me up."
+    } ]
+  }, {
+    "tStartMs": 998500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I ran upstairs and knocked on his door."
+    } ]
+  }, {
+    "tStartMs": 1001433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "There were four people in the house"
+    } ]
+  }, {
+    "tStartMs": 1003500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": ", all awake,"
+    } ]
+  }, {
+    "tStartMs": 1005400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "sitting in the living room"
+    } ]
+  }, {
+    "tStartMs": 1006766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "with the lights on , chatting and eating sunflower seeds"
+    } ]
+  }, {
+    "tStartMs": 1009666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": ". Then a woman,"
+    } ]
+  }, {
+    "tStartMs": 1011066,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "I don't know if she was the landlord or someone else"
+    } ]
+  }, {
+    "tStartMs": 1013466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": ", came out of her room"
+    } ]
+  }, {
+    "tStartMs": 1014900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "carrying a vacuum cleaner"
+    } ]
+  }, {
+    "tStartMs": 1016400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "and asked me what I wanted."
+    } ]
+  }, {
+    "tStartMs": 1017633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "I said, \"Could you please"
+    } ]
+  }, {
+    "tStartMs": 1019466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "not use the vacuum cleaner at night?"
+    } ]
+  }, {
+    "tStartMs": 1022100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "It's quite loud.\""
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Then this woman suddenly said,"
+    } ]
+  }, {
+    "tStartMs": 1028233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\"I don't use it every day, do I?\""
+    } ]
+  }, {
+    "tStartMs": 1031100,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "I found that strange"
+    } ]
+  }, {
+    "tStartMs": 1034066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ". Why"
+    } ]
+  }, {
+    "tStartMs": 1036666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "would you use a vacuum cleaner at night every night"
+    } ]
+  }, {
+    "tStartMs": 1039666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "to disturb other people's rest?"
+    } ]
+  }, {
+    "tStartMs": 1040366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "I was shocked."
+    } ]
+  }, {
+    "tStartMs": 1041600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Why would she say something like that"
+    } ]
+  }, {
+    "tStartMs": 1043666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "? In this situation"
+    } ]
+  }, {
+    "tStartMs": 1045100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": ", I felt I couldn't escalate the conflict further,"
+    } ]
+  }, {
+    "tStartMs": 1048733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "since there were four of them"
+    } ]
+  }, {
+    "tStartMs": 1050266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "and I was alone"
+    } ]
+  }, {
+    "tStartMs": 1051300,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": ", still in my pajamas."
+    } ]
+  }, {
+    "tStartMs": 1052766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "So I went back downstairs"
+    } ]
+  }, {
+    "tStartMs": 1055466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 1057266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "called 110 (the police). Ah"
+    } ]
+  }, {
+    "tStartMs": 1058700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": ", so you call"
+    } ]
+  }, {
+    "tStartMs": 1060000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "the police and say,"
+    } ]
+  }, {
+    "tStartMs": 1061500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "\"My upstairs neighbors are making a lot of noise,"
+    } ]
+  }, {
+    "tStartMs": 1064966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "it's disturbing the peace.\""
+    } ]
+  }, {
+    "tStartMs": 1065766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "In China, you can call the police if you're disturbing the peace, just like that"
+    } ]
+  }, {
+    "tStartMs": 1068133,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "."
+    } ]
+  }, {
+    "tStartMs": 1069333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "I remember when I lived in Germany, on"
+    } ]
+  }, {
+    "tStartMs": 1072666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Friday and Saturday nights, lots of young people would have parties,"
+    } ]
+  }, {
+    "tStartMs": 1076900,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "and it was so noisy"
+    } ]
+  }, {
+    "tStartMs": 1078200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": ", the music was deafening"
+    } ]
+  }, {
+    "tStartMs": 1080533,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": ", like the earth was shaking."
+    } ]
+  }, {
+    "tStartMs": 1084466,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And often, neighbors would"
+    } ]
+  }, {
+    "tStartMs": 1088666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "yell at them, and then I'd hear"
+    } ]
+  }, {
+    "tStartMs": 1090866,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "the police sirens coming over, haha."
+    } ]
+  }, {
+    "tStartMs": 1094500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Every time, I felt really good"
+    } ]
+  }, {
+    "tStartMs": 1096600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": ", I"
+    } ]
+  }, {
+    "tStartMs": 1098600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "'d think, \""
+    } ]
+  }, {
+    "tStartMs": 1100166,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "Thank you, kind neighbor, for calling the police!\" Haha,"
+    } ]
+  }, {
+    "tStartMs": 1104100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "because sometimes it really is disturbing the peace."
+    } ]
+  }, {
+    "tStartMs": 1107733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Yeah, this"
+    } ]
+  }, {
+    "tStartMs": 1109000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "is what happens when there are neighborly conflicts, right?"
+    } ]
+  }, {
+    "tStartMs": 1112100,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "Do you guys have these kinds of neighborly conflicts?"
+    } ]
+  }, {
+    "tStartMs": 1115600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Do you have disagreements with your neighbors?"
+    } ]
+  }, {
+    "tStartMs": 1118966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I think when I was in Germany, I"
+    } ]
+  }, {
+    "tStartMs": 1121366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "also had some situations where my next-door neighbor was making"
+    } ]
+  }, {
+    "tStartMs": 1124033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "noise, haha."
+    } ]
+  }, {
+    "tStartMs": 1128666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Haha, oh my"
+    } ]
+  }, {
+    "tStartMs": 1131133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": ", it really shocked"
+    } ]
+  }, {
+    "tStartMs": 1133500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "my young heart."
+    } ]
+  }, {
+    "tStartMs": 1135066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "After all, it was my first time in Europe, right?"
+    } ]
+  }, {
+    "tStartMs": 1139000,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "My first time in a cultural environment so different"
+    } ]
+  }, {
+    "tStartMs": 1143166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "from ours."
+    } ]
+  }, {
+    "tStartMs": 1146366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "So, it caused"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "some emotional trauma"
+    } ]
+  }, {
+    "tStartMs": 1151200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "for me. Now I live"
+    } ]
+  }, {
+    "tStartMs": 1153200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "alone in this house."
+    } ]
+  }, {
+    "tStartMs": 1154833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "When I lived with my parents, they lived on the top floor, and"
+    } ]
+  }, {
+    "tStartMs": 1157300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "we never had any neighbors"
+    } ]
+  }, {
+    "tStartMs": 1159666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "bothering us."
+    } ]
+  }, {
+    "tStartMs": 1162233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So, umm, haha."
+    } ]
+  }, {
+    "tStartMs": 1165600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But I think it's also"
+    } ]
+  }, {
+    "tStartMs": 1168800,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "something that depends on fate, on destiny."
+    } ]
+  }, {
+    "tStartMs": 1172533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Because when I bought this house,"
+    } ]
+  }, {
+    "tStartMs": 1175033,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "I didn't know"
+    } ]
+  }, {
+    "tStartMs": 1177633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "what kind of person"
+    } ]
+  }, {
+    "tStartMs": 1179933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "my upstairs neighbor"
+    } ]
+  }, {
+    "tStartMs": 1183266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "would be ."
+    } ]
+  }, {
+    "tStartMs": 1184300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "But, I will still try my best to minimize conflicts."
+    } ]
+  }, {
+    "tStartMs": 1187300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Actually, my upstairs neighbor is a civil lawyer."
+    } ]
+  }, {
+    "tStartMs": 1190866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "What does a civil lawyer do?"
+    } ]
+  }, {
+    "tStartMs": 1193066,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "They handle civil disputes for ordinary people,"
+    } ]
+  }, {
+    "tStartMs": 1197500,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the kinds of trivial matters that lead to lawsuits."
+    } ]
+  }, {
+    "tStartMs": 1200933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 1202866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "just don't understand."
+    } ]
+  }, {
+    "tStartMs": 1203933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "As a civil lawyer,"
+    } ]
+  }, {
+    "tStartMs": 1206533,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "you clearly know that these kinds of things can"
+    } ]
+  }, {
+    "tStartMs": 1208366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "cause a lot of conflict, right?"
+    } ]
+  }, {
+    "tStartMs": 1210500,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1210866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "They can even escalate."
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "If it escalates,"
+    } ]
+  }, {
+    "tStartMs": 1214566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I could throw a pile of poop on his door"
+    } ]
+  }, {
+    "tStartMs": 1217566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "and he could sue me, right?"
+    } ]
+  }, {
+    "tStartMs": 1220700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "He's handled so many cases like this,"
+    } ]
+  }, {
+    "tStartMs": 1223666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "why can't he set a good example"
+    } ]
+  }, {
+    "tStartMs": 1226433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and be a good citizen?"
+    } ]
+  }, {
+    "tStartMs": 1228266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Hahaha, I just don't understand."
+    } ]
+  }, {
+    "tStartMs": 1230766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I often just don't understand."
+    } ]
+  }, {
+    "tStartMs": 1233600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Last night, the noise was quite loud, and"
+    } ]
+  }, {
+    "tStartMs": 1236533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "my boyfriend was saying, \""
+    } ]
+  }, {
+    "tStartMs": 1238433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I heard"
+    } ]
+  }, {
+    "tStartMs": 1240300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "the vacuum cleaner too.\""
+    } ]
+  }, {
+    "tStartMs": 1242700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Later,"
+    } ]
+  }, {
+    "tStartMs": 1243500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "I said, \"Let's just leave it at that."
+    } ]
+  }, {
+    "tStartMs": 1245133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It doesn't happen"
+    } ]
+  }, {
+    "tStartMs": 1247933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "every day,"
+    } ]
+  }, {
+    "tStartMs": 1249233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "right? Everyone's"
+    } ]
+  }, {
+    "tStartMs": 1251400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "happy , let's all compromise.\""
+    } ]
+  }, {
+    "tStartMs": 1256366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I hope everyone can find good neighbors"
+    } ]
+  }, {
+    "tStartMs": 1259533,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "and I hope everyone can get a good night's sleep."
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That"
+    } ]
+  }, {
+    "tStartMs": 1262900,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "'s all I wanted to share with you today."
+    } ]
+  }, {
+    "tStartMs": 1265833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "See you in the next video! Bye-bye!"
+    } ]
+  } ]
+}

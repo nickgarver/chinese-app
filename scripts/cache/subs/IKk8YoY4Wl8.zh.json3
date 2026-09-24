@@ -1,0 +1,2137 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6400,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "哈喽，亲爱的听众朋友们，大家最近好吗！"
+    } ]
+  }, {
+    "tStartMs": 9600,
+    "dDurationMs": 4957,
+    "segs": [ {
+      "utf8": "欢迎收听新一期的《每天中文》，我是李明。"
+    } ]
+  }, {
+    "tStartMs": 14567,
+    "dDurationMs": 2356,
+    "segs": [ {
+      "utf8": "哈喽大家好，我是王雨！"
+    } ]
+  }, {
+    "tStartMs": 16933,
+    "dDurationMs": 1424,
+    "segs": [ {
+      "utf8": "新的一周又开始了，"
+    } ]
+  }, {
+    "tStartMs": 18367,
+    "dDurationMs": 3723,
+    "segs": [ {
+      "utf8": "不知道大家最近工作和学习顺不顺利呢？"
+    } ]
+  }, {
+    "tStartMs": 22100,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "不管生活有多忙碌，"
+    } ]
+  }, {
+    "tStartMs": 23700,
+    "dDurationMs": 3257,
+    "segs": [ {
+      "utf8": "都别忘了停下来喝杯水、休息一下哦！"
+    } ]
+  }, {
+    "tStartMs": 26967,
+    "dDurationMs": 4123,
+    "segs": [ {
+      "utf8": "没错，非常感谢大家准时收听我们的播客。"
+    } ]
+  }, {
+    "tStartMs": 31100,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "希望每位朋友今天都能在我们这里，"
+    } ]
+  }, {
+    "tStartMs": 33967,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "度过一段轻松愉快的好时光。"
+    } ]
+  }, {
+    "tStartMs": 37067,
+    "dDurationMs": 1123,
+    "segs": [ {
+      "utf8": "不过王雨，"
+    } ]
+  }, {
+    "tStartMs": 38200,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "我看你今天的心情格外好啊，"
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 1657,
+    "segs": [ {
+      "utf8": "刚才一进录音室"
+    } ]
+  }, {
+    "tStartMs": 42667,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "就看到你捧着手机笑眯眯的，"
+    } ]
+  }, {
+    "tStartMs": 45267,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "到底在看什么好东西呢，这么开心？"
+    } ]
+  }, {
+    "tStartMs": 48300,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "哈哈，被你发现啦！"
+    } ]
+  }, {
+    "tStartMs": 50467,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "李明，你快看这个视频！"
+    } ]
+  }, {
+    "tStartMs": 52467,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "这个女孩正在用自己家种的大豆磨"
+    } ]
+  }, {
+    "tStartMs": 55567,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "豆腐，院子里有一只橘色的小猫，"
+    } ]
+  }, {
+    "tStartMs": 58867,
+    "dDurationMs": 2256,
+    "segs": [ {
+      "utf8": "还有一只摇尾巴的小狗，"
+    } ]
+  }, {
+    "tStartMs": 61133,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "这画面也太让人舒服了吧！"
+    } ]
+  }, {
+    "tStartMs": 64100,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "王雨，你最近怎么总是捧着手机"
+    } ]
+  }, {
+    "tStartMs": 67767,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "看这种农村生活的视频？"
+    } ]
+  }, {
+    "tStartMs": 70200,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "昨天中午我们在公司食堂吃饭，"
+    } ]
+  }, {
+    "tStartMs": 72567,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "我就看见你一边吃盒饭，"
+    } ]
+  }, {
+    "tStartMs": 74467,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "一边看一个老爷爷在竹林里做小竹凳。"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "可不是嘛！"
+    } ]
+  }, {
+    "tStartMs": 78900,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "我最近简直着迷了。"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "每天晚上下班回到家，"
+    } ]
+  }, {
+    "tStartMs": 83067,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "洗完澡躺在床上，"
+    } ]
+  }, {
+    "tStartMs": 84800,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "只要一打开这种农村慢生活的视频，"
+    } ]
+  }, {
+    "tStartMs": 88100,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "我能不知不觉看上一两个小时，"
+    } ]
+  }, {
+    "tStartMs": 90967,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "感觉工作了一整天的疲惫全都消失了。"
+    } ]
+  }, {
+    "tStartMs": 95267,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "一两个小时？"
+    } ]
+  }, {
+    "tStartMs": 96767,
+    "dDurationMs": 1723,
+    "segs": [ {
+      "utf8": "你居然能看这么久！"
+    } ]
+  }, {
+    "tStartMs": 98500,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "不过话说回来，现在好像"
+    } ]
+  }, {
+    "tStartMs": 101133,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "真的不是只有你一个人这样。"
+    } ]
+  }, {
+    "tStartMs": 103200,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "在大城市里生活和工作的很多年轻人，"
+    } ]
+  }, {
+    "tStartMs": 106333,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "都特别喜欢看这种农村田园视频。"
+    } ]
+  }, {
+    "tStartMs": 109767,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "网上很多这样的博主，"
+    } ]
+  }, {
+    "tStartMs": 111567,
+    "dDurationMs": 3756,
+    "segs": [ {
+      "utf8": "粉丝动不动就是几百万，甚至好几千万。"
+    } ]
+  }, {
+    "tStartMs": 115333,
+    "dDurationMs": 2424,
+    "segs": [ {
+      "utf8": "对呀，大家都在看！"
+    } ]
+  }, {
+    "tStartMs": 117767,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "李明，你平时工作那么忙、那么"
+    } ]
+  }, {
+    "tStartMs": 120300,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "理性，难道你刷到这种视频的时候，"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 1823,
+    "segs": [ {
+      "utf8": "心里就不会动心吗？"
+    } ]
+  }, {
+    "tStartMs": 125333,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "我偶尔也会停下来看一会儿。"
+    } ]
+  }, {
+    "tStartMs": 128300,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "视频里的风景确实拍得很美，"
+    } ]
+  }, {
+    "tStartMs": 130933,
+    "dDurationMs": 5257,
+    "segs": [ {
+      "utf8": "天特别蓝，水特别清，到处都是大片大片的绿色。"
+    } ]
+  }, {
+    "tStartMs": 136200,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "听着视频里切菜的声音、柴火燃烧的声音、"
+    } ]
+  }, {
+    "tStartMs": 140100,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "还有风吹过树林的声音，心里确实能平静很多。"
+    } ]
+  }, {
+    "tStartMs": 144800,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "但是我一直在思考一个问题，"
+    } ]
+  }, {
+    "tStartMs": 147700,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "为什么生活在现代城市里的年轻人，"
+    } ]
+  }, {
+    "tStartMs": 150400,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "会这么迷恋农村的慢生活呢？"
+    } ]
+  }, {
+    "tStartMs": 153333,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "哎呀，这还用思考吗？"
+    } ]
+  }, {
+    "tStartMs": 155700,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "答案很简单啊，因为大城市的生活实在太累了！"
+    } ]
+  }, {
+    "tStartMs": 160500,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "你看我们现在，每天早上闹钟一响"
+    } ]
+  }, {
+    "tStartMs": 163533,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "就得从床上爬起来，"
+    } ]
+  }, {
+    "tStartMs": 165367,
+    "dDurationMs": 4523,
+    "segs": [ {
+      "utf8": "急急忙忙冲进地铁，人挤人，连喘口气都难。"
+    } ]
+  }, {
+    "tStartMs": 169900,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "到了公司，坐在电脑前一整天，"
+    } ]
+  }, {
+    "tStartMs": 172967,
+    "dDurationMs": 2356,
+    "segs": [ {
+      "utf8": "敲键盘敲得手腕疼。"
+    } ]
+  }, {
+    "tStartMs": 175333,
+    "dDurationMs": 3024,
+    "segs": [ {
+      "utf8": "手机里工作群的消息一直响个不停，"
+    } ]
+  }, {
+    "tStartMs": 178367,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "下班还要加班。"
+    } ]
+  }, {
+    "tStartMs": 180267,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "哎，"
+    } ]
+  }, {
+    "tStartMs": 180667,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "回到家里，累得连做饭的力气都没有，"
+    } ]
+  }, {
+    "tStartMs": 183767,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "只能随便点个外卖填饱肚子。"
+    } ]
+  }, {
+    "tStartMs": 186600,
+    "dDurationMs": 3957,
+    "segs": [ {
+      "utf8": "你说的这些，真的是每个大城市上班族的日常。"
+    } ]
+  }, {
+    "tStartMs": 190567,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "现在的城市生活节奏太快了，"
+    } ]
+  }, {
+    "tStartMs": 193200,
+    "dDurationMs": 3857,
+    "segs": [ {
+      "utf8": "每个人都像是在一台高速运转的跑步机上。"
+    } ]
+  }, {
+    "tStartMs": 197067,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "你一旦站了上去，就必须跟着一直往前跑。"
+    } ]
+  }, {
+    "tStartMs": 200600,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "你不敢停下来，因为只要你慢一步，"
+    } ]
+  }, {
+    "tStartMs": 203567,
+    "dDurationMs": 4123,
+    "segs": [ {
+      "utf8": "可能就会被后面的人挤下去，或者被时代抛弃。"
+    } ]
+  }, {
+    "tStartMs": 207700,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "这种压力让很多人感到喘不过气来。"
+    } ]
+  }, {
+    "tStartMs": 211100,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "对！就是跑步机这种感觉！"
+    } ]
+  }, {
+    "tStartMs": 213900,
+    "dDurationMs": 3223,
+    "segs": [ {
+      "utf8": "我们每天都在跑，身心都非常累。"
+    } ]
+  }, {
+    "tStartMs": 217133,
+    "dDurationMs": 2824,
+    "segs": [ {
+      "utf8": "所以在视频里看到农村的生活，"
+    } ]
+  }, {
+    "tStartMs": 219967,
+    "dDurationMs": 3756,
+    "segs": [ {
+      "utf8": "就会觉得那简直是梦里的神仙生活。"
+    } ]
+  }, {
+    "tStartMs": 223733,
+    "dDurationMs": 1324,
+    "segs": [ {
+      "utf8": "你看视频里的人，"
+    } ]
+  }, {
+    "tStartMs": 225067,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "早上是被清脆的鸟叫声叫醒的，"
+    } ]
+  }, {
+    "tStartMs": 228167,
+    "dDurationMs": 4323,
+    "segs": [ {
+      "utf8": "推开窗户就是清新的空气和泥土的香味。"
+    } ]
+  }, {
+    "tStartMs": 232500,
+    "dDurationMs": 957,
+    "segs": [ {
+      "utf8": "肚子饿了，"
+    } ]
+  }, {
+    "tStartMs": 233467,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "就慢悠悠地走到自家的菜园子里，摘"
+    } ]
+  }, {
+    "tStartMs": 236267,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "两根带露水的黄瓜，摘几个新鲜的红西红柿。"
+    } ]
+  }, {
+    "tStartMs": 240667,
+    "dDurationMs": 3056,
+    "segs": [ {
+      "utf8": "做饭的时候用柴火大锅慢慢煮，"
+    } ]
+  }, {
+    "tStartMs": 243733,
+    "dDurationMs": 1724,
+    "segs": [ {
+      "utf8": "没有人催你赶时间，"
+    } ]
+  }, {
+    "tStartMs": 245467,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "没有开不完的会议，也没有看不完的工作消息。"
+    } ]
+  }, {
+    "tStartMs": 250467,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "照你这么说，这些农村生活视频"
+    } ]
+  }, {
+    "tStartMs": 253667,
+    "dDurationMs": 1856,
+    "segs": [ {
+      "utf8": "对现在的年轻人来说，"
+    } ]
+  }, {
+    "tStartMs": 255533,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "就像是一个精神上的氧气瓶。"
+    } ]
+  }, {
+    "tStartMs": 258300,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "大家在钢筋水泥的城市森林里"
+    } ]
+  }, {
+    "tStartMs": 261067,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "快要缺氧了，打开视频"
+    } ]
+  }, {
+    "tStartMs": 263367,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "吸上一口来自乡村的新鲜氧气，"
+    } ]
+  }, {
+    "tStartMs": 266300,
+    "dDurationMs": 3457,
+    "segs": [ {
+      "utf8": "才能有力气继续面对明天的生活。"
+    } ]
+  }, {
+    "tStartMs": 269767,
+    "dDurationMs": 4123,
+    "segs": [ {
+      "utf8": "哇，李明，你这个氧气瓶的比喻太形象了！"
+    } ]
+  }, {
+    "tStartMs": 273900,
+    "dDurationMs": 1423,
+    "segs": [ {
+      "utf8": "真的很贴切。"
+    } ]
+  }, {
+    "tStartMs": 275333,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "看着视频里那些慢节奏的画面，"
+    } ]
+  }, {
+    "tStartMs": 278200,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "比如博主花好几个月的时间等待一粒种子发芽、"
+    } ]
+  }, {
+    "tStartMs": 282700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "开花、结果，"
+    } ]
+  }, {
+    "tStartMs": 284300,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "然后再慢慢把它做成美食，"
+    } ]
+  }, {
+    "tStartMs": 287067,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "我的心跳好像都会跟着慢下来，"
+    } ]
+  }, {
+    "tStartMs": 290100,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "觉得生活原本就应该这么美好。"
+    } ]
+  }, {
+    "tStartMs": 292867,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "其实，这种向往乡村生活的情感，"
+    } ]
+  }, {
+    "tStartMs": 295967,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "在中国人的文化里早就存在了。"
+    } ]
+  }, {
+    "tStartMs": 298933,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "你肯定还记得陶渊明吧？"
+    } ]
+  }, {
+    "tStartMs": 301200,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "当然记得啦！"
+    } ]
+  }, {
+    "tStartMs": 302533,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "“采菊东篱下，悠然见南山”，"
+    } ]
+  }, {
+    "tStartMs": 305700,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "我们读书的时候都背过。"
+    } ]
+  }, {
+    "tStartMs": 307867,
+    "dDurationMs": 3856,
+    "segs": [ {
+      "utf8": "没错。陶渊明生活在一千六百多年前，"
+    } ]
+  }, {
+    "tStartMs": 311733,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "他当时本来也是在官场做官的，"
+    } ]
+  }, {
+    "tStartMs": 314700,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "但是他觉得官场里勾心斗角，"
+    } ]
+  }, {
+    "tStartMs": 317300,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "生活太累、太假，压力特别大。"
+    } ]
+  }, {
+    "tStartMs": 320733,
+    "dDurationMs": 2324,
+    "segs": [ {
+      "utf8": "后来他索性辞官不做了，"
+    } ]
+  }, {
+    "tStartMs": 323067,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "回到农村老家去种田，"
+    } ]
+  }, {
+    "tStartMs": 325100,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "过起了虽然清贫但很自由的生活。"
+    } ]
+  }, {
+    "tStartMs": 328700,
+    "dDurationMs": 657,
+    "segs": [ {
+      "utf8": "你看，"
+    } ]
+  }, {
+    "tStartMs": 329367,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "一千多年前的古人和现在的年轻人，"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "面对的烦恼其实是相通的。"
+    } ]
+  }, {
+    "tStartMs": 334900,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "原来古人也有逃离大城市的想法啊！"
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "这么说来，我们中国人骨子里"
+    } ]
+  }, {
+    "tStartMs": 340300,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "是不是一直都有这种田园梦？"
+    } ]
+  }, {
+    "tStartMs": 342700,
+    "dDurationMs": 1357,
+    "segs": [ {
+      "utf8": "可以这么说。"
+    } ]
+  }, {
+    "tStartMs": 344067,
+    "dDurationMs": 4723,
+    "segs": [ {
+      "utf8": "中国人对土地、对大自然有一种天生的亲切感。"
+    } ]
+  }, {
+    "tStartMs": 348800,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "很多在城市高楼大厦里长大的年轻人，"
+    } ]
+  }, {
+    "tStartMs": 352000,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "虽然每天离不开智能手机、"
+    } ]
+  }, {
+    "tStartMs": 354400,
+    "dDurationMs": 4557,
+    "segs": [ {
+      "utf8": "外卖软件和高铁，但只要看到泥土、小溪、"
+    } ]
+  }, {
+    "tStartMs": 358967,
+    "dDurationMs": 1223,
+    "segs": [ {
+      "utf8": "瓜果蔬菜，"
+    } ]
+  }, {
+    "tStartMs": 360200,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "心里那份关于乡村的文化记忆就会被唤醒。"
+    } ]
+  }, {
+    "tStartMs": 364500,
+    "dDurationMs": 623,
+    "segs": [ {
+      "utf8": "真的！"
+    } ]
+  }, {
+    "tStartMs": 365133,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "每次看到视频里下大雨的时候，"
+    } ]
+  }, {
+    "tStartMs": 367600,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "博主坐在屋檐下，泡上一壶热茶，"
+    } ]
+  }, {
+    "tStartMs": 370567,
+    "dDurationMs": 2323,
+    "segs": [ {
+      "utf8": "一边听着雨声一边发呆，"
+    } ]
+  }, {
+    "tStartMs": 372900,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "我都恨不得马上辞职，收拾行李"
+    } ]
+  }, {
+    "tStartMs": 375533,
+    "dDurationMs": 3224,
+    "segs": [ {
+      "utf8": "去乡下租个带院子的小房子住下来。"
+    } ]
+  }, {
+    "tStartMs": 378767,
+    "dDurationMs": 3223,
+    "segs": [ {
+      "utf8": "李明，你说如果我也去农村生活，"
+    } ]
+  }, {
+    "tStartMs": 382000,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "会不会每天都特别快乐、再也没有烦恼了？"
+    } ]
+  }, {
+    "tStartMs": 385667,
+    "dDurationMs": 3856,
+    "segs": [ {
+      "utf8": "王雨，你这可就想得太美好了。"
+    } ]
+  }, {
+    "tStartMs": 389533,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "这就是我想和你聊的另一个方面了。"
+    } ]
+  }, {
+    "tStartMs": 392267,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "我觉得很多年轻人看视频看久了，"
+    } ]
+  }, {
+    "tStartMs": 395467,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "容易把真实的农村生活给美化了。"
+    } ]
+  }, {
+    "tStartMs": 398867,
+    "dDurationMs": 1123,
+    "segs": [ {
+      "utf8": "视频里展示的，"
+    } ]
+  }, {
+    "tStartMs": 400000,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "往往只是经过精心剪辑的"
+    } ]
+  }, {
+    "tStartMs": 401933,
+    "dDurationMs": 3857,
+    "segs": [ {
+      "utf8": "几分钟美好时光，但真实的农村生活，"
+    } ]
+  }, {
+    "tStartMs": 405800,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "可没有背景音乐那么轻松浪漫。"
+    } ]
+  }, {
+    "tStartMs": 408700,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "真实的农村生活会有多难呢？"
+    } ]
+  }, {
+    "tStartMs": 411267,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "不就是种种菜、养养鸡、做做饭吗？"
+    } ]
+  }, {
+    "tStartMs": 414367,
+    "dDurationMs": 956,
+    "segs": [ {
+      "utf8": "多自由啊！"
+    } ]
+  }, {
+    "tStartMs": 415333,
+    "dDurationMs": 4957,
+    "segs": [ {
+      "utf8": "种菜听起来很惬意，但做起来其实是重体力活。"
+    } ]
+  }, {
+    "tStartMs": 420300,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "春天要顶着风翻土施肥，"
+    } ]
+  }, {
+    "tStartMs": 422900,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "夏天太阳毒辣，气温三十多度，"
+    } ]
+  }, {
+    "tStartMs": 425867,
+    "dDurationMs": 4823,
+    "segs": [ {
+      "utf8": "你得蹲在泥地里拔草、捉虫子，晒得满头大汗。"
+    } ]
+  }, {
+    "tStartMs": 430700,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "冬天很多北方的老房子没有暖气，"
+    } ]
+  }, {
+    "tStartMs": 434133,
+    "dDurationMs": 2924,
+    "segs": [ {
+      "utf8": "屋里屋外一样冰冷刺骨。"
+    } ]
+  }, {
+    "tStartMs": 437067,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "更重要的是，农村的生活配套设施没有城市方便。"
+    } ]
+  }, {
+    "tStartMs": 441467,
+    "dDurationMs": 3323,
+    "segs": [ {
+      "utf8": "没有走两步就能到的二十四小时便利店，"
+    } ]
+  }, {
+    "tStartMs": 444800,
+    "dDurationMs": 2123,
+    "segs": [ {
+      "utf8": "没有大商场和电影院，"
+    } ]
+  }, {
+    "tStartMs": 446933,
+    "dDurationMs": 4857,
+    "segs": [ {
+      "utf8": "外卖送不到村口，快递可能要自己骑车去镇上取。"
+    } ]
+  }, {
+    "tStartMs": 451800,
+    "dDurationMs": 3557,
+    "segs": [ {
+      "utf8": "生病了去好医院看病，路程也很远。"
+    } ]
+  }, {
+    "tStartMs": 455367,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "而且，到了夏天，"
+    } ]
+  }, {
+    "tStartMs": 456967,
+    "dDurationMs": 3956,
+    "segs": [ {
+      "utf8": "院子里有各种各样的大虫子和咬人的蚊子。"
+    } ]
+  }, {
+    "tStartMs": 460933,
+    "dDurationMs": 2324,
+    "segs": [ {
+      "utf8": "哎呀，李明你别说了！"
+    } ]
+  }, {
+    "tStartMs": 463267,
+    "dDurationMs": 2423,
+    "segs": [ {
+      "utf8": "我从小最怕的就是虫子了，"
+    } ]
+  }, {
+    "tStartMs": 465700,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "要是房间里有一只大蜘蛛，"
+    } ]
+  }, {
+    "tStartMs": 467700,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "我晚上都吓得睡不着觉。"
+    } ]
+  }, {
+    "tStartMs": 470400,
+    "dDurationMs": 2557,
+    "segs": [ {
+      "utf8": "所以啊，真实的乡村生活"
+    } ]
+  }, {
+    "tStartMs": 472967,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "不仅需要耐得住寂寞，"
+    } ]
+  }, {
+    "tStartMs": 474867,
+    "dDurationMs": 4656,
+    "segs": [ {
+      "utf8": "更需要强壮的体力和面对生活不便的耐力。"
+    } ]
+  }, {
+    "tStartMs": 479533,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "很多在城市生活习惯了的年轻人，"
+    } ]
+  }, {
+    "tStartMs": 481800,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "如果真的突然搬到农村去住，"
+    } ]
+  }, {
+    "tStartMs": 484500,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "可能过了三天新鲜劲儿，"
+    } ]
+  }, {
+    "tStartMs": 486767,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "到了第四天就会受不了想回城里了。"
+    } ]
+  }, {
+    "tStartMs": 489733,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "听你这么一分析，好像真的是这样。"
+    } ]
+  }, {
+    "tStartMs": 492800,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "我们好像不是真的想回到农村"
+    } ]
+  }, {
+    "tStartMs": 495200,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "去每天干农活，我们只是"
+    } ]
+  }, {
+    "tStartMs": 497133,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "太喜欢看别人过那种生活了。"
+    } ]
+  }, {
+    "tStartMs": 500567,
+    "dDurationMs": 1156,
+    "segs": [ {
+      "utf8": "对，在心理学上，"
+    } ]
+  }, {
+    "tStartMs": 501733,
+    "dDurationMs": 3524,
+    "segs": [ {
+      "utf8": "这种现象常常被称为替代性满足。"
+    } ]
+  }, {
+    "tStartMs": 505267,
+    "dDurationMs": 1056,
+    "segs": [ {
+      "utf8": "意思就是说，"
+    } ]
+  }, {
+    "tStartMs": 506333,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "有些事情因为现实条件的限制，"
+    } ]
+  }, {
+    "tStartMs": 509333,
+    "dDurationMs": 1724,
+    "segs": [ {
+      "utf8": "我们自己没办法去做，"
+    } ]
+  }, {
+    "tStartMs": 511067,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "或者没有勇气去做，但是"
+    } ]
+  }, {
+    "tStartMs": 513267,
+    "dDurationMs": 2656,
+    "segs": [ {
+      "utf8": "当我们看到别人在视频里做到了，"
+    } ]
+  }, {
+    "tStartMs": 515933,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "我们就会把自己代入进去，在心里"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "获得一种虚拟的满足感和幸福感。"
+    } ]
+  }, {
+    "tStartMs": 522400,
+    "dDurationMs": 1123,
+    "segs": [ {
+      "utf8": "确实是这样。"
+    } ]
+  }, {
+    "tStartMs": 523533,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "我知道自己放不下城市里的工作机会，"
+    } ]
+  }, {
+    "tStartMs": 526533,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "也离不开便利的现代生活，"
+    } ]
+  }, {
+    "tStartMs": 528900,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "更离不开周末和朋友一起喝奶茶、"
+    } ]
+  }, {
+    "tStartMs": 531733,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "吃火锅。但我每天看这些视频，"
+    } ]
+  }, {
+    "tStartMs": 534733,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "博主帮我种了菜，帮我看了夕阳，"
+    } ]
+  }, {
+    "tStartMs": 537800,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "帮我做了一碗热气腾腾的手擀面，"
+    } ]
+  }, {
+    "tStartMs": 540800,
+    "dDurationMs": 3457,
+    "segs": [ {
+      "utf8": "我就好像也跟着体验了一次纯粹的生活。"
+    } ]
+  }, {
+    "tStartMs": 544267,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "是的，这也是为什么"
+    } ]
+  }, {
+    "tStartMs": 545967,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "乡村博主能吸引这么多粉丝的原因。"
+    } ]
+  }, {
+    "tStartMs": 549400,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "他们像是一个造梦师，为疲惫的城市人"
+    } ]
+  }, {
+    "tStartMs": 553067,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "打造了一个温暖的避风港。"
+    } ]
+  }, {
+    "tStartMs": 555567,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "而且你注意到没有，"
+    } ]
+  }, {
+    "tStartMs": 557067,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "这些视频不仅画面好看，声音也处理得特别好。"
+    } ]
+  }, {
+    "tStartMs": 561367,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "声音怎么了？"
+    } ]
+  }, {
+    "tStartMs": 562667,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "我平时确实觉得听着很舒服。"
+    } ]
+  }, {
+    "tStartMs": 565400,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "视频里的声音非常干净，"
+    } ]
+  }, {
+    "tStartMs": 567567,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "专门放大了大自然的细节声音。"
+    } ]
+  }, {
+    "tStartMs": 570533,
+    "dDurationMs": 3624,
+    "segs": [ {
+      "utf8": "比如菜刀切在木砧板上整齐的声音，"
+    } ]
+  }, {
+    "tStartMs": 574167,
+    "dDurationMs": 2356,
+    "segs": [ {
+      "utf8": "泉水流过石头的哗啦声，"
+    } ]
+  }, {
+    "tStartMs": 576533,
+    "dDurationMs": 4257,
+    "segs": [ {
+      "utf8": "甚至是小猫喝水、风吹竹林的沙沙声。"
+    } ]
+  }, {
+    "tStartMs": 580800,
+    "dDurationMs": 1257,
+    "segs": [ {
+      "utf8": "在现代城市里，"
+    } ]
+  }, {
+    "tStartMs": 582067,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "我们每天耳朵里充斥的都是汽车鸣"
+    } ]
+  }, {
+    "tStartMs": 584933,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "笛声、地铁广播声、键盘敲击声和商场的喧闹声。"
+    } ]
+  }, {
+    "tStartMs": 590333,
+    "dDurationMs": 2224,
+    "segs": [ {
+      "utf8": "当这些大自然的声音通过耳"
+    } ]
+  }, {
+    "tStartMs": 592567,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "机传进耳朵时，人的大脑神经"
+    } ]
+  }, {
+    "tStartMs": 595300,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "会自然地接收到放松的信号。"
+    } ]
+  }, {
+    "tStartMs": 597933,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "难怪很多网友都说，这些视频是最好的助眠神曲！"
+    } ]
+  }, {
+    "tStartMs": 602533,
+    "dDurationMs": 2224,
+    "segs": [ {
+      "utf8": "我好多朋友晚上睡不着觉，"
+    } ]
+  }, {
+    "tStartMs": 604767,
+    "dDurationMs": 3923,
+    "segs": [ {
+      "utf8": "只要听着乡村视频的声音，很快就能睡着。"
+    } ]
+  }, {
+    "tStartMs": 608700,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "而且不仅在国内很火，"
+    } ]
+  }, {
+    "tStartMs": 610733,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "在国外的社交平台上，"
+    } ]
+  }, {
+    "tStartMs": 612567,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "中国的乡村视频播放量也特别高。"
+    } ]
+  }, {
+    "tStartMs": 615567,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "很多外国朋友虽然听不懂中文，"
+    } ]
+  }, {
+    "tStartMs": 618500,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "但也看得津津有味。"
+    } ]
+  }, {
+    "tStartMs": 620300,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "这说明对慢节奏美好生活的向往，"
+    } ]
+  }, {
+    "tStartMs": 623733,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "是全世界人类共通的情感。"
+    } ]
+  }, {
+    "tStartMs": 626467,
+    "dDurationMs": 3856,
+    "segs": [ {
+      "utf8": "像李子柒的视频，在海外就特别受欢迎。"
+    } ]
+  }, {
+    "tStartMs": 630333,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "她的视频里不仅有美丽的乡村风光，"
+    } ]
+  }, {
+    "tStartMs": 633300,
+    "dDurationMs": 4557,
+    "segs": [ {
+      "utf8": "更展现了一种按照中国传统时令生活的方式。"
+    } ]
+  }, {
+    "tStartMs": 637867,
+    "dDurationMs": 4323,
+    "segs": [ {
+      "utf8": "对，春生、夏长、秋收、冬藏。"
+    } ]
+  }, {
+    "tStartMs": 642200,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "没错。"
+    } ]
+  }, {
+    "tStartMs": 643100,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "她春天采摘新鲜的花朵做糕点，"
+    } ]
+  }, {
+    "tStartMs": 646267,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "夏天摘莲蓬煮清茶，"
+    } ]
+  }, {
+    "tStartMs": 648800,
+    "dDurationMs": 3923,
+    "segs": [ {
+      "utf8": "秋天收获金黄的玉米和红红的柿子，"
+    } ]
+  }, {
+    "tStartMs": 652733,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "冬天在暖炉旁边烤红薯、做腊肉。"
+    } ]
+  }, {
+    "tStartMs": 656733,
+    "dDurationMs": 1524,
+    "segs": [ {
+      "utf8": "这种跟随一年四季"
+    } ]
+  }, {
+    "tStartMs": 658267,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "自然变化的生活节奏，"
+    } ]
+  }, {
+    "tStartMs": 660167,
+    "dDurationMs": 3356,
+    "segs": [ {
+      "utf8": "让现代人感受到了生命原本的韵律。"
+    } ]
+  }, {
+    "tStartMs": 663533,
+    "dDurationMs": 1157,
+    "segs": [ {
+      "utf8": "在城市里，"
+    } ]
+  }, {
+    "tStartMs": 664700,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "办公室常年开着二十六度的中央空调，"
+    } ]
+  }, {
+    "tStartMs": 668133,
+    "dDurationMs": 4757,
+    "segs": [ {
+      "utf8": "我们甚至常常忘记了现在是春天还是秋天。"
+    } ]
+  }, {
+    "tStartMs": 672900,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "真的，有时候忙起来，"
+    } ]
+  }, {
+    "tStartMs": 674867,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "抬头一看窗外，树叶都黄了，"
+    } ]
+  }, {
+    "tStartMs": 677800,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "才突然发现一年又要过去了。"
+    } ]
+  }, {
+    "tStartMs": 680767,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "不过李明，虽然看这些视频很解压，"
+    } ]
+  }, {
+    "tStartMs": 684267,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "但我有时候看完之后，"
+    } ]
+  }, {
+    "tStartMs": 686167,
+    "dDurationMs": 2356,
+    "segs": [ {
+      "utf8": "再看看自己乱糟糟的房间"
+    } ]
+  }, {
+    "tStartMs": 688533,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "和堆满文件的办公桌，"
+    } ]
+  }, {
+    "tStartMs": 690500,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "心里偶尔会有一种空落落的落差感。"
+    } ]
+  }, {
+    "tStartMs": 693800,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "我会想，明天早上还是要挤早高峰，"
+    } ]
+  }, {
+    "tStartMs": 697400,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "还是要处理很多棘手的工作，现实依然没有改变。"
+    } ]
+  }, {
+    "tStartMs": 702400,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "很多年轻人可能也有我这种情绪，"
+    } ]
+  }, {
+    "tStartMs": 705500,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "这时候我们应该怎么调整心态呢？"
+    } ]
+  }, {
+    "tStartMs": 708333,
+    "dDurationMs": 3957,
+    "segs": [ {
+      "utf8": "这种感受很正常，很多年轻人都会遇到。"
+    } ]
+  }, {
+    "tStartMs": 712300,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "但我觉得，我们其实不需要把城"
+    } ]
+  }, {
+    "tStartMs": 714800,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "市和乡村完全对立起来。"
+    } ]
+  }, {
+    "tStartMs": 717067,
+    "dDurationMs": 3656,
+    "segs": [ {
+      "utf8": "追求慢生活，并不意味着你一定要辞职"
+    } ]
+  }, {
+    "tStartMs": 720733,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "搬去大山里。"
+    } ]
+  }, {
+    "tStartMs": 721933,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "在到处都是车水马龙的大城市里，"
+    } ]
+  }, {
+    "tStartMs": 724800,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "难道也能过上慢生活吗？"
+    } ]
+  }, {
+    "tStartMs": 727267,
+    "dDurationMs": 1223,
+    "segs": [ {
+      "utf8": "这要怎么做到呢？"
+    } ]
+  }, {
+    "tStartMs": 728500,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "慢生活本质上不是指你住在哪里，"
+    } ]
+  }, {
+    "tStartMs": 732100,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "而是指你内心的一种态度和状态。"
+    } ]
+  }, {
+    "tStartMs": 735767,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "如果你满脑子都是焦虑，"
+    } ]
+  }, {
+    "tStartMs": 737700,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "就算把你放在最美的山水之间，"
+    } ]
+  }, {
+    "tStartMs": 740400,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "你也无法真正放松下来。"
+    } ]
+  }, {
+    "tStartMs": 742567,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "相反，就算身在繁华的大都市，"
+    } ]
+  }, {
+    "tStartMs": 745467,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "我们也可以在日常琐碎的生活里，"
+    } ]
+  }, {
+    "tStartMs": 748100,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "主动给自己创造一些慢下来的时刻。"
+    } ]
+  }, {
+    "tStartMs": 751400,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "比如在生活中可以做些什么呢？"
+    } ]
+  }, {
+    "tStartMs": 754467,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "你快教教我！"
+    } ]
+  }, {
+    "tStartMs": 755467,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "比如周末的时候，别总躺在床上刷一整天短视频。"
+    } ]
+  }, {
+    "tStartMs": 760167,
+    "dDurationMs": 1823,
+    "segs": [ {
+      "utf8": "你可以早起半个小时，"
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "去附近充满烟火气的早市逛逛。"
+    } ]
+  }, {
+    "tStartMs": 765300,
+    "dDurationMs": 3823,
+    "segs": [ {
+      "utf8": "挑两颗新鲜的蔬菜，买一把喜欢的水果。"
+    } ]
+  }, {
+    "tStartMs": 769133,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "回家后，把手机放在一边，"
+    } ]
+  }, {
+    "tStartMs": 771400,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "认认真真地为自己做一顿早餐。"
+    } ]
+  }, {
+    "tStartMs": 774133,
+    "dDurationMs": 2724,
+    "segs": [ {
+      "utf8": "洗菜的时候摸摸清凉的水，"
+    } ]
+  }, {
+    "tStartMs": 776867,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "切菜的时候感受一下食材的质感。"
+    } ]
+  }, {
+    "tStartMs": 779733,
+    "dDurationMs": 1457,
+    "segs": [ {
+      "utf8": "当你全心全意"
+    } ]
+  }, {
+    "tStartMs": 781200,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "专注于眼前这一顿饭的时候，其实"
+    } ]
+  }, {
+    "tStartMs": 784300,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "你就在过属于你自己的慢生活了。"
+    } ]
+  }, {
+    "tStartMs": 787000,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "听起来一点都不难！"
+    } ]
+  }, {
+    "tStartMs": 788900,
+    "dDurationMs": 3423,
+    "segs": [ {
+      "utf8": "我想到了，我也可以在阳台的花盆里"
+    } ]
+  }, {
+    "tStartMs": 792333,
+    "dDurationMs": 4657,
+    "segs": [ {
+      "utf8": "种上两颗小西红柿，或者种上一把小葱和薄荷。"
+    } ]
+  }, {
+    "tStartMs": 797000,
+    "dDurationMs": 3057,
+    "segs": [ {
+      "utf8": "每天下班回家给它们浇一点水，"
+    } ]
+  }, {
+    "tStartMs": 800067,
+    "dDurationMs": 3056,
+    "segs": [ {
+      "utf8": "看着绿油油的小叶子一点点长大，"
+    } ]
+  }, {
+    "tStartMs": 803133,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "心里肯定会特别有成就感。"
+    } ]
+  }, {
+    "tStartMs": 805600,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "这个想法太棒了！"
+    } ]
+  }, {
+    "tStartMs": 807400,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "这就是在城市的水泥森林里，"
+    } ]
+  }, {
+    "tStartMs": 810167,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "给自己开辟了一个小小的微缩乡村。"
+    } ]
+  }, {
+    "tStartMs": 813300,
+    "dDurationMs": 2823,
+    "segs": [ {
+      "utf8": "再比如，下班路上如果不赶时间，"
+    } ]
+  }, {
+    "tStartMs": 816133,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "我们可以提前一站地铁下车，"
+    } ]
+  }, {
+    "tStartMs": 818733,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "戴上耳机慢慢走一段路。"
+    } ]
+  }, {
+    "tStartMs": 820933,
+    "dDurationMs": 3157,
+    "segs": [ {
+      "utf8": "看看路边树木的叶子变黄了没有，"
+    } ]
+  }, {
+    "tStartMs": 824100,
+    "dDurationMs": 2357,
+    "segs": [ {
+      "utf8": "感受一下吹在脸上的晚风，"
+    } ]
+  }, {
+    "tStartMs": 826467,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "看看夕阳把天边的云染成橙红色。"
+    } ]
+  }, {
+    "tStartMs": 830367,
+    "dDurationMs": 2556,
+    "segs": [ {
+      "utf8": "只要你愿意停下匆忙的脚步，"
+    } ]
+  }, {
+    "tStartMs": 832933,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "大自然其实一直都在我们身边。"
+    } ]
+  }, {
+    "tStartMs": 835733,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "你这么一说，我心里一下子踏实多了。"
+    } ]
+  }, {
+    "tStartMs": 839167,
+    "dDurationMs": 3523,
+    "segs": [ {
+      "utf8": "原来我们喜欢看农村慢生活的视频，"
+    } ]
+  }, {
+    "tStartMs": 842700,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "不是为了逃避现实，"
+    } ]
+  }, {
+    "tStartMs": 844667,
+    "dDurationMs": 2256,
+    "segs": [ {
+      "utf8": "也不是为了去抱怨生活，而是它像一面镜子，"
+    } ]
+  }, {
+    "tStartMs": 846933,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "提醒我们要学会去发现"
+    } ]
+  }, {
+    "tStartMs": 849533,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "日常生活中微小而真实的美好。"
+    } ]
+  }, {
+    "tStartMs": 852967,
+    "dDurationMs": 2956,
+    "segs": [ {
+      "utf8": "是的。视频就像是一扇窗户，"
+    } ]
+  }, {
+    "tStartMs": 855933,
+    "dDurationMs": 1324,
+    "segs": [ {
+      "utf8": "我们透过窗户"
+    } ]
+  }, {
+    "tStartMs": 857267,
+    "dDurationMs": 3323,
+    "segs": [ {
+      "utf8": "看一看远方宁静的山水和田园，"
+    } ]
+  }, {
+    "tStartMs": 860600,
+    "dDurationMs": 1323,
+    "segs": [ {
+      "utf8": "深吸一口气，"
+    } ]
+  }, {
+    "tStartMs": 861933,
+    "dDurationMs": 2657,
+    "segs": [ {
+      "utf8": "然后带着一份平和的心情，"
+    } ]
+  }, {
+    "tStartMs": 864600,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "继续回到现实里好好生活。"
+    } ]
+  }, {
+    "tStartMs": 867400,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "把那份对大自然的爱，"
+    } ]
+  }, {
+    "tStartMs": 869300,
+    "dDurationMs": 4057,
+    "segs": [ {
+      "utf8": "变成把自己的每一天过得更有滋有味的动力。"
+    } ]
+  }, {
+    "tStartMs": 873367,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "今天聊得太透彻了！"
+    } ]
+  }, {
+    "tStartMs": 875267,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "不仅解答了我心里的疑惑，"
+    } ]
+  }, {
+    "tStartMs": 877500,
+    "dDurationMs": 3623,
+    "segs": [ {
+      "utf8": "还让我找到了在城市里寻找慢生活的方法。"
+    } ]
+  }, {
+    "tStartMs": 881133,
+    "dDurationMs": 2124,
+    "segs": [ {
+      "utf8": "李明，趁着节目的最后，"
+    } ]
+  }, {
+    "tStartMs": 883267,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "咱们是不是也要把今天聊天中"
+    } ]
+  }, {
+    "tStartMs": 885867,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "出现的几个实用核心词汇，"
+    } ]
+  }, {
+    "tStartMs": 888267,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "给正在收听我们节目的听众朋友们"
+    } ]
+  }, {
+    "tStartMs": 891133,
+    "dDurationMs": 2024,
+    "segs": [ {
+      "utf8": "简单总结梳理一下？"
+    } ]
+  }, {
+    "tStartMs": 893167,
+    "dDurationMs": 923,
+    "segs": [ {
+      "utf8": "好的，没问题。"
+    } ]
+  }, {
+    "tStartMs": 894100,
+    "dDurationMs": 3623,
+    "segs": [ {
+      "utf8": "今天我们聊到了很多日常生活中特别地道、"
+    } ]
+  }, {
+    "tStartMs": 897733,
+    "dDurationMs": 957,
+    "segs": [ {
+      "utf8": "实用的词语。"
+    } ]
+  }, {
+    "tStartMs": 898700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "首先是农村，"
+    } ]
+  }, {
+    "tStartMs": 900300,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "指乡村、乡下，和大城市是相对应的。"
+    } ]
+  }, {
+    "tStartMs": 903967,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "第二个是慢生活，代表一种放慢速度、"
+    } ]
+  }, {
+    "tStartMs": 908167,
+    "dDurationMs": 2623,
+    "segs": [ {
+      "utf8": "用心感受当下的生活态度。"
+    } ]
+  }, {
+    "tStartMs": 910800,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "第三个词是节奏，"
+    } ]
+  }, {
+    "tStartMs": 912967,
+    "dDurationMs": 2523,
+    "segs": [ {
+      "utf8": "比如大城市的生活节奏很快，"
+    } ]
+  }, {
+    "tStartMs": 915500,
+    "dDurationMs": 2223,
+    "segs": [ {
+      "utf8": "而乡村的生活节奏很慢。"
+    } ]
+  }, {
+    "tStartMs": 917733,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "第四个是压力，"
+    } ]
+  }, {
+    "tStartMs": 919900,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "面对繁重的工作或生活困难时"
+    } ]
+  }, {
+    "tStartMs": 922900,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "心里的紧绷感觉。第五个是自然，"
+    } ]
+  }, {
+    "tStartMs": 926600,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "既可以代表大自然的山川树木，"
+    } ]
+  }, {
+    "tStartMs": 929533,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "也可以形容一个人轻松、不做作的状态。"
+    } ]
+  }, {
+    "tStartMs": 932733,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "最后一个词是放松，"
+    } ]
+  }, {
+    "tStartMs": 934900,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "意思就是解开紧张的心情，"
+    } ]
+  }, {
+    "tStartMs": 937500,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "让身体和大脑休息下来。"
+    } ]
+  }, {
+    "tStartMs": 939800,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "这几个词"
+    } ]
+  }, {
+    "tStartMs": 941200,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "不仅在今天的对话里经常出现，"
+    } ]
+  }, {
+    "tStartMs": 944200,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "在平时的中文交流中也是超级高频的词汇。"
+    } ]
+  }, {
+    "tStartMs": 948400,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "大家可以把它们记在小本子上，"
+    } ]
+  }, {
+    "tStartMs": 950900,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "在日常对话中试着用起来！"
+    } ]
+  }, {
+    "tStartMs": 953667,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "那么今天节目的互动小问题来啦。"
+    } ]
+  }, {
+    "tStartMs": 956600,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "听众朋友们，"
+    } ]
+  }, {
+    "tStartMs": 957700,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "你们平时觉得工作或学习累的时候，"
+    } ]
+  }, {
+    "tStartMs": 961000,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "最喜欢通过什么样的方式来放松自己呢？"
+    } ]
+  }, {
+    "tStartMs": 964800,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "如果有机会的话，"
+    } ]
+  }, {
+    "tStartMs": 966200,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "你愿意去一个安静的农村住上一阵子吗？"
+    } ]
+  }, {
+    "tStartMs": 969600,
+    "dDurationMs": 3257,
+    "segs": [ {
+      "utf8": "非常期待在评论区看到大家的留言。"
+    } ]
+  }, {
+    "tStartMs": 972867,
+    "dDurationMs": 1456,
+    "segs": [ {
+      "utf8": "无论你们现在生活在"
+    } ]
+  }, {
+    "tStartMs": 974333,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "节奏飞快的大城市，"
+    } ]
+  }, {
+    "tStartMs": 976167,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "还是生活在安静祥和的乡村小镇，"
+    } ]
+  }, {
+    "tStartMs": 979367,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "都希望你们"
+    } ]
+  }, {
+    "tStartMs": 980367,
+    "dDurationMs": 2723,
+    "segs": [ {
+      "utf8": "能找到属于自己的生活平衡，"
+    } ]
+  }, {
+    "tStartMs": 983100,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "保持健康开心的心情。"
+    } ]
+  }, {
+    "tStartMs": 985133,
+    "dDurationMs": 3224,
+    "segs": [ {
+      "utf8": "没错，每天跟着我们学一点中文，"
+    } ]
+  }, {
+    "tStartMs": 988367,
+    "dDurationMs": 4156,
+    "segs": [ {
+      "utf8": "每天在生活中享受一点美好的慢时光。"
+    } ]
+  }, {
+    "tStartMs": 992533,
+    "dDurationMs": 3857,
+    "segs": [ {
+      "utf8": "感谢大家的收听，我们下期节目不见不散啦！"
+    } ]
+  }, {
+    "tStartMs": 996400,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "朋友们，下期见！"
+    } ]
+  } ]
+}

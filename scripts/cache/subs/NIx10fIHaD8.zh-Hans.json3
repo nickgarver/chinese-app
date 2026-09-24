@@ -1,0 +1,1459 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "今天的天气真不错"
+    } ]
+  }, {
+    "tStartMs": 3800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "好久没有见过这么好的天气了"
+    } ]
+  }, {
+    "tStartMs": 7933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "昨天还是大阴天"
+    } ]
+  }, {
+    "tStartMs": 10566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "狂风暴雨"
+    } ]
+  }, {
+    "tStartMs": 12466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "今天就放晴了"
+    } ]
+  }, {
+    "tStartMs": 14733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "蓝天白云"
+    } ]
+  }, {
+    "tStartMs": 16766,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "好天气，好心情"
+    } ]
+  }, {
+    "tStartMs": 19700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "感觉到秋天要来了"
+    } ]
+  }, {
+    "tStartMs": 22100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "虽然外面还是很晒，有点热"
+    } ]
+  }, {
+    "tStartMs": 25233,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "但已经没有那么闷热了"
+    } ]
+  }, {
+    "tStartMs": 28166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "风也凉爽了很多"
+    } ]
+  }, {
+    "tStartMs": 30766,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这个就是秋天"
+    } ]
+  }, {
+    "tStartMs": 33766,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "大家好呀"
+    } ]
+  }, {
+    "tStartMs": 34866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "好久不见"
+    } ]
+  }, {
+    "tStartMs": 36333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "你们这段时间过得怎么样呢"
+    } ]
+  }, {
+    "tStartMs": 39500,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "今年夏天你们是怎么度过的呢"
+    } ]
+  }, {
+    "tStartMs": 43333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "今年夏天啊"
+    } ]
+  }, {
+    "tStartMs": 44500,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我哪里都没有去"
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "在家非常专心地学习、工作"
+    } ]
+  }, {
+    "tStartMs": 50066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "偶尔运动一下"
+    } ]
+  }, {
+    "tStartMs": 52566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "大家都知道"
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "夏天呢，它是旅游的旺季"
+    } ]
+  }, {
+    "tStartMs": 57633,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "旺季，不是忘记东西的那个“忘记”"
+    } ]
+  }, {
+    "tStartMs": 61766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "是很多人旅游的季节"
+    } ]
+  }, {
+    "tStartMs": 64833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "因为夏天，暑假嘛"
+    } ]
+  }, {
+    "tStartMs": 67433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "孩子们都放假了"
+    } ]
+  }, {
+    "tStartMs": 69333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "父母带孩子去旅游"
+    } ]
+  }, {
+    "tStartMs": 72066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "还有一些很喜欢夏天旅游的人"
+    } ]
+  }, {
+    "tStartMs": 75366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "他们也会选择在夏天出去"
+    } ]
+  }, {
+    "tStartMs": 78733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "所以夏天就是旅游的旺季"
+    } ]
+  }, {
+    "tStartMs": 82200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "我一般不会选择夏天去旅游"
+    } ]
+  }, {
+    "tStartMs": 86066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "因为大家想一想"
+    } ]
+  }, {
+    "tStartMs": 88266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "夏天又热人又多"
+    } ]
+  }, {
+    "tStartMs": 92133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "价格又高"
+    } ]
+  }, {
+    "tStartMs": 93900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "体验感不太好"
+    } ]
+  }, {
+    "tStartMs": 96233,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "所以我更喜欢九月、十月这样的时候去旅游"
+    } ]
+  }, {
+    "tStartMs": 101233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "但是今年夏天"
+    } ]
+  }, {
+    "tStartMs": 102666,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我发现了两样好玩的东西"
+    } ]
+  }, {
+    "tStartMs": 106300,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "迫不及待地想要跟你们一起来分享"
+    } ]
+  }, {
+    "tStartMs": 109866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "今年夏天，我迷上了一项运动"
+    } ]
+  }, {
+    "tStartMs": 113100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "给你们看一下"
+    } ]
+  }, {
+    "tStartMs": 116633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "这是球拍"
+    } ]
+  }, {
+    "tStartMs": 118966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这是一项打球的运动"
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "大家看这个球拍"
+    } ]
+  }, {
+    "tStartMs": 124200,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "能不能说得出来我迷上的是什么运动呢"
+    } ]
+  }, {
+    "tStartMs": 129166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "大家知不知道这项运动"
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "没错，就是匹克球"
+    } ]
+  }, {
+    "tStartMs": 135166,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "现在在中国匹克球是越来越流行了"
+    } ]
+  }, {
+    "tStartMs": 139333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它的玩法跟网球很像"
+    } ]
+  }, {
+    "tStartMs": 141900,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "它的规则也跟网球很像"
+    } ]
+  }, {
+    "tStartMs": 144733,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "但是呢，它没有网球这么难"
+    } ]
+  }, {
+    "tStartMs": 148466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "它比网球更容易上手"
+    } ]
+  }, {
+    "tStartMs": 152366,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我是一个没有什么运动细胞的人"
+    } ]
+  }, {
+    "tStartMs": 156200,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "细胞，这个词非常有意思，细胞"
+    } ]
+  }, {
+    "tStartMs": 160433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "没有运动细胞"
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "这句话的意思就是说"
+    } ]
+  }, {
+    "tStartMs": 163666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "我没有什么运动的天赋和才能"
+    } ]
+  }, {
+    "tStartMs": 167666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "所以我说自己没有什么运动细胞"
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "同样地，如果你在音乐方面没有什么天赋和才能"
+    } ]
+  }, {
+    "tStartMs": 175400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "你也可以说"
+    } ]
+  }, {
+    "tStartMs": 177733,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "我没有音乐细胞"
+    } ]
+  }, {
+    "tStartMs": 182866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我没有艺术细胞"
+    } ]
+  }, {
+    "tStartMs": 185066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我不懂得欣赏这幅画"
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "我没有艺术细胞"
+    } ]
+  }, {
+    "tStartMs": 189766,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "连我这种没有运动细胞的人也能学习的运动"
+    } ]
+  }, {
+    "tStartMs": 195266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "它真的比较容易上手"
+    } ]
+  }, {
+    "tStartMs": 196900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "而且很有意思"
+    } ]
+  }, {
+    "tStartMs": 198900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "它用的球也是比较特别的"
+    } ]
+  }, {
+    "tStartMs": 201433,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "看，它跟网球，还有羽毛球是不是很不一样"
+    } ]
+  }, {
+    "tStartMs": 206033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "它是塑料的"
+    } ]
+  }, {
+    "tStartMs": 209633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "用塑料做的"
+    } ]
+  }, {
+    "tStartMs": 211266,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "还有很多个洞"
+    } ]
+  }, {
+    "tStartMs": 214466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "它上面有很多个洞"
+    } ]
+  }, {
+    "tStartMs": 217533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "这就是我想跟大家分享的第一样东西"
+    } ]
+  }, {
+    "tStartMs": 222100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "还有一样东西"
+    } ]
+  }, {
+    "tStartMs": 224300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "这是我的新“玩具”"
+    } ]
+  }, {
+    "tStartMs": 228200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "无人机"
+    } ]
+  }, {
+    "tStartMs": 230033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "迷你无人机"
+    } ]
+  }, {
+    "tStartMs": 231766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "因为我还是新手"
+    } ]
+  }, {
+    "tStartMs": 233666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "所以呢，就买了没有这么贵的无人机"
+    } ]
+  }, {
+    "tStartMs": 237433,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "这是给新手用的无人机"
+    } ]
+  }, {
+    "tStartMs": 241500,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "它非常地轻"
+    } ]
+  }, {
+    "tStartMs": 246033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "好像500克都不到"
+    } ]
+  }, {
+    "tStartMs": 248300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "它的重量好像只有三四百克"
+    } ]
+  }, {
+    "tStartMs": 253900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "它可以这样打开"
+    } ]
+  }, {
+    "tStartMs": 258733,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "打开以后，它就自动开机了"
+    } ]
+  }, {
+    "tStartMs": 270033,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "这样它就飞起来了"
+    } ]
+  }, {
+    "tStartMs": 273966,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "它现在就跟着我移动"
+    } ]
+  }, {
+    "tStartMs": 279733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "然后我把手放在它的下面"
+    } ]
+  }, {
+    "tStartMs": 283833,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "它就会落下来"
+    } ]
+  }, {
+    "tStartMs": 286700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "飞机将在5秒后关机"
+    } ]
+  }, {
+    "tStartMs": 288666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "按机身任意按键可取消关机"
+    } ]
+  }, {
+    "tStartMs": 292666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "把它收起来以后"
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "它就会自动关机了"
+    } ]
+  }, {
+    "tStartMs": 296166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "非常方便"
+    } ]
+  }, {
+    "tStartMs": 298600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我觉得玩无人机真的是特别有意思"
+    } ]
+  }, {
+    "tStartMs": 303433,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "但是呢，我现在还是新手"
+    } ]
+  }, {
+    "tStartMs": 306666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "而且我对机器真的不太了解"
+    } ]
+  }, {
+    "tStartMs": 310333,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "我学有关机器的东西比较慢"
+    } ]
+  }, {
+    "tStartMs": 314066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "但是我相信"
+    } ]
+  }, {
+    "tStartMs": 315500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "只要我多多练习"
+    } ]
+  }, {
+    "tStartMs": 317300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我能克服这个问题"
+    } ]
+  }, {
+    "tStartMs": 319933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "不管是匹克球还是无人机"
+    } ]
+  }, {
+    "tStartMs": 322200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "都需要我们多多地去练习"
+    } ]
+  }, {
+    "tStartMs": 324866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "才会有进步"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "学习语言也是一样的"
+    } ]
+  }, {
+    "tStartMs": 329666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "说起练习语言的话"
+    } ]
+  }, {
+    "tStartMs": 331866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "大家都知道"
+    } ]
+  }, {
+    "tStartMs": 332800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我非常推荐italki这个软件"
+    } ]
+  }, {
+    "tStartMs": 396033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你可以一节课一节课地买"
+    } ]
+  }, {
+    "tStartMs": 398133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "不需要一下子囤大量的课程"
+    } ]
+  }, {
+    "tStartMs": 400900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "时间和地点都是比较灵活的"
+    } ]
+  }, {
+    "tStartMs": 403366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "你的压力就没有那么大"
+    } ]
+  }, {
+    "tStartMs": 405300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "现在用我的优惠码"
+    } ]
+  }, {
+    "tStartMs": 407900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "在第一节课就能买10美金减5美金"
+    } ]
+  }, {
+    "tStartMs": 412133,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "另外在9月"
+    } ]
+  }, {
+    "tStartMs": 418600,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "它可以让你在45天之内坚持学习语言"
+    } ]
+  }, {
+    "tStartMs": 423166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "还有可以看到自己的进步"
+    } ]
+  }, {
+    "tStartMs": 425666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "学习语言的同时"
+    } ]
+  }, {
+    "tStartMs": 426933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "还有机会获得奖品"
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "在比赛中，排名前500名的参赛者可以得到特别的奖品哦"
+    } ]
+  }, {
+    "tStartMs": 434833,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "不要错过这次机会了"
+    } ]
+  }, {
+    "tStartMs": 436566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "赶紧去看看吧"
+    } ]
+  }, {
+    "tStartMs": 446200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "我的外卖到了"
+    } ]
+  }, {
+    "tStartMs": 452466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "我的快递也到了"
+    } ]
+  }, {
+    "tStartMs": 456933,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "最近在我家附近开了一家线上超市"
+    } ]
+  }, {
+    "tStartMs": 462600,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "线上超市"
+    } ]
+  }, {
+    "tStartMs": 463866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "它的名字也特别有意思"
+    } ]
+  }, {
+    "tStartMs": 465333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "叫“小象超市”"
+    } ]
+  }, {
+    "tStartMs": 468866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "在上面买东西呢"
+    } ]
+  }, {
+    "tStartMs": 470666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "很快就能送到你的家"
+    } ]
+  }, {
+    "tStartMs": 472733,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "大概30分钟"
+    } ]
+  }, {
+    "tStartMs": 474600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "二三十分钟就能到了"
+    } ]
+  }, {
+    "tStartMs": 477300,
+    "dDurationMs": 6933,
+    "segs": [ {
+      "utf8": "这就是我花了40元在小象超市买的东西"
+    } ]
+  }, {
+    "tStartMs": 484700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "看看我都买了些什么"
+    } ]
+  }, {
+    "tStartMs": 487300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "这个呢，是羽衣甘蓝"
+    } ]
+  }, {
+    "tStartMs": 490633,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "应该有很多人知道吧"
+    } ]
+  }, {
+    "tStartMs": 493266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "这是非常健康的蔬菜"
+    } ]
+  }, {
+    "tStartMs": 495600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "可以用来做蔬菜汁"
+    } ]
+  }, {
+    "tStartMs": 498400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "还有做沙拉"
+    } ]
+  }, {
+    "tStartMs": 502733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "买了三个土豆"
+    } ]
+  }, {
+    "tStartMs": 505466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "这个是去皮的"
+    } ]
+  }, {
+    "tStartMs": 507800,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "他已经帮你把皮去掉了"
+    } ]
+  }, {
+    "tStartMs": 510366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "去皮土豆，500克"
+    } ]
+  }, {
+    "tStartMs": 515200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "菠菜"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "好大的菠菜呀"
+    } ]
+  }, {
+    "tStartMs": 521666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "看起来很新鲜"
+    } ]
+  }, {
+    "tStartMs": 524066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "还有冻豆腐"
+    } ]
+  }, {
+    "tStartMs": 528066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "冻，冻过的豆腐"
+    } ]
+  }, {
+    "tStartMs": 530033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "冻过的豆腐就会变成这个样子"
+    } ]
+  }, {
+    "tStartMs": 536966,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "这边呢，是羊肉，羊肉卷"
+    } ]
+  }, {
+    "tStartMs": 543400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "200克"
+    } ]
+  }, {
+    "tStartMs": 548166,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "还有一瓶鲜牛奶"
+    } ]
+  }, {
+    "tStartMs": 552500,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "大家能不能猜出来我要做什么"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "我要做麻辣烫"
+    } ]
+  }, {
+    "tStartMs": 563333,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我有一个学生经常叫我吃麻辣烫"
+    } ]
+  }, {
+    "tStartMs": 567833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "做麻辣烫的视频"
+    } ]
+  }, {
+    "tStartMs": 570466,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "但是呢，麻辣烫在外面吃还是有点贵的"
+    } ]
+  }, {
+    "tStartMs": 574466,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "在家里吃又卫生又便宜"
+    } ]
+  }, {
+    "tStartMs": 579266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "而且麻辣烫的做法很简单"
+    } ]
+  }, {
+    "tStartMs": 582600,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我觉得很多人第一次做都能成功"
+    } ]
+  }, {
+    "tStartMs": 587766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "那现在先来看一下我们的材料吧"
+    } ]
+  }, {
+    "tStartMs": 591366,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "今天我有菠菜"
+    } ]
+  }, {
+    "tStartMs": 594666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "洗好的菠菜"
+    } ]
+  }, {
+    "tStartMs": 597066,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "土豆"
+    } ]
+  }, {
+    "tStartMs": 599033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "切片的土豆"
+    } ]
+  }, {
+    "tStartMs": 600866,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "还有这个就是冻豆腐"
+    } ]
+  }, {
+    "tStartMs": 608166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "羊肉卷"
+    } ]
+  }, {
+    "tStartMs": 609966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这些丸子"
+    } ]
+  }, {
+    "tStartMs": 612100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这丸子呢，很特别"
+    } ]
+  }, {
+    "tStartMs": 613900,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "它外面包的是糯米"
+    } ]
+  }, {
+    "tStartMs": 618300,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "非常特别"
+    } ]
+  }, {
+    "tStartMs": 619166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "但是它是肉丸"
+    } ]
+  }, {
+    "tStartMs": 621066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "它外面是糯米"
+    } ]
+  }, {
+    "tStartMs": 622866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "里面是肉"
+    } ]
+  }, {
+    "tStartMs": 624466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "香肠"
+    } ]
+  }, {
+    "tStartMs": 626300,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "鸡胸肉香肠"
+    } ]
+  }, {
+    "tStartMs": 629533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "这两根香肠是用鸡胸肉做的"
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "还有这一个"
+    } ]
+  }, {
+    "tStartMs": 637300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "这一个呢，是火锅底料"
+    } ]
+  }, {
+    "tStartMs": 640733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "火锅，大家都知道吧"
+    } ]
+  }, {
+    "tStartMs": 643233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "中国最有名的菜—火锅"
+    } ]
+  }, {
+    "tStartMs": 646833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "火锅底料"
+    } ]
+  }, {
+    "tStartMs": 648500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "大家吃麻辣火锅的时候"
+    } ]
+  }, {
+    "tStartMs": 651100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "这个呢，就是用来放进火锅里的"
+    } ]
+  }, {
+    "tStartMs": 655166,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "这是做麻辣烫的灵魂"
+    } ]
+  }, {
+    "tStartMs": 657933,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "如果没有它"
+    } ]
+  }, {
+    "tStartMs": 658933,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这个味道就不好吃、不正宗了"
+    } ]
+  }, {
+    "tStartMs": 663366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "还有牛奶"
+    } ]
+  }, {
+    "tStartMs": 665966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "麻辣烫里面其实放了牛奶"
+    } ]
+  }, {
+    "tStartMs": 669133,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "大家知不知道"
+    } ]
+  }, {
+    "tStartMs": 672300,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "好的，那现在我就来快速地做个麻辣烫吧"
+    } ]
+  }, {
+    "tStartMs": 680966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "点火"
+    } ]
+  }, {
+    "tStartMs": 683000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "把火打开"
+    } ]
+  }, {
+    "tStartMs": 685266,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "先把火锅底料放进去"
+    } ]
+  }, {
+    "tStartMs": 690600,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "一股火锅的香味就扑鼻而来了"
+    } ]
+  }, {
+    "tStartMs": 694466,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "我闻到了一股很香的火锅香味"
+    } ]
+  }, {
+    "tStartMs": 698566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "就是它发出来的味道"
+    } ]
+  }, {
+    "tStartMs": 701700,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "这块火锅底料会在锅里慢慢地融化"
+    } ]
+  }, {
+    "tStartMs": 709833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "哇，好香啊"
+    } ]
+  }, {
+    "tStartMs": 711266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "要流口水了"
+    } ]
+  }, {
+    "tStartMs": 717000,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "火锅底料完全融化了，太香了"
+    } ]
+  }, {
+    "tStartMs": 721433,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "我现在整个厨房都是火锅底料的香味"
+    } ]
+  }, {
+    "tStartMs": 726900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "我们可以把火开大一点"
+    } ]
+  }, {
+    "tStartMs": 730833,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "接下来呢，我们要倒进牛奶了"
+    } ]
+  }, {
+    "tStartMs": 744433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "还有倒水"
+    } ]
+  }, {
+    "tStartMs": 756400,
+    "dDurationMs": 7466,
+    "segs": [ {
+      "utf8": "我真的没想到牛奶跟火锅底料居然是这么地般配"
+    } ]
+  }, {
+    "tStartMs": 764066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "它们居然可以放在一起做菜"
+    } ]
+  }, {
+    "tStartMs": 768200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "现在呢，我们要等它煮开"
+    } ]
+  }, {
+    "tStartMs": 771100,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "煮开以后把食材放进去就可以了"
+    } ]
+  }, {
+    "tStartMs": 775866,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "现在沸腾了"
+    } ]
+  }, {
+    "tStartMs": 779133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "“咕噜咕噜”，沸腾了"
+    } ]
+  }, {
+    "tStartMs": 780833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我们就可以把食材都放进去煮了"
+    } ]
+  }, {
+    "tStartMs": 785333,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "现在呢，我们可以先把难熟的先放进去"
+    } ]
+  }, {
+    "tStartMs": 789666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "比较容易熟的呢"
+    } ]
+  }, {
+    "tStartMs": 791100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "可以晚点再放"
+    } ]
+  }, {
+    "tStartMs": 793333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "相对来说"
+    } ]
+  }, {
+    "tStartMs": 795200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "土豆是比较难熟的"
+    } ]
+  }, {
+    "tStartMs": 797933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "土豆先放"
+    } ]
+  }, {
+    "tStartMs": 803700,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "接下来就是丸子"
+    } ]
+  }, {
+    "tStartMs": 808300,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "丸子和香肠也可以放进去了"
+    } ]
+  }, {
+    "tStartMs": 821966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "羊肉它比较容易熟"
+    } ]
+  }, {
+    "tStartMs": 823933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "所以可以晚点再放"
+    } ]
+  }, {
+    "tStartMs": 827300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "冻豆腐"
+    } ]
+  }, {
+    "tStartMs": 836666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "菠菜也可以放进去了"
+    } ]
+  }, {
+    "tStartMs": 844000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "做麻辣烫的时候"
+    } ]
+  }, {
+    "tStartMs": 845433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "大家可以喜欢吃什么就放什么"
+    } ]
+  }, {
+    "tStartMs": 849233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "基本上都会很好吃的"
+    } ]
+  }, {
+    "tStartMs": 854000,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "这个汤汁看起来就很浓郁"
+    } ]
+  }, {
+    "tStartMs": 858166,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "因为火锅底料它已经有味道在里面了"
+    } ]
+  }, {
+    "tStartMs": 861600,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "所以不需要再加其他的调味料"
+    } ]
+  }, {
+    "tStartMs": 866500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "是不是很简单"
+    } ]
+  }, {
+    "tStartMs": 870700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "羊肉"
+    } ]
+  }, {
+    "tStartMs": 874400,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "这样等它全部煮熟了就可以吃了"
+    } ]
+  }, {
+    "tStartMs": 878200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "是不是很简单呢"
+    } ]
+  }, {
+    "tStartMs": 883133,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "我做的麻辣烫终于出锅了"
+    } ]
+  }, {
+    "tStartMs": 891666,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "是不是看起来还挺诱人的"
+    } ]
+  }, {
+    "tStartMs": 895700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "我喜欢吃麻辣烫的其中一个原因就是"
+    } ]
+  }, {
+    "tStartMs": 900066,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "吃麻辣烫我可以吃到很多不同的食物"
+    } ]
+  }, {
+    "tStartMs": 905166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "大家也可以去试一下哦"
+    } ]
+  }, {
+    "tStartMs": 413800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "欢迎大家来参加italki的语言挑战赛"
+    } ]
+  } ]
+}

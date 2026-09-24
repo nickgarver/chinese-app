@@ -1,0 +1,1243 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 33,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "现在我们在路边等出租车"
+    } ]
+  }, {
+    "tStartMs": 2900,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "今天我们会去一个新的商场"
+    } ]
+  }, {
+    "tStartMs": 6466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我会带你们逛一逛中国的商场"
+    } ]
+  }, {
+    "tStartMs": 9600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我刚刚打了车"
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "然后在等出租车"
+    } ]
+  }, {
+    "tStartMs": 16100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "现在我们在出租车上"
+    } ]
+  }, {
+    "tStartMs": 19266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "这个商场距离我家3公里"
+    } ]
+  }, {
+    "tStartMs": 22333,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "所以打车过去大概10分钟"
+    } ]
+  }, {
+    "tStartMs": 26100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "不到10分钟"
+    } ]
+  }, {
+    "tStartMs": 27400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我们到了这个商场"
+    } ]
+  }, {
+    "tStartMs": 29900,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "边上停了很多电动车"
+    } ]
+  }, {
+    "tStartMs": 35133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这里有一个很大的饭店"
+    } ]
+  }, {
+    "tStartMs": 37266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "它是吃鱼的"
+    } ]
+  }, {
+    "tStartMs": 49600,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "那里还有一个星巴克"
+    } ]
+  }, {
+    "tStartMs": 51366,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这里的绿化做的挺不错的"
+    } ]
+  }, {
+    "tStartMs": 53933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "等会我们可以走下去看看"
+    } ]
+  }, {
+    "tStartMs": 56833,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这里有一个走廊"
+    } ]
+  }, {
+    "tStartMs": 59700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "走吧"
+    } ]
+  }, {
+    "tStartMs": 60933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "这些挂的这些灯都很像我们家那边那样"
+    } ]
+  }, {
+    "tStartMs": 65033,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哦对是"
+    } ]
+  }, {
+    "tStartMs": 66200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "树上的这个星星月亮的灯"
+    } ]
+  }, {
+    "tStartMs": 69600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "晚上应该挺漂亮的"
+    } ]
+  }, {
+    "tStartMs": 74133,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "这里有一个花瓶形状的凉亭"
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "里面有一些凳子椅子小桌子"
+    } ]
+  }, {
+    "tStartMs": 84933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "可以在这里休息"
+    } ]
+  }, {
+    "tStartMs": 87433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "有点像一个鸟笼"
+    } ]
+  }, {
+    "tStartMs": 91100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这里有一个火锅店"
+    } ]
+  }, {
+    "tStartMs": 92800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "是一个连锁店"
+    } ]
+  }, {
+    "tStartMs": 94900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "在这边特别多"
+    } ]
+  }, {
+    "tStartMs": 97733,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后最上面的那个影城是电影院"
+    } ]
+  }, {
+    "tStartMs": 105333,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "远处还有一些正在建设的房子"
+    } ]
+  }, {
+    "tStartMs": 111100,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "现在我们进去看看"
+    } ]
+  }, {
+    "tStartMs": 119633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "哇这个房顶还挺好看的"
+    } ]
+  }, {
+    "tStartMs": 123466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这边是一些数码品牌的店"
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "是中国国产的数码品牌"
+    } ]
+  }, {
+    "tStartMs": 132700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这个美国的披萨店在中国"
+    } ]
+  }, {
+    "tStartMs": 134800,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "叫达美乐 达美乐披萨"
+    } ]
+  }, {
+    "tStartMs": 138300,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "这个超市看起来很干净很简洁"
+    } ]
+  }, {
+    "tStartMs": 144700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "这是桃酥"
+    } ]
+  }, {
+    "tStartMs": 148833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "一些烘焙的产品"
+    } ]
+  }, {
+    "tStartMs": 150966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这里有一些面包"
+    } ]
+  }, {
+    "tStartMs": 152666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这是什么"
+    } ]
+  }, {
+    "tStartMs": 154400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "坚果软法面包"
+    } ]
+  }, {
+    "tStartMs": 157066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "一袋是11块8"
+    } ]
+  }, {
+    "tStartMs": 160233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这个是贝果"
+    } ]
+  }, {
+    "tStartMs": 161700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "两个贝果10块8"
+    } ]
+  }, {
+    "tStartMs": 166000,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "然后远处有一些饮品饮料"
+    } ]
+  }, {
+    "tStartMs": 168833,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这里您无需查看配料表"
+    } ]
+  }, {
+    "tStartMs": 171266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "意思是它的配料表很干净"
+    } ]
+  }, {
+    "tStartMs": 178266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "无花果干"
+    } ]
+  }, {
+    "tStartMs": 180200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "三文鱼脆片"
+    } ]
+  }, {
+    "tStartMs": 181633,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "居然还是牛排味的"
+    } ]
+  }, {
+    "tStartMs": 183433,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "柠檬片它可以泡水喝的"
+    } ]
+  }, {
+    "tStartMs": 188100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这一大袋是12块8"
+    } ]
+  }, {
+    "tStartMs": 191633,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这里一共有3层"
+    } ]
+  }, {
+    "tStartMs": 196933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "精品店"
+    } ]
+  }, {
+    "tStartMs": 198733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这个是手机挂链"
+    } ]
+  }, {
+    "tStartMs": 203433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "挺可爱的"
+    } ]
+  }, {
+    "tStartMs": 205266,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这里有很多毛绒玩具"
+    } ]
+  }, {
+    "tStartMs": 210433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这有一面镜子"
+    } ]
+  }, {
+    "tStartMs": 212266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "有很多可爱的小杯子"
+    } ]
+  }, {
+    "tStartMs": 215933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这个是酒杯"
+    } ]
+  }, {
+    "tStartMs": 217700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这里有一些手链"
+    } ]
+  }, {
+    "tStartMs": 219800,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "很漂亮"
+    } ]
+  }, {
+    "tStartMs": 221800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "然后这个是耳环"
+    } ]
+  }, {
+    "tStartMs": 227200,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "项链"
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "解压玩具"
+    } ]
+  }, {
+    "tStartMs": 229100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "它是一个键盘按键"
+    } ]
+  }, {
+    "tStartMs": 244500,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 245266,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这是拼图"
+    } ]
+  }, {
+    "tStartMs": 248666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这是小米的电车"
+    } ]
+  }, {
+    "tStartMs": 250733,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "它就摆在商场的路中间"
+    } ]
+  }, {
+    "tStartMs": 253900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "展示给人看"
+    } ]
+  }, {
+    "tStartMs": 256000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我们现在坐电梯上去"
+    } ]
+  }, {
+    "tStartMs": 258500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "这是打电动的地方，有点吵"
+    } ]
+  }, {
+    "tStartMs": 264233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这一层有很多的饭店"
+    } ]
+  }, {
+    "tStartMs": 268633,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这是商场的按摩椅"
+    } ]
+  }, {
+    "tStartMs": 270900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "如果你在商场逛累了"
+    } ]
+  }, {
+    "tStartMs": 272700,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "就可以坐在这按摩"
+    } ]
+  }, {
+    "tStartMs": 274800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "这里有一个健身房叫加州游泳健身"
+    } ]
+  }, {
+    "tStartMs": 282233,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "现在我们坐电梯去第三层看一下"
+    } ]
+  }, {
+    "tStartMs": 286900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "第三层有一些什么东西"
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这里有一个影城"
+    } ]
+  }, {
+    "tStartMs": 290533,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "一般在中国的商场最顶层都是电影院"
+    } ]
+  }, {
+    "tStartMs": 295933,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "我们现在直接从3层这里出口出来"
+    } ]
+  }, {
+    "tStartMs": 301133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这里有一个乐园"
+    } ]
+  }, {
+    "tStartMs": 303300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "是小孩子玩的地方"
+    } ]
+  }, {
+    "tStartMs": 308200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "哦那里还有一个萌宠休息站"
+    } ]
+  }, {
+    "tStartMs": 311200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "是宠物休息的地方"
+    } ]
+  }, {
+    "tStartMs": 313500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "这里写着宠物游乐区域"
+    } ]
+  }, {
+    "tStartMs": 316633,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "儿童禁止入内"
+    } ]
+  }, {
+    "tStartMs": 319133,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "是给小狗玩的"
+    } ]
+  }, {
+    "tStartMs": 322233,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "在中国我们也会叫宠物叫毛孩子"
+    } ]
+  }, {
+    "tStartMs": 325933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "因为它们身上有很多毛"
+    } ]
+  }, {
+    "tStartMs": 327900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "然后它们又像是人类的孩子一样"
+    } ]
+  }, {
+    "tStartMs": 331466,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "这里还有爪子"
+    } ]
+  }, {
+    "tStartMs": 332733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "宠物的爪子"
+    } ]
+  }, {
+    "tStartMs": 334700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "现在我们坐电梯下去，去哪里"
+    } ]
+  }, {
+    "tStartMs": 338266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "去地下一层"
+    } ]
+  }, {
+    "tStartMs": 339900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "好去地下一层"
+    } ]
+  }, {
+    "tStartMs": 342700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "美食场"
+    } ]
+  }, {
+    "tStartMs": 345100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "对一般都是一些美食街"
+    } ]
+  }, {
+    "tStartMs": 347533,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "有很多小吃"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "现在我们走到了地下停车场"
+    } ]
+  }, {
+    "tStartMs": 352433,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "然后要穿过这个停车场"
+    } ]
+  }, {
+    "tStartMs": 354666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "前面是超市"
+    } ]
+  }, {
+    "tStartMs": 357200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "现在到了这个超市"
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这里卖一些鲜花"
+    } ]
+  }, {
+    "tStartMs": 361966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "红豆面包"
+    } ]
+  }, {
+    "tStartMs": 364533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "吐司"
+    } ]
+  }, {
+    "tStartMs": 365433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这一排都是熟食"
+    } ]
+  }, {
+    "tStartMs": 370100,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "这是鱼丸"
+    } ]
+  }, {
+    "tStartMs": 371466,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "一串鱼丸"
+    } ]
+  }, {
+    "tStartMs": 382400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "这一块是水果的区域"
+    } ]
+  }, {
+    "tStartMs": 384633,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "有西瓜榴莲苹果橘子"
+    } ]
+  }, {
+    "tStartMs": 392533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "一些糕点"
+    } ]
+  }, {
+    "tStartMs": 406666,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "这里有一些现成的三明治"
+    } ]
+  }, {
+    "tStartMs": 411333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这是三文鱼"
+    } ]
+  }, {
+    "tStartMs": 413066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我们现在去拿一个推车"
+    } ]
+  }, {
+    "tStartMs": 416500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "这个是超市的购物车"
+    } ]
+  }, {
+    "tStartMs": 422400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "现在我来推这个购物车"
+    } ]
+  }, {
+    "tStartMs": 433033,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我现在在等我的贝果"
+    } ]
+  }, {
+    "tStartMs": 436433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "啊放这里就好"
+    } ]
+  }, {
+    "tStartMs": 437700,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "好谢谢哈"
+    } ]
+  }, {
+    "tStartMs": 439266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "我拍给我的学生看，外国人"
+    } ]
+  }, {
+    "tStartMs": 441900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你是老师啊"
+    } ]
+  }, {
+    "tStartMs": 443166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这里有一个巨大的啤酒"
+    } ]
+  }, {
+    "tStartMs": 445666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "小麦啤酒"
+    } ]
+  }, {
+    "tStartMs": 447066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "8.88升"
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "这里是酒水饮料"
+    } ]
+  }, {
+    "tStartMs": 453066,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "有很多各种各样的饮料还有酒"
+    } ]
+  }, {
+    "tStartMs": 457533,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "这一罐果酒是14块9一罐"
+    } ]
+  }, {
+    "tStartMs": 462633,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这是日本的吗"
+    } ]
+  }, {
+    "tStartMs": 464933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "这个应该是日本进口的"
+    } ]
+  }, {
+    "tStartMs": 467266,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "这个椰子汁是一个很老的品牌"
+    } ]
+  }, {
+    "tStartMs": 470233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "不知道在国外有没有"
+    } ]
+  }, {
+    "tStartMs": 473800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "它的包装有一点好玩"
+    } ]
+  }, {
+    "tStartMs": 476100,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "有一点好笑"
+    } ]
+  }, {
+    "tStartMs": 477400,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这里全都是泡面"
+    } ]
+  }, {
+    "tStartMs": 479266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "这个是韩国的拉面"
+    } ]
+  }, {
+    "tStartMs": 482300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "辛拉面"
+    } ]
+  }, {
+    "tStartMs": 483233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这边是中国的"
+    } ]
+  }, {
+    "tStartMs": 484666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "这是意大利面"
+    } ]
+  }, {
+    "tStartMs": 486533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "也可以叫意面"
+    } ]
+  }, {
+    "tStartMs": 488233,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "这是番茄肉酱意面"
+    } ]
+  }, {
+    "tStartMs": 491666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "奶油培根蘑菇意面"
+    } ]
+  }, {
+    "tStartMs": 494733,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这样一袋意面是11块9"
+    } ]
+  }, {
+    "tStartMs": 497533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "看一下没见过"
+    } ]
+  }, {
+    "tStartMs": 508200,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 508500,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "是一种蔬菜"
+    } ]
+  }, {
+    "tStartMs": 509133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "紫罗兰不是一个颜色吗"
+    } ]
+  }, {
+    "tStartMs": 514200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这一排是肉类"
+    } ]
+  }, {
+    "tStartMs": 516100,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "有牛肉猪肉鸡肉"
+    } ]
+  }, {
+    "tStartMs": 521233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "甚至这里还有牛"
+    } ]
+  }, {
+    "tStartMs": 523066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "然后告诉你每个部位"
+    } ]
+  }, {
+    "tStartMs": 525166,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这里有很多小南瓜"
+    } ]
+  }, {
+    "tStartMs": 527133,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "还有白色的"
+    } ]
+  }, {
+    "tStartMs": 528333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "还挺漂亮"
+    } ]
+  }, {
+    "tStartMs": 532133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "橙色绿色"
+    } ]
+  }, {
+    "tStartMs": 534533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这里是海鲜区域"
+    } ]
+  }, {
+    "tStartMs": 537266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "哇好大的螃蟹"
+    } ]
+  }, {
+    "tStartMs": 539233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这个叫帝王蟹"
+    } ]
+  }, {
+    "tStartMs": 543266,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "有各种各样的海鲜"
+    } ]
+  }, {
+    "tStartMs": 547900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "这是什么"
+    } ]
+  }, {
+    "tStartMs": 549166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "龙虾应该是"
+    } ]
+  }, {
+    "tStartMs": 553166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这里有很多酸奶"
+    } ]
+  }, {
+    "tStartMs": 555266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这个我在云南吃过，干噎酸奶"
+    } ]
+  }, {
+    "tStartMs": 558066,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "还挺特别的"
+    } ]
+  }, {
+    "tStartMs": 559333,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "夹在水果里特别好吃"
+    } ]
+  }, {
+    "tStartMs": 561466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这是蓝莓味的"
+    } ]
+  }, {
+    "tStartMs": 563266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "买一罐酸奶做燕麦碗"
+    } ]
+  }, {
+    "tStartMs": 566566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "选一些卤菜"
+    } ]
+  }, {
+    "tStartMs": 571266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "哇这个好邪恶"
+    } ]
+  }, {
+    "tStartMs": 572700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "一个皮蛋"
+    } ]
+  }, {
+    "tStartMs": 574066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我要一个皮蛋"
+    } ]
+  }, {
+    "tStartMs": 578866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这是什么"
+    } ]
+  }, {
+    "tStartMs": 581633,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "猪皮"
+    } ]
+  }, {
+    "tStartMs": 583366,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "好吃吗"
+    } ]
+  }, {
+    "tStartMs": 585033,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "可以试试"
+    } ]
+  }, {
+    "tStartMs": 586366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "就像你吃鱼冻那种感觉"
+    } ]
+  }, {
+    "tStartMs": 588166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "试一下"
+    } ]
+  }, {
+    "tStartMs": 592966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这个是腐竹"
+    } ]
+  }, {
+    "tStartMs": 595466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我现在来称一下"
+    } ]
+  }, {
+    "tStartMs": 597666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "让他帮我拌好"
+    } ]
+  }, {
+    "tStartMs": 598933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "然后再称"
+    } ]
+  }, {
+    "tStartMs": 605366,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "你不吃葱吗"
+    } ]
+  }, {
+    "tStartMs": 606866,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "葱，吃，只是一般能不放我就不放"
+    } ]
+  }, {
+    "tStartMs": 609900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 614700,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "现在我们排队买单"
+    } ]
+  }, {
+    "tStartMs": 619166,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这里是可以自助买单的"
+    } ]
+  }, {
+    "tStartMs": 622666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这里有机器"
+    } ]
+  }, {
+    "tStartMs": 624266,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "然后这边是收银台"
+    } ]
+  }, {
+    "tStartMs": 627366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "那边的收银台是有收银员的"
+    } ]
+  }, {
+    "tStartMs": 630300,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "然后这边是自助买单的"
+    } ]
+  }, {
+    "tStartMs": 633500,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这个是刚刚我们在超市买的东西"
+    } ]
+  }, {
+    "tStartMs": 636900,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "有一大袋"
+    } ]
+  }, {
+    "tStartMs": 639833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "这个墙面的瀑布是一种装饰"
+    } ]
+  }, {
+    "tStartMs": 643666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我们已经逛的差不多了"
+    } ]
+  }, {
+    "tStartMs": 645633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "现在要回去了"
+    } ]
+  }, {
+    "tStartMs": 647833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你们觉得这个商场怎么样呢"
+    } ]
+  }, {
+    "tStartMs": 650300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "可以在评论区告诉我"
+    } ]
+  }, {
+    "tStartMs": 652466,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我希望今天的视频你们能"
+    } ]
+  }, {
+    "tStartMs": 654500,
+    "dDurationMs": 6166,
+    "segs": [ {
+      "utf8": "学到关于商场超市的一些词还有表达"
+    } ]
+  }, {
+    "tStartMs": 661066,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我会用这样自然的方式来教你们中文"
+    } ]
+  }, {
+    "tStartMs": 664700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "那我们今天的视频就到这里了拜拜"
+    } ]
+  } ]
+}

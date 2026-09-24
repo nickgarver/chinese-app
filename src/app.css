@@ -26,6 +26,9 @@
   --border-w: 2px;
   --pop: 3px;
   --tab-h: 64px;
+  --nav-w: 180px;
+  --avatar-bg: #6b1f35;
+  --avatar-ink: #f7eef1;
 
   /* type */
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -34,6 +37,8 @@
   --fs-body: 16px;
   --fs-small: 13px;
   --fs-label: 13px;
+  --h1: 20px;
+  --header-h: 52px;
 
   /* flashcard */
   --flash-min-h: 190px;
@@ -59,6 +64,55 @@
   --chip-pad: 9px 13px;
   --chip-tight-pad: 7px 11px;
   --speak-size: 46px;
+
+  /* origin line above the flashcard */
+  --origin-h: 18px;
+
+  /* --- per-breakpoint sizes -------------------------------------------
+     Everything the media queries change is declared here, so this block
+     stays the only place you edit. The queries just swap which one is in
+     play; they contain no raw numbers.
+       (base)  phones
+       -md     >= 720px, iPad portrait
+       -lg     >= 1024px, iPad landscape and desktop
+       -xl     >= 1400px
+     -------------------------------------------------------------------- */
+  --page-max-md: 680px;
+  --page-max-lg: 880px;
+  --page-max-xl: 980px;
+
+  --page-pad-md: 20px;
+  --card-pad-md: 20px;
+  --tab-h-md: 68px;
+  --h1-md: 23px;
+  --header-h-md: 60px;
+
+  --flash-min-h-md: 230px;
+  --flash-min-h-lg: 260px;
+  --flash-zh-md: 56px;
+  --flash-zh-lg: 64px;
+  --flash-py-md: 19px;
+  --flash-en-md: 22px;
+  --flash-prompt-md: 27px;
+  --hero-zh-md: 68px;
+  --hero-zh-lg: 78px;
+  --sentence-zh-md: 23px;
+  --sentence-lg-md: 30px;
+
+  /* clip layout: row 1 and the transport row share these columns */
+  --clip-cols: 1fr 1fr;
+
+  /* option text shrinks in steps as captions get longer */
+  --choice-fs: 16px;
+  --choice-fs-md: 14.5px;
+  --choice-fs-sm: 13.5px;
+  --choice-fs-xs: 12.5px;
+  --choice-lh: 1.3;
+  --choice-pad: 12px 14px;
+
+  /* clip subtitle mask — height is a share of the frame */
+  --mask-h: 100%;
+  --mask-blur: 5px;
 
   /* stats */
   --stat-num: 28px;
@@ -123,7 +177,7 @@ body {
 .zh { font-family: var(--font-zh); line-height: 1.5; }
 
 h1, h2, h3 { margin: 0; font-weight: 700; letter-spacing: -0.01em; }
-h1 { font-size: 26px; }
+h1 { font-size: var(--h1); letter-spacing: -0.02em; }
 h2 { font-size: 19px; }
 
 button { font: inherit; color: inherit; cursor: pointer; }
@@ -173,6 +227,35 @@ a { color: inherit; }
 
 .tabs a.on { color: var(--accent); }
 .tabs .ico { font-size: 21px; line-height: 1; }
+
+/* profile button: floating on most pages, inline in the home top bar */
+.profile {
+  width: 38px;
+  height: 38px;
+  flex: 0 0 38px;
+  /* flex centring rather than grid: the CJK glyph carries its own line box,
+     which was pushing it off-centre inside a grid cell */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  background: var(--avatar-bg);
+  color: var(--avatar-ink);
+  border: var(--border-w) solid var(--line);
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 2px 2px 0 var(--shadow);
+}
+
+.profile > span { display: block; line-height: 1; }
+
+.profile:active { transform: translate(2px, 2px); box-shadow: none; }
+
+@media (hover: hover) {
+  .profile:hover { background: color-mix(in srgb, var(--avatar-bg) 82%, #fff); }
+}
 
 /* ============================================================
    PRIMITIVES
@@ -278,6 +361,55 @@ a { color: inherit; }
 /* ============================================================
    STATS
    ============================================================ */
+/* Home top bar. Spans the full width; its contents line up with the page
+   column below. min-height rather than symmetric padding keeps the title,
+   badge and avatar on one optical centre line whatever their heights. */
+.topbar {
+  width: 100%;
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+.topbar-inner {
+  max-width: var(--page-max);
+  margin: 0 auto;
+  padding: 0 var(--page-pad);
+  min-height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap);
+}
+
+.topbar h1 { margin: 0; }
+.topbar-end { display: flex; align-items: center; gap: 10px; }
+
+/* the bar already supplies the top spacing */
+.topbar + .page { padding-top: 4px; }
+
+
+/* comprehension badge; --rank is set inline from the tier colour */
+.rank {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 12px;
+  min-width: 78px;
+  border: var(--border-w) solid var(--rank, var(--line));
+  border-radius: var(--r);
+  background: color-mix(in srgb, var(--rank, var(--accent)) 13%, transparent);
+  box-shadow: 2px 2px 0 color-mix(in srgb, var(--rank, var(--line)) 45%, transparent);
+}
+
+.rank-pct { font-size: 17px; font-weight: 700; line-height: 1.1; color: var(--rank); }
+
+.rank-name {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
 .stats { display: flex; gap: var(--gap); text-align: center; }
 .stats > div { flex: 1; }
 .stat-num { font-size: var(--stat-num); font-weight: 700; }
@@ -307,7 +439,21 @@ a { color: inherit; }
 .flash-py { font-size: var(--flash-py); color: var(--muted); }
 .flash-en { font-size: var(--flash-en); font-weight: 600; }
 .flash-prompt { font-size: var(--flash-prompt); font-weight: 600; }
-.flash-badges { display: flex; gap: 8px; align-items: center; margin-top: 4px; }
+/* reserved height, so revealing an answer never moves the card */
+.origin {
+  height: var(--origin-h);
+  line-height: var(--origin-h);
+  margin: -6px 0 -4px;
+  font-size: 11.5px;
+  color: var(--muted);
+  opacity: .65;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.example-tools { display: flex; flex-direction: column; gap: 8px; }
 
 .example { display: flex; gap: var(--gap); align-items: flex-start; }
 .example > .body { flex: 1; min-width: 0; }
@@ -327,6 +473,44 @@ a { color: inherit; }
 .hero-zh { font-size: var(--hero-zh); font-weight: var(--hero-zh-weight); line-height: 1.2; }
 .hero-py { font-size: 18px; color: var(--muted); margin-top: 4px; }
 .hero-en { font-size: 21px; font-weight: 600; margin-top: 8px; }
+
+.word-top {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+.word-card {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.word-progress {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.status { font-size: 20px; font-weight: 700; margin: 0; }
+.status.known { color: var(--good); }
+.status.learning { color: var(--warn); }
+.status.new { color: var(--muted); }
+
+.facts { margin: 0; display: grid; gap: 6px; }
+.facts > div { display: flex; justify-content: space-between; gap: 10px; }
+.facts dt { font-size: var(--fs-small); color: var(--muted); margin: 0; }
+.facts dd { font-size: var(--fs-small); font-weight: 600; margin: 0; }
+
+.word-actions { display: flex; gap: 8px; margin-top: auto; }
+.word-actions > .btn { flex: 1; border-color: var(--soft); }
+
+@media (hover: hover) {
+  .word-actions > .btn:hover { border-color: var(--line); background: var(--soft); }
+}
+
+.meta-row { display: flex; flex-direction: column; gap: 14px; }
 
 /* ============================================================
    SEARCH
@@ -390,12 +574,303 @@ a { color: inherit; }
 }
 
 /* ============================================================
+   CLIPS
+   Three rows: video + options, transport, reveal.
+   Single column below the desktop breakpoint.
+   ============================================================ */
+.clip-row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+/* aspect-ratio lives on the grid item, so the iframe can be told to fill it
+   and the row can still stretch both columns to a matching height */
+.clip-media {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border: var(--border-w) solid var(--line);
+  border-radius: var(--r);
+  overflow: hidden;
+  background: #000;
+  min-width: 0;
+}
+
+.clip-media iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/*
+  Covers subtitles burned into the video image, which no embed parameter can
+  turn off. backdrop-filter does sample cross-origin iframe content in Chrome
+  but not reliably everywhere, so there is a translucent layer underneath it:
+  where the blur works you get frosted glass, where it doesn't you still get a
+  veil the text can't be read through. --mask-h controls how much of the frame
+  it covers; set it to 0 to switch it off.
+*/
+.clip-mask {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: var(--mask-h);
+  pointer-events: none;
+  backdrop-filter: blur(var(--mask-blur));
+  -webkit-backdrop-filter: blur(var(--mask-blur));
+  background: rgba(0, 0, 0, 0.28);
+  transition: opacity 0.2s ease;
+}
+
+/* once you've answered there's nothing left to give away */
+.clip-mask.lifted { opacity: 0; }
+
+.clip-answers {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+  min-width: 0;
+}
+
+.clip-row.controls { flex-direction: row; }
+.clip-row.controls > .btn { flex: 1; }
+
+.uses {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  text-align: center;
+}
+
+.uses-word { font-size: 26px; font-weight: 600; margin: 0; }
+.uses-go { font-size: 11.5px; color: var(--muted); margin: 2px 0 0; }
+a.uses { text-decoration: none; transition: background 0.13s ease; }
+
+@media (hover: hover) {
+  a.uses:hover { background: color-mix(in srgb, var(--accent) 12%, transparent); }
+}
+
+/* Long captions shrink instead of overflowing. Sizes step down by length;
+   the wrapper keeps the text vertically centred whatever size it lands on. */
+.choice {
+  font-size: var(--choice-fs);
+  line-height: var(--choice-lh);
+  padding: var(--choice-pad);
+  white-space: normal;
+  overflow-wrap: break-word;
+  text-wrap: pretty;
+}
+
+.choice.fit-md { font-size: var(--choice-fs-md); line-height: 1.25; }
+.choice.fit-sm { font-size: var(--choice-fs-sm); line-height: 1.25; }
+.choice.fit-xs { font-size: var(--choice-fs-xs); line-height: 1.2; }
+
+.key {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: inherit;
+  border-radius: 4px;
+  padding: 0 2px;
+}
+
+/* ============================================================
    MISC
    ============================================================ */
 .callout { border-style: dashed; background: var(--soft); }
 .callout.good { border-color: var(--good); border-style: solid; }
 .callout.bad { border-color: var(--bad); color: var(--bad); }
 .hidden-input { display: none; }
+
+/* ============================================================
+   WIDER SCREENS
+   The layout is a single centred column at every size; these just
+   let the column breathe and scale the type up with it. The tab bar
+   keeps its full-width background but pads its items in to line up
+   with the content, and the profile button tracks the same edge.
+   ============================================================ */
+
+/* iPad portrait and up */
+@media (min-width: 720px) {
+  .word-top { flex-direction: row; align-items: stretch; }
+  .word-top > .word-card { flex: 1.1; }
+  .word-top > .word-progress { flex: 1; }
+  .meta-row { flex-direction: row; }
+  .meta-row > div { flex: 1; }
+
+  :root {
+    --page-max: var(--page-max-md);
+    --page-pad: var(--page-pad-md);
+    --card-pad: var(--card-pad-md);
+    --flash-min-h: var(--flash-min-h-md);
+    --flash-zh: var(--flash-zh-md);
+    --flash-py: var(--flash-py-md);
+    --flash-en: var(--flash-en-md);
+    --flash-prompt: var(--flash-prompt-md);
+    --hero-zh: var(--hero-zh-md);
+    --sentence-zh: var(--sentence-zh-md);
+    --sentence-lg: var(--sentence-lg-md);
+    --tab-h: var(--tab-h-md);
+    --h1: var(--h1-md);
+    --header-h: var(--header-h-md);
+  }
+
+  .tabs {
+    padding-left: max(0px, calc((100% - var(--page-max)) / 2));
+    padding-right: max(0px, calc((100% - var(--page-max)) / 2));
+  }
+
+  .tabs a { font-size: 12px; }
+  .tabs .ico { font-size: 23px; }
+
+  .profile {
+    width: 42px;
+    height: 42px;
+    flex-basis: 42px;
+    font-size: 18px;
+  }
+
+}
+
+/* iPad landscape and desktop: wider column and larger type.
+   The nav rail is not here — it needs more room, see the 1300px block. */
+@media (min-width: 1024px) {
+  :root {
+    --page-max: var(--page-max-lg);
+    --flash-min-h: var(--flash-min-h-lg);
+    --flash-zh: var(--flash-zh-lg);
+    --hero-zh: var(--hero-zh-lg);
+  }
+
+  /* three grading buttons fit on one row at this width */
+  .stack.grade { flex-direction: row; }
+  .stack.grade > .row { flex: 2; }
+  .stack.grade > .btn { flex: 1; }
+
+  /* Clips: three rows. Halving the video's width halves its height, which
+     is what stops the reveal falling below the fold. */
+  .clip-row.main {
+    display: grid;
+    grid-template-columns: var(--clip-cols);
+    align-items: stretch;
+  }
+
+  /* same track sizes as the row above, so Replay sits under the video and
+     Next under the options rather than drifting out of line */
+  .clip-row.controls {
+    display: grid;
+    grid-template-columns: var(--clip-cols);
+  }
+
+  /* stretch wins over aspect-ratio here, so the frame matches the options
+     column exactly; YouTube letterboxes inside it if the ratio drifts */
+  .clip-row.main > .clip-media { height: 100%; }
+
+  /* The four options divide the row height between them. No overflow clip:
+     if a caption still needs more room the row grows and the video, which is
+     height:100%, letterboxes to match rather than the text being cut off. */
+  .clip-answers > .btn {
+    flex: 1 1 0;
+    min-height: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .clip-row.reveal {
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  .clip-row.reveal > .card { flex: 4; }
+  .clip-row.reveal > .uses { flex: 1; }
+
+  /* word page: character block beside its progress */
+  .word-top { flex-direction: row; align-items: stretch; }
+  .word-top > .word-card { flex: 1.1; }
+  .word-top > .word-progress { flex: 1; }
+  .meta-row { flex-direction: row; }
+  .meta-row > div { flex: 1; }
+}
+
+/*
+   Left rail.
+
+   The content column is centred on the viewport and the rail sits outside it,
+   so this needs room for the column plus a clear rail either side. At an
+   880px column and a 180px rail that works out to about 1300px. Below it the
+   bottom bar stays, because squeezing a rail in would mean pushing the column
+   off-centre, which is the thing being fixed.
+*/
+@media (min-width: 1300px) {
+  .app {
+    padding-bottom: 28px;
+  }
+
+  /* A floating list rather than a full-height bar: no panel background,
+     no divider, sized to its contents and parked near the top. */
+  .tabs {
+    top: env(safe-area-inset-top, 0px);
+    bottom: auto;
+    right: auto;
+    /* immediately left of the centred column, never off the screen edge */
+    left: max(12px, calc((100vw - var(--page-max)) / 2 - var(--nav-w) - 16px));
+    width: var(--nav-w);
+    height: auto;
+    grid-template-columns: 1fr;
+    grid-auto-rows: max-content;
+    gap: 2px;
+    background: none;
+    border: none;
+    border-radius: 1em;
+    padding: 8px;
+  }
+
+  .tabs a {
+    height: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 12px;
+    padding: 10px 13px;
+    border-radius: 0.7em;
+    font-size: 14.5px;
+    transition: background 0.13s ease, color 0.13s ease;
+  }
+
+  .tabs .ico {
+    font-size: 19px;
+    width: 22px;
+    text-align: center;
+    transition: transform 0.13s ease;
+  }
+
+  /* hover: hover keeps touch devices from latching the hover state on tap */
+  @media (hover: hover) {
+    .tabs a:hover {
+      background: color-mix(in srgb, var(--ink) 7%, transparent);
+      color: var(--ink);
+    }
+
+    .tabs a:hover .ico { transform: translateX(2px); }
+
+    .tabs a.on:hover {
+      background: color-mix(in srgb, var(--accent) 14%, transparent);
+      color: var(--accent);
+    }
+  }
+
+  .tabs a.on {
+    background: color-mix(in srgb, var(--accent) 11%, transparent);
+    color: var(--accent);
+  }
+}
+
+/* very wide: stop growing, the column stays readable */
+@media (min-width: 1500px) {
+  :root { --page-max: var(--page-max-xl); }
+}
 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }

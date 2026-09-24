@@ -1,0 +1,607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yào bù yào chū lái wán?"
+    } ]
+  }, {
+    "tStartMs": 2333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Chū lái wán."
+    } ]
+  }, {
+    "tStartMs": 4900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Dà jiā hǎo."
+    } ]
+  }, {
+    "tStartMs": 6300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Wǒ xiàn zài zài gōng yuán."
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Wǒ de shēn shàng"
+    } ]
+  }, {
+    "tStartMs": 15900,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Bēi zhe yí ge bāo."
+    } ]
+  }, {
+    "tStartMs": 22833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Bāo lǐ miàn yǒu shén me dōng xi ne?"
+    } ]
+  }, {
+    "tStartMs": 27100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Wǒ men dāi huìr jiē xiǎo."
+    } ]
+  }, {
+    "tStartMs": 29300,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Wǒ men xiàn zài yì qǐ guàng guàng gōng yuán."
+    } ]
+  }, {
+    "tStartMs": 39000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Zhè shì yì kē dà shù."
+    } ]
+  }, {
+    "tStartMs": 45100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Zhè shì tā de shù gàn."
+    } ]
+  }, {
+    "tStartMs": 51700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Zhè shì tā de gēn xū."
+    } ]
+  }, {
+    "tStartMs": 55500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Zhè shì wú rén shòu huò jī."
+    } ]
+  }, {
+    "tStartMs": 59033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Dōu shì yǐn liào,"
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Bǔ shuǐ de."
+    } ]
+  }, {
+    "tStartMs": 63500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Zhè shì yí ge xiǎo shān pō."
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Shàng miàn zhǎng mǎn le cǎo."
+    } ]
+  }, {
+    "tStartMs": 73500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Qián miàn yǒu rén zài pāi hūn shā zhào."
+    } ]
+  }, {
+    "tStartMs": 79700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Hǎo jǐ duì de xīn rén"
+    } ]
+  }, {
+    "tStartMs": 82133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Zài pāi hūn shā zhào."
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yí duì."
+    } ]
+  }, {
+    "tStartMs": 90900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Liǎng duì."
+    } ]
+  }, {
+    "tStartMs": 93333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Sān duì."
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Sì duì."
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Tā men zài zhè biān pāi hūn shā zhào."
+    } ]
+  }, {
+    "tStartMs": 117633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Qián miàn yǒu liǎng gè nǚ shēng zài pāi zhào."
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Yǒu yí ge huán wèi gōng rén zài sǎo dì."
+    } ]
+  }, {
+    "tStartMs": 135700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Tā zài sǎo luò yè."
+    } ]
+  }, {
+    "tStartMs": 143066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Zhè shì luò yè."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Luò yè."
+    } ]
+  }, {
+    "tStartMs": 148300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Biàn huáng le."
+    } ]
+  }, {
+    "tStartMs": 152733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Kǒu kě le."
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Hē kǒu shuǐ."
+    } ]
+  }, {
+    "tStartMs": 162366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Nǐng kāi píng gài."
+    } ]
+  }, {
+    "tStartMs": 164500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Zhè shì nǐng kāi píng gài."
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Zhè shì píng gài."
+    } ]
+  }, {
+    "tStartMs": 171866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Zhè shì píng zi."
+    } ]
+  }, {
+    "tStartMs": 174100,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Lǐ miàn zhuāng zhe shuǐ."
+    } ]
+  }, {
+    "tStartMs": 177900,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Wǒ xiàn zài yào hē shuǐ."
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Xiàn zài lái kàn yí xià bāo lǐ yǒu shén me dōng xi."
+    } ]
+  }, {
+    "tStartMs": 192966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Bāo lǐ yǒu yì běn shū."
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Yì běn shū."
+    } ]
+  }, {
+    "tStartMs": 201066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Wǒ yào zài zhè biān kàn shū."
+    } ]
+  }, {
+    "tStartMs": 205566,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Fān kāi shū."
+    } ]
+  }, {
+    "tStartMs": 207666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Kàn."
+    } ]
+  }, {
+    "tStartMs": 210200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "Wǒ zài kàn shū."
+    } ]
+  }, {
+    "tStartMs": 214666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Zhè shì ěr jī."
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Wǒ yào tīng yīn yuè."
+    } ]
+  }, {
+    "tStartMs": 219866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Zhè shì ěr jī."
+    } ]
+  }, {
+    "tStartMs": 222700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Sāi zài ěr duǒ lǐ."
+    } ]
+  }, {
+    "tStartMs": 231566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Xuǎn zé yīn yuè."
+    } ]
+  }, {
+    "tStartMs": 235600,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Gǎn xiè shēng mìng zhè měi hǎo de…"
+    } ]
+  }, {
+    "tStartMs": 242266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Sòng nǐ yì shǒu bái jū yì de shī."
+    } ]
+  }, {
+    "tStartMs": 246100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Lí lí yuán shàng cǎo,"
+    } ]
+  }, {
+    "tStartMs": 249600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Yí suì yì kū róng."
+    } ]
+  }, {
+    "tStartMs": 252600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Yě huǒ shāo bú jìn,"
+    } ]
+  }, {
+    "tStartMs": 254600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Chūn fēng chuī yòu shēng."
+    } ]
+  }, {
+    "tStartMs": 257500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Yuǎn fāng qīn gǔ dào,"
+    } ]
+  }, {
+    "tStartMs": 260300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Qíng cuì jiē huāng chéng."
+    } ]
+  }, {
+    "tStartMs": 263600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Yòu sòng wáng sūn qù,"
+    } ]
+  }, {
+    "tStartMs": 266666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "Qī qī mǎn bié qíng."
+    } ]
+  }, {
+    "tStartMs": 271700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Yáng guāng chuān guò shù lín,"
+    } ]
+  }, {
+    "tStartMs": 275700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Zhào shè zài shū běn shàng."
+    } ]
+  }, {
+    "tStartMs": 280700,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Tài yáng zhào zài wǒ de liǎn shàng."
+    } ]
+  }, {
+    "tStartMs": 286700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Yáng guāng hěn cì yǎn."
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Wǒ zhēng bù kāi yǎn."
+    } ]
+  }, {
+    "tStartMs": 300066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "Wǒ zǒu zài shù lín dāng zhōng."
+    } ]
+  }, {
+    "tStartMs": 304266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Zhè xiē dōu shì shù."
+    } ]
+  }, {
+    "tStartMs": 310700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Xiàn zài wǒ yào huí jiā le."
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "Bǎ shū fàng jìn shū bāo lǐ."
+    } ]
+  }, {
+    "tStartMs": 319466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Fàng jìn qù."
+    } ]
+  }, {
+    "tStartMs": 323100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Lā shàng lā liàn."
+    } ]
+  }, {
+    "tStartMs": 326766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Bēi zài shēn shàng."
+    } ]
+  }, {
+    "tStartMs": 330266,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Bēi zài shēn shàng."
+    } ]
+  }, {
+    "tStartMs": 331666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Wǒ men kě yǐ zǒu le."
+    } ]
+  }, {
+    "tStartMs": 334666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Zhè shì yí kuài dà cǎo píng."
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Yǒu niǎo."
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Nǐ kàn."
+    } ]
+  }, {
+    "tStartMs": 342400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Niǎo zài cǎo dì shàng."
+    } ]
+  }, {
+    "tStartMs": 348600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Fēi qǐ lái le."
+    } ]
+  }, {
+    "tStartMs": 350433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Zhè yí dà piàn de shuǐ shì hǎi."
+    } ]
+  }, {
+    "tStartMs": 358266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Duì miàn yǒu gāo lóu."
+    } ]
+  }, {
+    "tStartMs": 365900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Zhè shì hǎi shuǐ."
+    } ]
+  }, {
+    "tStartMs": 368466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Nà shì tài yáng."
+    } ]
+  }, {
+    "tStartMs": 370533,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Tài yáng yào luò shān le."
+    } ]
+  }, {
+    "tStartMs": 373833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Tài yáng de dào yǐng zài hǎi miàn shàng."
+    } ]
+  }, {
+    "tStartMs": 378100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Zhè shì lán gān."
+    } ]
+  }, {
+    "tStartMs": 381100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Zhè shì jiù shēng quān."
+    } ]
+  }, {
+    "tStartMs": 384400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Zhè shì diào yú gān."
+    } ]
+  }, {
+    "tStartMs": 387200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Yǒu rén zài diào yú."
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Qián miàn yǒu rén zài diào yú."
+    } ]
+  }, {
+    "tStartMs": 393333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Zhè shì shā zi."
+    } ]
+  }, {
+    "tStartMs": 395866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Xiǎo péng yǒu zài wán shā zi."
+    } ]
+  }, {
+    "tStartMs": 399866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Wǒ men cóng chū kǒu chū qù."
+    } ]
+  }, {
+    "tStartMs": 403966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Wǒ men xiàn zài chū lái le."
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Cóng gōng yuán lǐ miàn chū lái le."
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Xiàn zài jǐ diǎn le?"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Xiàn zài shì xià wǔ wǔ diǎn bàn."
+    } ]
+  }, {
+    "tStartMs": 416033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huí jiā chī fàn le."
+    } ]
+  } ]
+}

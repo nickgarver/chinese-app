@@ -1,0 +1,2611 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "hello hello"
+    } ]
+  }, {
+    "tStartMs": 2033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "大家好我是貓咪卡"
+    } ]
+  }, {
+    "tStartMs": 4466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "歡迎來到我的頻道"
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "今天呢想要和大家更新一期vlog"
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "因為呢我剛剛從健身房健身回來"
+    } ]
+  }, {
+    "tStartMs": 16866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "最近我發現我們家附近呢"
+    } ]
+  }, {
+    "tStartMs": 19866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "開了一家新的健身房"
+    } ]
+  }, {
+    "tStartMs": 22500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然後環境不錯"
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "嗯我想著春天來了"
+    } ]
+  }, {
+    "tStartMs": 26833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我 這一隻冬眠的動物可以"
+    } ]
+  }, {
+    "tStartMs": 30466,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "出洞了"
+    } ]
+  }, {
+    "tStartMs": 31333,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "可以出門去看"
+    } ]
+  }, {
+    "tStartMs": 33900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "啊我"
+    } ]
+  }, {
+    "tStartMs": 37300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "會"
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "去這"
+    } ]
+  }, {
+    "tStartMs": 42133,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "家健身房"
+    } ]
+  }, {
+    "tStartMs": 44466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "做飯"
+    } ]
+  }, {
+    "tStartMs": 46533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "的人"
+    } ]
+  }, {
+    "tStartMs": 49233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "那我要從爸爸"
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "回家常回家吃飯"
+    } ]
+  }, {
+    "tStartMs": 54133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那我今天呢"
+    } ]
+  }, {
+    "tStartMs": 54933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "想要給大家分享一下"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "自己做一個快手餐"
+    } ]
+  }, {
+    "tStartMs": 59466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "首先呢"
+    } ]
+  }, {
+    "tStartMs": 60266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "想要和大家來分享一下今天的食材"
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "這個呢是一盒鮭魚碎肉"
+    } ]
+  }, {
+    "tStartMs": 69966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "就是切碎的三文魚肉"
+    } ]
+  }, {
+    "tStartMs": 73933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然後呢這個是雞蛋嗯"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "這個呢是捲餅"
+    } ]
+  }, {
+    "tStartMs": 80966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "大家可以看哦"
+    } ]
+  }, {
+    "tStartMs": 82033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "這個是需要冷凍保存的"
+    } ]
+  }, {
+    "tStartMs": 85800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "捲餅"
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "嗯我感覺這個捲餅應該很健康"
+    } ]
+  }, {
+    "tStartMs": 91533,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "它上面寫著蛋白質很高"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "然後呢GI值又很低"
+    } ]
+  }, {
+    "tStartMs": 100433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "然後這個呢"
+    } ]
+  }, {
+    "tStartMs": 101633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "是一包沙拉菜"
+    } ]
+  }, {
+    "tStartMs": 103966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我很喜歡吃這個芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "我很喜歡吃這種沙拉菜裡面的芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "然後同時呢我還有"
+    } ]
+  }, {
+    "tStartMs": 115166,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一罐 這個辣醬"
+    } ]
+  }, {
+    "tStartMs": 118333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 119200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我等一下會來做一個捲餅"
+    } ]
+  }, {
+    "tStartMs": 123433,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "就是雞蛋炒三文魚捲餅"
+    } ]
+  }, {
+    "tStartMs": 130200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好的"
+    } ]
+  }, {
+    "tStartMs": 134033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "這個餅呢"
+    } ]
+  }, {
+    "tStartMs": 135200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "它是冷凍的"
+    } ]
+  }, {
+    "tStartMs": 136600,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "所以呢我先要拿一張餅出來熱一下"
+    } ]
+  }, {
+    "tStartMs": 142700,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "這是一張圓的餅"
+    } ]
+  }, {
+    "tStartMs": 145066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "一般餅都是圓的"
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "這是一個圓形的餅"
+    } ]
+  }, {
+    "tStartMs": 149366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "好的把它放到鍋裡面"
+    } ]
+  }, {
+    "tStartMs": 159633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "給大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 161166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "那就是把這個餅放在"
+    } ]
+  }, {
+    "tStartMs": 164333,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "平底鍋裡面熱一下就好"
+    } ]
+  }, {
+    "tStartMs": 170433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "這個餅呢"
+    } ]
+  }, {
+    "tStartMs": 171466,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "慢慢的散發出來了一點點香味"
+    } ]
+  }, {
+    "tStartMs": 180700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "然後這個時候呢"
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我會拿出一顆雞蛋"
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "然後打雞蛋放在這個餅的上面"
+    } ]
+  }, {
+    "tStartMs": 198366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "然後呢攪拌攪拌"
+    } ]
+  }, {
+    "tStartMs": 205133,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "把這個雞蛋均勻地舖在餅的上面"
+    } ]
+  }, {
+    "tStartMs": 213566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "這個蛋的顏色很好看"
+    } ]
+  }, {
+    "tStartMs": 226566,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "然後把這個餅翻一個面"
+    } ]
+  }, {
+    "tStartMs": 232633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "哈哈哈我的火開的特別的小"
+    } ]
+  }, {
+    "tStartMs": 236333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 237233,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "不是很燙哦"
+    } ]
+  }, {
+    "tStartMs": 238200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "我是用手直接操作的"
+    } ]
+  }, {
+    "tStartMs": 242433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我們還是文明一點"
+    } ]
+  }, {
+    "tStartMs": 244066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "用鏟子來吧"
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "等到雞蛋都熟了之後呢"
+    } ]
+  }, {
+    "tStartMs": 253533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "把這個餅拿出來"
+    } ]
+  }, {
+    "tStartMs": 256933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "放到盤子裡面"
+    } ]
+  }, {
+    "tStartMs": 259200,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "這個時候呢"
+    } ]
+  }, {
+    "tStartMs": 260333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我需要把鮭魚炒一下"
+    } ]
+  }, {
+    "tStartMs": 264033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我買的這個鮭魚"
+    } ]
+  }, {
+    "tStartMs": 265666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它是需要加熱才能吃的"
+    } ]
+  }, {
+    "tStartMs": 269333,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "首先我會在鍋裡面加一點油"
+    } ]
+  }, {
+    "tStartMs": 279600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "然後把三文魚"
+    } ]
+  }, {
+    "tStartMs": 281133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "碎魚肉倒進去哦"
+    } ]
+  }, {
+    "tStartMs": 287966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "然後炒一炒"
+    } ]
+  }, {
+    "tStartMs": 299166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "放一點黑胡椒"
+    } ]
+  }, {
+    "tStartMs": 301233,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "繼續炒一炒"
+    } ]
+  }, {
+    "tStartMs": 304866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我要打開這個罐頭"
+    } ]
+  }, {
+    "tStartMs": 312533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "給大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "這個罐頭裡面呢"
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "是一種牛肉醬"
+    } ]
+  }, {
+    "tStartMs": 318266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然後呢它是辣的"
+    } ]
+  }, {
+    "tStartMs": 322366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我要用勺子挖一勺"
+    } ]
+  }, {
+    "tStartMs": 331366,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "把它抹在這個餅上面"
+    } ]
+  }, {
+    "tStartMs": 339500,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "讓我來嚐一下這個到底有多辣"
+    } ]
+  }, {
+    "tStartMs": 346166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "嗯有一點點辣的"
+    } ]
+  }, {
+    "tStartMs": 353266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "但是很鮮哎"
+    } ]
+  }, {
+    "tStartMs": 355066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "這個辣椒醬很好吃"
+    } ]
+  }, {
+    "tStartMs": 358700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "因為我覺得單獨的吃"
+    } ]
+  }, {
+    "tStartMs": 361900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "三文魚碎的話會有一點腥味"
+    } ]
+  }, {
+    "tStartMs": 365100,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "所以呢要用一個辣醬蓋住它的腥味"
+    } ]
+  }, {
+    "tStartMs": 373766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "接下來把這個三文魚"
+    } ]
+  }, {
+    "tStartMs": 377100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "炒好的三文魚肉"
+    } ]
+  }, {
+    "tStartMs": 379433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "把它放到餅上面"
+    } ]
+  }, {
+    "tStartMs": 392666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然後再加一點點這個生菜"
+    } ]
+  }, {
+    "tStartMs": 397900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "這個芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 408800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好啦"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "然後呢哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 414433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "希望不要翻車哦"
+    } ]
+  }, {
+    "tStartMs": 415933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "把它捲起來"
+    } ]
+  }, {
+    "tStartMs": 425266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "啊哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 428333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然後就捲起來卷好啦嗯"
+    } ]
+  }, {
+    "tStartMs": 430933,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "然後就捲起來捲好啦嗯"
+    } ]
+  }, {
+    "tStartMs": 432266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "一般這樣呢我會嗯"
+    } ]
+  }, {
+    "tStartMs": 454300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "然後把它捲起來"
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "捲起之後呢"
+    } ]
+  }, {
+    "tStartMs": 461700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "這個樣子吃它可能會漏下來對吧"
+    } ]
+  }, {
+    "tStartMs": 466266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "我會用一張油紙嗯"
+    } ]
+  }, {
+    "tStartMs": 470066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "這就是烘焙用的紙"
+    } ]
+  }, {
+    "tStartMs": 475833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "嗯給它卷一下"
+    } ]
+  }, {
+    "tStartMs": 478333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "就好啦給大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 479333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "就好啦給大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 491833,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "就好啦給大家看一下這個成品"
+    } ]
+  }, {
+    "tStartMs": 496033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "賣相還是不錯的對吧"
+    } ]
+  }, {
+    "tStartMs": 498233,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "而且呢這個我感覺蛋白質也比較充足"
+    } ]
+  }, {
+    "tStartMs": 503633,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "維生素也有"
+    } ]
+  }, {
+    "tStartMs": 505333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "啊纖維也有對吧"
+    } ]
+  }, {
+    "tStartMs": 507033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "應該是比較健康的"
+    } ]
+  }, {
+    "tStartMs": 508566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "所以我先來嚐一口"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "看看好吃不好吃"
+    } ]
+  }, {
+    "tStartMs": 526966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "嗯我還沒吃到肉"
+    } ]
+  }, {
+    "tStartMs": 528966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我再來吃一口"
+    } ]
+  }, {
+    "tStartMs": 540066,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": "沒有翻車很好吃嗯嗯嗯"
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "救命呀"
+    } ]
+  }, {
+    "tStartMs": 555066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "這個辣油"
+    } ]
+  }, {
+    "tStartMs": 559866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "流到了地上"
+    } ]
+  }, {
+    "tStartMs": 561266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我要處理一下"
+    } ]
+  }, {
+    "tStartMs": 565066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "因為最近其實是春天"
+    } ]
+  }, {
+    "tStartMs": 567700,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "春天呢是一個很容易過敏的季節"
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我還記得上上週開始的時候"
+    } ]
+  }, {
+    "tStartMs": 575033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我和我的學生都同時"
+    } ]
+  }, {
+    "tStartMs": 576866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "在鏡頭裡面流眼淚"
+    } ]
+  }, {
+    "tStartMs": 579066,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我覺得特別有意思"
+    } ]
+  }, {
+    "tStartMs": 583200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "就是因為我們都在春天過敏嗯"
+    } ]
+  }, {
+    "tStartMs": 587333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "這兩天稍微好一點了"
+    } ]
+  }, {
+    "tStartMs": 589233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "每年的春天"
+    } ]
+  }, {
+    "tStartMs": 591100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "某種花第一次開放的"
+    } ]
+  }, {
+    "tStartMs": 593400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "第一個星期的時候呢"
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我的過敏症狀會特別嚴重"
+    } ]
+  }, {
+    "tStartMs": 598166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "就是我眼睛睜不開"
+    } ]
+  }, {
+    "tStartMs": 600166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "然後會不停地流眼淚"
+    } ]
+  }, {
+    "tStartMs": 602700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "然後鼻子也會流鼻涕"
+    } ]
+  }, {
+    "tStartMs": 605100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "嗯這個就是我全部的過敏症狀"
+    } ]
+  }, {
+    "tStartMs": 608233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "最近已經好很多了"
+    } ]
+  }, {
+    "tStartMs": 609900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "然後天氣暖和了起來呢"
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我也比較願意出門"
+    } ]
+  }, {
+    "tStartMs": 614366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "所以最近我"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "去了健身房"
+    } ]
+  }, {
+    "tStartMs": 618666,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "然後呢"
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我還恢復了我每個星期一次的游泳"
+    } ]
+  }, {
+    "tStartMs": 622066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "嗯我還是要運動運動"
+    } ]
+  }, {
+    "tStartMs": 624800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "保持身體健康"
+    } ]
+  }, {
+    "tStartMs": 627300,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "很感謝最近有一些Youtube的觀眾朋友們"
+    } ]
+  }, {
+    "tStartMs": 631666,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "對"
+    } ]
+  }, {
+    "tStartMs": 636166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "我教育事業的支持"
+    } ]
+  }, {
+    "tStartMs": 639100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "有一些朋友"
+    } ]
+  }, {
+    "tStartMs": 642800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "去"
+    } ]
+  }, {
+    "tStartMs": 644200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我的italki"
+    } ]
+  }, {
+    "tStartMs": 645966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "裡面"
+    } ]
+  }, {
+    "tStartMs": 648600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "訂"
+    } ]
+  }, {
+    "tStartMs": 651000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "了的經歷能夠吸引到一些人"
+    } ]
+  }, {
+    "tStartMs": 654300,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然後讓大家保持對"
+    } ]
+  }, {
+    "tStartMs": 655933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "這個世界的一些好奇感"
+    } ]
+  }, {
+    "tStartMs": 658133,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "但是我其實在最近的對談過程裡面呢"
+    } ]
+  }, {
+    "tStartMs": 661500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我也發現我好像"
+    } ]
+  }, {
+    "tStartMs": 663900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "相比於二十幾歲的時候"
+    } ]
+  }, {
+    "tStartMs": 667300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "我感覺自己的世界有"
+    } ]
+  }, {
+    "tStartMs": 668966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "一點點封閉了起來"
+    } ]
+  }, {
+    "tStartMs": 671066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "尤其是可能近兩年呢"
+    } ]
+  }, {
+    "tStartMs": 673366,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "我生活的狀態發生了一個很大的改變"
+    } ]
+  }, {
+    "tStartMs": 676800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "這個就讓我某種程度上而言呢"
+    } ]
+  }, {
+    "tStartMs": 679733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "更加的封閉了"
+    } ]
+  }, {
+    "tStartMs": 681933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "嗯啊"
+    } ]
+  }, {
+    "tStartMs": 682966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我自己也在想哦"
+    } ]
+  }, {
+    "tStartMs": 684266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "就是這種封閉它是好事還是壞事"
+    } ]
+  }, {
+    "tStartMs": 687700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我暫時呢"
+    } ]
+  }, {
+    "tStartMs": 688666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我還不會得到一個很好的答案"
+    } ]
+  }, {
+    "tStartMs": 691600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "但是我同時呢"
+    } ]
+  }, {
+    "tStartMs": 692933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "又很感謝我的一些學生們"
+    } ]
+  }, {
+    "tStartMs": 695766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "他們讓我在一個很封閉的世界裡面"
+    } ]
+  }, {
+    "tStartMs": 698933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "還保持著和這個世界的一些聯繫"
+    } ]
+  }, {
+    "tStartMs": 702766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "所以我每週上課我都很開心"
+    } ]
+  }, {
+    "tStartMs": 705433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "有很多的朋友上我的課"
+    } ]
+  }, {
+    "tStartMs": 706933,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "第一件事情都是問我啊"
+    } ]
+  }, {
+    "tStartMs": 708600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "你自己滿意你現在的現狀嗎"
+    } ]
+  }, {
+    "tStartMs": 711833,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "然後我會說"
+    } ]
+  }, {
+    "tStartMs": 712700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "目前還是滿意的對"
+    } ]
+  }, {
+    "tStartMs": 714500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "對"
+    } ]
+  }, {
+    "tStartMs": 715066,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "目前我還是很開心這樣一個狀態嗯"
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "一方面呢"
+    } ]
+  }, {
+    "tStartMs": 719633,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "做著沒有一些情緒負擔的教育工作"
+    } ]
+  }, {
+    "tStartMs": 723900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "一方面呢"
+    } ]
+  }, {
+    "tStartMs": 724700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "和學生之間的交流也很順暢"
+    } ]
+  }, {
+    "tStartMs": 727800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "然後教學生學習一門語言呢"
+    } ]
+  }, {
+    "tStartMs": 731066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "讓我也比較有成就感"
+    } ]
+  }, {
+    "tStartMs": 733200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "包括我在大學裡面的工作"
+    } ]
+  }, {
+    "tStartMs": 735400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我也有一些成就感"
+    } ]
+  }, {
+    "tStartMs": 736800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "因為嗯有一些學生可能在學期"
+    } ]
+  }, {
+    "tStartMs": 741066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一開始的時候有很多的問題"
+    } ]
+  }, {
+    "tStartMs": 743333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "寫作業寫paper的時候有很多的問題那"
+    } ]
+  }, {
+    "tStartMs": 746366,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "在經過兩三個月的訓練之後啊"
+    } ]
+  }, {
+    "tStartMs": 750900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有很多學生呢"
+    } ]
+  }, {
+    "tStartMs": 752100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "進步地比較快"
+    } ]
+  }, {
+    "tStartMs": 753366,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "每次學生的進步"
+    } ]
+  }, {
+    "tStartMs": 755100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "都會讓我有很大的一個成就感"
+    } ]
+  }, {
+    "tStartMs": 757766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我 覺得這個可能是做"
+    } ]
+  }, {
+    "tStartMs": 759533,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "老師的另外一個好處吧哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "所以有很多朋友問我是"
+    } ]
+  }, {
+    "tStartMs": 765100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "不是"
+    } ]
+  }, {
+    "tStartMs": 767600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "很"
+    } ]
+  }, {
+    "tStartMs": 771700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "不滿意"
+    } ]
+  }, {
+    "tStartMs": 774500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "的地方嘛"
+    } ]
+  }, {
+    "tStartMs": 777366,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我不滿我從來不會對別人不滿"
+    } ]
+  }, {
+    "tStartMs": 779933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我永遠都是對我自己不滿"
+    } ]
+  }, {
+    "tStartMs": 781933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "那我可能會覺得嗯春天來了嘛"
+    } ]
+  }, {
+    "tStartMs": 785366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "心態又不太一樣"
+    } ]
+  }, {
+    "tStartMs": 787400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "天氣比較暖和了"
+    } ]
+  }, {
+    "tStartMs": 788533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 790066,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "也比較願意出門"
+    } ]
+  }, {
+    "tStartMs": 793766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 795000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "可能近期想的是多多去健身房多多"
+    } ]
+  }, {
+    "tStartMs": 796900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "去運動"
+    } ]
+  }, {
+    "tStartMs": 797966,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "讓 自己"
+    } ]
+  }, {
+    "tStartMs": 801100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 804900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "身體"
+    } ]
+  }, {
+    "tStartMs": 806666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "更好"
+    } ]
+  }, {
+    "tStartMs": 809100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "一點"
+    } ]
+  }, {
+    "tStartMs": 811266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "其實"
+    } ]
+  }, {
+    "tStartMs": 813533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "後他已經把我拉黑了"
+    } ]
+  }, {
+    "tStartMs": 815166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "不願意跟我再溝通了"
+    } ]
+  }, {
+    "tStartMs": 817100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我也對他很無語"
+    } ]
+  }, {
+    "tStartMs": 819033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "就是我樓上的鄰居"
+    } ]
+  }, {
+    "tStartMs": 823066,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "他一個星期可能就回來住兩三個晚上"
+    } ]
+  }, {
+    "tStartMs": 827366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 828766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "這兩三個晚上他不睡覺"
+    } ]
+  }, {
+    "tStartMs": 832433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "他 不"
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "睡覺ok啊"
+    } ]
+  }, {
+    "tStartMs": 835933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "你"
+    } ]
+  }, {
+    "tStartMs": 837066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "在家可以打遊戲"
+    } ]
+  }, {
+    "tStartMs": 838933,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "可以看電視"
+    } ]
+  }, {
+    "tStartMs": 842133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "都"
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "可以"
+    } ]
+  }, {
+    "tStartMs": 847300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "沒有"
+    } ]
+  }, {
+    "tStartMs": 848933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "問題"
+    } ]
+  }, {
+    "tStartMs": 850766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "但是"
+    } ]
+  }, {
+    "tStartMs": 853033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "他"
+    } ]
+  }, {
+    "tStartMs": 854900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "在家"
+    } ]
+  }, {
+    "tStartMs": 856166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "打掃"
+    } ]
+  }, {
+    "tStartMs": 857866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "衛生"
+    } ]
+  }, {
+    "tStartMs": 859933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "候只在"
+    } ]
+  }, {
+    "tStartMs": 862900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "他的臥室裡面打掃衛生"
+    } ]
+  }, {
+    "tStartMs": 865100,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "或做一些"
+    } ]
+  }, {
+    "tStartMs": 866466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我也不知道的事情"
+    } ]
+  }, {
+    "tStartMs": 868266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就是聲音很大"
+    } ]
+  }, {
+    "tStartMs": 869733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我有跟他溝通過"
+    } ]
+  }, {
+    "tStartMs": 871266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "第一次我跟他溝通的時候"
+    } ]
+  }, {
+    "tStartMs": 874633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "因為他很少回來住"
+    } ]
+  }, {
+    "tStartMs": 876233,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我以為他把他的房子租給了別人了"
+    } ]
+  }, {
+    "tStartMs": 879533,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "我就問他"
+    } ]
+  }, {
+    "tStartMs": 880433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我說鄰居你你們家是"
+    } ]
+  }, {
+    "tStartMs": 883033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "租房子給別人了嗎"
+    } ]
+  }, {
+    "tStartMs": 885066,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "然後他說沒有啊"
+    } ]
+  }, {
+    "tStartMs": 886433,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我們家沒有人"
+    } ]
+  }, {
+    "tStartMs": 888100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "那個時候是夜裡面2點半"
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "然後我就站在他家門口"
+    } ]
+  }, {
+    "tStartMs": 892366,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "我說你們家燈亮著有人的呀"
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "需不需要我報警呀"
+    } ]
+  }, {
+    "tStartMs": 897366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 898000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "你說你不在家"
+    } ]
+  }, {
+    "tStartMs": 899500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但是你們家有人"
+    } ]
+  }, {
+    "tStartMs": 900900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "動靜還這麼大"
+    } ]
+  }, {
+    "tStartMs": 903133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我當然要報警呀對吧"
+    } ]
+  }, {
+    "tStartMs": 905700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然後呢他就不理我"
+    } ]
+  }, {
+    "tStartMs": 908000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "呃到了第二天下午的時候"
+    } ]
+  }, {
+    "tStartMs": 910133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "他說啊我們家可能有一隻狗走來走去"
+    } ]
+  }, {
+    "tStartMs": 913933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那我就知道這個人在撒謊"
+    } ]
+  }, {
+    "tStartMs": 916100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "嗯我也沒有辦法對吧"
+    } ]
+  }, {
+    "tStartMs": 918366,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "後來呢"
+    } ]
+  }, {
+    "tStartMs": 918833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我就不跟他直接溝通"
+    } ]
+  }, {
+    "tStartMs": 920266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就跟物業去溝通"
+    } ]
+  }, {
+    "tStartMs": 922166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我說能不能幫忙跟那個鄰居說一下"
+    } ]
+  }, {
+    "tStartMs": 925466,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "這個房子的隔音效果不太好"
+    } ]
+  }, {
+    "tStartMs": 930633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "能不能半夜的時候不要打掃衛生"
+    } ]
+  }, {
+    "tStartMs": 933300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 935500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "然後呢嗯"
+    } ]
+  }, {
+    "tStartMs": 936866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "也不知道怎麼回事"
+    } ]
+  }, {
+    "tStartMs": 938133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "可能是呃有一點點激怒了他吧"
+    } ]
+  }, {
+    "tStartMs": 941700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "有一些人就是會惱羞成怒啊"
+    } ]
+  }, {
+    "tStartMs": 943800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "他撒謊被別人戳穿了"
+    } ]
+  }, {
+    "tStartMs": 946900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "然後呢就會惱羞成怒"
+    } ]
+  }, {
+    "tStartMs": 949166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "他反正沒有任何的改變"
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "接下來的幾次呢"
+    } ]
+  }, {
+    "tStartMs": 953033,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "因為他告訴我說說他一個星期就只來一兩天"
+    } ]
+  }, {
+    "tStartMs": 958233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "其實呢不是一兩天"
+    } ]
+  }, {
+    "tStartMs": 959133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "他回來的動靜很大"
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我都能夠聽見"
+    } ]
+  }, {
+    "tStartMs": 962200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我知道他哪一天回來了"
+    } ]
+  }, {
+    "tStartMs": 964133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "那anyway"
+    } ]
+  }, {
+    "tStartMs": 965366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那就說明他不是一兩天他回來的動靜很大我都能夠聽見我知道"
+    } ]
+  }, {
+    "tStartMs": 967666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "他哪一天回來了那"
+    } ]
+  }, {
+    "tStartMs": 968433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "anyway那就說"
+    } ]
+  }, {
+    "tStartMs": 970400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "他"
+    } ]
+  }, {
+    "tStartMs": 972933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "不是一兩天"
+    } ]
+  }, {
+    "tStartMs": 974566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "他住在這裡的鍾"
+    } ]
+  }, {
+    "tStartMs": 975866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "對 他"
+    } ]
+  }, {
+    "tStartMs": 978433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "點他的吸塵器拿了出來"
+    } ]
+  }, {
+    "tStartMs": 982466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "這個時候呢"
+    } ]
+  }, {
+    "tStartMs": 983400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我就給他發訊息"
+    } ]
+  }, {
+    "tStartMs": 985166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我發現我的消息發不出去"
+    } ]
+  }, {
+    "tStartMs": 987500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "因為他把我拉黑了哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 990366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "然後我就不能忍啊"
+    } ]
+  }, {
+    "tStartMs": 992066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "那個時候我剛剛睡著"
+    } ]
+  }, {
+    "tStartMs": 994400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然後吸塵器的聲音震得很大"
+    } ]
+  }, {
+    "tStartMs": 997100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "把我吵醒了之後"
+    } ]
+  }, {
+    "tStartMs": 998500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我就直接跑到樓上去敲他的門"
+    } ]
+  }, {
+    "tStartMs": 1001433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "他們家裡面有四個人"
+    } ]
+  }, {
+    "tStartMs": 1003500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "全部都不睡覺"
+    } ]
+  }, {
+    "tStartMs": 1005400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "燈火通明的"
+    } ]
+  }, {
+    "tStartMs": 1006766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "坐在客廳裡面嗑瓜子聊天"
+    } ]
+  }, {
+    "tStartMs": 1009666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然後還有一個女的"
+    } ]
+  }, {
+    "tStartMs": 1011066,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我也不知道是不是房東還是誰"
+    } ]
+  }, {
+    "tStartMs": 1013466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "然後拎著一個吸塵器"
+    } ]
+  }, {
+    "tStartMs": 1014900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "從房間裡面出來問我"
+    } ]
+  }, {
+    "tStartMs": 1016400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "你要做什麼"
+    } ]
+  }, {
+    "tStartMs": 1017633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我說能不能麻煩你們"
+    } ]
+  }, {
+    "tStartMs": 1019466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "半夜的時候不要用吸塵器呢"
+    } ]
+  }, {
+    "tStartMs": 1022100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "聲音確實有點大"
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "然後這位女士突然就說"
+    } ]
+  }, {
+    "tStartMs": 1028233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我也沒有每天都用吧"
+    } ]
+  }, {
+    "tStartMs": 1031100,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "然後我就覺得很奇怪怎麼著"
+    } ]
+  }, {
+    "tStartMs": 1034066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "你應該每天都半夜用"
+    } ]
+  }, {
+    "tStartMs": 1036666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "吸塵器打擾別人的休息嗎"
+    } ]
+  }, {
+    "tStartMs": 1039666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 1040366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我就覺得很震驚"
+    } ]
+  }, {
+    "tStartMs": 1041600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "為什麼會說出這樣的話出來"
+    } ]
+  }, {
+    "tStartMs": 1043666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "那"
+    } ]
+  }, {
+    "tStartMs": 1045100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "這種情況下對"
+    } ]
+  }, {
+    "tStartMs": 1048733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 1050266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "穿著我"
+    } ]
+  }, {
+    "tStartMs": 1051300,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "後來又不"
+    } ]
+  }, {
+    "tStartMs": 1052766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "能再"
+    } ]
+  }, {
+    "tStartMs": 1055466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "升級我的"
+    } ]
+  }, {
+    "tStartMs": 1057266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "升級啊"
+    } ]
+  }, {
+    "tStartMs": 1058700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "就是報警"
+    } ]
+  }, {
+    "tStartMs": 1060000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "跟警察說"
+    } ]
+  }, {
+    "tStartMs": 1061500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "嗯，我說樓上面很吵"
+    } ]
+  }, {
+    "tStartMs": 1064966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "這個擾民呢"
+    } ]
+  }, {
+    "tStartMs": 1065766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "在中國擾民的話是可以報警的一樣的"
+    } ]
+  }, {
+    "tStartMs": 1068133,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "一樣的"
+    } ]
+  }, {
+    "tStartMs": 1069333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "我還記得之前在德國居住的時候呢"
+    } ]
+  }, {
+    "tStartMs": 1072666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "週五週六的晚上有很多年輕人開party"
+    } ]
+  }, {
+    "tStartMs": 1076900,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "就很吵"
+    } ]
+  }, {
+    "tStartMs": 1078200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "這個音樂振聾發軒"
+    } ]
+  }, {
+    "tStartMs": 1080533,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "這個音樂震天動地對吧"
+    } ]
+  }, {
+    "tStartMs": 1084466,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "然後這個 人 經常對他們"
+    } ]
+  }, {
+    "tStartMs": 1088666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "大罵"
+    } ]
+  }, {
+    "tStartMs": 1090866,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "的警報聲過來哈哈"
+    } ]
+  }, {
+    "tStartMs": 1094500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "每次我也很爽我就心"
+    } ]
+  }, {
+    "tStartMs": 1096600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "啊我就心想感謝"
+    } ]
+  }, {
+    "tStartMs": 1098600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我然後我就想要說啊"
+    } ]
+  }, {
+    "tStartMs": 1100166,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "感謝這位好心的鄰居報了警哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1104100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "因為有的時候真的很擾民"
+    } ]
+  }, {
+    "tStartMs": 1107733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "嗯嗯 這個呢"
+    } ]
+  }, {
+    "tStartMs": 1109000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "就是發生的一些鄰裡衝突吧"
+    } ]
+  }, {
+    "tStartMs": 1112100,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "大家會有這些鄰裡衝突吧哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1115600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "會和鄰居產生矛盾嗎"
+    } ]
+  }, {
+    "tStartMs": 1118966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我覺得我在德國的時候"
+    } ]
+  }, {
+    "tStartMs": 1121366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "隔壁噪音也有這種情況下"
+    } ]
+  }, {
+    "tStartMs": 1124033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "發生這種情況下的一些情況。"
+    } ]
+  }, {
+    "tStartMs": 1128666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "哈哈哈 哎呦"
+    } ]
+  }, {
+    "tStartMs": 1131133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "啊給我給我幼小的心靈"
+    } ]
+  }, {
+    "tStartMs": 1133500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "產生了很多的震撼"
+    } ]
+  }, {
+    "tStartMs": 1135066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "畢竟那個時候我是第一次去歐洲對吧"
+    } ]
+  }, {
+    "tStartMs": 1139000,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "第一次去一個和我們中國文化"
+    } ]
+  }, {
+    "tStartMs": 1143166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "很不相像的一個文化環境裡面"
+    } ]
+  }, {
+    "tStartMs": 1146366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "所以呢給幼小的我造成了"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "一些心靈上面的傷害"
+    } ]
+  }, {
+    "tStartMs": 1151200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我現在呢是一個人住"
+    } ]
+  }, {
+    "tStartMs": 1153200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "住在這個房子裡面"
+    } ]
+  }, {
+    "tStartMs": 1154833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我以前住在爸爸媽媽家的時候呢"
+    } ]
+  }, {
+    "tStartMs": 1157300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我爸爸媽媽家住在頂樓"
+    } ]
+  }, {
+    "tStartMs": 1159666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我們家從來沒有過這種鄰居"
+    } ]
+  }, {
+    "tStartMs": 1162233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "打擾我們家的這種情況發生"
+    } ]
+  }, {
+    "tStartMs": 1165600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "所以嗯哼哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1168800,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "但是這個又是一個我覺得是靠命運"
+    } ]
+  }, {
+    "tStartMs": 1172533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "是靠緣分注定的一個東西"
+    } ]
+  }, {
+    "tStartMs": 1175033,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "因為我買這個房子的時候"
+    } ]
+  }, {
+    "tStartMs": 1177633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我又不知道我樓上的"
+    } ]
+  }, {
+    "tStartMs": 1179933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "鄰居會是什麼樣子的人"
+    } ]
+  }, {
+    "tStartMs": 1183266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 1184300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "但是呢我還是會盡量減少衝突"
+    } ]
+  }, {
+    "tStartMs": 1187300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "其實我樓上的鄰居他是一個民事律師"
+    } ]
+  }, {
+    "tStartMs": 1190866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "哇民事的律師是做什麼呢"
+    } ]
+  }, {
+    "tStartMs": 1193066,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "就是處理普通人民一些民事糾紛"
+    } ]
+  }, {
+    "tStartMs": 1197500,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "就是雞毛蒜皮的事情產生的一些糾紛"
+    } ]
+  }, {
+    "tStartMs": 1200933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "產生的一些官司"
+    } ]
+  }, {
+    "tStartMs": 1202866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我就很不明白"
+    } ]
+  }, {
+    "tStartMs": 1203933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "自己作為一個民事律師"
+    } ]
+  }, {
+    "tStartMs": 1206533,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "你明明知道這種事情會"
+    } ]
+  }, {
+    "tStartMs": 1208366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "引發很大的一個矛盾對吧"
+    } ]
+  }, {
+    "tStartMs": 1210500,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 1210866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "甚至"
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "可以"
+    } ]
+  }, {
+    "tStartMs": 1214566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "讓這個矛盾升級"
+    } ]
+  }, {
+    "tStartMs": 1217566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "我是否可以將"
+    } ]
+  }, {
+    "tStartMs": 1220700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "他 扔過 一坨"
+    } ]
+  }, {
+    "tStartMs": 1223666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "屎作則"
+    } ]
+  }, {
+    "tStartMs": 1226433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "做個好公民呢"
+    } ]
+  }, {
+    "tStartMs": 1228266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "哈哈哈我不能理解啊"
+    } ]
+  }, {
+    "tStartMs": 1230766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我常常就是我不能理解"
+    } ]
+  }, {
+    "tStartMs": 1233600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "昨天晚上呢聲音又比較大"
+    } ]
+  }, {
+    "tStartMs": 1236533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我男朋友還在那邊說說啊"
+    } ]
+  }, {
+    "tStartMs": 1238433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 1240300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "這次也聽到了"
+    } ]
+  }, {
+    "tStartMs": 1242700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "有這個吸塵器的聲音"
+    } ]
+  }, {
+    "tStartMs": 1243500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "後來"
+    } ]
+  }, {
+    "tStartMs": 1245133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "呢"
+    } ]
+  }, {
+    "tStartMs": 1247933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 1249233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 1251400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "就說"
+    } ]
+  }, {
+    "tStartMs": 1256366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "算了"
+    } ]
+  }, {
+    "tStartMs": 1259533,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "吧啊"
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "也不"
+    } ]
+  }, {
+    "tStartMs": 1262900,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "是每天都有"
+    } ]
+  }, {
+    "tStartMs": 1265833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  } ]
+}

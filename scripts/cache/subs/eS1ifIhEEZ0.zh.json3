@@ -1,0 +1,1555 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "dà jiā hǎo ya\n大 家  好  呀"
+    } ]
+  }, {
+    "tStartMs": 3700,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ xiǎng jiào dà jiā 1 0 gè zhōng guó rén jīng cháng shuō\n今  天   我 想    教   大 家  1 0 个 中    国  人  经   常    说  "
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "dàn shì zài kè běn shàng què xué bú dào de biǎo dá\n但  是  在  课 本  上    却  学  不 到  的 表   达"
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "gǎn xìng qù de jiù wǎng xià kàn ba\n感  兴   趣 的 就  往   下  看  吧"
+    } ]
+  }, {
+    "tStartMs": 17266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "dì yī gè\n第 一 个"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "zài kè běn shàng ， nǐ kě néng huì xué dào\n在  课 本  上    ， 你 可 能   会  学  到 "
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "“ wǒ hěn lèi ”\n“ 我 很  累  ”"
+    } ]
+  }, {
+    "tStartMs": 29333,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "“ wǒ fēi cháng lèi ”\n“ 我 非  常    累  ”"
+    } ]
+  }, {
+    "tStartMs": 30700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "“ wǒ lèi sǐ le ”\n“ 我 累  死 了 ”"
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "dàn shì zài shēng huó dāng zhōng\n但  是  在  生    活  当   中   "
+    } ]
+  }, {
+    "tStartMs": 34733,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "nǐ kě néng huì tīng dào bié rén zhè yàng shuō\n你 可 能   会  听   到  别  人  这  样   说  "
+    } ]
+  }, {
+    "tStartMs": 38066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "“ āi yā ， jīn tiān wǒ zhēn de shì lèi chéng gǒu le ！ ”\n“ 哎 呀 ， 今  天   我 真   的 是  累  成    狗  了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 41800,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "lèi chéng gǒu ， lèi dé gēn gǒu yí yàng\n累  成    狗  ， 累  得 跟  狗  一 样  "
+    } ]
+  }, {
+    "tStartMs": 46333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "zhè bú shì zài mà rén\n这  不 是  在  骂 人 "
+    } ]
+  }, {
+    "tStartMs": 48533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "zhè zhǐ shì yì zhǒng kuā zhāng de biǎo dá\n这  只  是  一 种    夸  张    的 表   达"
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "jiǎ rú nǐ shì yí gè shàng bān zú\n假  如 你 是  一 个 上    班  族"
+    } ]
+  }, {
+    "tStartMs": 55266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "jīn tiān shì nǐ fēi cháng máng lù de yì tiān\n今  天   是  你 非  常    忙   碌 的 一 天  "
+    } ]
+  }, {
+    "tStartMs": 58766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "cóng zǎo shàng dào xià wǔ\n从   早  上    到  下  午"
+    } ]
+  }, {
+    "tStartMs": 61033,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "yì zhí yǒu huì yì\n一 直  有  会  议"
+    } ]
+  }, {
+    "tStartMs": 62733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "nǐ yì zhí yào kāi huì kāi huì kāi huì\n你 一 直  要  开  会  开  会  开  会 "
+    } ]
+  }, {
+    "tStartMs": 66133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nǐ jiù kě yǐ gēn nǐ de péng yǒu bào yuàn\n你 就  可 以 跟  你 的 朋   友  抱  怨  "
+    } ]
+  }, {
+    "tStartMs": 68966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "“ a ， wǒ jīn tiān zhēn de lèi chéng gǒu le ！ ”\n“ 啊 ， 我 今  天   真   的 累  成    狗  了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 71933,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "nǐ de péng yǒu jiù huì lì kè míng bái nǐ jīn tiān yǒu duō lèi\n你 的 朋   友  就  会  立 刻 明   白  你 今  天   有  多  累 "
+    } ]
+  }, {
+    "tStartMs": 76300,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "dì èr gè biǎo dá jiù shì\n第 二 个 表   达 就  是 "
+    } ]
+  }, {
+    "tStartMs": 84366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "zài kè běn shàng ， nǐ kě néng xué dào de shì\n在  课 本  上    ， 你 可 能   学  到  的 是 "
+    } ]
+  }, {
+    "tStartMs": 88100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "“ wǒ hěn kāi xīn ”\n“ 我 很  开  心  ”"
+    } ]
+  }, {
+    "tStartMs": 89700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "“ wǒ hěn gāo xìng ”\n“ 我 很  高  兴   ”"
+    } ]
+  }, {
+    "tStartMs": 91133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "“ jīn tiān zhēn de tài hǎo le ”\n“ 今  天   真   的 太  好  了 ”"
+    } ]
+  }, {
+    "tStartMs": 93800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "dàn shì zài shēng huó dāng zhōng\n但  是  在  生    活  当   中   "
+    } ]
+  }, {
+    "tStartMs": 95766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "zhōng guó rén jīng cháng huì shuō\n中    国  人  经   常    会  说  "
+    } ]
+  }, {
+    "tStartMs": 97933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "“ wā ， tài shuǎng le ！ ”\n“ 哇 ， 太  爽     了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 100100,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "biǎo shì tè bié kāi xīn 、 tè bié mǎn zú 、 tè bié shū fú de yì sī\n表   示  特 别  开  心  、 特 别  满  足 、 特 别  舒  服 的 意 思"
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "jǔ gè lì zǐ\n举 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 107366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "xiàn zài shì xià tiān ma\n现   在  是  夏  天   嘛"
+    } ]
+  }, {
+    "tStartMs": 109166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "qì wēn dōu hěn gāo ， hěn yán rè\n气 温  都  很  高  ， 很  炎  热"
+    } ]
+  }, {
+    "tStartMs": 112466,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "nǐ xiǎng yi xiǎng\n你 想    一 想   "
+    } ]
+  }, {
+    "tStartMs": 113500,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "zài xià tiān ， xià wǔ zuì yán rè de shí hòu\n在  夏  天   ， 下  午 最  炎  热 的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 118566,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "3 5 dù ， 3 6 dù\n3 5 度 ， 3 6 度"
+    } ]
+  }, {
+    "tStartMs": 121300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "hěn rè hěn rè de tiān qì\n很  热 很  热 的 天   气"
+    } ]
+  }, {
+    "tStartMs": 123900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "nǐ tū rán hē dào le yì bēi bīng kā fēi\n你 突 然  喝 到  了 一 杯  冰   咖 啡 "
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "huò zhě bīng nǎi chá\n或  者  冰   奶  茶 "
+    } ]
+  }, {
+    "tStartMs": 130166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "huò zhě bīng pí jiǔ\n或  者  冰   啤 酒 "
+    } ]
+  }, {
+    "tStartMs": 135833,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "“ a ！ tài shuǎng le ！ ”\n“ 啊 ！ 太  爽     了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 140633,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "jiù shì shuō nǐ hěn mǎn zú 、 hěn shū fú 、 hěn kāi xīn de yì sī\n就  是  说   你 很  满  足 、 很  舒  服 、 很  开  心  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 145666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "zài jǔ gè lì zǐ\n再  举 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 147066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ fàng yí gè xīng qī jiǎ\n如 果  你 放   一 个 星   期 假 "
+    } ]
+  }, {
+    "tStartMs": 150400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "yí gè xīng qī bú yòng shàng bān\n一 个 星   期 不 用   上    班 "
+    } ]
+  }, {
+    "tStartMs": 152466,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "nǐ shì bu shì yě huì shuō “ tài shuǎng le ”\n你 是  不 是  也 会  说   “ 太  爽     了 ”"
+    } ]
+  }, {
+    "tStartMs": 157100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "dì sān gè biǎo dá jiù shì\n第 三  个 表   达 就  是 "
+    } ]
+  }, {
+    "tStartMs": 165900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "zhè ge biǎo dá bǐ jiào cháng\n这  个 表   达 比 较   长   "
+    } ]
+  }, {
+    "tStartMs": 168400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "tā shì biǎo shì fēi cháng jǐn zhāng 、 fēi cháng huāng zhāng zhè yàng yí gè zhuàng tài\n它 是  表   示  非  常    紧  张    、 非  常    慌    张    这  样   一 个 状     态 "
+    } ]
+  }, {
+    "tStartMs": 175466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "zài kè běn shàng ， nǐ xué dào de kě néng shì\n在  课 本  上    ， 你 学  到  的 可 能   是 "
+    } ]
+  }, {
+    "tStartMs": 178633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "“ wǒ hěn jǐn zhāng ”\n“ 我 很  紧  张    ”"
+    } ]
+  }, {
+    "tStartMs": 179733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "“ wǒ hěn huāng zhāng ”\n“ 我 很  慌    张    ”"
+    } ]
+  }, {
+    "tStartMs": 181300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "dàn zài xiàn shí shēng huó dāng zhōng\n但  在  现   实  生    活  当   中   "
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "hěn duō rén huì zhè yàng shuō\n很  多  人  会  这  样   说  "
+    } ]
+  }, {
+    "tStartMs": 185300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "“ wǒ nèi xīn huāng dé yì pī ”\n“ 我 内  心  慌    得 一 批 ”"
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "“ huāng ” shì “ huāng zhāng ” de yì sī\n“ 慌    ” 是  “ 慌    张    ” 的 意 思"
+    } ]
+  }, {
+    "tStartMs": 191666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "“ dé yì pī ” ， qí shí tā méi yǒu shén me yì sī\n“ 得 一 批 ” ， 其 实  它 没  有  什   么 意 思"
+    } ]
+  }, {
+    "tStartMs": 194533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "zhǐ shì jiā qiáng yǔ qì\n只  是  加  强    语 气"
+    } ]
+  }, {
+    "tStartMs": 198066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "gěi dà jiā yí gè qíng jǐng\n给  大 家  一 个 情   景  "
+    } ]
+  }, {
+    "tStartMs": 200066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "nǐ gāng xué xí zhōng wén bù jiǔ\n你 刚   学  习 中    文  不 久 "
+    } ]
+  }, {
+    "tStartMs": 202266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "dì yī cì gēn zhōng guó rén liáo tiān\n第 一 次 跟  中    国  人  聊   天  "
+    } ]
+  }, {
+    "tStartMs": 205366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "tā shuō tè bié kuài de zhōng wén\n他 说   特 别  快   的 中    文 "
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "nǐ hěn jǐn zhāng\n你 很  紧  张   "
+    } ]
+  }, {
+    "tStartMs": 209466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "nǐ hěn huāng zhāng\n你 很  慌    张   "
+    } ]
+  }, {
+    "tStartMs": 210833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "nǐ jiù kě yǐ shuō\n你 就  可 以 说  "
+    } ]
+  }, {
+    "tStartMs": 212233,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "“ a ， nà ge shí hòu qí shí wǒ nèi xīn huāng dé yì pī ！ ”\n“ 啊 ， 那 个 时  候  其 实  我 内  心  慌    得 一 批 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "wǒ yì zhí jué de\n我 一 直  觉  得"
+    } ]
+  }, {
+    "tStartMs": 218133,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "dà jiā xué zhōng wén de shí hòu\n大 家  学  中    文  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 220300,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "yīng gāi yào xué yì xiē zhēn shí de 、 zì rán de 、 dì dào de biǎo dá\n应   该  要  学  一 些  真   实  的 、 自 然  的 、 地 道  的 表   达"
+    } ]
+  }, {
+    "tStartMs": 226233,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhè jiù shì wèi shén me wǒ yì zhí tuī jiàn dà jiā\n这  就  是  为  什   么 我 一 直  推  荐   大 家 "
+    } ]
+  }, {
+    "tStartMs": 229266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "xué xí zhōng wén de guò chéng dāng zhōng\n学  习 中    文  的 过  程    当   中   "
+    } ]
+  }, {
+    "tStartMs": 231366,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "yí dìng yi dìng yào gēn mǔ yǔ zhě liàn xí duì huà\n一 定   一 定   要  跟  母 语 者  练   习 对  话 "
+    } ]
+  }, {
+    "tStartMs": 235033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "nà zài zhè fāng miàn ne\n那 在  这  方   面   呢"
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "i t a l k i zhēn de bāng le wǒ men yí gè hěn dà de máng\ni t a l k i 真   的 帮   了 我 们  一 个 很  大 的 忙  "
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ yì jié kè yì jié kè dì mǎi\n你 可 以 一 节  课 一 节  课 地 买 "
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "bù xū yào yí xià zǐ tún hěn duō de kè\n不 需 要  一 下  子 囤  很  多  的 课"
+    } ]
+  }, {
+    "tStartMs": 318133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "shí jiān yě shì bǐ jiào líng huó de\n时  间   也 是  比 较   灵   活  的"
+    } ]
+  }, {
+    "tStartMs": 320133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "zhè yàng nǐ de yā lì jiù huì xiǎo hěn duō\n这  样   你 的 压 力 就  会  小   很  多 "
+    } ]
+  }, {
+    "tStartMs": 323333,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ shì xīn yòng hù\n如 果  你 是  新  用   户"
+    } ]
+  }, {
+    "tStartMs": 325500,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "xiàn zài yòng wǒ de yōu huì mǎ jiù néng mǎi 1 0 měi jīn jiǎn 5 měi jīn\n现   在  用   我 的 优  惠  码 就  能   买  1 0 美  金  减   5 美  金 "
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "zhè ge zhēn de shì hěn dà de yōu huì le\n这  个 真   的 是  很  大 的 优  惠  了"
+    } ]
+  }, {
+    "tStartMs": 334633,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "xī wàng kě yǐ bāng zhù dào dà jiā xué xí zhōng wén\n希 望   可 以 帮   助  到  大 家  学  习 中    文 "
+    } ]
+  }, {
+    "tStartMs": 341933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "dì sì gè biǎo dá fāng shì jiù shì\n第 四 个 表   达 方   式  就  是 "
+    } ]
+  }, {
+    "tStartMs": 347233,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "niú ， duì ， jiù shì nà ge dòng wù ， niú\n牛  ， 对  ， 就  是  那 个 动   物 ， 牛 "
+    } ]
+  }, {
+    "tStartMs": 353200,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "zài zhōng guó ， “ niú ” yě kě yǐ yòng lái xíng róng yí gè rén hěn lì hài\n在  中    国  ， “ 牛  ” 也 可 以 用   来  形   容   一 个 人  很  厉 害 "
+    } ]
+  }, {
+    "tStartMs": 357666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "zuò dé hěn hǎo de yì sī\n做  得 很  好  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 359766,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "zài kè běn shàng ， nǐ kě néng xué dào de biǎo dá fāng shì shì\n在  课 本  上    ， 你 可 能   学  到  的 表   达 方   式  是 "
+    } ]
+  }, {
+    "tStartMs": 363533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "“ nǐ hěn bàng ！ ”\n“ 你 很  棒   ！ ”"
+    } ]
+  }, {
+    "tStartMs": 365333,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "dàn shì zhōng guó rén jīng cháng huì zài shēng huó dāng zhōng shuō\n但  是  中    国  人  经   常    会  在  生    活  当   中    说  "
+    } ]
+  }, {
+    "tStartMs": 369066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "“ niú ！ ” “ tài niú le ！ ”\n“ 牛  ！ ” “ 太  牛  了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 370966,
+    "dDurationMs": 5034,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ de péng yǒu dì yī cì cān jiā mǎ lā sōng cháng pǎo\n如 果  你 的 朋   友  第 一 次 参  加  马 拉 松   长    跑 "
+    } ]
+  }, {
+    "tStartMs": 376233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "tā ná le dì yī míng\n他 拿 了 第 一 名  "
+    } ]
+  }, {
+    "tStartMs": 378033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "nǐ shuō tā niú bu niú\n你 说   他 牛  不 牛 "
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "nǐ kěn dìng huì gěi tā shù qǐ dà mǔ zhǐ\n你 肯  定   会  给  他 竖  起 大 拇 指 "
+    } ]
+  }, {
+    "tStartMs": 383200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "shuō yí jù “ tài niú le ！ ”\n说   一 句 “ 太  牛  了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 385866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "dì wǔ gè biǎo dá fāng shì jiù shì\n第 五 个 表   达 方   式  就  是 "
+    } ]
+  }, {
+    "tStartMs": 395666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "tā xià lái le\n塌 下  来  了"
+    } ]
+  }, {
+    "tStartMs": 397433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "nà jiù shì chū shì de yì sī\n那 就  是  出  事  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 400166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "chū shì le ， chū de hái bú shì xiǎo shì\n出  事  了 ， 出  的 还  不 是  小   事 "
+    } ]
+  }, {
+    "tStartMs": 403433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "chū dà shì le\n出  大 事  了"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "jiù shì biǎo dá shì qíng fēi cháng dì yán zhòng\n就  是  表   达 事  情   非  常    地 严  重   "
+    } ]
+  }, {
+    "tStartMs": 409100,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "dāng rán yǒu de shí hòu yě kě yǐ shì kāi wán xiào\n当   然  有  的 时  候  也 可 以 是  开  玩  笑  "
+    } ]
+  }, {
+    "tStartMs": 413133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "kuā zhāng dì kāi wán xiào\n夸  张    地 开  玩  笑  "
+    } ]
+  }, {
+    "tStartMs": 415033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "kě néng shì qíng méi yǒu nà me yán zhòng\n可 能   事  情   没  有  那 么 严  重   "
+    } ]
+  }, {
+    "tStartMs": 416766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "dàn shì wǒ kě yǐ shuō dé gèng kuā zhāng yì diǎn\n但  是  我 可 以 说   得 更   夸  张    一 点  "
+    } ]
+  }, {
+    "tStartMs": 420133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "tiān tā le\n天   塌 了"
+    } ]
+  }, {
+    "tStartMs": 421233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "tiān tā xià lái le\n天   塌 下  来  了"
+    } ]
+  }, {
+    "tStartMs": 424233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "wǒ gěi dà jiā yí gè qíng jǐng\n我 给  大 家  一 个 情   景  "
+    } ]
+  }, {
+    "tStartMs": 427666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "shàng cè suǒ de shí hòu\n上    厕 所  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 429233,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "nǐ men yǒu méi yǒu xí guàn shuā shǒu jī ya\n你 们  有  没  有  习 惯   刷   手   机 呀"
+    } ]
+  }, {
+    "tStartMs": 432900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "yǒu méi yǒu shuā shǒu jī de xí guàn\n有  没  有  刷   手   机 的 习 惯  "
+    } ]
+  }, {
+    "tStartMs": 435366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "wǒ yīng gāi shì bù zhǐ yí cì\n我 应   该  是  不 止  一 次"
+    } ]
+  }, {
+    "tStartMs": 438833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "shàng cè suǒ de shí hòu shuā shǒu jī\n上    厕 所  的 时  候  刷   手   机"
+    } ]
+  }, {
+    "tStartMs": 441133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "rán hòu qǐ lái de shí hòu ， “ pū tōng ”\n然  后  起 来  的 时  候  ， “ 扑 通   ”"
+    } ]
+  }, {
+    "tStartMs": 443933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "shǒu jī diào jìn mǎ tǒng lǐ le\n手   机 掉   进  马 桶   里 了"
+    } ]
+  }, {
+    "tStartMs": 447533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "nà ge shí hòu wǒ jiù jué de tiān tā le\n那 个 时  候  我 就  觉  得 天   塌 了"
+    } ]
+  }, {
+    "tStartMs": 451700,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "tiān tā le ， wǒ de shǒu jī diào mǎ tǒng le\n天   塌 了 ， 我 的 手   机 掉   马 桶   了"
+    } ]
+  }, {
+    "tStartMs": 455433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "tiān zhēn de tā le\n天   真   的 塌 了"
+    } ]
+  }, {
+    "tStartMs": 458566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "dà jiā xué huì le ma\n大 家  学  会  了 吗"
+    } ]
+  }, {
+    "tStartMs": 460300,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "dì liù gè biǎo dá fāng shì\n第 六  个 表   达 方   式 "
+    } ]
+  }, {
+    "tStartMs": 468200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "zhè lǐ de “ fú le ” bú shì “ pèi fú ” de yì sī\n这  里 的 “ 服 了 ” 不 是  “ 佩  服 ” 的 意 思"
+    } ]
+  }, {
+    "tStartMs": 472233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "shì fā shēng le yì xiē shì qíng\n是  发 生    了 一 些  事  情  "
+    } ]
+  }, {
+    "tStartMs": 474466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "ràng nǐ gǎn jué tè bié dì wú yǔ\n让   你 感  觉  特 别  地 无 语"
+    } ]
+  }, {
+    "tStartMs": 477633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "gěi dà jiā yí gè lì zǐ\n给  大 家  一 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 480100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ yǒu yí gè shì yǒu\n如 果  你 有  一 个 室  友 "
+    } ]
+  }, {
+    "tStartMs": 482900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "tā jīng cháng wàng jì dài yào shi\n他 经   常    忘   记 带  钥  匙 "
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "nǐ men de mén xū yào yào shi cái néng dǎ kāi\n你 们  的 门  需 要  钥  匙  才  能   打 开 "
+    } ]
+  }, {
+    "tStartMs": 488966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "tā dì yī cì wàng jì dài yào shi\n他 第 一 次 忘   记 带  钥  匙 "
+    } ]
+  }, {
+    "tStartMs": 490966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "tā gěi nǐ dǎ diàn huà\n他 给  你 打 电   话 "
+    } ]
+  }, {
+    "tStartMs": 492566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "a duì bù qǐ ， wǒ de yào shi luò zài gōng sī le\n啊 对  不 起 ， 我 的 钥  匙  落  在  公   司 了"
+    } ]
+  }, {
+    "tStartMs": 496766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ huí lái bāng wǒ kāi yí xià mén ma\n你 可 以 回  来  帮   我 开  一 下  门  吗"
+    } ]
+  }, {
+    "tStartMs": 500433,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "nà nǐ kěn dìng . . . ǹg méi guān xì ， wǒ kě yǐ qù bāng tā duì bu duì\n那 你 肯  定   . . . 嗯 没  关   系 ， 我 可 以 去 帮   他 对  不 对 "
+    } ]
+  }, {
+    "tStartMs": 504166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "yīn wèi zhè shì dì yī cì fā shēng de qíng kuàng\n因  为  这  是  第 一 次 发 生    的 情   况   "
+    } ]
+  }, {
+    "tStartMs": 506700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "nà rú guǒ jiē xià lái yí gè xīng qī\n那 如 果  接  下  来  一 个 星   期"
+    } ]
+  }, {
+    "tStartMs": 509433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "tā lián xù fā shēng le sān cì zhè yàng de qíng kuàng\n他 连   续 发 生    了 三  次 这  样   的 情   况   "
+    } ]
+  }, {
+    "tStartMs": 513666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "nǐ jiù huì yǒu diǎn jué de wú yǔ\n你 就  会  有  点   觉  得 无 语"
+    } ]
+  }, {
+    "tStartMs": 516333,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "zěn me zhè me méi yǒu jì xìng ne\n怎  么 这  么 没  有  记 性   呢"
+    } ]
+  }, {
+    "tStartMs": 518866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "wǒ zhēn de fú le\n我 真   的 服 了"
+    } ]
+  }, {
+    "tStartMs": 520666,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "yí gè xīng qī nèi fā shēng le sān cì zhè yàng de qíng kuàng\n一 个 星   期 内  发 生    了 三  次 这  样   的 情   况   "
+    } ]
+  }, {
+    "tStartMs": 524333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "“ wǒ zhēn de fú le ！ ”\n“ 我 真   的 服 了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 526866,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "jiē xià lái dì qī gè biǎo dá jiù shì\n接  下  来  第 七 个 表   达 就  是 "
+    } ]
+  }, {
+    "tStartMs": 535700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "duì ， zhōng jiān yǒu sān gè yīng wén zì mǔ\n对  ， 中    间   有  三  个 英   文  字 母"
+    } ]
+  }, {
+    "tStartMs": 539233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "E M O lái zì yīng wén cí e m o t i o n\nE M O 来  自 英   文  词 e m o t i o n"
+    } ]
+  }, {
+    "tStartMs": 543000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "tā biǎo shì de shì nán guò 、 shāng xīn\n它 表   示  的 是  难  过  、 伤    心 "
+    } ]
+  }, {
+    "tStartMs": 547200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "shī luò 、 xīn qíng bù hǎo de yì sī\n失  落  、 心  情   不 好  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 550633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zài kè běn shàng ， nǐ kě néng xué de shì\n在  课 本  上    ， 你 可 能   学  的 是 "
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "“ wǒ hěn shāng xīn ”\n“ 我 很  伤    心  ”"
+    } ]
+  }, {
+    "tStartMs": 555200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "“ wǒ hěn nán guò ”\n“ 我 很  难  过  ”"
+    } ]
+  }, {
+    "tStartMs": 556633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "“ wǒ xīn qíng bù hǎo ”\n“ 我 心  情   不 好  ”"
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "dàn shì xiàn shí shēng huó dāng zhōng\n但  是  现   实  生    活  当   中   "
+    } ]
+  }, {
+    "tStartMs": 561600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "tè bié shì nián qīng rén\n特 别  是  年   轻   人 "
+    } ]
+  }, {
+    "tStartMs": 563166,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "tā men hěn xǐ huan yòng “ wǒ E M O lā ！ ” zhè yàng de biǎo dá fāng shì\n他 们  很  喜 欢   用   “ 我 E M O 啦 ！ ” 这  样   的 表   达 方   式 "
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "wǒ yǒu gè péng yǒu\n我 有  个 朋   友 "
+    } ]
+  }, {
+    "tStartMs": 570966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "wǒ jīng cháng huì jiào tā E m o gē\n我 经   常    会  叫   他 E m o 哥"
+    } ]
+  }, {
+    "tStartMs": 573633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "wèi shén me\n为  什   么"
+    } ]
+  }, {
+    "tStartMs": 574733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "yīn wèi tā jīng cháng zài wǎn shàng de shí hòu jiù e m o liǎo\n因  为  他 经   常    在  晚  上    的 时  候  就  e m o 了  "
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "zài wǎn shàng bú yuàn yì shuì jiào\n在  晚  上    不 愿   意 睡   觉  "
+    } ]
+  }, {
+    "tStartMs": 581633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "tīng zhe bēi shāng de gē\n听   着  悲  伤    的 歌"
+    } ]
+  }, {
+    "tStartMs": 583733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "kàn zhuó shǒu jī lǐ de xiāo xī\n看  着   手   机 里 的 消   息"
+    } ]
+  }, {
+    "tStartMs": 586566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "shāng xīn 、 nán guò 、 shī luò\n伤    心  、 难  过  、 失  落 "
+    } ]
+  }, {
+    "tStartMs": 589800,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "rán hòu jiù huì fā yì xiē hěn bēi shāng de dòng tài\n然  后  就  会  发 一 些  很  悲  伤    的 动   态 "
+    } ]
+  }, {
+    "tStartMs": 594966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "tā fēi cháng xǐ huan E M O\n他 非  常    喜 欢   E M O"
+    } ]
+  }, {
+    "tStartMs": 596966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ gěi tā qǔ le gè míng zì ， jiào “ e m o gē ”\n所  以 我 给  他 取 了 个 名   字 ， 叫   “ e m o 哥 ”"
+    } ]
+  }, {
+    "tStartMs": 600033,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "lái dào dì 8 gè biǎo dá fāng shì le\n来  到  第 8 个 表   达 方   式  了"
+    } ]
+  }, {
+    "tStartMs": 608633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "nǐ kě néng huì wèn ： yǒu dōng xī ？\n你 可 能   会  问  ： 有  东   西 ？"
+    } ]
+  }, {
+    "tStartMs": 611233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "yǒu shén me dōng xī\n有  什   么 东   西"
+    } ]
+  }, {
+    "tStartMs": 613466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "zhè jù huà de yì sī ne\n这  句 话  的 意 思 呢"
+    } ]
+  }, {
+    "tStartMs": 615066,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "qí shí tā shì biǎo dá bú cuò 、 bǐ xiǎng xiàng zhōng hǎo zhè yàng de yì sī\n其 实  它 是  表   达 不 错  、 比 想    象    中    好  这  样   的 意 思"
+    } ]
+  }, {
+    "tStartMs": 621933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "yǒu diǎn dōng xī\n有  点   东   西"
+    } ]
+  }, {
+    "tStartMs": 624166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "yǒu yì tiān ， nǐ de péng yǒu dài nǐ qù le yì jiā cān tīng\n有  一 天   ， 你 的 朋   友  带  你 去 了 一 家  餐  厅  "
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "nǐ qí shí méi yǒu shén me qī dài\n你 其 实  没  有  什   么 期 待 "
+    } ]
+  }, {
+    "tStartMs": 630600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "nà jiā cān tīng tā de yàng zi yě shì bǐ jiào pǔ tōng de\n那 家  餐  厅   它 的 样   子 也 是  比 较   普 通   的"
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "nǐ zuò xià lái\n你 坐  下  来 "
+    } ]
+  }, {
+    "tStartMs": 637066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "rán hòu diǎn cài\n然  后  点   菜 "
+    } ]
+  }, {
+    "tStartMs": 639233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "shàng cài 、 nǐ cháng le yì kǒu\n上    菜  、 你 尝    了 一 口 "
+    } ]
+  }, {
+    "tStartMs": 643566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "jīng yàn dào le\n惊   艳  到  了"
+    } ]
+  }, {
+    "tStartMs": 644766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "bǐ nǐ xiǎng xiàng zhōng de yào hǎo\n比 你 想    象    中    的 要  好 "
+    } ]
+  }, {
+    "tStartMs": 648200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "hái tǐng bú cuò de\n还  挺   不 错  的"
+    } ]
+  }, {
+    "tStartMs": 649766,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "hái tǐng hǎo de\n还  挺   好  的"
+    } ]
+  }, {
+    "tStartMs": 650666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "tǐng lì hài de\n挺   厉 害  的"
+    } ]
+  }, {
+    "tStartMs": 652133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "nǐ jiù kě yǐ shuō\n你 就  可 以 说  "
+    } ]
+  }, {
+    "tStartMs": 653666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "“ āi ， zhè jiā diàn yǒu diǎn dōng xī ò ！ ”\n“ 哎 ， 这  家  店   有  点   东   西 哦 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 656533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "zhè jiā diàn yǒu diǎn dōng xī\n这  家  店   有  点   东   西"
+    } ]
+  }, {
+    "tStartMs": 659533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "dì jiǔ gè biǎo dá fāng shì\n第 九  个 表   达 方   式 "
+    } ]
+  }, {
+    "tStartMs": 665533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "huò zhě shì duì . . . . . . shàng tóu\n或  者  是  对  . . . . . . 上    头 "
+    } ]
+  }, {
+    "tStartMs": 669400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "shàng tóu\n上    头 "
+    } ]
+  }, {
+    "tStartMs": 673266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "tā de yì sī ne\n它 的 意 思 呢"
+    } ]
+  }, {
+    "tStartMs": 674300,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "jiù shì dài biǎo xǐ huan 、 shàng yǐn zhè yàng de yì sī\n就  是  代  表   喜 欢   、 上    瘾  这  样   的 意 思"
+    } ]
+  }, {
+    "tStartMs": 678566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "shàng tóu\n上    头 "
+    } ]
+  }, {
+    "tStartMs": 680933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "xiàn zài a ， T i k T o k\n现   在  啊 ， T i k T o k"
+    } ]
+  }, {
+    "tStartMs": 682533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "hěn duō rén duì T i k t o k shàng tóu\n很  多  人  对  T i k t o k 上    头 "
+    } ]
+  }, {
+    "tStartMs": 684166,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "yīn wèi shuā shì pín shì yì zhǒng hěn shàng tóu de xíng wéi\n因  为  刷   视  频  是  一 种    很  上    头  的 行   为 "
+    } ]
+  }, {
+    "tStartMs": 688433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "hěn róng yì shàng yǐn de xíng wéi\n很  容   易 上    瘾  的 行   为 "
+    } ]
+  }, {
+    "tStartMs": 691433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "zhè ge shì “ shàng tóu ”\n这  个 是  “ 上    头  ”"
+    } ]
+  }, {
+    "tStartMs": 693133,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "wǒ yǐ jīng shuā le yì wǎn shàng de shǒu jī le\n我 已 经   刷   了 一 晚  上    的 手   机 了"
+    } ]
+  }, {
+    "tStartMs": 696566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "wǒ tíng bú xià lái\n我 停   不 下  来 "
+    } ]
+  }, {
+    "tStartMs": 698433,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "tài shàng tóu le\n太  上    头  了"
+    } ]
+  }, {
+    "tStartMs": 700333,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "duǎn shì pín tài ràng rén shàng tóu le\n短   视  频  太  让   人  上    头  了"
+    } ]
+  }, {
+    "tStartMs": 703800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "nà rú guǒ nǐ shuō\n那 如 果  你 说  "
+    } ]
+  }, {
+    "tStartMs": 705733,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "“ wǒ xiàn zài duì tā shàng tóu le ！ ”\n“ 我 现   在  对  他 上    头  了 ！ ”"
+    } ]
+  }, {
+    "tStartMs": 711566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "nà shì shén me yì sī\n那 是  什   么 意 思"
+    } ]
+  }, {
+    "tStartMs": 712533,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "nà jiù shì nǐ xiàn zài fēi cháng xǐ huan zhè ge rén de yì sī\n那 就  是  你 现   在  非  常    喜 欢   这  个 人  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 717233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "nǐ duì tā hěn zháo mí\n你 对  他 很  着   迷"
+    } ]
+  }, {
+    "tStartMs": 719433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "nǐ hěn xǐ huan tā\n你 很  喜 欢   他"
+    } ]
+  }, {
+    "tStartMs": 720766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ duì tā shàng tóu le\n我 对  他 上    头  了"
+    } ]
+  }, {
+    "tStartMs": 722966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "huì yòng le ma\n会  用   了 吗"
+    } ]
+  }, {
+    "tStartMs": 724433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "zuì hòu yí gè\n最  后  一 个"
+    } ]
+  }, {
+    "tStartMs": 730666,
+    "dDurationMs": 5234,
+    "segs": [ {
+      "utf8": "dà jiā kě néng kàn dào zhè lǐ yòu yǒu yí gè yīng wén cí - C P U\n大 家  可 能   看  到  这  里 又  有  一 个 英   文  词 - C P U"
+    } ]
+  }, {
+    "tStartMs": 736766,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "nǐ men zhī dào C P U tā shì diàn nǎo de yí gè líng bù jiàn ma\n你 们  知  道  C P U 它 是  电   脑  的 一 个 零   部 件   吗"
+    } ]
+  }, {
+    "tStartMs": 741433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "zhōng yāng chǔ lǐ qì\n中    央   处  理 器"
+    } ]
+  }, {
+    "tStartMs": 743733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "shāo ， bú shì yòng huǒ shāo zhè yàng de yì sī\n烧   ， 不 是  用   火  烧   这  样   的 意 思"
+    } ]
+  }, {
+    "tStartMs": 747766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "shì sǔn huài le ， bù néng yòng le zhè ge yì sī\n是  损  坏   了 ， 不 能   用   了 这  个 意 思"
+    } ]
+  }, {
+    "tStartMs": 751100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "C P U shāo le\nC P U 烧   了"
+    } ]
+  }, {
+    "tStartMs": 752600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ diàn nǎo de C P U huài le\n如 果  你 电   脑  的 C P U 坏   了"
+    } ]
+  }, {
+    "tStartMs": 754833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "diàn nǎo shì bù néng yòng de\n电   脑  是  不 能   用   的"
+    } ]
+  }, {
+    "tStartMs": 757000,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "duì ， yòng bù liǎo liǎo\n对  ， 用   不 了   了  "
+    } ]
+  }, {
+    "tStartMs": 759166,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "nà zài shēng huó dāng zhōng\n那 在  生    活  当   中   "
+    } ]
+  }, {
+    "tStartMs": 760600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "wǒ men shuō zhè jù huà de shí hòu ne\n我 们  说   这  句 话  的 时  候  呢"
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "chú le kě yǐ yòng zài diàn nǎo fāng miàn\n除  了 可 以 用   在  电   脑  方   面  "
+    } ]
+  }, {
+    "tStartMs": 765000,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "yě kě yǐ yòng zài nǐ de nǎo zǐ shàng\n也 可 以 用   在  你 的 脑  子 上   "
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "shén me yì sī\n什   么 意 思"
+    } ]
+  }, {
+    "tStartMs": 771166,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "C P U shāo le ， jiù shì yì xiē hěn fèi nǎo 、 hěn shāo nǎo\nC P U 烧   了 ， 就  是  一 些  很  费  脑  、 很  烧   脑 "
+    } ]
+  }, {
+    "tStartMs": 776566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "hěn fù zá de qíng kuàng\n很  复 杂 的 情   况   "
+    } ]
+  }, {
+    "tStartMs": 777800,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "nǐ xiǎng bù míng bái\n你 想    不 明   白 "
+    } ]
+  }, {
+    "tStartMs": 779233,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "nǐ jiù kě yǐ yòng “ C P U shāo le ” （ zhè ge biǎo dá ）\n你 就  可 以 用   “ C P U 烧   了 ” （ 这  个 表   达 ）"
+    } ]
+  }, {
+    "tStartMs": 782166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "jǔ gè lì zǐ\n举 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 783366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "nǐ yǒu yí gè chéng xù yuán de péng yǒu\n你 有  一 个 程    序 员   的 朋   友 "
+    } ]
+  }, {
+    "tStartMs": 786633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "tā hěn shàn cháng xiě yì xiē dài mǎ\n他 很  擅   长    写  一 些  代  码"
+    } ]
+  }, {
+    "tStartMs": 790233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "dàn shì dài mǎ duì nǐ lái shuō shì fēi cháng nán de\n但  是  代  码 对  你 来  说   是  非  常    难  的"
+    } ]
+  }, {
+    "tStartMs": 793466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "xiàng tiān shū yí yàng kàn bù dǒng\n像    天   书  一 样   看  不 懂  "
+    } ]
+  }, {
+    "tStartMs": 797166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "tā gěi nǐ jiǎng\n他 给  你 讲   "
+    } ]
+  }, {
+    "tStartMs": 798566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "zhè ge shì wèi shén me\n这  个 是  为  什   么"
+    } ]
+  }, {
+    "tStartMs": 799600,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "zhè ge shì wèi shén me\n这  个 是  为  什   么"
+    } ]
+  }, {
+    "tStartMs": 800900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nǐ yě hěn rèn zhēn dì tīng\n你 也 很  认  真   地 听  "
+    } ]
+  }, {
+    "tStartMs": 802900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "dàn shì nǐ jiù shì bù míng bái\n但  是  你 就  是  不 明   白 "
+    } ]
+  }, {
+    "tStartMs": 805566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "xiǎng bù míng bái\n想    不 明   白 "
+    } ]
+  }, {
+    "tStartMs": 806700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "nǎo zǐ zhuǎn bú guò lái le\n脑  子 转    不 过  来  了"
+    } ]
+  }, {
+    "tStartMs": 809066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "āi yā ， bú yào zài gēn wǒ shuō le\n哎 呀 ， 不 要  再  跟  我 说   了"
+    } ]
+  }, {
+    "tStartMs": 811066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "wǒ C P U shāo le\n我 C P U 烧   了"
+    } ]
+  }, {
+    "tStartMs": 813766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "tā xiǎng biǎo dá de yì sī jiù shì xiǎng bù míng bái\n它 想    表   达 的 意 思 就  是  想    不 明   白 "
+    } ]
+  }, {
+    "tStartMs": 817333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "nǎo zǐ zhuǎn bú guò lái\n脑  子 转    不 过  来 "
+    } ]
+  }, {
+    "tStartMs": 819266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "dàn shì zhè shì yí gè fēi cháng shēng dòng de biǎo dá\n但  是  这  是  一 个 非  常    生    动   的 表   达"
+    } ]
+  }, {
+    "tStartMs": 822933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ de zhōng guó péng yǒu tīng dào nǐ shuō zhè jù huà\n如 果  你 的 中    国  朋   友  听   到  你 说   这  句 话 "
+    } ]
+  }, {
+    "tStartMs": 826500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "tā kěn dìng huì bèi nǐ dòu xiào de\n他 肯  定   会  被  你 逗  笑   的"
+    } ]
+  }, {
+    "tStartMs": 829066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "jīn tiān de 1 0 gè biǎo dá nǐ dōu xué huì le ma\n今  天   的 1 0 个 表   达 你 都  学  会  了 吗"
+    } ]
+  }, {
+    "tStartMs": 833266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "mǎ shàng zhǎo jī huì gēn nǐ de zhōng guó péng yǒu\n马 上    找   机 会  跟  你 的 中    国  朋   友 "
+    } ]
+  }, {
+    "tStartMs": 836400,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "huò zhě gēn nǐ de zhōng wén lǎo shī shuō zhè jǐ gè cí\n或  者  跟  你 的 中    文  老  师  说   这  几 个 词"
+    } ]
+  }, {
+    "tStartMs": 841633,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "kàn kàn tā men de fǎn yìng shì zěn me yàng de\n看  看  他 们  的 反  应   是  怎  么 样   的"
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "rú guǒ dà jiā xiǎng xué xí gèng duō\n如 果  大 家  想    学  习 更   多 "
+    } ]
+  }, {
+    "tStartMs": 847566,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè yàng zhēn shí 、 zì rán 、 dì dào de zhōng wén\n这  样   真   实  、 自 然  、 地 道  的 中    文 "
+    } ]
+  }, {
+    "tStartMs": 851033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "qǐng gěi wǒ yí gè zàn\n请   给  我 一 个 赞 "
+    } ]
+  }, {
+    "tStartMs": 853633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "wǒ huì pāi gèng duō de shì pín gěi dà jiā\n我 会  拍  更   多  的 视  频  给  大 家 "
+    } ]
+  }, {
+    "tStartMs": 856233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "nà jīn tiān de shì pín jiù dào zhè ér le\n那 今  天   的 视  频  就  到  这  儿 了"
+    } ]
+  }, {
+    "tStartMs": 858266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "gǎn xiè dà jiā kàn dào zhè lǐ\n感  谢  大 家  看  到  这  里"
+    } ]
+  }, {
+    "tStartMs": 860100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "wǒ men xià gè shì pín jiàn ， bài bài\n我 们  下  个 视  频  见   ， 拜  拜 "
+    } ]
+  } ]
+}

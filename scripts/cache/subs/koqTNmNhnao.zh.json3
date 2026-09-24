@@ -1,0 +1,2497 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这次行动非常艰难。"
+    } ]
+  }, {
+    "tStartMs": 2266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "而且损失了那么多飞机。"
+    } ]
+  }, {
+    "tStartMs": 4400,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "在超过五百架失事飞机中，"
+    } ]
+  }, {
+    "tStartMs": 9900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这架也许是唯一一架"
+    } ]
+  }, {
+    "tStartMs": 11900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "被发现时几乎完好无损的。"
+    } ]
+  }, {
+    "tStartMs": 15766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "在上一期节目中，"
+    } ]
+  }, {
+    "tStartMs": 17133,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我们讲述了"
+    } ]
+  }, {
+    "tStartMs": 18566,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "中国最基督教化的地区的故事。"
+    } ]
+  }, {
+    "tStartMs": 21166,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "今天我们继续沿着"
+    } ]
+  }, {
+    "tStartMs": 23466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "怒江向缅甸边境前进，"
+    } ]
+  }, {
+    "tStartMs": 25399,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "那里有超过五百架飞机"
+    } ]
+  }, {
+    "tStartMs": 27866,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "消失在群山之中。"
+    } ]
+  }, {
+    "tStartMs": 44500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "大家早上好。"
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "欢迎回到频道。"
+    } ]
+  }, {
+    "tStartMs": 48166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "现在我们就在老姆登，"
+    } ]
+  }, {
+    "tStartMs": 49700,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "这是一个坐落在"
+    } ]
+  }, {
+    "tStartMs": 52399,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "怒江峡谷半山腰上的村庄。"
+    } ]
+  }, {
+    "tStartMs": 55533,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "那就是怒江峡谷。"
+    } ]
+  }, {
+    "tStartMs": 57399,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "而那片山的后面就是缅甸。"
+    } ]
+  }, {
+    "tStartMs": 60100,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "今天我们要去"
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "片马，那是一个边境小镇，"
+    } ]
+  }, {
+    "tStartMs": 65500,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "就在"
+    } ]
+  }, {
+    "tStartMs": 67366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "缅中边境上。"
+    } ]
+  }, {
+    "tStartMs": 68700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我刚把地图拿了出来。"
+    } ]
+  }, {
+    "tStartMs": 71666,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "看这里，只有一百五十公里，"
+    } ]
+  }, {
+    "tStartMs": 74099,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "但是要开大约三个半小时。"
+    } ]
+  }, {
+    "tStartMs": 75866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "而且整条路基本上都是这样走的。"
+    } ]
+  }, {
+    "tStartMs": 79099,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "说实话，"
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "我本来不太想去边境，"
+    } ]
+  }, {
+    "tStartMs": 83133,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "因为首先，"
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "我们在云南的这次旅行"
+    } ]
+  }, {
+    "tStartMs": 86099,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "时间有限。"
+    } ]
+  }, {
+    "tStartMs": 87766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我们大约有十天时间，而这个"
+    } ]
+  }, {
+    "tStartMs": 90866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "计划是昨天夜里"
+    } ]
+  }, {
+    "tStartMs": 92266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "才提出来的。"
+    } ]
+  }, {
+    "tStartMs": 94466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "如果去那里的话，"
+    } ]
+  }, {
+    "tStartMs": 95700,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "我可能会冒失去我一直想做的"
+    } ]
+  }, {
+    "tStartMs": 100933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "采蘑菇之旅的时间的风险。"
+    } ]
+  }, {
+    "tStartMs": 104066,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "但我们还是要去那里，"
+    } ]
+  }, {
+    "tStartMs": 105233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "只为一个原因，"
+    } ]
+  }, {
+    "tStartMs": 106333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "那就是“驼峰”。"
+    } ]
+  }, {
+    "tStartMs": 107566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "“驼峰”是二战期间"
+    } ]
+  }, {
+    "tStartMs": 108966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "最隐蔽、最史诗般的"
+    } ]
+  }, {
+    "tStartMs": 110266,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "空中任务之一，"
+    } ]
+  }, {
+    "tStartMs": 112333,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "当时有超过五百架飞机"
+    } ]
+  }, {
+    "tStartMs": 114566,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "坠毁，"
+    } ]
+  }, {
+    "tStartMs": 115799,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "五百名飞行员丧生。"
+    } ]
+  }, {
+    "tStartMs": 118099,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "而在这个地方——片马，"
+    } ]
+  }, {
+    "tStartMs": 119700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "你仍然可以亲眼见证这段历史的一部分。"
+    } ]
+  }, {
+    "tStartMs": 122900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这条街——"
+    } ]
+  }, {
+    "tStartMs": 128466,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "片马是一个很小的边境口岸，"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "连接中国与缅甸的克钦邦，"
+    } ]
+  }, {
+    "tStartMs": 133733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "那里居住着同样的山地民族，"
+    } ]
+  }, {
+    "tStartMs": 135366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "在中国称为景颇族和傈僳族。"
+    } ]
+  }, {
+    "tStartMs": 138400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "因为担心汽油不够，"
+    } ]
+  }, {
+    "tStartMs": 141133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Flore 在一个岔路口把我放下，"
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "自己开车去找加油站。"
+    } ]
+  }, {
+    "tStartMs": 146733,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "在一个十字路口，"
+    } ]
+  }, {
+    "tStartMs": 147900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "有一个小型当地集市，"
+    } ]
+  }, {
+    "tStartMs": 150166,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "村民们聚在那里卖野生草药、"
+    } ]
+  }, {
+    "tStartMs": 152966,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "林产品和其他的山货。"
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "哎，这个是个啥呀？"
+    } ]
+  }, {
+    "tStartMs": 159599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "无花果。"
+    } ]
+  }, {
+    "tStartMs": 160599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "多少钱一个呀？"
+    } ]
+  }, {
+    "tStartMs": 161766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "十五块。"
+    } ]
+  }, {
+    "tStartMs": 162599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "十五块一个？"
+    } ]
+  }, {
+    "tStartMs": 164133,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 164466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "这是野生无花果。"
+    } ]
+  }, {
+    "tStartMs": 166066,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "可以吃吗？"
+    } ]
+  }, {
+    "tStartMs": 166966,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "可以吃啊这个。"
+    } ]
+  }, {
+    "tStartMs": 168133,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "那我拿一个吧。"
+    } ]
+  }, {
+    "tStartMs": 169666,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "呃，十五块。"
+    } ]
+  }, {
+    "tStartMs": 170666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "行。"
+    } ]
+  }, {
+    "tStartMs": 171599,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "只有这三个。"
+    } ]
+  }, {
+    "tStartMs": 172699,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "好。"
+    } ]
+  }, {
+    "tStartMs": 173199,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "两个哪个呗？"
+    } ]
+  }, {
+    "tStartMs": 174300,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "拿一个就行了。"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我尝一下。"
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯对啊。"
+    } ]
+  }, {
+    "tStartMs": 176966,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "老板，这个是啥菌子呀？"
+    } ]
+  }, {
+    "tStartMs": 179266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这个是我们说是马陆菌。"
+    } ]
+  }, {
+    "tStartMs": 181400,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "马陆菌？"
+    } ]
+  }, {
+    "tStartMs": 182466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯对。"
+    } ]
+  }, {
+    "tStartMs": 183366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "马陆菌，这个呢？"
+    } ]
+  }, {
+    "tStartMs": 186333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个？"
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这是黑牛肝。"
+    } ]
+  }, {
+    "tStartMs": 188733,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "黑牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 190500,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我也希望能跟他们一起去"
+    } ]
+  }, {
+    "tStartMs": 192400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "采蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 195933,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "看起来像筷子。"
+    } ]
+  }, {
+    "tStartMs": 198699,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "鸡枞菌。"
+    } ]
+  }, {
+    "tStartMs": 202199,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "这个，这个是啥菌啊老板？"
+    } ]
+  }, {
+    "tStartMs": 204300,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "鸡枞，鸡枞。"
+    } ]
+  }, {
+    "tStartMs": 204800,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "哦，这个是鸡枞菌。"
+    } ]
+  }, {
+    "tStartMs": 206300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "哦哇，那就是著名的——"
+    } ]
+  }, {
+    "tStartMs": 208199,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我觉得云南人特别喜欢吃这个。"
+    } ]
+  }, {
+    "tStartMs": 214000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "二九二？"
+    } ]
+  }, {
+    "tStartMs": 215199,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这个鸡蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 217400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "鸡爪菌。"
+    } ]
+  }, {
+    "tStartMs": 219099,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "鸡蛋菌？"
+    } ]
+  }, {
+    "tStartMs": 219866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 220766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "鸡蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 222900,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "鸡蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 225199,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "这些蘑菇我从来没听说过。"
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦哇。"
+    } ]
+  }, {
+    "tStartMs": 229099,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这里就是我的天堂。"
+    } ]
+  }, {
+    "tStartMs": 231800,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "哇哦，这是大长出来的大鸡枞了。"
+    } ]
+  }, {
+    "tStartMs": 234699,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 235800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "鸡枞，大鸡枞。"
+    } ]
+  }, {
+    "tStartMs": 237133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦哇哦。"
+    } ]
+  }, {
+    "tStartMs": 237966,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "是不是？"
+    } ]
+  }, {
+    "tStartMs": 238533,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "对，是的是的。"
+    } ]
+  }, {
+    "tStartMs": 239400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "录视频我也不敢乱卖啊。"
+    } ]
+  }, {
+    "tStartMs": 240966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 242133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "是不是？"
+    } ]
+  }, {
+    "tStartMs": 242766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "对对对，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 243933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "才五十块一斤我才卖。"
+    } ]
+  }, {
+    "tStartMs": 245366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "因为它开散了嘛。"
+    } ]
+  }, {
+    "tStartMs": 247566,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "这多少钱一斤？"
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "开散的话它肯定会重一点。"
+    } ]
+  }, {
+    "tStartMs": 250699,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "五十块。"
+    } ]
+  }, {
+    "tStartMs": 251333,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "五十块一斤。"
+    } ]
+  }, {
+    "tStartMs": 252099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "人家卖七八十块钱一斤。"
+    } ]
+  }, {
+    "tStartMs": 253500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "是鸡枞是最贵的吗？"
+    } ]
+  }, {
+    "tStartMs": 256133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "也不能那么说。"
+    } ]
+  }, {
+    "tStartMs": 258199,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "下次走的话，"
+    } ]
+  }, {
+    "tStartMs": 259300,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "也差不多一个价钱。"
+    } ]
+  }, {
+    "tStartMs": 261133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "他这个没开伞的话也"
+    } ]
+  }, {
+    "tStartMs": 264266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "可以卖八十块钱一斤。"
+    } ]
+  }, {
+    "tStartMs": 267166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哈哈哈，兄弟。"
+    } ]
+  }, {
+    "tStartMs": 268500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "大姐我就这么说，"
+    } ]
+  }, {
+    "tStartMs": 269766,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "讲话直点啊。"
+    } ]
+  }, {
+    "tStartMs": 271966,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "那我们一起——"
+    } ]
+  }, {
+    "tStartMs": 274566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "尝尝你就舍不得走。"
+    } ]
+  }, {
+    "tStartMs": 276166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "很甜很甜。"
+    } ]
+  }, {
+    "tStartMs": 277066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "相当甜。"
+    } ]
+  }, {
+    "tStartMs": 279066,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "多少钱一斤？"
+    } ]
+  }, {
+    "tStartMs": 279699,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "八元，实话实说啊。"
+    } ]
+  }, {
+    "tStartMs": 281333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "好，称一点。"
+    } ]
+  }, {
+    "tStartMs": 282933,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "讲话直点啊。"
+    } ]
+  }, {
+    "tStartMs": 283966,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "别生气啊。"
+    } ]
+  }, {
+    "tStartMs": 285166,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "行。大的奶浆菌啊。"
+    } ]
+  }, {
+    "tStartMs": 287933,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "山上的那个大奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 289566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "山上的大奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 290766,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这个是白奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 292333,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "哦，白的奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 293933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "白的奶浆菌那个——"
+    } ]
+  }, {
+    "tStartMs": 296333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 298199,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "好的，哈哈，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "这个也是从山上找的吗？"
+    } ]
+  }, {
+    "tStartMs": 303899,
+    "dDurationMs": 101,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 304000,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "那个蜂巢。"
+    } ]
+  }, {
+    "tStartMs": 305133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "蜂蜜在里面，哇。"
+    } ]
+  }, {
+    "tStartMs": 308133,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "对，上面有一点点的——"
+    } ]
+  }, {
+    "tStartMs": 309800,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "哦哇哦。"
+    } ]
+  }, {
+    "tStartMs": 310300,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "那就是蜂蜜。"
+    } ]
+  }, {
+    "tStartMs": 311199,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "舔一下？怎么舔？"
+    } ]
+  }, {
+    "tStartMs": 312966,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 314933,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 315133,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "这个治肺和治癌症那些呢。"
+    } ]
+  }, {
+    "tStartMs": 317399,
+    "dDurationMs": 401,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 317800,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "这个这个——"
+    } ]
+  }, {
+    "tStartMs": 318533,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "很甜很甜。"
+    } ]
+  }, {
+    "tStartMs": 319966,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "要走多远呀？"
+    } ]
+  }, {
+    "tStartMs": 321300,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "他住，他住的——"
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "他住的是那个——"
+    } ]
+  }, {
+    "tStartMs": 326366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "有一些时候近，"
+    } ]
+  }, {
+    "tStartMs": 328333,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "走几步就会遇到的，也有。"
+    } ]
+  }, {
+    "tStartMs": 330566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "有一些时候你找"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "一整天都找不到一个。"
+    } ]
+  }, {
+    "tStartMs": 334366,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "你尝一下。"
+    } ]
+  }, {
+    "tStartMs": 335066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "尝一下半边红。"
+    } ]
+  }, {
+    "tStartMs": 336199,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "半边红，好。"
+    } ]
+  }, {
+    "tStartMs": 337133,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "这是半边红。"
+    } ]
+  }, {
+    "tStartMs": 343333,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "相当好吃。"
+    } ]
+  }, {
+    "tStartMs": 344100,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "相当好吃。"
+    } ]
+  }, {
+    "tStartMs": 344866,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "水分高吗？"
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "海拔高。"
+    } ]
+  }, {
+    "tStartMs": 346333,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "海拔差不多有"
+    } ]
+  }, {
+    "tStartMs": 347366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "达两千多米多了这个。"
+    } ]
+  }, {
+    "tStartMs": 349899,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "帮我称个一斤吧。"
+    } ]
+  }, {
+    "tStartMs": 351399,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "对吧？"
+    } ]
+  }, {
+    "tStartMs": 352266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好。"
+    } ]
+  }, {
+    "tStartMs": 353399,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "这些个是我们本地的腊肉。"
+    } ]
+  }, {
+    "tStartMs": 355600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 356600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "本地的后腿肉。"
+    } ]
+  }, {
+    "tStartMs": 359166,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "香哇。"
+    } ]
+  }, {
+    "tStartMs": 361066,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "本地桃子。"
+    } ]
+  }, {
+    "tStartMs": 362766,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "桃子。"
+    } ]
+  }, {
+    "tStartMs": 364566,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个我们本地的腊肉——"
+    } ]
+  }, {
+    "tStartMs": 367133,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "过年腌的火腿肉。"
+    } ]
+  }, {
+    "tStartMs": 369300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我给你一个礼物。"
+    } ]
+  }, {
+    "tStartMs": 371366,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "嗯好。"
+    } ]
+  }, {
+    "tStartMs": 373366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "哇，这是什么？"
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "无花果。"
+    } ]
+  }, {
+    "tStartMs": 375866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这真的是无花果吗？"
+    } ]
+  }, {
+    "tStartMs": 377166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "是的。"
+    } ]
+  }, {
+    "tStartMs": 378266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "什么鬼！"
+    } ]
+  }, {
+    "tStartMs": 379566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这个无花果可以吃不？"
+    } ]
+  }, {
+    "tStartMs": 381166,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "可以吃。"
+    } ]
+  }, {
+    "tStartMs": 381500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "可以吃啊。"
+    } ]
+  }, {
+    "tStartMs": 382600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "它这有两种，"
+    } ]
+  }, {
+    "tStartMs": 384066,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "一种是软的，"
+    } ]
+  }, {
+    "tStartMs": 384800,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "一种肉的。"
+    } ]
+  }, {
+    "tStartMs": 385666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 387199,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "就直接这样吃就行了是吧？哇。"
+    } ]
+  }, {
+    "tStartMs": 392666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "本地叫它“大麻鲁”。"
+    } ]
+  }, {
+    "tStartMs": 394133,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大麻鲁。"
+    } ]
+  }, {
+    "tStartMs": 395266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "大麻鲁。"
+    } ]
+  }, {
+    "tStartMs": 396199,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "大毛鲁。"
+    } ]
+  }, {
+    "tStartMs": 397133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "哎，叫麻鲁果。"
+    } ]
+  }, {
+    "tStartMs": 398366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "麻鲁果。"
+    } ]
+  }, {
+    "tStartMs": 399166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "哎，野生的。"
+    } ]
+  }, {
+    "tStartMs": 400966,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 401600,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "功效的话，"
+    } ]
+  }, {
+    "tStartMs": 402300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "男同胞可以多吃一点。"
+    } ]
+  }, {
+    "tStartMs": 404333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 405399,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "对男性有好处嘞。"
+    } ]
+  }, {
+    "tStartMs": 406533,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "它对男性的生育能力有什么好处？"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 411933,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "他们告诉我们，这个还没完全熟，"
+    } ]
+  }, {
+    "tStartMs": 414366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "所以没那么好。"
+    } ]
+  }, {
+    "tStartMs": 415366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "但你看，它看起来像一个巨大的无花果。"
+    } ]
+  }, {
+    "tStartMs": 417300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "里面有很多细小的籽。"
+    } ]
+  }, {
+    "tStartMs": 420166,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "但这绝对是——"
+    } ]
+  }, {
+    "tStartMs": 421733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这是我见过的最大的无花果。"
+    } ]
+  }, {
+    "tStartMs": 423366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "是啊。"
+    } ]
+  }, {
+    "tStartMs": 424533,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "呃，他们告诉我这个还没完全熟，"
+    } ]
+  }, {
+    "tStartMs": 426699,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "所以没那么好。"
+    } ]
+  }, {
+    "tStartMs": 428500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "如果你看到里面像蜂蜜一样的东西，"
+    } ]
+  }, {
+    "tStartMs": 430666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那就说明它够好了。"
+    } ]
+  }, {
+    "tStartMs": 434066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "嗯，所以这个很甜——"
+    } ]
+  }, {
+    "tStartMs": 436133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有点像无花果。"
+    } ]
+  }, {
+    "tStartMs": 437733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "而且那个人说得对，"
+    } ]
+  }, {
+    "tStartMs": 438933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "它还没完全熟。"
+    } ]
+  }, {
+    "tStartMs": 441699,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "离开集市后，"
+    } ]
+  }, {
+    "tStartMs": 442966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们继续向山更深处"
+    } ]
+  }, {
+    "tStartMs": 444266,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "攀登。"
+    } ]
+  }, {
+    "tStartMs": 445533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "峡谷里依然温暖，"
+    } ]
+  }, {
+    "tStartMs": 447333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "但我们爬得越高，"
+    } ]
+  }, {
+    "tStartMs": 448600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "空气就越冷。"
+    } ]
+  }, {
+    "tStartMs": 456766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 471399,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你好。"
+    } ]
+  }, {
+    "tStartMs": 472199,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "你好。"
+    } ]
+  }, {
+    "tStartMs": 476466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "进入边境管理区。"
+    } ]
+  }, {
+    "tStartMs": 481466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我们现在海拔很高了。"
+    } ]
+  }, {
+    "tStartMs": 482966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我能感觉到温度在下降。"
+    } ]
+  }, {
+    "tStartMs": 486300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这里甚至有点冷了。"
+    } ]
+  }, {
+    "tStartMs": 492566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "经过一个检查站后，"
+    } ]
+  }, {
+    "tStartMs": 493800,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "我们又开了几十公里，"
+    } ]
+  }, {
+    "tStartMs": 495800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "终于到达了片马。"
+    } ]
+  }, {
+    "tStartMs": 498266,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "乍一看，"
+    } ]
+  }, {
+    "tStartMs": 499266,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "它看起来像一个普通的边境小镇，"
+    } ]
+  }, {
+    "tStartMs": 501800,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "但这个安静的地方"
+    } ]
+  }, {
+    "tStartMs": 503166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "见证了二战中"
+    } ]
+  }, {
+    "tStartMs": 504966,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "最危险的航空任务之一——"
+    } ]
+  }, {
+    "tStartMs": 506600,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "“驼峰航线”。"
+    } ]
+  }, {
+    "tStartMs": 508066,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "驼峰航线。"
+    } ]
+  }, {
+    "tStartMs": 510600,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "驼峰空运，一九四二至一九四五。"
+    } ]
+  }, {
+    "tStartMs": 517733,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "嘿，我想现在正在看这个视频的"
+    } ]
+  }, {
+    "tStartMs": 519366,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "很多人"
+    } ]
+  }, {
+    "tStartMs": 521899,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "可能从来没有听说过"
+    } ]
+  }, {
+    "tStartMs": 523933,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "驼峰空军的行动。"
+    } ]
+  }, {
+    "tStartMs": 526166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "就连我自己也是在今年早些时候"
+    } ]
+  }, {
+    "tStartMs": 529166,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "才了解到的，"
+    } ]
+  }, {
+    "tStartMs": 530333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "当时我在小红书上"
+    } ]
+  }, {
+    "tStartMs": 531666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "刷到一篇帖子，"
+    } ]
+  }, {
+    "tStartMs": 533100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "呃，我稍后会讲到。"
+    } ]
+  }, {
+    "tStartMs": 535500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "但驼峰空运是"
+    } ]
+  }, {
+    "tStartMs": 537899,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "二战期间最艰难、最史诗般的"
+    } ]
+  }, {
+    "tStartMs": 541766,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "空运行动。"
+    } ]
+  }, {
+    "tStartMs": 543399,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "驼峰航线实际上是这样的——"
+    } ]
+  }, {
+    "tStartMs": 545733,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "它从印度的阿萨姆邦开始，"
+    } ]
+  }, {
+    "tStartMs": 548299,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "那是在印度东北部，"
+    } ]
+  }, {
+    "tStartMs": 550733,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "经过缅甸，到达昆明。"
+    } ]
+  }, {
+    "tStartMs": 552333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这个行动之所以发生，是因为滇缅公路"
+    } ]
+  }, {
+    "tStartMs": 554566,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在二战期间被日本人"
+    } ]
+  }, {
+    "tStartMs": 556666,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "切断了。"
+    } ]
+  }, {
+    "tStartMs": 557566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "基本上，美国和当时"
+    } ]
+  }, {
+    "tStartMs": 559266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "的中国"
+    } ]
+  }, {
+    "tStartMs": 561700,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "合作，"
+    } ]
+  }, {
+    "tStartMs": 562366,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "向昆明、向云南省运送重要物资，"
+    } ]
+  }, {
+    "tStartMs": 566600,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "以支援当地人，"
+    } ]
+  }, {
+    "tStartMs": 569700,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "因为滇缅公路被切断了。"
+    } ]
+  }, {
+    "tStartMs": 572066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这个任务对飞行员来说"
+    } ]
+  }, {
+    "tStartMs": 574066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "极其危险，"
+    } ]
+  }, {
+    "tStartMs": 574866,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "因为在当时"
+    } ]
+  }, {
+    "tStartMs": 576100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "没有 GPS，"
+    } ]
+  }, {
+    "tStartMs": 577733,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "所有的导航系统"
+    } ]
+  }, {
+    "tStartMs": 579233,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "都不像今天这么先进。"
+    } ]
+  }, {
+    "tStartMs": 581533,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "所以我觉得那是一个动画，"
+    } ]
+  }, {
+    "tStartMs": 583399,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "但大致就是那个样子。"
+    } ]
+  }, {
+    "tStartMs": 585100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "他们之所以叫它“驼峰航线”，"
+    } ]
+  }, {
+    "tStartMs": 586766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "是因为东喜马拉雅山脉的"
+    } ]
+  }, {
+    "tStartMs": 588466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那些山峰"
+    } ]
+  }, {
+    "tStartMs": 589466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "看起来像骆驼的驼峰。"
+    } ]
+  }, {
+    "tStartMs": 591600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这就是为什么他们"
+    } ]
+  }, {
+    "tStartMs": 592733,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "这样命名。"
+    } ]
+  }, {
+    "tStartMs": 593933,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "但不幸的是，"
+    } ]
+  }, {
+    "tStartMs": 595333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "很多人牺牲了——"
+    } ]
+  }, {
+    "tStartMs": 596366,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我想有一千五百名飞行员"
+    } ]
+  }, {
+    "tStartMs": 597899,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "丧生，"
+    } ]
+  }, {
+    "tStartMs": 598600,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "他们坠毁了超过"
+    } ]
+  }, {
+    "tStartMs": 599966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "五百架飞机。"
+    } ]
+  }, {
+    "tStartMs": 601766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "这次行动太艰难了，"
+    } ]
+  }, {
+    "tStartMs": 603700,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "损失了那么多飞机，"
+    } ]
+  }, {
+    "tStartMs": 605333,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "以至于后来飞行员"
+    } ]
+  }, {
+    "tStartMs": 607866,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "可以依靠峡谷里"
+    } ]
+  }, {
+    "tStartMs": 609600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "坠机残骸的反光来导航。"
+    } ]
+  }, {
+    "tStartMs": 612700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以有时候他们也称这个峡谷为"
+    } ]
+  }, {
+    "tStartMs": 615000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "“铝谷”。"
+    } ]
+  }, {
+    "tStartMs": 617899,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "在超过五百架失事飞机中，"
+    } ]
+  }, {
+    "tStartMs": 623466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "这架也许是"
+    } ]
+  }, {
+    "tStartMs": 624700,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "唯一一架被发现时几乎完好无损的。"
+    } ]
+  }, {
+    "tStartMs": 628666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这架是在缅甸某处找到的，"
+    } ]
+  }, {
+    "tStartMs": 631133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后被带回"
+    } ]
+  }, {
+    "tStartMs": 634466,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "中国。"
+    } ]
+  }, {
+    "tStartMs": 635133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是一架中国飞机。"
+    } ]
+  }, {
+    "tStartMs": 637933,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "从这里你可以看到——"
+    } ]
+  }, {
+    "tStartMs": 640466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我觉得这是一些残骸。"
+    } ]
+  }, {
+    "tStartMs": 644399,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "那是油箱。"
+    } ]
+  }, {
+    "tStartMs": 649333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "哇，太疯狂了。"
+    } ]
+  }, {
+    "tStartMs": 655299,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "是的，而且我觉得飞机的其余部分"
+    } ]
+  }, {
+    "tStartMs": 657033,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "他们做了重建。"
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "它的机长是一个来自德克萨斯州的美国人。"
+    } ]
+  }, {
+    "tStartMs": 661733,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "和他一起的还有两个中国人——"
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "一个是副驾驶，"
+    } ]
+  }, {
+    "tStartMs": 666100,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "另一个是报务员。"
+    } ]
+  }, {
+    "tStartMs": 669100,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "他们都牺牲了。"
+    } ]
+  }, {
+    "tStartMs": 671166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "真是令人震撼。"
+    } ]
+  }, {
+    "tStartMs": 673066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "一段引人入胜的历史。"
+    } ]
+  }, {
+    "tStartMs": 675266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "而那些是他们找到的"
+    } ]
+  }, {
+    "tStartMs": 678100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "真正的坠机残骸碎片。"
+    } ]
+  }, {
+    "tStartMs": 681133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "那次行动中的大多数飞行员，"
+    } ]
+  }, {
+    "tStartMs": 682266,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我想他们已经去世了，"
+    } ]
+  }, {
+    "tStartMs": 683799,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "但还有少数"
+    } ]
+  }, {
+    "tStartMs": 685600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "依然在世。"
+    } ]
+  }, {
+    "tStartMs": 686799,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "其中一些人"
+    } ]
+  }, {
+    "tStartMs": 688366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "呃，活得很长。"
+    } ]
+  }, {
+    "tStartMs": 690866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "在这块板上，你会看到所有"
+    } ]
+  }, {
+    "tStartMs": 692166,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "牺牲的飞行员和空勤人员。"
+    } ]
+  }, {
+    "tStartMs": 694100,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "对于那些幸存下来的人，"
+    } ]
+  }, {
+    "tStartMs": 697500,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "如果现在还活着的话，"
+    } ]
+  }, {
+    "tStartMs": 700799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "我想他们肯定已经超过一百岁了。"
+    } ]
+  }, {
+    "tStartMs": 703366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "在所有飞行员中，"
+    } ]
+  }, {
+    "tStartMs": 705866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我读到有一个叫"
+    } ]
+  }, {
+    "tStartMs": 707633,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "彼得·古蒂埃的，"
+    } ]
+  }, {
+    "tStartMs": 711033,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "他总共飞了六百八十次，"
+    } ]
+  }, {
+    "tStartMs": 713466,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "他在一百零八岁时"
+    } ]
+  }, {
+    "tStartMs": 716899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "去世了。"
+    } ]
+  }, {
+    "tStartMs": 719500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "也是在今年早些时候，"
+    } ]
+  }, {
+    "tStartMs": 722200,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我在小红书刷到一篇帖子，"
+    } ]
+  }, {
+    "tStartMs": 724066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "有一个中国女孩"
+    } ]
+  }, {
+    "tStartMs": 725833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "去拜访了一位老飞行员在美国的"
+    } ]
+  }, {
+    "tStartMs": 727933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "家，"
+    } ]
+  }, {
+    "tStartMs": 730666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "结果发现他是"
+    } ]
+  }, {
+    "tStartMs": 732500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "驼峰行动的一员。"
+    } ]
+  }, {
+    "tStartMs": 734500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我在这里截了个图。"
+    } ]
+  }, {
+    "tStartMs": 737700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "如果你在美国看这个视频，"
+    } ]
+  }, {
+    "tStartMs": 740200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "或者你认识这个人，"
+    } ]
+  }, {
+    "tStartMs": 742833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "请代我们向他问好，因为"
+    } ]
+  }, {
+    "tStartMs": 745666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "驼峰行动"
+    } ]
+  }, {
+    "tStartMs": 748633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "在当时"
+    } ]
+  }, {
+    "tStartMs": 750566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "极其重要。"
+    } ]
+  }, {
+    "tStartMs": 753000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "它是中国在对日战争中"
+    } ]
+  }, {
+    "tStartMs": 754233,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "赖以生存的生命线。"
+    } ]
+  }, {
+    "tStartMs": 756299,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "我们现在在边境了，"
+    } ]
+  }, {
+    "tStartMs": 759466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "但不幸的是，"
+    } ]
+  }, {
+    "tStartMs": 760666,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我们过不去。"
+    } ]
+  }, {
+    "tStartMs": 761799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "以前去缅甸很方便，"
+    } ]
+  }, {
+    "tStartMs": 763266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "但自从内战爆发后，"
+    } ]
+  }, {
+    "tStartMs": 765500,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "呃，中国关闭了所有"
+    } ]
+  }, {
+    "tStartMs": 767799,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "对游客开放的口岸。"
+    } ]
+  }, {
+    "tStartMs": 771333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "在云南和缅甸边境"
+    } ]
+  }, {
+    "tStartMs": 772566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "有不少口岸。"
+    } ]
+  }, {
+    "tStartMs": 774566,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "以前真的很方便，"
+    } ]
+  }, {
+    "tStartMs": 777100,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "但现在只有商人才能过去。"
+    } ]
+  }, {
+    "tStartMs": 778766,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "但你看，这就是国门，"
+    } ]
+  }, {
+    "tStartMs": 782600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "而那座山——"
+    } ]
+  }, {
+    "tStartMs": 784600,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "那已经是缅甸了。"
+    } ]
+  }, {
+    "tStartMs": 785966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "缅甸就在那些山的那边。"
+    } ]
+  }, {
+    "tStartMs": 789700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "近到可以看见，"
+    } ]
+  }, {
+    "tStartMs": 792366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "但今天却无法到达。"
+    } ]
+  }, {
+    "tStartMs": 793566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "但在茂密的丛林之下，"
+    } ]
+  }, {
+    "tStartMs": 795966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "无数飞机的残骸"
+    } ]
+  }, {
+    "tStartMs": 797766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "依然隐藏在那里，"
+    } ]
+  }, {
+    "tStartMs": 799933,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "静静地诉说着那段历史。"
+    } ]
+  }, {
+    "tStartMs": 801500,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "今晚我们到达泸水后，"
+    } ]
+  }, {
+    "tStartMs": 815100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "点了一道名菜，"
+    } ]
+  }, {
+    "tStartMs": 817000,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "叫“跃进桥火烧鸡”。"
+    } ]
+  }, {
+    "tStartMs": 819033,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "其实就是"
+    } ]
+  }, {
+    "tStartMs": 820833,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "一整只"
+    } ]
+  }, {
+    "tStartMs": 821566,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "烤鸡。"
+    } ]
+  }, {
+    "tStartMs": 824799,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "一整只。"
+    } ]
+  }, {
+    "tStartMs": 826233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "有意思的是，"
+    } ]
+  }, {
+    "tStartMs": 828100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "在云南，它总是"
+    } ]
+  }, {
+    "tStartMs": 830066,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "配着这个“蘸水”一起上，"
+    } ]
+  }, {
+    "tStartMs": 831799,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "就是磨碎的辣椒"
+    } ]
+  }, {
+    "tStartMs": 834666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "和花椒。我们还点了"
+    } ]
+  }, {
+    "tStartMs": 837366,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "一些青菜——空心菜——和米饭。"
+    } ]
+  }, {
+    "tStartMs": 840700,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "希望你今天能够努力把它给吃完，"
+    } ]
+  }, {
+    "tStartMs": 844066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "因为今天有点多。"
+    } ]
+  }, {
+    "tStartMs": 845066,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我会的。"
+    } ]
+  }, {
+    "tStartMs": 846466,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "今天骑了很多路，"
+    } ]
+  }, {
+    "tStartMs": 848399,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "所以很累。"
+    } ]
+  }, {
+    "tStartMs": 849266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我们很久没吃东西了。"
+    } ]
+  }, {
+    "tStartMs": 851500,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "明天我们要去"
+    } ]
+  }, {
+    "tStartMs": 853399,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "火山和温泉之——"
+    } ]
+  }, {
+    "tStartMs": 855899,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "温泉——"
+    } ]
+  }, {
+    "tStartMs": 856833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "温泉——"
+    } ]
+  }, {
+    "tStartMs": 857666,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "在腾冲。所以，"
+    } ]
+  }, {
+    "tStartMs": 858799,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "呃，感谢观看。"
+    } ]
+  }, {
+    "tStartMs": 860566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我们下期再见，拜拜。"
+    } ]
+  }, {
+    "tStartMs": 862600,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  } ]
+}

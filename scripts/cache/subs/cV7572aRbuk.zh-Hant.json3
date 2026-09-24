@@ -1,0 +1,2917 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 966,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "哈嘍"
+    } ]
+  }, {
+    "tStartMs": 1433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "大家好"
+    } ]
+  }, {
+    "tStartMs": 2300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "我是貓咪"
+    } ]
+  }, {
+    "tStartMs": 4066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "歡迎來到Chat-Chat with Monika"
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "這是一檔為中文學習者和"
+    } ]
+  }, {
+    "tStartMs": 9233,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "中文愛好者提供的中文播客"
+    } ]
+  }, {
+    "tStartMs": 12500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "在這裡"
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "你會聽到學到"
+    } ]
+  }, {
+    "tStartMs": 15366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "各種與中文以及中國相關的話題"
+    } ]
+  }, {
+    "tStartMs": 19066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "如果你對此感興趣"
+    } ]
+  }, {
+    "tStartMs": 20700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "那就千萬不要錯過"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "最近呢"
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在"
+    } ]
+  }, {
+    "tStartMs": 27900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "中國"
+    } ]
+  }, {
+    "tStartMs": 30900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "的網絡上面"
+    } ]
+  }, {
+    "tStartMs": 32166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "有一個新的梗出現"
+    } ]
+  }, {
+    "tStartMs": 35700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "它就是 “愛你老"
+    } ]
+  }, {
+    "tStartMs": 37800,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "己"
+    } ]
+  }, {
+    "tStartMs": 38433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "，明天見！” 愛"
+    } ]
+  }, {
+    "tStartMs": 39566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "你大家應該都知道你我愛你我愛"
+    } ]
+  }, {
+    "tStartMs": 42200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "自己"
+    } ]
+  }, {
+    "tStartMs": 43633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 44233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "一個"
+    } ]
+  }, {
+    "tStartMs": 46666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "名字"
+    } ]
+  }, {
+    "tStartMs": 47900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "是"
+    } ]
+  }, {
+    "tStartMs": 51466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "老"
+    } ]
+  }, {
+    "tStartMs": 54166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "己"
+    } ]
+  }, {
+    "tStartMs": 56466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "？個字呢聽起來很鄉土味"
+    } ]
+  }, {
+    "tStartMs": 59666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 60200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "有一點點土味"
+    } ]
+  }, {
+    "tStartMs": 61866,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 62533,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "同時呢"
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "又夾雜著一點點親暱的味道"
+    } ]
+  }, {
+    "tStartMs": 67433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "比如說"
+    } ]
+  }, {
+    "tStartMs": 68600,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "我們會喊自己的爸爸媽媽為“老爸”“老媽”"
+    } ]
+  }, {
+    "tStartMs": 73300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 74233,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "老己呢"
+    } ]
+  }, {
+    "tStartMs": 75400,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "就是親暱地稱呼自己“老己”"
+    } ]
+  }, {
+    "tStartMs": 80466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "老的自己「老幾」"
+    } ]
+  }, {
+    "tStartMs": 83033,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "愛你老幾明天見這個梗突然走紅"
+    } ]
+  }, {
+    "tStartMs": 87966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "主要是為了體現愛自己"
+    } ]
+  }, {
+    "tStartMs": 91466,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "在每個猶豫擰巴的瞬間"
+    } ]
+  }, {
+    "tStartMs": 95033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "堅定的選擇站在自己的這邊"
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "中文網絡上面呢"
+    } ]
+  }, {
+    "tStartMs": 99566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "如何來用這個梗"
+    } ]
+  }, {
+    "tStartMs": 101166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "現在呢"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "想要和大家分享幾個"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "中文網絡上面的「愛己日常」"
+    } ]
+  }, {
+    "tStartMs": 107333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "也就是愛自己的瞬間"
+    } ]
+  }, {
+    "tStartMs": 110166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "比如說"
+    } ]
+  }, {
+    "tStartMs": 111266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "我今天中午特別想吃火鍋"
+    } ]
+  }, {
+    "tStartMs": 115133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我就問了我自己"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "「你要不要去吃火鍋呢？」"
+    } ]
+  }, {
+    "tStartMs": 119366,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "然後我就帶著自己去吃火鍋了"
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "是把自己放在一個客體的位置"
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "分離出來了一個新的人格"
+    } ]
+  }, {
+    "tStartMs": 129633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "來好好的對待自己"
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "這就是“愛你老幾”的意思"
+    } ]
+  }, {
+    "tStartMs": 135566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我們也可以說"
+    } ]
+  }, {
+    "tStartMs": 136733,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "\"今天是不是想要去買一塊盒馬新出的蛋糕呢?\""
+    } ]
+  }, {
+    "tStartMs": 142300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "然後分離出來的這個人格"
+    } ]
+  }, {
+    "tStartMs": 144533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就會對自己說"
+    } ]
+  }, {
+    "tStartMs": 146066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "“想吃什麼、想喝什麼，"
+    } ]
+  }, {
+    "tStartMs": 148100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "今天"
+    } ]
+  }, {
+    "tStartMs": 150900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 153933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "都"
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "幫你買"
+    } ]
+  }, {
+    "tStartMs": 160233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "回來"
+    } ]
+  }, {
+    "tStartMs": 163533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "！"
+    } ]
+  }, {
+    "tStartMs": 165033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 173033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 175266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 178133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 181766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 182466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 184666,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 187933,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "​兒童套餐"
+    } ]
+  }, {
+    "tStartMs": 192233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "給自己買一些玩具"
+    } ]
+  }, {
+    "tStartMs": 194900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "近些年呢"
+    } ]
+  }, {
+    "tStartMs": 195700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "這些快餐連鎖也在"
+    } ]
+  }, {
+    "tStartMs": 198266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "六一兒童節的時候相繼推出了"
+    } ]
+  }, {
+    "tStartMs": 201766,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "一些比較適合成人的兒童套餐"
+    } ]
+  }, {
+    "tStartMs": 206366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "這些兒童套餐裡面吃的食物呢"
+    } ]
+  }, {
+    "tStartMs": 209200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "和以前沒有太大的區別"
+    } ]
+  }, {
+    "tStartMs": 211800,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "但是他們做出了很多很多的周邊"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "這些玩具呢"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "而且應運而生的還有"
+    } ]
+  }, {
+    "tStartMs": 220233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就是"
+    } ]
+  }, {
+    "tStartMs": 221833,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "兒童節"
+    } ]
+  }, {
+    "tStartMs": 224800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "情侶"
+    } ]
+  }, {
+    "tStartMs": 226433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "們"
+    } ]
+  }, {
+    "tStartMs": 227833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "也會"
+    } ]
+  }, {
+    "tStartMs": 232300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "在"
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "兒童節這一天 多"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "一個兒童節也不是很多"
+    } ]
+  }, {
+    "tStartMs": 240033,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "對嗎"
+    } ]
+  }, {
+    "tStartMs": 240833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "對於我自己來講的話"
+    } ]
+  }, {
+    "tStartMs": 242800,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我給自己的儀式感"
+    } ]
+  }, {
+    "tStartMs": 244633,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "早些年自己還是一個消費主義的時候"
+    } ]
+  }, {
+    "tStartMs": 248133,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我會在自己每年的生日這一天"
+    } ]
+  }, {
+    "tStartMs": 252266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "給自己一點點儀式感"
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "然後 去拍"
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一"
+    } ]
+  }, {
+    "tStartMs": 260700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "組照片"
+    } ]
+  }, {
+    "tStartMs": 262333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "在"
+    } ]
+  }, {
+    "tStartMs": 263200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "中國寫真這個行業呢"
+    } ]
+  }, {
+    "tStartMs": 266766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "還是一直存在的"
+    } ]
+  }, {
+    "tStartMs": 268500,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "市場"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "裡面"
+    } ]
+  }, {
+    "tStartMs": 274700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "寫真"
+    } ]
+  }, {
+    "tStartMs": 278700,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "賣 呢"
+    } ]
+  }, {
+    "tStartMs": 280766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "推出了更多更多的服務"
+    } ]
+  }, {
+    "tStartMs": 283466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "他們會有各種不一樣的主題"
+    } ]
+  }, {
+    "tStartMs": 286566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "那在生日這一天"
+    } ]
+  }, {
+    "tStartMs": 288166,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "去參加一個主題的拍攝活動"
+    } ]
+  }, {
+    "tStartMs": 291633,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "那也是一件很有紀念意義的事情"
+    } ]
+  }, {
+    "tStartMs": 295033,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "這個在早年期間我很喜歡做"
+    } ]
+  }, {
+    "tStartMs": 298700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "去了日本之後呢"
+    } ]
+  }, {
+    "tStartMs": 300533,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "因為 自己每天都在拍照"
+    } ]
+  }, {
+    "tStartMs": 303300,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "手機的功能越出越好"
+    } ]
+  }, {
+    "tStartMs": 306033,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "各種美顏的APP出現了"
+    } ]
+  }, {
+    "tStartMs": 309200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "大家也已經開始習慣了"
+    } ]
+  }, {
+    "tStartMs": 311633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "每天拍攝好看的"
+    } ]
+  }, {
+    "tStartMs": 314466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "照片"
+    } ]
+  }, {
+    "tStartMs": 317133,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "用美顏相機給"
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "自己"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "時候我已經不去寫真店拍寫真了"
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "後來呢"
+    } ]
+  }, {
+    "tStartMs": 330033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我生日的時候"
+    } ]
+  }, {
+    "tStartMs": 331800,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "我會給自己買一份甜點"
+    } ]
+  }, {
+    "tStartMs": 335233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "這份甜點呢"
+    } ]
+  }, {
+    "tStartMs": 336566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "平時吃好像有一點點太甜"
+    } ]
+  }, {
+    "tStartMs": 339766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但是一年只有在生日的這天"
+    } ]
+  }, {
+    "tStartMs": 342766,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "嚐一嘗這個也不算特別好吃"
+    } ]
+  }, {
+    "tStartMs": 346466,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "但是做的特別精緻的甜品的時候"
+    } ]
+  }, {
+    "tStartMs": 350266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我還是會覺得有紀念意義的"
+    } ]
+  }, {
+    "tStartMs": 353566,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "我記得"
+    } ]
+  }, {
+    "tStartMs": 354500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我在日本的期間"
+    } ]
+  }, {
+    "tStartMs": 356100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "我會"
+    } ]
+  }, {
+    "tStartMs": 360400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "經常"
+    } ]
+  }, {
+    "tStartMs": 362033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "去"
+    } ]
+  }, {
+    "tStartMs": 363666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "一家"
+    } ]
+  }, {
+    "tStartMs": 367333,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "法國 的"
+    } ]
+  }, {
+    "tStartMs": 370600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "甜點"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "是這麼讀嗎？"
+    } ]
+  }, {
+    "tStartMs": 372866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "法語是這麼說的嗎"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "laduree在日本特別火"
+    } ]
+  }, {
+    "tStartMs": 378500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "早些年它更火的時候呢"
+    } ]
+  }, {
+    "tStartMs": 381200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "它還有推出美妝"
+    } ]
+  }, {
+    "tStartMs": 383566,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "中國女生去日本爆買的產品裡面"
+    } ]
+  }, {
+    "tStartMs": 386800,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "絕對有一個laduree的花瓣腮紅"
+    } ]
+  }, {
+    "tStartMs": 390766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我自己在日本居住的期間"
+    } ]
+  }, {
+    "tStartMs": 393133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "每年生日的時候"
+    } ]
+  }, {
+    "tStartMs": 394900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "會去Laduree買一盒馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 398766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然後你說好吃嗎"
+    } ]
+  }, {
+    "tStartMs": 400600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "也就一般"
+    } ]
+  }, {
+    "tStartMs": 401666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "但是我會覺得"
+    } ]
+  }, {
+    "tStartMs": 402766,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "這是給自己的一個儀式感"
+    } ]
+  }, {
+    "tStartMs": 407900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "然後和朋友們一起分享一盒裡面"
+    } ]
+  }, {
+    "tStartMs": 411433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "不同口味的馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 413966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我還記得我去德國的第一年"
+    } ]
+  }, {
+    "tStartMs": 416866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我特意調開了航班"
+    } ]
+  }, {
+    "tStartMs": 419766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "然後想要保持自己之前"
+    } ]
+  }, {
+    "tStartMs": 423066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "已經有的這個生日儀式"
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我特意飛去了巴黎去度過了一個生日"
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "然後在生日這一天"
+    } ]
+  }, {
+    "tStartMs": 430566,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "去了位於法國巴黎的laduree店裡面"
+    } ]
+  }, {
+    "tStartMs": 434633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "買了一盒馬卡龍我身邊呢現在有馬卡龍的周邊產品去了位於法國巴黎的laduree店裡面買了一盒馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我身邊呢"
+    } ]
+  }, {
+    "tStartMs": 437966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "因為馬卡龍的周邊產品 因為"
+    } ]
+  }, {
+    "tStartMs": 441666,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "馬卡龍的周邊產品 卡龍的這個設計很可愛"
+    } ]
+  }, {
+    "tStartMs": 444966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "在日本呢"
+    } ]
+  }, {
+    "tStartMs": 446133,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "它有被做成各種各樣的商品"
+    } ]
+  }, {
+    "tStartMs": 449566,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "又和其他品牌聯名出了很多周邊"
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我現在呢"
+    } ]
+  }, {
+    "tStartMs": 455366,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "還保留著之前買的一個laduree的周邊產品"
+    } ]
+  }, {
+    "tStartMs": 459300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "想要和大家分享一下"
+    } ]
+  }, {
+    "tStartMs": 462300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "這就是一盒馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 465033,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "其實呢"
+    } ]
+  }, {
+    "tStartMs": 465733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "吃的甜品的馬卡龍和"
+    } ]
+  }, {
+    "tStartMs": 467700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "這個包裝是一模一樣的"
+    } ]
+  }, {
+    "tStartMs": 470200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "只是比這個"
+    } ]
+  }, {
+    "tStartMs": 473333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "盒子"
+    } ]
+  }, {
+    "tStartMs": 474566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "更大一點 可以"
+    } ]
+  }, {
+    "tStartMs": 476333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "看哦來給大家看一下"
+    } ]
+  }, {
+    "tStartMs": 481100,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "這個裡面呢"
+    } ]
+  }, {
+    "tStartMs": 482366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "有三個不同顏色的馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我拿出來一個給大家看一下"
+    } ]
+  }, {
+    "tStartMs": 491733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "這個做的呢"
+    } ]
+  }, {
+    "tStartMs": 492833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "完全就是一個吃的馬卡龍的形狀"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我今天呢會留下一個懸念"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我今天呢會留下一個問題給大家看一下"
+    } ]
+  }, {
+    "tStartMs": 505433,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "這個做的 呢"
+    } ]
+  }, {
+    "tStartMs": 507266,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "完全就是一個吃的馬卡龍的形狀我今天呢會留下一個懸念我今天呢會留下一個問題給大家可以猜一猜這盒做成馬卡龍形狀的物品是什麼"
+    } ]
+  }, {
+    "tStartMs": 513933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "這有"
+    } ]
+  }, {
+    "tStartMs": 515666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "三個"
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 523866,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "你們可以在我的評論區留言告訴我"
+    } ]
+  }, {
+    "tStartMs": 527400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "猜這個是什麼嗎"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈"
+    } ]
+  }, {
+    "tStartMs": 531066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "這個是我之前買的一個產品"
+    } ]
+  }, {
+    "tStartMs": 534466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "但是我覺得它實在太可愛了"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我一直沒有拆開用"
+    } ]
+  }, {
+    "tStartMs": 538833,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 539466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "吃馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "在我之前一直是"
+    } ]
+  }, {
+    "tStartMs": 542700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我生日的一個固定節目"
+    } ]
+  }, {
+    "tStartMs": 545600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "但是這個固定的節目"
+    } ]
+  }, {
+    "tStartMs": 547700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "這個儀式感什麼時候被我打破了呢"
+    } ]
+  }, {
+    "tStartMs": 552266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "其實也是在那一次去"
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "法國巴黎玩的旅程裡面"
+    } ]
+  }, {
+    "tStartMs": 559100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "因為第一次去巴黎的時候"
+    } ]
+  }, {
+    "tStartMs": 560900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我第一天去吃了馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 563433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "第二天"
+    } ]
+  }, {
+    "tStartMs": 564400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "也就是在生日的第二天"
+    } ]
+  }, {
+    "tStartMs": 567666,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "我去了一趟巴黎迪士尼玩"
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "當時我去迪士尼是和一個"
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "墨西哥的好朋友一起去玩的"
+    } ]
+  }, {
+    "tStartMs": 576600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "迪士尼對於"
+    } ]
+  }, {
+    "tStartMs": 577733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "中國和日本的朋友來講都不算很陌生"
+    } ]
+  }, {
+    "tStartMs": 581700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "因為我住在蘇州"
+    } ]
+  }, {
+    "tStartMs": 583300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我們蘇州呢"
+    } ]
+  }, {
+    "tStartMs": 584600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "有一條地鐵線是和"
+    } ]
+  }, {
+    "tStartMs": 587466,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "上海迪士尼直接連接起來的"
+    } ]
+  }, {
+    "tStartMs": 590866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "這個在未來的一期播客裡面呢"
+    } ]
+  }, {
+    "tStartMs": 593100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我會講一講這條地鐵線"
+    } ]
+  }, {
+    "tStartMs": 595866,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "因為我的許多青春的故事"
+    } ]
+  }, {
+    "tStartMs": 598300,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "都和這條地鐵線是連接著的"
+    } ]
+  }, {
+    "tStartMs": 601866,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我不知道為什麼"
+    } ]
+  }, {
+    "tStartMs": 603100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就是自從那次在"
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "巴黎迪士尼度過了一個生日之後"
+    } ]
+  }, {
+    "tStartMs": 609566,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "然後我就決定每年的生日"
+    } ]
+  }, {
+    "tStartMs": 612400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "都會去一趟迪士尼"
+    } ]
+  }, {
+    "tStartMs": 614866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "說起來迪士尼"
+    } ]
+  }, {
+    "tStartMs": 616633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "其實我在日本居住的時候呢"
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "我有買迪士尼的年卡"
+    } ]
+  }, {
+    "tStartMs": 621733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "東京呢"
+    } ]
+  }, {
+    "tStartMs": 622566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "是有兩個迪士尼的園區的"
+    } ]
+  }, {
+    "tStartMs": 625900,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我當時還買了一個"
+    } ]
+  }, {
+    "tStartMs": 627766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "兩個園區都可以使用的年卡"
+    } ]
+  }, {
+    "tStartMs": 630766,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "我特別記得在東京居住的第二年"
+    } ]
+  }, {
+    "tStartMs": 633700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我已經適應了東京的生活"
+    } ]
+  }, {
+    "tStartMs": 636733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "每天去語言學校上課"
+    } ]
+  }, {
+    "tStartMs": 638900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "每天去塾上課"
+    } ]
+  }, {
+    "tStartMs": 640700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "每天繼續運營我自己的店鋪"
+    } ]
+  }, {
+    "tStartMs": 643666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "然後這個時候呢"
+    } ]
+  }, {
+    "tStartMs": 644833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "在繁忙之餘"
+    } ]
+  }, {
+    "tStartMs": 646500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我希望給自己"
+    } ]
+  }, {
+    "tStartMs": 648066,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "每天有一點點的小的一個儀式感"
+    } ]
+  }, {
+    "tStartMs": 652600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "所以在和朋友們去了幾次迪士尼之後"
+    } ]
+  }, {
+    "tStartMs": 655800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我決定買一張年卡"
+    } ]
+  }, {
+    "tStartMs": 658300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我用年卡"
+    } ]
+  }, {
+    "tStartMs": 659433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我不會白天去"
+    } ]
+  }, {
+    "tStartMs": 660833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "因為白天很多人"
+    } ]
+  }, {
+    "tStartMs": 663033,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "迪士尼真的超級多的人"
+    } ]
+  }, {
+    "tStartMs": 665100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "玩什麼項目都要排隊"
+    } ]
+  }, {
+    "tStartMs": 667566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我常常會在忙碌了一天之後"
+    } ]
+  }, {
+    "tStartMs": 670633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "晚上5點鐘、6點鐘"
+    } ]
+  }, {
+    "tStartMs": 673333,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "當大家都在趕著回家吃晚飯的時候"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "跟家人團聚的時候"
+    } ]
+  }, {
+    "tStartMs": 679900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我這個時候會一個人向著迪士尼出發"
+    } ]
+  }, {
+    "tStartMs": 683366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "從我居住的suginami-ku"
+    } ]
+  }, {
+    "tStartMs": 686300,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "迪士尼所在的mai hama-eki"
+    } ]
+  }, {
+    "tStartMs": 689400,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "我會晚上在迪士尼看一場煙火"
+    } ]
+  }, {
+    "tStartMs": 694733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然後早點回家"
+    } ]
+  }, {
+    "tStartMs": 696100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "自從我買了迪士尼年卡之後"
+    } ]
+  }, {
+    "tStartMs": 698500,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我就不會再拘束於我什麼時候去"
+    } ]
+  }, {
+    "tStartMs": 701733,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "所以我經常晚上會去迪士尼"
+    } ]
+  }, {
+    "tStartMs": 704666,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "尤其是在夏天的時候"
+    } ]
+  }, {
+    "tStartMs": 707133,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "看完煙火之後一個人坐電車回家"
+    } ]
+  }, {
+    "tStartMs": 710366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "啊！完成了一天"
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "我是一個e人"
+    } ]
+  }, {
+    "tStartMs": 713066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我一直都是一個e人"
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "e人呢"
+    } ]
+  }, {
+    "tStartMs": 715666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "就是需要從人群裡面去汲取能量"
+    } ]
+  }, {
+    "tStartMs": 719900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但是我是一個喜歡獨處的e人"
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 723833,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我會特別喜歡在人群裡面獨處"
+    } ]
+  }, {
+    "tStartMs": 727700,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "尤其是迪士尼這種充滿了歡樂的地方"
+    } ]
+  }, {
+    "tStartMs": 732333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我特別記得那個時候"
+    } ]
+  }, {
+    "tStartMs": 733533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我經常會在迪士尼的"
+    } ]
+  }, {
+    "tStartMs": 735500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "角落裡面找一個位置"
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "然後坐在那個長椅上面"
+    } ]
+  }, {
+    "tStartMs": 740533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "一個人吃著那個冰淇淋"
+    } ]
+  }, {
+    "tStartMs": 742900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "然後看著的日本"
+    } ]
+  }, {
+    "tStartMs": 745733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "高中生遊人"
+    } ]
+  }, {
+    "tStartMs": 747200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "然後嘰嘰喳喳、"
+    } ]
+  }, {
+    "tStartMs": 748433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "興奮地說著一些"
+    } ]
+  }, {
+    "tStartMs": 749933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "ah～kirei（美麗的）～kirei之類的這種話"
+    } ]
+  }, {
+    "tStartMs": 752900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "然後我的心裡面就會特別開心"
+    } ]
+  }, {
+    "tStartMs": 755433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "這是我汲取能量的一個來源"
+    } ]
+  }, {
+    "tStartMs": 757933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "等到我去了歐洲之後呢"
+    } ]
+  }, {
+    "tStartMs": 760466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "巴黎"
+    } ]
+  }, {
+    "tStartMs": 762133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "對我來講的話"
+    } ]
+  }, {
+    "tStartMs": 763900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "還是有點太遠"
+    } ]
+  }, {
+    "tStartMs": 767433,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "我"
+    } ]
+  }, {
+    "tStartMs": 772666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "就只能在每年過生日的時候"
+    } ]
+  }, {
+    "tStartMs": 774800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "去"
+    } ]
+  }, {
+    "tStartMs": 776666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "巴黎的交通比較方便"
+    } ]
+  }, {
+    "tStartMs": 779500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "這個時候呢"
+    } ]
+  }, {
+    "tStartMs": 780633,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我每年的生日也會去迪士尼遊玩"
+    } ]
+  }, {
+    "tStartMs": 784066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "去年"
+    } ]
+  }, {
+    "tStartMs": 785033,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我帶著我媽媽第一次去了迪士尼"
+    } ]
+  }, {
+    "tStartMs": 788800,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "然後跟我媽瘋狂地坐所有的項目"
+    } ]
+  }, {
+    "tStartMs": 792633,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我是很喜歡"
+    } ]
+  }, {
+    "tStartMs": 793966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "對我去迪士尼我最開心的就是我會排隊"
+    } ]
+  }, {
+    "tStartMs": 797700,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "去一遍一遍地玩那些很刺激的項目"
+    } ]
+  }, {
+    "tStartMs": 801700,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "因為我很享受那種"
+    } ]
+  }, {
+    "tStartMs": 803333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "腎上腺素經常飆升的感覺"
+    } ]
+  }, {
+    "tStartMs": 806633,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "然後"
+    } ]
+  }, {
+    "tStartMs": 807300,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "其實"
+    } ]
+  }, {
+    "tStartMs": 808133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "呢"
+    } ]
+  }, {
+    "tStartMs": 811233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "一個人去那些很"
+    } ]
+  }, {
+    "tStartMs": 813333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "刺激通道"
+    } ]
+  }, {
+    "tStartMs": 816733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "可能有一些家庭或"
+    } ]
+  }, {
+    "tStartMs": 819600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "group一起去玩的時候呢"
+    } ]
+  }, {
+    "tStartMs": 821300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "是單位數的人"
+    } ]
+  }, {
+    "tStartMs": 822700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "是三個人或五個人"
+    } ]
+  }, {
+    "tStartMs": 824733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "那一般的位置呢"
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "又是雙數的"
+    } ]
+  }, {
+    "tStartMs": 828433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "這個時候就會有一個位置被空下來了"
+    } ]
+  }, {
+    "tStartMs": 832100,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "這個時候"
+    } ]
+  }, {
+    "tStartMs": 832833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "一個人去玩的時候"
+    } ]
+  }, {
+    "tStartMs": 834400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就 可以"
+    } ]
+  }, {
+    "tStartMs": 835800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "撿漏"
+    } ]
+  }, {
+    "tStartMs": 837466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "就可以享受這種"
+    } ]
+  }, {
+    "tStartMs": 839700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "不用排兩三個小時的隊 就可以快速"
+    } ]
+  }, {
+    "tStartMs": 843933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "玩"
+    } ]
+  }, {
+    "tStartMs": 844833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "到這個"
+    } ]
+  }, {
+    "tStartMs": 845666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "項目 的"
+    } ]
+  }, {
+    "tStartMs": 847400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "一個樂趣"
+    } ]
+  }, {
+    "tStartMs": 849200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "所以 就是想要去享受一下這個刺激"
+    } ]
+  }, {
+    "tStartMs": 854633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "去年呢"
+    } ]
+  }, {
+    "tStartMs": 855233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我帶著我媽媽一起去了一趟迪士尼"
+    } ]
+  }, {
+    "tStartMs": 858733,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我爸爸媽媽呢"
+    } ]
+  }, {
+    "tStartMs": 859800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "他們是對於這種刺激的項目呢"
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "受不了"
+    } ]
+  }, {
+    "tStartMs": 863333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我們蘇州本地也有一個樂園"
+    } ]
+  }, {
+    "tStartMs": 866200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "也有一個主題樂園"
+    } ]
+  }, {
+    "tStartMs": 867633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我爸爸媽媽之前去過一趟"
+    } ]
+  }, {
+    "tStartMs": 870233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但是他們實在受不了那種刺激的項目"
+    } ]
+  }, {
+    "tStartMs": 873700,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "所以他們一直都不同意"
+    } ]
+  }, {
+    "tStartMs": 875466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "花錢去迪士尼玩"
+    } ]
+  }, {
+    "tStartMs": 877333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "但是去年我過生日的時候"
+    } ]
+  }, {
+    "tStartMs": 879400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "帶著我媽媽一起去了一趟上海迪士尼"
+    } ]
+  }, {
+    "tStartMs": 883266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "在這個整個玩的過程裡面呢"
+    } ]
+  }, {
+    "tStartMs": 886200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我和我媽經常還是撿漏"
+    } ]
+  }, {
+    "tStartMs": 888966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "因為我想要多玩"
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我想要重複的感受這種"
+    } ]
+  }, {
+    "tStartMs": 892566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "腎上腺素飆升的這種感覺"
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我就想要享受這種刺激的感覺"
+    } ]
+  }, {
+    "tStartMs": 897666,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我和我媽經常就是會單獨行動"
+    } ]
+  }, {
+    "tStartMs": 901600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "等到排隊的時候"
+    } ]
+  }, {
+    "tStartMs": 903066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "如果工作人員說"
+    } ]
+  }, {
+    "tStartMs": 904933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "“有沒有一個人的？”"
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "然後我就會舉手"
+    } ]
+  }, {
+    "tStartMs": 907633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我 說："
+    } ]
+  }, {
+    "tStartMs": 908800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "“ 我"
+    } ]
+  }, {
+    "tStartMs": 911033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "一個人"
+    } ]
+  }, {
+    "tStartMs": 912233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "媽媽也沒有人！"
+    } ]
+  }, {
+    "tStartMs": 914666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "不是坐在同一排而已"
+    } ]
+  }, {
+    "tStartMs": 917066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "但是我們可以一個很快速的玩呀"
+    } ]
+  }, {
+    "tStartMs": 919800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我特別記得"
+    } ]
+  }, {
+    "tStartMs": 920633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我們從早上10點鐘入園"
+    } ]
+  }, {
+    "tStartMs": 923166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "一直到晚上閉園才回家"
+    } ]
+  }, {
+    "tStartMs": 926666,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "這個中間可能玩了有十幾趟吧"
+    } ]
+  }, {
+    "tStartMs": 930300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我媽呢"
+    } ]
+  }, {
+    "tStartMs": 931100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "其實在中間她一直有在忍受"
+    } ]
+  }, {
+    "tStartMs": 933766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "她已經受不了了"
+    } ]
+  }, {
+    "tStartMs": 936066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "她 已經"
+    } ]
+  }, {
+    "tStartMs": 937833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "受不了的原因是因為"
+    } ]
+  }, {
+    "tStartMs": 941100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "這些項目實在是太刺激"
+    } ]
+  }, {
+    "tStartMs": 944100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "就是她"
+    } ]
+  }, {
+    "tStartMs": 945366,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "其實"
+    } ]
+  }, {
+    "tStartMs": 949133,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "腦子最後一趟專案之後"
+    } ]
+  }, {
+    "tStartMs": 953533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我媽從那個機器上面一下來"
+    } ]
+  }, {
+    "tStartMs": 956233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "就一個人跑到垃圾桶那裡"
+    } ]
+  }, {
+    "tStartMs": 959033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "終於吐了出來"
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 963866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "哎呀我也不知道"
+    } ]
+  }, {
+    "tStartMs": 964866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "這是帶我媽媽去玩還是受罪呢"
+    } ]
+  }, {
+    "tStartMs": 967433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "但是我媽媽告訴我"
+    } ]
+  }, {
+    "tStartMs": 968633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "這是她過得很開心的一天"
+    } ]
+  }, {
+    "tStartMs": 971866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "即使她已經吐了"
+    } ]
+  }, {
+    "tStartMs": 973233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "她還是覺得很開心的一天"
+    } ]
+  }, {
+    "tStartMs": 975633,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "因為之前我和我爸爸媽媽一起住"
+    } ]
+  }, {
+    "tStartMs": 978700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我家裡面有超級多的"
+    } ]
+  }, {
+    "tStartMs": 981900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "周邊"
+    } ]
+  }, {
+    "tStartMs": 985033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "偶"
+    } ]
+  }, {
+    "tStartMs": 986366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然後我媽一直對它們"
+    } ]
+  }, {
+    "tStartMs": 988733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就是很熟悉"
+    } ]
+  }, {
+    "tStartMs": 990133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "雖然沒有去過迪士尼"
+    } ]
+  }, {
+    "tStartMs": 991766,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "但是她對迪士尼的"
+    } ]
+  }, {
+    "tStartMs": 993300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "這些玩偶們都很熟悉"
+    } ]
+  }, {
+    "tStartMs": 997066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "因為她在家裡面已經見過無數次了"
+    } ]
+  }, {
+    "tStartMs": 1000166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "所以當她第一次有這個機會"
+    } ]
+  }, {
+    "tStartMs": 1002733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "進入到迪士尼園區的時候"
+    } ]
+  }, {
+    "tStartMs": 1005133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "發現那些原本在家裡面的玩偶"
+    } ]
+  }, {
+    "tStartMs": 1008000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "充斥著整個園區"
+    } ]
+  }, {
+    "tStartMs": 1010700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "她就會覺得很熟悉"
+    } ]
+  }, {
+    "tStartMs": 1013066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "她會有一種莫名的親切感"
+    } ]
+  }, {
+    "tStartMs": 1015766,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 1016300,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "我媽媽即使在快要閉園的時候吐了出來"
+    } ]
+  }, {
+    "tStartMs": 1021400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "但是她"
+    } ]
+  }, {
+    "tStartMs": 1022866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "哪怕直到今天"
+    } ]
+  }, {
+    "tStartMs": 1024200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "她也會經常跟我說"
+    } ]
+  }, {
+    "tStartMs": 1026333,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 1026700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "去迪士尼的經驗很好"
+    } ]
+  }, {
+    "tStartMs": 1028966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "去迪士尼的感受很好"
+    } ]
+  }, {
+    "tStartMs": 1031000,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 1031466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以我也在想著未來要不"
+    } ]
+  }, {
+    "tStartMs": 1033766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "要跟 我媽每年迪士尼都要去呢"
+    } ]
+  }, {
+    "tStartMs": 1036466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "要不要未來每年都去一趟迪士尼感呢"
+    } ]
+  }, {
+    "tStartMs": 1040066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯 你"
+    } ]
+  }, {
+    "tStartMs": 1041166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "大家會有這種儀式感嗎"
+    } ]
+  }, {
+    "tStartMs": 1043966,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "你們會在每年的固定節日裡面"
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "給自己提供什麼樣的儀式感呢"
+    } ]
+  }, {
+    "tStartMs": 1050566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "當然我覺得想要愛自己"
+    } ]
+  }, {
+    "tStartMs": 1053633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "接納自己"
+    } ]
+  }, {
+    "tStartMs": 1054833,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "也不一定是要給自己消費"
+    } ]
+  }, {
+    "tStartMs": 1058133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "這其實更多的是給自己提供一個機會"
+    } ]
+  }, {
+    "tStartMs": 1061700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "去傾聽我們自己內心的聲音"
+    } ]
+  }, {
+    "tStartMs": 1065266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "陪自己去做真正想做的事情"
+    } ]
+  }, {
+    "tStartMs": 1068633,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "哪怕只是平平凡凡地度過每一天"
+    } ]
+  }, {
+    "tStartMs": 1072300,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我覺得我現在做這個播客"
+    } ]
+  }, {
+    "tStartMs": 1075100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "也類似於一種「愛你老幾」的體現"
+    } ]
+  }, {
+    "tStartMs": 1079600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我自己一直是一個"
+    } ]
+  }, {
+    "tStartMs": 1081333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "喜歡和自我對話的人"
+    } ]
+  }, {
+    "tStartMs": 1083933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我以前呢"
+    } ]
+  }, {
+    "tStartMs": 1085433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "會經常會有一點點奇怪"
+    } ]
+  }, {
+    "tStartMs": 1088133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我是那種坐在馬桶上面"
+    } ]
+  }, {
+    "tStartMs": 1090600,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "然後突然會和自己對話的一個人"
+    } ]
+  }, {
+    "tStartMs": 1093733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就感覺我分離出來的"
+    } ]
+  }, {
+    "tStartMs": 1095333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一個人格會和自己對話"
+    } ]
+  }, {
+    "tStartMs": 1098166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我會想像著"
+    } ]
+  }, {
+    "tStartMs": 1099133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "有一個人坐在對面採訪我"
+    } ]
+  }, {
+    "tStartMs": 1101666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然後我回答："
+    } ]
+  }, {
+    "tStartMs": 1103233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "「我現在在做這個事情」"
+    } ]
+  }, {
+    "tStartMs": 1105000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "「我為什麼想要做這個事情」"
+    } ]
+  }, {
+    "tStartMs": 1107366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "「我這個事情已經做到了哪一步」"
+    } ]
+  }, {
+    "tStartMs": 1110266,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "我會經常坐在馬桶上面和自己對話"
+    } ]
+  }, {
+    "tStartMs": 1115100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有的時候呢"
+    } ]
+  }, {
+    "tStartMs": 1116300,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "別人在我的洗手間外面"
+    } ]
+  }, {
+    "tStartMs": 1119533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "聽到我在洗手間裡面說話"
+    } ]
+  }, {
+    "tStartMs": 1122333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "也會突然問："
+    } ]
+  }, {
+    "tStartMs": 1123733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "」你在講什麼？「"
+    } ]
+  }, {
+    "tStartMs": 1125233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "但是其實我是在和自己對話"
+    } ]
+  }, {
+    "tStartMs": 1128633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我以前會覺得這個舉動呢"
+    } ]
+  }, {
+    "tStartMs": 1131066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有一點點奇怪"
+    } ]
+  }, {
+    "tStartMs": 1132633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "但是等到後來"
+    } ]
+  }, {
+    "tStartMs": 1134333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "尤其是我"
+    } ]
+  }, {
+    "tStartMs": 1135966,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "開始真正的做了播客之後"
+    } ]
+  }, {
+    "tStartMs": 1138433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我會覺得現在的播客"
+    } ]
+  }, {
+    "tStartMs": 1140866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "它其實也是在和自我對話"
+    } ]
+  }, {
+    "tStartMs": 1144566,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "當然"
+    } ]
+  }, {
+    "tStartMs": 1145033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "有了你們的陪伴"
+    } ]
+  }, {
+    "tStartMs": 1146333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我覺得很幸運"
+    } ]
+  }, {
+    "tStartMs": 1147766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "但是更多的"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我只是把這樣的一個形式延續了下去"
+    } ]
+  }, {
+    "tStartMs": 1152733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "這也是愛自己的一種體現"
+    } ]
+  }, {
+    "tStartMs": 1155466,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "和自己自我對話"
+    } ]
+  }, {
+    "tStartMs": 1157600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "也是一場溫柔的自我接納"
+    } ]
+  }, {
+    "tStartMs": 1161200,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "所以“愛你老幾”對我來說"
+    } ]
+  }, {
+    "tStartMs": 1164066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "不是一個新的梗"
+    } ]
+  }, {
+    "tStartMs": 1165900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "它只是一種換湯不換藥的"
+    } ]
+  }, {
+    "tStartMs": 1169300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "我每天對自己說的一句話"
+    } ]
+  }, {
+    "tStartMs": 1172466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我每天對待自己"
+    } ]
+  }, {
+    "tStartMs": 1174466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "愛自己的一種方式"
+    } ]
+  }, {
+    "tStartMs": 1177200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以"
+    } ]
+  }, {
+    "tStartMs": 1178000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你們會怎麼愛自己呢？"
+    } ]
+  }, {
+    "tStartMs": 1181100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "你們會給自己準備什麼樣的儀式感呢"
+    } ]
+  }, {
+    "tStartMs": 1185966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "期待聽見大家的回答"
+    } ]
+  }, {
+    "tStartMs": 1188033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "如果大家喜歡我的視頻"
+    } ]
+  }, {
+    "tStartMs": 1190000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "歡迎大家留言點贊並且訂閱我的頻道"
+    } ]
+  }, {
+    "tStartMs": 1194233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好啦"
+    } ]
+  }, {
+    "tStartMs": 1195366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "以上就是今天的全部內容"
+    } ]
+  }, {
+    "tStartMs": 1197800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "感謝大家的觀看"
+    } ]
+  }, {
+    "tStartMs": 1199433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "感謝大家的陪伴"
+    } ]
+  }, {
+    "tStartMs": 1200966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "那我們就下期視頻再見嘍"
+    } ]
+  }, {
+    "tStartMs": 1203966,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "愛你們"
+    } ]
+  }, {
+    "tStartMs": 1204700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "朋友們"
+    } ]
+  }, {
+    "tStartMs": 1205533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "下期見"
+    } ]
+  }, {
+    "tStartMs": 1206566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜"
+    } ]
+  } ]
+}

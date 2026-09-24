@@ -1,0 +1,607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "要不要出来玩？"
+    } ]
+  }, {
+    "tStartMs": 2333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "出来玩。"
+    } ]
+  }, {
+    "tStartMs": 4900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "大家好。"
+    } ]
+  }, {
+    "tStartMs": 6300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "我现在在公园。"
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我的身上"
+    } ]
+  }, {
+    "tStartMs": 15900,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "背着一个包。"
+    } ]
+  }, {
+    "tStartMs": 22833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "包里面有什么东西呢？"
+    } ]
+  }, {
+    "tStartMs": 27100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我们待会儿揭晓。"
+    } ]
+  }, {
+    "tStartMs": 29300,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "我们现在一起逛逛公园。"
+    } ]
+  }, {
+    "tStartMs": 39000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "这是一棵大树。"
+    } ]
+  }, {
+    "tStartMs": 45100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这是它的树干。"
+    } ]
+  }, {
+    "tStartMs": 51700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是它的根须。"
+    } ]
+  }, {
+    "tStartMs": 55500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这是无人售货机。"
+    } ]
+  }, {
+    "tStartMs": 59033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "都是饮料，"
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "补水的。"
+    } ]
+  }, {
+    "tStartMs": 63500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这是一个小山坡。"
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "上面长满了草。"
+    } ]
+  }, {
+    "tStartMs": 73500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "前面有人在拍婚纱照。"
+    } ]
+  }, {
+    "tStartMs": 79700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "好几对的新人"
+    } ]
+  }, {
+    "tStartMs": 82133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "在拍婚纱照。"
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "一对。"
+    } ]
+  }, {
+    "tStartMs": 90900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "两对。"
+    } ]
+  }, {
+    "tStartMs": 93333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "三对。"
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "四对。"
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "他们在这边拍婚纱照。"
+    } ]
+  }, {
+    "tStartMs": 117633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "前面有两个女生在拍照。"
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "有一个环卫工人在扫地。"
+    } ]
+  }, {
+    "tStartMs": 135700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "她在扫落叶。"
+    } ]
+  }, {
+    "tStartMs": 143066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这是落叶。"
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "落叶。"
+    } ]
+  }, {
+    "tStartMs": 148300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "变黄了。"
+    } ]
+  }, {
+    "tStartMs": 152733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "口渴了。"
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "喝口水。"
+    } ]
+  }, {
+    "tStartMs": 162366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "拧开瓶盖。"
+    } ]
+  }, {
+    "tStartMs": 164500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这是拧开瓶盖。"
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这是瓶盖。"
+    } ]
+  }, {
+    "tStartMs": 171866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "这是瓶子。"
+    } ]
+  }, {
+    "tStartMs": 174100,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "里面装着水。"
+    } ]
+  }, {
+    "tStartMs": 177900,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "我现在要喝水。"
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "现在来看一下包里有什么东西。"
+    } ]
+  }, {
+    "tStartMs": 192966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "包里有一本书。"
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "一本书。"
+    } ]
+  }, {
+    "tStartMs": 201066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我要在这边看书。"
+    } ]
+  }, {
+    "tStartMs": 205566,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "翻开书。"
+    } ]
+  }, {
+    "tStartMs": 207666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看。"
+    } ]
+  }, {
+    "tStartMs": 210200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "我在看书。"
+    } ]
+  }, {
+    "tStartMs": 214666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "这是耳机。"
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我要听音乐。"
+    } ]
+  }, {
+    "tStartMs": 219866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是耳机。"
+    } ]
+  }, {
+    "tStartMs": 222700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "塞在耳朵里。"
+    } ]
+  }, {
+    "tStartMs": 231566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "选择音乐。"
+    } ]
+  }, {
+    "tStartMs": 235600,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "感谢生命这美好的……"
+    } ]
+  }, {
+    "tStartMs": 242266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "送你一首白居易的诗。"
+    } ]
+  }, {
+    "tStartMs": 246100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "离离原上草，"
+    } ]
+  }, {
+    "tStartMs": 249600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一岁一枯荣。"
+    } ]
+  }, {
+    "tStartMs": 252600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "野火烧不尽，"
+    } ]
+  }, {
+    "tStartMs": 254600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "春风吹又生。"
+    } ]
+  }, {
+    "tStartMs": 257500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "远芳侵古道，"
+    } ]
+  }, {
+    "tStartMs": 260300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "晴翠接荒城。"
+    } ]
+  }, {
+    "tStartMs": 263600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "又送王孙去，"
+    } ]
+  }, {
+    "tStartMs": 266666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "萋萋满别情。"
+    } ]
+  }, {
+    "tStartMs": 271700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "阳光穿过树林，"
+    } ]
+  }, {
+    "tStartMs": 275700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "照射在书本上。"
+    } ]
+  }, {
+    "tStartMs": 280700,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "太阳照在我的脸上。"
+    } ]
+  }, {
+    "tStartMs": 286700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "阳光很刺眼。"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "我睁不开眼。"
+    } ]
+  }, {
+    "tStartMs": 300066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "我走在树林当中。"
+    } ]
+  }, {
+    "tStartMs": 304266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这些都是树。"
+    } ]
+  }, {
+    "tStartMs": 310700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "现在我要回家了。"
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "把书放进书包里。"
+    } ]
+  }, {
+    "tStartMs": 319466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "放进去。"
+    } ]
+  }, {
+    "tStartMs": 323100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "拉上拉链。"
+    } ]
+  }, {
+    "tStartMs": 326766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "背在身上。"
+    } ]
+  }, {
+    "tStartMs": 330266,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "背在身上。"
+    } ]
+  }, {
+    "tStartMs": 331666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "我们可以走了。"
+    } ]
+  }, {
+    "tStartMs": 334666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "这是一块大草坪。"
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有鸟。"
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "你看。"
+    } ]
+  }, {
+    "tStartMs": 342400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "鸟在草地上。"
+    } ]
+  }, {
+    "tStartMs": 348600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "飞起来了。"
+    } ]
+  }, {
+    "tStartMs": 350433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "这一大片的水是海。"
+    } ]
+  }, {
+    "tStartMs": 358266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "对面有高楼。"
+    } ]
+  }, {
+    "tStartMs": 365900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "这是海水。"
+    } ]
+  }, {
+    "tStartMs": 368466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那是太阳。"
+    } ]
+  }, {
+    "tStartMs": 370533,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "太阳要落山了。"
+    } ]
+  }, {
+    "tStartMs": 373833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "太阳的倒影在海面上。"
+    } ]
+  }, {
+    "tStartMs": 378100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这是栏杆。"
+    } ]
+  }, {
+    "tStartMs": 381100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这是救生圈。"
+    } ]
+  }, {
+    "tStartMs": 384400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是钓鱼竿。"
+    } ]
+  }, {
+    "tStartMs": 387200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "有人在钓鱼。"
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "前面有人在钓鱼。"
+    } ]
+  }, {
+    "tStartMs": 393333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这是沙子。"
+    } ]
+  }, {
+    "tStartMs": 395866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "小朋友在玩沙子。"
+    } ]
+  }, {
+    "tStartMs": 399866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我们从出口出去。"
+    } ]
+  }, {
+    "tStartMs": 403966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我们现在出来了。"
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "从公园里面出来了。"
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "现在几点了？"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "现在是下午五点半。"
+    } ]
+  }, {
+    "tStartMs": 416033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "回家吃饭了。"
+    } ]
+  } ]
+}

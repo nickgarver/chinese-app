@@ -1,0 +1,1435 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "nǐ zhù zài nǎ lǐ\nWhere do you live"
+    } ]
+  }, {
+    "tStartMs": 2933,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "nǐ zhù zài shén me dì fāng\nWhere do you live"
+    } ]
+  }, {
+    "tStartMs": 6066,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "nǐ zhù zài chéng shì hái shì nóng cūn\nDo you live in a city or the countryside"
+    } ]
+  }, {
+    "tStartMs": 10800,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "nǐ zhù zài dài chéng shì hái shì xiǎo chéng shì\nDo you live in a big city or a small city"
+    } ]
+  }, {
+    "tStartMs": 17333,
+    "dDurationMs": 6533,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ men yào liáo de huà tí shì “ wǒ de chéng shì ”\nToday our topic is \"My City\""
+    } ]
+  }, {
+    "tStartMs": 24133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "“ wǒ zhù de dì fāng ”\n\"The Place Where I Live\""
+    } ]
+  }, {
+    "tStartMs": 28066,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "dà jiā hǎo   rú guǒ nǐ hái bú rèn shi wǒ\nHello everyone, if you don't know me yet"
+    } ]
+  }, {
+    "tStartMs": 32500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "wǒ jiào xiǎo nà\nMy name is Xiaona"
+    } ]
+  }, {
+    "tStartMs": 34466,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "huān yíng nǐ hé wǒ yì qǐ xué zhōng wén\nWelcome to learn Chinese with me"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "wǒ zhù zài nǎ lǐ ne\nWhere do I live"
+    } ]
+  }, {
+    "tStartMs": 43566,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "wǒ zhù zài tiān jīn\nI live in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "tiān jīn shì yí gè chéng shì\nTianjin is a city"
+    } ]
+  }, {
+    "tStartMs": 50566,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "hěn dà de chéng shì\nA very big city"
+    } ]
+  }, {
+    "tStartMs": 53166,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "tiān jīn zài zhōng guó de běi fāng\nTianjin is in northern China"
+    } ]
+  }, {
+    "tStartMs": 58133,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "lí běi jīng hěn jìn\nVery close to Beijing"
+    } ]
+  }, {
+    "tStartMs": 62533,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "nà tiān jīn shì hěn dà hěn dà de chéng shì ma\nSo is Tianjin a really, really big city"
+    } ]
+  }, {
+    "tStartMs": 67900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "zài zhōng guó\nIn China"
+    } ]
+  }, {
+    "tStartMs": 69266,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "wǒ men shuō zhōng guó yǒu sì gè zuì dà de chéng shì\nWe say China has four biggest cities"
+    } ]
+  }, {
+    "tStartMs": 76166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "wǒ men jiào yí xiàn chéng shì\nWe call them first-tier cities"
+    } ]
+  }, {
+    "tStartMs": 79466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "jiù shì zuì dà de chéng shì\nMeaning the biggest cities"
+    } ]
+  }, {
+    "tStartMs": 82866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "tā men de rén kǒu hěn duō\nThey have large populations"
+    } ]
+  }, {
+    "tStartMs": 86666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "yǒu hěn duō rén\nThere are many people"
+    } ]
+  }, {
+    "tStartMs": 88500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "chéng shì hěn dà\nThe cities are very big"
+    } ]
+  }, {
+    "tStartMs": 91933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "chéng shì de jīng jì hěn hǎo\nThe cities have strong economies"
+    } ]
+  }, {
+    "tStartMs": 95866,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "chéng shì lǐ yǒu hěn duō hěn duō gōng zuò\nThere are tons of jobs in the cities"
+    } ]
+  }, {
+    "tStartMs": 99766,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "zhè yàng de chéng shì wǒ men jiào yí xiàn chéng shì\nWe call such cities first-tier cities"
+    } ]
+  }, {
+    "tStartMs": 105533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "zhōng guó de yí xiàn chéng shì yǒu\nChina's first-tier cities are"
+    } ]
+  }, {
+    "tStartMs": 109400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "běi shàng guǎng shēn\nBeijing, Shanghai, Guangzhou, Shenzhen"
+    } ]
+  }, {
+    "tStartMs": 112766,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "jiù shì běi jīng 、 shàng hǎi 、 guǎng zhōu 、 shēn zhèn\nThat is Beijing, Shanghai, Guangzhou, and Shenzhen"
+    } ]
+  }, {
+    "tStartMs": 118966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "tiān jīn bú shì yí xiàn chéng shì\nTianjin is not a first-tier city"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "dàn shì tiān jīn yě shì hěn dà de chéng shì\nBut Tianjin is also a very big city"
+    } ]
+  }, {
+    "tStartMs": 128733,
+    "dDurationMs": 9033,
+    "segs": [ {
+      "utf8": "bǐ rú tiān jīn de rén kǒu yǒu 1 3 0 0 wàn zuǒ yòu\nFor example, Tianjin has a population of about 13 million"
+    } ]
+  }, {
+    "tStartMs": 138133,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "1 , 3 0 0 wàn   nà běi jīng ne\n13 million, what about Beijing?"
+    } ]
+  }, {
+    "tStartMs": 143500,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "běi jīng de rén kǒu yǒu duō shǎo\nHow many people does Beijing have?"
+    } ]
+  }, {
+    "tStartMs": 147266,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "běi jīng chà bù duō yǒu 2 0 0 0 wàn rén\nBeijing has nearly 20 million people"
+    } ]
+  }, {
+    "tStartMs": 151866,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "běi jīng de rén kǒu shì 2 0 0 0 wàn zuǒ yòu\nBeijing's population is around 20 million"
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 7066,
+    "segs": [ {
+      "utf8": "nà nǐ zhù zài nǐ xiàn zài de chéng shì duō jiǔ le\nSo how long have you lived in your current city?"
+    } ]
+  }, {
+    "tStartMs": 165900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "hěn cháng shí jiān le ma\nHas it been a long time?"
+    } ]
+  }, {
+    "tStartMs": 169300,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "wǒ ne wǒ shì cóng . . .\nMe? I'm from..."
+    } ]
+  }, {
+    "tStartMs": 175733,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "wǒ shì yǐ qián wǒ zài tiān jīn shàng dà xué\nI used to go to college in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 180966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "yǐ qián wǒ zài tiān jīn shàng xué\nI used to study in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 184166,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "rán hòu wǒ de lǎo gōng\nAnd then my husband"
+    } ]
+  }, {
+    "tStartMs": 187100,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "wǒ de lǎo gōng xiàn zài zài tiān jīn gōng zuò\nMy husband now works in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 191666,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ zài tiān jīn zhù le hěn duō nián le\nSo I've lived in Tianjin for many years"
+    } ]
+  }, {
+    "tStartMs": 198100,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "dàn shì wǒ bú shì tiān jīn rén\nBut I'm not from Tianjin"
+    } ]
+  }, {
+    "tStartMs": 203600,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "wǒ bú shì zài tiān jīn chū shēng de\nI wasn't born in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 208100,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "wǒ shì zài lìng wài yí gè dì fāng chū shēng de\nI was born somewhere else"
+    } ]
+  }, {
+    "tStartMs": 212100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ bú shì tiān jīn rén\nSo I'm not from Tianjin"
+    } ]
+  }, {
+    "tStartMs": 215666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "wǒ bú shì tiān jīn běn dì rén\nI'm not a local Tianjin person"
+    } ]
+  }, {
+    "tStartMs": 219600,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "tiān jīn shì shén me yàng de\nWhat is Tianjin like"
+    } ]
+  }, {
+    "tStartMs": 222633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "tiān jīn hǎo wán ma\nIs Tianjin fun"
+    } ]
+  }, {
+    "tStartMs": 225800,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "tiān jīn de shì zhōng xīn\nThe city center of Tianjin"
+    } ]
+  }, {
+    "tStartMs": 228533,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "zài tiān jīn de chéng shì de zhōng xīn\nIn the center of Tianjin city"
+    } ]
+  }, {
+    "tStartMs": 232966,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "yǒu yì tiáo hé\nThere's a river"
+    } ]
+  }, {
+    "tStartMs": 235133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "yǒu yì tiáo hé\nThere's a river"
+    } ]
+  }, {
+    "tStartMs": 237033,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "nà ge hé jiào hǎi hé\nThat river is called the Hai River"
+    } ]
+  }, {
+    "tStartMs": 240533,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "zài hǎi hé de shàng miàn yǒu hěn duō qiáo\nThere are many bridges over the Hai River"
+    } ]
+  }, {
+    "tStartMs": 246166,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn de qiáo hěn yǒu míng\nSo Tianjin's bridges are very famous"
+    } ]
+  }, {
+    "tStartMs": 250633,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn de jiàn zhù\nAnd Tianjin's architecture"
+    } ]
+  }, {
+    "tStartMs": 254533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "yě hěn yǒu yì sī\nIs also very interesting"
+    } ]
+  }, {
+    "tStartMs": 257166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "zài tiān jīn de shì zhōng xīn\nIn the center of Tianjin"
+    } ]
+  }, {
+    "tStartMs": 260333,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "yǒu liǎng gè dì fāng\nthere are two places"
+    } ]
+  }, {
+    "tStartMs": 263033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yí gè dì fāng jiào wǔ dà dào\none is called Five Great Avenues"
+    } ]
+  }, {
+    "tStartMs": 267433,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "lìng wài yí gè dì fāng jiào yì shì fēng qíng qū\nthe other is called the Italian Style Area"
+    } ]
+  }, {
+    "tStartMs": 273466,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "nà lǐ yǒu hěn duō yǒu yì sī de jiàn zhù\nthere are many interesting buildings there"
+    } ]
+  }, {
+    "tStartMs": 278800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "nà lǐ de jiàn zhù\nthe buildings there"
+    } ]
+  }, {
+    "tStartMs": 281666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "bú shì zhōng guó de fēng gé\nare not in Chinese style"
+    } ]
+  }, {
+    "tStartMs": 285266,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "yǒu diǎn xiàng wài guó de jiàn zhù\nthey look a bit like foreign buildings"
+    } ]
+  }, {
+    "tStartMs": 289400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhōng guó rén hěn xǐ huan\nso Chinese people really like them"
+    } ]
+  }, {
+    "tStartMs": 292933,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "nà lǐ yǒu hěn duō jiǔ bā 、 fàn diàn\nthere are many bars and restaurants there"
+    } ]
+  }, {
+    "tStartMs": 297066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "wǎn shàng de shí hòu hěn hǎo kàn\nit looks great at night"
+    } ]
+  }, {
+    "tStartMs": 301066,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu hěn duō rén wǎn shàng qù nà lǐ chī fàn\nso many people go there for dinner at night"
+    } ]
+  }, {
+    "tStartMs": 306833,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "huò zhě qù hǎi hé de biān shàng sàn bù\nor take a walk along the Hai River"
+    } ]
+  }, {
+    "tStartMs": 312033,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "yīn wèi hǎi hé hé zhè liǎng gè dì fāng hěn jìn\nbecause the Hai River is very close to these two places"
+    } ]
+  }, {
+    "tStartMs": 320466,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn yǒu shén me měi shí\nthen what food does Tianjin have"
+    } ]
+  }, {
+    "tStartMs": 324733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu shén me hǎo chī de\nwhat delicious food is there in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 329066,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "tiān jīn de xiǎo chī hěn yǒu míng\nTianjin's snacks are very famous"
+    } ]
+  }, {
+    "tStartMs": 334966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu jiān bǐng guǒ zǐ\nTianjin has jianbing guozi"
+    } ]
+  }, {
+    "tStartMs": 339333,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "jiān bǐng guǒ zǐ yì bān wǒ men zǎo shàng chī   shì zǎo fàn\njianbing guozi is usually eaten in the morning as breakfast"
+    } ]
+  }, {
+    "tStartMs": 345233,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu dòu fu nǎo\nTianjin also has tofu pudding"
+    } ]
+  }, {
+    "tStartMs": 348966,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "shì dòu fu\nIt's tofu."
+    } ]
+  }, {
+    "tStartMs": 350800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "dòu fu nǎo\nTofu pudding."
+    } ]
+  }, {
+    "tStartMs": 352866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "zǎo shàng de shí hòu\nIn the morning,"
+    } ]
+  }, {
+    "tStartMs": 354333,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "tiān jīn rén hěn xǐ huan chī dòu fu nǎo hé yóu tiáo\nTianjin locals love tofu pudding and fried dough sticks."
+    } ]
+  }, {
+    "tStartMs": 359733,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "dòu fu nǎo hé yóu tiáo hěn dā pèi\nTofu pudding and fried dough sticks go great together."
+    } ]
+  }, {
+    "tStartMs": 365166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn hái yǒu bāo zǐ\nAnd Tianjin also has baozi."
+    } ]
+  }, {
+    "tStartMs": 367966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "tiān jīn de bāo zǐ yě hěn yǒu míng\nTianjin's baozi are quite famous."
+    } ]
+  }, {
+    "tStartMs": 371833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "wǒ hěn xǐ huan tiān jīn de bāo zǐ\nI really like Tianjin's baozi."
+    } ]
+  }, {
+    "tStartMs": 376166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu má huā\nTianjin also has mahua."
+    } ]
+  }, {
+    "tStartMs": 379566,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "tiān jīn de má huā yě hěn yǒu míng\nTianjin's mahua are famous too."
+    } ]
+  }, {
+    "tStartMs": 384266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hǎo chī ma\nAre they tasty?"
+    } ]
+  }, {
+    "tStartMs": 386000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "wǒ jué de nǐ kě yǐ cháng yi cháng\nI think you should give them a try."
+    } ]
+  }, {
+    "tStartMs": 390066,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "dàn shì wǒ jué de yǒu diǎn bú tài jiàn kāng\nBut I think they're a bit unhealthy."
+    } ]
+  }, {
+    "tStartMs": 394400,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "yīn wèi yǒu hěn duō yóu\nBecause they have a lot of oil."
+    } ]
+  }, {
+    "tStartMs": 396733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "suǒ yǐ kě yǐ cháng yi cháng\nSo you can try them."
+    } ]
+  }, {
+    "tStartMs": 398633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hěn xiāng\nThey're very fragrant."
+    } ]
+  }, {
+    "tStartMs": 401200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "tiān jīn hái yǒu shén me hǎo wán de\nWhat else is fun in Tianjin?"
+    } ]
+  }, {
+    "tStartMs": 404800,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "duì   tiān jīn huà hěn yǒu yì sī\nRight, the Tianjin dialect is really interesting."
+    } ]
+  }, {
+    "tStartMs": 409566,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "tiān jīn huà jiù shì tiān jīn rén shuō de huà\nTianjin dialect is what Tianjin locals speak."
+    } ]
+  }, {
+    "tStartMs": 414833,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "tā men bù shuō pǔ tōng huà\nThey don't speak Mandarin."
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "yīn wèi zài zhōng guó\nBecause in China"
+    } ]
+  }, {
+    "tStartMs": 420333,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "hěn duō dì fāng dōu yǒu zì jǐ de fāng yán\nmany places have their own dialects"
+    } ]
+  }, {
+    "tStartMs": 426233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "zhè lǐ de rén\nThe people here"
+    } ]
+  }, {
+    "tStartMs": 427633,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "tiān jīn de rén shuō tiān jīn huà\nPeople in Tianjin speak Tianjin dialect"
+    } ]
+  }, {
+    "tStartMs": 431666,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "shì tiān jīn de fāng yán\nIt's the Tianjin dialect"
+    } ]
+  }, {
+    "tStartMs": 434533,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "tā men de fāng yán hěn yǒu yì sī\nTheir dialect is very interesting"
+    } ]
+  }, {
+    "tStartMs": 439133,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "zhè lǐ de rén huì bǎ hěn duō rén jiào \" jiě jie \"\nPeople here call many people \"jie jie\""
+    } ]
+  }, {
+    "tStartMs": 444533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "huì bǎ hěn duō nǚ shēng jiào jiě jie\nThey call many women \"jie jie\""
+    } ]
+  }, {
+    "tStartMs": 448933,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "nián qīng de nǚ shēng   tā men huì jiào jiě jie\nYoung women, they call them \"jie jie\""
+    } ]
+  }, {
+    "tStartMs": 453566,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "lǎo de   lǎo tài tài tā men yě huì jiào jiě jie\nOld ladies, they also call them \"jie jie\""
+    } ]
+  }, {
+    "tStartMs": 460166,
+    "dDurationMs": 5467,
+    "segs": [ {
+      "utf8": "bǐ rú   wǒ yì kāi shǐ lái tiān jīn de shí hòu\nFor example, when I first came to Tianjin"
+    } ]
+  }, {
+    "tStartMs": 465933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zài lù shang yǒu yí gè\nOn the street there was"
+    } ]
+  }, {
+    "tStartMs": 468966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "yǒu yí gè lǎo rén\nan elderly person"
+    } ]
+  }, {
+    "tStartMs": 471400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǒu yí gè lǎo tóu er\nan old man"
+    } ]
+  }, {
+    "tStartMs": 473966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "tā chà bù duō wǒ jué de 6 0 duō suì\nHe was, I think, over 60 years old"
+    } ]
+  }, {
+    "tStartMs": 478466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "rán hòu\nThen"
+    } ]
+  }, {
+    "tStartMs": 480166,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "tā zài lù shang jiào wǒ\nHe called out to me on the street"
+    } ]
+  }, {
+    "tStartMs": 482600,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "“ āi   jiě jie   jiě jie ”\n\"Hey, jie jie, jie jie\""
+    } ]
+  }, {
+    "tStartMs": 484633,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "dāng shí wǒ hěn chī jīng\nAt that time I was very surprised"
+    } ]
+  }, {
+    "tStartMs": 487800,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ jué de\nBecause I thought"
+    } ]
+  }, {
+    "tStartMs": 489633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "wǒ bǐ tā nián qīng\nI'm younger than him"
+    } ]
+  }, {
+    "tStartMs": 492133,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "wèi shén me jiào wǒ jiě jie\nWhy call me older sister"
+    } ]
+  }, {
+    "tStartMs": 494733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "duì ba\nRight"
+    } ]
+  }, {
+    "tStartMs": 495933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "zhè shì tiān jīn de tè sè\nThis is a Tianjin specialty"
+    } ]
+  }, {
+    "tStartMs": 499066,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "nà rú guǒ zài tiān jīn jū zhù ne\nWhat about living in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 502933,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn zěn me yàng\nHow is it living in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 506333,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn yǒu shén me yōu diǎn\nWhat are the advantages of living in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 510866,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "yǒu shén me quē diǎn\nWhat are the disadvantages"
+    } ]
+  }, {
+    "tStartMs": 514600,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ ne   wǒ bú zhù zài shì zhōng xīn\nMe, I don't live in the city center"
+    } ]
+  }, {
+    "tStartMs": 519700,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "wǒ zhù zài jiāo qū\nI live in the suburbs"
+    } ]
+  }, {
+    "tStartMs": 523100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "lí shì zhōng xīn hěn yuǎn\nFar from the city center"
+    } ]
+  }, {
+    "tStartMs": 527200,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "cóng wǒ jiā dào shì zhōng xīn\nFrom my home to the city center"
+    } ]
+  }, {
+    "tStartMs": 532233,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "wǒ yào xiān kāi chē   bàn gè xiǎo shí\nI first drive for half an hour"
+    } ]
+  }, {
+    "tStartMs": 537400,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "rán hòu zài zuò dì tiě   bàn gè xiǎo shí\nThen take the subway for half an hour"
+    } ]
+  }, {
+    "tStartMs": 542200,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "wǒ cái néng dào shì zhōng xīn\nOnly then can I reach the city center"
+    } ]
+  }, {
+    "tStartMs": 545100,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "suǒ yǐ cóng wǒ jiā dào shì zhōng xīn yào yí gè xiǎo shí\nSo from my home to the city center takes an hour"
+    } ]
+  }, {
+    "tStartMs": 552200,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "wǒ zhù zài jiāo qū\nI live in the suburbs"
+    } ]
+  }, {
+    "tStartMs": 555266,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ zhù de dì fāng hái xíng\nI think where I live is okay"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ bú zhù zài shì zhōng xīn\nBecause I don't live in the city center"
+    } ]
+  }, {
+    "tStartMs": 564500,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhè lǐ méi yǒu hěn duō rén\nSo there aren't many people here"
+    } ]
+  }, {
+    "tStartMs": 568466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "méi yǒu hěn duō zào yīn\nNot much noise"
+    } ]
+  }, {
+    "tStartMs": 571866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "bù chǎo\nNot loud"
+    } ]
+  }, {
+    "tStartMs": 573500,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "rán hòu zhè lǐ yǒu yí gè hěn dà de gōng yuán\nAnd there's a big park here"
+    } ]
+  }, {
+    "tStartMs": 579066,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yǒu yí gè hěn dà de hú\nThere's a big lake"
+    } ]
+  }, {
+    "tStartMs": 581866,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de hái kě yǐ\nSo I think it's okay"
+    } ]
+  }, {
+    "tStartMs": 584833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yǒu dà zì rán\nThere's nature"
+    } ]
+  }, {
+    "tStartMs": 587133,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ yùn dòng\nI can exercise"
+    } ]
+  }, {
+    "tStartMs": 589300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ qí chē\nI can bike"
+    } ]
+  }, {
+    "tStartMs": 591466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ pǎo bù\nI can run"
+    } ]
+  }, {
+    "tStartMs": 593633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ jué de hái kě yǐ\nSo I think it's okay"
+    } ]
+  }, {
+    "tStartMs": 597200,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "rán hòu wǒ zhù de dì fāng de páng biān\nAnd next to where I live"
+    } ]
+  }, {
+    "tStartMs": 601400,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "yǒu yí gè hěn dà de cài shì chǎng\nThere's a big food market"
+    } ]
+  }, {
+    "tStartMs": 605833,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "wǒ měi zhōu kě yǐ qù zhè ge cài shì chǎng mǎi cài 、 mǎi shuǐ guǒ\nI can go there weekly to buy veggies and fruit"
+    } ]
+  }, {
+    "tStartMs": 613133,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "nà lǐ de cài hé shuǐ guǒ hěn xīn xiān\nThe produce there is very fresh"
+    } ]
+  }, {
+    "tStartMs": 617466,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu zhè ge cài shì chǎng   wǒ jué de hěn xìng fú\nSo having this market makes me happy"
+    } ]
+  }, {
+    "tStartMs": 624300,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "rán hòu zhù zài tiān jīn\nAnd living in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 627466,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "huò zhě zhù zài tiān jīn de jiāo qū\nOr living in Tianjin's suburbs"
+    } ]
+  }, {
+    "tStartMs": 632266,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "yǒu yí gè yōu diǎn shì   zhè lǐ de fáng zi bú guì\nOne advantage is that housing here isn't expensive"
+    } ]
+  }, {
+    "tStartMs": 637633,
+    "dDurationMs": 6733,
+    "segs": [ {
+      "utf8": "zhè lǐ de fáng zi bǐ qí tā de chéng shì lǐ de fáng zi\nThe housing here compared to other cities"
+    } ]
+  }, {
+    "tStartMs": 644533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "pián yi pián yi hěn duō\nIs much, much cheaper"
+    } ]
+  }, {
+    "tStartMs": 649500,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "rán hòu zài tiān jīn\nThen in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 653333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "tiān jīn de jié zòu hěn màn\nTianjin's pace is very slow"
+    } ]
+  }, {
+    "tStartMs": 657400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "tiān jīn de rén bù zháo jí\nPeople in Tianjin aren't in a hurry"
+    } ]
+  }, {
+    "tStartMs": 660533,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "tā men ǹg màn màn dì chī\nThey eat slowly"
+    } ]
+  }, {
+    "tStartMs": 663633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "màn màn dì hē\nDrink slowly"
+    } ]
+  }, {
+    "tStartMs": 665300,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "tiān jīn de rén méi yǒu nà me zháo jí\nPeople in Tianjin aren't that rushed"
+    } ]
+  }, {
+    "tStartMs": 669900,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "tiān jīn de shēng huó jié zòu màn yì diǎn\nLife in Tianjin moves at a slower pace"
+    } ]
+  }, {
+    "tStartMs": 675100,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "suǒ yǐ zhè ge wǒ hěn xǐ huan\nSo that's something I really like"
+    } ]
+  }, {
+    "tStartMs": 679800,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "rán hòu zhù zài tiān jīn de jiāo qū yǒu shén me quē diǎn\nThen what are the downsides of living in Tianjin's suburbs"
+    } ]
+  }, {
+    "tStartMs": 685900,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "zhù zài tiān jīn yǒu shén me quē diǎn\nWhat are the downsides of living in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 690066,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "yǒu shén me bù hǎo de dì fāng\nWhat's not so good about it"
+    } ]
+  }, {
+    "tStartMs": 694333,
+    "dDurationMs": 6666,
+    "segs": [ {
+      "utf8": "dì yī wǒ jué de shì tiān jīn zhè lǐ\nFirst, I think it's here in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 701033,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "tiān jīn de páng biān\nNext to Tianjin"
+    } ]
+  }, {
+    "tStartMs": 704633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "wǒ de shǒu jī xiǎng le bù hǎo yì si\nMy phone rang, sorry"
+    } ]
+  }, {
+    "tStartMs": 711433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "bǎ shǒu jī guān diào\nTurn off the phone"
+    } ]
+  }, {
+    "tStartMs": 714666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "tiān jīn de páng biān méi yǒu shān\nThere are no mountains next to Tianjin"
+    } ]
+  }, {
+    "tStartMs": 718100,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ tè bié xǐ huan shān\nBecause I really love mountains"
+    } ]
+  }, {
+    "tStartMs": 721800,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn méi yǒu shān\nSo Tianjin has no mountains"
+    } ]
+  }, {
+    "tStartMs": 725133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "wǒ bú shì tè bié xǐ huan\nI don't really like that"
+    } ]
+  }, {
+    "tStartMs": 728233,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn yǒu hǎi ma\nThen does Tianjin have a sea?"
+    } ]
+  }, {
+    "tStartMs": 731600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "tiān jīn lí hǎi hěn jìn\nTianjin is very close to the sea"
+    } ]
+  }, {
+    "tStartMs": 734266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "tiān jīn yǒu hǎi\nTianjin has the sea"
+    } ]
+  }, {
+    "tStartMs": 735933,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "dàn hǎi biān bù piào liang\nBut the seaside isn't pretty"
+    } ]
+  }, {
+    "tStartMs": 739700,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "méi yǒu shā tān\nThere's no beach"
+    } ]
+  }, {
+    "tStartMs": 743266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "wǒ jué de\nI think"
+    } ]
+  }, {
+    "tStartMs": 745466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "bú shì hěn hǎo\nIt's not that great"
+    } ]
+  }, {
+    "tStartMs": 746633,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "tiān jīn shì yí gè mǎ tóu\nTianjin is a port"
+    } ]
+  }, {
+    "tStartMs": 749700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "yǒu hěn duō chuán lái tiān jīn\nMany ships come to Tianjin"
+    } ]
+  }, {
+    "tStartMs": 752333,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "suǒ yǐ tiān jīn de hǎi biān bú shì hěn hǎo\nSo the seaside in Tianjin isn't that nice"
+    } ]
+  }, {
+    "tStartMs": 757466,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "rán hòu tiān jīn de qì hòu zěn me yàng ne\nThen what's the climate like in Tianjin?"
+    } ]
+  }, {
+    "tStartMs": 761633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "tiān jīn de qì hòu\nThe climate in Tianjin"
+    } ]
+  }, {
+    "tStartMs": 764233,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ shì běi fāng rén\nSince I'm from the north"
+    } ]
+  }, {
+    "tStartMs": 766733,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "wǒ chū shēng zài běi fāng\nI was born in the north"
+    } ]
+  }, {
+    "tStartMs": 769233,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ hěn xí guàn zài tiān jīn\nSo I'm very used to Tianjin"
+    } ]
+  }, {
+    "tStartMs": 773833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yì nián yǒu sì gè jì jié\nThere are four seasons in a year"
+    } ]
+  }, {
+    "tStartMs": 777633,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "chūn tiān 、 xià tiān 、 qiū tiān 、 dōng tiān\nSpring, summer, autumn, winter"
+    } ]
+  }, {
+    "tStartMs": 782266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "xià tiān de shí hòu hěn rè\nIn summer it's very hot"
+    } ]
+  }, {
+    "tStartMs": 785133,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "xià tiān de shí hòu kě yǐ dào 3 5 dù huò zhě 4 0 dù\nIn summer it can reach 35 or 40 degrees"
+    } ]
+  }, {
+    "tStartMs": 790733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "hěn rè\nVery hot"
+    } ]
+  }, {
+    "tStartMs": 792266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "dōng tiān de shí hòu hěn lěng\nIn winter it's very cold"
+    } ]
+  }, {
+    "tStartMs": 794866,
+    "dDurationMs": 6367,
+    "segs": [ {
+      "utf8": "dōng tiān de shí hòu huì dào líng xià 5 dù líng xià 1 0 dù\nIn winter it drops to minus 5 or minus 10 degrees"
+    } ]
+  }, {
+    "tStartMs": 801600,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "yǒu de shí hòu dōng tiān de shí hòu huì xià xuě\nSometimes it snows in winter"
+    } ]
+  }, {
+    "tStartMs": 805666,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài xià xuě hěn shǎo\nBut now it rarely snows"
+    } ]
+  }, {
+    "tStartMs": 810633,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "kě néng měi nián xià yí cì\nMaybe once a year"
+    } ]
+  }, {
+    "tStartMs": 813700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "huò zhě zuì duō liǎng cì\nOr at most twice"
+    } ]
+  }, {
+    "tStartMs": 818200,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "zhè shì tiān jīn de yōu diǎn hé quē diǎn\nThese are Tianjin's pros and cons"
+    } ]
+  }, {
+    "tStartMs": 824066,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "nà yǐ hòu wǒ yào yì zhí zhù zài tiān jīn ma\nSo will I live in Tianjin forever?"
+    } ]
+  }, {
+    "tStartMs": 830466,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "wǒ xiǎng zhù zài shén me yàng de dì fāng\nWhat kind of place do I want to live in?"
+    } ]
+  }, {
+    "tStartMs": 834900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "wǒ jué de\nI think"
+    } ]
+  }, {
+    "tStartMs": 836700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "wǒ bù xiǎng yì zhí zhù zài tiān jīn\nI don't want to stay in Tianjin forever"
+    } ]
+  }, {
+    "tStartMs": 840266,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "yīn wèi nǐ men zhī dào wǒ bù xǐ huan chéng shì\nBecause you know I don't like cities"
+    } ]
+  }, {
+    "tStartMs": 844800,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "wǒ gèng xǐ huan dà zì rán\nI prefer nature"
+    } ]
+  }, {
+    "tStartMs": 848033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ xiǎng zhù zài\nSo I want to live"
+    } ]
+  }, {
+    "tStartMs": 852400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "kě néng yǒu shān de dì fāng\nSomewhere with mountains"
+    } ]
+  }, {
+    "tStartMs": 855000,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "huò zhě yǒu hǎi de dì fāng\nOr somewhere with the sea"
+    } ]
+  }, {
+    "tStartMs": 857700,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "wǒ xiǎng zhù zài yí gè yǒu shān huò zhě yǒu hǎi\nI want to live where there are mountains or the sea"
+    } ]
+  }, {
+    "tStartMs": 862633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "yǒu dà zì rán de dì fāng\nA place with nature"
+    } ]
+  }, {
+    "tStartMs": 865933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "kě yǐ shì chéng shì\nIt can be a city"
+    } ]
+  }, {
+    "tStartMs": 869100,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "dàn shì yào shi yí gè hěn xiǎo de chéng shì\nBut it has to be a very small city"
+    } ]
+  }, {
+    "tStartMs": 874466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "méi yǒu nà me duō rén\nNot so many people"
+    } ]
+  }, {
+    "tStartMs": 876666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "méi yǒu nà me duō chē\nNot that many cars"
+    } ]
+  }, {
+    "tStartMs": 879466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "kě yǐ\nIt's fine"
+    } ]
+  }, {
+    "tStartMs": 880266,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "huò zhě wǒ yě kě yǐ zhù zài xiāng xià\nOr I could live in the countryside"
+    } ]
+  }, {
+    "tStartMs": 884466,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "zhù zài nóng cūn\nLiving in a rural area"
+    } ]
+  }, {
+    "tStartMs": 886466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "wǒ yě hěn xǐ huan\nI really like that too"
+    } ]
+  }, {
+    "tStartMs": 888333,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "hǎo   xiàn zài nǐ zhī dào\nOkay, now you know"
+    } ]
+  }, {
+    "tStartMs": 890666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "wǒ zhù de dì fāng shì shén me yàng de le\nWhat my place looks like"
+    } ]
+  }, {
+    "tStartMs": 894666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "nà nǐ zhù de dì fāng ne\nWhat about your place"
+    } ]
+  }, {
+    "tStartMs": 897133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nǐ zhù zài nǎ lǐ\nWhere do you live"
+    } ]
+  }, {
+    "tStartMs": 899133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "nǐ zhù de dì fāng hǎo wán ma\nIs your place fun"
+    } ]
+  }, {
+    "tStartMs": 902400,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "nǐ zhù de dì fāng yǒu shén me yōu diǎn\nWhat are the pros of your place"
+    } ]
+  }, {
+    "tStartMs": 905933,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "yǒu shén me quē diǎn\nWhat are the cons"
+    } ]
+  }, {
+    "tStartMs": 908366,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "nǐ xiǎng yì zhí zhù zài zhè ge dì fāng ma\nDo you want to stay there forever"
+    } ]
+  }, {
+    "tStartMs": 913200,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "huān yíng nǐ zài píng lùn qū lǐ gào sù wǒ\nFeel free to tell me in the comments"
+    } ]
+  }, {
+    "tStartMs": 918066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "xiè xiè dà jiā guān kàn jīn tiān de shì pín\nThanks for watching today's video"
+    } ]
+  }, {
+    "tStartMs": 921333,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "wǒ men jīn tiān jiù dào zhè lǐ\nThat's all for today"
+    } ]
+  }, {
+    "tStartMs": 923600,
+    "dDurationMs": 2999,
+    "segs": [ {
+      "utf8": "xià gè shì pín zài jiàn   bài bài\nSee you in the next video, bye"
+    } ]
+  } ]
+}

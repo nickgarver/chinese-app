@@ -1,0 +1,3187 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Hello everyone,"
+    } ]
+  }, {
+    "tStartMs": 1933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I'm Monica."
+    } ]
+  }, {
+    "tStartMs": 3566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "Welcome to Chat with Monica,"
+    } ]
+  }, {
+    "tStartMs": 6333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "a"
+    } ]
+  }, {
+    "tStartMs": 8733,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Chinese podcast for learners and enthusiasts."
+    } ]
+  }, {
+    "tStartMs": 11800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "Here you can hear and"
+    } ]
+  }, {
+    "tStartMs": 13866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "learn about various topics related"
+    } ]
+  }, {
+    "tStartMs": 16300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "to Chinese and China."
+    } ]
+  }, {
+    "tStartMs": 18200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "If you're interested"
+    } ]
+  }, {
+    "tStartMs": 20066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": ", don't miss it"
+    } ]
+  }, {
+    "tStartMs": 24133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "! First of all,"
+    } ]
+  }, {
+    "tStartMs": 27766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "I want to say hello again"
+    } ]
+  }, {
+    "tStartMs": 31533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and wish everyone a Happy New Year"
+    } ]
+  }, {
+    "tStartMs": 33333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "and all the best."
+    } ]
+  }, {
+    "tStartMs": 34766,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "This seems to be my second time making Spring Festival couplets! Making couplets!"
+    } ]
+  }, {
+    "tStartMs": 39266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "We Chinese people still celebrate the New Year twice."
+    } ]
+  }, {
+    "tStartMs": 39966,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I want to share with you what I"
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "did"
+    } ]
+  }, {
+    "tStartMs": 46633,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "during my absence."
+    } ]
+  }, {
+    "tStartMs": 49466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "First,"
+    } ]
+  }, {
+    "tStartMs": 50766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "at the end of last year,"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I suddenly received a project."
+    } ]
+  }, {
+    "tStartMs": 55100,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "This project"
+    } ]
+  }, {
+    "tStartMs": 56066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "was quite urgent"
+    } ]
+  }, {
+    "tStartMs": 57933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "because it's almost the end of the year in China"
+    } ]
+  }, {
+    "tStartMs": 61366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": ", but overseas, right?"
+    } ]
+  }, {
+    "tStartMs": 63633,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "So, during this period, I worked with my colleagues"
+    } ]
+  }, {
+    "tStartMs": 68566,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "to finish this project"
+    } ]
+  }, {
+    "tStartMs": 72133,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "during the entire Spring Festival holiday."
+    } ]
+  }, {
+    "tStartMs": 74333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "The second thing"
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "is, I don't know why,"
+    } ]
+  }, {
+    "tStartMs": 77500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "suddenly during the Spring Festival..."
+    } ]
+  }, {
+    "tStartMs": 79133,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I've received so many new students,"
+    } ]
+  }, {
+    "tStartMs": 82166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "which is a bit of a shock,"
+    } ]
+  }, {
+    "tStartMs": 84066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "especially since they're all beginners."
+    } ]
+  }, {
+    "tStartMs": 86300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "To be honest, I didn't have much"
+    } ]
+  }, {
+    "tStartMs": 89266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "experience teaching beginners before."
+    } ]
+  }, {
+    "tStartMs": 91366,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "But after almost two months of"
+    } ]
+  }, {
+    "tStartMs": 97033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "practice"
+    } ]
+  }, {
+    "tStartMs": 98600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 99666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "preparation,"
+    } ]
+  }, {
+    "tStartMs": 100966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I feel like teaching beginners"
+    } ]
+  }, {
+    "tStartMs": 102833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "is now my comfort zone."
+    } ]
+  }, {
+    "tStartMs": 104866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I quite enjoy teaching beginners."
+    } ]
+  }, {
+    "tStartMs": 107400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "If any students"
+    } ]
+  }, {
+    "tStartMs": 110033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "want to start learning Chinese from scratch"
+    } ]
+  }, {
+    "tStartMs": 112200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": ", you can contact me to sign up."
+    } ]
+  }, {
+    "tStartMs": 114666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Oh, and I wanted to share something with you."
+    } ]
+  }, {
+    "tStartMs": 116633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "When I first took on"
+    } ]
+  }, {
+    "tStartMs": 118233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "my beginner student,"
+    } ]
+  }, {
+    "tStartMs": 120800,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "we discussed"
+    } ]
+  }, {
+    "tStartMs": 123133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "whether to use any textbooks."
+    } ]
+  }, {
+    "tStartMs": 125100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "But later,"
+    } ]
+  }, {
+    "tStartMs": 126133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I decided to develop my own tutorial."
+    } ]
+  }, {
+    "tStartMs": 129300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Now, all"
+    } ]
+  }, {
+    "tStartMs": 131300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "my students,"
+    } ]
+  }, {
+    "tStartMs": 132766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "maybe seven or eight of them,"
+    } ]
+  }, {
+    "tStartMs": 134533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "are using this tutorial."
+    } ]
+  }, {
+    "tStartMs": 138066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "Haha,"
+    } ]
+  }, {
+    "tStartMs": 140866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I really enjoy developing"
+    } ]
+  }, {
+    "tStartMs": 142600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "my own tutorial . I"
+    } ]
+  }, {
+    "tStartMs": 144500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "think this tutorial is"
+    } ]
+  }, {
+    "tStartMs": 146600,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "quite effective for some people, but"
+    } ]
+  }, {
+    "tStartMs": 149133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "not so effective"
+    } ]
+  }, {
+    "tStartMs": 150833,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "for others."
+    } ]
+  }, {
+    "tStartMs": 152333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 154233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "to some extent, I think this"
+    } ]
+  }, {
+    "tStartMs": 156166,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "also reflects"
+    } ]
+  }, {
+    "tStartMs": 157366,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "whether the student and teacher's personalities are compatible."
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "One-on-one tutoring"
+    } ]
+  }, {
+    "tStartMs": 161100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "also depends on compatibility"
+    } ]
+  }, {
+    "tStartMs": 162933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": ", just like dating."
+    } ]
+  }, {
+    "tStartMs": 164433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "The teacher's speaking style matters."
+    } ]
+  }, {
+    "tStartMs": 166966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Is the teaching style suitable for you?"
+    } ]
+  }, {
+    "tStartMs": 169700,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Is it"
+    } ]
+  }, {
+    "tStartMs": 170900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "a learning style that suits you?"
+    } ]
+  }, {
+    "tStartMs": 174600,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 175833,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "think that's"
+    } ]
+  }, {
+    "tStartMs": 176766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "one of the reasons why various platforms"
+    } ]
+  }, {
+    "tStartMs": 178500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "offer trial classes."
+    } ]
+  }, {
+    "tStartMs": 181466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "But I hate that some platforms"
+    } ]
+  }, {
+    "tStartMs": 182933,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "don't pay teachers for trial classes."
+    } ]
+  }, {
+    "tStartMs": 185600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The time and effort"
+    } ]
+  }, {
+    "tStartMs": 188200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "teachers put into preparing these trial classes,"
+    } ]
+  }, {
+    "tStartMs": 190866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "in the end"
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": ", they still have to endure"
+    } ]
+  }, {
+    "tStartMs": 193600,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "students not continuing to subscribe to their courses"
+    } ]
+  }, {
+    "tStartMs": 197600,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "after the trial class."
+    } ]
+  }, {
+    "tStartMs": 199466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "This has a big impact on our ranking."
+    } ]
+  }, {
+    "tStartMs": 202366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "I can't please everyone,"
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "right? Haha, right?"
+    } ]
+  }, {
+    "tStartMs": 207100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "And the choice is a two-way street."
+    } ]
+  }, {
+    "tStartMs": 209700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Even now,"
+    } ]
+  }, {
+    "tStartMs": 210700,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "I have many students who"
+    } ]
+  }, {
+    "tStartMs": 211966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "have tried the trial class and I've blocked them directly."
+    } ]
+  }, {
+    "tStartMs": 214333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I don't want to teach such students."
+    } ]
+  }, {
+    "tStartMs": 216766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "It's not that I hate the person"
+    } ]
+  }, {
+    "tStartMs": 218800,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": ", but we are all adults."
+    } ]
+  }, {
+    "tStartMs": 221266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "In the process of communication, we"
+    } ]
+  }, {
+    "tStartMs": 223100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "can probably tell if"
+    } ]
+  }, {
+    "tStartMs": 224400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "our personalities are incompatible"
+    } ]
+  }, {
+    "tStartMs": 226066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": ". And I'm not"
+    } ]
+  }, {
+    "tStartMs": 227700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "a professional teacher from a public school."
+    } ]
+  }, {
+    "tStartMs": 230733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "I have the right to choose. So,"
+    } ]
+  }, {
+    "tStartMs": 233466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "I don't know why,"
+    } ]
+  }, {
+    "tStartMs": 235633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "during the Chinese New Year,"
+    } ]
+  }, {
+    "tStartMs": 238033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "I was busy with a project at home."
+    } ]
+  }, {
+    "tStartMs": 239866,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "The project"
+    } ]
+  }, {
+    "tStartMs": 240700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "is like this."
+    } ]
+  }, {
+    "tStartMs": 242866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "It involves a lot of communication."
+    } ]
+  }, {
+    "tStartMs": 245133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "The project I took on had a meeting every two or three days"
+    } ]
+  }, {
+    "tStartMs": 247800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "during the Chinese New Year."
+    } ]
+  }, {
+    "tStartMs": 249933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "So I spent 3 hours a day"
+    } ]
+  }, {
+    "tStartMs": 251866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "working on the project content. The rest"
+    } ]
+  }, {
+    "tStartMs": 254466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "of the time,"
+    } ]
+  }, {
+    "tStartMs": 255633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I basically sit in front of the computer."
+    } ]
+  }, {
+    "tStartMs": 258266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Also,"
+    } ]
+  }, {
+    "tStartMs": 259600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "I'm a university teacher now,"
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "right? My university"
+    } ]
+  }, {
+    "tStartMs": 263833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "has already started the semester, actually it's"
+    } ]
+  }, {
+    "tStartMs": 266066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "already in the middle of the semester."
+    } ]
+  }, {
+    "tStartMs": 268266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I have to teach one class every week,"
+    } ]
+  }, {
+    "tStartMs": 270633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and the rest of the time I"
+    } ]
+  }, {
+    "tStartMs": 271933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "have to correct students' papers and assignments."
+    } ]
+  }, {
+    "tStartMs": 275100,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "So I jokingly say that every day"
+    } ]
+  }, {
+    "tStartMs": 278766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I open my eyes, I'm correcting countless assignments, haha."
+    } ]
+  }, {
+    "tStartMs": 281800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So the university work,"
+    } ]
+  }, {
+    "tStartMs": 283300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "plus a rather urgent project I took on at the end of the year"
+    } ]
+  }, {
+    "tStartMs": 287066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": ", and then I inexplicably took on"
+    } ]
+  }, {
+    "tStartMs": 290700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "seven or eight students with zero experience"
+    } ]
+  }, {
+    "tStartMs": 292933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": ", made"
+    } ]
+  }, {
+    "tStartMs": 294866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "the past two months extremely busy."
+    } ]
+  }, {
+    "tStartMs": 297200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "I was even so busy for two weeks"
+    } ]
+  }, {
+    "tStartMs": 301666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "that I had \"heatiness\" (a concept in Traditional Chinese Medicine)."
+    } ]
+  }, {
+    "tStartMs": 304666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "\"Heatiness\" is actually"
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "inflammation"
+    } ]
+  }, {
+    "tStartMs": 308100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "in the body. My manifestation"
+    } ]
+  }, {
+    "tStartMs": 312833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "was that my tongue had a problem, haha."
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I think"
+    } ]
+  }, {
+    "tStartMs": 317833,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "it's amazing that as a human being,"
+    } ]
+  }, {
+    "tStartMs": 320766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "your body changes every year."
+    } ]
+  }, {
+    "tStartMs": 322400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "In the past, when I had \"heatiness,\""
+    } ]
+  }, {
+    "tStartMs": 323800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "I might have"
+    } ]
+  }, {
+    "tStartMs": 325966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "had mouth ulcers or other physical reactions"
+    } ]
+  }, {
+    "tStartMs": 329733,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "on my tongue or inside my mouth."
+    } ]
+  }, {
+    "tStartMs": 333000,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "But this time, my \"heatiness"
+    } ]
+  }, {
+    "tStartMs": 336200,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "\" was particularly severe. There was a part under"
+    } ]
+  }, {
+    "tStartMs": 341433,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "my"
+    } ]
+  }, {
+    "tStartMs": 342366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "tongue that"
+    } ]
+  }, {
+    "tStartMs": 344200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "was swollen"
+    } ]
+  }, {
+    "tStartMs": 345733,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": ", which scared me"
+    } ]
+  }, {
+    "tStartMs": 350166,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "quite a bit, haha"
+    } ]
+  }, {
+    "tStartMs": 351200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": ". I even went to the hospital"
+    } ]
+  }, {
+    "tStartMs": 353900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "for a checkup during the Chinese New Year."
+    } ]
+  }, {
+    "tStartMs": 355400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "The doctor just said I had \"internal heat"
+    } ]
+  }, {
+    "tStartMs": 357700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": ",\" which scared me."
+    } ]
+  }, {
+    "tStartMs": 359633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Because your tongue"
+    } ]
+  }, {
+    "tStartMs": 362333,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "moves around in your mouth,"
+    } ]
+  }, {
+    "tStartMs": 364566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you can notice some abnormalities."
+    } ]
+  }, {
+    "tStartMs": 366666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "At first,"
+    } ]
+  }, {
+    "tStartMs": 367433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "there was just a small"
+    } ]
+  }, {
+    "tStartMs": 369900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": ", hard lump under my tongue. I"
+    } ]
+  }, {
+    "tStartMs": 373466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "licked it every day"
+    } ]
+  }, {
+    "tStartMs": 374700,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 375333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "to see if it got bigger, right?"
+    } ]
+  }, {
+    "tStartMs": 378066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Nobody knows"
+    } ]
+  }, {
+    "tStartMs": 378966,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": ". Then,"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "when I went to the hospital,"
+    } ]
+  }, {
+    "tStartMs": 381400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "the doctor asked if I hadn't been resting much lately"
+    } ]
+  }, {
+    "tStartMs": 383966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": ", if I had been very busy at work,"
+    } ]
+  }, {
+    "tStartMs": 385766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "haha. He also asked if I"
+    } ]
+  }, {
+    "tStartMs": 387800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "had eaten too much spicy food recently"
+    } ]
+  }, {
+    "tStartMs": 390400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": ", and that"
+    } ]
+  }, {
+    "tStartMs": 391666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "many people eat a lot"
+    } ]
+  }, {
+    "tStartMs": 393566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "during the Chinese New Year. \"Dry"
+    } ]
+  }, {
+    "tStartMs": 395500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "goods\" here refers to nuts"
+    } ]
+  }, {
+    "tStartMs": 397566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like sunflower seeds"
+    } ]
+  }, {
+    "tStartMs": 399566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "or other snacks"
+    } ]
+  }, {
+    "tStartMs": 401700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": ", and whether you've been staying up late. Well"
+    } ]
+  }, {
+    "tStartMs": 403600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": ","
+    } ]
+  }, {
+    "tStartMs": 404600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "for about three weeks,"
+    } ]
+  }, {
+    "tStartMs": 406933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 407966,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "only slept three or four hours"
+    } ]
+  }, {
+    "tStartMs": 410133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "a day. I woke up at 5 a.m."
+    } ]
+  }, {
+    "tStartMs": 411700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "and went to bed at 1 a.m."
+    } ]
+  }, {
+    "tStartMs": 413700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "After waking up at 5 a.m.,"
+    } ]
+  }, {
+    "tStartMs": 415600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I was preparing lessons, haha."
+    } ]
+  }, {
+    "tStartMs": 419666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "What I want to say is that"
+    } ]
+  }, {
+    "tStartMs": 421700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "this is a problem"
+    } ]
+  }, {
+    "tStartMs": 422500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I've had"
+    } ]
+  }, {
+    "tStartMs": 423600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "before I"
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "quit my job,"
+    } ]
+  }, {
+    "tStartMs": 428200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "before I started my YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 429800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I'm a bit too hardworking and don't know how to balance"
+    } ]
+  }, {
+    "tStartMs": 432333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "work and rest"
+    } ]
+  }, {
+    "tStartMs": 434133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": ". When I'm slacking off, I"
+    } ]
+  }, {
+    "tStartMs": 436833,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "slack off more than anyone else."
+    } ]
+  }, {
+    "tStartMs": 438266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "But when I'm busy and motivated..."
+    } ]
+  }, {
+    "tStartMs": 440633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I worked harder than anyone else"
+    } ]
+  }, {
+    "tStartMs": 442200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "on this, but the"
+    } ]
+  }, {
+    "tStartMs": 444333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "downside"
+    } ]
+  }, {
+    "tStartMs": 445566,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "was that I often ended up extremely tired"
+    } ]
+  }, {
+    "tStartMs": 449366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": ", completely exhausted."
+    } ]
+  }, {
+    "tStartMs": 451966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I felt like I was getting a sore throat, which"
+    } ]
+  }, {
+    "tStartMs": 453466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "was my body telling me that"
+    } ]
+  }, {
+    "tStartMs": 455100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I was really too tired lately, and"
+    } ]
+  }, {
+    "tStartMs": 457400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "I released that pressure"
+    } ]
+  }, {
+    "tStartMs": 459200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "in this way"
+    } ]
+  }, {
+    "tStartMs": 461866,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": ", haha. Did I get better afterward?"
+    } ]
+  }, {
+    "tStartMs": 464333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "No, I didn't even decide to rest"
+    } ]
+  }, {
+    "tStartMs": 467300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": ". So,"
+    } ]
+  }, {
+    "tStartMs": 469300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "gradually, the traffic dropped."
+    } ]
+  }, {
+    "tStartMs": 471700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "One reason was that the project was finished."
+    } ]
+  }, {
+    "tStartMs": 473966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "The second reason was"
+    } ]
+  }, {
+    "tStartMs": 475266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that one or two students with no prior experience"
+    } ]
+  }, {
+    "tStartMs": 477266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "stopped learning"
+    } ]
+  }, {
+    "tStartMs": 478500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "after a month ."
+    } ]
+  }, {
+    "tStartMs": 480500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Some students only"
+    } ]
+  }, {
+    "tStartMs": 482166,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "had the time"
+    } ]
+  }, {
+    "tStartMs": 484333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "and interest"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "to learn"
+    } ]
+  }, {
+    "tStartMs": 486466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "for a month, and then they stopped."
+    } ]
+  }, {
+    "tStartMs": 488933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Now, the courses"
+    } ]
+  }, {
+    "tStartMs": 490733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "are more stable."
+    } ]
+  }, {
+    "tStartMs": 492200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "And"
+    } ]
+  }, {
+    "tStartMs": 493666,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I've adapted to"
+    } ]
+  }, {
+    "tStartMs": 495166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "my university job."
+    } ]
+  }, {
+    "tStartMs": 497033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "In the first video, I"
+    } ]
+  }, {
+    "tStartMs": 498600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "told everyone that"
+    } ]
+  }, {
+    "tStartMs": 499733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I actually hated the teaching profession,"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "but I never expected, haha"
+    } ]
+  }, {
+    "tStartMs": 504333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": ", I never imagined that I"
+    } ]
+  }, {
+    "tStartMs": 506000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "would be a formal teacher now."
+    } ]
+  }, {
+    "tStartMs": 507966,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Now I"
+    } ]
+  }, {
+    "tStartMs": 508666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "'m a university teacher,"
+    } ]
+  }, {
+    "tStartMs": 509833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and I'm also a Chinese teacher, right?"
+    } ]
+  }, {
+    "tStartMs": 511633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Haha, I'm also a Chinese teacher."
+    } ]
+  }, {
+    "tStartMs": 514166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Before, I"
+    } ]
+  }, {
+    "tStartMs": 514966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "probably taught more freelance Chinese classes. The talk"
+    } ]
+  }, {
+    "tStartMs": 517700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "is about helping everyone improve their spoken English."
+    } ]
+  }, {
+    "tStartMs": 521400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 522200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "have students from beginner to intermediate levels,"
+    } ]
+  }, {
+    "tStartMs": 524566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "and I'm also preparing"
+    } ]
+  }, {
+    "tStartMs": 525666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "lessons"
+    } ]
+  }, {
+    "tStartMs": 526433,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "myself."
+    } ]
+  }, {
+    "tStartMs": 527600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "In the process,"
+    } ]
+  }, {
+    "tStartMs": 529033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've also relearned Chinese."
+    } ]
+  }, {
+    "tStartMs": 531033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "I think learning a language is quite interesting"
+    } ]
+  }, {
+    "tStartMs": 534866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": ". Recently,"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because I've had more free time,"
+    } ]
+  }, {
+    "tStartMs": 540300,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "I've"
+    } ]
+  }, {
+    "tStartMs": 541900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "started learning German from scratch"
+    } ]
+  }, {
+    "tStartMs": 544466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": ". It's actually quite interesting."
+    } ]
+  }, {
+    "tStartMs": 546066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "When I took out my German book,"
+    } ]
+  }, {
+    "tStartMs": 549433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "usually an A1 level book, it"
+    } ]
+  }, {
+    "tStartMs": 551733,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "had a self-introduction section"
+    } ]
+  }, {
+    "tStartMs": 553233,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": ". And then there"
+    } ]
+  }, {
+    "tStartMs": 554166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "were self-introduction cards"
+    } ]
+  }, {
+    "tStartMs": 558000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": ". I realized"
+    } ]
+  }, {
+    "tStartMs": 559566,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "that when I first started learning German, it was level 2... 7 years old"
+    } ]
+  }, {
+    "tStartMs": 563400,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": ", hahaha. Then I remembered"
+    } ]
+  }, {
+    "tStartMs": 567533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "when I first learned how to introduce myself,"
+    } ]
+  }, {
+    "tStartMs": 570133,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "I was 27 (German version)"
+    } ]
+  }, {
+    "tStartMs": 573266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": ", hahaha. I was still saying I was 27"
+    } ]
+  }, {
+    "tStartMs": 576400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "! Wow, so many years have passed in the blink of an eye"
+    } ]
+  }, {
+    "tStartMs": 579733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "! I've been having a lot of feelings lately"
+    } ]
+  }, {
+    "tStartMs": 583466,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": ", probably because some of the students I've been meeting recently"
+    } ]
+  }, {
+    "tStartMs": 587266,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "are the same age I was when I was learning foreign languages,"
+    } ]
+  }, {
+    "tStartMs": 591200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "so it's given me some insights."
+    } ]
+  }, {
+    "tStartMs": 593933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I think it's quite interesting ."
+    } ]
+  }, {
+    "tStartMs": 595366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Some of the students are quite interesting."
+    } ]
+  }, {
+    "tStartMs": 597433,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Actually, to be honest,"
+    } ]
+  }, {
+    "tStartMs": 598433,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "in the past five or six years of my work,"
+    } ]
+  }, {
+    "tStartMs": 601700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "I've rarely met"
+    } ]
+  }, {
+    "tStartMs": 603666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "people much younger than myself."
+    } ]
+  }, {
+    "tStartMs": 606966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's the truth."
+    } ]
+  }, {
+    "tStartMs": 607766,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Especially in the past three or four years of my work,"
+    } ]
+  }, {
+    "tStartMs": 611433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I've mostly met people my"
+    } ]
+  }, {
+    "tStartMs": 614033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "age or older than me."
+    } ]
+  }, {
+    "tStartMs": 616333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Most of them are older than me."
+    } ]
+  }, {
+    "tStartMs": 620000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Even though I rarely encounter people younger than me in my life, it"
+    } ]
+  }, {
+    "tStartMs": 622500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "'s"
+    } ]
+  }, {
+    "tStartMs": 624600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "like we"
+    } ]
+  }, {
+    "tStartMs": 625500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "live in completely different worlds."
+    } ]
+  }, {
+    "tStartMs": 628100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "I haven't met anyone more than six years younger than me in a very long time"
+    } ]
+  }, {
+    "tStartMs": 632233,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": ", haha ."
+    } ]
+  }, {
+    "tStartMs": 637633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "So, in my recent"
+    } ]
+  }, {
+    "tStartMs": 639566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "interactions"
+    } ]
+  }, {
+    "tStartMs": 641000,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "with them,"
+    } ]
+  }, {
+    "tStartMs": 642366,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "I've noticed"
+    } ]
+  }, {
+    "tStartMs": 643200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "that the age difference isn't"
+    } ]
+  }, {
+    "tStartMs": 645866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "that significant."
+    } ]
+  }, {
+    "tStartMs": 646933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Their"
+    } ]
+  }, {
+    "tStartMs": 649400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "journey of learning a language from scratch"
+    } ]
+  }, {
+    "tStartMs": 652700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "is quite similar to"
+    } ]
+  }, {
+    "tStartMs": 654900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "my own experience,"
+    } ]
+  }, {
+    "tStartMs": 656233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "haha."
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 658600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 661366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "have"
+    } ]
+  }, {
+    "tStartMs": 664266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "some"
+    } ]
+  }, {
+    "tStartMs": 664966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "reflections on this."
+    } ]
+  }, {
+    "tStartMs": 667233,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "At the same time, in my teaching,"
+    } ]
+  }, {
+    "tStartMs": 669800,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "I'd like to share some language learning experiences."
+    } ]
+  }, {
+    "tStartMs": 672866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Personally,"
+    } ]
+  }, {
+    "tStartMs": 674500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "I have a bit of a talent"
+    } ]
+  }, {
+    "tStartMs": 675866,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "for languages,"
+    } ]
+  }, {
+    "tStartMs": 677400,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "which I"
+    } ]
+  }, {
+    "tStartMs": 678033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "'ve always acknowledged."
+    } ]
+  }, {
+    "tStartMs": 679300,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I have a strong ability to imitate."
+    } ]
+  }, {
+    "tStartMs": 681833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "For example, I've been"
+    } ]
+  }, {
+    "tStartMs": 683200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "learning English and Mandarin"
+    } ]
+  }, {
+    "tStartMs": 684800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "since elementary school,"
+    } ]
+  }, {
+    "tStartMs": 685900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and I don't have an"
+    } ]
+  }, {
+    "tStartMs": 687366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "accent. Having no accent is"
+    } ]
+  }, {
+    "tStartMs": 689266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "already a talent."
+    } ]
+  }, {
+    "tStartMs": 691700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Plus,"
+    } ]
+  }, {
+    "tStartMs": 692666,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "some languages ​​sound very natural to me;"
+    } ]
+  }, {
+    "tStartMs": 696266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I can easily grasp the rhythm and imitate them."
+    } ]
+  }, {
+    "tStartMs": 699300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "But for some people, it"
+    } ]
+  }, {
+    "tStartMs": 702566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "might"
+    } ]
+  }, {
+    "tStartMs": 705400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "not be like that."
+    } ]
+  }, {
+    "tStartMs": 706800,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Recently, I've been interacting with more students"
+    } ]
+  }, {
+    "tStartMs": 709533,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": ", and many of their self-learning experiences have surprised me"
+    } ]
+  }, {
+    "tStartMs": 713333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": ". They've learned through self-study"
+    } ]
+  }, {
+    "tStartMs": 715533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "using Anki..."
+    } ]
+  }, {
+    "tStartMs": 717266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Anki is still"
+    } ]
+  }, {
+    "tStartMs": 718800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the best app for learning Chinese characters and words."
+    } ]
+  }, {
+    "tStartMs": 723100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Their vocabulary is really vast."
+    } ]
+  }, {
+    "tStartMs": 724700,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "In my interactions"
+    } ]
+  }, {
+    "tStartMs": 725800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "with different students"
+    } ]
+  }, {
+    "tStartMs": 727400,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": ", I've realized that everyone"
+    } ]
+  }, {
+    "tStartMs": 730266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "has their own learning"
+    } ]
+  }, {
+    "tStartMs": 732700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "habits when it comes to languages."
+    } ]
+  }, {
+    "tStartMs": 734066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Some people prefer learning with a teacher,"
+    } ]
+  }, {
+    "tStartMs": 736700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "while others"
+    } ]
+  }, {
+    "tStartMs": 737700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "prefer self-study."
+    } ]
+  }, {
+    "tStartMs": 739033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "It really depends on you to discover"
+    } ]
+  }, {
+    "tStartMs": 741966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "what kind of method suits you best."
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "For example, to be"
+    } ]
+  }, {
+    "tStartMs": 745800,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "honest ,"
+    } ]
+  }, {
+    "tStartMs": 746966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "I prefer self-study."
+    } ]
+  }, {
+    "tStartMs": 749033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "I'm even too lazy to watch videos . I do"
+    } ]
+  }, {
+    "tStartMs": 751600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "n't like watching videos"
+    } ]
+  }, {
+    "tStartMs": 753100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "because"
+    } ]
+  }, {
+    "tStartMs": 755900,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I have an understanding of my own pronunciation."
+    } ]
+  }, {
+    "tStartMs": 761266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "I know my pronunciation isn't particularly bad"
+    } ]
+  }, {
+    "tStartMs": 764600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "—I'm just referring to myself."
+    } ]
+  }, {
+    "tStartMs": 766300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "For some languages ​​I've learned,"
+    } ]
+  }, {
+    "tStartMs": 768266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I find watching videos a bit slow"
+    } ]
+  }, {
+    "tStartMs": 770833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": ", so I don't like it."
+    } ]
+  }, {
+    "tStartMs": 773333,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "I also don't really like one-on-one tutoring."
+    } ]
+  }, {
+    "tStartMs": 777600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But I'm"
+    } ]
+  }, {
+    "tStartMs": 779500,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "willing to spend money to go abroad for"
+    } ]
+  }, {
+    "tStartMs": 783066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "an immersive experience."
+    } ]
+  }, {
+    "tStartMs": 786833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I don't know if you can understand what I mean, but"
+    } ]
+  }, {
+    "tStartMs": 789100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "I'm a bit thick-skinned,"
+    } ]
+  }, {
+    "tStartMs": 790833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "so sometimes I might... I"
+    } ]
+  }, {
+    "tStartMs": 792466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "can only say a sentence or two"
+    } ]
+  }, {
+    "tStartMs": 794533,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": ", but I can"
+    } ]
+  }, {
+    "tStartMs": 795866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "practice those sentences to the point of being extremely fluent"
+    } ]
+  }, {
+    "tStartMs": 797600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "because I talk"
+    } ]
+  }, {
+    "tStartMs": 799966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to everyone I meet"
+    } ]
+  }, {
+    "tStartMs": 801466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": ". I feel that"
+    } ]
+  }, {
+    "tStartMs": 802966,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "when you can speak some simple sentences fluently"
+    } ]
+  }, {
+    "tStartMs": 806233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "and accurately,"
+    } ]
+  }, {
+    "tStartMs": 808233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it will"
+    } ]
+  }, {
+    "tStartMs": 810233,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "build your confidence in speaking a foreign language"
+    } ]
+  }, {
+    "tStartMs": 812700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "to some extent . This is my own experience."
+    } ]
+  }, {
+    "tStartMs": 814600,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "I especially remember when I was in Europe,"
+    } ]
+  }, {
+    "tStartMs": 816433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I would often talk to Japanese people,"
+    } ]
+  }, {
+    "tStartMs": 818300,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "and when I opened my mouth, they would always be shocked."
+    } ]
+  }, {
+    "tStartMs": 823333,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "They didn't know where I was from, haha."
+    } ]
+  }, {
+    "tStartMs": 828166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "At the beginning, when I introduced myself"
+    } ]
+  }, {
+    "tStartMs": 830800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "or said some simple sentences,"
+    } ]
+  }, {
+    "tStartMs": 832866,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I could speak very fluently."
+    } ]
+  }, {
+    "tStartMs": 834066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "This is my own unorthodox way of practicing."
+    } ]
+  }, {
+    "tStartMs": 836200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Another thing"
+    } ]
+  }, {
+    "tStartMs": 837633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "is my learning experience."
+    } ]
+  }, {
+    "tStartMs": 838966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I think"
+    } ]
+  }, {
+    "tStartMs": 840766,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "I used to ignore this reason."
+    } ]
+  }, {
+    "tStartMs": 845666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Many people say that dating"
+    } ]
+  }, {
+    "tStartMs": 847766,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "is a very good way to learn a language."
+    } ]
+  }, {
+    "tStartMs": 849900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It is undeniable that"
+    } ]
+  }, {
+    "tStartMs": 850900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "it is a"
+    } ]
+  }, {
+    "tStartMs": 853066,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "very good way."
+    } ]
+  }, {
+    "tStartMs": 854666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I think my English"
+    } ]
+  }, {
+    "tStartMs": 856400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "improved by leaps and bounds because of arguing"
+    } ]
+  }, {
+    "tStartMs": 860100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": ", because of arguing with the other person."
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Because in the process of the relationship, I"
+    } ]
+  }, {
+    "tStartMs": 867033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "also watched some American TV series or"
+    } ]
+  }, {
+    "tStartMs": 869333,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "When watching videos,"
+    } ]
+  }, {
+    "tStartMs": 871233,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 875333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "pay special attention to the word choice and phrasing, haha."
+    } ]
+  }, {
+    "tStartMs": 876233,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Some words"
+    } ]
+  }, {
+    "tStartMs": 877366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "are easy to remember"
+    } ]
+  }, {
+    "tStartMs": 879900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "because you know they're useful."
+    } ]
+  }, {
+    "tStartMs": 882133,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 883566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I think whether it's for dating"
+    } ]
+  }, {
+    "tStartMs": 885833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "or work,"
+    } ]
+  }, {
+    "tStartMs": 888366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "from that perspective,"
+    } ]
+  }, {
+    "tStartMs": 890300,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "learning from scratch"
+    } ]
+  }, {
+    "tStartMs": 891266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "might be a little difficult."
+    } ]
+  }, {
+    "tStartMs": 893466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "If you're learning for"
+    } ]
+  }, {
+    "tStartMs": 894466,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "very practical scenarios,"
+    } ]
+  }, {
+    "tStartMs": 896300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "learning sentences directly"
+    } ]
+  }, {
+    "tStartMs": 898366,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "is better than starting from scratch."
+    } ]
+  }, {
+    "tStartMs": 902300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "This is based on my experience."
+    } ]
+  }, {
+    "tStartMs": 904166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Some people might disagree."
+    } ]
+  }, {
+    "tStartMs": 906633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "For example, if"
+    } ]
+  }, {
+    "tStartMs": 908366,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "you're going to argue,"
+    } ]
+  }, {
+    "tStartMs": 909666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "learn a few argument sentences"
+    } ]
+  }, {
+    "tStartMs": 911566,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": ", haha."
+    } ]
+  }, {
+    "tStartMs": 912333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "If you're going shopping"
+    } ]
+  }, {
+    "tStartMs": 913733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": ", just learn shopping-related dialogues."
+    } ]
+  }, {
+    "tStartMs": 916433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "While learning these dialogues,"
+    } ]
+  }, {
+    "tStartMs": 919366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "supplement your knowledge with other phrases"
+    } ]
+  }, {
+    "tStartMs": 921766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": ", like... If you're unfamiliar"
+    } ]
+  }, {
+    "tStartMs": 923800,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "with a grammar point or a word,"
+    } ]
+  }, {
+    "tStartMs": 925266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "then memorizing it later"
+    } ]
+  }, {
+    "tStartMs": 926800,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "might be more suitable. Yes,"
+    } ]
+  }, {
+    "tStartMs": 930233,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "that's my opinion."
+    } ]
+  }, {
+    "tStartMs": 931266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Even when I'm teaching students with no prior knowledge,"
+    } ]
+  }, {
+    "tStartMs": 933833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "if I chat with them"
+    } ]
+  }, {
+    "tStartMs": 935800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and ask what they did this weekend,"
+    } ]
+  }, {
+    "tStartMs": 938433,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and they tell me they were cooking,"
+    } ]
+  }, {
+    "tStartMs": 940633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "then for the next two weeks I'll"
+    } ]
+  }, {
+    "tStartMs": 943033,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "only teach them vocabulary and grammar"
+    } ]
+  }, {
+    "tStartMs": 947866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "related to cooking."
+    } ]
+  }, {
+    "tStartMs": 949366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "This way"
+    } ]
+  }, {
+    "tStartMs": 950666,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": ", each lesson will have a smooth exchange"
+    } ]
+  }, {
+    "tStartMs": 955033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": ", instead of just memorizing words"
+    } ]
+  }, {
+    "tStartMs": 958633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "or new grammar."
+    } ]
+  }, {
+    "tStartMs": 961966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "This is some of my experience"
+    } ]
+  }, {
+    "tStartMs": 963333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": ", and it's a teaching method"
+    } ]
+  }, {
+    "tStartMs": 966033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "that I and my current students"
+    } ]
+  }, {
+    "tStartMs": 967300,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "have discussed and agreed upon together"
+    } ]
+  }, {
+    "tStartMs": 969633,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": ". This isn't for exams"
+    } ]
+  }, {
+    "tStartMs": 972666,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": ";"
+    } ]
+  }, {
+    "tStartMs": 973433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "if it were for exam preparation,"
+    } ]
+  }, {
+    "tStartMs": 974833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "that would be a different strategy."
+    } ]
+  }, {
+    "tStartMs": 976833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Okay, okay."
+    } ]
+  }, {
+    "tStartMs": 978500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "So, that 's"
+    } ]
+  }, {
+    "tStartMs": 979066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "a little something I wanted to share with you all recently"
+    } ]
+  }, {
+    "tStartMs": 982466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "."
+    } ]
+  }, {
+    "tStartMs": 983800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Monica, right?"
+    } ]
+  }, {
+    "tStartMs": 985866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I never imagined that half a year would pass and"
+    } ]
+  }, {
+    "tStartMs": 987666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "I would actually become a"
+    } ]
+  }, {
+    "tStartMs": 990166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "fairly formal teacher."
+    } ]
+  }, {
+    "tStartMs": 992133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "It's quite amazing that"
+    } ]
+  }, {
+    "tStartMs": 994566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've officially become a teacher ."
+    } ]
+  }, {
+    "tStartMs": 998300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Including in university"
+    } ]
+  }, {
+    "tStartMs": 999500,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": ", as a teacher"
+    } ]
+  }, {
+    "tStartMs": 1000433,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and in the process of grading students' assignments, I've"
+    } ]
+  }, {
+    "tStartMs": 1004300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "also come to understand some of the difficulties of being a teacher."
+    } ]
+  }, {
+    "tStartMs": 1007666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Today's university students"
+    } ]
+  }, {
+    "tStartMs": 1009666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "are quite different from our generation."
+    } ]
+  }, {
+    "tStartMs": 1012066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "When I was in university,"
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "if you couldn't write your assignment,"
+    } ]
+  }, {
+    "tStartMs": 1016500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "you could only piece it together randomly,"
+    } ]
+  }, {
+    "tStartMs": 1019066,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "right? But now, students have AI."
+    } ]
+  }, {
+    "tStartMs": 1022300,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Many students"
+    } ]
+  }, {
+    "tStartMs": 1024266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "don't use their brains at all"
+    } ]
+  }, {
+    "tStartMs": 1027000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "and rely purely on AI to output their assignments."
+    } ]
+  }, {
+    "tStartMs": 1030766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "At first,"
+    } ]
+  }, {
+    "tStartMs": 1032166,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "I was very angry"
+    } ]
+  }, {
+    "tStartMs": 1033766,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": ", saying things like, \"...\" If you haven't even read the assignment"
+    } ]
+  }, {
+    "tStartMs": 1036033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": ", you should at least let the AI ​​understand"
+    } ]
+  }, {
+    "tStartMs": 1038800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "what the task is about."
+    } ]
+  }, {
+    "tStartMs": 1041733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "This change in mindset"
+    } ]
+  }, {
+    "tStartMs": 1043666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "is quite interesting."
+    } ]
+  }, {
+    "tStartMs": 1045466,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "And in the process of being a teacher,"
+    } ]
+  }, {
+    "tStartMs": 1047933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "I've also discovered some"
+    } ]
+  }, {
+    "tStartMs": 1052033,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "differences in my personality."
+    } ]
+  }, {
+    "tStartMs": 1053133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "I wouldn't call them problems, but"
+    } ]
+  }, {
+    "tStartMs": 1054833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "I've found that I'm actually"
+    } ]
+  }, {
+    "tStartMs": 1056366,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "quite stubborn, haha."
+    } ]
+  }, {
+    "tStartMs": 1060900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "Stubbornness, in Chinese terms,"
+    } ]
+  }, {
+    "tStartMs": 1063066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "means not knowing how to be flexible."
+    } ]
+  }, {
+    "tStartMs": 1064800,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "I wouldn't say I'm inflexible,"
+    } ]
+  }, {
+    "tStartMs": 1067166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "but I've discovered that"
+    } ]
+  }, {
+    "tStartMs": 1068266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm"
+    } ]
+  }, {
+    "tStartMs": 1069433,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "actually"
+    } ]
+  }, {
+    "tStartMs": 1070200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "a very responsible person."
+    } ]
+  }, {
+    "tStartMs": 1072433,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I want to provide more help to"
+    } ]
+  }, {
+    "tStartMs": 1076166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "my students as much as possible."
+    } ]
+  }, {
+    "tStartMs": 1079366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "For the past three months,"
+    } ]
+  }, {
+    "tStartMs": 1081100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "I've still been asking my advisor and"
+    } ]
+  }, {
+    "tStartMs": 1082666,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "professor for references."
+    } ]
+  }, {
+    "tStartMs": 1085733,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Now I've become someone"
+    } ]
+  }, {
+    "tStartMs": 1087766,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "who writes reference letters for my students. When"
+    } ]
+  }, {
+    "tStartMs": 1090900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "I receive requests"
+    } ]
+  }, {
+    "tStartMs": 1093133,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "to write recommendation letters for them"
+    } ]
+  }, {
+    "tStartMs": 1096466,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ", I suddenly realize I have this sense of responsibility."
+    } ]
+  }, {
+    "tStartMs": 1099133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Oh, I have to see"
+    } ]
+  }, {
+    "tStartMs": 1103100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "how diligently you do your assignments and what your usual attitude is before"
+    } ]
+  }, {
+    "tStartMs": 1105266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I can write one for you, haha."
+    } ]
+  }, {
+    "tStartMs": 1108733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "And then,"
+    } ]
+  }, {
+    "tStartMs": 1110300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I suddenly understand"
+    } ]
+  }, {
+    "tStartMs": 1112566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "why some of my professors"
+    } ]
+  }, {
+    "tStartMs": 1115366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "were so hesitant"
+    } ]
+  }, {
+    "tStartMs": 1118533,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "to speak to me back then."
+    } ]
+  }, {
+    "tStartMs": 1120300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I suddenly understand."
+    } ]
+  }, {
+    "tStartMs": 1123266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So you see, people"
+    } ]
+  }, {
+    "tStartMs": 1125166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "grow ."
+    } ]
+  }, {
+    "tStartMs": 1126566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "In this process,"
+    } ]
+  }, {
+    "tStartMs": 1128000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "you gradually discover your"
+    } ]
+  }, {
+    "tStartMs": 1130100,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "past immaturity and your own growth."
+    } ]
+  }, {
+    "tStartMs": 1134300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Although it's only been two short months,"
+    } ]
+  }, {
+    "tStartMs": 1135966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "a lot has happened"
+    } ]
+  }, {
+    "tStartMs": 1137200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "to me in these two months."
+    } ]
+  }, {
+    "tStartMs": 1138800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "The change in my identity,"
+    } ]
+  }, {
+    "tStartMs": 1140800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "including the complete change in my work mode"
+    } ]
+  }, {
+    "tStartMs": 1144600,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "and the complete change in my work content,"
+    } ]
+  }, {
+    "tStartMs": 1148133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "has made me a bit emotional."
+    } ]
+  }, {
+    "tStartMs": 1149533,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've recently gone through another round of"
+    } ]
+  }, {
+    "tStartMs": 1153133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "high-intensity work."
+    } ]
+  }, {
+    "tStartMs": 1155566,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "Now, I"
+    } ]
+  }, {
+    "tStartMs": 1158600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "'ve calmed down a bit, haha."
+    } ]
+  }, {
+    "tStartMs": 1161600,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "So, I think it's time to re-record videos"
+    } ]
+  }, {
+    "tStartMs": 1165466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and talk to everyone about life,"
+    } ]
+  }, {
+    "tStartMs": 1167700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "feelings"
+    } ]
+  }, {
+    "tStartMs": 1169166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": ", and learning, right? Okay"
+    } ]
+  }, {
+    "tStartMs": 1172133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": ". That"
+    } ]
+  }, {
+    "tStartMs": 1173900,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "'s all for today's sharing."
+    } ]
+  }, {
+    "tStartMs": 1176933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Thank you for watching"
+    } ]
+  }, {
+    "tStartMs": 1178400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "and for your company."
+    } ]
+  }, {
+    "tStartMs": 1179666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "See you in the next video! Bye-"
+    } ]
+  }, {
+    "tStartMs": 1182233,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "bye!"
+    } ]
+  } ]
+}

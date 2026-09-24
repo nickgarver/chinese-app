@@ -8,7 +8,9 @@
     "build": "vite build",
     "class": "./.venv/bin/python3 scripts/refresh_class.py",
     "preview": "vite preview",
-    "data": "python3 scripts/build_data.py --src \"./raw/hsk data\" --out static/data"
+    "data": "python3 scripts/build_data.py --src \"./raw/hsk data\" --out static/data",
+    "clips:fetch": "./.venv/bin/python3 scripts/fetch_transcripts.py",
+    "clips:build": "./.venv/bin/python3 scripts/build_clips.py"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.6",

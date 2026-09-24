@@ -1,0 +1,2725 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 600,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "哈嘍"
+    } ]
+  }, {
+    "tStartMs": 1166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "大家好"
+    } ]
+  }, {
+    "tStartMs": 1966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我是貓咪卡"
+    } ]
+  }, {
+    "tStartMs": 6566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "這是一檔為中文學習者和"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "中文愛好者提供的中文播客"
+    } ]
+  }, {
+    "tStartMs": 12300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "在這裡"
+    } ]
+  }, {
+    "tStartMs": 12900,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你會聽到學到各種與"
+    } ]
+  }, {
+    "tStartMs": 15200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "中文以及中國相關的話題"
+    } ]
+  }, {
+    "tStartMs": 18166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "如果你對此感興趣"
+    } ]
+  }, {
+    "tStartMs": 19800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那就千萬不要錯過"
+    } ]
+  }, {
+    "tStartMs": 23566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "不 知道"
+    } ]
+  }, {
+    "tStartMs": 25333,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "大家"
+    } ]
+  }, {
+    "tStartMs": 27833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "有沒有"
+    } ]
+  }, {
+    "tStartMs": 29200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "看過"
+    } ]
+  }, {
+    "tStartMs": 31266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我上一"
+    } ]
+  }, {
+    "tStartMs": 33866,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "期 的視頻呢"
+    } ]
+  }, {
+    "tStartMs": 37900,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "Laduree Macaron馬卡龍形狀的物品"
+    } ]
+  }, {
+    "tStartMs": 40966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "到底是什麼呢"
+    } ]
+  }, {
+    "tStartMs": 43566,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "很遺憾哦"
+    } ]
+  }, {
+    "tStartMs": 44633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "直到目前為止"
+    } ]
+  }, {
+    "tStartMs": 45933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "沒有任何人回答正確"
+    } ]
+  }, {
+    "tStartMs": 48566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "但是有一位朋友提到了肥皂"
+    } ]
+  }, {
+    "tStartMs": 52666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "已經很接近了"
+    } ]
+  }, {
+    "tStartMs": 54133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "它和任何的cosmetic不相關"
+    } ]
+  }, {
+    "tStartMs": 57333,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "哈哈"
+    } ]
+  }, {
+    "tStartMs": 57700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "完全不相關啊"
+    } ]
+  }, {
+    "tStartMs": 59166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我覺得上一期的視頻呢"
+    } ]
+  }, {
+    "tStartMs": 60666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我好像沒有展示的很清楚"
+    } ]
+  }, {
+    "tStartMs": 62766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我 給大家再看一下"
+    } ]
+  }, {
+    "tStartMs": 64466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "是一個固體的東西"
+    } ]
+  }, {
+    "tStartMs": 66266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "它是硬擦"
+    } ]
+  }, {
+    "tStartMs": 67733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "的它不是那種要"
+    } ]
+  }, {
+    "tStartMs": 69566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "軟的它"
+    } ]
+  }, {
+    "tStartMs": 72466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "是那種要"
+    } ]
+  }, {
+    "tStartMs": 74566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "軟"
+    } ]
+  }, {
+    "tStartMs": 76233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 81166,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "它"
+    } ]
+  }, {
+    "tStartMs": 82233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "這個方向想過嗎"
+    } ]
+  }, {
+    "tStartMs": 85133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我小時候學英文"
+    } ]
+  }, {
+    "tStartMs": 86800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "橡皮擦的英文是叫Eraser"
+    } ]
+  }, {
+    "tStartMs": 89200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "但是我好像聽說美國和"
+    } ]
+  }, {
+    "tStartMs": 91566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "英國的叫法不太一樣"
+    } ]
+  }, {
+    "tStartMs": 94066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "現在大家用鉛筆的情況多嗎"
+    } ]
+  }, {
+    "tStartMs": 97333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "小學的小朋友應該用的是比較多的"
+    } ]
+  }, {
+    "tStartMs": 100566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 101400,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "這個是橡皮擦哦"
+    } ]
+  }, {
+    "tStartMs": 104266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "嗯\n聞"
+    } ]
+  }, {
+    "tStartMs": 105900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "起來臭臭的"
+    } ]
+  }, {
+    "tStartMs": 107333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "其實一點都不香"
+    } ]
+  }, {
+    "tStartMs": 108900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "因為上一期的視頻"
+    } ]
+  }, {
+    "tStartMs": 111433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "有和大家提到"
+    } ]
+  }, {
+    "tStartMs": 113100,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "馬卡 龍"
+    } ]
+  }, {
+    "tStartMs": 116133,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "上面"
+    } ]
+  }, {
+    "tStartMs": 118533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那"
+    } ]
+  }, {
+    "tStartMs": 120366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "兩天"
+    } ]
+  }, {
+    "tStartMs": 122100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Kitty的玩偶"
+    } ]
+  }, {
+    "tStartMs": 125800,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "這個hello Kitty呢"
+    } ]
+  }, {
+    "tStartMs": 126933,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "是在2026年和Laduree聯名出的一個系列"
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我現在要給大家看一下"
+    } ]
+  }, {
+    "tStartMs": 137700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "大家可以看一下"
+    } ]
+  }, {
+    "tStartMs": 138600,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "這個Kitty的頭上頂著一個馬卡龍"
+    } ]
+  }, {
+    "tStartMs": 143733,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "上面還有Laduree的標誌"
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 148533,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "是超級可愛的一個Kitty"
+    } ]
+  }, {
+    "tStartMs": 150700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "它的這個圍裙上面"
+    } ]
+  }, {
+    "tStartMs": 152966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "也有標著這個Laduree"
+    } ]
+  }, {
+    "tStartMs": 154666,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "因為大家把這個Kitty翻出來"
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "之後"
+    } ]
+  }, {
+    "tStartMs": 162500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "還有"
+    } ]
+  }, {
+    "tStartMs": 163766,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "聊 呢"
+    } ]
+  }, {
+    "tStartMs": 167766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Kitty呢"
+    } ]
+  }, {
+    "tStartMs": 169233,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "在中國超級火"
+    } ]
+  }, {
+    "tStartMs": 172266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "這個讓我有一點點震驚啊"
+    } ]
+  }, {
+    "tStartMs": 174166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "也是為什麼我在家裡面"
+    } ]
+  }, {
+    "tStartMs": 175900,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "把這只玩偶翻出來的一個原因"
+    } ]
+  }, {
+    "tStartMs": 179066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "讓我再花錢去買"
+    } ]
+  }, {
+    "tStartMs": 180500,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我可能現在會覺得有一點點不捨得"
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "一隻玩偶也得100多人民幣"
+    } ]
+  }, {
+    "tStartMs": 185633,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 186366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "但是他火的呢又讓我有一點點奇怪所以我就重新又去網上搜了一些資料對吧但是他火的呢又讓我有一點點奇怪"
+    } ]
+  }, {
+    "tStartMs": 189033,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "所以我就重新又去網上搜了一些資料"
+    } ]
+  }, {
+    "tStartMs": 194600,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "知道為什麼hello Kitty再次爆火"
+    } ]
+  }, {
+    "tStartMs": 198333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我覺得首先第一個火的"
+    } ]
+  }, {
+    "tStartMs": 200200,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "原因就是社交媒體的傳播"
+    } ]
+  }, {
+    "tStartMs": 203233,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "一些z時代的新生代的演員們"
+    } ]
+  }, {
+    "tStartMs": 207366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "idol們"
+    } ]
+  }, {
+    "tStartMs": 208233,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "然後都會在她們的包上面"
+    } ]
+  }, {
+    "tStartMs": 212733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "掛上了hello Kitty的玩偶"
+    } ]
+  }, {
+    "tStartMs": 215333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "然後其次呢"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "週邊產品的一部分助推"
+    } ]
+  }, {
+    "tStartMs": 219766,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "這個就導致了"
+    } ]
+  }, {
+    "tStartMs": 220833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "hello Kitty又重新爆火了"
+    } ]
+  }, {
+    "tStartMs": 223133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "hello Kitty在我小時候就已經很火了"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "它一直是一個很火"
+    } ]
+  }, {
+    "tStartMs": 229900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "貓很火"
+    } ]
+  }, {
+    "tStartMs": 232100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "了Kitty其實是一隻"
+    } ]
+  }, {
+    "tStartMs": 233900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "長著貓臉的小女孩"
+    } ]
+  }, {
+    "tStartMs": 236366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我當時聽到這個的時候都震驚了"
+    } ]
+  }, {
+    "tStartMs": 240466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "但是很長很長一段時間"
+    } ]
+  }, {
+    "tStartMs": 243433,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我對hello Kitty都是無感的"
+    } ]
+  }, {
+    "tStartMs": 246200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "我會覺得它"
+    } ]
+  }, {
+    "tStartMs": 248766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "有一點點土"
+    } ]
+  }, {
+    "tStartMs": 250266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 251266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "大家看這只hello Kitty呢"
+    } ]
+  }, {
+    "tStartMs": 253166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "它的整個面部"
+    } ]
+  }, {
+    "tStartMs": 254766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "它的線條是比較簡單的"
+    } ]
+  }, {
+    "tStartMs": 257566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "也沒有大面積的粉紅色的覆蓋"
+    } ]
+  }, {
+    "tStartMs": 260600,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 261200,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "我感覺我小時候"
+    } ]
+  }, {
+    "tStartMs": 263233,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "就會覺得"
+    } ]
+  }, {
+    "tStartMs": 264333,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Hello Kitty在三麗鷗(sanrio)的所有形象裡面"
+    } ]
+  }, {
+    "tStartMs": 267833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "都是一個比較普通的形象"
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "可能又因為到處都可以看見"
+    } ]
+  }, {
+    "tStartMs": 273533,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "我心裡面呢"
+    } ]
+  }, {
+    "tStartMs": 274466,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "就有一種逆反心理"
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我覺得它有點大眾化"
+    } ]
+  }, {
+    "tStartMs": 278433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我就會不太喜歡"
+    } ]
+  }, {
+    "tStartMs": 280433,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "這個是三麗鷗的形象裡面的"
+    } ]
+  }, {
+    "tStartMs": 282833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我之前最喜歡的一個"
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "它的名字叫Melody美樂蒂"
+    } ]
+  }, {
+    "tStartMs": 289100,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "可以看一下"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "它是一隻粉紅色的兔子"
+    } ]
+  }, {
+    "tStartMs": 294033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "頭上"
+    } ]
+  }, {
+    "tStartMs": 294833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "呢頂著一個蝴蝶結"
+    } ]
+  }, {
+    "tStartMs": 298066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我這個產品呢"
+    } ]
+  }, {
+    "tStartMs": 299400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "它是一個筆筒"
+    } ]
+  }, {
+    "tStartMs": 300933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "正好這個裡面附贈了兩支筆呢"
+    } ]
+  }, {
+    "tStartMs": 303733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "一個是Melody"
+    } ]
+  }, {
+    "tStartMs": 305400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "然後呢"
+    } ]
+  }, {
+    "tStartMs": 306233,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "這隻小羊大家有看到嗎"
+    } ]
+  }, {
+    "tStartMs": 308766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "超級可愛的一隻羊"
+    } ]
+  }, {
+    "tStartMs": 310600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "這隻羊的名字呢"
+    } ]
+  }, {
+    "tStartMs": 312133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "叫piano"
+    } ]
+  }, {
+    "tStartMs": 313633,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 316166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "這隻羊的名字叫piano"
+    } ]
+  }, {
+    "tStartMs": 318400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "就是彈的鋼琴的那個piano"
+    } ]
+  }, {
+    "tStartMs": 321133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我以前特別喜歡粉紅色的東西"
+    } ]
+  }, {
+    "tStartMs": 323600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "所以很長我"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "對hello Kitty都是無感的"
+    } ]
+  }, {
+    "tStartMs": 327533,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "這兩年呢"
+    } ]
+  }, {
+    "tStartMs": 328766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在中國的社交媒體上面"
+    } ]
+  }, {
+    "tStartMs": 331100,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "女孩子們爭相購買的一個hello Kitty的商品"
+    } ]
+  }, {
+    "tStartMs": 336000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "那就是一個黑皮hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 339700,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "黑皮呢"
+    } ]
+  }, {
+    "tStartMs": 340400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我現在手上是沒有的"
+    } ]
+  }, {
+    "tStartMs": 342133,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我去年其實去夏威夷玩了一段時間"
+    } ]
+  }, {
+    "tStartMs": 345833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我在夏威夷的Souvenir"
+    } ]
+  }, {
+    "tStartMs": 347833,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "就是紀念品商店裡面逛了很久"
+    } ]
+  }, {
+    "tStartMs": 351033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "看了很多的"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "這種黑皮的hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 355100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我最後都沒有選擇買"
+    } ]
+  }, {
+    "tStartMs": 357300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我現在又有一點後悔啊"
+    } ]
+  }, {
+    "tStartMs": 358900,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 359666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我現在其實還有一點點後悔"
+    } ]
+  }, {
+    "tStartMs": 362033,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "黑皮呢"
+    } ]
+  }, {
+    "tStartMs": 362666,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "就是指的這種顏色的皮膚"
+    } ]
+  }, {
+    "tStartMs": 366500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "中文網絡上面會稱它為黑皮"
+    } ]
+  }, {
+    "tStartMs": 370300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "它其實呢"
+    } ]
+  }, {
+    "tStartMs": 370900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "就是曬出來的小麥色"
+    } ]
+  }, {
+    "tStartMs": 374000,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "然後呢"
+    } ]
+  }, {
+    "tStartMs": 374600,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "這個玩偶給大家看到的"
+    } ]
+  }, {
+    "tStartMs": 376633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "又是一個時代的回憶"
+    } ]
+  }, {
+    "tStartMs": 379700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我們經常會說就是"
+    } ]
+  }, {
+    "tStartMs": 382066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "一個流行已經過去了之後呢"
+    } ]
+  }, {
+    "tStartMs": 384266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "中文裡面會經常說"
+    } ]
+  }, {
+    "tStartMs": 385666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "這是一個時代的回憶"
+    } ]
+  }, {
+    "tStartMs": 388666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "這個娃娃來自於日本"
+    } ]
+  }, {
+    "tStartMs": 391200,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "一個曾經特別火的模特"
+    } ]
+  }, {
+    "tStartMs": 395066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "混血模特叫梨花"
+    } ]
+  }, {
+    "tStartMs": 397833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "她之前是作為一個vivi的當家模特"
+    } ]
+  }, {
+    "tStartMs": 402200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "日本的少女雜誌裡面"
+    } ]
+  }, {
+    "tStartMs": 403733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "特別喜歡用混血模特"
+    } ]
+  }, {
+    "tStartMs": 406133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我特別記得是在2010年"
+    } ]
+  }, {
+    "tStartMs": 409400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "至2020年這十年期間"
+    } ]
+  }, {
+    "tStartMs": 412866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "整個日本的流行文化對"
+    } ]
+  }, {
+    "tStartMs": 415066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "中國的影響是比較大的"
+    } ]
+  }, {
+    "tStartMs": 417633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "但是在2020年之後呢"
+    } ]
+  }, {
+    "tStartMs": 420100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "這個影響就會慢慢減弱"
+    } ]
+  }, {
+    "tStartMs": 423400,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "基本上已經很少會看到了"
+    } ]
+  }, {
+    "tStartMs": 426633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "在社交媒體上面"
+    } ]
+  }, {
+    "tStartMs": 428066,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "大家已經幾乎不能夠看到"
+    } ]
+  }, {
+    "tStartMs": 430833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "就是一些特別特別日系打扮的小孩了"
+    } ]
+  }, {
+    "tStartMs": 434800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "日系又重新回歸到了"
+    } ]
+  }, {
+    "tStartMs": 436833,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "一個比較小眾的一個狀態"
+    } ]
+  }, {
+    "tStartMs": 439166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "這也是一個時代的回憶"
+    } ]
+  }, {
+    "tStartMs": 441066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "當年這個日本模特"
+    } ]
+  }, {
+    "tStartMs": 442766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "這個Rinka梨花"
+    } ]
+  }, {
+    "tStartMs": 444633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "就是作為vivi的一個當家模特"
+    } ]
+  }, {
+    "tStartMs": 447166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "出了一個自己的時裝品牌"
+    } ]
+  }, {
+    "tStartMs": 450200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我記得我在東京的時候會經常去逛它"
+    } ]
+  }, {
+    "tStartMs": 452866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "在代官山的店"
+    } ]
+  }, {
+    "tStartMs": 455533,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "當時就是連她出的這個玩偶都會非常的火"
+    } ]
+  }, {
+    "tStartMs": 460333,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大家就可以看啊"
+    } ]
+  }, {
+    "tStartMs": 461300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "這個就是一個黑皮的娃娃"
+    } ]
+  }, {
+    "tStartMs": 464266,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 465566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "hello Kitty也出了一個黑皮款的hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 469833,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "就爆火"
+    } ]
+  }, {
+    "tStartMs": 471233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在中國就是“一貓難求”"
+    } ]
+  }, {
+    "tStartMs": 474133,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "現在呢"
+    } ]
+  }, {
+    "tStartMs": 474600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "中國的女孩子會把這種"
+    } ]
+  }, {
+    "tStartMs": 476166,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Hello Kitty的玩偶"
+    } ]
+  }, {
+    "tStartMs": 479866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "掛"
+    } ]
+  }, {
+    "tStartMs": 480800,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "在任何的地方"
+    } ]
+  }, {
+    "tStartMs": 483233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我最近呢"
+    } ]
+  }, {
+    "tStartMs": 484233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "是"
+    } ]
+  }, {
+    "tStartMs": 485800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "有想要買一輛自行車"
+    } ]
+  }, {
+    "tStartMs": 487866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然後"
+    } ]
+  }, {
+    "tStartMs": 489700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "出去運動運動 然後就發現社交媒體"
+    } ]
+  }, {
+    "tStartMs": 493800,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": " "
+    } ]
+  }, {
+    "tStartMs": 494333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "上"
+    } ]
+  }, {
+    "tStartMs": 495266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 496966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "女孩"
+    } ]
+  }, {
+    "tStartMs": 499266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "會Kitty呢"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "大家會說"
+    } ]
+  }, {
+    "tStartMs": 502966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Hello Kitty它的形像其實是沒有嘴的"
+    } ]
+  }, {
+    "tStartMs": 506766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "正是因為它沒有嘴"
+    } ]
+  }, {
+    "tStartMs": 509100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "所以大家才會借助它的形象"
+    } ]
+  }, {
+    "tStartMs": 512033,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "去自由詮釋心情和想法"
+    } ]
+  }, {
+    "tStartMs": 516000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "同時呢"
+    } ]
+  }, {
+    "tStartMs": 517300,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "中國人不太喜歡用"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "自己的照片來作為頭像"
+    } ]
+  }, {
+    "tStartMs": 522933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "是因為在中國"
+    } ]
+  }, {
+    "tStartMs": 524633,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "社交媒體它承擔著一個工作職能"
+    } ]
+  }, {
+    "tStartMs": 528866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因為你工作上面也需要"
+    } ]
+  }, {
+    "tStartMs": 530866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "用 這些"
+    } ]
+  }, {
+    "tStartMs": 534033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "即時通訊工具來聯繫"
+    } ]
+  }, {
+    "tStartMs": 536500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "在設置頭的時候"
+    } ]
+  }, {
+    "tStartMs": 539500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "。 。"
+    } ]
+  }, {
+    "tStartMs": 541700,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "或許呢"
+    } ]
+  }, {
+    "tStartMs": 542900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "有的時候大家也不希望"
+    } ]
+  }, {
+    "tStartMs": 544666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "被別人過多的關注到吧"
+    } ]
+  }, {
+    "tStartMs": 547466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "用自己的照片呢"
+    } ]
+  }, {
+    "tStartMs": 548766,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "又不能夠準確的傳達自己最近的狀態"
+    } ]
+  }, {
+    "tStartMs": 553533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "給大家分享幾個"
+    } ]
+  }, {
+    "tStartMs": 555033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "網友製作的hello Kitty的meme圖"
+    } ]
+  }, {
+    "tStartMs": 558366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "首先第一張是這個"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "花開富貴"
+    } ]
+  }, {
+    "tStartMs": 562433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "大家也可以看到這張圖裡面"
+    } ]
+  }, {
+    "tStartMs": 564733,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Hello Kitty作為一個普通工作人員的形像"
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "出現在辦公室裡面"
+    } ]
+  }, {
+    "tStartMs": 571433,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "然後周圍點綴著一圈的花朵"
+    } ]
+  }, {
+    "tStartMs": 575700,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "花開富貴"
+    } ]
+  }, {
+    "tStartMs": 577100,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "這在中國是一句吉祥語"
+    } ]
+  }, {
+    "tStartMs": 580766,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "同樣呢"
+    } ]
+  }, {
+    "tStartMs": 581700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "也是一個吉祥圖案"
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "以繁花盛開象徵著富貴"
+    } ]
+  }, {
+    "tStartMs": 587300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "然後第二張圖大家可以看到"
+    } ]
+  }, {
+    "tStartMs": 589766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Hello Kitty還是作為一個"
+    } ]
+  }, {
+    "tStartMs": 592233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "工作者出現在這個圖片裡面的"
+    } ]
+  }, {
+    "tStartMs": 596033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "然後Kitty在用著一台電腦"
+    } ]
+  }, {
+    "tStartMs": 600633,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 601200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "它在工作"
+    } ]
+  }, {
+    "tStartMs": 602600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "然後有四個中文字"
+    } ]
+  }, {
+    "tStartMs": 605066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "與世無爭"
+    } ]
+  }, {
+    "tStartMs": 607000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "與世無爭"
+    } ]
+  }, {
+    "tStartMs": 610133,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 610566,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "這個就是中國人典型的那種"
+    } ]
+  }, {
+    "tStartMs": 613766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "“既要又要還要”的心態"
+    } ]
+  }, {
+    "tStartMs": 615933,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我既要努力工作"
+    } ]
+  }, {
+    "tStartMs": 617966,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 618833,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "我又不能夠顯示出我努力的太多"
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "我們要淡泊名利"
+    } ]
+  }, {
+    "tStartMs": 624766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "要與世無爭"
+    } ]
+  }, {
+    "tStartMs": 626733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "可以把這種圖呢"
+    } ]
+  }, {
+    "tStartMs": 628133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "作為一個MEME"
+    } ]
+  }, {
+    "tStartMs": 629500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "作為一個表情包"
+    } ]
+  }, {
+    "tStartMs": 630966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "在日常的交流裡面使用"
+    } ]
+  }, {
+    "tStartMs": 633566,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "同時呢"
+    } ]
+  }, {
+    "tStartMs": 634133,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "有一些人也會把它直接作為頭像"
+    } ]
+  }, {
+    "tStartMs": 637366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "第三張圖呢"
+    } ]
+  }, {
+    "tStartMs": 638366,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "其實和前面一張的背景是一樣的"
+    } ]
+  }, {
+    "tStartMs": 641466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "但是字已經換了啊"
+    } ]
+  }, {
+    "tStartMs": 643300,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "然後這個周圍一圈的花的圖案也換了"
+    } ]
+  }, {
+    "tStartMs": 647466,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "它叫“好運蓮蓮”"
+    } ]
+  }, {
+    "tStartMs": 650266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "中國文化裡面特別喜歡用諧音"
+    } ]
+  }, {
+    "tStartMs": 653733,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "“好運連連”是一個成語"
+    } ]
+  }, {
+    "tStartMs": 656500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "但是大家可以看到這個圖片裡面呢"
+    } ]
+  }, {
+    "tStartMs": 659400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "把“連”換成了蓮花的“蓮”"
+    } ]
+  }, {
+    "tStartMs": 662500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "這是一個諧音梗"
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 664866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "大家可以看到這張圖裡面呢"
+    } ]
+  }, {
+    "tStartMs": 667500,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "它周圍圍著的就不是牡丹花"
+    } ]
+  }, {
+    "tStartMs": 671200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "不是一些富貴花的圖案"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "而是蓮花"
+    } ]
+  }, {
+    "tStartMs": 675333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然後這張圖片"
+    } ]
+  }, {
+    "tStartMs": 677366,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "這是一隻Kitty手中握著一種植物"
+    } ]
+  }, {
+    "tStartMs": 683133,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "這個頭像呢"
+    } ]
+  }, {
+    "tStartMs": 684033,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "在中國的社交媒體上也同樣很火"
+    } ]
+  }, {
+    "tStartMs": 687433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "就很多人會下載下來"
+    } ]
+  }, {
+    "tStartMs": 689166,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "然後把它作為自己的社交媒體頭像"
+    } ]
+  }, {
+    "tStartMs": 694033,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "這個hello Kitty手中拿著的植物叫菖蒲"
+    } ]
+  }, {
+    "tStartMs": 698433,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "菖蒲一般是在清明節的時候使用的"
+    } ]
+  }, {
+    "tStartMs": 702133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "聽說菖蒲掛在門口可以驅邪"
+    } ]
+  }, {
+    "tStartMs": 706100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "可以辟邪"
+    } ]
+  }, {
+    "tStartMs": 707633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "傳統文化里面會說用菖蒲"
+    } ]
+  }, {
+    "tStartMs": 710100,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "然後沾水到處灑一灑"
+    } ]
+  }, {
+    "tStartMs": 713100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "可以趕走小人"
+    } ]
+  }, {
+    "tStartMs": 714933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "趕走霉運"
+    } ]
+  }, {
+    "tStartMs": 716266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 717066,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 717833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "這是這樣一個形象"
+    } ]
+  }, {
+    "tStartMs": 719366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "最後最後是特別火的"
+    } ]
+  }, {
+    "tStartMs": 722066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "大家可以看到這只hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 723733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "躺在浴缸裡面"
+    } ]
+  }, {
+    "tStartMs": 725733,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "是作為一個富婆的形像出現的"
+    } ]
+  }, {
+    "tStartMs": 728966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "它的浴缸裡面不是水"
+    } ]
+  }, {
+    "tStartMs": 730700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "而是鋪滿了金幣"
+    } ]
+  }, {
+    "tStartMs": 732966,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "哈哈"
+    } ]
+  }, {
+    "tStartMs": 733666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "這個就像徵著什麼呢"
+    } ]
+  }, {
+    "tStartMs": 735300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "象徵著這富貴的hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 737866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "啊"
+    } ]
+  }, {
+    "tStartMs": 739333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "到處"
+    } ]
+  }, {
+    "tStartMs": 741100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "都是"
+    } ]
+  }, {
+    "tStartMs": 742666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "錢"
+    } ]
+  }, {
+    "tStartMs": 745633,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "充滿"
+    } ]
+  }, {
+    "tStartMs": 748700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "錢"
+    } ]
+  }, {
+    "tStartMs": 751666,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 755433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 758733,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 759366,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 763300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 765733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 768066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 770700,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 772933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 773966,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 775400,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "​"
+    } ]
+  }, {
+    "tStartMs": 775933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "​Kitty頭像"
+    } ]
+  }, {
+    "tStartMs": 778700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "啊\n那就代表「我想要賺錢」"
+    } ]
+  }, {
+    "tStartMs": 781300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "「搞錢」最重要呀"
+    } ]
+  }, {
+    "tStartMs": 783033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈"
+    } ]
+  }, {
+    "tStartMs": 783833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "「搞錢」最重要！"
+    } ]
+  }, {
+    "tStartMs": 785466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "有的時候呢"
+    } ]
+  }, {
+    "tStartMs": 786766,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "又和另外一個比較火的話題相關"
+    } ]
+  }, {
+    "tStartMs": 790500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "那就是“玄學”"
+    } ]
+  }, {
+    "tStartMs": 794100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我也不知道這個說法是從哪裡來的"
+    } ]
+  }, {
+    "tStartMs": 797733,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "就是換頭像可以改變最近的運氣"
+    } ]
+  }, {
+    "tStartMs": 804333,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我表示無法理解"
+    } ]
+  }, {
+    "tStartMs": 806500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "比如說一些玄學博主會說"
+    } ]
+  }, {
+    "tStartMs": 808966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "1995年7月出生的"
+    } ]
+  }, {
+    "tStartMs": 811966,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "最近呢"
+    } ]
+  }, {
+    "tStartMs": 812466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "需要換上一個綠色的頭像"
+    } ]
+  }, {
+    "tStartMs": 814833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "那 哎"
+    } ]
+  }, {
+    "tStartMs": 816200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "開心"
+    } ]
+  }, {
+    "tStartMs": 817866,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "選來\n選去"
+    } ]
+  }, {
+    "tStartMs": 819833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "那個綠色"
+    } ]
+  }, {
+    "tStartMs": 822666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 824133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "頭Kitty手拿菖蒲的頭像"
+    } ]
+  }, {
+    "tStartMs": 827800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "聽說可以避小人"
+    } ]
+  }, {
+    "tStartMs": 829833,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "聽說可以轉運"
+    } ]
+  }, {
+    "tStartMs": 831700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "在中國"
+    } ]
+  }, {
+    "tStartMs": 832900,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "如果說最近你特別特別想要談戀愛"
+    } ]
+  }, {
+    "tStartMs": 836333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "你就要透過一些方式來「招引桃花」"
+    } ]
+  }, {
+    "tStartMs": 841133,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "「招桃花」"
+    } ]
+  }, {
+    "tStartMs": 842633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那招桃花在玄學領域"
+    } ]
+  }, {
+    "tStartMs": 845333,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "最常見最常見的一個做法就是"
+    } ]
+  }, {
+    "tStartMs": 848100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "穿粉紅色(的衣服）"
+    } ]
+  }, {
+    "tStartMs": 849866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "佩戴粉紅色的水晶"
+    } ]
+  }, {
+    "tStartMs": 852433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "粉水晶特別招桃花"
+    } ]
+  }, {
+    "tStartMs": 854566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "還有就是給自己的頭像"
+    } ]
+  }, {
+    "tStartMs": 856566,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "換成這種粉粉嫩嫩的"
+    } ]
+  }, {
+    "tStartMs": 859000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "花開富貴"
+    } ]
+  }, {
+    "tStartMs": 860600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "好運連連的頭像"
+    } ]
+  }, {
+    "tStartMs": 864333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 865600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就讓我覺得特別有意思"
+    } ]
+  }, {
+    "tStartMs": 867533,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "就很奇怪"
+    } ]
+  }, {
+    "tStartMs": 868833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我想 這"
+    } ]
+  }, {
+    "tStartMs": 870200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "件事情"
+    } ]
+  }, {
+    "tStartMs": 872033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "沉迷於我想知道這件事情又讓我想"
+    } ]
+  }, {
+    "tStartMs": 874033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "這 件事"
+    } ]
+  }, {
+    "tStartMs": 875966,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "話題"
+    } ]
+  }, {
+    "tStartMs": 878166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "然後"
+    } ]
+  }, {
+    "tStartMs": 879366,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "又因為抖音快手各種社交媒體的轟炸"
+    } ]
+  }, {
+    "tStartMs": 883333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "她有一段時間就迷信這種東西"
+    } ]
+  }, {
+    "tStartMs": 886633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "然後有某位大師吧"
+    } ]
+  }, {
+    "tStartMs": 889033,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "可能就是在他的視頻裡面有提到過"
+    } ]
+  }, {
+    "tStartMs": 892566,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "說現在的女孩子都喜歡把"
+    } ]
+  }, {
+    "tStartMs": 894900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "把自己養的寵物來作為頭像"
+    } ]
+  }, {
+    "tStartMs": 898133,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "這個其實"
+    } ]
+  }, {
+    "tStartMs": 899100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "是破壞“運”的一種行為"
+    } ]
+  }, {
+    "tStartMs": 902100,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不太"
+    } ]
+  }, {
+    "tStartMs": 903633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "好"
+    } ]
+  }, {
+    "tStartMs": 907433,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "我之前"
+    } ]
+  }, {
+    "tStartMs": 911966,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "用微信"
+    } ]
+  }, {
+    "tStartMs": 915200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "就會再加一句："
+    } ]
+  }, {
+    "tStartMs": 917133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "「你趕緊把你那個頭像換了！」"
+    } ]
+  }, {
+    "tStartMs": 919566,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "「不好！」之類的"
+    } ]
+  }, {
+    "tStartMs": 921300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我跟她爭吵了很多回"
+    } ]
+  }, {
+    "tStartMs": 922700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "但是她就是會一遍一遍地說"
+    } ]
+  }, {
+    "tStartMs": 925266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那就很神奇"
+    } ]
+  }, {
+    "tStartMs": 926466,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "對吧"
+    } ]
+  }, {
+    "tStartMs": 927233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "每個說法又不一樣"
+    } ]
+  }, {
+    "tStartMs": 928933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我不能夠放自己的貓"
+    } ]
+  }, {
+    "tStartMs": 930733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但是放Hello Kitty又可以招桃花"
+    } ]
+  }, {
+    "tStartMs": 933333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "又可以趕小人"
+    } ]
+  }, {
+    "tStartMs": 934666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "這是什麼說法呢"
+    } ]
+  }, {
+    "tStartMs": 936033,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我就會覺得很神奇"
+    } ]
+  }, {
+    "tStartMs": 937633,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "這個牛頭不對馬嘴的說法"
+    } ]
+  }, {
+    "tStartMs": 939700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "對嗎"
+    } ]
+  }, {
+    "tStartMs": 940800,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "其實大家也可以看到這些圖片呢"
+    } ]
+  }, {
+    "tStartMs": 944133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "有一點點擺爛"
+    } ]
+  }, {
+    "tStartMs": 945866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "有一點點叛逆"
+    } ]
+  }, {
+    "tStartMs": 947466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "它和原始的那種很可愛的"
+    } ]
+  }, {
+    "tStartMs": 949633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "只是一個很簡單的卡通形象呢"
+    } ]
+  }, {
+    "tStartMs": 952100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "已經不一樣了"
+    } ]
+  }, {
+    "tStartMs": 953933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "再包括 其實在裡面"
+    } ]
+  }, {
+    "tStartMs": 955233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "hello Kitty原著"
+    } ]
+  }, {
+    "tStartMs": 958066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Kitty會常常語不驚人死不休"
+    } ]
+  }, {
+    "tStartMs": 961600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "它會常常帶著這種毒舌"
+    } ]
+  }, {
+    "tStartMs": 964033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "會莫名其妙的說出來"
+    } ]
+  }, {
+    "tStartMs": 966233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "啊\n「你們都是神經病！」"
+    } ]
+  }, {
+    "tStartMs": 968066,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "這種很可愛的毒舌語錄"
+    } ]
+  }, {
+    "tStartMs": 970800,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "再加上這些"
+    } ]
+  }, {
+    "tStartMs": 973333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "有些擺爛"
+    } ]
+  }, {
+    "tStartMs": 974733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有一點發瘋"
+    } ]
+  }, {
+    "tStartMs": 976200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "甚至帶著反骨的二次創作"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "所以我覺得這也是為什麼"
+    } ]
+  }, {
+    "tStartMs": 981566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Hello Kitty現在在年輕人裡面"
+    } ]
+  }, {
+    "tStartMs": 984333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "可以再次火爆的一個原因"
+    } ]
+  }, {
+    "tStartMs": 987933,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "當然"
+    } ]
+  }, {
+    "tStartMs": 988400,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我覺得大家也不是真的迷信這些頭像"
+    } ]
+  }, {
+    "tStartMs": 991633,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "覺得可以透過換頭像這件事情"
+    } ]
+  }, {
+    "tStartMs": 994666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "就能夠改變我們當下的命運"
+    } ]
+  }, {
+    "tStartMs": 997600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "可能也只是"
+    } ]
+  }, {
+    "tStartMs": 999066,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "在不那麼重要的東西上面寄託一點點的希望"
+    } ]
+  }, {
+    "tStartMs": 1003933,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "這是一個最低成本的轉運儀式而已"
+    } ]
+  }, {
+    "tStartMs": 1008500,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "當我們沒有力氣改變現狀的時候"
+    } ]
+  }, {
+    "tStartMs": 1011533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "至少我還能夠決定我今天會用"
+    } ]
+  }, {
+    "tStartMs": 1014233,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "什麼樣 的"
+    } ]
+  }, {
+    "tStartMs": 1018600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "頭"
+    } ]
+  }, {
+    "tStartMs": 1020066,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 1020700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "言的"
+    } ]
+  }, {
+    "tStartMs": 1023233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "這些朋友們的頭像"
+    } ]
+  }, {
+    "tStartMs": 1025066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我發現很多人並沒有修改他們的頭像"
+    } ]
+  }, {
+    "tStartMs": 1027933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "只是用了一個默認的"
+    } ]
+  }, {
+    "tStartMs": 1030866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "名字生成的一個頭像"
+    } ]
+  }, {
+    "tStartMs": 1033666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "大家對於頭像會有什麼樣的看法呢"
+    } ]
+  }, {
+    "tStartMs": 1037300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "你們日常會選擇一些玄學的方式"
+    } ]
+  }, {
+    "tStartMs": 1040866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "幫助"
+    } ]
+  }, {
+    "tStartMs": 1044300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "自己"
+    } ]
+  }, {
+    "tStartMs": 1046533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "改一點點"
+    } ]
+  }, {
+    "tStartMs": 1047733,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "運氣"
+    } ]
+  }, {
+    "tStartMs": 1052266,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "嗎"
+    } ]
+  }, {
+    "tStartMs": 1055166,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "還是說你們更願意"
+    } ]
+  }, {
+    "tStartMs": 1055933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "相信"
+    } ]
+  }, {
+    "tStartMs": 1058333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "腳踏實地"
+    } ]
+  }, {
+    "tStartMs": 1060033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "的"
+    } ]
+  }, {
+    "tStartMs": 1061766,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "觀點"
+    } ]
+  }, {
+    "tStartMs": 1064866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "呢"
+    } ]
+  } ]
+}

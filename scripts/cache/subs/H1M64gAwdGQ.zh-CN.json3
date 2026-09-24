@@ -1,0 +1,2611 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "hello hello"
+    } ]
+  }, {
+    "tStartMs": 2033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "大家好我是猫咪卡"
+    } ]
+  }, {
+    "tStartMs": 4466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "欢迎来到我的频道"
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "今天呢想要和大家更新一期vlog"
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "因为呢我刚刚从健身房健身回来"
+    } ]
+  }, {
+    "tStartMs": 16866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "最近我发现我们家附近呢"
+    } ]
+  }, {
+    "tStartMs": 19866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "开了一家新的健身房"
+    } ]
+  }, {
+    "tStartMs": 22500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然后环境不错"
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "嗯我想着春天来了"
+    } ]
+  }, {
+    "tStartMs": 26833,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我这一只冬眠的动物可以"
+    } ]
+  }, {
+    "tStartMs": 30466,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "出洞了"
+    } ]
+  }, {
+    "tStartMs": 31333,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "可以出门去看一看"
+    } ]
+  }, {
+    "tStartMs": 33900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "然后呢我就去这家健身房体验了一下"
+    } ]
+  }, {
+    "tStartMs": 37300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "那我呢"
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "刚刚从健身房运动了一会会回家"
+    } ]
+  }, {
+    "tStartMs": 42133,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我要给自己"
+    } ]
+  }, {
+    "tStartMs": 44466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "做一顿饭哈哈"
+    } ]
+  }, {
+    "tStartMs": 46533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我是很少做饭的人啊"
+    } ]
+  }, {
+    "tStartMs": 49233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "因为我的爸爸妈妈就住在附近"
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我经常回家吃饭"
+    } ]
+  }, {
+    "tStartMs": 54133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那我今天呢"
+    } ]
+  }, {
+    "tStartMs": 54933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "想要给大家分享一下"
+    } ]
+  }, {
+    "tStartMs": 57200,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "自己做一个快手餐"
+    } ]
+  }, {
+    "tStartMs": 59466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "首先呢"
+    } ]
+  }, {
+    "tStartMs": 60266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "想要和大家来分享一下今天的食材"
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "这个呢是一盒三文鱼碎肉"
+    } ]
+  }, {
+    "tStartMs": 69966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "就是切碎的三文鱼肉"
+    } ]
+  }, {
+    "tStartMs": 73933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后呢这个是鸡蛋嗯"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这个呢是卷饼"
+    } ]
+  }, {
+    "tStartMs": 80966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "大家可以看哦"
+    } ]
+  }, {
+    "tStartMs": 82033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这个是需要冷冻保存的"
+    } ]
+  }, {
+    "tStartMs": 85800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "卷饼"
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "嗯我感觉这个卷饼应该很健康"
+    } ]
+  }, {
+    "tStartMs": 91533,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "它上面写着蛋白质很高"
+    } ]
+  }, {
+    "tStartMs": 95533,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "然后呢GI值又很低"
+    } ]
+  }, {
+    "tStartMs": 100433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "然后这个呢"
+    } ]
+  }, {
+    "tStartMs": 101633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "是一包沙拉菜"
+    } ]
+  }, {
+    "tStartMs": 103966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我很喜欢吃这个芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "我很喜欢吃这种沙拉菜里面的芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 111600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "然后同时呢我还有"
+    } ]
+  }, {
+    "tStartMs": 115166,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一罐这个辣酱"
+    } ]
+  }, {
+    "tStartMs": 118333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 119200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我等一下会来做一个卷饼"
+    } ]
+  }, {
+    "tStartMs": 123433,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "就是鸡蛋炒三文鱼卷饼"
+    } ]
+  }, {
+    "tStartMs": 130200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好的"
+    } ]
+  }, {
+    "tStartMs": 134033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这个饼呢"
+    } ]
+  }, {
+    "tStartMs": 135200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "它是冷冻的"
+    } ]
+  }, {
+    "tStartMs": 136600,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "所以呢我先要拿一张饼出来热一下"
+    } ]
+  }, {
+    "tStartMs": 142700,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这是一张圆的饼"
+    } ]
+  }, {
+    "tStartMs": 145066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "一般饼都是圆的"
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "这是一个圆形的饼"
+    } ]
+  }, {
+    "tStartMs": 149366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "好的把它放到锅里面"
+    } ]
+  }, {
+    "tStartMs": 159633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "给大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 161166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "那就是把这个饼放在"
+    } ]
+  }, {
+    "tStartMs": 164333,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "平底锅里面热一下就好"
+    } ]
+  }, {
+    "tStartMs": 170433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这个饼呢"
+    } ]
+  }, {
+    "tStartMs": 171466,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "慢慢的散发出来了一点点香味"
+    } ]
+  }, {
+    "tStartMs": 180700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "然后这个时候呢"
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我会拿出一颗鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "然后打鸡蛋放在这个饼的上面"
+    } ]
+  }, {
+    "tStartMs": 198366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "然后呢搅拌搅拌"
+    } ]
+  }, {
+    "tStartMs": 205133,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "把这个鸡蛋均匀地铺在饼的上面"
+    } ]
+  }, {
+    "tStartMs": 213566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个鸡蛋的颜色很好看"
+    } ]
+  }, {
+    "tStartMs": 226566,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "然后把这个饼翻一个面"
+    } ]
+  }, {
+    "tStartMs": 232633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "哈哈哈我的火开的特别的小"
+    } ]
+  }, {
+    "tStartMs": 236333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "所以呢"
+    } ]
+  }, {
+    "tStartMs": 237233,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "不是很烫哦"
+    } ]
+  }, {
+    "tStartMs": 238200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "我是用手直接操作的"
+    } ]
+  }, {
+    "tStartMs": 242433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我们还是文明一点"
+    } ]
+  }, {
+    "tStartMs": 244066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "用铲子来吧"
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "等到鸡蛋都熟了之后呢"
+    } ]
+  }, {
+    "tStartMs": 253533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "把这个饼拿出来"
+    } ]
+  }, {
+    "tStartMs": 256933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "放到盘子里面"
+    } ]
+  }, {
+    "tStartMs": 259200,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个时候呢"
+    } ]
+  }, {
+    "tStartMs": 260333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我需要把三文鱼炒一下"
+    } ]
+  }, {
+    "tStartMs": 264033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我买的这个三文鱼"
+    } ]
+  }, {
+    "tStartMs": 265666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它是需要加热才能吃的"
+    } ]
+  }, {
+    "tStartMs": 269333,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "首先我会在锅里面加一点油"
+    } ]
+  }, {
+    "tStartMs": 279600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "然后把三文鱼"
+    } ]
+  }, {
+    "tStartMs": 281133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "碎鱼肉倒进去哦"
+    } ]
+  }, {
+    "tStartMs": 287966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "然后炒一炒"
+    } ]
+  }, {
+    "tStartMs": 299166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "放一点黑胡椒"
+    } ]
+  }, {
+    "tStartMs": 301233,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "继续炒一炒"
+    } ]
+  }, {
+    "tStartMs": 304866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我要打开这个罐头"
+    } ]
+  }, {
+    "tStartMs": 312533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "给大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "这个罐头里面呢"
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "是一种牛肉酱"
+    } ]
+  }, {
+    "tStartMs": 318266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然后呢它是辣的"
+    } ]
+  }, {
+    "tStartMs": 322366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我要用勺子挖一勺"
+    } ]
+  }, {
+    "tStartMs": 331366,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "把它抹在这个饼上面"
+    } ]
+  }, {
+    "tStartMs": 339500,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "让我来尝一下这个到底有多辣"
+    } ]
+  }, {
+    "tStartMs": 346166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "嗯有一点点辣的"
+    } ]
+  }, {
+    "tStartMs": 353266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "但是很鲜哎"
+    } ]
+  }, {
+    "tStartMs": 355066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这个辣椒酱很好吃"
+    } ]
+  }, {
+    "tStartMs": 358700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "因为我觉得单独的吃"
+    } ]
+  }, {
+    "tStartMs": 361900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "三文鱼碎的话会有一点腥味"
+    } ]
+  }, {
+    "tStartMs": 365100,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "所以呢要用一个辣酱盖住它的腥味"
+    } ]
+  }, {
+    "tStartMs": 373766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "接下来把这个三文鱼"
+    } ]
+  }, {
+    "tStartMs": 377100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "炒好的三文鱼肉"
+    } ]
+  }, {
+    "tStartMs": 379433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "把它放到饼上面"
+    } ]
+  }, {
+    "tStartMs": 392666,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "然后再加一点点这个生菜"
+    } ]
+  }, {
+    "tStartMs": 397900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这个芝麻菜"
+    } ]
+  }, {
+    "tStartMs": 408800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好啦"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "然后呢哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 414433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "希望不要翻车哦"
+    } ]
+  }, {
+    "tStartMs": 415933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "把它卷起来"
+    } ]
+  }, {
+    "tStartMs": 425266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "啊哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 428333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后就卷起来卷好啦嗯"
+    } ]
+  }, {
+    "tStartMs": 430933,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "然后就卷起来卷好啦嗯"
+    } ]
+  }, {
+    "tStartMs": 432266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "一般这样呢我会嗯"
+    } ]
+  }, {
+    "tStartMs": 454300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "然后把它卷起来"
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "卷起来之后呢"
+    } ]
+  }, {
+    "tStartMs": 461700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这个样子吃它可能会漏下来对吧"
+    } ]
+  }, {
+    "tStartMs": 466266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "我会用一张油纸嗯"
+    } ]
+  }, {
+    "tStartMs": 470066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这就是烘焙用的纸"
+    } ]
+  }, {
+    "tStartMs": 475833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "嗯给它卷一下"
+    } ]
+  }, {
+    "tStartMs": 478333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "就好啦给大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 479333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "就好啦给大家看一下哦"
+    } ]
+  }, {
+    "tStartMs": 491833,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "就好啦给大家看一下这个成品"
+    } ]
+  }, {
+    "tStartMs": 496033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "卖相还是不错的对吧"
+    } ]
+  }, {
+    "tStartMs": 498233,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "而且呢这个我感觉蛋白质也比较充足"
+    } ]
+  }, {
+    "tStartMs": 503633,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "维生素也有"
+    } ]
+  }, {
+    "tStartMs": 505333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "啊纤维也有对吧"
+    } ]
+  }, {
+    "tStartMs": 507033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "应该是比较健康的"
+    } ]
+  }, {
+    "tStartMs": 508566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "所以我先来尝一口"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "看看好吃不好吃"
+    } ]
+  }, {
+    "tStartMs": 526966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "嗯我还没有吃到肉"
+    } ]
+  }, {
+    "tStartMs": 528966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我再来吃一口"
+    } ]
+  }, {
+    "tStartMs": 540066,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": "没有翻车很好吃嗯嗯嗯"
+    } ]
+  }, {
+    "tStartMs": 553200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "救命呀"
+    } ]
+  }, {
+    "tStartMs": 555066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这个辣油"
+    } ]
+  }, {
+    "tStartMs": 559866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "流到了地上"
+    } ]
+  }, {
+    "tStartMs": 561266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我要处理一下"
+    } ]
+  }, {
+    "tStartMs": 565066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "因为最近其实是春天"
+    } ]
+  }, {
+    "tStartMs": 567700,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "春天呢是一个很容易过敏的季节"
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我还记得上上周开始的时候"
+    } ]
+  }, {
+    "tStartMs": 575033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我和我的学生都同时"
+    } ]
+  }, {
+    "tStartMs": 576866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "在镜头里面流眼泪"
+    } ]
+  }, {
+    "tStartMs": 579066,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我觉得特别有意思"
+    } ]
+  }, {
+    "tStartMs": 583200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "就是因为我们都在春天过敏嗯"
+    } ]
+  }, {
+    "tStartMs": 587333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这两天稍微好一点了"
+    } ]
+  }, {
+    "tStartMs": 589233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "每年的春天"
+    } ]
+  }, {
+    "tStartMs": 591100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "某种花第一次开放的"
+    } ]
+  }, {
+    "tStartMs": 593400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "第一个星期的时候呢"
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我的过敏症状会特别严重"
+    } ]
+  }, {
+    "tStartMs": 598166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "就是我眼睛睁不开"
+    } ]
+  }, {
+    "tStartMs": 600166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "然后会不停地流眼泪"
+    } ]
+  }, {
+    "tStartMs": 602700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "然后鼻子也会流鼻涕"
+    } ]
+  }, {
+    "tStartMs": 605100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "嗯这个就是我全部的过敏症状"
+    } ]
+  }, {
+    "tStartMs": 608233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "最近已经好很多了"
+    } ]
+  }, {
+    "tStartMs": 609900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "然后天气暖和了起来呢"
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我也比较愿意出门"
+    } ]
+  }, {
+    "tStartMs": 614366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "所以最近我"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我去了健身房"
+    } ]
+  }, {
+    "tStartMs": 618666,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "然后呢"
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我还恢复了我每个星期一次的游泳"
+    } ]
+  }, {
+    "tStartMs": 622066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "嗯我还是要运动运动"
+    } ]
+  }, {
+    "tStartMs": 624800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "保持身体健康"
+    } ]
+  }, {
+    "tStartMs": 627300,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "很感谢最近有一些Youtube的观众朋友们"
+    } ]
+  }, {
+    "tStartMs": 631666,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "对我教育事业的支持"
+    } ]
+  }, {
+    "tStartMs": 636166,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "有一些朋友去我的italki订了课啊"
+    } ]
+  }, {
+    "tStartMs": 639100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "上了我的Freetalk的课嗯"
+    } ]
+  }, {
+    "tStartMs": 642800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但是他们从来都没有在"
+    } ]
+  }, {
+    "tStartMs": 644200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我的频道里面留言哎"
+    } ]
+  }, {
+    "tStartMs": 645966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "有很多朋友跟我聊的比较开心"
+    } ]
+  }, {
+    "tStartMs": 648600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我也觉得比较荣幸吧"
+    } ]
+  }, {
+    "tStartMs": 651000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "自己的经历能够吸引到一些人"
+    } ]
+  }, {
+    "tStartMs": 654300,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然后让大家保持对"
+    } ]
+  }, {
+    "tStartMs": 655933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这个世界的一些好奇感"
+    } ]
+  }, {
+    "tStartMs": 658133,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "但是我其实在最近的对谈过程里面呢"
+    } ]
+  }, {
+    "tStartMs": 661500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我也发现我好像"
+    } ]
+  }, {
+    "tStartMs": 663900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "相比于二十几岁的时候"
+    } ]
+  }, {
+    "tStartMs": 667300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "我感觉自己的世界有"
+    } ]
+  }, {
+    "tStartMs": 668966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "一点点封闭了起来"
+    } ]
+  }, {
+    "tStartMs": 671066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "尤其是可能近两年呢"
+    } ]
+  }, {
+    "tStartMs": 673366,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "我生活的状态发生了一个很大的改变"
+    } ]
+  }, {
+    "tStartMs": 676800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "这个就让我某种程度上而言呢"
+    } ]
+  }, {
+    "tStartMs": 679733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "更加的封闭了"
+    } ]
+  }, {
+    "tStartMs": 681933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "嗯啊"
+    } ]
+  }, {
+    "tStartMs": 682966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我自己也在想哦"
+    } ]
+  }, {
+    "tStartMs": 684266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "就是这种封闭它是好事还是坏事"
+    } ]
+  }, {
+    "tStartMs": 687700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我暂时呢"
+    } ]
+  }, {
+    "tStartMs": 688666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我还不会得到一个很好的答案"
+    } ]
+  }, {
+    "tStartMs": 691600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "但是我同时呢"
+    } ]
+  }, {
+    "tStartMs": 692933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "又很感谢我的一些学生们"
+    } ]
+  }, {
+    "tStartMs": 695766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "他们让我在一个很封闭的世界里面"
+    } ]
+  }, {
+    "tStartMs": 698933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "还保持着和这个世界的一些联系"
+    } ]
+  }, {
+    "tStartMs": 702766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "所以我每周上课我都很开心"
+    } ]
+  }, {
+    "tStartMs": 705433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "有很多的朋友上我的课"
+    } ]
+  }, {
+    "tStartMs": 706933,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "第一件事情都是问我啊"
+    } ]
+  }, {
+    "tStartMs": 708600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "你自己满意你现在的现状吗"
+    } ]
+  }, {
+    "tStartMs": 711833,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "然后我会说"
+    } ]
+  }, {
+    "tStartMs": 712700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "目前还是满意的对"
+    } ]
+  }, {
+    "tStartMs": 714500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 715066,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "目前我还是很开心这样一个状态嗯"
+    } ]
+  }, {
+    "tStartMs": 718933,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "一方面呢"
+    } ]
+  }, {
+    "tStartMs": 719633,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "做着没有一些情绪负担的教育工作"
+    } ]
+  }, {
+    "tStartMs": 723900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "一方面呢"
+    } ]
+  }, {
+    "tStartMs": 724700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "和学生之间的交流也很顺畅"
+    } ]
+  }, {
+    "tStartMs": 727800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "然后教学生学习一门语言呢"
+    } ]
+  }, {
+    "tStartMs": 731066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "让我也比较有成就感"
+    } ]
+  }, {
+    "tStartMs": 733200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "包括我在大学里面的工作"
+    } ]
+  }, {
+    "tStartMs": 735400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我也有一些成就感"
+    } ]
+  }, {
+    "tStartMs": 736800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "因为嗯有一些学生可能在学期"
+    } ]
+  }, {
+    "tStartMs": 741066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一开始的时候有很多的问题"
+    } ]
+  }, {
+    "tStartMs": 743333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "写作业写paper的时候有很多的问题那"
+    } ]
+  }, {
+    "tStartMs": 746366,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "在经过两三个月的训练之后啊"
+    } ]
+  }, {
+    "tStartMs": 750900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有很多学生呢"
+    } ]
+  }, {
+    "tStartMs": 752100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "进步地比较快"
+    } ]
+  }, {
+    "tStartMs": 753366,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "每次学生的进步"
+    } ]
+  }, {
+    "tStartMs": 755100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "都会让我有很大的一个成就感"
+    } ]
+  }, {
+    "tStartMs": 757766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我觉得这个可能是做"
+    } ]
+  }, {
+    "tStartMs": 759533,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "老师的另外一个好处吧哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "所以有很多朋友问我"
+    } ]
+  }, {
+    "tStartMs": 765100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "是不是很满意现在的状态"
+    } ]
+  }, {
+    "tStartMs": 767600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "那我觉得说目前我是很满意的嗯"
+    } ]
+  }, {
+    "tStartMs": 771700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "有没有什么不满的地方"
+    } ]
+  }, {
+    "tStartMs": 774500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "啊暂时也没有什么不满的地方嘛"
+    } ]
+  }, {
+    "tStartMs": 777366,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我不满我从来不会对别人不满"
+    } ]
+  }, {
+    "tStartMs": 779933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我永远都是对我自己不满"
+    } ]
+  }, {
+    "tStartMs": 781933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "那我可能会觉得嗯春天来了嘛"
+    } ]
+  }, {
+    "tStartMs": 785366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "心态又不太一样"
+    } ]
+  }, {
+    "tStartMs": 787400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "天气比较暖和了"
+    } ]
+  }, {
+    "tStartMs": 788533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "我也比较愿意出门"
+    } ]
+  }, {
+    "tStartMs": 790066,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我可能近期想的是多多去健身房"
+    } ]
+  }, {
+    "tStartMs": 793766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "多多去运动"
+    } ]
+  }, {
+    "tStartMs": 795000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "让自己的身体更好一点"
+    } ]
+  }, {
+    "tStartMs": 796900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "其实呢"
+    } ]
+  }, {
+    "tStartMs": 797966,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "这段时间我感觉我的睡眠其实也不好"
+    } ]
+  }, {
+    "tStartMs": 801100,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "嗯我睡眠还有个不好的原因"
+    } ]
+  }, {
+    "tStartMs": 804900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我睡眠还有一个不好的原因"
+    } ]
+  }, {
+    "tStartMs": 806666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "是因为我楼上的邻居呢"
+    } ]
+  }, {
+    "tStartMs": 809100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "他有一点点奇怪"
+    } ]
+  }, {
+    "tStartMs": 811266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "啊我已经跟他吵过两三次架"
+    } ]
+  }, {
+    "tStartMs": 813533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然后他已经把我拉黑了"
+    } ]
+  }, {
+    "tStartMs": 815166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "不愿意跟我再沟通了"
+    } ]
+  }, {
+    "tStartMs": 817100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我也对他很无语"
+    } ]
+  }, {
+    "tStartMs": 819033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "就是我楼上的邻居"
+    } ]
+  }, {
+    "tStartMs": 823066,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "他一个星期可能就回来住两三个晚上"
+    } ]
+  }, {
+    "tStartMs": 827366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 828766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这两三个晚上他不睡觉"
+    } ]
+  }, {
+    "tStartMs": 832433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "他不睡觉ok啊"
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "你在家可以打游戏"
+    } ]
+  }, {
+    "tStartMs": 835933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "可以看电视"
+    } ]
+  }, {
+    "tStartMs": 837066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "都可以没有问题"
+    } ]
+  }, {
+    "tStartMs": 838933,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "但是他半夜打扫卫生"
+    } ]
+  }, {
+    "tStartMs": 842133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "半夜用吸尘器"
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这个我不能忍呀"
+    } ]
+  }, {
+    "tStartMs": 847300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后他半夜"
+    } ]
+  }, {
+    "tStartMs": 848933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "他不是在客厅里面"
+    } ]
+  }, {
+    "tStartMs": 850766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "如果在客厅里面打扫卫生"
+    } ]
+  }, {
+    "tStartMs": 853033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我睡在房间里面"
+    } ]
+  }, {
+    "tStartMs": 854900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "我睡在卧室里面"
+    } ]
+  }, {
+    "tStartMs": 856166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我是听不见的"
+    } ]
+  }, {
+    "tStartMs": 857866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "但是没有呀"
+    } ]
+  }, {
+    "tStartMs": 859933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "他半夜的时候只在"
+    } ]
+  }, {
+    "tStartMs": 862900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "他的卧室里面打扫卫生"
+    } ]
+  }, {
+    "tStartMs": 865100,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "或者做一些什么"
+    } ]
+  }, {
+    "tStartMs": 866466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我也不知道的事情"
+    } ]
+  }, {
+    "tStartMs": 868266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就是声音很大"
+    } ]
+  }, {
+    "tStartMs": 869733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我有跟他沟通过"
+    } ]
+  }, {
+    "tStartMs": 871266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "第一次我跟他沟通的时候"
+    } ]
+  }, {
+    "tStartMs": 874633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "因为他很少回来住"
+    } ]
+  }, {
+    "tStartMs": 876233,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我以为他把他的房子租给了别人了"
+    } ]
+  }, {
+    "tStartMs": 879533,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "我就问他"
+    } ]
+  }, {
+    "tStartMs": 880433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我说邻居你你们家是"
+    } ]
+  }, {
+    "tStartMs": 883033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "租房子给别人了吗"
+    } ]
+  }, {
+    "tStartMs": 885066,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "然后他说没有啊"
+    } ]
+  }, {
+    "tStartMs": 886433,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我们家没有人"
+    } ]
+  }, {
+    "tStartMs": 888100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "那个时候是夜里面2点半"
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "然后我就站在他家门口"
+    } ]
+  }, {
+    "tStartMs": 892366,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "我说你们家灯亮着有人的呀"
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "需不需要我报警呀"
+    } ]
+  }, {
+    "tStartMs": 897366,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "对吧"
+    } ]
+  }, {
+    "tStartMs": 898000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "你说你不在家"
+    } ]
+  }, {
+    "tStartMs": 899500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但是你们家有人"
+    } ]
+  }, {
+    "tStartMs": 900900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "动静还这么大"
+    } ]
+  }, {
+    "tStartMs": 903133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我当然要报警呀对吧"
+    } ]
+  }, {
+    "tStartMs": 905700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然后呢他就不理我"
+    } ]
+  }, {
+    "tStartMs": 908000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "呃到了第二天下午的时候"
+    } ]
+  }, {
+    "tStartMs": 910133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "他说啊我们家可能有一只狗走来走去"
+    } ]
+  }, {
+    "tStartMs": 913933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那我就知道这个人在撒谎"
+    } ]
+  }, {
+    "tStartMs": 916100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "嗯我也没有办法对吧"
+    } ]
+  }, {
+    "tStartMs": 918366,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "后来呢"
+    } ]
+  }, {
+    "tStartMs": 918833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我就不跟他直接沟通"
+    } ]
+  }, {
+    "tStartMs": 920266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就跟物业去沟通"
+    } ]
+  }, {
+    "tStartMs": 922166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我说能不能帮忙跟那个邻居说一下"
+    } ]
+  }, {
+    "tStartMs": 925466,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "这个房子的隔音效果不太好"
+    } ]
+  }, {
+    "tStartMs": 930633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "能不能半夜的时候不要打扫卫生"
+    } ]
+  }, {
+    "tStartMs": 933300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 935500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "然后呢嗯"
+    } ]
+  }, {
+    "tStartMs": 936866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "也不知道怎么回事"
+    } ]
+  }, {
+    "tStartMs": 938133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "可能是呃有一点点激怒了他吧"
+    } ]
+  }, {
+    "tStartMs": 941700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "有一些人就是会恼羞成怒啊"
+    } ]
+  }, {
+    "tStartMs": 943800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "他撒谎被别人戳穿了"
+    } ]
+  }, {
+    "tStartMs": 946900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "然后呢就会恼羞成怒"
+    } ]
+  }, {
+    "tStartMs": 949166,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "他反正没有任何的改变"
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "接下来的几次呢"
+    } ]
+  }, {
+    "tStartMs": 953033,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "因为他告诉我说说他一个星期就只来一两天"
+    } ]
+  }, {
+    "tStartMs": 958233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "其实呢 不是一两天"
+    } ]
+  }, {
+    "tStartMs": 959133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "他回来的动静很大"
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我都能够听见"
+    } ]
+  }, {
+    "tStartMs": 962200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我知道他哪一天回来了"
+    } ]
+  }, {
+    "tStartMs": 964133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "那anyway不重要"
+    } ]
+  }, {
+    "tStartMs": 965366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那就说明他不是每天都住在这里的"
+    } ]
+  }, {
+    "tStartMs": 967666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "对吗"
+    } ]
+  }, {
+    "tStartMs": 968433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "但是过年的时候"
+    } ]
+  }, {
+    "tStartMs": 970400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个冲突有一点点升级"
+    } ]
+  }, {
+    "tStartMs": 972933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就大过年的"
+    } ]
+  }, {
+    "tStartMs": 974566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后他在家里"
+    } ]
+  }, {
+    "tStartMs": 975866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "夜里面差不多12点多"
+    } ]
+  }, {
+    "tStartMs": 978433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "一点钟的时候"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "他又把他的吸尘器拿了出来"
+    } ]
+  }, {
+    "tStartMs": 982466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "这个时候呢"
+    } ]
+  }, {
+    "tStartMs": 983400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我就给他发消息"
+    } ]
+  }, {
+    "tStartMs": 985166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "发消息我发现我的消息发不出去"
+    } ]
+  }, {
+    "tStartMs": 987500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "因为他把我拉黑了哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 990366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "然后我就不能忍啊"
+    } ]
+  }, {
+    "tStartMs": 992066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "那个时候我刚刚睡着"
+    } ]
+  }, {
+    "tStartMs": 994400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然后吸尘器的声音震得很大"
+    } ]
+  }, {
+    "tStartMs": 997100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "把我吵醒了之后"
+    } ]
+  }, {
+    "tStartMs": 998500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我就直接跑到楼上去敲他的门"
+    } ]
+  }, {
+    "tStartMs": 1001433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "他们家里面有四个人"
+    } ]
+  }, {
+    "tStartMs": 1003500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "全部都不睡觉"
+    } ]
+  }, {
+    "tStartMs": 1005400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "灯火通明的"
+    } ]
+  }, {
+    "tStartMs": 1006766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "坐在客厅里面嗑瓜子聊天"
+    } ]
+  }, {
+    "tStartMs": 1009666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后还有一个女的"
+    } ]
+  }, {
+    "tStartMs": 1011066,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我也不知道是不是房东还是谁"
+    } ]
+  }, {
+    "tStartMs": 1013466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "然后拎着一个吸尘器"
+    } ]
+  }, {
+    "tStartMs": 1014900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "从房间里面出来问我"
+    } ]
+  }, {
+    "tStartMs": 1016400,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "你要做什么"
+    } ]
+  }, {
+    "tStartMs": 1017633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我说能不能麻烦你们"
+    } ]
+  }, {
+    "tStartMs": 1019466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "半夜的时候不要用吸尘器呢"
+    } ]
+  }, {
+    "tStartMs": 1022100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "声音确实有点大"
+    } ]
+  }, {
+    "tStartMs": 1023933,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "然后这位女士突然就说"
+    } ]
+  }, {
+    "tStartMs": 1028233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我也没有每天都用吧"
+    } ]
+  }, {
+    "tStartMs": 1031100,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "然后我就觉得很奇怪怎么着"
+    } ]
+  }, {
+    "tStartMs": 1034066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "你应该每天都半夜用"
+    } ]
+  }, {
+    "tStartMs": 1036666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "吸尘器打扰别人的休息吗"
+    } ]
+  }, {
+    "tStartMs": 1039666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "对吧"
+    } ]
+  }, {
+    "tStartMs": 1040366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我就觉得很震惊"
+    } ]
+  }, {
+    "tStartMs": 1041600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "为什么会说出这样的话出来"
+    } ]
+  }, {
+    "tStartMs": 1043666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "那这种情况下对吧"
+    } ]
+  }, {
+    "tStartMs": 1045100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我觉得我又不能再次的升级这个冲突"
+    } ]
+  }, {
+    "tStartMs": 1048733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "毕竟他们有4个人"
+    } ]
+  }, {
+    "tStartMs": 1050266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "我只有一个人"
+    } ]
+  }, {
+    "tStartMs": 1051300,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "我还穿着睡衣"
+    } ]
+  }, {
+    "tStartMs": 1052766,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "后来呢我就回到了楼下"
+    } ]
+  }, {
+    "tStartMs": 1055466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "然后"
+    } ]
+  }, {
+    "tStartMs": 1057266,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "打了110 啊"
+    } ]
+  }, {
+    "tStartMs": 1058700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "就是报警"
+    } ]
+  }, {
+    "tStartMs": 1060000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "跟警察说"
+    } ]
+  }, {
+    "tStartMs": 1061500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "嗯，我说楼上面很吵"
+    } ]
+  }, {
+    "tStartMs": 1064966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个扰民呢"
+    } ]
+  }, {
+    "tStartMs": 1065766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "在中国扰民的话是可以报警的一样的"
+    } ]
+  }, {
+    "tStartMs": 1068133,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "一样的"
+    } ]
+  }, {
+    "tStartMs": 1069333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "我还记得之前在德国居住的时候呢"
+    } ]
+  }, {
+    "tStartMs": 1072666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "周五周六的晚上有很多年轻人开party"
+    } ]
+  }, {
+    "tStartMs": 1076900,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "就很吵"
+    } ]
+  }, {
+    "tStartMs": 1078200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "这个音乐振聋发聩"
+    } ]
+  }, {
+    "tStartMs": 1080533,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "这个音乐啊震天动地对吧"
+    } ]
+  }, {
+    "tStartMs": 1084466,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "然后呢经常会有邻居对着他们大骂"
+    } ]
+  }, {
+    "tStartMs": 1088666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "骂完了之后我就可以听到"
+    } ]
+  }, {
+    "tStartMs": 1090866,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "警察的这个警车的警报声过来哈哈"
+    } ]
+  }, {
+    "tStartMs": 1094500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "每次我也很爽我就心"
+    } ]
+  }, {
+    "tStartMs": 1096600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "啊我就心想感谢"
+    } ]
+  }, {
+    "tStartMs": 1098600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我然后我就想要说啊"
+    } ]
+  }, {
+    "tStartMs": 1100166,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "感谢这位好心的邻居报了警哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1104100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "因为有的时候真的很扰民嗯"
+    } ]
+  }, {
+    "tStartMs": 1107733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "嗯这个呢"
+    } ]
+  }, {
+    "tStartMs": 1109000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "就是发生的一些邻里冲突吧"
+    } ]
+  }, {
+    "tStartMs": 1112100,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "大家会有这些邻里冲突吗"
+    } ]
+  }, {
+    "tStartMs": 1115600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "大家会和邻居产生矛盾吗"
+    } ]
+  }, {
+    "tStartMs": 1118966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我觉得我在德国的时候呢"
+    } ]
+  }, {
+    "tStartMs": 1121366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "也有这种隔壁邻居产生"
+    } ]
+  }, {
+    "tStartMs": 1124033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "噪音的一些情况发生哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1128666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "哈哈哈哎呦"
+    } ]
+  }, {
+    "tStartMs": 1131133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "啊给我给我幼小的心灵"
+    } ]
+  }, {
+    "tStartMs": 1133500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "产生了很多的震撼"
+    } ]
+  }, {
+    "tStartMs": 1135066,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "毕竟那个时候我是第一次去欧洲对吧"
+    } ]
+  }, {
+    "tStartMs": 1139000,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "第一次去一个和我们中国文化"
+    } ]
+  }, {
+    "tStartMs": 1143166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "很不相像的一个文化环境里面"
+    } ]
+  }, {
+    "tStartMs": 1146366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "所以呢给幼小的我造成了"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "一些心灵上面的伤害"
+    } ]
+  }, {
+    "tStartMs": 1151200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我现在呢是一个人住"
+    } ]
+  }, {
+    "tStartMs": 1153200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "住在这个房子里面"
+    } ]
+  }, {
+    "tStartMs": 1154833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我以前住在爸爸妈妈家的时候呢"
+    } ]
+  }, {
+    "tStartMs": 1157300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我爸爸妈妈家住在顶楼"
+    } ]
+  }, {
+    "tStartMs": 1159666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我们家从来没有过这种邻居"
+    } ]
+  }, {
+    "tStartMs": 1162233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "打扰我们家的这种情况发生"
+    } ]
+  }, {
+    "tStartMs": 1165600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "所以嗯哼哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 1168800,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "但是这个又是一个我觉得是靠命运"
+    } ]
+  }, {
+    "tStartMs": 1172533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "是靠缘分注定的一个东西"
+    } ]
+  }, {
+    "tStartMs": 1175033,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "因为我买这个房子的时候"
+    } ]
+  }, {
+    "tStartMs": 1177633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我又不知道我楼上的"
+    } ]
+  }, {
+    "tStartMs": 1179933,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "邻居会是什么样子的人"
+    } ]
+  }, {
+    "tStartMs": 1183266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯"
+    } ]
+  }, {
+    "tStartMs": 1184300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "但是呢我还是会尽量减少冲突"
+    } ]
+  }, {
+    "tStartMs": 1187300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "其实我楼上的邻居他是一个民事律师"
+    } ]
+  }, {
+    "tStartMs": 1190866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "哇民事的律师是做什么呢"
+    } ]
+  }, {
+    "tStartMs": 1193066,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "就是就是处理普通人民一些民事纠纷"
+    } ]
+  }, {
+    "tStartMs": 1197500,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "就是鸡毛蒜皮的事情产生的一些纠纷"
+    } ]
+  }, {
+    "tStartMs": 1200933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "产生的一些官司"
+    } ]
+  }, {
+    "tStartMs": 1202866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我就很不明白"
+    } ]
+  }, {
+    "tStartMs": 1203933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "自己作为一个民事律师"
+    } ]
+  }, {
+    "tStartMs": 1206533,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "你明明知道这种事情会"
+    } ]
+  }, {
+    "tStartMs": 1208366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "引发很大的一个矛盾对吧"
+    } ]
+  }, {
+    "tStartMs": 1210500,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "对吧"
+    } ]
+  }, {
+    "tStartMs": 1210866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "都甚至可以让这个矛盾升级"
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "如果升级"
+    } ]
+  }, {
+    "tStartMs": 1214566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我扔了一坨屎到他的门上"
+    } ]
+  }, {
+    "tStartMs": 1217566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "然后他就可以起诉我是吧"
+    } ]
+  }, {
+    "tStartMs": 1220700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "他处理过这么多这样的案子"
+    } ]
+  }, {
+    "tStartMs": 1223666,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "为什么不能够以身作则"
+    } ]
+  }, {
+    "tStartMs": 1226433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "做一个好公民呢"
+    } ]
+  }, {
+    "tStartMs": 1228266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "哈哈哈我不能理解啊"
+    } ]
+  }, {
+    "tStartMs": 1230766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我经常就是我不能理解"
+    } ]
+  }, {
+    "tStartMs": 1233600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "昨天晚上呢声音又比较大"
+    } ]
+  }, {
+    "tStartMs": 1236533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我男朋友还在那边说说啊"
+    } ]
+  }, {
+    "tStartMs": 1238433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我这次也听到了"
+    } ]
+  }, {
+    "tStartMs": 1240300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "有这个吸尘器的声音"
+    } ]
+  }, {
+    "tStartMs": 1242700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "后来呢"
+    } ]
+  }, {
+    "tStartMs": 1243500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我就说算了吧啊"
+    } ]
+  }, {
+    "tStartMs": 1245133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "也不是每天都有啊"
+    } ]
+  }, {
+    "tStartMs": 1247933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就是对吧"
+    } ]
+  }, {
+    "tStartMs": 1249233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "你好我好大家好"
+    } ]
+  }, {
+    "tStartMs": 1251400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "啊大家各退一步海阔天空嗯"
+    } ]
+  }, {
+    "tStartMs": 1256366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "希望大家都可以遇到好的邻居"
+    } ]
+  }, {
+    "tStartMs": 1259533,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "也希望大家可以睡一个好觉"
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "以上呢"
+    } ]
+  }, {
+    "tStartMs": 1262900,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "就是今天想要和大家分享的一些事情"
+    } ]
+  }, {
+    "tStartMs": 1265833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "那我们就下期视频再见喽拜拜"
+    } ]
+  } ]
+}

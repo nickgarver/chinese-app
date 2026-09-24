@@ -1,0 +1,739 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1066,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "hello大家好"
+    } ]
+  }, {
+    "tStartMs": 1833,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "欢迎来到我的频道"
+    } ]
+  }, {
+    "tStartMs": 3166,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我们这个视频是冥想助眠"
+    } ]
+  }, {
+    "tStartMs": 7666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "如果你睡不着"
+    } ]
+  }, {
+    "tStartMs": 10200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这个视频是你的视频"
+    } ]
+  }, {
+    "tStartMs": 12433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "好的我们就开始了"
+    } ]
+  }, {
+    "tStartMs": 14366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "如果有一些词不知道"
+    } ]
+  }, {
+    "tStartMs": 16066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "你们可以看后面的词语学习哦"
+    } ]
+  }, {
+    "tStartMs": 18966,
+    "dDurationMs": 11067,
+    "segs": [ {
+      "utf8": "音乐🎵"
+    } ]
+  }, {
+    "tStartMs": 30033,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "现在"
+    } ]
+  }, {
+    "tStartMs": 32866,
+    "dDurationMs": 7767,
+    "segs": [ {
+      "utf8": "请找一个安静的地方"
+    } ]
+  }, {
+    "tStartMs": 40633,
+    "dDurationMs": 9933,
+    "segs": [ {
+      "utf8": "关掉刺眼的灯光"
+    } ]
+  }, {
+    "tStartMs": 50566,
+    "dDurationMs": 11834,
+    "segs": [ {
+      "utf8": "现在慢慢躺下"
+    } ]
+  }, {
+    "tStartMs": 62400,
+    "dDurationMs": 9566,
+    "segs": [ {
+      "utf8": "把手臂放在身体两边"
+    } ]
+  }, {
+    "tStartMs": 71966,
+    "dDurationMs": 6234,
+    "segs": [ {
+      "utf8": "手心向上"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "对"
+    } ]
+  }, {
+    "tStartMs": 80333,
+    "dDurationMs": 11367,
+    "segs": [ {
+      "utf8": "你就像一片轻轻落在湖面的叶子"
+    } ]
+  }, {
+    "tStartMs": 91700,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "闭上眼睛"
+    } ]
+  }, {
+    "tStartMs": 96933,
+    "dDurationMs": 6867,
+    "segs": [ {
+      "utf8": "用鼻子深深吸气"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "一"
+    } ]
+  }, {
+    "tStartMs": 105666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "二"
+    } ]
+  }, {
+    "tStartMs": 107466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "三"
+    } ]
+  }, {
+    "tStartMs": 109066,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "屏住呼吸两秒钟"
+    } ]
+  }, {
+    "tStartMs": 112900,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "现在用嘴慢慢呼气"
+    } ]
+  }, {
+    "tStartMs": 121900,
+    "dDurationMs": 7033,
+    "segs": [ {
+      "utf8": "像吹动蒲公英那样轻柔"
+    } ]
+  }, {
+    "tStartMs": 128933,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "重复三次"
+    } ]
+  }, {
+    "tStartMs": 134366,
+    "dDurationMs": 8167,
+    "segs": [ {
+      "utf8": "现在跟我做三遍深呼吸"
+    } ]
+  }, {
+    "tStartMs": 142533,
+    "dDurationMs": 9500,
+    "segs": [ {
+      "utf8": "吸气"
+    } ]
+  }, {
+    "tStartMs": 152033,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "吸气"
+    } ]
+  }, {
+    "tStartMs": 155300,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "呼气"
+    } ]
+  }, {
+    "tStartMs": 162933,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "吸气"
+    } ]
+  }, {
+    "tStartMs": 168033,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "呼气"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 10933,
+    "segs": [ {
+      "utf8": "想象额头有一束温暖的阳光"
+    } ]
+  }, {
+    "tStartMs": 186066,
+    "dDurationMs": 10600,
+    "segs": [ {
+      "utf8": "慢慢融化所有皱纹"
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 14300,
+    "segs": [ {
+      "utf8": "让肩膀像融化的巧克力一样向下沉"
+    } ]
+  }, {
+    "tStartMs": 210966,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "手指尖开始微微发麻"
+    } ]
+  }, {
+    "tStartMs": 221366,
+    "dDurationMs": 8534,
+    "segs": [ {
+      "utf8": "像雪花落在皮肤上"
+    } ]
+  }, {
+    "tStartMs": 229900,
+    "dDurationMs": 8766,
+    "segs": [ {
+      "utf8": "小腿越来越重"
+    } ]
+  }, {
+    "tStartMs": 238666,
+    "dDurationMs": 9967,
+    "segs": [ {
+      "utf8": "好像陷进柔软的云朵里"
+    } ]
+  }, {
+    "tStartMs": 248633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "现在"
+    } ]
+  }, {
+    "tStartMs": 250533,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "想象你漂浮在"
+    } ]
+  }, {
+    "tStartMs": 254866,
+    "dDurationMs": 12867,
+    "segs": [ {
+      "utf8": "深夜的海面上"
+    } ]
+  }, {
+    "tStartMs": 267733,
+    "dDurationMs": 13433,
+    "segs": [ {
+      "utf8": "每个波浪都在轻轻摇晃你的身体"
+    } ]
+  }, {
+    "tStartMs": 281166,
+    "dDurationMs": 15467,
+    "segs": [ {
+      "utf8": "月光像银色的小鱼游过你的指尖"
+    } ]
+  }, {
+    "tStartMs": 296633,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "远处灯塔的光"
+    } ]
+  }, {
+    "tStartMs": 300700,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "随着呼吸"
+    } ]
+  }, {
+    "tStartMs": 304566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "忽明忽暗"
+    } ]
+  }, {
+    "tStartMs": 309833,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "一、二"
+    } ]
+  }, {
+    "tStartMs": 317033,
+    "dDurationMs": 9433,
+    "segs": [ {
+      "utf8": "每一次眨眼都更沉重"
+    } ]
+  }, {
+    "tStartMs": 326466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "现在"
+    } ]
+  }, {
+    "tStartMs": 329166,
+    "dDurationMs": 12334,
+    "segs": [ {
+      "utf8": "所有的声音都变成遥远的星星"
+    } ]
+  }, {
+    "tStartMs": 341500,
+    "dDurationMs": 11466,
+    "segs": [ {
+      "utf8": "你的身体正在和床融为一体"
+    } ]
+  }, {
+    "tStartMs": 352966,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "跟着我做最后三次呼吸"
+    } ]
+  }, {
+    "tStartMs": 359033,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "让意识"
+    } ]
+  }, {
+    "tStartMs": 361400,
+    "dDurationMs": 7966,
+    "segs": [ {
+      "utf8": "像羽毛一样飘走"
+    } ]
+  }, {
+    "tStartMs": 369366,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "第一次呼吸"
+    } ]
+  }, {
+    "tStartMs": 374566,
+    "dDurationMs": 10067,
+    "segs": [ {
+      "utf8": "晚安"
+    } ]
+  }, {
+    "tStartMs": 384633,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "第二次呼吸"
+    } ]
+  }, {
+    "tStartMs": 391333,
+    "dDurationMs": 11933,
+    "segs": [ {
+      "utf8": "沉睡"
+    } ]
+  }, {
+    "tStartMs": 403266,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "第三次呼吸"
+    } ]
+  }, {
+    "tStartMs": 409966,
+    "dDurationMs": 193267,
+    "segs": [ {
+      "utf8": "好梦"
+    } ]
+  }, {
+    "tStartMs": 1066,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Hello everyone,"
+    } ]
+  }, {
+    "tStartMs": 1833,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "welcome to my channel"
+    } ]
+  }, {
+    "tStartMs": 3166,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "This video is about meditation for sleep"
+    } ]
+  }, {
+    "tStartMs": 7666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "If you can't fall asleep"
+    } ]
+  }, {
+    "tStartMs": 10200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "this video is for you"
+    } ]
+  }, {
+    "tStartMs": 12433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Okay, let's get started"
+    } ]
+  }, {
+    "tStartMs": 14366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "If you don't know some words"
+    } ]
+  }, {
+    "tStartMs": 16066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "you can look at the words learning at the back     "
+    } ]
+  }, {
+    "tStartMs": 30033,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Now"
+    } ]
+  }, {
+    "tStartMs": 32866,
+    "dDurationMs": 7767,
+    "segs": [ {
+      "utf8": "please find a quiet place"
+    } ]
+  }, {
+    "tStartMs": 40633,
+    "dDurationMs": 9933,
+    "segs": [ {
+      "utf8": "and turn off the dazzling lights"
+    } ]
+  }, {
+    "tStartMs": 50566,
+    "dDurationMs": 11834,
+    "segs": [ {
+      "utf8": "Now lie down slowly"
+    } ]
+  }, {
+    "tStartMs": 62400,
+    "dDurationMs": 9566,
+    "segs": [ {
+      "utf8": "Put your arms on both sides of your body"
+    } ]
+  }, {
+    "tStartMs": 71966,
+    "dDurationMs": 6234,
+    "segs": [ {
+      "utf8": "with palms facing up"
+    } ]
+  }, {
+    "tStartMs": 78200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 80333,
+    "dDurationMs": 11367,
+    "segs": [ {
+      "utf8": "You are like a leaf gently falling on the lake"
+    } ]
+  }, {
+    "tStartMs": 91700,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "Close your eyes"
+    } ]
+  }, {
+    "tStartMs": 96933,
+    "dDurationMs": 6867,
+    "segs": [ {
+      "utf8": "breath in deeply through your nose"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "one"
+    } ]
+  }, {
+    "tStartMs": 105666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "two"
+    } ]
+  }, {
+    "tStartMs": 107466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "three"
+    } ]
+  }, {
+    "tStartMs": 109066,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "Hold your breath for two seconds"
+    } ]
+  }, {
+    "tStartMs": 112900,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Now exhale slowly through your mouth"
+    } ]
+  }, {
+    "tStartMs": 121900,
+    "dDurationMs": 7033,
+    "segs": [ {
+      "utf8": "blow gently like a dandelion"
+    } ]
+  }, {
+    "tStartMs": 128933,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "Repeat three times"
+    } ]
+  }, {
+    "tStartMs": 134366,
+    "dDurationMs": 8167,
+    "segs": [ {
+      "utf8": "Take three deep breaths with me now"
+    } ]
+  }, {
+    "tStartMs": 142533,
+    "dDurationMs": 9500,
+    "segs": [ {
+      "utf8": "Inhale"
+    } ]
+  }, {
+    "tStartMs": 152033,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Inhale"
+    } ]
+  }, {
+    "tStartMs": 155300,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "Exhale"
+    } ]
+  }, {
+    "tStartMs": 162933,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Inhale"
+    } ]
+  }, {
+    "tStartMs": 168033,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "Exhale"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 10933,
+    "segs": [ {
+      "utf8": "Imagine a warm beam of sunlight on your forehead"
+    } ]
+  }, {
+    "tStartMs": 186066,
+    "dDurationMs": 10600,
+    "segs": [ {
+      "utf8": "and slowly melt away all wrinkles"
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 14300,
+    "segs": [ {
+      "utf8": "Let your shoulders sink like melted chocolate"
+    } ]
+  }, {
+    "tStartMs": 210966,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "Your fingertips start to tingle slightly"
+    } ]
+  }, {
+    "tStartMs": 221366,
+    "dDurationMs": 8534,
+    "segs": [ {
+      "utf8": "like snowflakes falling on your skin"
+    } ]
+  }, {
+    "tStartMs": 229900,
+    "dDurationMs": 8766,
+    "segs": [ {
+      "utf8": "Your calves are getting heavier"
+    } ]
+  }, {
+    "tStartMs": 238666,
+    "dDurationMs": 9967,
+    "segs": [ {
+      "utf8": "as if you're sinking into soft clouds"
+    } ]
+  }, {
+    "tStartMs": 248633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Now"
+    } ]
+  }, {
+    "tStartMs": 250533,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "Imagine yourself floating on"
+    } ]
+  }, {
+    "tStartMs": 254866,
+    "dDurationMs": 12867,
+    "segs": [ {
+      "utf8": "on the sea at midnight"
+    } ]
+  }, {
+    "tStartMs": 267733,
+    "dDurationMs": 13433,
+    "segs": [ {
+      "utf8": "Every wave gently shakes your body"
+    } ]
+  }, {
+    "tStartMs": 281166,
+    "dDurationMs": 15467,
+    "segs": [ {
+      "utf8": "Moonlight swims through your fingertips like silver fish"
+    } ]
+  }, {
+    "tStartMs": 296633,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "The light of the lighthouse in the distance"
+    } ]
+  }, {
+    "tStartMs": 300700,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "with your breath"
+    } ]
+  }, {
+    "tStartMs": 304566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "fluctuates"
+    } ]
+  }, {
+    "tStartMs": 309833,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "One, two."
+    } ]
+  }, {
+    "tStartMs": 317033,
+    "dDurationMs": 9433,
+    "segs": [ {
+      "utf8": "Every blink is heavier"
+    } ]
+  }, {
+    "tStartMs": 326466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Now"
+    } ]
+  }, {
+    "tStartMs": 329166,
+    "dDurationMs": 12334,
+    "segs": [ {
+      "utf8": "all sounds become distant stars"
+    } ]
+  }, {
+    "tStartMs": 341500,
+    "dDurationMs": 11466,
+    "segs": [ {
+      "utf8": "Your body is merging with the bed"
+    } ]
+  }, {
+    "tStartMs": 352966,
+    "dDurationMs": 6067,
+    "segs": [ {
+      "utf8": "Take your last three breaths with me"
+    } ]
+  }, {
+    "tStartMs": 359033,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Let your consciousness"
+    } ]
+  }, {
+    "tStartMs": 361400,
+    "dDurationMs": 7966,
+    "segs": [ {
+      "utf8": "float away like a feather"
+    } ]
+  }, {
+    "tStartMs": 369366,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "First breath"
+    } ]
+  }, {
+    "tStartMs": 374566,
+    "dDurationMs": 10067,
+    "segs": [ {
+      "utf8": "Good night"
+    } ]
+  }, {
+    "tStartMs": 384633,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "Second breath"
+    } ]
+  }, {
+    "tStartMs": 391333,
+    "dDurationMs": 11933,
+    "segs": [ {
+      "utf8": "Sleep deeply"
+    } ]
+  }, {
+    "tStartMs": 403266,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "Third breath"
+    } ]
+  }, {
+    "tStartMs": 409966,
+    "dDurationMs": 193267,
+    "segs": [ {
+      "utf8": "Sweet dreams"
+    } ]
+  } ]
+}

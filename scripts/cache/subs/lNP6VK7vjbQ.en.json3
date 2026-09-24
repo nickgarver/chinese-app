@@ -1,0 +1,1243 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 5999,
+    "segs": [ {
+      "utf8": "nǐ měi tiān zěn me qù shàng bān huò zhě shàng xué\nHow do you go to work or school every day"
+    } ]
+  }, {
+    "tStartMs": 7366,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "nǐ kāi chē ma\nDo you drive"
+    } ]
+  }, {
+    "tStartMs": 10866,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "hái shì nǐ zuò dì tiě huò zhě zuò gōng jiāo chē\nOr do you take the subway or bus"
+    } ]
+  }, {
+    "tStartMs": 16333,
+    "dDurationMs": 7833,
+    "segs": [ {
+      "utf8": "hái shì nǐ zǒu lù huò zhě qí chē\nOr do you walk or bike"
+    } ]
+  }, {
+    "tStartMs": 24533,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ men yào liáo de huà tí shì jiāo tōng fāng shì\nToday our topic is transportation"
+    } ]
+  }, {
+    "tStartMs": 30466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "dà jiā hǎo   wǒ shì xiǎo nà\nHello everyone, I'm Xiaona"
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "huān yíng nǐ hé wǒ yì qǐ xué zhōng wén\nWelcome to learn Chinese with me"
+    } ]
+  }, {
+    "tStartMs": 37300,
+    "dDurationMs": 7199,
+    "segs": [ {
+      "utf8": "zài zhōng guó   zuì cháng jiàn de gōng gòng jiāo tōng fāng shì yǒu\nIn China, the most common public transport"
+    } ]
+  }, {
+    "tStartMs": 45266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "gōng jiāo chē hé dì tiě\nBuses and subways"
+    } ]
+  }, {
+    "tStartMs": 48533,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "rú guǒ cóng yí gè chéng shì qù lìng wài yí gè chéng shì\nIf going from one city to another"
+    } ]
+  }, {
+    "tStartMs": 55133,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "yǒu huǒ chē hé fēi jī\nThere are trains and planes"
+    } ]
+  }, {
+    "tStartMs": 60166,
+    "dDurationMs": 6467,
+    "segs": [ {
+      "utf8": "nà zhōng guó rén měi tiān zěn me qù shàng bān huò zhě shàng xué ne\nSo how do Chinese people go to work or school daily"
+    } ]
+  }, {
+    "tStartMs": 67100,
+    "dDurationMs": 6733,
+    "segs": [ {
+      "utf8": "dà bù fen rén měi tiān zuò gōng jiāo chē huò zhě zuò dì tiě\nMost people take the bus or subway every day"
+    } ]
+  }, {
+    "tStartMs": 74366,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "dàn shì xiǎo chéng shì lǐ miàn méi yǒu dì tiě\nBut small cities don't have subways"
+    } ]
+  }, {
+    "tStartMs": 79300,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "dài chéng shì lǐ miàn yì bān yǒu dì tiě\nBig cities usually have subways"
+    } ]
+  }, {
+    "tStartMs": 83466,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yīn wèi dài chéng shì lǐ yǒu hěn duō chē\nBecause big cities have many cars"
+    } ]
+  }, {
+    "tStartMs": 87066,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "suǒ yǐ huì dǔ chē\nSo there are traffic jams"
+    } ]
+  }, {
+    "tStartMs": 91266,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "suǒ yǐ huì yǒu dì tiě\nSo there are subways"
+    } ]
+  }, {
+    "tStartMs": 94933,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "yǒu xiē rén yě huì kāi chē qù shàng bān\nSome people also drive to work"
+    } ]
+  }, {
+    "tStartMs": 100533,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "bǐ rú wǒ de lǎo gōng tā měi tiān kāi chē qù shàng bān\nFor example, my husband drives to work every day"
+    } ]
+  }, {
+    "tStartMs": 106166,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "yīn wèi gōng gòng jiāo tōng bú shì hěn fāng biàn\nBecause public transportation isn't very convenient"
+    } ]
+  }, {
+    "tStartMs": 111100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "suǒ yǐ tā měi tiān kāi chē\nSo he drives every day"
+    } ]
+  }, {
+    "tStartMs": 115166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "wǒ ne   wǒ měi tiān zěn me qù . . .\nAs for me, how do I get there every day..."
+    } ]
+  }, {
+    "tStartMs": 118333,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "bú jiào shàng bān\nNot called going to work"
+    } ]
+  }, {
+    "tStartMs": 120200,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "wǒ měi tiān zěn me qù gōng zuò\nHow do I get to work every day"
+    } ]
+  }, {
+    "tStartMs": 124700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "yīn wèi wǒ zài jiā gōng zuò\nBecause I work from home"
+    } ]
+  }, {
+    "tStartMs": 127900,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "huò zhě yǒu shí hòu wǒ qù kā fēi diàn gōng zuò\nOr sometimes I go to a café to work"
+    } ]
+  }, {
+    "tStartMs": 132400,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ de jiāo tōng fāng shì shì — zǒu lù\nSo my mode of transportation is—walking"
+    } ]
+  }, {
+    "tStartMs": 138533,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "duì   wǒ zǒu lù qù kā fēi diàn\nRight, I walk to the café"
+    } ]
+  }, {
+    "tStartMs": 142000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "gōng jiāo chē hé dì tiě\nBus and subway"
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "nǐ gèng xǐ huan nǎ zhǒng jiāo tōng fāng shì\nWhich mode of transportation do you prefer"
+    } ]
+  }, {
+    "tStartMs": 149966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "nǐ gèng xǐ huan nǎ gè\nWhich one do you prefer"
+    } ]
+  }, {
+    "tStartMs": 152666,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "gōng jiāo chē hái shì dì tiě\nBus or subway"
+    } ]
+  }, {
+    "tStartMs": 157333,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "wǒ ne\nAs for me"
+    } ]
+  }, {
+    "tStartMs": 158766,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "wǒ gèng xǐ huan dì tiě\nI prefer the subway"
+    } ]
+  }, {
+    "tStartMs": 162100,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "wǒ hěn tǎo yàn gōng jiāo chē\nI really hate buses"
+    } ]
+  }, {
+    "tStartMs": 165733,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "wèi shén me ne\nWhy is that"
+    } ]
+  }, {
+    "tStartMs": 167666,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "yīn wèi bǐ rú   gōng jiāo chē wǒ jué de\nBecause, for example, buses, I think"
+    } ]
+  }, {
+    "tStartMs": 173466,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "méi yǒu gù dìng de shí jiān\nDon't have a fixed schedule"
+    } ]
+  }, {
+    "tStartMs": 177700,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "nǐ xū yào zài gōng jiāo chē zhàn děng\nYou need to wait at the bus stop"
+    } ]
+  }, {
+    "tStartMs": 182066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "nǐ bù zhī dào\nYou never know"
+    } ]
+  }, {
+    "tStartMs": 183933,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "shén me shí hòu gōng jiāo chē huì lái\nwhen the bus will come"
+    } ]
+  }, {
+    "tStartMs": 188066,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "suǒ yǐ méi yǒu gù dìng de shí jiān   wǒ bù xǐ huan\nSo there's no fixed time, I don't like it"
+    } ]
+  }, {
+    "tStartMs": 193966,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "kě néng yào děng shí fēn zhōng 、 èr shí fēn zhōng\nMight have to wait ten or twenty minutes"
+    } ]
+  }, {
+    "tStartMs": 198333,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "huò zhě bàn gè xiǎo shí\nOr half an hour"
+    } ]
+  }, {
+    "tStartMs": 201366,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "yīn wèi gōng jiāo chē zài dì shàng zǒu\nBecause buses run on the ground"
+    } ]
+  }, {
+    "tStartMs": 206033,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "kě néng huì dǔ chē\nThere might be traffic jams"
+    } ]
+  }, {
+    "tStartMs": 208466,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "suǒ yǐ shí jiān bú gù dìng\nSo the time isn't fixed"
+    } ]
+  }, {
+    "tStartMs": 211566,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "wǒ bù xǐ huan gōng jiāo chē\nI don't like buses"
+    } ]
+  }, {
+    "tStartMs": 214466,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "rán hòu   wǒ zuò gōng jiāo chē de shí hòu\nAlso, when I take the bus"
+    } ]
+  }, {
+    "tStartMs": 219100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "wǒ huì yùn chē\nI get carsick"
+    } ]
+  }, {
+    "tStartMs": 222233,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "jiù shì zuò gōng jiāo chē de shí hòu wǒ bù shū fú\nI mean, I feel uncomfortable on the bus"
+    } ]
+  }, {
+    "tStartMs": 227400,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "wǒ huì jué de hěn nán shòu\nI feel really awful"
+    } ]
+  }, {
+    "tStartMs": 231700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "wǒ bù kě yǐ kàn shǒu jī\nI can't look at my phone"
+    } ]
+  }, {
+    "tStartMs": 234133,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ kàn shǒu jī wǒ huì yùn chē\nIf I look at my phone, I get carsick"
+    } ]
+  }, {
+    "tStartMs": 238533,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "yūn dé hěn lì hài\nReally bad carsickness"
+    } ]
+  }, {
+    "tStartMs": 240800,
+    "dDurationMs": 6066,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ fēi cháng fēi cháng tǎo yàn zuò gōng jiāo chē\nSo I really, really hate taking the bus"
+    } ]
+  }, {
+    "tStartMs": 247500,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "wǒ jué de wǒ hěn cháng shí jiān méi yǒu zuò gōng jiāo chē le\nI think I haven't taken the bus for a long time"
+    } ]
+  }, {
+    "tStartMs": 253900,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "wǒ xiàn zài bú jì de\nI don't remember now"
+    } ]
+  }, {
+    "tStartMs": 257200,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "shàng yí cì zuò gōng jiāo chē shì shén me shí hòu le\nwhen the last time I took the bus was"
+    } ]
+  }, {
+    "tStartMs": 263400,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "rán hòu wǒ hěn xǐ huan zuò dì tiě\nAlso, I really like taking the subway"
+    } ]
+  }, {
+    "tStartMs": 267400,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "yīn wèi dì tiě yǒu gù dìng de shí jiān\nBecause the subway has fixed times"
+    } ]
+  }, {
+    "tStartMs": 271766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "jǐ diǎn   jǐ diǎn   jǐ diǎn\nWhat time, what time, what time"
+    } ]
+  }, {
+    "tStartMs": 274666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "wǒ hěn xǐ huan\nI really like it"
+    } ]
+  }, {
+    "tStartMs": 276266,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "dì tiě lǐ yì bān yǒu wèi shēng jiān\nSubways usually have restrooms"
+    } ]
+  }, {
+    "tStartMs": 281200,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "suǒ yǐ rú guǒ nǐ xiǎng qù wèi shēng jiān\nSo if you want to go to the restroom"
+    } ]
+  }, {
+    "tStartMs": 284900,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "dì tiě kě yǐ   hěn fāng biàn\nThe subway is convenient"
+    } ]
+  }, {
+    "tStartMs": 288300,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "nà kāi chē ne\nWhat about driving?"
+    } ]
+  }, {
+    "tStartMs": 290566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "kāi chē zěn me yàng\nHow about driving?"
+    } ]
+  }, {
+    "tStartMs": 294400,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "zài zhōng guó   bǐ rú zǎo shàng de shí hòu\nIn China, for example, in the morning"
+    } ]
+  }, {
+    "tStartMs": 298900,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "zǎo shàng qī diǎn dào jiǔ diǎn zuǒ yòu\nAround 7 to 9 in the morning"
+    } ]
+  }, {
+    "tStartMs": 303833,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ men jiào zǎo gāo fēng\nWe call it morning rush hour"
+    } ]
+  }, {
+    "tStartMs": 306700,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "jiù shì zài qī diǎn dào jiǔ diǎn de shí hòu\nThat is, from 7 to 9"
+    } ]
+  }, {
+    "tStartMs": 310366,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "hěn duō rén kāi chē qù shàng bān\nMany people drive to work"
+    } ]
+  }, {
+    "tStartMs": 314566,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "lù shang yǒu hěn duō gōng jiāo chē\nThere are many buses on the road"
+    } ]
+  }, {
+    "tStartMs": 317500,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "yǒu hěn duō chē\nThere are many cars"
+    } ]
+  }, {
+    "tStartMs": 319033,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "suǒ yǐ huì hěn dǔ chē\nSo there will be heavy traffic"
+    } ]
+  }, {
+    "tStartMs": 322233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "wǒ men jiào zǎo gāo fēng\nWe call it morning rush hour"
+    } ]
+  }, {
+    "tStartMs": 324666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "wǎn shàng de shí hòu\nIn the evening"
+    } ]
+  }, {
+    "tStartMs": 325866,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "dà gài cóng wǎn shàng wǔ diǎn dào wǎn shàng qī diǎn\nRoughly from 5 PM to 7 PM"
+    } ]
+  }, {
+    "tStartMs": 332066,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "yě huì hěn dǔ chē\nThere will also be heavy traffic"
+    } ]
+  }, {
+    "tStartMs": 334200,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "wǒ men jiào wǎn gāo fēng\nWe call it the evening rush hour"
+    } ]
+  }, {
+    "tStartMs": 337233,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "suǒ yǐ rú guǒ wǒ yào kāi chē\nSo if I want to drive"
+    } ]
+  }, {
+    "tStartMs": 341466,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "wǒ bú huì zài zǎo gāo fēng de shí hòu kāi chē\nI won't drive during the morning rush hour"
+    } ]
+  }, {
+    "tStartMs": 346300,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "wǒ yě bú huì zài wǎn gāo fēng de shí hòu kāi chē\nI also won't drive during the evening rush hour"
+    } ]
+  }, {
+    "tStartMs": 351500,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "wǒ huì xuǎn zé hěn zǎo dì chū fā\nI will choose to set off very early"
+    } ]
+  }, {
+    "tStartMs": 355800,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "zhè yàng kě yǐ bì kāi zǎo gāo fēng\nThis way I can avoid the morning rush hour"
+    } ]
+  }, {
+    "tStartMs": 360166,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "dāng rán zài zhōng guó dǎ chē yě hěn fāng biàn\nOf course, taking a taxi in China is also very convenient"
+    } ]
+  }, {
+    "tStartMs": 366066,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "jiù shì dǎ chū zū chē huò zhě dǎ dī shì\nThat is, hailing a taxi or calling a cab"
+    } ]
+  }, {
+    "tStartMs": 373033,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "wǒ men yě shuō dǎ de\nWe also say \"da di\""
+    } ]
+  }, {
+    "tStartMs": 376033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "huò zhě dǎ chū zū chē\nOr hail a taxi"
+    } ]
+  }, {
+    "tStartMs": 378766,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "zài zhōng guó dǎ chē méi yǒu nà me guì\nTaking a taxi in China is not that expensive"
+    } ]
+  }, {
+    "tStartMs": 384166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "yǐ qián wǒ zài ōu zhōu de shí hòu\nWhen I was in Europe before"
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "cóng lái méi yǒu dǎ guò chē\nI never took a taxi"
+    } ]
+  }, {
+    "tStartMs": 391600,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "yīn wèi ōu zhōu de chū zū chē tài guì le\nBecause taxis in Europe are too expensive"
+    } ]
+  }, {
+    "tStartMs": 396566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "dàn shì zài zhōng guó wǒ jué de dǎ chē méi yǒu nà me guì\nBut in China I think taking a taxi is not that expensive"
+    } ]
+  }, {
+    "tStartMs": 402333,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "zài zhōng guó wǒ men jīng cháng yòng yí gè ruǎn jiàn jiào dī dī\nIn China we often use an app called Didi"
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 6699,
+    "segs": [ {
+      "utf8": "dī dī hé guó wài de u b e r huò zhě g r a b hěn xiàng\nDidi is very similar to Uber or Grab abroad"
+    } ]
+  }, {
+    "tStartMs": 415800,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "zài zhōng guó wǒ men yòng dī dī dǎ chū zū chē\nIn China we use Didi to hail taxis"
+    } ]
+  }, {
+    "tStartMs": 420333,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "hái yǒu yì zhǒng jiāo tōng fāng shì hěn tè bié\nThere is also a very special mode of transportation"
+    } ]
+  }, {
+    "tStartMs": 425366,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "jiù shì qí diàn dòng chē\nIt's about riding an electric bike"
+    } ]
+  }, {
+    "tStartMs": 430166,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "diàn dòng chē bú shì zì xíng chē   yě bú shì mó tuō chē\nAn electric bike is not a bicycle, nor a motorcycle"
+    } ]
+  }, {
+    "tStartMs": 437466,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "tā shì yòng diàn de   tā kě yǐ pǎo dé hěn kuài\nIt runs on electricity, and it can go very fast"
+    } ]
+  }, {
+    "tStartMs": 442800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "nǐ bù xū yào dēng\nYou don't need to pedal"
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "nǐ zhī xū yào zuò zhe\nYou just need to sit"
+    } ]
+  }, {
+    "tStartMs": 449033,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "rán hòu yǒu diàn   suǒ yǐ tā pǎo dé hěn kuài\nAnd with electricity, it goes very fast"
+    } ]
+  }, {
+    "tStartMs": 454566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "zài zhōng guó yǒu hěn duō wài mài yuán qí diàn dòng chē\nIn China, many delivery riders ride electric bikes"
+    } ]
+  }, {
+    "tStartMs": 460200,
+    "dDurationMs": 6899,
+    "segs": [ {
+      "utf8": "yīn wèi xiàn zài yuè lái yuè duō de rén diǎn wài mài 、 chī wài mài\nBecause more and more people order and eat takeout"
+    } ]
+  }, {
+    "tStartMs": 467266,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "suǒ yǐ sòng wài mài de rén yuè lái yuè duō\nSo more and more people deliver food"
+    } ]
+  }, {
+    "tStartMs": 472400,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "qí diàn dòng chē sòng wài mài de rén yuè lái yuè duō\nMore and more people ride electric bikes to deliver food"
+    } ]
+  }, {
+    "tStartMs": 477200,
+    "dDurationMs": 5499,
+    "segs": [ {
+      "utf8": "yóu qí shì zài dài chéng shì lǐ   yǒu hěn duō diàn dòng chē\nEspecially in big cities, there are many electric bikes"
+    } ]
+  }, {
+    "tStartMs": 483166,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "ér qiě tā men qí dé hěn kuài\nAnd they ride very fast"
+    } ]
+  }, {
+    "tStartMs": 486866,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "suǒ yǐ nǐ zǒu lù de shí hòu yí dìng yào hěn xiǎo xīn\nSo you must be very careful when you walk"
+    } ]
+  }, {
+    "tStartMs": 494500,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "qí diàn dòng chē huò zhě qí zì xíng chē\nRiding an electric bike or a bicycle"
+    } ]
+  }, {
+    "tStartMs": 499800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "zài yǒu de chéng shì lǐ wǒ jué de kě yǐ\nIn some cities, I think it's okay"
+    } ]
+  }, {
+    "tStartMs": 504300,
+    "dDurationMs": 2499,
+    "segs": [ {
+      "utf8": "dàn shì yǒu xiē dì fāng\nBut in some places"
+    } ]
+  }, {
+    "tStartMs": 506800,
+    "dDurationMs": 8066,
+    "segs": [ {
+      "utf8": "méi yǒu gěi zì xíng chē huò zhě diàn dòng chē zǒu de lù\nThere are no paths for bicycles or electric bikes"
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "zhǐ yǒu chē zǒu de lù\nOnly roads for cars"
+    } ]
+  }, {
+    "tStartMs": 517166,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "méi yǒu zì xíng chē dào\nThere are no bike lanes"
+    } ]
+  }, {
+    "tStartMs": 520533,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "zhè yàng wǒ jué de hěn bù fāng biàn   hěn bù ān quán\nI think this is very inconvenient and very unsafe"
+    } ]
+  }, {
+    "tStartMs": 526033,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ xiǎng cóng yí gè chéng shì dào lìng wài yí gè chéng shì\nIf you want to go from one city to another"
+    } ]
+  }, {
+    "tStartMs": 532333,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "cóng yí gè dì fāng dào lìng wài yí gè bǐ jiào yuǎn de dì fāng\nFrom one place to another place that's farther away"
+    } ]
+  }, {
+    "tStartMs": 538100,
+    "dDurationMs": 7199,
+    "segs": [ {
+      "utf8": "nà nǐ kě yǐ zuò huǒ chē huò zhě zuò fēi jī\nThen you can take a train or a plane"
+    } ]
+  }, {
+    "tStartMs": 546100,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "zài zhōng guó huǒ chē yǒu chà bù duō liǎng zhǒng\nIn China there are about two kinds of trains"
+    } ]
+  }, {
+    "tStartMs": 552166,
+    "dDurationMs": 6367,
+    "segs": [ {
+      "utf8": "yì zhǒng shì hěn zhèng cháng de huǒ chē 、 hěn pǔ tōng de huǒ chē\nOne is a normal train, a very ordinary train"
+    } ]
+  }, {
+    "tStartMs": 558900,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "lìng wài yì zhǒng shì hěn kuài de huǒ chē     wǒ men jiào gāo tiě\nThe other is a very fast train, we call it high-speed rail"
+    } ]
+  }, {
+    "tStartMs": 564333,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "bǐ rú rú guǒ cóng zhōng guó de běi fāng bǐ rú běi jīng\nFor example, if from northern China like Beijing"
+    } ]
+  }, {
+    "tStartMs": 569133,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "dào zhōng guó de nán fāng shēn zhèn\nTo southern China, Shenzhen"
+    } ]
+  }, {
+    "tStartMs": 573700,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "nà rú guǒ nǐ zuò pǔ tōng de huǒ chē   kě néng yào zuò hěn jiǔ\nIf you take a regular train, it might take a long time"
+    } ]
+  }, {
+    "tStartMs": 579300,
+    "dDurationMs": 6266,
+    "segs": [ {
+      "utf8": "yào zuò shí jǐ gè xiǎo shí huò zhě èr shí jǐ gè xiǎo shí\nIt might take over ten hours or over twenty hours"
+    } ]
+  }, {
+    "tStartMs": 585733,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ zuò gāo tiě nà kě néng xū yào\nIf you take high-speed rail, it might take"
+    } ]
+  }, {
+    "tStartMs": 590100,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "( wǒ bù zhī dào ) jǐ gè xiǎo shí   jiù kě yǐ le\n(I don't know) a few hours, and you're there"
+    } ]
+  }, {
+    "tStartMs": 593966,
+    "dDurationMs": 6233,
+    "segs": [ {
+      "utf8": "suǒ yǐ rú guǒ nǐ yào cóng yí gè dì fāng qù yí gè hěn yuǎn de dì fāng\nSo if you want to go from one place to a very far place"
+    } ]
+  }, {
+    "tStartMs": 600200,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ xuǎn zé zuò gāo tiě\nYou can choose to take high-speed rail"
+    } ]
+  }, {
+    "tStartMs": 602900,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "gāo tiě gèng gèng guì   rán hòu gāo tiě gèng kuài\nHigh-speed rail is more expensive, and high-speed rail is faster"
+    } ]
+  }, {
+    "tStartMs": 609066,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "dàn shì gāo tiě méi yǒu zhàn piào\nBut high-speed rail has no standing tickets"
+    } ]
+  }, {
+    "tStartMs": 613000,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "méi yǒu zhàn zhe de rén\nNo people standing"
+    } ]
+  }, {
+    "tStartMs": 615133,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "suǒ yǐ gāo tiě rén gèng shǎo\nSo high-speed rail has fewer people"
+    } ]
+  }, {
+    "tStartMs": 619766,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "zuò fēi jī yě kě yǐ\nTaking a plane is also okay"
+    } ]
+  }, {
+    "tStartMs": 622100,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "zài zhōng guó zuò fēi jī yě hěn cháng jiàn\nIn China taking a plane is also very common"
+    } ]
+  }, {
+    "tStartMs": 627633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "dàn shì\nBut"
+    } ]
+  }, {
+    "tStartMs": 629666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "zuò fēi jī xū yào qù jī chǎng děng   duì bu duì\nTaking a plane requires going to the airport and waiting, right?"
+    } ]
+  }, {
+    "tStartMs": 634700,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "zuò fēi jī xū yào tí qián qù jī chǎng\nTaking a plane requires going to the airport in advance"
+    } ]
+  }, {
+    "tStartMs": 638766,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ gèng xǐ huan zuò huǒ chē\nSo I prefer taking the train"
+    } ]
+  }, {
+    "tStartMs": 642066,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "bú shì zuò fēi jī\nNot taking a plane"
+    } ]
+  }, {
+    "tStartMs": 644200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "yīn wèi zuò huǒ chē hěn fāng biàn\nBecause taking the train is very convenient"
+    } ]
+  }, {
+    "tStartMs": 646866,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "nǐ dào le huǒ chē zhàn jiù kě yǐ zuò huǒ chē\nOnce you get to the train station, you can take the train"
+    } ]
+  }, {
+    "tStartMs": 651466,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "bú yòng děng hěn cháng shí jiān\nYou don't have to wait very long"
+    } ]
+  }, {
+    "tStartMs": 654533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "dàn shì zuò fēi jī xū yào děng\nBut taking a plane requires waiting"
+    } ]
+  }, {
+    "tStartMs": 658266,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "xū yào tí qián qù fēi jī chǎng\nYou need to go to the airport in advance"
+    } ]
+  }, {
+    "tStartMs": 662400,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "dàn shì yǒu de shí hòu   méi yǒu bàn fǎ\nBut sometimes there's no other way"
+    } ]
+  }, {
+    "tStartMs": 666766,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ cóng běi fāng qù nán fāng\nIf you go from the north to the south"
+    } ]
+  }, {
+    "tStartMs": 672100,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "zuò fēi jī gèng kuài\nTaking a plane is faster"
+    } ]
+  }, {
+    "tStartMs": 676000,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "jǐ gè xiǎo shí jiù kě yǐ dào\nYou can get there in a few hours"
+    } ]
+  }, {
+    "tStartMs": 678533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ zuò huǒ chē\nIf you take the train"
+    } ]
+  }, {
+    "tStartMs": 681066,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "tài bù fāng biàn le\nIt's too inconvenient"
+    } ]
+  }, {
+    "tStartMs": 683033,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "suǒ yǐ rú guǒ yào qù hěn yuǎn hěn yuǎn hěn yuǎn de dì fāng\nSo if you need to go to a very very very far place"
+    } ]
+  }, {
+    "tStartMs": 688066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "nà wǒ kě néng huì zuò fēi jī\nThen I might take a plane"
+    } ]
+  }, {
+    "tStartMs": 690733,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "dàn shì wǒ bù xǐ huan zuò fēi jī\nBut I don't like taking planes"
+    } ]
+  }, {
+    "tStartMs": 693833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "zuò fēi jī hěn lèi   yào yì zhí zuò zhe\nTaking a plane is very tiring, you have to sit the whole time"
+    } ]
+  }, {
+    "tStartMs": 698400,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "wǒ jué de tài lèi le\nI think I'm too tired"
+    } ]
+  }, {
+    "tStartMs": 700533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nà rú guǒ nǐ lái zhōng guó\nThen if you come to China"
+    } ]
+  }, {
+    "tStartMs": 703333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "nà zěn me zěn me zuò gōng jiāo chē\nThen how do you take the bus"
+    } ]
+  }, {
+    "tStartMs": 706866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "zěn me zuò dì tiě   zěn me zuò huǒ chē ne\nHow to take the subway, how to take the train"
+    } ]
+  }, {
+    "tStartMs": 711466,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "zài zhōng guó   rú guǒ nǐ yào zuò gōng jiāo chē huò zhě dì tiě\nIn China, if you want to take the bus or subway"
+    } ]
+  }, {
+    "tStartMs": 717333,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ qù dì tiě zhàn mǎi piào\nYou can go to the subway station to buy tickets"
+    } ]
+  }, {
+    "tStartMs": 721466,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "dì tiě zhàn yǒu jī qì huò zhě yǒu rén\nThere are machines or people at the subway station"
+    } ]
+  }, {
+    "tStartMs": 726333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ qù nà lǐ mǎi piào\nYou can go there to buy tickets"
+    } ]
+  }, {
+    "tStartMs": 729133,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "dàn shì yì bān wǒ men huì yòng zhī fù bǎo\nBut usually we use Alipay"
+    } ]
+  }, {
+    "tStartMs": 733700,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "zhī fù bǎo shì yí gè a p p\nAlipay is an app"
+    } ]
+  }, {
+    "tStartMs": 737933,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "kě yǐ yòng zhī fù bǎo zhí jiē\nYou can use Alipay directly"
+    } ]
+  }, {
+    "tStartMs": 740700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "zuò gōng jiāo chē huò zhě zuò dì tiě\nTo take the bus or subway"
+    } ]
+  }, {
+    "tStartMs": 744633,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "hěn fāng biàn\nVery convenient"
+    } ]
+  }, {
+    "tStartMs": 746533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ yào zuò huǒ chē\nIf you want to take the train"
+    } ]
+  }, {
+    "tStartMs": 749066,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "kě yǐ qù huǒ chē zhàn mǎi piào\nYou can go to the train station to buy tickets"
+    } ]
+  }, {
+    "tStartMs": 752500,
+    "dDurationMs": 1499,
+    "segs": [ {
+      "utf8": "méi yǒu wèn tí\nNo problem"
+    } ]
+  }, {
+    "tStartMs": 754000,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "nà lǐ yǒu jī qì yě yǒu rén   kě yǐ mǎi piào\nThere are machines and people there, you can buy tickets"
+    } ]
+  }, {
+    "tStartMs": 759466,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "dàn shì wǒ men yì bān huì yòng yí gè ruǎn jiàn   yí gè a p p\nBut we usually use a software, an app"
+    } ]
+  }, {
+    "tStartMs": 764866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "jiào 1 2 3 0 6\nCalled 12306"
+    } ]
+  }, {
+    "tStartMs": 768233,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "wǒ men huì zài zhè ge ruǎn jiàn shàng mǎi piào\nWe buy tickets on this app"
+    } ]
+  }, {
+    "tStartMs": 773300,
+    "dDurationMs": 10599,
+    "segs": [ {
+      "utf8": "rú guǒ zuò fēi jī   wǒ jué de zuì cháng jiàn de ruǎn jiàn shì xié chéng\nIf flying, I think the most common app is Ctrip"
+    } ]
+  }, {
+    "tStartMs": 784066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "wǒ men jīng cháng huì zài xié chéng shàng\nWe often go on Ctrip"
+    } ]
+  }, {
+    "tStartMs": 788266,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "kàn jī piào 、 mǎi jī piào\nto check flights and buy tickets"
+    } ]
+  }, {
+    "tStartMs": 791500,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "suǒ yǐ rú guǒ nǐ lái zhōng guó\nSo if you come to China"
+    } ]
+  }, {
+    "tStartMs": 794033,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ yòng zhè xiē ruǎn jiàn lái\nyou can use these apps to"
+    } ]
+  }, {
+    "tStartMs": 798133,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "zuò gōng jiāo chē 、 zuò dì tiě 、 huò zhě zuò huǒ chē hái yǒu fēi jī\ntake the bus, subway, train, or plane"
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 4499,
+    "segs": [ {
+      "utf8": "dāng rán rú guǒ nǐ xiǎng dǎ chē   nǐ kě yǐ yòng dī dī\nOf course, if you want to take a taxi, you can use Didi"
+    } ]
+  }, {
+    "tStartMs": 810600,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "dī dī hěn fāng biàn   wǒ men yì bān yòng dī dī dǎ chē\nDidi is very convenient; we usually use Didi for taxis"
+    } ]
+  }, {
+    "tStartMs": 816500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "dāng rán le   wǒ . . .\nOf course, I..."
+    } ]
+  }, {
+    "tStartMs": 818233,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "nà wǒ zuì xǐ huan de jiāo tōng fāng shì hái shì zǒu lù\nBut my favorite way to get around is still walking"
+    } ]
+  }, {
+    "tStartMs": 823600,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "yīn wèi rú guǒ wǒ yào qù de dì fāng bú tài yuǎn\nBecause if the place I'm going isn't too far"
+    } ]
+  }, {
+    "tStartMs": 829100,
+    "dDurationMs": 6366,
+    "segs": [ {
+      "utf8": "bǐ rú zhǐ yǒu yì gōng lǐ 、 liǎng gōng lǐ huò zhě sān gōng lǐ\nlike only one kilometer, two kilometers, or three kilometers"
+    } ]
+  }, {
+    "tStartMs": 835466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "wǒ huì xuǎn zé zǒu lù\nI'll choose to walk"
+    } ]
+  }, {
+    "tStartMs": 838433,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "wǒ kě yǐ zǒu sān shí fēn zhōng 、\nI can walk for thirty minutes,"
+    } ]
+  }, {
+    "tStartMs": 841466,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "sì shí fēn zhōng 、 huò zhě wǔ shí fēn zhōng\nforty minutes, or fifty minutes"
+    } ]
+  }, {
+    "tStartMs": 845500,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "yí gè xiǎo shí yǐ nèi   wǒ jué de kě yǐ\nWithin an hour, I think it's fine"
+    } ]
+  }, {
+    "tStartMs": 849933,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "wǒ zuì xǐ huan de jiāo tōng fāng shì hái shì zǒu lù\nMy favorite way to get around is still walking"
+    } ]
+  }, {
+    "tStartMs": 854566,
+    "dDurationMs": 6167,
+    "segs": [ {
+      "utf8": "nà nǐ ne   nǐ měi tiān zěn me qù shàng bān huò zhě qù shàng xué\nWhat about you? How do you get to work or school every day"
+    } ]
+  }, {
+    "tStartMs": 860733,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zài nǐ zhù de dì fāng\nIn the place where you live"
+    } ]
+  }, {
+    "tStartMs": 863933,
+    "dDurationMs": 5866,
+    "segs": [ {
+      "utf8": "shén me jiāo tōng fāng shì zuì shòu huān yíng 、 zuì fāng biàn\nwhat's the most popular and convenient way to get around"
+    } ]
+  }, {
+    "tStartMs": 869800,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "nǐ zuì xǐ huan shén me jiāo tōng fāng shì\nWhat's your favorite way to travel?"
+    } ]
+  }, {
+    "tStartMs": 873566,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "huān yíng nǐ zài píng lùn qū lǐ gào sù wǒ\nLet me know in the comments"
+    } ]
+  }, {
+    "tStartMs": 877066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "jīn tiān de shì pín jiù dào zhè lǐ\nThat's it for today's video"
+    } ]
+  }, {
+    "tStartMs": 879533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "huān yíng nǐ guān kàn wǒ de shì pín\nThanks for watching my video"
+    } ]
+  }, {
+    "tStartMs": 882266,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "wǒ men xià gè shì pín zài jiàn   bài bài\nSee you in the next video, bye-bye"
+    } ]
+  } ]
+}

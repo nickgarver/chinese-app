@@ -1,0 +1,2929 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 966,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "哈喽\nhālóu"
+    } ]
+  }, {
+    "tStartMs": 1433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "大家好\ndàjiā hǎo"
+    } ]
+  }, {
+    "tStartMs": 2300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "我是猫咪卡\nwǒ shì māomī kǎ"
+    } ]
+  }, {
+    "tStartMs": 4066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "欢迎来到Chat-Chat with Monika\nhuānyíng láidào Chat-Chat with Monika"
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这是一档为中文学习者和\nzhè shì yī dàng wèi zhōngwén xuéxí zhě hé"
+    } ]
+  }, {
+    "tStartMs": 9233,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "中文爱好者提供的中文播客\nzhōngwén àihàozhě tígōng de zhōngwén bōkè"
+    } ]
+  }, {
+    "tStartMs": 12500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "在这里\nzài zhèlǐ"
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "你会听到学到\nnǐ huì tīngdào xué dào"
+    } ]
+  }, {
+    "tStartMs": 15366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "各种与中文以及中国相关的话题\ngèzhǒng yǔ zhōngwén yǐjí zhōngguó xiāngguān dehuà tí"
+    } ]
+  }, {
+    "tStartMs": 19066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "如果你对此感兴趣\nrúguǒ nǐ duì cǐ gǎnxìngqù"
+    } ]
+  }, {
+    "tStartMs": 20700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "那就千万不要错过\nnà jiù qiānwàn bùyào cuòguò"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "最近呢\nzuìjìn ne"
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在中国的网络上面\nzài zhōngguó de wǎngluò shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 27900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "有一个新的梗出现\nyǒu yígè xīn de gěng chūxiàn"
+    } ]
+  }, {
+    "tStartMs": 30900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "它就是\ntā jiùshì"
+    } ]
+  }, {
+    "tStartMs": 32166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "「爱你老己，明天见！」\n\"ài nǐ lǎo jǐ, míngtiānjiàn!\""
+    } ]
+  }, {
+    "tStartMs": 35700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "爱你大家应该都知道\nài nǐ dàjiā yīnggāi dōu zhīdào"
+    } ]
+  }, {
+    "tStartMs": 37800,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "爱你\nài nǐ"
+    } ]
+  }, {
+    "tStartMs": 38433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我爱你\nwǒ ài nǐ"
+    } ]
+  }, {
+    "tStartMs": 39566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "我爱大家\nwǒ ài dàjiā"
+    } ]
+  }, {
+    "tStartMs": 42200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "老己\nlǎo jǐ"
+    } ]
+  }, {
+    "tStartMs": 43633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "己呢\njǐ ne"
+    } ]
+  }, {
+    "tStartMs": 44233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "是指的自己的己\nshì zhǐ de zìjǐ de jǐ"
+    } ]
+  }, {
+    "tStartMs": 46666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "中国人呢\nzhōngguórén ne"
+    } ]
+  }, {
+    "tStartMs": 47900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "有的时候会加上一个「老」\nyǒudeshíhòu huì jiāshàng yígè \"lǎo\""
+    } ]
+  }, {
+    "tStartMs": 51466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "在一个名词前面\nzài yígè míngcí qiánmiàn"
+    } ]
+  }, {
+    "tStartMs": 54166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "体现出一种亲昵感\ntǐxiàn chū yīzhǒng qīnnì gǎn"
+    } ]
+  }, {
+    "tStartMs": 56466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "老这个字呢听起来很乡土味\nlǎo zhège zì ne tīngqilai hěn xiāngtǔ wèi"
+    } ]
+  }, {
+    "tStartMs": 59666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 60200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "有一点点土味\nyǒu yīdiǎndiǎn tǔ wèi"
+    } ]
+  }, {
+    "tStartMs": 61866,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "但是呢\ndànshì ne"
+    } ]
+  }, {
+    "tStartMs": 62533,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "同时呢\ntóngshí ne"
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "又夹杂着一点点亲昵的味道\nyòu jiāzá zhe yīdiǎndiǎn qīnnì de wèidao"
+    } ]
+  }, {
+    "tStartMs": 67433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "比如说\nbǐrú shuō"
+    } ]
+  }, {
+    "tStartMs": 68600,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "我们会喊自己的爸爸妈妈为「老爸」「老妈」\nwǒmen huì hǎn zìjǐ de bàba māma wèi \"lǎobà\" \"lǎomā\""
+    } ]
+  }, {
+    "tStartMs": 73300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 74233,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "老己呢\nlǎo jǐ ne"
+    } ]
+  }, {
+    "tStartMs": 75400,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "就是亲昵地称呼自己「老己」\njiùshì qīnnì dì chēnghu zìjǐ \"lǎo jǐ\""
+    } ]
+  }, {
+    "tStartMs": 80466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "老的自己「老几」\nlǎo de zìjǐ \"lǎo jǐ\""
+    } ]
+  }, {
+    "tStartMs": 83033,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "爱你老几明天见这个梗突然走红\nài nǐ lǎo jǐ míngtiānjiàn zhège gěng tūrán zǒuhóng"
+    } ]
+  }, {
+    "tStartMs": 87966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "主要是为了体现爱自己\nzhǔyào shì wèile tǐxiàn ài zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 91466,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "在每个犹豫拧巴的瞬间\nzài měi gè yóuyù níng bā de shùnjiān"
+    } ]
+  }, {
+    "tStartMs": 95033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "坚定的选择站在自己的这边\njiāndìng de xuǎnzé zhàn zài zìjǐ de zhèbiān"
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "中文网络上面呢\nzhōngwén wǎngluò shàngmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 99566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "如何来用这个梗\nrúhé lái yòng zhège gěng"
+    } ]
+  }, {
+    "tStartMs": 101166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "现在呢\nxiànzài ne"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "想要和大家分享几个\nxiǎngyào hé dàjiā fēnxiǎng jǐge"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "中文网络上面的「爱己日常」\nzhōngwén wǎngluò shàngmiàn de \"ài jǐ rìcháng\""
+    } ]
+  }, {
+    "tStartMs": 107333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "也就是爱自己的瞬间\nyějiùshì ài zìjǐ de shùnjiān"
+    } ]
+  }, {
+    "tStartMs": 110166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "比如说\nbǐrú shuō"
+    } ]
+  }, {
+    "tStartMs": 111266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "我今天中午特别想吃火锅\nwǒ jīntiān zhōngwǔ tèbié xiǎng chī huǒguō"
+    } ]
+  }, {
+    "tStartMs": 115133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我就问了我自己\nwǒ jiù wèn le wǒ zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "“你要不要去吃火锅呢？”\n\"nǐ yàobù yào qù chī huǒguō ne?\""
+    } ]
+  }, {
+    "tStartMs": 119366,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "然后我就带着自己去吃火锅了\nránhòu wǒ jiù dài zhe zìjǐ qù chī huǒguō le"
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "是把自己放在一个客体的位置\nshì bǎ zìjǐ fàng zài yígè kètǐ de wèizhi"
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "分离出来了一个新的人格\nfēnlí chulai le yígè xīn de réngé"
+    } ]
+  }, {
+    "tStartMs": 129633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "来好好的对待自己\nlái hǎohǎo de duìdài zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "这就是「爱你老几」的意思\nzhè jiùshì \"ài nǐ lǎo jǐ\" de yìsi"
+    } ]
+  }, {
+    "tStartMs": 135566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我们也可以说\nwǒmen yě kěyǐ shuō"
+    } ]
+  }, {
+    "tStartMs": 136733,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "\"今天是不是想要去买一块盒马新出的蛋糕呢?\"\n\"jīntiān shìbùshì xiǎngyào qù mǎi yīkuài hé mǎ xīn chū de dàngāo ne?\""
+    } ]
+  }, {
+    "tStartMs": 142300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "然后分离出来的这个人格\nránhòu fēnlí chulai de zhège réngé"
+    } ]
+  }, {
+    "tStartMs": 144533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就会对自己说\njiù huì duì zìjǐ shuō"
+    } ]
+  }, {
+    "tStartMs": 146066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "“想吃什么、想喝什么，\n\"xiǎng chī shénme、 xiǎng hē shénme,"
+    } ]
+  }, {
+    "tStartMs": 148100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "今天我都帮你买回来！”\njīntiān wǒ dōu bāng nǐ mǎihuí lái!\""
+    } ]
+  }, {
+    "tStartMs": 150900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "这也是爱自己的一个体现\nzhè yě shì ài zìjǐ de yígè tǐxiàn"
+    } ]
+  }, {
+    "tStartMs": 153933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "这个就让我联想到其实几年前\nzhège jiù ràng wǒ liánxiǎng dào qíshí jǐnián qián"
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "中文网络上面其实有另外一个说法\nzhōngwén wǎngluò shàngmiàn qíshí yǒu lìngwài yígè shuōfa"
+    } ]
+  }, {
+    "tStartMs": 160233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "就是给自己一些「仪式感」\njiùshì gěi zìjǐ yīxiē \"yíshì gǎn\""
+    } ]
+  }, {
+    "tStartMs": 163533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "对我自己来讲的话\nduì wǒ zìjǐ láijiǎng dehuà"
+    } ]
+  }, {
+    "tStartMs": 165033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "我感觉自己在二十几岁的时候会经常\nwǒ gǎnjué zìjǐ zài èrshí jǐsuì de shíhou huì jīngcháng"
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "给自己制造一些这种仪式感的机会\ngěi zìjǐ zhìzào yīxiē zhèzhǒng yíshì gǎn de jīhuì"
+    } ]
+  }, {
+    "tStartMs": 173033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "比如说六一儿童节\nbǐrú shuō liù yī értóng jié"
+    } ]
+  }, {
+    "tStartMs": 175266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "我们会给自己过儿童节\nwǒmen huì gěi zìjǐ guò értóng jié"
+    } ]
+  }, {
+    "tStartMs": 178133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "因为即使我们都已经不是儿童了\nyīnwèi jíshǐ wǒmen dōu yǐjīng bùshì értóng le"
+    } ]
+  }, {
+    "tStartMs": 181766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "但是呢\ndànshì ne"
+    } ]
+  }, {
+    "tStartMs": 182466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "在六一儿童节的时候\nzài liù yī értóng jié de shíhou"
+    } ]
+  }, {
+    "tStartMs": 184666,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "中国的年轻人还是会去\nzhōngguó de niánqīngrén háishi huì qù"
+    } ]
+  }, {
+    "tStartMs": 187933,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "肯德基麦当劳吃一份儿童套餐\nkěndéjī màidāngláo chī yī fènr tóng tàocān"
+    } ]
+  }, {
+    "tStartMs": 192233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "给自己买一些玩具\ngěi zìjǐ mǎi yīxiē wánjù"
+    } ]
+  }, {
+    "tStartMs": 194900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "近些年呢\njìn xiē nián ne"
+    } ]
+  }, {
+    "tStartMs": 195700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "这些快餐连锁也在\nzhèxiē kuàicān liánsuǒ yě zài"
+    } ]
+  }, {
+    "tStartMs": 198266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "六一儿童节的时候相继推出了\nliù yī értóng jié de shíhou xiāngjì tuīchū le"
+    } ]
+  }, {
+    "tStartMs": 201766,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "一些比较适合成人的儿童套餐\nyīxiē bǐjiào shìhé chéngrén de értóng tàocān"
+    } ]
+  }, {
+    "tStartMs": 206366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "这些儿童套餐里面吃的食物呢\nzhèxiē értóng tàocān lǐmiàn chī de shíwù ne"
+    } ]
+  }, {
+    "tStartMs": 209200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "和以前没有太大的区别\nhé yǐqián méiyǒu tài dà de qūbié"
+    } ]
+  }, {
+    "tStartMs": 211800,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "但是他们做出了很多很多的周边\ndànshì tāmen zuòchū le hěn duō hěn duō de zhōubiān"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这些玩具呢\nzhèxiē wánjù ne"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "而且应运而生的还有\nérqiě yìngyùnérshēng de háiyǒu"
+    } ]
+  }, {
+    "tStartMs": 220233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就是儿童节\njiùshì értóng jié"
+    } ]
+  }, {
+    "tStartMs": 221833,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "情侣们也会在儿童节这一天\nqínglǔ men yě huì zài értóng jié zhè yìtiān"
+    } ]
+  }, {
+    "tStartMs": 224800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "去约个会\nqù yuē gè huì"
+    } ]
+  }, {
+    "tStartMs": 226433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "一起度过\nyīqǐ dùguò"
+    } ]
+  }, {
+    "tStartMs": 227833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "所以我觉得现在可能也是大家就是\nsuǒyǐ wǒ juéde xiànzài kěnéng yě shì dàjiā jiùshì"
+    } ]
+  }, {
+    "tStartMs": 232300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我觉得可能也是因为\nwǒ juéde kěnéng yě shì yīnwèi"
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "现在大家的娱乐方式实在是太多样了\nxiànzài dàjiā de yúlè fāngshì shízài shì tài duōyàng le"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "多一个儿童节也不是很多\nduō yígè értóng jié yě bùshì hěn duō"
+    } ]
+  }, {
+    "tStartMs": 240033,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "对吗\nduì ma"
+    } ]
+  }, {
+    "tStartMs": 240833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "对于我自己来讲的话\nduìyú wǒ zìjǐ láijiǎng dehuà"
+    } ]
+  }, {
+    "tStartMs": 242800,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我给自己的仪式感\nwǒ gěi zìjǐ de yíshì gǎn"
+    } ]
+  }, {
+    "tStartMs": 244633,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "早些年自己还是一个消费主义的时候\nzǎoxiē nián zìjǐ háishi yígè xiāofèi zhǔyì de shíhou"
+    } ]
+  }, {
+    "tStartMs": 248133,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我会在自己每年的生日这一天\nwǒ huì zài zìjǐ měinián de shēngrì zhè yìtiān"
+    } ]
+  }, {
+    "tStartMs": 252266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "给自己一点点仪式感\ngěi zìjǐ yīdiǎndiǎn yíshì gǎn"
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "然后去拍一组照片\nránhòu qù pāi yī zǔ zhàopiàn"
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "在中国写真这个行业呢\nzài zhōngguó xiězhēn zhège hángyè ne"
+    } ]
+  }, {
+    "tStartMs": 260700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "还是一直存在的\nháishi yīzhí cúnzài de"
+    } ]
+  }, {
+    "tStartMs": 262333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "市场里面呢\nshìchǎng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 263200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "一直存在着「生日写真」这一项服务\nyīzhí cúnzài zhe \"shēngrì xiězhēn\" zhè yī xiàng fúwù"
+    } ]
+  }, {
+    "tStartMs": 266766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "大家可以很简单地\ndàjiā kěyǐ hěn jiǎndān dì"
+    } ]
+  }, {
+    "tStartMs": 268500,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "在网络上面啊团购一个套餐\nzài wǎngluò shàngmiàn a tuángòu yígè tàocān"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "然后去写真店\nránhòu qù xiězhēn diàn"
+    } ]
+  }, {
+    "tStartMs": 274700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "拍照片的店铺里面去拍一组写真\npāizhào piàn de diànpù lǐmiàn qù pāi yī zǔ xiězhēn"
+    } ]
+  }, {
+    "tStartMs": 278700,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "商家在这些年呢\nshāngjiā zài zhèxiē nián ne"
+    } ]
+  }, {
+    "tStartMs": 280766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "推出了更多更多的服务\ntuīchū le gèng duō gèng duō de fúwù"
+    } ]
+  }, {
+    "tStartMs": 283466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "他们会有各种不一样的主题\ntāmen huì yǒu gèzhǒng bùyīyàng de zhǔtí"
+    } ]
+  }, {
+    "tStartMs": 286566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "那在生日这一天\nnà zài shēngrì zhè yìtiān"
+    } ]
+  }, {
+    "tStartMs": 288166,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "去参加一个主题的拍摄活动\nqù cānjiā yígè zhǔtí de pāishè huódòng"
+    } ]
+  }, {
+    "tStartMs": 291633,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "那也是一件很有纪念意义的事情\nnà yě shì yī jiàn hěn yǒu jìniàn yìyì de shìqing"
+    } ]
+  }, {
+    "tStartMs": 295033,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "这个在早年期间我很喜欢做\nzhège zài zǎonián qījiān wǒ hěn xǐhuan zuò"
+    } ]
+  }, {
+    "tStartMs": 298700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "去了日本之后呢\nqù le rìběn zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 300533,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "因为自己每天都在拍照\nyīnwèi zìjǐ měitiān dōu zài pāizhào"
+    } ]
+  }, {
+    "tStartMs": 303300,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "手机的功能越出越好\nshǒujī de gōngnéng yuè chū yuè hǎo"
+    } ]
+  }, {
+    "tStartMs": 306033,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "各种美颜的APP出现了\ngèzhǒng měi yán de APP chūxiàn le"
+    } ]
+  }, {
+    "tStartMs": 309200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "大家也已经开始习惯了\ndàjiā yě yǐjīng kāishǐ xíguàn le"
+    } ]
+  }, {
+    "tStartMs": 311633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "每天拍摄好看的照片\nměitiān pāishè hǎokàn de zhàopiàn"
+    } ]
+  }, {
+    "tStartMs": 314466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "用美颜相机给自己修出\nyòng měi yán xiàngjī gěi zìjǐ xiū chū"
+    } ]
+  }, {
+    "tStartMs": 317133,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "特别好的照片的时候\ntèbié hǎo de zhàopiàn de shíhou"
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "并且有专门的拍照相机相继而出的时候呢\nbìngqiě yǒu zhuānmén de pāizhào xiàngjī xiāngjì ér chū de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "这个时候我已经不去写真店拍写真了\nzhège shíhou wǒ yǐjīng bù qù xiězhēn diàn pāi xiězhēn le"
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "后来呢\nhòulái ne"
+    } ]
+  }, {
+    "tStartMs": 330033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我生日的时候\nwǒ shēngrì de shíhou"
+    } ]
+  }, {
+    "tStartMs": 331800,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "我会给自己买一份甜点\nwǒ huì gěi zìjǐ mǎi yī fèn tiándiǎn"
+    } ]
+  }, {
+    "tStartMs": 335233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这份甜点呢\nzhè fèn tiándiǎn ne"
+    } ]
+  }, {
+    "tStartMs": 336566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "平时吃好像有一点点太甜\npíngshí chī hǎoxiàng yǒu yīdiǎndiǎn tài tián"
+    } ]
+  }, {
+    "tStartMs": 339766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但是一年只有在生日的这天\ndànshì yī nián zhǐ yǒu zài shēngrì de zhètiān"
+    } ]
+  }, {
+    "tStartMs": 342766,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "尝一尝这个也不算特别好吃\ncháng yī cháng zhège yě bù suàn tèbié hǎochī"
+    } ]
+  }, {
+    "tStartMs": 346466,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "但是做的特别精致的甜品的时候\ndànshì zuò de tèbié jīngzhì de tiánpǐn de shíhou"
+    } ]
+  }, {
+    "tStartMs": 350266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我还是会觉得很有纪念意义的\nwǒ háishi huì juéde hěn yǒu jìniàn yìyì de"
+    } ]
+  }, {
+    "tStartMs": 353566,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "我记得\nwǒ jìde"
+    } ]
+  }, {
+    "tStartMs": 354500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我在日本的期间\nwǒ zài rìběn de qījiān"
+    } ]
+  }, {
+    "tStartMs": 356100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "我会经常去一家法国的甜品店\nwǒ huì jīngcháng qù yījiā fǎguó de tiánpǐn diàn"
+    } ]
+  }, {
+    "tStartMs": 360400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "哈哈\nhāhā"
+    } ]
+  }, {
+    "tStartMs": 362033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这个甜品店它做的\nzhège tiánpǐn diàn tā zuò de"
+    } ]
+  }, {
+    "tStartMs": 363666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "最出名的甜品就是马卡龙\nzuì chūmíng de tiánpǐn jiùshì mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 367333,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "这个牌子呢叫做拉杜丽\nzhège páizi ne jiàozuò lā dù lì"
+    } ]
+  }, {
+    "tStartMs": 370600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "laduree"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "是吧？是这么读吗？\nshì ba? shì zhème dú ma?"
+    } ]
+  }, {
+    "tStartMs": 372866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "法语是这么说的吗\nfǎyǔ shì zhème shuō de ma"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "laduree在日本特别火\nladuree zài rìběn tèbié huǒ"
+    } ]
+  }, {
+    "tStartMs": 378500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "早些年它更火的时候呢\nzǎoxiē nián tā gèng huǒ de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 381200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "它还有推出美妆\ntā háiyǒu tuīchū měi zhuāng"
+    } ]
+  }, {
+    "tStartMs": 383566,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "中国女生去日本爆买的产品里面\nzhōngguó nǔshēng qù rìběn bào mǎi de chǎnpǐn lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 386800,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "绝对有一个laduree的花瓣腮红\njuéduì yǒu yígè laduree de huābàn sāihóng"
+    } ]
+  }, {
+    "tStartMs": 390766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我自己在日本居住的期间\nwǒ zìjǐ zài rìběn jūzhù de qījiān"
+    } ]
+  }, {
+    "tStartMs": 393133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "每年生日的时候\nměinián shēngrì de shíhou"
+    } ]
+  }, {
+    "tStartMs": 394900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "会去Laduree买一盒马卡龙\nhuì qù Laduree mǎi yī hé mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 398766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然后你说好吃吗\nránhòu nǐ shuōhǎo chī ma"
+    } ]
+  }, {
+    "tStartMs": 400600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "也就一般\nyě jiù yībān"
+    } ]
+  }, {
+    "tStartMs": 401666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "但是我会觉得\ndànshì wǒ huì juéde"
+    } ]
+  }, {
+    "tStartMs": 402766,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "这是给自己的一个仪式感\nzhè shì gěi zìjǐ de yígè yíshì gǎn"
+    } ]
+  }, {
+    "tStartMs": 407900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "然后和朋友们一起分享一盒里面\nránhòu hé péngyou men yīqǐ fēnxiǎng yī hé lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 411433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "不同口味的马卡龙\nbùtóng kǒuwèi de mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 413966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我还记得我去德国的第一年\nwǒ hái jìde wǒqù déguó de dìyī nián"
+    } ]
+  }, {
+    "tStartMs": 416866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我特意调开了航班\nwǒ tèyì diào kāi le hángbān"
+    } ]
+  }, {
+    "tStartMs": 419766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "然后想要保持自己之前\nránhòu xiǎngyào bǎochí zìjǐ zhīqián"
+    } ]
+  }, {
+    "tStartMs": 423066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "已经有的这个生日仪式\nyǐjīng yǒude zhège shēngrì yíshì"
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我特意飞去了巴黎去度过了一个生日\nwǒ tèyì fēi qù le bālí qù dùguò le yígè shēngrì"
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "然后在生日这一天\nránhòu zài shēngrì zhè yìtiān"
+    } ]
+  }, {
+    "tStartMs": 430566,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "去了位于法国巴黎的laduree店里面\nqù le wèiyú fǎguó bālí de laduree diàn lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 434633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "买了一盒马卡龙\nmǎi le yī hé mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我身边呢\nwǒ shēnbiān ne"
+    } ]
+  }, {
+    "tStartMs": 437966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "现在有马卡龙的周边产品\nxiànzài yǒu mǎkǎlóng de zhōubiān chǎnpǐn"
+    } ]
+  }, {
+    "tStartMs": 441666,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "因为马卡龙的这个设计很可爱\nyīnwèi mǎkǎlóng de zhège shèjì hěn kěài"
+    } ]
+  }, {
+    "tStartMs": 444966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "在日本呢\nzài rìběn ne"
+    } ]
+  }, {
+    "tStartMs": 446133,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "它有被做成各种各样的商品\ntā yǒu bèi zuò chéng gèzhǒnggèyàng de shāngpǐn"
+    } ]
+  }, {
+    "tStartMs": 449566,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "又和其他品牌联名出了很多周边\nyòu hé qítā pǐnpái liánmíng chū le hěn duō zhōubiān"
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我现在呢\nwǒ xiànzài ne"
+    } ]
+  }, {
+    "tStartMs": 455366,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "还保留着之前买的一个laduree的周边产品\nhái bǎoliú zhe zhīqián mǎi de yígè laduree de zhōubiān chǎnpǐn"
+    } ]
+  }, {
+    "tStartMs": 459300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "想要和大家分享一下\nxiǎngyào hé dàjiā fēnxiǎng yīxià"
+    } ]
+  }, {
+    "tStartMs": 462300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这就是一盒马卡龙\nzhè jiùshì yī hé mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 465033,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "其实呢\nqíshí ne"
+    } ]
+  }, {
+    "tStartMs": 465733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "吃的甜品的马卡龙和\nchī de tiánpǐn de mǎkǎlóng hé"
+    } ]
+  }, {
+    "tStartMs": 467700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这个包装是一模一样的\nzhège bāozhuāng shì yīmúyīyàng de"
+    } ]
+  }, {
+    "tStartMs": 470200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "只是比这个更大一点\nzhǐshì bǐ zhège gèng dàyī diǎn"
+    } ]
+  }, {
+    "tStartMs": 473333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "大家可以看哦\ndàjiā kěyǐ kàn ó"
+    } ]
+  }, {
+    "tStartMs": 474566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这是一个盒子\nzhè shì yígè hézi"
+    } ]
+  }, {
+    "tStartMs": 476333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "然后推出来给大家看一下\nránhòu tuīchū lái gěi dàjiā kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 481100,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "这个里面呢\nzhège lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 482366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "有三个不同颜色的马卡龙\nyǒu sānge bùtóng yánsè de mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我拿出来一个给大家看一下\nwǒ náchū lái yígè gěi dàjiā kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 491733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这个做的呢\nzhège zuò de ne"
+    } ]
+  }, {
+    "tStartMs": 492833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "完全就是一个吃的马卡龙的形状\nwánquán jiùshì yígè chī de mǎkǎlóng de xíngzhuàng"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我今天呢会留下一个悬念\nwǒ jīntiān ne huì liúxià yígè xuánniàn"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我今天呢会留下一个问题给大家\nwǒ jīntiān ne huì liúxià yígè wèntí gěi dàjiā"
+    } ]
+  }, {
+    "tStartMs": 505433,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "大家可以猜一猜\ndàjiā kěyǐ cāi yī cāi"
+    } ]
+  }, {
+    "tStartMs": 507266,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "这盒做成马卡龙形状的物品是什么吗\nzhè hé zuò chéng mǎkǎlóng xíngzhuàng de wùpǐn shì shénme ma"
+    } ]
+  }, {
+    "tStartMs": 513933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这有三个颜色哦\nzhè yǒu sānge yánsè ó"
+    } ]
+  }, {
+    "tStartMs": 515666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "做的大小和马卡龙也是一样的\nzuò de dàxiǎo hé mǎkǎlóng yě shì yīyàng de"
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "期待听到你们的答案\nqīdài tīngdào nǐmen de dáàn"
+    } ]
+  }, {
+    "tStartMs": 523866,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "你们可以在我的评论区留言告诉我\nnǐmen kěyǐ zài wǒ de pínglùn qū liúyán gàosu wǒ"
+    } ]
+  }, {
+    "tStartMs": 527400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "猜一猜这个是什么吗\ncāi yī cāi zhège shì shénme ma"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈\nhāhā"
+    } ]
+  }, {
+    "tStartMs": 531066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "这个是我之前买的一个产品\nzhège shì wǒ zhīqián mǎi de yígè chǎnpǐn"
+    } ]
+  }, {
+    "tStartMs": 534466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "但是我觉得它实在太可爱了\ndànshì wǒ juéde tā shízài tài kěài le"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我一直没有拆开用\nwǒ yīzhí méiyǒu chāikāi yòng"
+    } ]
+  }, {
+    "tStartMs": 538833,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 539466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "吃马卡龙\nchī mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "在我之前一直是\nzài wǒ zhīqián yīzhí shì"
+    } ]
+  }, {
+    "tStartMs": 542700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我生日的一个固定节目\nwǒ shēngrì de yígè gùdìng jiémù"
+    } ]
+  }, {
+    "tStartMs": 545600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "但是这个固定的节目\ndànshì zhège gùdìng de jiémù"
+    } ]
+  }, {
+    "tStartMs": 547700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "这个仪式感什么时候被我打破了呢\nzhège yíshì gǎn shénmeshíhou bèi wǒ dǎpò le ne"
+    } ]
+  }, {
+    "tStartMs": 552266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "其实也是在那一次去\nqíshí yě shì zài nà yīcì qù"
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "法国巴黎玩的旅程里面\nfǎguó bālí wán de lǔchéng lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 559100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "因为第一次去巴黎的时候\nyīnwèi dìyīcì qù bālí de shíhou"
+    } ]
+  }, {
+    "tStartMs": 560900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我第一天去吃了马卡龙\nwǒ dìyī tiān qù chī le mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 563433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "第二天\ndìèrtiān"
+    } ]
+  }, {
+    "tStartMs": 564400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "也就是在生日的第二天\nyějiùshì zài shēngrì de dìèrtiān"
+    } ]
+  }, {
+    "tStartMs": 567666,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "我去了一趟巴黎迪士尼玩\nwǒqù le yī tàng bālí díshìní wán"
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "当时我去迪士尼是和一个\ndāngshí wǒqù díshìní shì hé yígè"
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "墨西哥的好朋友一起去玩的\nmòxīgē de hǎopéngyou yīqǐ qù wán de"
+    } ]
+  }, {
+    "tStartMs": 576600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "迪士尼对于\ndíshìní duìyú"
+    } ]
+  }, {
+    "tStartMs": 577733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "中国和日本的朋友来讲都不算很陌生\nzhōngguó hé rìběn de péngyou láijiǎng dōu bù suàn hěn mòshēng"
+    } ]
+  }, {
+    "tStartMs": 581700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "因为我住在苏州\nyīnwèi wǒ zhù zài sūzhōu"
+    } ]
+  }, {
+    "tStartMs": 583300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们苏州呢\nwǒmen sūzhōu ne"
+    } ]
+  }, {
+    "tStartMs": 584600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "有一条地铁线是和\nyǒu yī tiáo dìtiě xiàn shì hé"
+    } ]
+  }, {
+    "tStartMs": 587466,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "上海迪士尼直接连接起来的\nshànghǎi díshìní zhíjiē liánjiē qilai de"
+    } ]
+  }, {
+    "tStartMs": 590866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "这个在未来的一期播客里面呢\nzhège zài wèilái de yī qī bōkè lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 593100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我会讲一讲这条地铁线\nwǒ huì jiǎng yī jiǎng zhè tiáo dìtiě xiàn"
+    } ]
+  }, {
+    "tStartMs": 595866,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "因为我的很多青春的故事\nyīnwèi wǒ de hěn duō qīngchūn de gùshì"
+    } ]
+  }, {
+    "tStartMs": 598300,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "都和这条地铁线是连接着的\ndōu hé zhè tiáo dìtiě xiàn shì liánjiē zhe de"
+    } ]
+  }, {
+    "tStartMs": 601866,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我不知道为什么\nwǒ bùzhī dào wèishénme"
+    } ]
+  }, {
+    "tStartMs": 603100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就是自从那次在\njiùshì zìcóng nà cì zài"
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "巴黎迪士尼度过了一个生日之后\nbālí díshìní dùguò le yígè shēngrì zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 609566,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "然后我就决定每年的生日\nránhòu wǒ jiù juédìng měinián de shēngrì"
+    } ]
+  }, {
+    "tStartMs": 612400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "都会去一趟迪士尼\ndūhuì qù yī tàng díshìní"
+    } ]
+  }, {
+    "tStartMs": 614866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "说起来迪士尼\nshuōqǐ lái díshìní"
+    } ]
+  }, {
+    "tStartMs": 616633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "其实我在日本居住的时候呢\nqíshí wǒ zài rìběn jūzhù de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "我有买迪士尼的年卡\nwǒ yǒu mǎi díshìní de nián kǎ"
+    } ]
+  }, {
+    "tStartMs": 621733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "东京呢\ndōngjīng ne"
+    } ]
+  }, {
+    "tStartMs": 622566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "是有两个迪士尼的园区的\nshì yǒu liǎng gè díshìní de yuánqū de"
+    } ]
+  }, {
+    "tStartMs": 625900,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "我当时还买了一个\nwǒ dāngshí hái mǎi le yígè"
+    } ]
+  }, {
+    "tStartMs": 627766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "两个园区都可以使用的年卡\nliǎng gè yuánqū dōu kěyǐ shǐyòng de nián kǎ"
+    } ]
+  }, {
+    "tStartMs": 630766,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "我特别记得在东京居住的第二年\nwǒ tèbié jìde zài dōngjīng jūzhù de dìèr nián"
+    } ]
+  }, {
+    "tStartMs": 633700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我已经适应了东京的生活\nwǒ yǐjīng shìyìng le dōngjīng de shēnghuó"
+    } ]
+  }, {
+    "tStartMs": 636733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "每天去语言学校上课\nměitiān qù yǔyánxué xiào shàngkè"
+    } ]
+  }, {
+    "tStartMs": 638900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "每天去塾上课\nměitiān qù shú shàngkè"
+    } ]
+  }, {
+    "tStartMs": 640700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "每天继续运营我自己的店铺\nměitiān jìxù yùnyíng wǒ zìjǐ de diànpù"
+    } ]
+  }, {
+    "tStartMs": 643666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "然后这个时候呢\nránhòu zhège shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 644833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "在繁忙之余\nzài fánmáng zhī yú"
+    } ]
+  }, {
+    "tStartMs": 646500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我希望给自己\nwǒ xīwàng gěi zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 648066,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "每天有一点点的小的一个仪式感\nměitiān yǒu yīdiǎndiǎn de xiǎode yígè yíshì gǎn"
+    } ]
+  }, {
+    "tStartMs": 652600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "所以在和朋友们去了几次迪士尼之后\nsuǒyǐ zài hé péngyou men qù le jǐcì díshìní zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 655800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我决定买一张年卡\nwǒ juédìng mǎi yī zhāng nián kǎ"
+    } ]
+  }, {
+    "tStartMs": 658300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我用年卡\nwǒ yòng nián kǎ"
+    } ]
+  }, {
+    "tStartMs": 659433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我不会白天去\nwǒ bùhuì báitiān qù"
+    } ]
+  }, {
+    "tStartMs": 660833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "因为白天很多人\nyīnwèi báitiān hěn duō rén"
+    } ]
+  }, {
+    "tStartMs": 663033,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "迪士尼真的超级多的人\ndíshìní zhēn de chāojí duō de rén"
+    } ]
+  }, {
+    "tStartMs": 665100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "玩什么项目都要排队\nwán shénme xiàngmù dōu yào páiduì"
+    } ]
+  }, {
+    "tStartMs": 667566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我经常会在忙碌了一天之后\nwǒ jīngcháng huì zài mánglù le yìtiān zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 670633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "晚上5点钟、6点钟\nwǎnshang 5 diǎnzhōng、 6 diǎnzhōng"
+    } ]
+  }, {
+    "tStartMs": 673333,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "当大家都在赶着回家吃晚饭的时候\ndāng dàjiā dōu zài gǎn zhe huíjiā chī wǎnfàn de shíhou"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "跟家人团聚的时候\ngēn jiārén tuánjù de shíhou"
+    } ]
+  }, {
+    "tStartMs": 679900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我这个时候会一个人向着迪士尼出发\nwǒ zhège shíhou huì yīgèrén xiàng zhe díshìní chūfā"
+    } ]
+  }, {
+    "tStartMs": 683366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "从我居住的suginami-ku\ncóng wǒ jūzhù de suginami-ku"
+    } ]
+  }, {
+    "tStartMs": 686300,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "迪士尼所在的maihama-eki\ndíshìní suǒzài de maihama-eki"
+    } ]
+  }, {
+    "tStartMs": 689400,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "我会晚上在迪士尼看一场烟花\nwǒ huì wǎnshang zài díshìní kàn yī chǎng yānhuā"
+    } ]
+  }, {
+    "tStartMs": 694733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后早点回家\nránhòu zǎodiǎn huíjiā"
+    } ]
+  }, {
+    "tStartMs": 696100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "自从我买了迪士尼年卡之后\nzìcóng wǒ mǎi le díshìní nián kǎ zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 698500,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我就不会再拘束于我什么时候去\nwǒ jiù bùhuì zài jūshù yú wǒ shénmeshíhou qù"
+    } ]
+  }, {
+    "tStartMs": 701733,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "所以我经常晚上会去迪士尼\nsuǒyǐ wǒ jīngcháng wǎnshang huì qù díshìní"
+    } ]
+  }, {
+    "tStartMs": 704666,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "尤其是在夏天的时候\nyóuqíshì zài xiàtiān de shíhou"
+    } ]
+  }, {
+    "tStartMs": 707133,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "看完烟花之后一个人坐电车回家\nkàn wán yānhuā zhīhòu yīgèrén zuò diànchē huíjiā"
+    } ]
+  }, {
+    "tStartMs": 710366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "啊！完成了一天\na! wánchéng le yìtiān"
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "我是一个e人\nwǒ shì yígè e rén"
+    } ]
+  }, {
+    "tStartMs": 713066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我一直都是一个e人\nwǒ yīzhí dōu shì yígè e rén"
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "e人呢\ne rén ne"
+    } ]
+  }, {
+    "tStartMs": 715666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "就是需要从人群里面去汲取能量\njiùshì xūyào cóng rénqún lǐmiàn qù jíqǔ néngliàng"
+    } ]
+  }, {
+    "tStartMs": 719900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但是我是一个喜欢独处的e人\ndànshì wǒ shì yígè xǐhuan dúchǔ de e rén"
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 723833,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我会特别喜欢在人群里面独处\nwǒ huì tèbié xǐhuan zài rénqún lǐmiàn dúchǔ"
+    } ]
+  }, {
+    "tStartMs": 727700,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "尤其是迪士尼这种充满了欢乐的地方\nyóuqíshì díshìní zhèzhǒng chōngmǎn le huānlè de dìfāng"
+    } ]
+  }, {
+    "tStartMs": 732333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我特别记得那个时候\nwǒ tèbié jìde nàge shíhou"
+    } ]
+  }, {
+    "tStartMs": 733533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我经常会在迪士尼的\nwǒ jīngcháng huì zài díshìní de"
+    } ]
+  }, {
+    "tStartMs": 735500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "角落里面找一个位置\njiǎoluò lǐmiàn zhǎo yígè wèizhi"
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "然后坐在那个长椅上面\nránhòu zuò zài nàge chángyǐ shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 740533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "一个人吃着冰淇淋\nyīgèrén chī zhe bīngqílín"
+    } ]
+  }, {
+    "tStartMs": 742900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "然后看着周围的日本高中生\nránhòu kàn zhe zhōuwéi de rìběn gāozhōngshēng"
+    } ]
+  }, {
+    "tStartMs": 745733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "日本的游人\nrìběn de yóurén"
+    } ]
+  }, {
+    "tStartMs": 747200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "然后叽叽喳喳、\nránhòu jījīzhāzhā、"
+    } ]
+  }, {
+    "tStartMs": 748433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "兴奋地说着一些\nxīngfèn dì shuō zhe yīxiē"
+    } ]
+  }, {
+    "tStartMs": 749933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "ah～kirei（美丽的）～kirei之类的这种话\nah～ kirei (měilì de)～ kirei zhīlèi de zhèzhǒng huà"
+    } ]
+  }, {
+    "tStartMs": 752900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "然后我的心里面就会特别开心\nránhòu wǒ de xīnli miàn jiù huì tèbié kāixīn"
+    } ]
+  }, {
+    "tStartMs": 755433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这是我汲取能量的一个来源\nzhè shì wǒ jíqǔ néngliàng de yígè láiyuán"
+    } ]
+  }, {
+    "tStartMs": 757933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "等到我去了欧洲之后呢\nděngdào wǒqù le ōuzhōu zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 760466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "巴黎对我来讲的话\nbālí duì wǒ láijiǎng dehuà"
+    } ]
+  }, {
+    "tStartMs": 762133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "还是有点太远\nháishi yǒudiǎn tài yuǎn"
+    } ]
+  }, {
+    "tStartMs": 763900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "我就只能在每年过生日的时候去\nwǒ jiù zhǐnéng zài měinián guò shēngrì de shíhou qù"
+    } ]
+  }, {
+    "tStartMs": 767433,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "巴黎迪士尼或者去香港迪士尼度过\nbālí díshìní huòzhě qù xiānggǎng díshìní dùguò"
+    } ]
+  }, {
+    "tStartMs": 772666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "等到我回到了中国\nděngdào wǒ huídào le zhōngguó"
+    } ]
+  }, {
+    "tStartMs": 774800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "上海迪士尼虽然很远\nshànghǎi díshìní suīrán hěn yuǎn"
+    } ]
+  }, {
+    "tStartMs": 776666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但是我们这里的交通比较方便\ndànshì wǒmen zhèlǐ de jiāotōng bǐjiào fāngbiàn"
+    } ]
+  }, {
+    "tStartMs": 779500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "这个时候呢\nzhège shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 780633,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我每年的生日也会去迪士尼游玩\nwǒ měinián de shēngrì yě huì qù díshìní yóuwán"
+    } ]
+  }, {
+    "tStartMs": 784066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "去年\nqùnián"
+    } ]
+  }, {
+    "tStartMs": 785033,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我带着我妈妈第一次去了迪士尼\nwǒ dài zhe wǒ māma dìyīcì qù le díshìní"
+    } ]
+  }, {
+    "tStartMs": 788800,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "然后跟我妈疯狂地坐所有的项目\nránhòu gēn wǒ mā fēngkuáng dì zuò suǒyǒu de xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 792633,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我是很喜欢\nwǒ shì hěn xǐhuan"
+    } ]
+  }, {
+    "tStartMs": 793966,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "对\nduì"
+    } ]
+  }, {
+    "tStartMs": 794233,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "我去迪士尼我最开心的就是我会排队\nwǒqù díshìní wǒ zuì kāixīn de jiùshì wǒ huì páiduì"
+    } ]
+  }, {
+    "tStartMs": 797700,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "去一遍一遍地玩那些很刺激的项目\nqù yībiàn yībiàn dì wán nàxiē hěn cìjī de xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 801700,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "因为我很享受那种\nyīnwèi wǒ hěn xiǎngshòu nàzhǒng"
+    } ]
+  }, {
+    "tStartMs": 803333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "肾上腺素飙升的感觉\nshènshàngxiànsù biāoshēng de gǎnjué"
+    } ]
+  }, {
+    "tStartMs": 806633,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "然后\nránhòu"
+    } ]
+  }, {
+    "tStartMs": 807300,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "其实呢\nqíshí ne"
+    } ]
+  }, {
+    "tStartMs": 808133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "一个人去迪士尼玩还有一个好处哦\nyīgèrén qù díshìní wán háiyǒu yígè hǎochu ó"
+    } ]
+  }, {
+    "tStartMs": 811233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "那就是\nnà jiùshì"
+    } ]
+  }, {
+    "tStartMs": 813333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "经常他会有那种单人通道\njīngcháng tā huì yǒu nàzhǒng dānrén tōngdào"
+    } ]
+  }, {
+    "tStartMs": 816733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "可能有一些家庭或者\nkěnéng yǒuyīxiē jiātíng huòzhě"
+    } ]
+  }, {
+    "tStartMs": 819600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "group一起去玩的时候呢\ngroup yīqǐ qù wán de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 821300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "是单位数的人\nshì dānwèi shù de rén"
+    } ]
+  }, {
+    "tStartMs": 822700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "是三个人或者五个人\nshì sānge rén huòzhě wǔ gèrén"
+    } ]
+  }, {
+    "tStartMs": 824733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "那一般的位置呢\nnà yībān de wèizhi ne"
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "又是双数的\nyòu shì shuāngshù de"
+    } ]
+  }, {
+    "tStartMs": 828433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "这个时候就会有一个位置被空下来了\nzhège shíhou jiù huì yǒu yígè wèizhi bèi kōng xiàlai le"
+    } ]
+  }, {
+    "tStartMs": 832100,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "这个时候\nzhège shíhou"
+    } ]
+  }, {
+    "tStartMs": 832833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "一个人去玩的时候\nyīgèrén qù wán de shíhou"
+    } ]
+  }, {
+    "tStartMs": 834400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就可以捡漏\njiù kěyǐ jiǎn lòu"
+    } ]
+  }, {
+    "tStartMs": 835800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "就可以享受这种\njiù kěyǐ xiǎngshòu zhèzhǒng"
+    } ]
+  }, {
+    "tStartMs": 837466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "不用排两三个小时的队\nbùyòng pái liǎngsānge xiǎoshí de duì"
+    } ]
+  }, {
+    "tStartMs": 839700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "就可以快速玩到这个项目的一个乐趣\njiù kěyǐ kuàisù wán dào zhège xiàngmù de yígè lèqù"
+    } ]
+  }, {
+    "tStartMs": 843933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 844833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 845666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我特别喜欢一个人去玩\nwǒ tèbié xǐhuan yīgèrén qù wán"
+    } ]
+  }, {
+    "tStartMs": 847400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我也特别喜欢买年卡\nwǒ yě tèbié xǐhuan mǎi nián kǎ"
+    } ]
+  }, {
+    "tStartMs": 849200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "因为我就是想要去享受一下这个刺激\nyīnwèi wǒ jiùshì xiǎngyào qù xiǎngshòu yīxià zhège cìjī"
+    } ]
+  }, {
+    "tStartMs": 854633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "去年呢\nqùnián ne"
+    } ]
+  }, {
+    "tStartMs": 855233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我带着我妈妈一起去了一趟迪士尼\nwǒ dài zhe wǒ māma yīqǐ qù le yī tàng díshìní"
+    } ]
+  }, {
+    "tStartMs": 858733,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我爸爸妈妈呢\nwǒ bàba māma ne"
+    } ]
+  }, {
+    "tStartMs": 859800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "他们是对于这种刺激的项目呢\ntāmen shì duìyú zhèzhǒng cìjī de xiàngmù ne"
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "受不了\nshòubùliǎo"
+    } ]
+  }, {
+    "tStartMs": 863333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我们苏州本地也有一个乐园\nwǒmen sūzhōu běndì yě yǒu yígè lèyuán"
+    } ]
+  }, {
+    "tStartMs": 866200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "也有一个主题乐园\nyě yǒu yígè zhǔtílèyuán"
+    } ]
+  }, {
+    "tStartMs": 867633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我爸爸妈妈之前去过一趟\nwǒ bàba māma zhīqián qù guò yī tàng"
+    } ]
+  }, {
+    "tStartMs": 870233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但是他们实在受不了那种刺激的项目\ndànshì tāmen shízài shòubùliǎo nàzhǒng cìjī de xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 873700,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "所以他们一直都不同意\nsuǒyǐ tāmen yīzhí dōu bùtóng yì"
+    } ]
+  }, {
+    "tStartMs": 875466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "花钱去迪士尼玩\nhuāqián qù díshìní wán"
+    } ]
+  }, {
+    "tStartMs": 877333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "但是去年我过生日的时候\ndànshì qùnián wǒ guò shēngrì de shíhou"
+    } ]
+  }, {
+    "tStartMs": 879400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "带着我妈妈一起去了一趟上海迪士尼\ndài zhe wǒ māma yīqǐ qù le yī tàng shànghǎi díshìní"
+    } ]
+  }, {
+    "tStartMs": 883266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "在这个整个玩的过程里面呢\nzài zhège zhěnggè wán de guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 886200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我和我妈经常还是捡漏\nwǒ hé wǒ mā jīngcháng háishi jiǎn lòu"
+    } ]
+  }, {
+    "tStartMs": 888966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "因为我想要多玩\nyīnwèi wǒ xiǎngyào duō wán"
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我想要重复的感受这种\nwǒ xiǎngyào chóngfù de gǎnshòu zhèzhǒng"
+    } ]
+  }, {
+    "tStartMs": 892566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "肾上腺素飙升的这种感觉\nshènshàngxiànsù biāoshēng de zhèzhǒng gǎnjué"
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我就想要享受这种刺激的感觉\nwǒ jiù xiǎngyào xiǎngshòu zhèzhǒng cìjī de gǎnjué"
+    } ]
+  }, {
+    "tStartMs": 897666,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我和我妈经常就是会单独行动\nwǒ hé wǒ mā jīngcháng jiùshì huì dāndú xíngdòng"
+    } ]
+  }, {
+    "tStartMs": 901600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "等到排队的时候\nděngdào páiduì de shíhou"
+    } ]
+  }, {
+    "tStartMs": 903066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "如果工作人员说\nrúguǒ gōngzuòrényuán shuō"
+    } ]
+  }, {
+    "tStartMs": 904933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "“有没有一个人的？”\n\"yǒu méiyǒu yīgèrén de?\""
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "然后我就会举手\nránhòu wǒ jiù huì jǔshǒu"
+    } ]
+  }, {
+    "tStartMs": 907633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我说：“我一个人！”\nwǒ shuō: \"wǒ yīgèrén!\""
+    } ]
+  }, {
+    "tStartMs": 908800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 911033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我妈妈也说一个人\nwǒ māma yě shuō yīgèrén"
+    } ]
+  }, {
+    "tStartMs": 912233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这个时候无非就是我和我妈\nzhège shíhou wúfēi jiùshì wǒ hé wǒ mā"
+    } ]
+  }, {
+    "tStartMs": 914666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "不是坐在同一排而已\nbùshì zuò zài tóngyī pái éryǐ"
+    } ]
+  }, {
+    "tStartMs": 917066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "但是我们可以一个很快速的玩呀\ndànshì wǒmen kěyǐ yígè hěn kuàisù de wán ya"
+    } ]
+  }, {
+    "tStartMs": 919800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我特别记得\nwǒ tèbié jìde"
+    } ]
+  }, {
+    "tStartMs": 920633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我们从早上10点钟入园\nwǒmen cóng zǎoshang 10 diǎnzhōng rù yuán"
+    } ]
+  }, {
+    "tStartMs": 923166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "一直到晚上闭园才回家\nyīzhí dào wǎnshang bì yuán cái huíjiā"
+    } ]
+  }, {
+    "tStartMs": 926666,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "这个中间可能玩了有十几趟吧\nzhège zhōngjiān kěnéng wán le yǒu shíjǐ tàng ba"
+    } ]
+  }, {
+    "tStartMs": 930300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我妈呢\nwǒ mā ne"
+    } ]
+  }, {
+    "tStartMs": 931100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "其实在中间她一直有在忍受\nqíshí zài zhōngjiān tā yīzhí yǒu zài rěnshòu"
+    } ]
+  }, {
+    "tStartMs": 933766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "她已经受不了了\ntā yǐjīng shòubùliǎo le"
+    } ]
+  }, {
+    "tStartMs": 936066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "她受不了的原因是因为\ntā shòubùliǎo de yuányīn shì yīnwèi"
+    } ]
+  }, {
+    "tStartMs": 937833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这些项目实在是太过于刺激\nzhèxiē xiàngmù shízài shì tàiguò yú cìjī"
+    } ]
+  }, {
+    "tStartMs": 941100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "就是她其实脑子一直在晕乎乎的\njiùshì tā qíshí nǎozi yīzhí zài yùnhūhū de"
+    } ]
+  }, {
+    "tStartMs": 944100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "她想要吐\ntā xiǎngyào tǔ"
+    } ]
+  }, {
+    "tStartMs": 945366,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "她觉得那种感觉就像晕车晕机\ntā juéde nàzhǒng gǎnjué jiù xiàng yùnchē yùnjī"
+    } ]
+  }, {
+    "tStartMs": 949133,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "在我们玩过最后一趟项目之后\nzài wǒmen wán guò zuìhòu yī tàng xiàngmù zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 953533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我妈从那个机器上面一下来\nwǒ mā cóng nàge jīqì shàngmiàn yīxià lái"
+    } ]
+  }, {
+    "tStartMs": 956233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "就一个人跑到垃圾桶那里\njiù yīgèrén pǎo dào lājītǒng nàli"
+    } ]
+  }, {
+    "tStartMs": 959033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "终于吐了出来\nzhōngyú tǔ le chulai"
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 963866,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "哎呀\nāiyā"
+    } ]
+  }, {
+    "tStartMs": 964133,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "我也不知道\nwǒ yě bùzhī dào"
+    } ]
+  }, {
+    "tStartMs": 964866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这是带我妈妈去玩还是受罪呢\nzhè shì dài wǒ māma qù wán háishi shòuzuì ne"
+    } ]
+  }, {
+    "tStartMs": 967433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "但是我妈妈告诉我\ndànshì wǒ māma gàosu wǒ"
+    } ]
+  }, {
+    "tStartMs": 968633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这是她过得很开心的一天\nzhè shì tā guòdé hěn kāixīn de yìtiān"
+    } ]
+  }, {
+    "tStartMs": 971866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "即使她已经吐了\njíshǐ tā yǐjīng tǔ le"
+    } ]
+  }, {
+    "tStartMs": 973233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "她还是觉得很开心的一天\ntā háishi juéde hěn kāixīn de yìtiān"
+    } ]
+  }, {
+    "tStartMs": 975633,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "因为之前我和我爸爸妈妈一起住\nyīnwèi zhīqián wǒ hé wǒ bàba māma yīqǐ zhù"
+    } ]
+  }, {
+    "tStartMs": 978700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我家里面有超级多的玩偶\nwǒ jiālǐ miàn yǒu chāojí duō de wánǒu"
+    } ]
+  }, {
+    "tStartMs": 981900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "我以前特别喜欢收集迪士尼的玩偶\nwǒ yǐqián tèbié xǐhuan shōují díshìní de wánǒu"
+    } ]
+  }, {
+    "tStartMs": 985033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "迪士尼的周边\ndíshìní de zhōubiān"
+    } ]
+  }, {
+    "tStartMs": 986366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然后我妈一直对它们\nránhòu wǒ mā yīzhí duì tāmen"
+    } ]
+  }, {
+    "tStartMs": 988733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就是很熟悉\njiùshì hěn shúxī"
+    } ]
+  }, {
+    "tStartMs": 990133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "虽然没有去过迪士尼\nsuīrán méiyǒu qù guò díshìní"
+    } ]
+  }, {
+    "tStartMs": 991766,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "但是她对迪士尼的\ndànshì tā duì díshìní de"
+    } ]
+  }, {
+    "tStartMs": 993300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "这些玩偶们都很熟悉\nzhèxiē wánǒu men dōu hěn shúxī"
+    } ]
+  }, {
+    "tStartMs": 997066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "因为她在家里面已经见过无数次了\nyīnwèi tā zài jiālǐ miàn yǐjīng jiàn guò wúshù cì le"
+    } ]
+  }, {
+    "tStartMs": 1000166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "所以当她第一次有这个机会\nsuǒyǐ dāng tā dìyīcì yǒu zhège jīhuì"
+    } ]
+  }, {
+    "tStartMs": 1002733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "进入到迪士尼园区的时候\njìnrù dào díshìní yuánqū de shíhou"
+    } ]
+  }, {
+    "tStartMs": 1005133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "发现那些原本在家里面的玩偶\nfāxiàn nàxiē yuánběn zài jiālǐ miàndī wánǒu"
+    } ]
+  }, {
+    "tStartMs": 1008000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "充斥着整个园区\nchōngchì zhe zhěnggè yuánqū"
+    } ]
+  }, {
+    "tStartMs": 1010700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "她就会觉得很熟悉\ntā jiù huì juéde hěn shúxī"
+    } ]
+  }, {
+    "tStartMs": 1013066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "她会有一种莫名的亲切感\ntā huì yǒu yīzhǒng mòmíng de qīnqiè gǎn"
+    } ]
+  }, {
+    "tStartMs": 1015766,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 1016300,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "我妈妈即使在快要闭园的时候吐了出来\nwǒ māma jíshǐ zài kuàiyào bì yuán de shíhou tǔ le chulai"
+    } ]
+  }, {
+    "tStartMs": 1021400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "但是她\ndànshì tā"
+    } ]
+  }, {
+    "tStartMs": 1022866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "哪怕直到今天\nnǎpà zhídào jīntiān"
+    } ]
+  }, {
+    "tStartMs": 1024200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "她也会经常跟我说\ntā yě huì jīngcháng gēn wǒ shuō"
+    } ]
+  }, {
+    "tStartMs": 1026333,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 1026700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "去迪士尼的经验很好\nqù díshìní de jīngyàn hěn hǎo"
+    } ]
+  }, {
+    "tStartMs": 1028966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "去迪士尼的感受很好\nqù díshìní de gǎnshòu hěn hǎo"
+    } ]
+  }, {
+    "tStartMs": 1031000,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 1031466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以我也在想着未来要不要\nsuǒyǐ wǒ yě zài xiǎng zhe wèilái yàobù yào"
+    } ]
+  }, {
+    "tStartMs": 1033766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "跟我妈每年迪士尼都要去呢\ngēn wǒ mā měinián díshìní dōu yào qù ne"
+    } ]
+  }, {
+    "tStartMs": 1036466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "要不要未来每年都去一趟迪士尼呢\nyàobù yào wèilái měinián dōu qù yī tàng díshìní ne"
+    } ]
+  }, {
+    "tStartMs": 1040066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯\nń"
+    } ]
+  }, {
+    "tStartMs": 1041166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "大家会有这种仪式感吗\ndàjiā huì yǒu zhèzhǒng yíshì gǎn ma"
+    } ]
+  }, {
+    "tStartMs": 1043966,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "你们会在每年的固定节日里面\nnǐmen huì zài měinián de gùdìng jiérì lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "给自己提供什么样的仪式感呢\ngěi zìjǐ tígōng shénmeyàng de yíshì gǎn ne"
+    } ]
+  }, {
+    "tStartMs": 1050566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "当然我觉得想要爱自己\ndāngrán wǒ juéde xiǎngyào ài zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 1053633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "接纳自己\njiēnà zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 1054833,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "也不一定是要给自己消费\nyě bùyīdìng shì yào gěi zìjǐ xiāofèi"
+    } ]
+  }, {
+    "tStartMs": 1058133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "这其实更多的是给自己提供一个机会\nzhè qíshí gèng duō de shì gěi zìjǐ tígōng yígè jīhuì"
+    } ]
+  }, {
+    "tStartMs": 1061700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "去倾听我们自己内心的声音\nqù qīngtīng wǒmen zìjǐ nèixīn de shēngyīn"
+    } ]
+  }, {
+    "tStartMs": 1065266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "陪自己去做真正想做的事情\npéi zìjǐ qù zuò zhēnzhèng xiǎng zuò de shìqing"
+    } ]
+  }, {
+    "tStartMs": 1068633,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "哪怕只是平平凡凡地度过每一天\nnǎpà zhǐshì píngpíng fán fán dì dùguò měiyī tiān"
+    } ]
+  }, {
+    "tStartMs": 1072300,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我觉得我现在做这个播客\nwǒ juéde wǒ xiànzài zuò zhège bōkè"
+    } ]
+  }, {
+    "tStartMs": 1075100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "也类似于一种「爱你老几」的体现\nyě lèisìyú yīzhǒng \"ài nǐ lǎo jǐ\" de tǐxiàn"
+    } ]
+  }, {
+    "tStartMs": 1079600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我自己一直是一个\nwǒ zìjǐ yīzhí shì yígè"
+    } ]
+  }, {
+    "tStartMs": 1081333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "喜欢和自我对话的人\nxǐhuan hé zìwǒ duìhuà de rén"
+    } ]
+  }, {
+    "tStartMs": 1083933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我以前呢\nwǒ yǐqián ne"
+    } ]
+  }, {
+    "tStartMs": 1085433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "会经常会有一点点奇怪\nhuì jīngcháng huì yǒu yīdiǎndiǎn qíguài"
+    } ]
+  }, {
+    "tStartMs": 1088133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我是那种坐在马桶上面\nwǒ shì nàzhǒng zuò zài mǎtǒng shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 1090600,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "然后突然会和自己对话的一个人\nránhòu tūrán huì hé zìjǐ duìhuà de yīgèrén"
+    } ]
+  }, {
+    "tStartMs": 1093733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就感觉我分离出来的\njiù gǎnjué wǒ fēnlí chulai de"
+    } ]
+  }, {
+    "tStartMs": 1095333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "一个人格会和自己对话\nyīgèrén gé huì hé zìjǐ duìhuà"
+    } ]
+  }, {
+    "tStartMs": 1098166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我会想象着\nwǒ huì xiǎngxiàng zhe"
+    } ]
+  }, {
+    "tStartMs": 1099133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "有一个人坐在对面采访我\nyǒu yīgèrén zuò zài duìmiàn cǎifǎng wǒ"
+    } ]
+  }, {
+    "tStartMs": 1101666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "然后我回答：\nránhòu wǒ huídá:"
+    } ]
+  }, {
+    "tStartMs": 1103233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "“我现在在做这个事情”\n\"wǒ xiànzài zài zuò zhège shìqing\""
+    } ]
+  }, {
+    "tStartMs": 1105000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "“我为什么想要做这个事情”\n\"wǒ wèishénme xiǎngyào zuò zhège shìqing\""
+    } ]
+  }, {
+    "tStartMs": 1107366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "“我这个事情已经做到了哪一步”\n\"wǒ zhège shìqing yǐjīng zuòdào le nǎ yī bù\""
+    } ]
+  }, {
+    "tStartMs": 1110266,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "我会经常坐在马桶上面和自己对话\nwǒ huì jīngcháng zuò zài mǎtǒng shàngmiàn hé zìjǐ duìhuà"
+    } ]
+  }, {
+    "tStartMs": 1115100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有的时候呢\nyǒudeshíhòu ne"
+    } ]
+  }, {
+    "tStartMs": 1116300,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "别人在我的洗手间外面\nbiéren zài wǒ de xǐshǒujiān wàimiàn"
+    } ]
+  }, {
+    "tStartMs": 1119533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "听到我在洗手间里面说话\ntīngdào wǒ zài xǐshǒujiān lǐmiàn shuōhuà"
+    } ]
+  }, {
+    "tStartMs": 1122333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "也会突然问：\nyě huì tūrán wèn:"
+    } ]
+  }, {
+    "tStartMs": 1123733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "”你在讲什么？“\n\"nǐ zài jiǎng shénme? \""
+    } ]
+  }, {
+    "tStartMs": 1125233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "但是其实我是在和自己对话\ndànshì qíshí wǒ shì zài hé zìjǐ duìhuà"
+    } ]
+  }, {
+    "tStartMs": 1128633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我以前会觉得这个举动呢\nwǒ yǐqián huì juéde zhège jǔdòng ne"
+    } ]
+  }, {
+    "tStartMs": 1131066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有一点点奇怪\nyǒu yīdiǎndiǎn qíguài"
+    } ]
+  }, {
+    "tStartMs": 1132633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "但是等到后来\ndànshì děngdào hòulái"
+    } ]
+  }, {
+    "tStartMs": 1134333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "尤其是我\nyóuqíshì wǒ"
+    } ]
+  }, {
+    "tStartMs": 1135966,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "开始真正的做了播客之后\nkāishǐ zhēnzhèng de zuò le bōkè zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 1138433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我会觉得现在的播客\nwǒ huì juéde xiànzài de bōkè"
+    } ]
+  }, {
+    "tStartMs": 1140866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "它其实也是在和自我对话\ntā qíshí yě shì zài hé zìwǒ duìhuà"
+    } ]
+  }, {
+    "tStartMs": 1144566,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "当然\ndāngrán"
+    } ]
+  }, {
+    "tStartMs": 1145033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "有了你们的陪伴\nyǒule nǐmen de péibàn"
+    } ]
+  }, {
+    "tStartMs": 1146333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我觉得很幸运\nwǒ juéde hěn xìngyùn"
+    } ]
+  }, {
+    "tStartMs": 1147766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "但是更多的\ndànshì gèng duō de"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我只是把这样的一个形式延续了下去\nwǒ zhǐshì bǎ zhèyàng de yígè xíngshì yánxù le xiàqù"
+    } ]
+  }, {
+    "tStartMs": 1152733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这也是爱自己的一种体现\nzhè yě shì ài zìjǐ de yīzhǒng tǐxiàn"
+    } ]
+  }, {
+    "tStartMs": 1155466,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "和自己自我对话\nhé zìjǐ zìwǒ duìhuà"
+    } ]
+  }, {
+    "tStartMs": 1157600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "也是一场温柔的自我接纳\nyě shì yī chǎng wēnróu de zìwǒ jiēnà"
+    } ]
+  }, {
+    "tStartMs": 1161200,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "所以「爱你老几」对我来说\nsuǒyǐ \"ài nǐ lǎo jǐ\" duìwǒláishuō"
+    } ]
+  }, {
+    "tStartMs": 1164066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "不是一个新的梗\nbùshì yígè xīn de gěng"
+    } ]
+  }, {
+    "tStartMs": 1165900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "它只是一种换汤不换药的\ntā zhǐshì yīzhǒng huàn tāng bù huàn yào de"
+    } ]
+  }, {
+    "tStartMs": 1169300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "我每天对自己说的一句话\nwǒ měitiān duì zìjǐ shuō de yījùhuà"
+    } ]
+  }, {
+    "tStartMs": 1172466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我每天对待自己\nwǒ měitiān duìdài zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 1174466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "爱自己的一种方式\nài zìjǐ de yīzhǒng fāngshì"
+    } ]
+  }, {
+    "tStartMs": 1177200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以\nsuǒyǐ"
+    } ]
+  }, {
+    "tStartMs": 1178000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你们会怎么爱自己呢？\nnǐmen huì zěnme ài zìjǐ ne?"
+    } ]
+  }, {
+    "tStartMs": 1181100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "你们会给自己准备什么样的仪式感呢\nnǐmen huì gěi zìjǐ zhǔnbèi shénmeyàng de yíshì gǎn ne"
+    } ]
+  }, {
+    "tStartMs": 1185966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "期待听见大家的回答\nqīdài tīngjiàn dàjiā de huídá"
+    } ]
+  }, {
+    "tStartMs": 1188033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "如果大家喜欢我的视频\nrúguǒ dàjiā xǐhuan wǒ de shìpín"
+    } ]
+  }, {
+    "tStartMs": 1190000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "欢迎大家留言点赞并且订阅我的频道\nhuānyíng dàjiā liúyán diǎnzàn bìngqiě dìngyuè wǒ de píndào"
+    } ]
+  }, {
+    "tStartMs": 1194233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好啦\nhǎo la"
+    } ]
+  }, {
+    "tStartMs": 1195366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "以上就是今天的全部内容\nyǐshàng jiùshì jīntiān de quánbù nèiróng"
+    } ]
+  }, {
+    "tStartMs": 1197800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "感谢大家的观看\ngǎnxiè dàjiā de guānkàn"
+    } ]
+  }, {
+    "tStartMs": 1199433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "感谢大家的陪伴\ngǎnxiè dàjiā de péibàn"
+    } ]
+  }, {
+    "tStartMs": 1200966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "那我们就下期视频再见喽\nnà wǒmen jiù xià qī shìpín zàijiàn lóu"
+    } ]
+  }, {
+    "tStartMs": 1203966,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "爱你们\nài nǐmen"
+    } ]
+  }, {
+    "tStartMs": 1204700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "朋友们\npéngyou men"
+    } ]
+  }, {
+    "tStartMs": 1205533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "下期见\nxià qī jiàn"
+    } ]
+  }, {
+    "tStartMs": 1206566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜\nbáibái"
+    } ]
+  } ]
+}

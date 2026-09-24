@@ -1,0 +1,2587 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3824,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "零食，\nlíng shí，\nsnacks,"
+    } ]
+  }, {
+    "tStartMs": 5057,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "瓜子，\nguā zǐ，\nmelon seeds,"
+    } ]
+  }, {
+    "tStartMs": 6465,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "薯片，\nshǔ piàn，\npotato chips,"
+    } ]
+  }, {
+    "tStartMs": 7807,
+    "dDurationMs": 692,
+    "segs": [ {
+      "utf8": "盘子\npán zǐ\nplate"
+    } ]
+  }, {
+    "tStartMs": 8526,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "筷子\nkuài zǐ\nchopsticks"
+    } ]
+  }, {
+    "tStartMs": 9332,
+    "dDurationMs": 791,
+    "segs": [ {
+      "utf8": "鸡爪\njī zhǎo\nchicken feet"
+    } ]
+  }, {
+    "tStartMs": 12187,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "非常辣，泡椒\nfēi cháng là， pào jiāo\nvery spicy, pickled chili peppers"
+    } ]
+  }, {
+    "tStartMs": 15077,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "玉米条\nyù mǐ tiáo\ncorn sticks"
+    } ]
+  }, {
+    "tStartMs": 16697,
+    "dDurationMs": 2228,
+    "segs": [ {
+      "utf8": "旺仔小馒头，\nwàng zī xiǎo mán tou，\nWangzai Mini Buns,"
+    } ]
+  }, {
+    "tStartMs": 19326,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "很小很小一颗\nhěn xiǎo hěn xiǎo yī kē\nvery tiny little pieces"
+    } ]
+  }, {
+    "tStartMs": 22058,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "果冻，这是果冻\nguǒ dòng， zhè shì guǒ dòng\njelly, this is jelly"
+    } ]
+  }, {
+    "tStartMs": 28855,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "你们好，我是 Jade。\nnǐ men hǎo， wǒ shì Jade。\nHello, I’m Jade."
+    } ]
+  }, {
+    "tStartMs": 32775,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "今天我在超市买了很多零食\njīn tiān wǒ zài chāo shì mǎi le hěn duō líng shí\nToday I bought a lot of snacks at the supermarket"
+    } ]
+  }, {
+    "tStartMs": 40377,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "我在超市买，用钱买了很多零食\nwǒ zài chāo shì mǎi， yòng qián mǎi le hěn duō líng shí\nI bought a lot of snacks at the supermarket with money"
+    } ]
+  }, {
+    "tStartMs": 51328,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "我买了这么一大袋零食，零食\nwǒ mǎi le zhè me yī dà dài líng shí， líng shí\nI bought such a big bag of snacks, snacks"
+    } ]
+  }, {
+    "tStartMs": 57567,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "这里面都是零食\nzhè lǐ miàn dū shì líng shí\nThese are all snacks"
+    } ]
+  }, {
+    "tStartMs": 61926,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "那在这个视频我会跟你们分享一些\nnà zài zhè gè shì pín wǒ huì gēn nǐ men fēn xiǎng yī xiē\nIn this video I’ll share with you some"
+    } ]
+  }, {
+    "tStartMs": 69358,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "在中国大家经常吃的，经常吃的\nzài zhōng guó dà jiā jīng cháng chī de， jīng cháng chī de\nsnacks that people in China often eat, often eat"
+    } ]
+  }, {
+    "tStartMs": 77113,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "一些零食都有哪些\nyī xiē líng shí dū yǒu něi xiē\nwhat kinds of snacks there are"
+    } ]
+  }, {
+    "tStartMs": 81815,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我们一起来看看吧\nwǒ men yī qǐ lái kàn kàn bā\nLet’s take a look together"
+    } ]
+  }, {
+    "tStartMs": 88042,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "第一种最常见的零食\ndì yī zhǒng zuì cháng jiàn de líng shí\nThe first most common snack"
+    } ]
+  }, {
+    "tStartMs": 93002,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "就是瓜子，瓜子\njiù shì guā zǐ， guā zǐ\nis melon seeds, melon seeds"
+    } ]
+  }, {
+    "tStartMs": 98762,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这是两包，两包\nzhè shì liǎng bāo， liǎng bāo\nThese are two bags, two bags"
+    } ]
+  }, {
+    "tStartMs": 102500,
+    "dDurationMs": 4582,
+    "segs": [ {
+      "utf8": "一，二，两包瓜子\nyī， èr， liǎng bāo guā zǐ\nOne, two, two bags of melon seeds"
+    } ]
+  }, {
+    "tStartMs": 107722,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "瓜子，瓜子是一种很常见的零食\nguā zǐ， guā zǐ shì yī zhǒng hěn cháng jiàn de líng shí\nMelon seeds are a very common snack"
+    } ]
+  }, {
+    "tStartMs": 116202,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "在中国很多人都喜欢吃瓜子\nzài zhōng guó hěn duō rén dū xǐ huān chī guā zǐ\nIn China, many people like to eat melon seeds"
+    } ]
+  }, {
+    "tStartMs": 124362,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "吃瓜子\nchī guā zǐ\neating melon seeds"
+    } ]
+  }, {
+    "tStartMs": 126682,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "我手里有两包瓜子\nwǒ shǒu lǐ yǒu liǎng bāo guā zǐ\nI have two bags of melon seeds in my hand"
+    } ]
+  }, {
+    "tStartMs": 132282,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "它们是不同口味的\ntā men shì bù tóng kǒu wèi de\nThey’re different flavors"
+    } ]
+  }, {
+    "tStartMs": 136282,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "不同口味\nbù tóng kǒu wèi\ndifferent flavors"
+    } ]
+  }, {
+    "tStartMs": 138442,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这一包红色的\nzhè yī bāo hóng sè de\nThis red bag"
+    } ]
+  }, {
+    "tStartMs": 142682,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "这一包是原味，原味瓜子\nzhè yī bāo shì yuán wèi， yuán wèi guā zǐ\nThis bag is original flavor, original flavor melon seeds"
+    } ]
+  }, {
+    "tStartMs": 148522,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "原味的\nyuán wèi de\noriginal flavor"
+    } ]
+  }, {
+    "tStartMs": 150442,
+    "dDurationMs": 4721,
+    "segs": [ {
+      "utf8": "另一包，这一包橙色，橙色的\nlìng yī bāo， zhè yī bāo chéng sè， chéng sè de\nAnother bag, this orange bag, orange-colored"
+    } ]
+  }, {
+    "tStartMs": 156042,
+    "dDurationMs": 3682,
+    "segs": [ {
+      "utf8": "这包瓜子是焦糖味的\nzhè bāo guā zǐ shì jiāo táng wèi de\nThis bag of melon seeds is caramel flavored"
+    } ]
+  }, {
+    "tStartMs": 160762,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "焦糖味的瓜子\njiāo táng wèi de guā zǐ\ncaramel-flavored melon seeds"
+    } ]
+  }, {
+    "tStartMs": 164762,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "两包瓜子\nliǎng bāo guā zǐ\ntwo bags of melon seeds"
+    } ]
+  }, {
+    "tStartMs": 167402,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "我打开一包\nwǒ dǎ kāi yī bāo\nI’ll open one bag"
+    } ]
+  }, {
+    "tStartMs": 169402,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我打开\nwǒ dǎ kāi\nI’m opening it"
+    } ]
+  }, {
+    "tStartMs": 171722,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "这是纸袋\nzhè shì zhǐ dài\nThis is a paper bag"
+    } ]
+  }, {
+    "tStartMs": 173482,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "它是类似纸的袋子\ntā shì lèi sì zhǐ de dài zǐ\nIt’s a bag that’s like paper"
+    } ]
+  }, {
+    "tStartMs": 177642,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "我撕开撕开它\nwǒ sī kāi sī kāi tā\nI tear it open"
+    } ]
+  }, {
+    "tStartMs": 183878,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "然后我倒出来\nrán hòu wǒ dǎo chū lái\nThen I pour it out"
+    } ]
+  }, {
+    "tStartMs": 186118,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我倒在我的手上\nwǒ dǎo zài wǒ de shǒu shàng\nI pour it onto my hand"
+    } ]
+  }, {
+    "tStartMs": 189638,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "倒出来，倒出来\ndǎo chū lái， dǎo chū lái\nPour it out, pour it out"
+    } ]
+  }, {
+    "tStartMs": 194038,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "这就是瓜子\nzhè jiù shì guā zǐ\nThis is melon seeds"
+    } ]
+  }, {
+    "tStartMs": 196918,
+    "dDurationMs": 5121,
+    "segs": [ {
+      "utf8": "瓜子，它是这样一颗一颗的\nguā zǐ， tā shì zhè yàng yī kē yī kē de\nMelon seeds are little seeds like this"
+    } ]
+  }, {
+    "tStartMs": 202678,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "一颗一颗瓜子\nyī kē yī kē guā zǐ\nmelon seeds one by one"
+    } ]
+  }, {
+    "tStartMs": 205478,
+    "dDurationMs": 3878,
+    "segs": [ {
+      "utf8": "这种就是瓜子，瓜子\nzhè zhǒng jiù shì guā zǐ， guā zǐ\nThis is what melon seeds are, melon seeds"
+    } ]
+  }, {
+    "tStartMs": 209718,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "在中国我们吃瓜子\nzài zhōng guó wǒ men chī guā zǐ\nIn China, when we eat melon seeds"
+    } ]
+  }, {
+    "tStartMs": 215078,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "也会叫做嗑\nyě huì jiào zuò kē\nit’s also called cracking"
+    } ]
+  }, {
+    "tStartMs": 218118,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "嗑瓜子\nkē guā zǐ\ncracking melon seeds"
+    } ]
+  }, {
+    "tStartMs": 219958,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "嗑是一个动作\nkē shì yí gè dòng zuò\nCrack is an action"
+    } ]
+  }, {
+    "tStartMs": 223238,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "跟吃有关的动作\ngēn chī yǒu guān de dòng zuò\nan action related to eating"
+    } ]
+  }, {
+    "tStartMs": 226438,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "经常用来形容吃瓜子\njīng cháng yòng lái xíng róng chī guā zǐ\nIt’s often used to describe eating melon seeds"
+    } ]
+  }, {
+    "tStartMs": 230438,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我们叫做嗑瓜子\nwǒ men jiào zuò kē guā zǐ\nWe call it cracking melon seeds"
+    } ]
+  }, {
+    "tStartMs": 234438,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "比如我现在嗑一颗瓜子\nbǐ rú wǒ xiàn zài kē yī kē guā zǐ\nFor example, I’m cracking a melon seed right now"
+    } ]
+  }, {
+    "tStartMs": 237878,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "我吃\nwǒ chī\nI eat"
+    } ]
+  }, {
+    "tStartMs": 241478,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "这样就叫做嗑，把瓜子嗑开\nzhè yàng jiù jiào zuò kē， bǎ guā zǐ kē kāi\nThat’s what it’s called, cracking the melon seed open"
+    } ]
+  }, {
+    "tStartMs": 248278,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "里面这是瓜子仁\nlǐ miàn zhè shì guā zǐ rén\nInside here is the kernel"
+    } ]
+  }, {
+    "tStartMs": 251238,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "瓜子仁可以吃的\nguā zǐ rén kě yǐ chī de\nThe kernel can be eaten"
+    } ]
+  }, {
+    "tStartMs": 255763,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "嗯，我吃了一颗瓜子\nňg， wǒ chī le yī kē guā zǐ\nMm, I ate a melon seed"
+    } ]
+  }, {
+    "tStartMs": 260078,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "中国人喜欢吃瓜子的时候\nzhōng guó rén xǐ huān chī guā zǐ de shí hòu\nWhen Chinese people like eating melon seeds"
+    } ]
+  }, {
+    "tStartMs": 265358,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "喝茶\nhē chá\ndrinking tea"
+    } ]
+  }, {
+    "tStartMs": 267598,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "喝茶，吃瓜子\nhē chá， chī guā zǐ\ndrinking tea, eating melon seeds"
+    } ]
+  }, {
+    "tStartMs": 272638,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "这就是中国一种很常见的零食\nzhè jiù shì zhōng guó yī zhǒng hěn cháng jiàn de líng shí\nThis is a very common snack in China"
+    } ]
+  }, {
+    "tStartMs": 278318,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "瓜子\nguā zǐ\nmelon seeds"
+    } ]
+  }, {
+    "tStartMs": 287444,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "另一种常见的零食就是\nlìng yī zhǒng cháng jiàn de líng shí jiù shì\nAnother common snack is"
+    } ]
+  }, {
+    "tStartMs": 292884,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "薯片，薯片\nshǔ piàn， shǔ piàn\npotato chips, potato chips"
+    } ]
+  }, {
+    "tStartMs": 296004,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这里也有两包薯片\nzhè lǐ yě yǒu liǎng bāo shǔ piàn\nHere there are also two bags of potato chips"
+    } ]
+  }, {
+    "tStartMs": 299524,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "一包，两包\nyī bāo， liǎng bāo\none bag, two bags"
+    } ]
+  }, {
+    "tStartMs": 301604,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "两包薯片\nliǎng bāo shǔ piàn\ntwo bags of potato chips"
+    } ]
+  }, {
+    "tStartMs": 303604,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "它们也是两种不同口味的\ntā men yě shì liǎng zhǒng bù tóng kǒu wèi de\nThey’re also two different flavors"
+    } ]
+  }, {
+    "tStartMs": 308244,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "两种不同的口味\nliǎng zhǒng bù tóng de kǒu wèi\ntwo different flavors"
+    } ]
+  }, {
+    "tStartMs": 311684,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这一包是原味\nzhè yī bāo shì yuán wèi\nThis bag is original flavor"
+    } ]
+  }, {
+    "tStartMs": 314484,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "原味的薯片\nyuán wèi de shǔ piàn\noriginal-flavor potato chips"
+    } ]
+  }, {
+    "tStartMs": 317044,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "原味，这一包是泡菜味\nyuán wèi， zhè yī bāo shì pào cài wèi\nOriginal flavor, this bag is pickled vegetable flavor"
+    } ]
+  }, {
+    "tStartMs": 321684,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "泡菜味的薯片\npào cài wèi de shǔ piàn\npickled vegetable flavored potato chips"
+    } ]
+  }, {
+    "tStartMs": 324404,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "两包薯片\nliǎng bāo shǔ piàn\ntwo bags of potato chips"
+    } ]
+  }, {
+    "tStartMs": 326564,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "薯片，我打开一包来吃\nshǔ piàn， wǒ dǎ kāi yī bāo lái chī\nPotato chips, I’m opening a bag to eat"
+    } ]
+  }, {
+    "tStartMs": 330964,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我想吃原味的\nwǒ xiǎng chī yuán wèi de\nI want to eat the original flavor"
+    } ]
+  }, {
+    "tStartMs": 334164,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "原味的，所以我现在打开\nyuán wèi de， suǒ yǐ wǒ xiàn zài dǎ kāi\nThe original flavor, so I’m opening it now"
+    } ]
+  }, {
+    "tStartMs": 338644,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "打开这包薯片\ndǎ kāi zhè bāo shǔ piàn\nOpen this bag of potato chips"
+    } ]
+  }, {
+    "tStartMs": 341364,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "薯片\nshǔ piàn\npotato chips"
+    } ]
+  }, {
+    "tStartMs": 342724,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "它是应该是类似塑料\ntā shì yīng gāi shì lèi sì sù liào\nIt should be something like plastic"
+    } ]
+  }, {
+    "tStartMs": 346804,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "它的包装，包装是塑料的\ntā de bāo zhuāng， bāo zhuāng shì sù liào de\nIts packaging, the packaging is plastic"
+    } ]
+  }, {
+    "tStartMs": 351524,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "应该是塑料\nyīng gāi shì sù liào\nshould be plastic"
+    } ]
+  }, {
+    "tStartMs": 353364,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "我打开，打开它\nwǒ dǎ kāi， dǎ kāi tā\nI open it, open it"
+    } ]
+  }, {
+    "tStartMs": 359844,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "好，我撕开，撕开了薯片的包装\nhǎo， wǒ sī kāi， sī kāi le shǔ piàn de bāo zhuāng\nOkay, I tore open the potato chip package"
+    } ]
+  }, {
+    "tStartMs": 363844,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "包装\nbāo zhuāng\npackage"
+    } ]
+  }, {
+    "tStartMs": 365684,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "里面就是薯片\nlǐ miàn jiù shì shǔ piàn\nInside are the potato chips"
+    } ]
+  }, {
+    "tStartMs": 368884,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "这是薯片\nzhè shì shǔ piàn\nThese are potato chips"
+    } ]
+  }, {
+    "tStartMs": 371364,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我拿一片出来\nwǒ ná yī piàn chū lái\nI take one out"
+    } ]
+  }, {
+    "tStartMs": 374404,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "拿\nná\ntake"
+    } ]
+  }, {
+    "tStartMs": 376611,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "薯片，这就是薯片\nshǔ piàn， zhè jiù shì shǔ piàn\nPotato chips, this is potato chips"
+    } ]
+  }, {
+    "tStartMs": 380051,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "这个薯片很薄\nzhè gè shǔ piàn hěn báo\nThis potato chip is very thin"
+    } ]
+  }, {
+    "tStartMs": 383571,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "它很薄\ntā hěn báo\nIt’s very thin"
+    } ]
+  }, {
+    "tStartMs": 385331,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "薄薄的一片\nbáo báo de yī piàn\na thin slice"
+    } ]
+  }, {
+    "tStartMs": 387665,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "是比较薄的薯片\nshì bǐ jiào báo de shǔ piàn\nIt’s a relatively thin potato chip"
+    } ]
+  }, {
+    "tStartMs": 389985,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "它很薄，不厚\ntā hěn báo， bù hòu\nIt’s very thin, not thick"
+    } ]
+  }, {
+    "tStartMs": 392545,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "不厚，它是薄的\nbù hòu， tā shì báo de\nNot thick, it’s thin"
+    } ]
+  }, {
+    "tStartMs": 395265,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "薄的，我吃\nbáo de， wǒ chī\nthin, I eat"
+    } ]
+  }, {
+    "tStartMs": 397665,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "我吃一口\nwǒ chī yī kǒu\nI take a bite"
+    } ]
+  }, {
+    "tStartMs": 404896,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "薯片是脆的\nshǔ piàn shì cuì de\nPotato chips are crunchy"
+    } ]
+  }, {
+    "tStartMs": 407492,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "脆的，薯片吃起来\ncuì de， shǔ piàn chī qǐ lái\ncrunchy, the potato chips"
+    } ]
+  }, {
+    "tStartMs": 411158,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "吃起来是脆的\nchī qǐ lái shì cuì de\nare crunchy when you eat them"
+    } ]
+  }, {
+    "tStartMs": 414118,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "脆的，我再咬一口\ncuì de， wǒ zài yǎo yī kǒu\ncrunchy, I take another bite"
+    } ]
+  }, {
+    "tStartMs": 418118,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我咬，我现在咬一口薯片\nwǒ yǎo， wǒ xiàn zài yǎo yī kǒu shǔ piàn\nI bite, I’m biting into a potato chip now"
+    } ]
+  }, {
+    "tStartMs": 421958,
+    "dDurationMs": 814,
+    "segs": [ {
+      "utf8": "咬\nyǎo\nbite"
+    } ]
+  }, {
+    "tStartMs": 426546,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "薯片是脆的\nshǔ piàn shì cuì de\nPotato chips are crunchy"
+    } ]
+  }, {
+    "tStartMs": 428679,
+    "dDurationMs": 2907,
+    "segs": [ {
+      "utf8": "脆脆的，脆的薯片\ncuì cuì de， cuì de shǔ piàn\ncrunchy, crunchy potato chips"
+    } ]
+  }, {
+    "tStartMs": 432306,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "这就是薯片\nzhè jiù shì shǔ piàn\nThis is potato chips"
+    } ]
+  }, {
+    "tStartMs": 434786,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "薯片也是大多数中国人\nshǔ piàn yě shì dà duō shù zhōng guó rén\nPotato chips are also something that most Chinese people"
+    } ]
+  }, {
+    "tStartMs": 439586,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "经常会吃的一种零食\njīng cháng huì chī de yī zhǒng líng shí\noften eat as a snack"
+    } ]
+  }, {
+    "tStartMs": 443186,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它是脆的，脆的\ntā shì cuì de， cuì de\nThey’re crunchy, crunchy"
+    } ]
+  }, {
+    "tStartMs": 446066,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "而且是咸的\nér qiě shì xián de\nAnd they’re salty"
+    } ]
+  }, {
+    "tStartMs": 448306,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "它吃起来是咸的\ntā chī qǐ lái shì xián de\nThey taste salty"
+    } ]
+  }, {
+    "tStartMs": 451266,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "咸的，不是甜的\nxián de， bú shì tián de\nSalty, not sweet"
+    } ]
+  }, {
+    "tStartMs": 454866,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "不是甜的\nbú shì tián de\nnot sweet"
+    } ]
+  }, {
+    "tStartMs": 456866,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "是咸的，咸的、脆的薯片\nshì xián de， xián de 、 cuì de shǔ piàn\nThey’re salty, salty crunchy potato chips"
+    } ]
+  }, {
+    "tStartMs": 462386,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "薯片\nshǔ piàn\npotato chips"
+    } ]
+  }, {
+    "tStartMs": 466988,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "好吃\nhǎo chī\ndelicious"
+    } ]
+  }, {
+    "tStartMs": 472755,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "接下来我要说的零食\njiē xià lái wǒ yào shuō de líng shí\nThe snack I’m going to talk about next"
+    } ]
+  }, {
+    "tStartMs": 477155,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "可能是一种在外国不常见的食物\nkě néng shì yī zhǒng zài wài guó bù cháng jiàn de shí wù\nmight be a food that isn’t common in foreign countries"
+    } ]
+  }, {
+    "tStartMs": 484355,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "但是在中国很多人都会吃\ndàn shì zài zhōng guó hěn duō rén dōu huì chī\nbut in China many people eat it"
+    } ]
+  }, {
+    "tStartMs": 490236,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "那就是鸡爪\nnà jiù shì jī zhǎo\nand that is chicken feet"
+    } ]
+  }, {
+    "tStartMs": 495155,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "这是鸡爪\nzhè shì jī zhǎo\nThese are chicken feet"
+    } ]
+  }, {
+    "tStartMs": 497555,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "鸡爪也叫做凤爪\njī zhǎo yě jiào zuò fèng zhǎo\nChicken feet are also called phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 501475,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "凤爪，凤爪，其实就是鸡爪\nfèng zhǎo， fèng zhǎo， qí shí jiù shì jī zhǎo\nphoenix claws, phoenix claws, actually just chicken feet"
+    } ]
+  }, {
+    "tStartMs": 506835,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "什么是鸡爪呢？\nshén me shì jī zhǎo ne ？\nWhat are chicken feet?"
+    } ]
+  }, {
+    "tStartMs": 509795,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "其实就是鸡的脚\nqí shí jiù shì jī de jiǎo\nThey’re actually the feet of a chicken"
+    } ]
+  }, {
+    "tStartMs": 513955,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "鸡，一种动物\njī， yī zhǒng dòng wù\nChicken, an animal"
+    } ]
+  }, {
+    "tStartMs": 516595,
+    "dDurationMs": 2189,
+    "segs": [ {
+      "utf8": "鸡的脚，鸡的脚\njī de jiǎo， jī de jiǎo\nthe chicken’s feet, the chicken’s feet"
+    } ]
+  }, {
+    "tStartMs": 518789,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "走路，走路用的脚\nzǒu lù， zǒu lù yòng de jiǎo\nthe feet used for walking"
+    } ]
+  }, {
+    "tStartMs": 522515,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "那就是凤爪\nnà jiù shì fèng zhǎo\nthat’s phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 524755,
+    "dDurationMs": 2957,
+    "segs": [ {
+      "utf8": "也叫做鸡爪，鸡爪\nyě jiào zuò jī zhǎo， jī zhǎo\nalso called chicken feet, chicken feet"
+    } ]
+  }, {
+    "tStartMs": 527760,
+    "dDurationMs": 6355,
+    "segs": [ {
+      "utf8": "这种零食是泡椒凤爪，泡椒凤爪\nzhè zhǒng líng shí shì pào jiāo fèng zhǎo， pào jiāo fèng zhǎo\nThis snack is pickled chili phoenix claws, pickled chili phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 534915,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "泡椒是一种辣椒\npào jiāo shì yī zhǒng là jiāo\nPickled chili is a kind of chili pepper"
+    } ]
+  }, {
+    "tStartMs": 538355,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "辣椒就是吃起来辣的\nlà jiāo jiù shì chī qǐ lái là de\nChili peppers are things that taste spicy"
+    } ]
+  }, {
+    "tStartMs": 543475,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "辣的\nlà de\nspicy"
+    } ]
+  }, {
+    "tStartMs": 544755,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "很辣的，就是泡椒\nhěn là de， jiù shì pào jiāo\nvery spicy, that’s pickled chili peppers"
+    } ]
+  }, {
+    "tStartMs": 547875,
+    "dDurationMs": 5209,
+    "segs": [ {
+      "utf8": "泡椒是一种很辣的辣椒\npào jiāo shì yī zhǒng hěn là de là jiāo\nPickled chili is a very spicy chili pepper"
+    } ]
+  }, {
+    "tStartMs": 553156,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "那用泡椒做的鸡脚\nnà yòng pào jiāo zuò de jī jiǎo\nThen chicken feet made with pickled chili"
+    } ]
+  }, {
+    "tStartMs": 557635,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "就叫做泡椒凤爪\njiù jiào zuò pào jiāo fèng zhǎo\nare called pickled chili phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 561315,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "泡椒凤爪\npào jiāo fèng zhǎo\npickled chili phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 563395,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "就是这种零食\njiù shì zhè zhǒng líng shí\nit’s this kind of snack"
+    } ]
+  }, {
+    "tStartMs": 566115,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "这种零食就是泡椒凤爪\nzhè zhǒng líng shí jiù shì pào jiāo fèng zhǎo\nThis kind of snack is pickled chili phoenix claws"
+    } ]
+  }, {
+    "tStartMs": 570035,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "它是辣的，特别辣\ntā shì là de， tè bié là\nIt’s spicy, especially spicy"
+    } ]
+  }, {
+    "tStartMs": 572595,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "然后它是鸡的脚\nrán hòu tā shì jī de jiǎo\nAnd it’s chicken feet"
+    } ]
+  }, {
+    "tStartMs": 575235,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "所以可能在外国\nsuǒ yǐ kě néng zài wài guó\nSo maybe in foreign countries"
+    } ]
+  }, {
+    "tStartMs": 577875,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "在中国以外的地方\nzài zhōng guó yǐ wài de dì fāng\noutside of China"
+    } ]
+  }, {
+    "tStartMs": 580595,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "很少人会去吃鸡的脚\nhěn shǎo rén huì qù chī jī de jiǎo\nvery few people would eat chicken feet"
+    } ]
+  }, {
+    "tStartMs": 584275,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "但是这种零食在中国\ndàn shì zhè zhǒng líng shí zài zhōng guó\nBut in China, for this kind of snack"
+    } ]
+  }, {
+    "tStartMs": 587235,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "其实很多地方的人都会吃\nqí shí hěn duō dì fāng de rén dōu huì chī\nactually people in many places eat it"
+    } ]
+  }, {
+    "tStartMs": 591155,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "都会吃这种零食\ndōu huì chī zhè zhǒng líng shí\nthey eat this kind of snack"
+    } ]
+  }, {
+    "tStartMs": 593555,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "我准备了一个盘子\nwǒ zhǔn bèi le yí gè pán zǐ\nI’ve prepared a plate"
+    } ]
+  }, {
+    "tStartMs": 596355,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "这是一个盘子，盘子\nzhè shì yí gè pán zǐ， pán zǐ\nThis is a plate, a plate"
+    } ]
+  }, {
+    "tStartMs": 599196,
+    "dDurationMs": 3391,
+    "segs": [ {
+      "utf8": "白色的，白色的盘子\nbái sè de， bái sè de pán zǐ\nwhite, a white plate"
+    } ]
+  }, {
+    "tStartMs": 602995,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "我等一下，等一下会把这个鸡脚\nwǒ děng yī xià， děng yī xià huì bǎ zhè gè jī jiǎo\nIn a moment, I’ll put this chicken feet"
+    } ]
+  }, {
+    "tStartMs": 607795,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "鸡脚倒进，倒在这个碟子\njī jiǎo dǎo jìn， dǎo zài zhè gè dié zǐ\nthe chicken feet into, onto this plate"
+    } ]
+  }, {
+    "tStartMs": 611875,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "这个盘子上\nzhè gè pán zǐ shàng\nthis plate"
+    } ]
+  }, {
+    "tStartMs": 613395,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "我把鸡脚倒在盘子上\nwǒ bǎ jī jiǎo dǎo zài pán zǐ shàng\nI put the chicken feet on the plate"
+    } ]
+  }, {
+    "tStartMs": 618435,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "我先把它的包装\nwǒ xiān bǎ tā de bāo zhuāng\nI’ll first take its packaging"
+    } ]
+  }, {
+    "tStartMs": 620915,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "它的包装撕开\ntā de bāo zhuāng sī kāi\ntear open its packaging"
+    } ]
+  }, {
+    "tStartMs": 623075,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "我把包装撕开\nwǒ bǎ bāo zhuāng sī kāi\nI tear open the packaging"
+    } ]
+  }, {
+    "tStartMs": 625555,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "撕\nsī\ntear"
+    } ]
+  }, {
+    "tStartMs": 627075,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "好，我把包装撕开了\nhǎo， wǒ bǎ bāo zhuāng sī kāi le\nOkay, I tore open the packaging"
+    } ]
+  }, {
+    "tStartMs": 631649,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "包装撕开了\nbāo zhuāng sī kāi le\nthe packaging is torn open"
+    } ]
+  }, {
+    "tStartMs": 633409,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "然后我把它\nrán hòu wǒ bǎ tā\nthen I put it"
+    } ]
+  }, {
+    "tStartMs": 635649,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "我把鸡脚倒在盘子上\nwǒ bǎ jī jiǎo dǎo zài pán zǐ shàng\nI put the chicken feet on the plate"
+    } ]
+  }, {
+    "tStartMs": 641569,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "它有一些水，它在滴水\ntā yǒu yī xiē shuǐ， tā zài dī shuǐ\nIt has some water, it’s dripping"
+    } ]
+  }, {
+    "tStartMs": 643969,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "现在在滴水，它有一些汁水\nxiàn zài zài dī shuǐ， tā yǒu yī xiē zhī shuǐ\nIt’s dripping now, it has some juice"
+    } ]
+  }, {
+    "tStartMs": 648962,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "好，现在这个鸡脚\nhǎo， xiàn zài zhè gè jī jiǎo\nOkay, now this chicken feet"
+    } ]
+  }, {
+    "tStartMs": 652642,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "鸡脚就已经倒在盘子上了\njī jiǎo jiù yǐ jīng dǎo zài pán zǐ shàng le\nthe chicken feet have been poured onto the plate"
+    } ]
+  }, {
+    "tStartMs": 656242,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "呃，我去拿一双筷子\nè， wǒ qù ná yī shuāng kuài zǐ\nUh, I’m going to get a pair of chopsticks"
+    } ]
+  }, {
+    "tStartMs": 659362,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "我去拿一双筷子\nwǒ qù ná yī shuāng kuài zǐ\nI’m going to get a pair of chopsticks"
+    } ]
+  }, {
+    "tStartMs": 660877,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "拿来了一双筷子\nná lái le yī shuāng kuài zǐ\nI brought a pair of chopsticks"
+    } ]
+  }, {
+    "tStartMs": 663743,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "筷子，这是一双筷子\nkuài zǐ， zhè shì yī shuāng kuài zǐ\nChopsticks, this is a pair of chopsticks"
+    } ]
+  }, {
+    "tStartMs": 666783,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "夹东西的筷子\njiā dōng xī de kuài zǐ\nchopsticks for picking things up"
+    } ]
+  }, {
+    "tStartMs": 670623,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "筷子\nkuài zǐ\nchopsticks"
+    } ]
+  }, {
+    "tStartMs": 672383,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "那我现在用筷子来夹一块\nnà wǒ xiàn zài yòng kuài zǐ lái jiā yī kuài\nThen I'll use chopsticks to pick up a piece"
+    } ]
+  }, {
+    "tStartMs": 677423,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "鸡脚\njī jiǎo\nChicken feet"
+    } ]
+  }, {
+    "tStartMs": 679263,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "鸡脚，它也是一种零食\njī jiǎo， tā yě shì yī zhǒng líng shí\nChicken feet are also a kind of snack"
+    } ]
+  }, {
+    "tStartMs": 682863,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "嗯，虽然它也算是肉\nňg， suī rán tā yě suàn shì ròu\nMm, although it also counts as meat"
+    } ]
+  }, {
+    "tStartMs": 686143,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "它也算一种肉\ntā yě suàn yī zhǒng ròu\nIt also counts as a kind of meat"
+    } ]
+  }, {
+    "tStartMs": 688463,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "嗯，因为毕竟它是从鸡\nňg， yīn wèi bì jìng tā shì cóng jī\nMm, because after all, it comes from a chicken"
+    } ]
+  }, {
+    "tStartMs": 692303,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "从鸡这种动物身上来的\ncóng jī zhè zhǒng dòng wù shēn shàng lái de\nIt comes from a chicken, this kind of animal"
+    } ]
+  }, {
+    "tStartMs": 696303,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "所以它也算一种肉\nsuǒ yǐ tā yě suàn yī zhǒng ròu\nSo it also counts as a kind of meat"
+    } ]
+  }, {
+    "tStartMs": 699343,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "但是，它也是零食\ndàn shì， tā yě shì líng shí\nBut it is also a snack"
+    } ]
+  }, {
+    "tStartMs": 702688,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "零食，很多人在中国\nlíng shí， hěn duō rén zài zhōng guó\nA snack, a lot of people in China"
+    } ]
+  }, {
+    "tStartMs": 706288,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "很多人喜欢在喝酒\nhěn duō rén xǐ huān zài hē jiǔ\nA lot of people like to eat chicken feet when drinking"
+    } ]
+  }, {
+    "tStartMs": 709808,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "喝酒的时候吃鸡脚\nhē jiǔ de shí hòu chī jī jiǎo\nThey eat chicken feet while drinking"
+    } ]
+  }, {
+    "tStartMs": 713328,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "鸡脚配酒\njī jiǎo pèi jiǔ\nChicken feet and alcohol"
+    } ]
+  }, {
+    "tStartMs": 715728,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "在喝酒的时候吃鸡脚\nzài hē jiǔ de shí hòu chī jī jiǎo\nEating chicken feet while drinking"
+    } ]
+  }, {
+    "tStartMs": 719168,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "因为它是辣的，辣的吃起来\nyīn wèi tā shì là de， là de chī qǐ lái\nBecause it is spicy, spicy food tastes"
+    } ]
+  }, {
+    "tStartMs": 722928,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "很辣很辣\nhěn là hěn là\nVery spicy, very spicy"
+    } ]
+  }, {
+    "tStartMs": 724608,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "嗯，我夹一块给你们看一下\nňg， wǒ jiā yī kuài gěi nǐ men kàn yī xià\nMm, I'll pick up a piece and show you"
+    } ]
+  }, {
+    "tStartMs": 728744,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "这就是鸡脚的一部分\nzhè jiù shì jī jiǎo de yī bù fēn\nThis is part of a chicken foot"
+    } ]
+  }, {
+    "tStartMs": 731944,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "鸡的脚的一部分\njī de jiǎo de yī bù fēn\nPart of a chicken's foot"
+    } ]
+  }, {
+    "tStartMs": 734584,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "它的其中一部分\ntā de qí zhōng yī bù fēn\nIt's one part of it"
+    } ]
+  }, {
+    "tStartMs": 737224,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "所以这就是中国人也会吃的一种零食\nsuǒ yǐ zhè jiù shì zhōng guó rén yě huì chī de yī zhǒng líng shí\nSo this is a snack that Chinese people also eat"
+    } ]
+  }, {
+    "tStartMs": 742104,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "就是鸡脚，鸡脚，泡椒凤爪\njiù shì jī jiǎo， jī jiǎo， pào jiāo fèng zhǎo\nIt's chicken feet, chicken feet, pickled pepper chicken claws"
+    } ]
+  }, {
+    "tStartMs": 746664,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "也是鸡脚\nyě shì jī jiǎo\nIt's also chicken feet"
+    } ]
+  }, {
+    "tStartMs": 748609,
+    "dDurationMs": 4055,
+    "segs": [ {
+      "utf8": "不知道你们会不会觉得有点吓人\nbù zhī dào nǐ men huì bù huì jué de yǒu diǎn xià rén\nI don't know if you think it looks a bit scary"
+    } ]
+  }, {
+    "tStartMs": 753144,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "有点吓人，因为我大概知道在国外很多人\nyǒu diǎn xià rén， yīn wèi wǒ dà gài zhī dào zài guó wài hěn duō rén\nA bit scary, because I probably know that in other countries a lot of people"
+    } ]
+  }, {
+    "tStartMs": 757784,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "不会吃鸡的这个部分\nbú huì chī jī de zhè gè bù fèn\nDon't eat this part of the chicken"
+    } ]
+  }, {
+    "tStartMs": 760344,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "所以它有一些特别\nsuǒ yǐ tā yǒu yī xiē tè bié\nSo it's a bit unusual"
+    } ]
+  }, {
+    "tStartMs": 763144,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "有一些特别\nyǒu yī xiē tè bié\nA bit unusual"
+    } ]
+  }, {
+    "tStartMs": 765064,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "总之这个就是在中国也比较常见的一种\nzǒng zhī zhè gè jiù shì zài zhōng guó yě bǐ jiào cháng jiàn de yī zhǒng\nAnyway, this is a fairly common kind of snack in China"
+    } ]
+  }, {
+    "tStartMs": 769704,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "零食，因为它会\nlíng shí， yīn wèi tā huì\nSnack, because it will"
+    } ]
+  }, {
+    "tStartMs": 773864,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "它会就像这样放在包装里面\ntā huì jiù xiàng zhè yàng fàng zài bāo zhuāng lǐ miàn\nIt comes packaged like this"
+    } ]
+  }, {
+    "tStartMs": 777464,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "把它包装起来，然后在超市还有便利店\nbǎ tā bāo zhuāng qǐ lái， rán hòu zài chāo shì huán yǒu biàn lì diàn\nIt's packaged up, and then in supermarkets and convenience stores"
+    } ]
+  }, {
+    "tStartMs": 782184,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "都会卖，在超市和便利店都能买到鸡脚\ndōu huì mài， zài chāo shì hé biàn lì diàn dū néng mǎi dào jī jiǎo\nThey all sell it; you can buy chicken feet in supermarkets and convenience stores"
+    } ]
+  }, {
+    "tStartMs": 786904,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "买到这种泡椒凤爪\nmǎi dào zhè zhǒng pào jiāo fèng zhǎo\nBuy this kind of pickled pepper chicken claws"
+    } ]
+  }, {
+    "tStartMs": 789224,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "所以它也是中国比较常见的一种零食\nsuǒ yǐ tā yě shì zhōng guó bǐ jiào cháng jiàn de yī zhǒng líng shí\nSo it's also a fairly common snack in China"
+    } ]
+  }, {
+    "tStartMs": 793704,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "但可能对外国人来说会有一些特别\ndàn kě néng duì wài guó rén lái shuō huì yǒu yī xiē tè bié\nBut for foreigners, it may be a bit unusual"
+    } ]
+  }, {
+    "tStartMs": 797884,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "还有，这就是泡椒\nhuán yǒu， zhè jiù shì pào jiāo\nAlso, this is pickled peppers"
+    } ]
+  }, {
+    "tStartMs": 801644,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这个就是泡椒\nzhè gè jiù shì pào jiāo\nThis is pickled peppers"
+    } ]
+  }, {
+    "tStartMs": 804364,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "泡椒是中国一种辣椒的做法\npào jiāo shì zhōng guó yī zhǒng là jiāo de zuò fǎ\nPickled peppers are a way of preparing chili peppers in China"
+    } ]
+  }, {
+    "tStartMs": 810204,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "所以它也是辣椒\nsuǒ yǐ tā yě shì là jiāo\nSo it's also chili peppers"
+    } ]
+  }, {
+    "tStartMs": 812284,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "它是辣椒的一种\ntā shì là jiāo de yī zhǒng\nIt's a kind of chili pepper"
+    } ]
+  }, {
+    "tStartMs": 814924,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "是辣椒叫做泡椒\nshì là jiāo jiào zuò pào jiāo\nIt's a chili pepper called pickled peppers"
+    } ]
+  }, {
+    "tStartMs": 818044,
+    "dDurationMs": 4154,
+    "segs": [ {
+      "utf8": "泡椒，它特别特别辣\npào jiāo， tā tè bié tè bié là\nPickled peppers are extremely, extremely spicy"
+    } ]
+  }, {
+    "tStartMs": 822364,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "很辣，吃起来\nhěn là， chī qǐ lái\nVery spicy, when you eat them"
+    } ]
+  }, {
+    "tStartMs": 825884,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "非常辣，泡椒\nfēi cháng là， pào jiāo\nExtremely spicy, pickled peppers"
+    } ]
+  }, {
+    "tStartMs": 828924,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这就是泡椒\nzhè jiù shì pào jiāo\nThis is pickled peppers"
+    } ]
+  }, {
+    "tStartMs": 831004,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "是一种辣椒\nshì yī zhǒng là jiāo\nIt's a type of chili pepper"
+    } ]
+  }, {
+    "tStartMs": 833324,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "辣椒\nlà jiāo\nChili pepper"
+    } ]
+  }, {
+    "tStartMs": 841630,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "还有一种和薯片\nhuán yǒu yī zhǒng hé shǔ piàn\nThere is also a snack that is very similar to potato chips"
+    } ]
+  }, {
+    "tStartMs": 845870,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "和薯片很像的零食\nhé shǔ piàn hěn xiàng de líng shí\nVery similar to potato chips"
+    } ]
+  }, {
+    "tStartMs": 850430,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "就是玉米条\njiù shì yù mǐ tiáo\nThat's corn sticks"
+    } ]
+  }, {
+    "tStartMs": 854030,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "这是一种叫做玉米条的零食\nzhè shì yī zhǒng jiào zuò yù mǐ tiáo de líng shí\nThis is a snack called corn sticks"
+    } ]
+  }, {
+    "tStartMs": 858670,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "因为它是玉米\nyīn wèi tā shì yù mǐ\nBecause it's made from corn"
+    } ]
+  }, {
+    "tStartMs": 862270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "玉米做成的\nyù mǐ zuò chéng de\nMade from corn"
+    } ]
+  }, {
+    "tStartMs": 864510,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "它也是脆的\ntā yě shì cuì de\nIt's also crunchy"
+    } ]
+  }, {
+    "tStartMs": 866750,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "脆的玉米条\ncuì de yù mǐ tiáo\nCrunchy corn sticks"
+    } ]
+  }, {
+    "tStartMs": 869150,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "吃起来和薯片一样都是脆的\nchī qǐ lái hé shǔ piàn yī yàng dū shì cuì de\nThey are crunchy to eat, just like potato chips"
+    } ]
+  }, {
+    "tStartMs": 874830,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我手里也是有两种口味\nwǒ shǒu lǐ yě shì yǒu liǎng zhǒng kǒu wèi\nI also have two flavors in my hand"
+    } ]
+  }, {
+    "tStartMs": 878910,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "这是香辣味\nzhè shì xiāng là wèi\nThis is spicy flavor"
+    } ]
+  }, {
+    "tStartMs": 881070,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "香辣味的玉米条\nxiāng là wèi de yù mǐ tiáo\nSpicy-flavored corn sticks"
+    } ]
+  }, {
+    "tStartMs": 884110,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "吃起来是辣的\nchī qǐ lái shì là de\nThey taste spicy"
+    } ]
+  }, {
+    "tStartMs": 887150,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "辣的，这是香辣味的\nlà de， zhè shì xiāng là wèi de\nSpicy, this is spicy flavor"
+    } ]
+  }, {
+    "tStartMs": 889870,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "还有这包是烧烤味\nhuán yǒu zhè bāo shì shāo kǎo wèi\nAnd this bag is barbecue flavor"
+    } ]
+  }, {
+    "tStartMs": 893230,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "烧烤味的玉米条\nshāo kǎo wèi de yù mǐ tiáo\nBarbecue-flavored corn sticks"
+    } ]
+  }, {
+    "tStartMs": 896270,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "我打算把这包烧烤味的打开\nwǒ dǎ suàn bǎ zhè bāo shāo kǎo wèi de dǎ kāi\nI'm going to open this bag of barbecue flavor"
+    } ]
+  }, {
+    "tStartMs": 901310,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "打开给你们看一下\ndǎ kāi gěi nǐ men kàn yī xià\nOpen it and show you"
+    } ]
+  }, {
+    "tStartMs": 903950,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "玉米条\nyù mǐ tiáo\nCorn sticks"
+    } ]
+  }, {
+    "tStartMs": 905630,
+    "dDurationMs": 2946,
+    "segs": [ {
+      "utf8": "我准备了一个小碗\nwǒ zhǔn bèi le yí gè xiǎo wǎn\nI prepared a small bowl"
+    } ]
+  }, {
+    "tStartMs": 908670,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "这是一个碗\nzhè shì yí gè wǎn\nThis is a bowl"
+    } ]
+  }, {
+    "tStartMs": 910990,
+    "dDurationMs": 5727,
+    "segs": [ {
+      "utf8": "碗，吃饭或者喝东西用的碗\nwǎn， chī fàn huò zhě hē dōng xī yòng de wǎn\nA bowl, used for eating or drinking"
+    } ]
+  }, {
+    "tStartMs": 916792,
+    "dDurationMs": 1558,
+    "segs": [ {
+      "utf8": "一个小碗\nyí gè xiǎo wǎn\nA small bowl"
+    } ]
+  }, {
+    "tStartMs": 918765,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "小碗，我把玉米条倒出来\nxiǎo wǎn， wǒ bǎ yù mǐ tiáo dǎo chū lái\nA small bowl, I'll pour out the corn sticks"
+    } ]
+  }, {
+    "tStartMs": 923085,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "倒在小碗里\ndǎo zài xiǎo wǎn lǐ\nPour them into the small bowl"
+    } ]
+  }, {
+    "tStartMs": 925725,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "我先把包装打开\nwǒ xiān bǎ bāo zhuāng dǎ kāi\nI'll open the package first"
+    } ]
+  }, {
+    "tStartMs": 932125,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "我撕开，撕开了包装\nwǒ sī kāi， sī kāi le bāo zhuāng\nI tear it open, I tore open the package"
+    } ]
+  }, {
+    "tStartMs": 939085,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "小碗，我把玉米条倒进小碗里\nxiǎo wǎn， wǒ bǎ yù mǐ tiáo dǎo jìn xiǎo wǎn lǐ\nSmall bowl, I'll pour the corn sticks into the small bowl"
+    } ]
+  }, {
+    "tStartMs": 948765,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这就是玉米条\nzhè jiù shì yù mǐ tiáo\nThis is corn sticks"
+    } ]
+  }, {
+    "tStartMs": 951805,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "玉米条，它是用玉米做成的零食\nyù mǐ tiáo， tā shì yòng yù mǐ zuò chéng de líng shí\nCorn sticks are a snack made from corn"
+    } ]
+  }, {
+    "tStartMs": 958205,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "它是这样一小条的，条状的\ntā shì zhè yàng yī xiǎo tiáo de， tiáo zhuàng de\nThey are in these little stick shapes"
+    } ]
+  }, {
+    "tStartMs": 962125,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "一小条的玉米条\nyī xiǎo tiáo de yù mǐ tiáo\nLittle corn sticks"
+    } ]
+  }, {
+    "tStartMs": 964365,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "所以叫做玉米条\nsuǒ yǐ jiào zuò yù mǐ tiáo\nThat's why they're called corn sticks"
+    } ]
+  }, {
+    "tStartMs": 966365,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "它是一条的，它吃起来也是脆的\ntā shì yī tiáo de， tā chī qǐ lái yě shì cuì de\nThey're stick-shaped, and they're also crunchy to eat"
+    } ]
+  }, {
+    "tStartMs": 973886,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "是脆的，吃起来也是脆的玉米条\nshì cuì de， chī qǐ lái yě shì cuì de yù mǐ tiáo\nThey're crunchy, and the corn sticks are crunchy to eat too"
+    } ]
+  }, {
+    "tStartMs": 978126,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "和薯片一样都是脆的\nhé shǔ piàn yī yàng dū shì cuì de\nJust like potato chips, they're crunchy"
+    } ]
+  }, {
+    "tStartMs": 982079,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "我用纸巾擦一下手\nwǒ yòng zhǐ jīn cā yī xià shǒu\nI'll wipe my hands with a tissue"
+    } ]
+  }, {
+    "tStartMs": 985808,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "玉米条和薯片\nyù mǐ tiáo hé shǔ piàn\nCorn sticks and potato chips"
+    } ]
+  }, {
+    "tStartMs": 989328,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "玉米条和薯片不一样\nyù mǐ tiáo hé shǔ piàn bù yī yàng\nCorn sticks are different from potato chips"
+    } ]
+  }, {
+    "tStartMs": 992608,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "玉米条是一条一条的\nyù mǐ tiáo shì yī tiáo yī tiáo de\nCorn sticks are in stick form"
+    } ]
+  }, {
+    "tStartMs": 995888,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "薯片是这样一片一片的\nshǔ piàn shì zhè yàng yī piàn yī piàn de\nPotato chips are like little slices"
+    } ]
+  }, {
+    "tStartMs": 1000128,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "一片薯片\nyī piàn shǔ piàn\nA potato chip"
+    } ]
+  }, {
+    "tStartMs": 1002128,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "一条玉米条，或者一根\nyī tiáo yù mǐ tiáo， huò zhě yī gēn\nA corn stick, or one stick"
+    } ]
+  }, {
+    "tStartMs": 1006161,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "一根玉米条，因为它是这样竖条的\nyī gēn yù mǐ tiáo， yīn wèi tā shì zhè yàng shù tiáo de\nOne corn stick, because it's a vertical stick like this"
+    } ]
+  }, {
+    "tStartMs": 1010768,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "但是薯片是这种扁的\ndàn shì shǔ piàn shì zhè zhǒng biǎn de\nBut potato chips are flat like this"
+    } ]
+  }, {
+    "tStartMs": 1013728,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "一片一片的\nyī piàn yī piàn de\nOne slice at a time"
+    } ]
+  }, {
+    "tStartMs": 1015328,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "这是薯片，薯片\nzhè shì shǔ piàn， shǔ piàn\nThis is a potato chip, potato chip"
+    } ]
+  }, {
+    "tStartMs": 1017808,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "这是玉米条\nzhè shì yù mǐ tiáo\nThis is a corn stick"
+    } ]
+  }, {
+    "tStartMs": 1019968,
+    "dDurationMs": 5101,
+    "segs": [ {
+      "utf8": "玉米条，它们它们两个都是脆的\nyù mǐ tiáo， tā men tā men liǎng gè dū shì cuì de\nCorn sticks, both of them are crunchy"
+    } ]
+  }, {
+    "tStartMs": 1025301,
+    "dDurationMs": 1307,
+    "segs": [ {
+      "utf8": "脆的零食\ncuì de líng shí\nCrunchy snacks"
+    } ]
+  }, {
+    "tStartMs": 1026848,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "吃起来是脆的\nchī qǐ lái shì cuì de\nThey are crunchy to eat"
+    } ]
+  }, {
+    "tStartMs": 1037734,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "这是旺仔小馒头，旺仔小馒头\nzhè shì wàng zī xiǎo mán tou， wàng zī xiǎo mán tou\nThis is Wangzai mini steamed bun, Wangzai mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1043922,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "它的品牌名字叫做旺仔，旺仔\ntā de pǐn pái míng zì jiào zuò wàng zī， wàng zī\nIts brand name is Wangzai, Wangzai"
+    } ]
+  }, {
+    "tStartMs": 1048977,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "旺仔是这种零食品牌的名字\nwàng zī shì zhè zhǒng líng shí pǐn pái de míng zì\nWangzai is the name of this snack brand"
+    } ]
+  }, {
+    "tStartMs": 1053814,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "但是零食本身叫做小馒头\ndàn shì líng shí běn shēn jiào zuò xiǎo mán tou\nBut the snack itself is called mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1058294,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "小馒头，因为它是这样一颗一颗\nxiǎo mán tou， yīn wèi tā shì zhè yàng yī kē yī kē\nMini steamed bun, because they're these little"
+    } ]
+  }, {
+    "tStartMs": 1062934,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "小小的，像馒头\nxiǎo xiǎo de， xiàng mán tou\nTiny, like steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1065734,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "像馒头一样的零食\nxiàng mán tou yī yàng de líng shí\nA snack that looks like steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1068454,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "所以叫做旺仔小馒头\nsuǒ yǐ jiào zuò wàng zī xiǎo mán tou\nSo it's called Wangzai mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1071894,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "这种零食在中国也是非常的常见\nzhè zhǒng líng shí zài zhōng guó yě shì fēi cháng de cháng jiàn\nThis snack is also very common in China"
+    } ]
+  }, {
+    "tStartMs": 1076614,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "和出名的\nhé chū míng de\nAnd very famous"
+    } ]
+  }, {
+    "tStartMs": 1077974,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "因为旺仔，旺仔这个零食品牌\nyīn wèi wàng zī， wàng zī zhè gè líng shí pǐn pái\nBecause Wangzai, this snack brand"
+    } ]
+  }, {
+    "tStartMs": 1082214,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这个牌子在中国很出名\nzhè gè pái zǐ zài zhōng guó hěn chū míng\nThis brand is very famous in China"
+    } ]
+  }, {
+    "tStartMs": 1085654,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "几乎每个家庭每个人都知道\njī hū měi gè jiā tíng měi gè rén dū zhī dào\nAlmost every family and every person knows it"
+    } ]
+  }, {
+    "tStartMs": 1089894,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "都知道这个品牌\ndū zhī dào zhè gè pǐn pái\nKnows this brand"
+    } ]
+  }, {
+    "tStartMs": 1092694,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "旺仔小馒头也是在中国很多\nwàng zī xiǎo mán tou yě shì zài zhōng guó hěn duō\nWangzai mini steamed buns are also something many people in China"
+    } ]
+  }, {
+    "tStartMs": 1096856,
+    "dDurationMs": 3118,
+    "segs": [ {
+      "utf8": "小朋友、小孩子、小朋友\nxiǎo péng yǒu 、 xiǎo hái zǐ 、 xiǎo péng yǒu\nChildren, kids, little kids"
+    } ]
+  }, {
+    "tStartMs": 1100694,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "在小的时候都会吃的一种零食\nzài xiǎo de shí hòu dōu huì chī de yī zhǒng líng shí\nWould eat when they were young"
+    } ]
+  }, {
+    "tStartMs": 1104854,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "但是除了小朋友，大人、大人\ndàn shì chú le xiǎo péng yǒu， dà rén 、 dà rén\nBut besides children, adults, adults"
+    } ]
+  }, {
+    "tStartMs": 1108452,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "成年人、大人也会吃\nchéng nián rén 、 dà rén yě huì chī\nAdults, grown-ups also eat them"
+    } ]
+  }, {
+    "tStartMs": 1111894,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "平时有时候也会买来吃\npíng shí yǒu shí hòu yě huì mǎi lái chī\nSometimes people will buy them to eat"
+    } ]
+  }, {
+    "tStartMs": 1114934,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这就是旺仔小馒头\nzhè jiù shì wàng zī xiǎo mán tou\nThis is Wangzai mini steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1118134,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "小馒头\nxiǎo mán tou\nMini steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1119494,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我也是把它倒在\nwǒ yě shì bǎ tā dǎo zài\nI also poured it into"
+    } ]
+  }, {
+    "tStartMs": 1122694,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "倒在这个小碗里面\ndǎo zài zhè gè xiǎo wǎn lǐ miàn\nPoured it into this small bowl"
+    } ]
+  }, {
+    "tStartMs": 1125174,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我把小馒头倒出来\nwǒ bǎ xiǎo mán tou dǎo chū lái\nI poured out the mini steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1128534,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "倒在碗里面\ndǎo zài wǎn lǐ miàn\nPoured them into the bowl"
+    } ]
+  }, {
+    "tStartMs": 1130614,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "给大家看一下\ngěi dà jiā kàn yī xià\nTo show everyone"
+    } ]
+  }, {
+    "tStartMs": 1133814,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "它是这种小包装的\ntā shì zhè zhǒng xiǎo bāo zhuāng de\nIt's this kind of small package"
+    } ]
+  }, {
+    "tStartMs": 1136403,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "它是一包，一包，两包\ntā shì yī bāo， yī bāo， liǎng bāo\nThere is one pack, one pack, two packs"
+    } ]
+  }, {
+    "tStartMs": 1139974,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "它是这种小的包装\ntā shì zhè zhǒng xiǎo de bāo zhuāng\nIt's this kind of small package"
+    } ]
+  }, {
+    "tStartMs": 1142679,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "像玉米条的话是大包的\nxiàng yù mǐ tiáo de huà shì dà bāo de\nAs for the corn sticks, they're in big bags"
+    } ]
+  }, {
+    "tStartMs": 1146599,
+    "dDurationMs": 1939,
+    "segs": [ {
+      "utf8": "它比较大，这是小的\ntā bǐ jiào dà， zhè shì xiǎo de\nIt's bigger, this is small"
+    } ]
+  }, {
+    "tStartMs": 1148777,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "大的，大的包装\ndà de， dà de bāo zhuāng\nBig, big package"
+    } ]
+  }, {
+    "tStartMs": 1151015,
+    "dDurationMs": 2464,
+    "segs": [ {
+      "utf8": "小的包装，大的、小的\nxiǎo de bāo zhuāng， dà de 、 xiǎo de\nSmall package, big, small"
+    } ]
+  }, {
+    "tStartMs": 1154039,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "它这是小的包装\ntā zhè shì xiǎo de bāo zhuāng\nThis is the small package"
+    } ]
+  }, {
+    "tStartMs": 1157239,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "我也把它的包装撕开\nwǒ yě bǎ tā de bāo zhuāng sī kāi\nI also tore open its package"
+    } ]
+  }, {
+    "tStartMs": 1161799,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "然后我倒在小碗里倒出来\nrán hòu wǒ dǎo zài xiǎo wǎn lǐ dǎo chū lái\nThen I poured it into the small bowl and poured it out"
+    } ]
+  }, {
+    "tStartMs": 1168599,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "它就是这种一颗一颗，小小的\ntā jiù shì zhè zhǒng yī kē yī kē， xiǎo xiǎo de\nIt's these little tiny pieces"
+    } ]
+  }, {
+    "tStartMs": 1172679,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "你看一颗\nnǐ kàn yī kē\nLook, one piece"
+    } ]
+  }, {
+    "tStartMs": 1175399,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "很小很小一颗\nhěn xiǎo hěn xiǎo yī kē\nA very, very tiny piece"
+    } ]
+  }, {
+    "tStartMs": 1180759,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "小小颗的，因为它的形状\nxiǎo xiǎo kē de， yīn wèi tā de xíng zhuàng\nTiny pieces, because of its shape"
+    } ]
+  }, {
+    "tStartMs": 1184119,
+    "dDurationMs": 4461,
+    "segs": [ {
+      "utf8": "它这个零食的形状很像很像\ntā zhè gè líng shí de xíng zhuàng hěn xiàng hěn xiàng\nThis snack's shape is very, very much like"
+    } ]
+  }, {
+    "tStartMs": 1188580,
+    "dDurationMs": 819,
+    "segs": [ {
+      "utf8": "馒头\nmán tou\nSteamed buns"
+    } ]
+  }, {
+    "tStartMs": 1189724,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "像中国的一种食物叫做馒头\nxiàng zhōng guó de yī zhǒng shí wù jiào zuò mán tou\nLike a Chinese food called steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1193399,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "馒头，它的形状很像馒头\nmán tou， tā de xíng zhuàng hěn xiàng mán tou\nSteamed buns, its shape is very much like steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1196439,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "但是我们平时吃的馒头它比较大个\ndàn shì wǒ men píng shí chī de mán tou tā bǐ jiào dà gè\nBut the steamed buns we usually eat are bigger"
+    } ]
+  }, {
+    "tStartMs": 1201079,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "它很大一个\ntā hěn dà yí gè\nThey're very big"
+    } ]
+  }, {
+    "tStartMs": 1202919,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "但这种比较小，它这个比较小\ndàn zhè zhǒng bǐ jiào xiǎo， tā zhè gè bǐ jiào xiǎo\nBut this one is smaller, this one is smaller"
+    } ]
+  }, {
+    "tStartMs": 1205639,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "平时吃的馒头很大一个\npíng shí chī de mán tou hěn dà yí gè\nThe steamed buns we usually eat are very big"
+    } ]
+  }, {
+    "tStartMs": 1207959,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "所以它才叫做小馒头\nsuǒ yǐ tā cái jiào zuò xiǎo mán tou\nSo it's called mini steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1210439,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "小馒头，只是它的形状形状很像\nxiǎo mán tou， zhǐ shì tā de xíng zhuàng xíng zhuàng hěn xiàng\nMini steamed buns, it's just that its shape really looks like"
+    } ]
+  }, {
+    "tStartMs": 1215159,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "平时吃的大的馒头\npíng shí chī de dà de mán tou\nThe big steamed buns we usually eat"
+    } ]
+  }, {
+    "tStartMs": 1217079,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这就是旺仔小馒头\nzhè jiù shì wàng zī xiǎo mán tou\nThis is Wangzai mini steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1219639,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "它也是脆的，它和玉米条还有薯片一样\ntā yě shì cuì de， tā hé yù mǐ tiáo huán yǒu shǔ piàn yī yàng\nIt's also crunchy, and like the corn sticks and potato chips"
+    } ]
+  }, {
+    "tStartMs": 1224439,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "都是脆的，它吃起来也是脆的\ndū shì cuì de， tā chī qǐ lái yě shì cuì de\nThey're all crunchy, it's crunchy to eat too"
+    } ]
+  }, {
+    "tStartMs": 1227479,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "试吃一颗\nshì chī yī kē\nTry one"
+    } ]
+  }, {
+    "tStartMs": 1231320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "咬起来是脆脆的，脆脆的小馒头\nyǎo qǐ lái shì cuì cuì de， cuì cuì de xiǎo mán tou\nIt's crispy when you bite it, crispy mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1236055,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "刚才我说薯片是这样\ngāng cái wǒ shuō shǔ piàn shì zhè yàng\nJust now I said potato chips are like this"
+    } ]
+  }, {
+    "tStartMs": 1238855,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "一片，一片薯片\nyī piàn， yī piàn shǔ piàn\nOne slice, one potato chip"
+    } ]
+  }, {
+    "tStartMs": 1242775,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "玉米条是一条，一条或者\nyù mǐ tiáo shì yī tiáo， yī tiáo huò zhě\nCorn sticks are one stick, one stick or"
+    } ]
+  }, {
+    "tStartMs": 1246241,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "一根，一根玉米条\nyī gēn， yī gēn yù mǐ tiáo\nOne stick, one corn stick"
+    } ]
+  }, {
+    "tStartMs": 1248512,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "或者一条玉米条\nhuò zhě yī tiáo yù mǐ tiáo\nOr one corn stick"
+    } ]
+  }, {
+    "tStartMs": 1250695,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "像小馒头这种我们可以叫它一颗\nxiàng xiǎo mán tou zhè zhǒng wǒ men kě yǐ jiào tā yī kē\nFor something like mini steamed buns, we can call it one piece"
+    } ]
+  }, {
+    "tStartMs": 1255655,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "一颗小馒头，或者一粒，一粒\nyī kē xiǎo mán tou， huò zhě yī lì， yī lì\nOne mini steamed bun, or one grain, one grain"
+    } ]
+  }, {
+    "tStartMs": 1259036,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "或者一颗，一颗小馒头\nhuò zhě yī kē， yī kē xiǎo mán tou\nOr one piece, one mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1262551,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "一颗，一条，一片\nyī kē， yī tiáo， yī piàn\nOne piece, one stick, one slice"
+    } ]
+  }, {
+    "tStartMs": 1266055,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "一片薯片，一颗小馒头\nyī piàn shǔ piàn， yī kē xiǎo mán tou\nOne potato chip, one mini steamed bun"
+    } ]
+  }, {
+    "tStartMs": 1269735,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "一条玉米条\nyī tiáo yù mǐ tiáo\nOne corn stick"
+    } ]
+  }, {
+    "tStartMs": 1272209,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "小馒头吃起来是甜的\nxiǎo mán tou chī qǐ lái shì tián de\nMini steamed buns taste sweet"
+    } ]
+  }, {
+    "tStartMs": 1276289,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "甜的，小馒头是甜的\ntián de， xiǎo mán tou shì tián de\nSweet, mini steamed buns are sweet"
+    } ]
+  }, {
+    "tStartMs": 1279729,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "薯片，薯片是咸的\nshǔ piàn， shǔ piàn shì xián de\nPotato chips, potato chips are salty"
+    } ]
+  }, {
+    "tStartMs": 1283249,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "咸的，小馒头是甜的\nxián de， xiǎo mán tou shì tián de\nSalty, mini steamed buns are sweet"
+    } ]
+  }, {
+    "tStartMs": 1286929,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "甜的，薯片是咸的\ntián de， shǔ piàn shì xián de\nSweet, potato chips are salty"
+    } ]
+  }, {
+    "tStartMs": 1289729,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "咸的，它们的味道吃起来不一样\nxián de， tā men de wèi dào chī qǐ lái bù yī yàng\nSalty, their tastes are different"
+    } ]
+  }, {
+    "tStartMs": 1293889,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "不一样，这是咸的，咸的\nbù yī yàng， zhè shì xián de， xián de\nDifferent, this is salty, salty"
+    } ]
+  }, {
+    "tStartMs": 1297009,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "这是甜的，甜的\nzhè shì tián de， tián de\nThis is sweet, sweet"
+    } ]
+  }, {
+    "tStartMs": 1299649,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "不同的味道\nbù tóng de wèi dào\nDifferent flavors"
+    } ]
+  }, {
+    "tStartMs": 1301563,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "但是它们都是脆的，脆的\ndàn shì tā men dū shì cuì de， cuì de\nBut they're all crunchy, crunchy"
+    } ]
+  }, {
+    "tStartMs": 1305323,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "它们吃起来都是脆的\ntā men chī qǐ lái dū shì cuì de\nThey're all crunchy to eat"
+    } ]
+  }, {
+    "tStartMs": 1307723,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "只是一个是甜的，甜的\nzhǐ shì yí gè shì tián de， tián de\nOnly one is sweet, sweet"
+    } ]
+  }, {
+    "tStartMs": 1311163,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "另一个是咸的，咸的\nlìng yí gè shì xián de， xián de\nThe other is salty, salty"
+    } ]
+  }, {
+    "tStartMs": 1320616,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "还有一种很常见的零食就是\nhuán yǒu yī zhǒng hěn cháng jiàn de líng shí jiù shì\nAnother very common snack is"
+    } ]
+  }, {
+    "tStartMs": 1325336,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "果冻，这是果冻\nguǒ dòng， zhè shì guǒ dòng\njelly. This is jelly"
+    } ]
+  }, {
+    "tStartMs": 1328536,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "果冻，果冻在中国也是很常见\nguǒ dòng， guǒ dòng zài zhōng guó yě shì hěn cháng jiàn\nJelly. Jelly is also very common in China"
+    } ]
+  }, {
+    "tStartMs": 1332936,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "而且很多人都喜欢吃的一种零食\nér qiě hěn duō rén dū xǐ huān chī de yī zhǒng líng shí\nand it’s a snack that many people like to eat"
+    } ]
+  }, {
+    "tStartMs": 1336936,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "果冻，我买的这两个果冻它是这样\nguǒ dòng， wǒ mǎi de zhè liǎng gè guǒ dòng tā shì zhè yàng\nJelly. The two jellies I bought are like this"
+    } ]
+  }, {
+    "tStartMs": 1341656,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "一杯一杯的，因为它有这种类似杯子\nyī bēi yī bēi de， yīn wèi tā yǒu zhè zhǒng lèi sì bēi zǐ\none cup after another, because it has something similar to a cup"
+    } ]
+  }, {
+    "tStartMs": 1346136,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "它像一个杯子一样装着\ntā xiàng yí gè bēi zǐ yī yàng zhuāng zháo\nIt’s held in something that looks like a cup"
+    } ]
+  }, {
+    "tStartMs": 1349336,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "有一个杯子一样的东西装着\nyǒu yí gè bēi zǐ yī yàng de dōng xī zhuāng zháo\nIt’s packed in something cup-like"
+    } ]
+  }, {
+    "tStartMs": 1352056,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "它也是果冻，果冻装在里面\ntā yě shì guǒ dòng， guǒ dòng zhuāng zài lǐ miàn\nIt’s also jelly, with the jelly inside"
+    } ]
+  }, {
+    "tStartMs": 1355336,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "然后它也是两个不同口味的\nrán hòu tā yě shì liǎng gè bù tóng kǒu wèi de\nAnd they’re two different flavors"
+    } ]
+  }, {
+    "tStartMs": 1358376,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "这个口味它是什么都有\nzhè gè kǒu wèi tā shì shén me dū yǒu\nThis flavor has all kinds of things in it"
+    } ]
+  }, {
+    "tStartMs": 1362616,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "它里面有很多很多水果\ntā lǐ miàn yǒu hěn duō hěn duō shuǐ guǒ\nThere are lots and lots of fruits inside it"
+    } ]
+  }, {
+    "tStartMs": 1365576,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "很多不同的水果，然后这个它是\nhěn duō bù tóng de shuǐ guǒ， rán hòu zhè gè tā shì\nmany different fruits, and then this one is"
+    } ]
+  }, {
+    "tStartMs": 1370951,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "菠萝，它是菠萝口味的果冻\nbō luó， tā shì bō luó kǒu wèi de guǒ dòng\npineapple. It’s pineapple-flavored jelly"
+    } ]
+  }, {
+    "tStartMs": 1373911,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "两个果冻\nliǎng gè guǒ dòng\ntwo jellies"
+    } ]
+  }, {
+    "tStartMs": 1375191,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "那我也试吃一个\nnà wǒ yě shì chī yí gè\nThen I’ll try one too"
+    } ]
+  }, {
+    "tStartMs": 1377591,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我想吃这个菠萝的，菠萝味的果冻\nwǒ xiǎng chī zhè gè bō luó de， bō luó wèi de guǒ dòng\nI want to eat this pineapple one, the pineapple-flavored jelly"
+    } ]
+  }, {
+    "tStartMs": 1381643,
+    "dDurationMs": 2348,
+    "segs": [ {
+      "utf8": "菠萝就是一种水果\nbō luó jiù shì yī zhǒng shuǐ guǒ\nA pineapple is a kind of fruit"
+    } ]
+  }, {
+    "tStartMs": 1384311,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "菠萝口味的果冻\nbō luó kǒu wèi de guǒ dòng\npineapple-flavored jelly"
+    } ]
+  }, {
+    "tStartMs": 1386871,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "嗯，它上面有一层\nňg， tā shàng miàn yǒu yī céng\nMm, there’s a layer on top"
+    } ]
+  }, {
+    "tStartMs": 1389591,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "有一层包装纸\nyǒu yī céng bāo zhuāng zhǐ\nThere’s a layer of wrapping paper"
+    } ]
+  }, {
+    "tStartMs": 1391671,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "我把这层包装纸撕开\nwǒ bǎ zhè céng bāo zhuāng zhǐ sī kāi\nI’ll tear off this layer of wrapping paper"
+    } ]
+  }, {
+    "tStartMs": 1395111,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "打开就可以吃了\ndǎ kāi jiù kě yǐ chī le\nOnce it’s opened, you can eat it"
+    } ]
+  }, {
+    "tStartMs": 1398451,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "打开之后就是这样的\ndǎ kāi zhī hòu jiù shì zhè yàng de\nAfter opening it, it looks like this"
+    } ]
+  }, {
+    "tStartMs": 1401731,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "这里面装着的就是果冻\nzhè lǐ miàn zhuāng zháo de jiù shì guǒ dòng\nWhat’s in here is jelly"
+    } ]
+  }, {
+    "tStartMs": 1404691,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "果冻，它除了果冻\nguǒ dòng， tā chú le guǒ dòng\nThe jelly, besides the jelly"
+    } ]
+  }, {
+    "tStartMs": 1406851,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "还有一些菠萝\nhuán yǒu yī xiē bō luó\nalso has some pineapple"
+    } ]
+  }, {
+    "tStartMs": 1408931,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "菠萝的果粒在里面\nbō luó de guǒ lì zài lǐ miàn\npieces of pineapple inside"
+    } ]
+  }, {
+    "tStartMs": 1411491,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "有一些菠萝\nyǒu yī xiē bō luó\nThere’s some pineapple"
+    } ]
+  }, {
+    "tStartMs": 1412851,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "然后我拿了一个小勺子\nrán hòu wǒ ná le yí gè xiǎo sháo zǐ\nThen I got a small spoon"
+    } ]
+  }, {
+    "tStartMs": 1415971,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "这是勺子，勺子\nzhè shì sháo zǐ， sháo zǐ\nThis is a spoon, a spoon"
+    } ]
+  }, {
+    "tStartMs": 1418211,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "一个小一点的勺子\nyí gè xiǎo yī diǎn de sháo zǐ\na smaller spoon"
+    } ]
+  }, {
+    "tStartMs": 1420691,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "我用勺子，用勺子吃果冻\nwǒ yòng sháo zǐ， yòng sháo zǐ chī guǒ dòng\nI use a spoon, use a spoon to eat jelly"
+    } ]
+  }, {
+    "tStartMs": 1425331,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "用勺子，勺子吃果冻\nyòng sháo zǐ， sháo zǐ chī guǒ dòng\nUse a spoon, a spoon to eat jelly"
+    } ]
+  }, {
+    "tStartMs": 1430211,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "我用勺子先\nwǒ yòng sháo zǐ xiān\nI’ll use the spoon first"
+    } ]
+  }, {
+    "tStartMs": 1435331,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "用勺子弄一小块出来\nyòng sháo zǐ nòng yī xiǎo kuài chū lái\nto scoop out a small piece with the spoon"
+    } ]
+  }, {
+    "tStartMs": 1439726,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "果冻很滑\nguǒ dòng hěn huá\nJelly is very slippery"
+    } ]
+  }, {
+    "tStartMs": 1441246,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "很滑\nhěn huá\nvery slippery"
+    } ]
+  }, {
+    "tStartMs": 1443806,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "所以有一点点难弄\nsuǒ yǐ yǒu yī diǎn diǎn nán nòng\nso it’s a little hard to get out"
+    } ]
+  }, {
+    "tStartMs": 1445486,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "好了，用我现在勺子装着一小块果冻\nhǎo le， yòng wǒ xiàn zài sháo zǐ zhuāng zháo yī xiǎo kuài guǒ dòng\nOkay, now my spoon is holding a small piece of jelly"
+    } ]
+  }, {
+    "tStartMs": 1450766,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "这就是果冻，果冻\nzhè jiù shì guǒ dòng， guǒ dòng\nThis is jelly, jelly"
+    } ]
+  }, {
+    "tStartMs": 1453646,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我吃一口，吃一口果冻\nwǒ chī yī kǒu， chī yī kǒu guǒ dòng\nI’ll take a bite, take a bite of jelly"
+    } ]
+  }, {
+    "tStartMs": 1458218,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "果冻也是甜的，果冻是甜的\nguǒ dòng yě shì tián de， guǒ dòng shì tián de\nJelly is sweet too, jelly is sweet"
+    } ]
+  }, {
+    "tStartMs": 1462540,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "甜的果冻\ntián de guǒ dòng\nsweet jelly"
+    } ]
+  }, {
+    "tStartMs": 1464660,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "果冻和小馒头一样\nguǒ dòng hé xiǎo mán tou yī yàng\nJelly is like little steamed buns"
+    } ]
+  }, {
+    "tStartMs": 1467780,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "都是甜的，甜的\ndū shì tián de， tián de\nthey’re all sweet, sweet"
+    } ]
+  }, {
+    "tStartMs": 1470580,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它们吃起来都是甜的\ntā men chī qǐ lái dū shì tián de\nThey all taste sweet"
+    } ]
+  }, {
+    "tStartMs": 1473460,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "但是小馒头是脆的\ndàn shì xiǎo mán tou shì cuì de\nBut little steamed buns are crunchy"
+    } ]
+  }, {
+    "tStartMs": 1476100,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "脆的，果冻不是脆的\ncuì de， guǒ dòng bú shì cuì de\ncrunchy; jelly isn’t crunchy"
+    } ]
+  }, {
+    "tStartMs": 1479300,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "果冻是滑溜溜的\nguǒ dòng shì huá liū liū de\nJelly is slippery and smooth"
+    } ]
+  }, {
+    "tStartMs": 1482340,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "果冻是比较滑的一种\nguǒ dòng shì bǐ jiào huá de yī zhǒng\nJelly is a relatively smooth kind of"
+    } ]
+  }, {
+    "tStartMs": 1485860,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "零食，果冻它不是脆的\nlíng shí， guǒ dòng tā bú shì cuì de\nsnack. Jelly isn’t crunchy"
+    } ]
+  }, {
+    "tStartMs": 1489781,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "果冻它也是透明的\nguǒ dòng tā yě shì tòu míng de\nJelly is also transparent"
+    } ]
+  }, {
+    "tStartMs": 1493701,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但这个它有一点颜色\ndàn zhè gè tā yǒu yī diǎn yán sè\nBut this one has a bit of color"
+    } ]
+  }, {
+    "tStartMs": 1496341,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "有一点黄色，黄色\nyǒu yī diǎn huáng sè， huáng sè\na bit yellow, yellow"
+    } ]
+  }, {
+    "tStartMs": 1498341,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "但是它是透明的\ndàn shì tā shì tòu míng de\nbut it’s transparent"
+    } ]
+  }, {
+    "tStartMs": 1500261,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "透明的果冻\ntòu míng de guǒ dòng\ntransparent jelly"
+    } ]
+  }, {
+    "tStartMs": 1503381,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "这就是果冻，也是很多人都喜欢吃的一种零食\nzhè jiù shì guǒ dòng， yě shì hěn duō rén dū xǐ huān chī de yī zhǒng líng shí\nThis is jelly, also a snack that many people like to eat"
+    } ]
+  }, {
+    "tStartMs": 1508021,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "它很大一个，很大一个\ntā hěn dà yí gè， hěn dà yí gè\nIt’s very big, very big"
+    } ]
+  }, {
+    "tStartMs": 1510181,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "所以等一会儿拍完视频\nsuǒ yǐ děng yī huì ér pāi wán shì pín\nso after I finish filming the video"
+    } ]
+  }, {
+    "tStartMs": 1512501,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "我再吃它\nwǒ zài chī tā\nI’ll eat it later"
+    } ]
+  }, {
+    "tStartMs": 1515369,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "这些就是今天视频的全部内容\nzhèi xiē jiù shì jīn tiān shì pín de quán bù nèi róng\nThat’s all for today’s video"
+    } ]
+  }, {
+    "tStartMs": 1520329,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "我给大家分享了一些在中国比较常见\nwǒ gěi dà jiā fēn xiǎng le yī xiē zài zhōng guó bǐ jiào cháng jiàn\nI shared some snacks that are relatively common in China"
+    } ]
+  }, {
+    "tStartMs": 1524809,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "的零食，那你的国家都有哪些很常见\nde líng shí， nà nǐ de guó jiā dū yǒu něi xiē hěn cháng jiàn\nWhat snacks are very common in your country"
+    } ]
+  }, {
+    "tStartMs": 1529609,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "或者你很喜欢吃的零食？\nhuò zhě nǐ hěn xǐ huān chī de líng shí ？\nor are your favorite snacks?"
+    } ]
+  }, {
+    "tStartMs": 1532089,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "可以在下面的评论区告诉我\nkě yǐ zài xià miàn de píng lùn qū gào sù wǒ\nYou can tell me in the comments below"
+    } ]
+  }, {
+    "tStartMs": 1535609,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "如果这个视频对你有帮助\nrú guǒ zhè gè shì pín duì nǐ yǒu bāng zhù\nIf this video was helpful to you"
+    } ]
+  }, {
+    "tStartMs": 1537849,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "别忘了点赞，还有订阅我们的频道\nbié wàng le diǎn zàn， huán yǒu dìng yuè wǒ men de pín dào\ndon’t forget to like and subscribe to our channel"
+    } ]
+  }, {
+    "tStartMs": 1541449,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "谢谢你的观看，我们下个视频再见。\nxiè xiè nǐ de guān kàn， wǒ men xià gè shì pín zài jiàn。\nThanks for watching, see you in the next video."
+    } ]
+  } ]
+}

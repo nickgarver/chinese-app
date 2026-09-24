@@ -1,0 +1,4387 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "I'm not joking."
+    } ]
+  }, {
+    "tStartMs": 2100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "This is almost vertical."
+    } ]
+  }, {
+    "tStartMs": 4700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "It's at least eighty degrees."
+    } ]
+  }, {
+    "tStartMs": 7666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "And just imagine"
+    } ]
+  }, {
+    "tStartMs": 9233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "the school kids who climb this every day."
+    } ]
+  }, {
+    "tStartMs": 13566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "He climbs down by himself."
+    } ]
+  }, {
+    "tStartMs": 15000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "When climbing up, he does it on his own."
+    } ]
+  }, {
+    "tStartMs": 16766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 18399,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Carrying stuff."
+    } ]
+  }, {
+    "tStartMs": 19199,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "We have to carry things."
+    } ]
+  }, {
+    "tStartMs": 20166,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "One carries the child."
+    } ]
+  }, {
+    "tStartMs": 21199,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 21566,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "He has to walk on his own."
+    } ]
+  }, {
+    "tStartMs": 22899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 41600,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "Hi everyone,"
+    } ]
+  }, {
+    "tStartMs": 41966,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "good morning!"
+    } ]
+  }, {
+    "tStartMs": 42933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Welcome back."
+    } ]
+  }, {
+    "tStartMs": 43799,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Today we are in Zhaojue,"
+    } ]
+  }, {
+    "tStartMs": 44666,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "in Liangshan Yi Autonomous Prefecture,"
+    } ]
+  }, {
+    "tStartMs": 48000,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "in southern Sichuan Province."
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Uh, so yesterday we came by train."
+    } ]
+  }, {
+    "tStartMs": 53333,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "We dropped our bike in Kunming"
+    } ]
+  }, {
+    "tStartMs": 54966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "because it's so far away from here."
+    } ]
+  }, {
+    "tStartMs": 57266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "And today we're going to"
+    } ]
+  }, {
+    "tStartMs": 58733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "visit the Cliff Village."
+    } ]
+  }, {
+    "tStartMs": 60966,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "About ten years ago,"
+    } ]
+  }, {
+    "tStartMs": 61933,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "a photo in China"
+    } ]
+  }, {
+    "tStartMs": 62866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "made it to the headlines."
+    } ]
+  }, {
+    "tStartMs": 64599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Um, in that photo,"
+    } ]
+  }, {
+    "tStartMs": 65799,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "a group of small kids"
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "were climbing up a steep,"
+    } ]
+  }, {
+    "tStartMs": 70466,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "steep cliff over vine ladders."
+    } ]
+  }, {
+    "tStartMs": 73733,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "And ten years later,"
+    } ]
+  }, {
+    "tStartMs": 74966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "the ladder is still there."
+    } ]
+  }, {
+    "tStartMs": 76733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So yesterday,"
+    } ]
+  }, {
+    "tStartMs": 77599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "we asked some locals"
+    } ]
+  }, {
+    "tStartMs": 78700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "how to get there."
+    } ]
+  }, {
+    "tStartMs": 79666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "They told us that we should look for"
+    } ]
+  }, {
+    "tStartMs": 81266,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "some yellow buses on the street,"
+    } ]
+  }, {
+    "tStartMs": 83400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "and then get off halfway."
+    } ]
+  }, {
+    "tStartMs": 85400,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "So that's why"
+    } ]
+  }, {
+    "tStartMs": 86099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "we're looking for those buses."
+    } ]
+  }, {
+    "tStartMs": 91466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "When we're walking down the street,"
+    } ]
+  }, {
+    "tStartMs": 93066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "we can see that"
+    } ]
+  }, {
+    "tStartMs": 93666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "there are lots of those scripts."
+    } ]
+  }, {
+    "tStartMs": 95366,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "That's the Yi script."
+    } ]
+  }, {
+    "tStartMs": 97566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And since we're in the Yi Autonomous Prefecture,"
+    } ]
+  }, {
+    "tStartMs": 100500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "many signages are also"
+    } ]
+  }, {
+    "tStartMs": 101700,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "written in both languages:"
+    } ]
+  }, {
+    "tStartMs": 103466,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Mandarin and the Yi script."
+    } ]
+  }, {
+    "tStartMs": 110366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "It's a tradition here for the women"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "to carry their kids on their backs."
+    } ]
+  }, {
+    "tStartMs": 115766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "It's cute."
+    } ]
+  }, {
+    "tStartMs": 117166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I was here two years ago"
+    } ]
+  }, {
+    "tStartMs": 118500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "for the Torch Festival."
+    } ]
+  }, {
+    "tStartMs": 120133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And I have to say that"
+    } ]
+  }, {
+    "tStartMs": 121533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "they are definitely"
+    } ]
+  }, {
+    "tStartMs": 122733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "the most fashionable people in China."
+    } ]
+  }, {
+    "tStartMs": 125500,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "They have style."
+    } ]
+  }, {
+    "tStartMs": 126733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "And during that day—"
+    } ]
+  }, {
+    "tStartMs": 128300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "so now they dress"
+    } ]
+  }, {
+    "tStartMs": 129233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "more or less casually,"
+    } ]
+  }, {
+    "tStartMs": 130333,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "but during the festival,"
+    } ]
+  }, {
+    "tStartMs": 131866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "like everyone, from young girls to"
+    } ]
+  }, {
+    "tStartMs": 135533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "you know, little boys"
+    } ]
+  }, {
+    "tStartMs": 136933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "to people who are over fifty years old,"
+    } ]
+  }, {
+    "tStartMs": 139766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "they all dressed up so nicely"
+    } ]
+  }, {
+    "tStartMs": 141566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "and walked the street."
+    } ]
+  }, {
+    "tStartMs": 142766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It's a phenomenon."
+    } ]
+  }, {
+    "tStartMs": 145333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "This is a local tailor shop."
+    } ]
+  }, {
+    "tStartMs": 147166,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "You will see"
+    } ]
+  }, {
+    "tStartMs": 147666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "some of their traditional dresses."
+    } ]
+  }, {
+    "tStartMs": 149699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "That's a scarf."
+    } ]
+  }, {
+    "tStartMs": 152099,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Boss, can I try this hat?"
+    } ]
+  }, {
+    "tStartMs": 155133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "In there, right?"
+    } ]
+  }, {
+    "tStartMs": 156300,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "Okay, thank you."
+    } ]
+  }, {
+    "tStartMs": 158166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That's a man's hat."
+    } ]
+  }, {
+    "tStartMs": 159566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "That's a man's hat."
+    } ]
+  }, {
+    "tStartMs": 160466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, how do you..."
+    } ]
+  }, {
+    "tStartMs": 161466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Put it like this?"
+    } ]
+  }, {
+    "tStartMs": 162533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "I think so."
+    } ]
+  }, {
+    "tStartMs": 165199,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "It's very comfortable."
+    } ]
+  }, {
+    "tStartMs": 166766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "It's very soft."
+    } ]
+  }, {
+    "tStartMs": 167966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Hahaha!"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Boss, this is a man's hat, right?"
+    } ]
+  }, {
+    "tStartMs": 177699,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Yes, it's for men."
+    } ]
+  }, {
+    "tStartMs": 179800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Is there an age limit?"
+    } ]
+  }, {
+    "tStartMs": 181366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Can people of all ages wear it?"
+    } ]
+  }, {
+    "tStartMs": 182866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes, they can."
+    } ]
+  }, {
+    "tStartMs": 189733,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "That's a morning market."
+    } ]
+  }, {
+    "tStartMs": 191166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Chicken must be very valuable here."
+    } ]
+  }, {
+    "tStartMs": 193733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Many women are selling chicken."
+    } ]
+  }, {
+    "tStartMs": 197333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Son, oh well."
+    } ]
+  }, {
+    "tStartMs": 200466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Son has a baby in the back"
+    } ]
+  }, {
+    "tStartMs": 202066,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "and a chicken in the front."
+    } ]
+  }, {
+    "tStartMs": 211800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "Going to Leibo, right?"
+    } ]
+  }, {
+    "tStartMs": 214366,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Where to?"
+    } ]
+  }, {
+    "tStartMs": 217966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We want to go to the Cliff Village."
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "Cliff Village?"
+    } ]
+  }, {
+    "tStartMs": 220666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 221466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Cliff Village."
+    } ]
+  }, {
+    "tStartMs": 223266,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "How many people?"
+    } ]
+  }, {
+    "tStartMs": 223900,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 225133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Two people."
+    } ]
+  }, {
+    "tStartMs": 226199,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Charter a car?"
+    } ]
+  }, {
+    "tStartMs": 227166,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 227599,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Charter a car?"
+    } ]
+  }, {
+    "tStartMs": 228900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Yesterday I asked, it was 40 per person."
+    } ]
+  }, {
+    "tStartMs": 231266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Share a ride?"
+    } ]
+  }, {
+    "tStartMs": 232066,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes, yes, share a ride."
+    } ]
+  }, {
+    "tStartMs": 233366,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Share a ride."
+    } ]
+  }, {
+    "tStartMs": 233966,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 234300,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "40 per person."
+    } ]
+  }, {
+    "tStartMs": 234966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "We'll share a ride."
+    } ]
+  }, {
+    "tStartMs": 238333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Get on here."
+    } ]
+  }, {
+    "tStartMs": 245266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Is that the one who called?"
+    } ]
+  }, {
+    "tStartMs": 246866,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 247566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Okay, let's go."
+    } ]
+  }, {
+    "tStartMs": 256500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Driver, when we come back,"
+    } ]
+  }, {
+    "tStartMs": 258899,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "can we get a ride on the roadside?"
+    } ]
+  }, {
+    "tStartMs": 260533,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Not easy."
+    } ]
+  }, {
+    "tStartMs": 261300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Not easy."
+    } ]
+  }, {
+    "tStartMs": 264699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "What if we leave you a number"
+    } ]
+  }, {
+    "tStartMs": 266600,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "and you come pick us up?"
+    } ]
+  }, {
+    "tStartMs": 267899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "How much?"
+    } ]
+  }, {
+    "tStartMs": 269666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Are you two coming back?"
+    } ]
+  }, {
+    "tStartMs": 271300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "Yes, we're over there."
+    } ]
+  }, {
+    "tStartMs": 272366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "We'll need to come back later."
+    } ]
+  }, {
+    "tStartMs": 274166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "It's hard to get a ride from there."
+    } ]
+  }, {
+    "tStartMs": 278266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Could we wait on the roadside?"
+    } ]
+  }, {
+    "tStartMs": 280399,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 281166,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 281899,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, it's not easy."
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Because not many people go there."
+    } ]
+  }, {
+    "tStartMs": 287133,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "You can only charter."
+    } ]
+  }, {
+    "tStartMs": 288366,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "We usually charter a car."
+    } ]
+  }, {
+    "tStartMs": 290733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 291600,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Round-trip charter."
+    } ]
+  }, {
+    "tStartMs": 295866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The Liangshan region used to be one of the"
+    } ]
+  }, {
+    "tStartMs": 298266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "most impoverished regions in China."
+    } ]
+  }, {
+    "tStartMs": 300433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Like, even up till today,"
+    } ]
+  }, {
+    "tStartMs": 303433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and things have improved,"
+    } ]
+  }, {
+    "tStartMs": 305033,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "but you can feel that this is"
+    } ]
+  }, {
+    "tStartMs": 306899,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "a relatively undeveloped area."
+    } ]
+  }, {
+    "tStartMs": 319733,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "After hearing that,"
+    } ]
+  }, {
+    "tStartMs": 320600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "we didn't want to hire the whole car."
+    } ]
+  }, {
+    "tStartMs": 322333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Our driver had other plans."
+    } ]
+  }, {
+    "tStartMs": 324233,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "He drove for a while,"
+    } ]
+  }, {
+    "tStartMs": 325466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "then stopped in a small town"
+    } ]
+  }, {
+    "tStartMs": 326933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "and told us he needed a break."
+    } ]
+  }, {
+    "tStartMs": 333233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "And somehow during that break,"
+    } ]
+  }, {
+    "tStartMs": 335333,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "he managed to sell us"
+    } ]
+  }, {
+    "tStartMs": 336699,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "to another driver."
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "And charged us another 20 yuan."
+    } ]
+  }, {
+    "tStartMs": 340699,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Well, never mind."
+    } ]
+  }, {
+    "tStartMs": 342133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "As long as we could get there."
+    } ]
+  }, {
+    "tStartMs": 350399,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "The road was"
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "pretty rough and unfamiliar."
+    } ]
+  }, {
+    "tStartMs": 353166,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "After another two hours of driving,"
+    } ]
+  }, {
+    "tStartMs": 355399,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "we finally made it"
+    } ]
+  }, {
+    "tStartMs": 356466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "to the foot of the mountain,"
+    } ]
+  }, {
+    "tStartMs": 358466,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "below the Cliff Village,"
+    } ]
+  }, {
+    "tStartMs": 360199,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "where we started climbing."
+    } ]
+  }, {
+    "tStartMs": 363600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "At the entrance,"
+    } ]
+  }, {
+    "tStartMs": 364500,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "they gave us this security rope so"
+    } ]
+  }, {
+    "tStartMs": 366633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "that we could climb up."
+    } ]
+  }, {
+    "tStartMs": 368500,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "The staircases are altogether—"
+    } ]
+  }, {
+    "tStartMs": 371866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "uh, two thousand five hundred—"
+    } ]
+  }, {
+    "tStartMs": 373833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "more than two thousand five hundred steps."
+    } ]
+  }, {
+    "tStartMs": 376033,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And it used to be made of wood and vine,"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "but for years,"
+    } ]
+  }, {
+    "tStartMs": 381666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "they have been replaced by metal,"
+    } ]
+  }, {
+    "tStartMs": 385266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "by steel ladders."
+    } ]
+  }, {
+    "tStartMs": 387266,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Ever since that photo was published."
+    } ]
+  }, {
+    "tStartMs": 394833,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "I don't know"
+    } ]
+  }, {
+    "tStartMs": 395399,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "if there are still people living up there."
+    } ]
+  }, {
+    "tStartMs": 398933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Maybe we will meet some locals."
+    } ]
+  }, {
+    "tStartMs": 405933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "This is definitely quite exhausting."
+    } ]
+  }, {
+    "tStartMs": 408966,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And I just imagine how much of a struggle"
+    } ]
+  }, {
+    "tStartMs": 412166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "it must have been"
+    } ]
+  }, {
+    "tStartMs": 414233,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "when they hadn't built the ladder up like this."
+    } ]
+  }, {
+    "tStartMs": 421100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And it's still quite exhausting."
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Come on, little one!"
+    } ]
+  }, {
+    "tStartMs": 441666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This is a part where"
+    } ]
+  }, {
+    "tStartMs": 445166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "fifty percent of the time,"
+    } ]
+  }, {
+    "tStartMs": 448500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "you have to use both your arms and legs."
+    } ]
+  }, {
+    "tStartMs": 452033,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "But ten years ago,"
+    } ]
+  }, {
+    "tStartMs": 453500,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "this was the daily way to school for kids."
+    } ]
+  }, {
+    "tStartMs": 463566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "This is tough."
+    } ]
+  }, {
+    "tStartMs": 466866,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "I sweat so much."
+    } ]
+  }, {
+    "tStartMs": 467899,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "I hope we have enough water"
+    } ]
+  }, {
+    "tStartMs": 469166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "to survive till the top."
+    } ]
+  }, {
+    "tStartMs": 471233,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I remember when I went to primary school"
+    } ]
+  }, {
+    "tStartMs": 474833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and middle school,"
+    } ]
+  }, {
+    "tStartMs": 476933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "some of my classmates"
+    } ]
+  }, {
+    "tStartMs": 478266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "had to climb the mountain in the morning"
+    } ]
+  }, {
+    "tStartMs": 480733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and walk for like two hours to go to school."
+    } ]
+  }, {
+    "tStartMs": 483833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But really, nothing like this."
+    } ]
+  }, {
+    "tStartMs": 492666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I thought we went really far,"
+    } ]
+  }, {
+    "tStartMs": 495933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "but we're not even halfway."
+    } ]
+  }, {
+    "tStartMs": 511433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "we recently have released our China tours,"
+    } ]
+  }, {
+    "tStartMs": 514433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "and we started with"
+    } ]
+  }, {
+    "tStartMs": 516166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "the best province to travel:"
+    } ]
+  }, {
+    "tStartMs": 518600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "that is Yunnan Province."
+    } ]
+  }, {
+    "tStartMs": 519933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "And in our tours,"
+    } ]
+  }, {
+    "tStartMs": 521033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "we're going to take you"
+    } ]
+  }, {
+    "tStartMs": 522366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "to meet locals,"
+    } ]
+  }, {
+    "tStartMs": 523433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "try the most authentic food,"
+    } ]
+  }, {
+    "tStartMs": 525833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "and see the most beautiful landscape."
+    } ]
+  }, {
+    "tStartMs": 529733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "So if you're interested,"
+    } ]
+  }, {
+    "tStartMs": 531966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "check our website"
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "littlechineseeverywhere"
+    } ]
+  }, {
+    "tStartMs": 534399,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": ".com for more information."
+    } ]
+  }, {
+    "tStartMs": 538666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "From here, you can see"
+    } ]
+  }, {
+    "tStartMs": 543133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "In some parts, it's easier"
+    } ]
+  }, {
+    "tStartMs": 544700,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "because there are metal bars"
+    } ]
+  }, {
+    "tStartMs": 546299,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "in between those two metal bars,"
+    } ]
+  }, {
+    "tStartMs": 548933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "but in most cases, it's just two metal bars,"
+    } ]
+  }, {
+    "tStartMs": 552166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "and you've got to be careful"
+    } ]
+  }, {
+    "tStartMs": 554500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "not to step on the empty space."
+    } ]
+  }, {
+    "tStartMs": 569433,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "That's almost a vertical climb."
+    } ]
+  }, {
+    "tStartMs": 572399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's crazy."
+    } ]
+  }, {
+    "tStartMs": 573899,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "I think it's at least seventy to eighty percent."
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Be careful, little one."
+    } ]
+  }, {
+    "tStartMs": 587933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's crazy we came"
+    } ]
+  }, {
+    "tStartMs": 589033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "all the way down from there."
+    } ]
+  }, {
+    "tStartMs": 591500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "That's basically the base where"
+    } ]
+  }, {
+    "tStartMs": 593966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "the hike starts on this little bridge."
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Now look at this valley."
+    } ]
+  }, {
+    "tStartMs": 597933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "It's so beautiful."
+    } ]
+  }, {
+    "tStartMs": 600533,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "And even on the other side, there are"
+    } ]
+  }, {
+    "tStartMs": 602200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "villages quite high up on the mountain."
+    } ]
+  }, {
+    "tStartMs": 607533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I wonder why people build villages"
+    } ]
+  }, {
+    "tStartMs": 610233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "this high up"
+    } ]
+  }, {
+    "tStartMs": 611133,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "in such unfriendly terrain,"
+    } ]
+  }, {
+    "tStartMs": 614166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "let's say."
+    } ]
+  }, {
+    "tStartMs": 615933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Maybe you guys know—"
+    } ]
+  }, {
+    "tStartMs": 617200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "let me know in the comments below."
+    } ]
+  }, {
+    "tStartMs": 620133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "And there, there's a little road,"
+    } ]
+  }, {
+    "tStartMs": 622566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "a little gravel road at least."
+    } ]
+  }, {
+    "tStartMs": 629533,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "I need a rest."
+    } ]
+  }, {
+    "tStartMs": 788100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "So this gentleman down there"
+    } ]
+  }, {
+    "tStartMs": 789766,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "said from here it's still one hour."
+    } ]
+  }, {
+    "tStartMs": 791966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "That means we are a little bit"
+    } ]
+  }, {
+    "tStartMs": 794700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "above halfway through."
+    } ]
+  }, {
+    "tStartMs": 797399,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "It's so bloody exhausting."
+    } ]
+  }, {
+    "tStartMs": 798799,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "I'm so sweat-soaked,"
+    } ]
+  }, {
+    "tStartMs": 799766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and my T-shirt is completely wet."
+    } ]
+  }, {
+    "tStartMs": 806966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I can barely talk."
+    } ]
+  }, {
+    "tStartMs": 809299,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "You've worked hard, little one."
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "So exhausting."
+    } ]
+  }, {
+    "tStartMs": 820133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 840600,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I'm not joking."
+    } ]
+  }, {
+    "tStartMs": 842433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "This is almost vertical."
+    } ]
+  }, {
+    "tStartMs": 845000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "It's at least eighty degrees."
+    } ]
+  }, {
+    "tStartMs": 848000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "And just imagine"
+    } ]
+  }, {
+    "tStartMs": 849566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the school kids who climb this every day."
+    } ]
+  }, {
+    "tStartMs": 859833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "But I think going down"
+    } ]
+  }, {
+    "tStartMs": 860966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "is even more scary."
+    } ]
+  }, {
+    "tStartMs": 883833,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "I think after those staircases,"
+    } ]
+  }, {
+    "tStartMs": 889933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "here you can see"
+    } ]
+  }, {
+    "tStartMs": 891500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "some of the old ladders that"
+    } ]
+  }, {
+    "tStartMs": 894166,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "those kids climbed over"
+    } ]
+  }, {
+    "tStartMs": 897299,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "many years ago."
+    } ]
+  }, {
+    "tStartMs": 902700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "And that's the remains of the"
+    } ]
+  }, {
+    "tStartMs": 905533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "wooden vine ladders."
+    } ]
+  }, {
+    "tStartMs": 908333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "It's crazy because even today,"
+    } ]
+  }, {
+    "tStartMs": 911200,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "with the metal bars,"
+    } ]
+  }, {
+    "tStartMs": 914100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "the ladder is quite frightening."
+    } ]
+  }, {
+    "tStartMs": 916833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "But ten years ago,"
+    } ]
+  }, {
+    "tStartMs": 919033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "people just climbed up"
+    } ]
+  }, {
+    "tStartMs": 920233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "without any protection."
+    } ]
+  }, {
+    "tStartMs": 926166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "That was the old vine"
+    } ]
+  }, {
+    "tStartMs": 928266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "that those kids climbed over"
+    } ]
+  }, {
+    "tStartMs": 931033,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "ten years ago."
+    } ]
+  }, {
+    "tStartMs": 932633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Now it's completely rotten."
+    } ]
+  }, {
+    "tStartMs": 959733,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Wow, finally!"
+    } ]
+  }, {
+    "tStartMs": 968433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Hello, is there a small shop here?"
+    } ]
+  }, {
+    "tStartMs": 973366,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "This is it, right?"
+    } ]
+  }, {
+    "tStartMs": 974399,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Okay, thank you."
+    } ]
+  }, {
+    "tStartMs": 976200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 979733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Did it rain here?"
+    } ]
+  }, {
+    "tStartMs": 981133,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 981799,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 982566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Just washing."
+    } ]
+  }, {
+    "tStartMs": 987133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Because there are kids playing on the floor,"
+    } ]
+  }, {
+    "tStartMs": 989533,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "ah, okay."
+    } ]
+  }, {
+    "tStartMs": 990233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Don't let him play with this."
+    } ]
+  }, {
+    "tStartMs": 991566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 993333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "I get someone."
+    } ]
+  }, {
+    "tStartMs": 995966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Now I just want— I want this, OK."
+    } ]
+  }, {
+    "tStartMs": 1005366,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Do you usually live down there?"
+    } ]
+  }, {
+    "tStartMs": 1007533,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "No, we all live up here."
+    } ]
+  }, {
+    "tStartMs": 1009433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "All live here?"
+    } ]
+  }, {
+    "tStartMs": 1010233,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Yes.\nI heard people have moved down already."
+    } ]
+  }, {
+    "tStartMs": 1013133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "We're doing livestock farming."
+    } ]
+  }, {
+    "tStartMs": 1014633,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1015200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Raising cattle and sheep."
+    } ]
+  }, {
+    "tStartMs": 1016533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1017333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Yes, right up here."
+    } ]
+  }, {
+    "tStartMs": 1019866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "The houses that haven't been torn down here"
+    } ]
+  }, {
+    "tStartMs": 1022233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "are for raising cattle and sheep."
+    } ]
+  }, {
+    "tStartMs": 1028799,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Some people are still living here."
+    } ]
+  }, {
+    "tStartMs": 1030633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Most of them are doing cattle grazing."
+    } ]
+  }, {
+    "tStartMs": 1036833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Is there a primary school here?"
+    } ]
+  }, {
+    "tStartMs": 1038466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Does it snow?"
+    } ]
+  }, {
+    "tStartMs": 1039766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Primary school?"
+    } ]
+  }, {
+    "tStartMs": 1041733,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Primary school?"
+    } ]
+  }, {
+    "tStartMs": 1042333,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "Primary school?"
+    } ]
+  }, {
+    "tStartMs": 1042799,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1043166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "The hotel you passed on the way up"
+    } ]
+  }, {
+    "tStartMs": 1044633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "used to be the primary school."
+    } ]
+  }, {
+    "tStartMs": 1045933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1047000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "They converted it into a hotel."
+    } ]
+  }, {
+    "tStartMs": 1048433,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1049000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There used to be a building there for the school."
+    } ]
+  }, {
+    "tStartMs": 1051200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "So the primary school was down there before?"
+    } ]
+  }, {
+    "tStartMs": 1053833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "In the past."
+    } ]
+  }, {
+    "tStartMs": 1054733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Primary school was down there."
+    } ]
+  }, {
+    "tStartMs": 1056466,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1057000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1057666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "The kindergarten was inside the village."
+    } ]
+  }, {
+    "tStartMs": 1060766,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "It's abandoned now."
+    } ]
+  }, {
+    "tStartMs": 1062333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It's right next door."
+    } ]
+  }, {
+    "tStartMs": 1064233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "So there used to be a kindergarten here?"
+    } ]
+  }, {
+    "tStartMs": 1065966,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Yes, for the village kids."
+    } ]
+  }, {
+    "tStartMs": 1067633,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1068000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "They went to kindergarten here."
+    } ]
+  }, {
+    "tStartMs": 1070233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "So did you grow up here?"
+    } ]
+  }, {
+    "tStartMs": 1072066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "No, I married into this village."
+    } ]
+  }, {
+    "tStartMs": 1073633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1081433,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "So how many people are in this village?"
+    } ]
+  }, {
+    "tStartMs": 1085133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Over 70 households."
+    } ]
+  }, {
+    "tStartMs": 1086266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Over 70?"
+    } ]
+  }, {
+    "tStartMs": 1086966,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1087333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "There are still over 70 now?"
+    } ]
+  }, {
+    "tStartMs": 1088666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "No, in the past."
+    } ]
+  }, {
+    "tStartMs": 1090233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Now everyone—"
+    } ]
+  }, {
+    "tStartMs": 1091266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Currently,"
+    } ]
+  }, {
+    "tStartMs": 1092266,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "only three or four households are in this group."
+    } ]
+  }, {
+    "tStartMs": 1094233,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1094666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "There are more groups behind."
+    } ]
+  }, {
+    "tStartMs": 1096033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "There are a few more households further back."
+    } ]
+  }, {
+    "tStartMs": 1098666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Our village has four groups."
+    } ]
+  }, {
+    "tStartMs": 1101433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Group one, two, three, and four."
+    } ]
+  }, {
+    "tStartMs": 1103933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "We're in group one here."
+    } ]
+  }, {
+    "tStartMs": 1106200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "Group one only has three or four households."
+    } ]
+  }, {
+    "tStartMs": 1108766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Group two is further back."
+    } ]
+  }, {
+    "tStartMs": 1110266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Up on that slope."
+    } ]
+  }, {
+    "tStartMs": 1112133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "No, it's further."
+    } ]
+  }, {
+    "tStartMs": 1113266,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "You have to go further in?"
+    } ]
+  }, {
+    "tStartMs": 1114366,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "If you walk,"
+    } ]
+  }, {
+    "tStartMs": 1115133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "it's about thirty to forty minutes."
+    } ]
+  }, {
+    "tStartMs": 1117633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Can cars come up here?"
+    } ]
+  }, {
+    "tStartMs": 1120466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Cars can come up,"
+    } ]
+  }, {
+    "tStartMs": 1121766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "but that road was"
+    } ]
+  }, {
+    "tStartMs": 1123433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "built by individuals."
+    } ]
+  }, {
+    "tStartMs": 1124966,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Half of it was built by the government below,"
+    } ]
+  }, {
+    "tStartMs": 1128266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "half by the people up here."
+    } ]
+  }, {
+    "tStartMs": 1130200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Planting olive trees,"
+    } ]
+  }, {
+    "tStartMs": 1131566,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1132000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "so the road they built is very narrow."
+    } ]
+  }, {
+    "tStartMs": 1134266,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1134633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It's very hard to drive."
+    } ]
+  }, {
+    "tStartMs": 1136733,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Depends on skill."
+    } ]
+  }, {
+    "tStartMs": 1138066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Most people wouldn't dare."
+    } ]
+  }, {
+    "tStartMs": 1139599,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Can motorcycles come up?"
+    } ]
+  }, {
+    "tStartMs": 1141433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Motorcycles can,"
+    } ]
+  }, {
+    "tStartMs": 1142566,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "but it also depends on skill."
+    } ]
+  }, {
+    "tStartMs": 1144033,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Hahaha!"
+    } ]
+  }, {
+    "tStartMs": 1144933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Because there's a stream on the back mountain"
+    } ]
+  }, {
+    "tStartMs": 1146866,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1147400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "that constantly flows onto the road."
+    } ]
+  }, {
+    "tStartMs": 1150166,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1150533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So it gets slippery."
+    } ]
+  }, {
+    "tStartMs": 1151733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And there are rocks falling from the back mountain."
+    } ]
+  }, {
+    "tStartMs": 1154933,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "And trees can fall down too."
+    } ]
+  }, {
+    "tStartMs": 1158033,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "So where has everyone moved to?"
+    } ]
+  }, {
+    "tStartMs": 1161133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "To Zhaojue County."
+    } ]
+  }, {
+    "tStartMs": 1162599,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1163266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "The Zhaojue resettlement sites."
+    } ]
+  }, {
+    "tStartMs": 1165466,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "Four sites."
+    } ]
+  }, {
+    "tStartMs": 1166233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Four sites."
+    } ]
+  }, {
+    "tStartMs": 1168000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "So basically everyone now"
+    } ]
+  }, {
+    "tStartMs": 1169799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "works in Zhaojue County?"
+    } ]
+  }, {
+    "tStartMs": 1172233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "For work, most go to other places."
+    } ]
+  }, {
+    "tStartMs": 1174966,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Because Zhaojue County"
+    } ]
+  }, {
+    "tStartMs": 1176799,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "has very few jobs."
+    } ]
+  }, {
+    "tStartMs": 1178666,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1179000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "There aren't many hiring."
+    } ]
+  }, {
+    "tStartMs": 1180233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Mm-hmm.\nAnd there are no factories."
+    } ]
+  }, {
+    "tStartMs": 1183000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Everyone goes to other places."
+    } ]
+  }, {
+    "tStartMs": 1186066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "At the resettlement sites,"
+    } ]
+  }, {
+    "tStartMs": 1187066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "most are elderly left behind."
+    } ]
+  }, {
+    "tStartMs": 1189533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Elderly and children at home."
+    } ]
+  }, {
+    "tStartMs": 1191433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "The younger ones—"
+    } ]
+  }, {
+    "tStartMs": 1192633,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "many go out to work."
+    } ]
+  }, {
+    "tStartMs": 1194933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1195733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Or else,"
+    } ]
+  }, {
+    "tStartMs": 1196566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "if there are no elderly at home,"
+    } ]
+  }, {
+    "tStartMs": 1198166,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1198533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "there are also young people"
+    } ]
+  }, {
+    "tStartMs": 1199933,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "staying home with kids."
+    } ]
+  }, {
+    "tStartMs": 1202566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "There are just the three of us on the mountain."
+    } ]
+  }, {
+    "tStartMs": 1204599,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "No one to help carry things."
+    } ]
+  }, {
+    "tStartMs": 1206799,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1207266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Without labor,"
+    } ]
+  }, {
+    "tStartMs": 1208766,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "there's no way."
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "We have to watch the kids."
+    } ]
+  }, {
+    "tStartMs": 1211733,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Mm-hmm.\nWatch the kids."
+    } ]
+  }, {
+    "tStartMs": 1212433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "One watches the kids."
+    } ]
+  }, {
+    "tStartMs": 1214166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He goes down to carry things."
+    } ]
+  }, {
+    "tStartMs": 1217066,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "If the family needs"
+    } ]
+  }, {
+    "tStartMs": 1218433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "to carry anything, the man goes."
+    } ]
+  }, {
+    "tStartMs": 1220533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The man goes down for supplies."
+    } ]
+  }, {
+    "tStartMs": 1222766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Then how does he come up?"
+    } ]
+  }, {
+    "tStartMs": 1224233,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Also from there—"
+    } ]
+  }, {
+    "tStartMs": 1225733,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "from those stairs?"
+    } ]
+  }, {
+    "tStartMs": 1227799,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Yes, that's closer."
+    } ]
+  }, {
+    "tStartMs": 1230866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "There's a road on the back mountain,"
+    } ]
+  }, {
+    "tStartMs": 1232133,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "but it's easy"
+    } ]
+  }, {
+    "tStartMs": 1233133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "to have falling rocks."
+    } ]
+  }, {
+    "tStartMs": 1236333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1238066,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "So he goes up and down every day?"
+    } ]
+  }, {
+    "tStartMs": 1241433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "He goes down when there's something to do."
+    } ]
+  }, {
+    "tStartMs": 1243133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "If not, he checks on the sheep and cattle."
+    } ]
+  }, {
+    "tStartMs": 1247166,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "We carry the little one down."
+    } ]
+  }, {
+    "tStartMs": 1249833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Carrying the two little kids down the mountain."
+    } ]
+  }, {
+    "tStartMs": 1252466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "I go down by myself."
+    } ]
+  }, {
+    "tStartMs": 1254799,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "You go down by yourself?"
+    } ]
+  }, {
+    "tStartMs": 1256200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "This one goes down holding on."
+    } ]
+  }, {
+    "tStartMs": 1259833,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Then walks up by himself."
+    } ]
+  }, {
+    "tStartMs": 1261400,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "He walks up by himself."
+    } ]
+  }, {
+    "tStartMs": 1262433,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1262799,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "My god."
+    } ]
+  }, {
+    "tStartMs": 1263533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Because we have to carry things."
+    } ]
+  }, {
+    "tStartMs": 1266233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "His father carries things,"
+    } ]
+  }, {
+    "tStartMs": 1267333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "I carry the little one,"
+    } ]
+  }, {
+    "tStartMs": 1268166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and he walks on his own."
+    } ]
+  }, {
+    "tStartMs": 1269566,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "My god."
+    } ]
+  }, {
+    "tStartMs": 1270000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "Impressive."
+    } ]
+  }, {
+    "tStartMs": 1270666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Impressive."
+    } ]
+  }, {
+    "tStartMs": 1271599,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Want to shake hands? Shake hands."
+    } ]
+  }, {
+    "tStartMs": 1274633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Four years old."
+    } ]
+  }, {
+    "tStartMs": 1275799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Four years old."
+    } ]
+  }, {
+    "tStartMs": 1276666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Mm, three years old."
+    } ]
+  }, {
+    "tStartMs": 1278733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "And you yourself"
+    } ]
+  }, {
+    "tStartMs": 1279633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "can go down these stairs too?"
+    } ]
+  }, {
+    "tStartMs": 1282233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Holding on."
+    } ]
+  }, {
+    "tStartMs": 1283066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Holding on."
+    } ]
+  }, {
+    "tStartMs": 1283666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "I climb down by myself."
+    } ]
+  }, {
+    "tStartMs": 1285466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "When climbing up, he does it on his own."
+    } ]
+  }, {
+    "tStartMs": 1287266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1288866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Carrying stuff."
+    } ]
+  }, {
+    "tStartMs": 1289666,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "We have to carry things."
+    } ]
+  }, {
+    "tStartMs": 1290599,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "One carries the child."
+    } ]
+  }, {
+    "tStartMs": 1291666,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1292033,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "He has to walk on his own."
+    } ]
+  }, {
+    "tStartMs": 1293400,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1294133,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "His father carries things,"
+    } ]
+  }, {
+    "tStartMs": 1295400,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "he walks on his own."
+    } ]
+  }, {
+    "tStartMs": 1297966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "He walked the whole way on his own."
+    } ]
+  }, {
+    "tStartMs": 1299666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Wow, impressive."
+    } ]
+  }, {
+    "tStartMs": 1301533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Kids are all very impressive."
+    } ]
+  }, {
+    "tStartMs": 1303599,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "No one carries him."
+    } ]
+  }, {
+    "tStartMs": 1306766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Aren't you scared on the mountain?"
+    } ]
+  }, {
+    "tStartMs": 1308766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "You walk it often."
+    } ]
+  }, {
+    "tStartMs": 1310166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1311933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "At least once a month,"
+    } ]
+  }, {
+    "tStartMs": 1313533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "two or three times."
+    } ]
+  }, {
+    "tStartMs": 1315166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "To buy supplies."
+    } ]
+  }, {
+    "tStartMs": 1316833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Going for vaccinations once."
+    } ]
+  }, {
+    "tStartMs": 1319266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "And sometimes going down when there's something to do."
+    } ]
+  }, {
+    "tStartMs": 1323266,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Yes, adults have to carry things."
+    } ]
+  }, {
+    "tStartMs": 1325066,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "Yes.\nWe can't come back empty-handed."
+    } ]
+  }, {
+    "tStartMs": 1328433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Sometimes we have to carry daily necessities."
+    } ]
+  }, {
+    "tStartMs": 1331466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "You have to carry."
+    } ]
+  }, {
+    "tStartMs": 1332599,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Sister,"
+    } ]
+  }, {
+    "tStartMs": 1333200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "where is your husband?"
+    } ]
+  }, {
+    "tStartMs": 1334666,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Down there, making beehives."
+    } ]
+  }, {
+    "tStartMs": 1336166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "You keep bees?"
+    } ]
+  }, {
+    "tStartMs": 1338366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "We make empty boxes here"
+    } ]
+  }, {
+    "tStartMs": 1340733,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "and put them on the back mountain"
+    } ]
+  }, {
+    "tStartMs": 1341700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "to attract wild bees."
+    } ]
+  }, {
+    "tStartMs": 1344166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Some agricultural"
+    } ]
+  }, {
+    "tStartMs": 1345766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "products."
+    } ]
+  }, {
+    "tStartMs": 1347533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Okay, great."
+    } ]
+  }, {
+    "tStartMs": 1348266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 1349066,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "We'll be going now."
+    } ]
+  }, {
+    "tStartMs": 1349900,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "Mm, bye."
+    } ]
+  }, {
+    "tStartMs": 1350566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Bye bye."
+    } ]
+  }, {
+    "tStartMs": 1351933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1353266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1356966,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1357299,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1357766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1359500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1360466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1361500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 1363366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "I even have a washing machine, yeah."
+    } ]
+  }, {
+    "tStartMs": 1367266,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "That's the crazy part."
+    } ]
+  }, {
+    "tStartMs": 1368299,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Even in the poorest region,"
+    } ]
+  }, {
+    "tStartMs": 1371766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "at least they have electricity and water."
+    } ]
+  }, {
+    "tStartMs": 1373900,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 1376099,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "So some people are still living here."
+    } ]
+  }, {
+    "tStartMs": 1378466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "And as she told us,"
+    } ]
+  }, {
+    "tStartMs": 1379766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "most people were reallocated"
+    } ]
+  }, {
+    "tStartMs": 1381500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "to the city of Zhaojue."
+    } ]
+  }, {
+    "tStartMs": 1383533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Um, those who are left"
+    } ]
+  }, {
+    "tStartMs": 1385066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "are doing animal grazing."
+    } ]
+  }, {
+    "tStartMs": 1387566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I'm kind of happy that"
+    } ]
+  }, {
+    "tStartMs": 1389566,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "villages like this are disappearing"
+    } ]
+  }, {
+    "tStartMs": 1392200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "because you can feel it—"
+    } ]
+  }, {
+    "tStartMs": 1394866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "the poverty is real."
+    } ]
+  }, {
+    "tStartMs": 1398299,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "And life is definitely not easy."
+    } ]
+  }, {
+    "tStartMs": 1401533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Even that kid—"
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "he is three years old."
+    } ]
+  }, {
+    "tStartMs": 1404799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "He had to climb up, you know,"
+    } ]
+  }, {
+    "tStartMs": 1407200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "the same staircase"
+    } ]
+  }, {
+    "tStartMs": 1408799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "twice a month."
+    } ]
+  }, {
+    "tStartMs": 1411466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "The mom has to carry"
+    } ]
+  }, {
+    "tStartMs": 1412966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "the little baby on her back."
+    } ]
+  }, {
+    "tStartMs": 1415900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The dad has to carry their daily stuff."
+    } ]
+  }, {
+    "tStartMs": 1420099,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "She told me when the kids get bigger,"
+    } ]
+  }, {
+    "tStartMs": 1423933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "they'll have to rent a house"
+    } ]
+  }, {
+    "tStartMs": 1425400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "somewhere down near the school,"
+    } ]
+  }, {
+    "tStartMs": 1427500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "because they don't have a house yet."
+    } ]
+  }, {
+    "tStartMs": 1429466,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "So now they're working really hard, uh, so"
+    } ]
+  }, {
+    "tStartMs": 1432200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "that in the future"
+    } ]
+  }, {
+    "tStartMs": 1433066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "they can buy a house."
+    } ]
+  }, {
+    "tStartMs": 1437599,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Because people here"
+    } ]
+  }, {
+    "tStartMs": 1439333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "tend to have, you know, very big families."
+    } ]
+  }, {
+    "tStartMs": 1441766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "So when you know,"
+    } ]
+  }, {
+    "tStartMs": 1442599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "when the kids grow older,"
+    } ]
+  }, {
+    "tStartMs": 1444400,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "they are going to split the family."
+    } ]
+  }, {
+    "tStartMs": 1445166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Split the family."
+    } ]
+  }, {
+    "tStartMs": 1447133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "And she told me that"
+    } ]
+  }, {
+    "tStartMs": 1447933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "according to their tradition,"
+    } ]
+  }, {
+    "tStartMs": 1449799,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "it's usually the youngest kid—"
+    } ]
+  }, {
+    "tStartMs": 1452099,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "the youngest kid, uh,"
+    } ]
+  }, {
+    "tStartMs": 1453700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "who will inherit the house."
+    } ]
+  }, {
+    "tStartMs": 1456666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "So all the older brothers and sisters"
+    } ]
+  }, {
+    "tStartMs": 1459433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "have to be independent,"
+    } ]
+  }, {
+    "tStartMs": 1461966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "find a job, earn some money,"
+    } ]
+  }, {
+    "tStartMs": 1465166,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "and then buy a house on their own."
+    } ]
+  }, {
+    "tStartMs": 1474299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Today there is even"
+    } ]
+  }, {
+    "tStartMs": 1475299,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "a little small guesthouse,"
+    } ]
+  }, {
+    "tStartMs": 1477099,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "a very simple guesthouse"
+    } ]
+  }, {
+    "tStartMs": 1478866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "with some bunk beds"
+    } ]
+  }, {
+    "tStartMs": 1480900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "for the hikers."
+    } ]
+  }, {
+    "tStartMs": 1483533,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Okay, thank you."
+    } ]
+  }, {
+    "tStartMs": 1487666,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Mose Yanghuang."
+    } ]
+  }, {
+    "tStartMs": 1489366,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Mose Yanghuang."
+    } ]
+  }, {
+    "tStartMs": 1490533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "A Yi name."
+    } ]
+  }, {
+    "tStartMs": 1491900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Hahaha! How old are you this year?"
+    } ]
+  }, {
+    "tStartMs": 1495133,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Eleven years old."
+    } ]
+  }, {
+    "tStartMs": 1495966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Eleven years old."
+    } ]
+  }, {
+    "tStartMs": 1497700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1498733,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "So are you a primary school student?"
+    } ]
+  }, {
+    "tStartMs": 1503900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "You go to school down there, right?"
+    } ]
+  }, {
+    "tStartMs": 1506266,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes, down there."
+    } ]
+  }, {
+    "tStartMs": 1507266,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "At—\nThere's a school up here?"
+    } ]
+  }, {
+    "tStartMs": 1508799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "In the town."
+    } ]
+  }, {
+    "tStartMs": 1509799,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "In the county."
+    } ]
+  }, {
+    "tStartMs": 1511066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Zhaojue."
+    } ]
+  }, {
+    "tStartMs": 1511966,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Zhaojue."
+    } ]
+  }, {
+    "tStartMs": 1512466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, that's far."
+    } ]
+  }, {
+    "tStartMs": 1514766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "So he boards at school?"
+    } ]
+  }, {
+    "tStartMs": 1517333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "He's just here with me during vacation."
+    } ]
+  }, {
+    "tStartMs": 1520266,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1520799,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Ah, okay."
+    } ]
+  }, {
+    "tStartMs": 1522866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "During school, he lives in Zhaojue County."
+    } ]
+  }, {
+    "tStartMs": 1524733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1525966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Boarding? Or...?"
+    } ]
+  }, {
+    "tStartMs": 1527333,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Not boarding."
+    } ]
+  }, {
+    "tStartMs": 1528400,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "He lives with his parents."
+    } ]
+  }, {
+    "tStartMs": 1529799,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1530299,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Ah, but I don't see your sheep."
+    } ]
+  }, {
+    "tStartMs": 1532766,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "Are they on the mountain?"
+    } ]
+  }, {
+    "tStartMs": 1534099,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Yes, on the mountain."
+    } ]
+  }, {
+    "tStartMs": 1534966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1536099,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "They just roam freely,"
+    } ]
+  }, {
+    "tStartMs": 1537133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "and then at night"
+    } ]
+  }, {
+    "tStartMs": 1537766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "they come back?"
+    } ]
+  }, {
+    "tStartMs": 1538533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1539266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1541666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1543366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Poverty can really hurt."
+    } ]
+  }, {
+    "tStartMs": 1544466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "This is one of the least—"
+    } ]
+  }, {
+    "tStartMs": 1545733,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "like, most impoverished regions in China."
+    } ]
+  }, {
+    "tStartMs": 1548599,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "But compared with the past,"
+    } ]
+  }, {
+    "tStartMs": 1550733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "life has"
+    } ]
+  }, {
+    "tStartMs": 1552166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "improved a lot."
+    } ]
+  }, {
+    "tStartMs": 1553500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Because now at least"
+    } ]
+  }, {
+    "tStartMs": 1554466,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "people have enough food,"
+    } ]
+  }, {
+    "tStartMs": 1555933,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "enough water,"
+    } ]
+  }, {
+    "tStartMs": 1556566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "uh, they can go to school."
+    } ]
+  }, {
+    "tStartMs": 1558933,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "And for my parents' generation—they—"
+    } ]
+  }, {
+    "tStartMs": 1561066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "and also my grandparents' generation—"
+    } ]
+  }, {
+    "tStartMs": 1562966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "they really lived through poverty."
+    } ]
+  }, {
+    "tStartMs": 1564966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So one of my mom's older sisters died"
+    } ]
+  }, {
+    "tStartMs": 1567666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "because of starvation,"
+    } ]
+  }, {
+    "tStartMs": 1569400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "because simply my grandparents"
+    } ]
+  }, {
+    "tStartMs": 1572200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "didn't have enough food to"
+    } ]
+  }, {
+    "tStartMs": 1574933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "feed the kids."
+    } ]
+  }, {
+    "tStartMs": 1576700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "And if you compare that"
+    } ]
+  }, {
+    "tStartMs": 1578400,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "with the life we have right now,"
+    } ]
+  }, {
+    "tStartMs": 1581900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "things have"
+    } ]
+  }, {
+    "tStartMs": 1583900,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "changed a lot."
+    } ]
+  }, {
+    "tStartMs": 1584933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "And I hope that in the future,"
+    } ]
+  }, {
+    "tStartMs": 1586933,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "this part of China will also have a"
+    } ]
+  }, {
+    "tStartMs": 1591266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "much better life in the future."
+    } ]
+  }, {
+    "tStartMs": 1594333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "So two years ago,"
+    } ]
+  }, {
+    "tStartMs": 1595666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "when I was in Butuo,"
+    } ]
+  }, {
+    "tStartMs": 1597766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "which is not so far from here,"
+    } ]
+  }, {
+    "tStartMs": 1599533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "the road was still bad."
+    } ]
+  }, {
+    "tStartMs": 1601299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They just finished"
+    } ]
+  }, {
+    "tStartMs": 1602666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "uh, the high-speed road,"
+    } ]
+  }, {
+    "tStartMs": 1604266,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "and this year,"
+    } ]
+  }, {
+    "tStartMs": 1604766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "when I came back,"
+    } ]
+  }, {
+    "tStartMs": 1605599,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "so that part of the highway"
+    } ]
+  }, {
+    "tStartMs": 1607566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "was completed."
+    } ]
+  }, {
+    "tStartMs": 1608900,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "And another highway connecting Zhaojue,"
+    } ]
+  }, {
+    "tStartMs": 1611733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "the city near here,"
+    } ]
+  }, {
+    "tStartMs": 1613200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "will also be completed"
+    } ]
+  }, {
+    "tStartMs": 1616366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "the other highway to Zhaojue will also"
+    } ]
+  }, {
+    "tStartMs": 1618333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "be completed by the end of the year."
+    } ]
+  }, {
+    "tStartMs": 1621133,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "And hopefully,"
+    } ]
+  }, {
+    "tStartMs": 1623200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "hopefully people can walk out of the"
+    } ]
+  }, {
+    "tStartMs": 1625200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "mountains and have a better life."
+    } ]
+  }, {
+    "tStartMs": 1630966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "What's just incredible to me"
+    } ]
+  }, {
+    "tStartMs": 1632900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "is the magnitude and the pace"
+    } ]
+  }, {
+    "tStartMs": 1635333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "in which China managed"
+    } ]
+  }, {
+    "tStartMs": 1636466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "to lift people out of poverty."
+    } ]
+  }, {
+    "tStartMs": 1638466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "If I think of Yan's parents—"
+    } ]
+  }, {
+    "tStartMs": 1640166,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "my parents-in-law—"
+    } ]
+  }, {
+    "tStartMs": 1642000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "they grew up when China was one of"
+    } ]
+  }, {
+    "tStartMs": 1643900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the poorest countries in the world,"
+    } ]
+  }, {
+    "tStartMs": 1645900,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "and now"
+    } ]
+  }, {
+    "tStartMs": 1647000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "you have somewhat"
+    } ]
+  }, {
+    "tStartMs": 1647966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "a very, very good living standard."
+    } ]
+  }, {
+    "tStartMs": 1650533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Last year, Yan's parents—"
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "they could afford to travel."
+    } ]
+  }, {
+    "tStartMs": 1654766,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "We brought them to Europe,"
+    } ]
+  }, {
+    "tStartMs": 1656566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "and they can now kind of"
+    } ]
+  }, {
+    "tStartMs": 1658799,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "really enjoy life and have"
+    } ]
+  }, {
+    "tStartMs": 1661166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "enough food, and"
+    } ]
+  }, {
+    "tStartMs": 1662266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "this accounts for the vast majority of"
+    } ]
+  }, {
+    "tStartMs": 1664900,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Chinese people now."
+    } ]
+  }, {
+    "tStartMs": 1666133,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "This is— this is what's just incredible."
+    } ]
+  }, {
+    "tStartMs": 1668599,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "If you imagine,"
+    } ]
+  }, {
+    "tStartMs": 1669500,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "especially given the population size—"
+    } ]
+  }, {
+    "tStartMs": 1672666,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "I think that were"
+    } ]
+  }, {
+    "tStartMs": 1673166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "somewhat 8 million"
+    } ]
+  }, {
+    "tStartMs": 1676066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "lifted out of\npoverty."
+    } ]
+  }, {
+    "tStartMs": 1677200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "That's like 10 times the size of Germany"
+    } ]
+  }, {
+    "tStartMs": 1680066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "in terms of population."
+    } ]
+  }, {
+    "tStartMs": 1681500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "It's just incredible."
+    } ]
+  }, {
+    "tStartMs": 1683900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Going to Zhaojue?"
+    } ]
+  }, {
+    "tStartMs": 1689533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Zhaojue?"
+    } ]
+  }, {
+    "tStartMs": 1692200,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1692666,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Ah, no."
+    } ]
+  }, {
+    "tStartMs": 1693566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Okay, thank you."
+    } ]
+  }, {
+    "tStartMs": 1695366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1697099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Going to Zhaojue?"
+    } ]
+  }, {
+    "tStartMs": 1700400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 1701533,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Where are you going?"
+    } ]
+  }, {
+    "tStartMs": 1702466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I'm going to Rama Town."
+    } ]
+  }, {
+    "tStartMs": 1704133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Rama Town—is that the one"
+    } ]
+  }, {
+    "tStartMs": 1705266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "with buses to Zhaojue?"
+    } ]
+  }, {
+    "tStartMs": 1707066,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1707733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Um, can we pay the fare"
+    } ]
+  }, {
+    "tStartMs": 1708566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "and catch a ride with you?"
+    } ]
+  }, {
+    "tStartMs": 1709666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Sure, sure."
+    } ]
+  }, {
+    "tStartMs": 1710466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Come on, Flo."
+    } ]
+  }, {
+    "tStartMs": 1715166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 1716533,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Thank him for taking us to that town—"
+    } ]
+  }, {
+    "tStartMs": 1719366,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "what's it called, Rama Town."
+    } ]
+  }, {
+    "tStartMs": 1721900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Okay, good."
+    } ]
+  }, {
+    "tStartMs": 1722500,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 1723733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1725200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Let's go that way."
+    } ]
+  }, {
+    "tStartMs": 1727099,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Okay, let's go."
+    } ]
+  }, {
+    "tStartMs": 1729599,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Get in first. OK."
+    } ]
+  }, {
+    "tStartMs": 1731500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Are you in the middle?"
+    } ]
+  }, {
+    "tStartMs": 1733166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Okay, squeeze in."
+    } ]
+  }, {
+    "tStartMs": 1736866,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "So we hit"
+    } ]
+  }, {
+    "tStartMs": 1737400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like this little tiny car."
+    } ]
+  }, {
+    "tStartMs": 1739966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "We are already overloading it"
+    } ]
+  }, {
+    "tStartMs": 1741500,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "because we are"
+    } ]
+  }, {
+    "tStartMs": 1741966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "four people in the back."
+    } ]
+  }, {
+    "tStartMs": 1743900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "And I feel a little bit sorry for the driver"
+    } ]
+  }, {
+    "tStartMs": 1746566,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "because it's a little bit overloaded."
+    } ]
+  }, {
+    "tStartMs": 1749700,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "It's an electric car."
+    } ]
+  }, {
+    "tStartMs": 1750733,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "It's an electric car."
+    } ]
+  }, {
+    "tStartMs": 1751799,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Thirty-three, thirty-two percent left."
+    } ]
+  }, {
+    "tStartMs": 1753766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "And there is a risk"
+    } ]
+  }, {
+    "tStartMs": 1755066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "that we won't be able to make"
+    } ]
+  }, {
+    "tStartMs": 1756966,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "it to the destination"
+    } ]
+  }, {
+    "tStartMs": 1758233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "before the battery dies."
+    } ]
+  }, {
+    "tStartMs": 1759733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So according to navigation,"
+    } ]
+  }, {
+    "tStartMs": 1760933,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "it's still twenty-seven kilometers,"
+    } ]
+  }, {
+    "tStartMs": 1763099,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "and he has thirty-two percent left,"
+    } ]
+  }, {
+    "tStartMs": 1765599,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "and we are overloaded."
+    } ]
+  }, {
+    "tStartMs": 1767200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So fingers crossed"
+    } ]
+  }, {
+    "tStartMs": 1768200,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "we'll make it."
+    } ]
+  }, {
+    "tStartMs": 1772299,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Now we have twenty-one percent battery"
+    } ]
+  }, {
+    "tStartMs": 1775599,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "and fifteen kilometers."
+    } ]
+  }, {
+    "tStartMs": 1778466,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Not so sure if we can make it there."
+    } ]
+  }, {
+    "tStartMs": 1781599,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Ten percent now."
+    } ]
+  }, {
+    "tStartMs": 1782500,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "There is no percentage left—"
+    } ]
+  }, {
+    "tStartMs": 1783966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "so it's just blinking."
+    } ]
+  }, {
+    "tStartMs": 1787700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "OK, now it's getting very exciting."
+    } ]
+  }, {
+    "tStartMs": 1790166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Now we don't know"
+    } ]
+  }, {
+    "tStartMs": 1791266,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "how much percentage of battery is left."
+    } ]
+  }, {
+    "tStartMs": 1793333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "The car could stop any moment."
+    } ]
+  }, {
+    "tStartMs": 1795900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "Now there are four point six kilometers left."
+    } ]
+  }, {
+    "tStartMs": 1802400,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "Might be eventually we reach—"
+    } ]
+  }, {
+    "tStartMs": 1806566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "this town called Rama Town."
+    } ]
+  }, {
+    "tStartMs": 1808866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "With only five percent battery left."
+    } ]
+  }, {
+    "tStartMs": 1812299,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "From here, we got a number."
+    } ]
+  }, {
+    "tStartMs": 1813933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "We're going to call a small minivan"
+    } ]
+  }, {
+    "tStartMs": 1816599,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "which will take us to Zhaojue."
+    } ]
+  }, {
+    "tStartMs": 1819133,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I think that's it for today."
+    } ]
+  }, {
+    "tStartMs": 1820566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "We hope you enjoyed today's video."
+    } ]
+  }, {
+    "tStartMs": 1823200,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Thanks for watching."
+    } ]
+  }, {
+    "tStartMs": 1823933,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "And we'll see you in the next episode."
+    } ]
+  }, {
+    "tStartMs": 1826166,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Bye bye."
+    } ]
+  } ]
+}

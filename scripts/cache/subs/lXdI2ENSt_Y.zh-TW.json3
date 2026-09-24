@@ -1,0 +1,2533 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2948,
+    "segs": [ {
+      "utf8": "10 年內，AI 會殺死所有人類？！"
+    } ]
+  }, {
+    "tStartMs": 2948,
+    "dDurationMs": 1891,
+    "segs": [ {
+      "utf8": "最近，接連有頂尖 AI 研究員"
+    } ]
+  }, {
+    "tStartMs": 4839,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "因為擔心 AI 失控而公開離職"
+    } ]
+  }, {
+    "tStartMs": 7109,
+    "dDurationMs": 1287,
+    "segs": [ {
+      "utf8": "先後待過 OpenAI"
+    } ]
+  }, {
+    "tStartMs": 8396,
+    "dDurationMs": 2138,
+    "segs": [ {
+      "utf8": "和 Anthropic 的研究員考克森"
+    } ]
+  }, {
+    "tStartMs": 10534,
+    "dDurationMs": 895,
+    "segs": [ {
+      "utf8": "還發文警告"
+    } ]
+  }, {
+    "tStartMs": 11429,
+    "dDurationMs": 3105,
+    "segs": [ {
+      "utf8": "AI 巨頭們「正在拿我們的性命當賭注」"
+    } ]
+  }, {
+    "tStartMs": 14534,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "Google DeepMind"
+    } ]
+  }, {
+    "tStartMs": 15618,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "前安全研究員也附和："
+    } ]
+  }, {
+    "tStartMs": 17035,
+    "dDurationMs": 2416,
+    "segs": [ {
+      "utf8": "「AI 有可能殺死我們所有人。」"
+    } ]
+  }, {
+    "tStartMs": 19451,
+    "dDurationMs": 723,
+    "segs": [ {
+      "utf8": "更嚇人的是"
+    } ]
+  }, {
+    "tStartMs": 20174,
+    "dDurationMs": 1054,
+    "segs": [ {
+      "utf8": "有些人還直接算出了"
+    } ]
+  }, {
+    "tStartMs": 21228,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "「毀滅機率」！"
+    } ]
+  }, {
+    "tStartMs": 22248,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "Anthropic 的"
+    } ]
+  }, {
+    "tStartMs": 23041,
+    "dDurationMs": 2147,
+    "segs": [ {
+      "utf8": "安全研究負責人胡賓格說"
+    } ]
+  }, {
+    "tStartMs": 25188,
+    "dDurationMs": 983,
+    "segs": [ {
+      "utf8": "未來 10 年內"
+    } ]
+  }, {
+    "tStartMs": 26171,
+    "dDurationMs": 2876,
+    "segs": [ {
+      "utf8": "AI 滅絕人類的機率超過 10%"
+    } ]
+  }, {
+    "tStartMs": 29047,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "馬斯克則估計大約是 20%"
+    } ]
+  }, {
+    "tStartMs": 31716,
+    "dDurationMs": 1687,
+    "segs": [ {
+      "utf8": "研究 AI 安全的學者甚至認為"
+    } ]
+  }, {
+    "tStartMs": 33403,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "一百年內，AI 消滅人類的機率"
+    } ]
+  }, {
+    "tStartMs": 35655,
+    "dDurationMs": 2146,
+    "segs": [ {
+      "utf8": "高達 99.9%！"
+    } ]
+  }, {
+    "tStartMs": 37801,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "就連開發 AI 的巨頭"
+    } ]
+  }, {
+    "tStartMs": 39304,
+    "dDurationMs": 1815,
+    "segs": [ {
+      "utf8": "也開始擔心 AI 失控"
+    } ]
+  }, {
+    "tStartMs": 41119,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Anthropic 執行長"
+    } ]
+  }, {
+    "tStartMs": 42285,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "阿莫迪發表長文"
+    } ]
+  }, {
+    "tStartMs": 43702,
+    "dDurationMs": 1392,
+    "segs": [ {
+      "utf8": "直言現在 AI 發展得太快"
+    } ]
+  }, {
+    "tStartMs": 45094,
+    "dDurationMs": 1507,
+    "segs": [ {
+      "utf8": "人類可能控制不了"
+    } ]
+  }, {
+    "tStartMs": 46601,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "呼籲整個產業放慢腳步"
+    } ]
+  }, {
+    "tStartMs": 48478,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "先把安全機制建立起來"
+    } ]
+  }, {
+    "tStartMs": 50063,
+    "dDurationMs": 2647,
+    "segs": [ {
+      "utf8": "OpenAI、xAI、Google DeepMind"
+    } ]
+  }, {
+    "tStartMs": 52710,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "領頭人也紛紛表態支持"
+    } ]
+  }, {
+    "tStartMs": 54523,
+    "dDurationMs": 2983,
+    "segs": [ {
+      "utf8": "形成罕見的「四巨頭同聲喊卡」"
+    } ]
+  }, {
+    "tStartMs": 57506,
+    "dDurationMs": 2209,
+    "segs": [ {
+      "utf8": "欸，為什麼科技圈的大佬"
+    } ]
+  }, {
+    "tStartMs": 59715,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "紛紛開始警告"
+    } ]
+  }, {
+    "tStartMs": 61155,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "AI 可能毀滅人類？"
+    } ]
+  }, {
+    "tStartMs": 62863,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "他們手上到底有什麼「證據」？"
+    } ]
+  }, {
+    "tStartMs": 64637,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "AI 真的會走到那一步嗎？"
+    } ]
+  }, {
+    "tStartMs": 66867,
+    "dDurationMs": 813,
+    "segs": [ {
+      "utf8": "不過在開始之前"
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "先讓我們進一段工商服務時間！"
+    } ]
+  }, {
+    "tStartMs": 124150,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "【人類已經控制不了AI？】"
+    } ]
+  }, {
+    "tStartMs": 127420,
+    "dDurationMs": 1254,
+    "segs": [ {
+      "utf8": "hiho～大家好，我是志祺！"
+    } ]
+  }, {
+    "tStartMs": 128674,
+    "dDurationMs": 1562,
+    "segs": [ {
+      "utf8": "考克森這些研究人員"
+    } ]
+  }, {
+    "tStartMs": 130236,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "會擔心「AI 可能毀滅人類」"
+    } ]
+  }, {
+    "tStartMs": 132616,
+    "dDurationMs": 937,
+    "segs": [ {
+      "utf8": "最核心的原因是"
+    } ]
+  }, {
+    "tStartMs": 133553,
+    "dDurationMs": 2648,
+    "segs": [ {
+      "utf8": "AI 可能強到，人類快要管不住了！"
+    } ]
+  }, {
+    "tStartMs": 136201,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "以前做 AI，得靠人類工程師"
+    } ]
+  }, {
+    "tStartMs": 138244,
+    "dDurationMs": 2021,
+    "segs": [ {
+      "utf8": "一步一步把模型訓練出來"
+    } ]
+  }, {
+    "tStartMs": 140265,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "但現在，AI 已經能幫忙"
+    } ]
+  }, {
+    "tStartMs": 141999,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "寫程式、跑實驗、分析結果"
+    } ]
+  }, {
+    "tStartMs": 144082,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "甚至開始參與研發"
+    } ]
+  }, {
+    "tStartMs": 145540,
+    "dDurationMs": 1524,
+    "segs": [ {
+      "utf8": "下一代更強的 AI"
+    } ]
+  }, {
+    "tStartMs": 147064,
+    "dDurationMs": 2251,
+    "segs": [ {
+      "utf8": "這讓包括考克森、胡賓格等等"
+    } ]
+  }, {
+    "tStartMs": 149315,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "AI 工作人員擔心"
+    } ]
+  }, {
+    "tStartMs": 150545,
+    "dDurationMs": 812,
+    "segs": [ {
+      "utf8": "如果 AI 真的能"
+    } ]
+  }, {
+    "tStartMs": 151357,
+    "dDurationMs": 1691,
+    "segs": [ {
+      "utf8": "自己開發新的 AI"
+    } ]
+  }, {
+    "tStartMs": 153048,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "就會變成「更強的 AI"
+    } ]
+  }, {
+    "tStartMs": 155071,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "做出更更強的 AI 」"
+    } ]
+  }, {
+    "tStartMs": 156437,
+    "dDurationMs": 1345,
+    "segs": [ {
+      "utf8": "一路不斷加速"
+    } ]
+  }, {
+    "tStartMs": 157782,
+    "dDurationMs": 1249,
+    "segs": [ {
+      "utf8": "到時候，人類研究員"
+    } ]
+  }, {
+    "tStartMs": 159031,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "可能還沒檢查完"
+    } ]
+  }, {
+    "tStartMs": 160158,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "上一輪 AI 改了什麼、為什麼有效"
+    } ]
+  }, {
+    "tStartMs": 162491,
+    "dDurationMs": 1878,
+    "segs": [ {
+      "utf8": "下一輪模型就已經出來了"
+    } ]
+  }, {
+    "tStartMs": 164369,
+    "dDurationMs": 1288,
+    "segs": [ {
+      "utf8": "AI 就這樣一步步"
+    } ]
+  }, {
+    "tStartMs": 165657,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "超出人類能理解、能控制的範圍"
+    } ]
+  }, {
+    "tStartMs": 168457,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "而原本用來管住 AI 的安全機制"
+    } ]
+  }, {
+    "tStartMs": 170750,
+    "dDurationMs": 1814,
+    "segs": [ {
+      "utf8": "也可能被遠遠甩在後面"
+    } ]
+  }, {
+    "tStartMs": 172564,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "胡賓格就說，他們一直努力"
+    } ]
+  }, {
+    "tStartMs": 174565,
+    "dDurationMs": 1355,
+    "segs": [ {
+      "utf8": "讓 AI 的目標和行為"
+    } ]
+  }, {
+    "tStartMs": 175920,
+    "dDurationMs": 1625,
+    "segs": [ {
+      "utf8": "跟人類的期待一致"
+    } ]
+  }, {
+    "tStartMs": 177545,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "確保 AI 只做人類交代的事"
+    } ]
+  }, {
+    "tStartMs": 179675,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "不會為了達成目標而傷害人"
+    } ]
+  }, {
+    "tStartMs": 181455,
+    "dDurationMs": 1262,
+    "segs": [ {
+      "utf8": "但到目前為止"
+    } ]
+  }, {
+    "tStartMs": 182717,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "他們還沒有一套能有效掌控"
+    } ]
+  }, {
+    "tStartMs": 184448,
+    "dDurationMs": 1229,
+    "segs": [ {
+      "utf8": "「AI發展」的計畫"
+    } ]
+  }, {
+    "tStartMs": 185677,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "OpenAI 首席科學家也坦言"
+    } ]
+  }, {
+    "tStartMs": 187805,
+    "dDurationMs": 1313,
+    "segs": [ {
+      "utf8": "他們越來越看不懂 AI"
+    } ]
+  }, {
+    "tStartMs": 189118,
+    "dDurationMs": 1689,
+    "segs": [ {
+      "utf8": "在想什麼、打算做什麼"
+    } ]
+  }, {
+    "tStartMs": 190807,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "監控 AI 變得越來越難"
+    } ]
+  }, {
+    "tStartMs": 192518,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "當 AI 不斷加速"
+    } ]
+  }, {
+    "tStartMs": 193811,
+    "dDurationMs": 1979,
+    "segs": [ {
+      "utf8": "煞車卻開始失靈"
+    } ]
+  }, {
+    "tStartMs": 195790,
+    "dDurationMs": 1815,
+    "segs": [ {
+      "utf8": "AI 就可能做出越來越多"
+    } ]
+  }, {
+    "tStartMs": 197605,
+    "dDurationMs": 1105,
+    "segs": [ {
+      "utf8": "「越界」的事"
+    } ]
+  }, {
+    "tStartMs": 198710,
+    "dDurationMs": 978,
+    "segs": [ {
+      "utf8": "像是今年 7 月"
+    } ]
+  }, {
+    "tStartMs": 199688,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Open AI 一個訓練中的 AI Agent"
+    } ]
+  }, {
+    "tStartMs": 201524,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "居然自己「越獄」"
+    } ]
+  }, {
+    "tStartMs": 202525,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "跑去攻擊一個叫 Hugging Face 的平台"
+    } ]
+  }, {
+    "tStartMs": 205236,
+    "dDurationMs": 1814,
+    "segs": [ {
+      "utf8": "這起事件我們之前也做過一集"
+    } ]
+  }, {
+    "tStartMs": 207050,
+    "dDurationMs": 2042,
+    "segs": [ {
+      "utf8": "有興趣的朋友可以找來看看"
+    } ]
+  }, {
+    "tStartMs": 209092,
+    "dDurationMs": 1555,
+    "segs": [ {
+      "utf8": "8 月底，Anthropic 也揭露"
+    } ]
+  }, {
+    "tStartMs": 210647,
+    "dDurationMs": 1595,
+    "segs": [ {
+      "utf8": "他們的模型在測試時"
+    } ]
+  }, {
+    "tStartMs": 212242,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "曾在沒有授權的情況下"
+    } ]
+  }, {
+    "tStartMs": 213534,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "入侵了三家公司的真實系統"
+    } ]
+  }, {
+    "tStartMs": 215953,
+    "dDurationMs": 1355,
+    "segs": [ {
+      "utf8": "阿莫迪更警告，照現在"
+    } ]
+  }, {
+    "tStartMs": 217308,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "AI 能力成長的速度"
+    } ]
+  }, {
+    "tStartMs": 218934,
+    "dDurationMs": 1272,
+    "segs": [ {
+      "utf8": "半年到一年內"
+    } ]
+  }, {
+    "tStartMs": 220206,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "AI 代理群就可能在網路上"
+    } ]
+  }, {
+    "tStartMs": 222124,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "建立長期存在的殭屍網路"
+    } ]
+  }, {
+    "tStartMs": 224523,
+    "dDurationMs": 1186,
+    "segs": [ {
+      "utf8": "考克森也提到"
+    } ]
+  }, {
+    "tStartMs": 225709,
+    "dDurationMs": 1546,
+    "segs": [ {
+      "utf8": "很多 AI 公司高層"
+    } ]
+  }, {
+    "tStartMs": 227255,
+    "dDurationMs": 2228,
+    "segs": [ {
+      "utf8": "面對媒體時說話都很謹慎"
+    } ]
+  }, {
+    "tStartMs": 229483,
+    "dDurationMs": 2084,
+    "segs": [ {
+      "utf8": "但私底下，業界的恐懼和焦慮"
+    } ]
+  }, {
+    "tStartMs": 231567,
+    "dDurationMs": 1587,
+    "segs": [ {
+      "utf8": "其實早就蔓延開來"
+    } ]
+  }, {
+    "tStartMs": 233154,
+    "dDurationMs": 2148,
+    "segs": [ {
+      "utf8": "這些跡象，都讓不少研究人員擔心"
+    } ]
+  }, {
+    "tStartMs": 235302,
+    "dDurationMs": 1393,
+    "segs": [ {
+      "utf8": "AI 遲早有一天"
+    } ]
+  }, {
+    "tStartMs": 236695,
+    "dDurationMs": 2088,
+    "segs": [ {
+      "utf8": "會徹底脫離人類掌控"
+    } ]
+  }, {
+    "tStartMs": 238783,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "甚至做出威脅人類存亡的事！"
+    } ]
+  }, {
+    "tStartMs": 241410,
+    "dDurationMs": 1106,
+    "segs": [ {
+      "utf8": "或是，也有人認為"
+    } ]
+  }, {
+    "tStartMs": 242516,
+    "dDurationMs": 1771,
+    "segs": [ {
+      "utf8": "就算還沒到失控那一天"
+    } ]
+  }, {
+    "tStartMs": 244287,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "發展得這麼快的 AI"
+    } ]
+  }, {
+    "tStartMs": 245998,
+    "dDurationMs": 1876,
+    "segs": [ {
+      "utf8": "也可能先落入壞人手中"
+    } ]
+  }, {
+    "tStartMs": 247874,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "被拿來攻擊人類"
+    } ]
+  }, {
+    "tStartMs": 249313,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "【 AI 被壞人拿來「毀滅世界」？】"
+    } ]
+  }, {
+    "tStartMs": 252336,
+    "dDurationMs": 987,
+    "segs": [ {
+      "utf8": "柏克萊大學的 AI 權威"
+    } ]
+  }, {
+    "tStartMs": 253323,
+    "dDurationMs": 993,
+    "segs": [ {
+      "utf8": "羅素就認為"
+    } ]
+  }, {
+    "tStartMs": 254316,
+    "dDurationMs": 1314,
+    "segs": [ {
+      "utf8": "相較於 AI 失控的風險"
+    } ]
+  }, {
+    "tStartMs": 255630,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "「人類濫用 AI」的威脅更加迫切"
+    } ]
+  }, {
+    "tStartMs": 258360,
+    "dDurationMs": 1003,
+    "segs": [ {
+      "utf8": "恐怖份子等等"
+    } ]
+  }, {
+    "tStartMs": 259363,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "都可能利用 AI"
+    } ]
+  }, {
+    "tStartMs": 260123,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "來策劃、發動攻擊"
+    } ]
+  }, {
+    "tStartMs": 262053,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "像是今年 9 月"
+    } ]
+  }, {
+    "tStartMs": 263053,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Anthropic 發布的"
+    } ]
+  }, {
+    "tStartMs": 264013,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "〈威脅情報報告〉裡面"
+    } ]
+  }, {
+    "tStartMs": 265431,
+    "dDurationMs": 1389,
+    "segs": [ {
+      "utf8": "就列出好幾起 AI"
+    } ]
+  }, {
+    "tStartMs": 266820,
+    "dDurationMs": 1571,
+    "segs": [ {
+      "utf8": "被拿去做壞事的案例"
+    } ]
+  }, {
+    "tStartMs": 268391,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "有俄羅斯官媒利用 Claude"
+    } ]
+  }, {
+    "tStartMs": 269976,
+    "dDurationMs": 855,
+    "segs": [ {
+      "utf8": "捏造假新聞"
+    } ]
+  }, {
+    "tStartMs": 270831,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "試圖干預摩爾多瓦的選舉"
+    } ]
+  }, {
+    "tStartMs": 273165,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "也有中國、伊朗政府的協力者"
+    } ]
+  }, {
+    "tStartMs": 275022,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "用 AI 追蹤、監控"
+    } ]
+  }, {
+    "tStartMs": 276356,
+    "dDurationMs": 1814,
+    "segs": [ {
+      "utf8": "流亡海外的異議人士"
+    } ]
+  }, {
+    "tStartMs": 278170,
+    "dDurationMs": 814,
+    "segs": [ {
+      "utf8": "更讓人害怕的是"
+    } ]
+  }, {
+    "tStartMs": 278984,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "還有人開始用 AI"
+    } ]
+  }, {
+    "tStartMs": 280359,
+    "dDurationMs": 2063,
+    "segs": [ {
+      "utf8": "研發、操控武器了！"
+    } ]
+  }, {
+    "tStartMs": 282422,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "報告提到，葉門北部有一群人"
+    } ]
+  }, {
+    "tStartMs": 284279,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "用 Claude Code 分擔"
+    } ]
+  }, {
+    "tStartMs": 285739,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "原本該由工程師做的工作"
+    } ]
+  }, {
+    "tStartMs": 288052,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "撰寫飛彈的導引控制軟體"
+    } ]
+  }, {
+    "tStartMs": 290513,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "還實際試射過一次"
+    } ]
+  }, {
+    "tStartMs": 292181,
+    "dDurationMs": 1438,
+    "segs": [ {
+      "utf8": "Anthropic 也抓到至少 5 起"
+    } ]
+  }, {
+    "tStartMs": 293619,
+    "dDurationMs": 2483,
+    "segs": [ {
+      "utf8": "想用 AI 研發生化武器的案例"
+    } ]
+  }, {
+    "tStartMs": 296102,
+    "dDurationMs": 2418,
+    "segs": [ {
+      "utf8": "其中一位軍方研究機構的科學家"
+    } ]
+  }, {
+    "tStartMs": 298520,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "甚至要 Claude 幫他寫"
+    } ]
+  }, {
+    "tStartMs": 300040,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "「讓病毒能快速傳播」的研究計畫"
+    } ]
+  }, {
+    "tStartMs": 302606,
+    "dDurationMs": 2188,
+    "segs": [ {
+      "utf8": "這些案例後來大多被攔下"
+    } ]
+  }, {
+    "tStartMs": 304794,
+    "dDurationMs": 1348,
+    "segs": [ {
+      "utf8": "相關帳號也被封鎖"
+    } ]
+  }, {
+    "tStartMs": 306142,
+    "dDurationMs": 1332,
+    "segs": [ {
+      "utf8": "但 Anthropic 自己也坦言"
+    } ]
+  }, {
+    "tStartMs": 307474,
+    "dDurationMs": 2982,
+    "segs": [ {
+      "utf8": "安全機制「沒能擋下全部的請求」"
+    } ]
+  }, {
+    "tStartMs": 310456,
+    "dDurationMs": 1147,
+    "segs": [ {
+      "utf8": "像葉門那群人"
+    } ]
+  }, {
+    "tStartMs": 311603,
+    "dDurationMs": 1898,
+    "segs": [ {
+      "utf8": "就刻意隱藏軟體的真正用途"
+    } ]
+  }, {
+    "tStartMs": 313501,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "還把工作拆到不同對話裡"
+    } ]
+  }, {
+    "tStartMs": 315586,
+    "dDurationMs": 2105,
+    "segs": [ {
+      "utf8": "一度繞過了他們的防護"
+    } ]
+  }, {
+    "tStartMs": 317691,
+    "dDurationMs": 2022,
+    "segs": [ {
+      "utf8": "美國「安全與科技研究所」"
+    } ]
+  }, {
+    "tStartMs": 319713,
+    "dDurationMs": 1941,
+    "segs": [ {
+      "utf8": "訪問了一百多位國安專家"
+    } ]
+  }, {
+    "tStartMs": 321654,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "結果有七成的人認為"
+    } ]
+  }, {
+    "tStartMs": 322945,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "AI 會讓研發生物武器的"
+    } ]
+  }, {
+    "tStartMs": 324635,
+    "dDurationMs": 1791,
+    "segs": [ {
+      "utf8": "風險大大變高"
+    } ]
+  }, {
+    "tStartMs": 326426,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "他們擔心，過去研發生化武器"
+    } ]
+  }, {
+    "tStartMs": 328345,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "需要一整個專家團隊"
+    } ]
+  }, {
+    "tStartMs": 330056,
+    "dDurationMs": 1105,
+    "segs": [ {
+      "utf8": "還得花上好幾年"
+    } ]
+  }, {
+    "tStartMs": 331161,
+    "dDurationMs": 1856,
+    "segs": [ {
+      "utf8": "但如果 AI 能幫忙"
+    } ]
+  }, {
+    "tStartMs": 333017,
+    "dDurationMs": 1062,
+    "segs": [ {
+      "utf8": "補上技術缺口"
+    } ]
+  }, {
+    "tStartMs": 334079,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "壞人做壞事的門檻"
+    } ]
+  }, {
+    "tStartMs": 335871,
+    "dDurationMs": 1106,
+    "segs": [ {
+      "utf8": "就會大幅降低"
+    } ]
+  }, {
+    "tStartMs": 336977,
+    "dDurationMs": 1147,
+    "segs": [ {
+      "utf8": "那一旦有心人士"
+    } ]
+  }, {
+    "tStartMs": 338124,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "真的靠 AI 做出大規模殺傷性武器"
+    } ]
+  }, {
+    "tStartMs": 340585,
+    "dDurationMs": 2355,
+    "segs": [ {
+      "utf8": "就可能對人類造成毀滅性的傷害！"
+    } ]
+  }, {
+    "tStartMs": 342940,
+    "dDurationMs": 1586,
+    "segs": [ {
+      "utf8": "不過，也有另一派人認為"
+    } ]
+  }, {
+    "tStartMs": 344526,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "這些說法根本是在危言聳聽"
+    } ]
+  }, {
+    "tStartMs": 346653,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "AI 才沒有那麼可怕"
+    } ]
+  }, {
+    "tStartMs": 348194,
+    "dDurationMs": 2858,
+    "segs": [ {
+      "utf8": "【 AI 沒那麼可怕】"
+    } ]
+  }, {
+    "tStartMs": 351052,
+    "dDurationMs": 2615,
+    "segs": [ {
+      "utf8": "矽谷創投公司 a16z 的創辦人認為"
+    } ]
+  }, {
+    "tStartMs": 353667,
+    "dDurationMs": 1189,
+    "segs": [ {
+      "utf8": "AI 就是一個靠數據"
+    } ]
+  }, {
+    "tStartMs": 354856,
+    "dDurationMs": 1814,
+    "segs": [ {
+      "utf8": "和演算法運算的工具"
+    } ]
+  }, {
+    "tStartMs": 356670,
+    "dDurationMs": 1815,
+    "segs": [ {
+      "utf8": "它沒有生物那種求生的本能"
+    } ]
+  }, {
+    "tStartMs": 358485,
+    "dDurationMs": 937,
+    "segs": [ {
+      "utf8": "自然也不會有什麼"
+    } ]
+  }, {
+    "tStartMs": 359422,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "想統治世界的慾望和野心"
+    } ]
+  }, {
+    "tStartMs": 362384,
+    "dDurationMs": 1124,
+    "segs": [ {
+      "utf8": "而且，AI 要運作"
+    } ]
+  }, {
+    "tStartMs": 363508,
+    "dDurationMs": 1691,
+    "segs": [ {
+      "utf8": "還得靠龐大的電力"
+    } ]
+  }, {
+    "tStartMs": 365199,
+    "dDurationMs": 2106,
+    "segs": [ {
+      "utf8": "資料中心跟硬體設備撐著"
+    } ]
+  }, {
+    "tStartMs": 367305,
+    "dDurationMs": 1542,
+    "segs": [ {
+      "utf8": "人類只要斷電、斷網"
+    } ]
+  }, {
+    "tStartMs": 368847,
+    "dDurationMs": 2074,
+    "segs": [ {
+      "utf8": "隨時都能讓它停下來"
+    } ]
+  }, {
+    "tStartMs": 370921,
+    "dDurationMs": 532,
+    "segs": [ {
+      "utf8": "所以，他認為"
+    } ]
+  }, {
+    "tStartMs": 371453,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "AI 不會真的失控"
+    } ]
+  }, {
+    "tStartMs": 372723,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "退一步說，就算 AI"
+    } ]
+  }, {
+    "tStartMs": 374058,
+    "dDurationMs": 1379,
+    "segs": [ {
+      "utf8": "真的脫離人類掌控"
+    } ]
+  }, {
+    "tStartMs": 375437,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "也不一定能「毀滅人類」"
+    } ]
+  }, {
+    "tStartMs": 377020,
+    "dDurationMs": 1522,
+    "segs": [ {
+      "utf8": "美國智庫蘭德公司"
+    } ]
+  }, {
+    "tStartMs": 378542,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "就曾推演過 AI 滅世的狀況"
+    } ]
+  }, {
+    "tStartMs": 380876,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "要達成這件事"
+    } ]
+  }, {
+    "tStartMs": 381794,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "AI 不僅要掌控"
+    } ]
+  }, {
+    "tStartMs": 382774,
+    "dDurationMs": 1815,
+    "segs": [ {
+      "utf8": "現實世界的關鍵系統"
+    } ]
+  }, {
+    "tStartMs": 384589,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "還得在沒有人類維護的情況下"
+    } ]
+  }, {
+    "tStartMs": 386757,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "也能自己運作"
+    } ]
+  }, {
+    "tStartMs": 388008,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "甚至還要用各種手段"
+    } ]
+  }, {
+    "tStartMs": 389508,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "騙過人類、不被發現"
+    } ]
+  }, {
+    "tStartMs": 390927,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "他們發現，要同時做到這些"
+    } ]
+  }, {
+    "tStartMs": 392386,
+    "dDurationMs": 1147,
+    "segs": [ {
+      "utf8": "「極其困難」"
+    } ]
+  }, {
+    "tStartMs": 393533,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "而且整個過程需要很長的時間"
+    } ]
+  }, {
+    "tStartMs": 395242,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "人類很可能在 AI 得手之前"
+    } ]
+  }, {
+    "tStartMs": 396909,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "就已經發現不對勁、及時阻止了"
+    } ]
+  }, {
+    "tStartMs": 399329,
+    "dDurationMs": 2014,
+    "segs": [ {
+      "utf8": "至於 AI 被壞人拿去做武器"
+    } ]
+  }, {
+    "tStartMs": 401343,
+    "dDurationMs": 1125,
+    "segs": [ {
+      "utf8": "蘭德公司 2024 年"
+    } ]
+  }, {
+    "tStartMs": 402468,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "也做過一項實驗"
+    } ]
+  }, {
+    "tStartMs": 403448,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "讓多組研究人員"
+    } ]
+  }, {
+    "tStartMs": 404928,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "模擬策劃生物恐攻"
+    } ]
+  }, {
+    "tStartMs": 406721,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "結果發現，有沒有 AI 輔助"
+    } ]
+  }, {
+    "tStartMs": 408473,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "計畫的可行性都差不多"
+    } ]
+  }, {
+    "tStartMs": 410391,
+    "dDurationMs": 2148,
+    "segs": [ {
+      "utf8": "因為 AI 能提供的「理論知識」"
+    } ]
+  }, {
+    "tStartMs": 412539,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "其實本來就不難取得"
+    } ]
+  }, {
+    "tStartMs": 414332,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "真正難的是弄到材料、設備"
+    } ]
+  }, {
+    "tStartMs": 415958,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "還有實際動手操作"
+    } ]
+  }, {
+    "tStartMs": 417689,
+    "dDurationMs": 1083,
+    "segs": [ {
+      "utf8": "而這些部分"
+    } ]
+  }, {
+    "tStartMs": 418772,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "AI 能幫上的忙有限"
+    } ]
+  }, {
+    "tStartMs": 420692,
+    "dDurationMs": 1104,
+    "segs": [ {
+      "utf8": "基於這些理由"
+    } ]
+  }, {
+    "tStartMs": 421796,
+    "dDurationMs": 1523,
+    "segs": [ {
+      "utf8": "X 上就有一些人認為"
+    } ]
+  }, {
+    "tStartMs": 423319,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "那些警告 AI 威脅人類的說法"
+    } ]
+  }, {
+    "tStartMs": 425859,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "根本站不住腳"
+    } ]
+  }, {
+    "tStartMs": 426925,
+    "dDurationMs": 927,
+    "segs": [ {
+      "utf8": "而且一些學者"
+    } ]
+  }, {
+    "tStartMs": 427852,
+    "dDurationMs": 1727,
+    "segs": [ {
+      "utf8": "也持有類似看法"
+    } ]
+  }, {
+    "tStartMs": 429579,
+    "dDurationMs": 1061,
+    "segs": [ {
+      "utf8": "像澳洲學者就認為"
+    } ]
+  }, {
+    "tStartMs": 430640,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "前面提到的 10%、20%"
+    } ]
+  }, {
+    "tStartMs": 432141,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "甚至 99% 的毀滅機率"
+    } ]
+  }, {
+    "tStartMs": 434060,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "這類百分比預測"
+    } ]
+  }, {
+    "tStartMs": 435000,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "「完全不科學」"
+    } ]
+  }, {
+    "tStartMs": 436209,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "甚至，還有人進一步懷疑"
+    } ]
+  }, {
+    "tStartMs": 438022,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "那些帶頭喊"
+    } ]
+  }, {
+    "tStartMs": 439148,
+    "dDurationMs": 1564,
+    "segs": [ {
+      "utf8": "「放慢速度」的 AI 巨頭"
+    } ]
+  }, {
+    "tStartMs": 440712,
+    "dDurationMs": 1916,
+    "segs": [ {
+      "utf8": "背後的動機也不單純"
+    } ]
+  }, {
+    "tStartMs": 442628,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "【四巨頭放話別有目的？】"
+    } ]
+  }, {
+    "tStartMs": 445758,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "最近這波「AI 毀滅人類」"
+    } ]
+  }, {
+    "tStartMs": 447026,
+    "dDurationMs": 1229,
+    "segs": [ {
+      "utf8": "的風波出來後"
+    } ]
+  }, {
+    "tStartMs": 448255,
+    "dDurationMs": 1771,
+    "segs": [ {
+      "utf8": "Reddit 上就有一些網友猜測"
+    } ]
+  }, {
+    "tStartMs": 450026,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "巨頭們主動喊降速"
+    } ]
+  }, {
+    "tStartMs": 451776,
+    "dDurationMs": 1338,
+    "segs": [ {
+      "utf8": "不是真的為了安全"
+    } ]
+  }, {
+    "tStartMs": 453114,
+    "dDurationMs": 891,
+    "segs": [ {
+      "utf8": "而是因為開發 AI 的"
+    } ]
+  }, {
+    "tStartMs": 454005,
+    "dDurationMs": 1694,
+    "segs": [ {
+      "utf8": "晶片和硬體太貴"
+    } ]
+  }, {
+    "tStartMs": 455699,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "現金流逐漸吃緊"
+    } ]
+  }, {
+    "tStartMs": 457075,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "才想放慢腳步"
+    } ]
+  }, {
+    "tStartMs": 458305,
+    "dDurationMs": 2438,
+    "segs": [ {
+      "utf8": "順便延後新的 AI 模型上市"
+    } ]
+  }, {
+    "tStartMs": 460743,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "也有矽谷工作人員懷疑"
+    } ]
+  }, {
+    "tStartMs": 462517,
+    "dDurationMs": 2709,
+    "segs": [ {
+      "utf8": "這樣做是在藉著強調 AI 有多危險"
+    } ]
+  }, {
+    "tStartMs": 465226,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "變相宣傳自家的產品有多強大"
+    } ]
+  }, {
+    "tStartMs": 468229,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "尤其這波警告"
+    } ]
+  }, {
+    "tStartMs": 469356,
+    "dDurationMs": 1606,
+    "segs": [ {
+      "utf8": "剛好出現在 Anthropic 和 OpenAI"
+    } ]
+  }, {
+    "tStartMs": 470962,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "都在準備上市的時候"
+    } ]
+  }, {
+    "tStartMs": 472691,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "兩家公司的私募市場估值"
+    } ]
+  }, {
+    "tStartMs": 475193,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "分別高達約 9,650 億美元"
+    } ]
+  }, {
+    "tStartMs": 477612,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "和 8,520 億美元"
+    } ]
+  }, {
+    "tStartMs": 479448,
+    "dDurationMs": 1354,
+    "segs": [ {
+      "utf8": "Anthropic 的 IPO 目標"
+    } ]
+  }, {
+    "tStartMs": 480802,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "更上看 2 兆美元"
+    } ]
+  }, {
+    "tStartMs": 482637,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "交友軟體 Grindr 的執行長"
+    } ]
+  }, {
+    "tStartMs": 484471,
+    "dDurationMs": 1511,
+    "segs": [ {
+      "utf8": "George Arison 就認為"
+    } ]
+  }, {
+    "tStartMs": 485982,
+    "dDurationMs": 896,
+    "segs": [ {
+      "utf8": "「AI 末日論」"
+    } ]
+  }, {
+    "tStartMs": 486878,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "是在拉抬投資人支持"
+    } ]
+  }, {
+    "tStartMs": 488421,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "替自己抬身價"
+    } ]
+  }, {
+    "tStartMs": 489965,
+    "dDurationMs": 1648,
+    "segs": [ {
+      "utf8": "而且，巨頭們喊的不只是"
+    } ]
+  }, {
+    "tStartMs": 491613,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "企業自己放慢"
+    } ]
+  }, {
+    "tStartMs": 493405,
+    "dDurationMs": 1396,
+    "segs": [ {
+      "utf8": "阿莫迪在長文裡還呼籲"
+    } ]
+  }, {
+    "tStartMs": 494801,
+    "dDurationMs": 1898,
+    "segs": [ {
+      "utf8": "各國政府出面協調"
+    } ]
+  }, {
+    "tStartMs": 496699,
+    "dDurationMs": 986,
+    "segs": [ {
+      "utf8": "訂出安全標準"
+    } ]
+  }, {
+    "tStartMs": 497685,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "奧特曼也表態"
+    } ]
+  }, {
+    "tStartMs": 498752,
+    "dDurationMs": 1888,
+    "segs": [ {
+      "utf8": "歡迎聯邦政府制定統一的"
+    } ]
+  }, {
+    "tStartMs": 500640,
+    "dDurationMs": 1397,
+    "segs": [ {
+      "utf8": "AI 安全規範"
+    } ]
+  }, {
+    "tStartMs": 502037,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "這也引起《The Intercept》"
+    } ]
+  }, {
+    "tStartMs": 503518,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "等媒體質疑"
+    } ]
+  }, {
+    "tStartMs": 504560,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "大公司主動要求監管"
+    } ]
+  }, {
+    "tStartMs": 505810,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "會不會是想藉機拉高開發門檻？"
+    } ]
+  }, {
+    "tStartMs": 508709,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "畢竟，大公司有錢有人"
+    } ]
+  }, {
+    "tStartMs": 510419,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "應付得了繁瑣的審查"
+    } ]
+  }, {
+    "tStartMs": 511710,
+    "dDurationMs": 2108,
+    "segs": [ {
+      "utf8": "小公司卻可能因此被擋在門外"
+    } ]
+  }, {
+    "tStartMs": 513818,
+    "dDurationMs": 2539,
+    "segs": [ {
+      "utf8": "最後反而鞏固了巨頭的領先地位"
+    } ]
+  }, {
+    "tStartMs": 516357,
+    "dDurationMs": 1713,
+    "segs": [ {
+      "utf8": "這篇媒體評論也直接說"
+    } ]
+  }, {
+    "tStartMs": 518070,
+    "dDurationMs": 1274,
+    "segs": [ {
+      "utf8": "AI 熱潮的受益者"
+    } ]
+  }, {
+    "tStartMs": 519344,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "跟 AI 安全投資的受益者"
+    } ]
+  }, {
+    "tStartMs": 521404,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "很可能是同一批人"
+    } ]
+  }, {
+    "tStartMs": 523074,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "那麼，當這些大公司"
+    } ]
+  }, {
+    "tStartMs": 524640,
+    "dDurationMs": 1686,
+    "segs": [ {
+      "utf8": "主動喊出要被監管的時候"
+    } ]
+  }, {
+    "tStartMs": 526326,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "他們想要的到底是什麼樣的監管？"
+    } ]
+  }, {
+    "tStartMs": 528495,
+    "dDurationMs": 2483,
+    "segs": [ {
+      "utf8": "這些規範，又真的做得到嗎？"
+    } ]
+  }, {
+    "tStartMs": 530978,
+    "dDurationMs": 3008,
+    "segs": [ {
+      "utf8": "【未來⋯⋯AI會被納入監管？】"
+    } ]
+  }, {
+    "tStartMs": 533986,
+    "dDurationMs": 2287,
+    "segs": [ {
+      "utf8": "阿莫迪在長文裡就提出三步驟計畫"
+    } ]
+  }, {
+    "tStartMs": 536273,
+    "dDurationMs": 2231,
+    "segs": [ {
+      "utf8": "第一，讓外部的獨立評估人員"
+    } ]
+  }, {
+    "tStartMs": 538504,
+    "dDurationMs": 1605,
+    "segs": [ {
+      "utf8": "長期進駐 AI 公司"
+    } ]
+  }, {
+    "tStartMs": 540109,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "像員工一樣檢查模型訓練"
+    } ]
+  }, {
+    "tStartMs": 542027,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "一發現狀況就通報"
+    } ]
+  }, {
+    "tStartMs": 543487,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "第二，由各家領先的 AI 公司"
+    } ]
+  }, {
+    "tStartMs": 546115,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "共同訂出安全標準"
+    } ]
+  }, {
+    "tStartMs": 547490,
+    "dDurationMs": 1565,
+    "segs": [ {
+      "utf8": "甚至協商 AI 能力"
+    } ]
+  }, {
+    "tStartMs": 549055,
+    "dDurationMs": 1313,
+    "segs": [ {
+      "utf8": "成長的速度上限"
+    } ]
+  }, {
+    "tStartMs": 550368,
+    "dDurationMs": 2271,
+    "segs": [ {
+      "utf8": "第三，由各國政府出面協調"
+    } ]
+  }, {
+    "tStartMs": 552639,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "一起建立國際監管機制"
+    } ]
+  }, {
+    "tStartMs": 554974,
+    "dDurationMs": 1295,
+    "segs": [ {
+      "utf8": "那目前，也已經有一些"
+    } ]
+  }, {
+    "tStartMs": 556269,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "朝這個方向推進的提案"
+    } ]
+  }, {
+    "tStartMs": 558061,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "像是美國參議院"
+    } ]
+  }, {
+    "tStartMs": 559146,
+    "dDurationMs": 2274,
+    "segs": [ {
+      "utf8": "正在醞釀一份跨黨派法案"
+    } ]
+  }, {
+    "tStartMs": 561420,
+    "dDurationMs": 1646,
+    "segs": [ {
+      "utf8": "主要針對生物武器"
+    } ]
+  }, {
+    "tStartMs": 563066,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "核武這類災難性風險"
+    } ]
+  }, {
+    "tStartMs": 565109,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "根據草案，AI 公司"
+    } ]
+  }, {
+    "tStartMs": 566589,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "必須先自行測試模型"
+    } ]
+  }, {
+    "tStartMs": 568173,
+    "dDurationMs": 1523,
+    "segs": [ {
+      "utf8": "再把結果交給商務部"
+    } ]
+  }, {
+    "tStartMs": 569696,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "如果商務部長認為風險太高"
+    } ]
+  }, {
+    "tStartMs": 571781,
+    "dDurationMs": 1354,
+    "segs": [ {
+      "utf8": "在法院的授權下"
+    } ]
+  }, {
+    "tStartMs": 573135,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "他們有權力不讓模型上市"
+    } ]
+  }, {
+    "tStartMs": 575116,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "也有人主張更激進的做法"
+    } ]
+  }, {
+    "tStartMs": 577036,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "參議員桑德斯就提案"
+    } ]
+  }, {
+    "tStartMs": 578746,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "「禁止超級智慧」"
+    } ]
+  }, {
+    "tStartMs": 580038,
+    "dDurationMs": 2231,
+    "segs": [ {
+      "utf8": "要求暫停先進 AI 的開發"
+    } ]
+  }, {
+    "tStartMs": 582269,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "不過，半島電視台等媒體認為"
+    } ]
+  }, {
+    "tStartMs": 584270,
+    "dDurationMs": 1022,
+    "segs": [ {
+      "utf8": "從現實層面來看"
+    } ]
+  }, {
+    "tStartMs": 585292,
+    "dDurationMs": 2146,
+    "segs": [ {
+      "utf8": "政府的監管沒那麼容易推動"
+    } ]
+  }, {
+    "tStartMs": 587438,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "因為美國和中國"
+    } ]
+  }, {
+    "tStartMs": 588815,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "正陷入激烈的 AI 競賽"
+    } ]
+  }, {
+    "tStartMs": 590295,
+    "dDurationMs": 1941,
+    "segs": [ {
+      "utf8": "雙方都不太可能主動降速"
+    } ]
+  }, {
+    "tStartMs": 592236,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "美國眾議院議長強生就認為"
+    } ]
+  }, {
+    "tStartMs": 594655,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "不能暫停 AI 發展"
+    } ]
+  }, {
+    "tStartMs": 596196,
+    "dDurationMs": 1231,
+    "segs": [ {
+      "utf8": "否則中國就會超車"
+    } ]
+  }, {
+    "tStartMs": 597427,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "川普也明確反對替 AI 踩煞車"
+    } ]
+  }, {
+    "tStartMs": 599886,
+    "dDurationMs": 2337,
+    "segs": [ {
+      "utf8": "另一邊，中國外交部也回應"
+    } ]
+  }, {
+    "tStartMs": 602223,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "「AI 末日論」是「散播恐慌」"
+    } ]
+  }, {
+    "tStartMs": 604308,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "只會干擾全球 AI 治理"
+    } ]
+  }, {
+    "tStartMs": 606038,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "沒有要跟著放慢的意思"
+    } ]
+  }, {
+    "tStartMs": 607957,
+    "dDurationMs": 2813,
+    "segs": [ {
+      "utf8": "AI Now 研究院的研究員也認為"
+    } ]
+  }, {
+    "tStartMs": 610770,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "在 AI 「競賽」的敘事下"
+    } ]
+  }, {
+    "tStartMs": 612521,
+    "dDurationMs": 1314,
+    "segs": [ {
+      "utf8": "大家只會一起搶快"
+    } ]
+  }, {
+    "tStartMs": 613835,
+    "dDurationMs": 2565,
+    "segs": [ {
+      "utf8": "那這波「踩煞車」的呼聲"
+    } ]
+  }, {
+    "tStartMs": 616400,
+    "dDurationMs": 1064,
+    "segs": [ {
+      "utf8": "最後也可能只會"
+    } ]
+  }, {
+    "tStartMs": 617464,
+    "dDurationMs": 1689,
+    "segs": [ {
+      "utf8": "停在喊喊口號的階段"
+    } ]
+  }, {
+    "tStartMs": 619153,
+    "dDurationMs": 1731,
+    "segs": [ {
+      "utf8": "AI 的發展或許會稍微放慢"
+    } ]
+  }, {
+    "tStartMs": 620884,
+    "dDurationMs": 3208,
+    "segs": [ {
+      "utf8": "但整場競賽還是會繼續跑下去"
+    } ]
+  }, {
+    "tStartMs": 624092,
+    "dDurationMs": 2818,
+    "segs": [ {
+      "utf8": "【我們的觀點】"
+    } ]
+  }, {
+    "tStartMs": 626910,
+    "dDurationMs": 1897,
+    "segs": [ {
+      "utf8": "「AI 會毀滅人類」這種說法"
+    } ]
+  }, {
+    "tStartMs": 628807,
+    "dDurationMs": 1146,
+    "segs": [ {
+      "utf8": "並不是最近才出現的"
+    } ]
+  }, {
+    "tStartMs": 629953,
+    "dDurationMs": 979,
+    "segs": [ {
+      "utf8": "早在十幾年前"
+    } ]
+  }, {
+    "tStartMs": 630932,
+    "dDurationMs": 1564,
+    "segs": [ {
+      "utf8": "霍金、馬斯克等人"
+    } ]
+  }, {
+    "tStartMs": 632496,
+    "dDurationMs": 1024,
+    "segs": [ {
+      "utf8": "就公開警告過"
+    } ]
+  }, {
+    "tStartMs": 633520,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "夠強大的 AI"
+    } ]
+  }, {
+    "tStartMs": 634559,
+    "dDurationMs": 1689,
+    "segs": [ {
+      "utf8": "可能威脅人類生存"
+    } ]
+  }, {
+    "tStartMs": 636248,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "2023 年 ChatGPT 爆紅後"
+    } ]
+  }, {
+    "tStartMs": 638398,
+    "dDurationMs": 2564,
+    "segs": [ {
+      "utf8": "也有上千名科技界人士連署"
+    } ]
+  }, {
+    "tStartMs": 640962,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "呼籲暫停訓練更強大的 AI"
+    } ]
+  }, {
+    "tStartMs": 642775,
+    "dDurationMs": 1189,
+    "segs": [ {
+      "utf8": "同一年，還有一群"
+    } ]
+  }, {
+    "tStartMs": 643964,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "AI 專家共同聲明"
+    } ]
+  }, {
+    "tStartMs": 645164,
+    "dDurationMs": 2448,
+    "segs": [ {
+      "utf8": "主張降低 AI 帶來的滅絕風險"
+    } ]
+  }, {
+    "tStartMs": 647612,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "應該跟疫情、核戰一樣"
+    } ]
+  }, {
+    "tStartMs": 649572,
+    "dDurationMs": 1586,
+    "segs": [ {
+      "utf8": "成為全球的優先議題"
+    } ]
+  }, {
+    "tStartMs": 651158,
+    "dDurationMs": 1082,
+    "segs": [ {
+      "utf8": "不過，過去的討論"
+    } ]
+  }, {
+    "tStartMs": 652240,
+    "dDurationMs": 2046,
+    "segs": [ {
+      "utf8": "好像都沒有這一波這麼熱烈"
+    } ]
+  }, {
+    "tStartMs": 654286,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "我們覺得，一方面是因為"
+    } ]
+  }, {
+    "tStartMs": 656203,
+    "dDurationMs": 1062,
+    "segs": [ {
+      "utf8": "這次出來喊危險的"
+    } ]
+  }, {
+    "tStartMs": 657265,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "不只是外部學者"
+    } ]
+  }, {
+    "tStartMs": 658434,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "而是正在開發最先進 AI 的"
+    } ]
+  }, {
+    "tStartMs": 659936,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "公司高層和研究人員"
+    } ]
+  }, {
+    "tStartMs": 661686,
+    "dDurationMs": 1522,
+    "segs": [ {
+      "utf8": "另一方面，最近 AI"
+    } ]
+  }, {
+    "tStartMs": 663208,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "脫離人類掌控的案例"
+    } ]
+  }, {
+    "tStartMs": 664648,
+    "dDurationMs": 674,
+    "segs": [ {
+      "utf8": "也越來越多"
+    } ]
+  }, {
+    "tStartMs": 665322,
+    "dDurationMs": 776,
+    "segs": [ {
+      "utf8": "讓大家開始覺得"
+    } ]
+  }, {
+    "tStartMs": 666098,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "「AI 失控」不再只是科幻想像"
+    } ]
+  }, {
+    "tStartMs": 668317,
+    "dDurationMs": 2772,
+    "segs": [ {
+      "utf8": "而是真的有可能發生的事"
+    } ]
+  }, {
+    "tStartMs": 671089,
+    "dDurationMs": 1105,
+    "segs": [ {
+      "utf8": "那對於這個問題"
+    } ]
+  }, {
+    "tStartMs": 672194,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "從目前的例子來看"
+    } ]
+  }, {
+    "tStartMs": 673635,
+    "dDurationMs": 831,
+    "segs": [ {
+      "utf8": "我們自己是覺得"
+    } ]
+  }, {
+    "tStartMs": 674466,
+    "dDurationMs": 1482,
+    "segs": [ {
+      "utf8": "AI 還不至於已經走到"
+    } ]
+  }, {
+    "tStartMs": 675948,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "「隨時可能毀滅人類」的地步"
+    } ]
+  }, {
+    "tStartMs": 677907,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "但我們也認同"
+    } ]
+  }, {
+    "tStartMs": 678825,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "AI「要不要管、怎麼管」"
+    } ]
+  }, {
+    "tStartMs": 680994,
+    "dDurationMs": 1857,
+    "segs": [ {
+      "utf8": "會是接下來很重要的問題"
+    } ]
+  }, {
+    "tStartMs": 682851,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "這有點像網路剛出現的時候"
+    } ]
+  }, {
+    "tStartMs": 684664,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "一開始，大家把網路"
+    } ]
+  }, {
+    "tStartMs": 685791,
+    "dDurationMs": 1937,
+    "segs": [ {
+      "utf8": "當成自由開放的新世界"
+    } ]
+  }, {
+    "tStartMs": 687728,
+    "dDurationMs": 938,
+    "segs": [ {
+      "utf8": "但隨著越來越多人"
+    } ]
+  }, {
+    "tStartMs": 688666,
+    "dDurationMs": 2231,
+    "segs": [ {
+      "utf8": "把生活、工作、交易"
+    } ]
+  }, {
+    "tStartMs": 690897,
+    "dDurationMs": 1648,
+    "segs": [ {
+      "utf8": "甚至政治活動都搬上網"
+    } ]
+  }, {
+    "tStartMs": 692545,
+    "dDurationMs": 1146,
+    "segs": [ {
+      "utf8": "大家才發現，網路其實"
+    } ]
+  }, {
+    "tStartMs": 693691,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "已經是另一個「社會」"
+    } ]
+  }, {
+    "tStartMs": 695672,
+    "dDurationMs": 1565,
+    "segs": [ {
+      "utf8": "也需要建立規則"
+    } ]
+  }, {
+    "tStartMs": 697237,
+    "dDurationMs": 916,
+    "segs": [ {
+      "utf8": "當我們的生活"
+    } ]
+  }, {
+    "tStartMs": 698153,
+    "dDurationMs": 1064,
+    "segs": [ {
+      "utf8": "越來越離不開 AI"
+    } ]
+  }, {
+    "tStartMs": 699217,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "AI 也可能越來越需要被納入監管"
+    } ]
+  }, {
+    "tStartMs": 701887,
+    "dDurationMs": 1062,
+    "segs": [ {
+      "utf8": "只是，AI 的監管"
+    } ]
+  }, {
+    "tStartMs": 702949,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "恐怕比網路更棘手"
+    } ]
+  }, {
+    "tStartMs": 704618,
+    "dDurationMs": 2543,
+    "segs": [ {
+      "utf8": "首先是，「危險」很難定義"
+    } ]
+  }, {
+    "tStartMs": 707161,
+    "dDurationMs": 2355,
+    "segs": [ {
+      "utf8": "同一套 AI，可以用來研發疫苗"
+    } ]
+  }, {
+    "tStartMs": 709516,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "也可能被拿去做生化武器"
+    } ]
+  }, {
+    "tStartMs": 711497,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "管得太鬆擋不住風險"
+    } ]
+  }, {
+    "tStartMs": 713207,
+    "dDurationMs": 1688,
+    "segs": [ {
+      "utf8": "管得太嚴，又可能拖累"
+    } ]
+  }, {
+    "tStartMs": 714895,
+    "dDurationMs": 1982,
+    "segs": [ {
+      "utf8": "科學和醫療的進展"
+    } ]
+  }, {
+    "tStartMs": 716877,
+    "dDurationMs": 2189,
+    "segs": [ {
+      "utf8": "其次，規則訂了也很難驗證"
+    } ]
+  }, {
+    "tStartMs": 719066,
+    "dDurationMs": 1064,
+    "segs": [ {
+      "utf8": "AI 的研發進度"
+    } ]
+  }, {
+    "tStartMs": 720130,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "大多掌握在公司自己手裡"
+    } ]
+  }, {
+    "tStartMs": 721839,
+    "dDurationMs": 1628,
+    "segs": [ {
+      "utf8": "外界很難確認一家公司"
+    } ]
+  }, {
+    "tStartMs": 723467,
+    "dDurationMs": 1336,
+    "segs": [ {
+      "utf8": "甚至一個國家"
+    } ]
+  }, {
+    "tStartMs": 724803,
+    "dDurationMs": 936,
+    "segs": [ {
+      "utf8": "是不是真的遵守了"
+    } ]
+  }, {
+    "tStartMs": 725739,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "「放慢」的承諾"
+    } ]
+  }, {
+    "tStartMs": 727031,
+    "dDurationMs": 1396,
+    "segs": [ {
+      "utf8": "最後，如今 AI 又是"
+    } ]
+  }, {
+    "tStartMs": 728427,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "全球一起在競爭"
+    } ]
+  }, {
+    "tStartMs": 729804,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "如果 1 個國家開始監管"
+    } ]
+  }, {
+    "tStartMs": 731639,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "AI 公司會不會乾脆"
+    } ]
+  }, {
+    "tStartMs": 733099,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "跑去別的沒有監管的國家？"
+    } ]
+  }, {
+    "tStartMs": 735167,
+    "dDurationMs": 851,
+    "segs": [ {
+      "utf8": "最後可能變成"
+    } ]
+  }, {
+    "tStartMs": 736018,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "每個國家都知道應該放慢"
+    } ]
+  }, {
+    "tStartMs": 737810,
+    "dDurationMs": 1647,
+    "segs": [ {
+      "utf8": "卻因為怕被超車"
+    } ]
+  }, {
+    "tStartMs": 739457,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "誰都不敢先踩煞車"
+    } ]
+  }, {
+    "tStartMs": 741334,
+    "dDurationMs": 939,
+    "segs": [ {
+      "utf8": "所以，我們覺得"
+    } ]
+  }, {
+    "tStartMs": 742273,
+    "dDurationMs": 1814,
+    "segs": [ {
+      "utf8": "「監管」很可能是未來的大方向"
+    } ]
+  }, {
+    "tStartMs": 744087,
+    "dDurationMs": 2292,
+    "segs": [ {
+      "utf8": "但具體要怎麼做、由誰來做"
+    } ]
+  }, {
+    "tStartMs": 746379,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "做到什麼程度"
+    } ]
+  }, {
+    "tStartMs": 747464,
+    "dDurationMs": 1982,
+    "segs": [ {
+      "utf8": "都還有很多難題要解"
+    } ]
+  }, {
+    "tStartMs": 749446,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "那如果之後有新的進展"
+    } ]
+  }, {
+    "tStartMs": 750905,
+    "dDurationMs": 1438,
+    "segs": [ {
+      "utf8": "我們也會再做一支影片"
+    } ]
+  }, {
+    "tStartMs": 752343,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "跟大家一起追下去！"
+    } ]
+  }, {
+    "tStartMs": 753512,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "好的，最後也想問問大家"
+    } ]
+  }, {
+    "tStartMs": 755053,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "你覺得 AI 發展下去"
+    } ]
+  }, {
+    "tStartMs": 756430,
+    "dDurationMs": 1404,
+    "segs": [ {
+      "utf8": "真的會毀滅人類嗎？"
+    } ]
+  }, {
+    "tStartMs": 768249,
+    "dDurationMs": 1064,
+    "segs": [ {
+      "utf8": "最後，如果你喜歡今天的影片"
+    } ]
+  }, {
+    "tStartMs": 769313,
+    "dDurationMs": 1332,
+    "segs": [ {
+      "utf8": "歡迎分享出去，讓更多人知道！"
+    } ]
+  }, {
+    "tStartMs": 770645,
+    "dDurationMs": 1171,
+    "segs": [ {
+      "utf8": "此外也可以點這邊"
+    } ]
+  }, {
+    "tStartMs": 771816,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "看看「Open AI 大越獄事件」"
+    } ]
+  }, {
+    "tStartMs": 773399,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "以及「Openclaw」"
+    } ]
+  }, {
+    "tStartMs": 774609,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "那麼，今天的志祺七七"
+    } ]
+  }, {
+    "tStartMs": 775339,
+    "dDurationMs": 3106,
+    "segs": [ {
+      "utf8": "就到這邊告一段落，我們明晚再見囉！"
+    } ]
+  } ]
+}

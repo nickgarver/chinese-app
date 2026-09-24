@@ -1,0 +1,4315 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 8233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗨"
+    } ]
+  }, {
+    "tStartMs": 9700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "今天我又邀请了我的好朋友\nToday I invited my good friend Meimei to my home for a meal again."
+    } ]
+  }, {
+    "tStartMs": 12466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "梅梅"
+    } ]
+  }, {
+    "tStartMs": 13533,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "来我家吃饭"
+    } ]
+  }, {
+    "tStartMs": 16500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "大家好！大家好\nHello everyone."
+    } ]
+  }, {
+    "tStartMs": 19800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "好傻……感觉\nso silly……I feel"
+    } ]
+  }, {
+    "tStartMs": 21733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "真受不了\nI just can't stand it."
+    } ]
+  }, {
+    "tStartMs": 23100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我也觉得挺傻的\nI feel it's silly too."
+    } ]
+  }, {
+    "tStartMs": 24733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "对着个照相机这么高兴\ngetting all excited in front of a camera"
+    } ]
+  }, {
+    "tStartMs": 27766,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "我们今天呢不是吃烧烤也不是吃火锅\nToday we're not having barbecue or hot pot."
+    } ]
+  }, {
+    "tStartMs": 32700,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "我们只是吃一个家常便饭\nWe're just having a simple home-cooked meal."
+    } ]
+  }, {
+    "tStartMs": 36600,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "好久没见了\nLong time no see."
+    } ]
+  }, {
+    "tStartMs": 37833,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "你都瘦了20斤了\nYou've lost twenty jin (about 10kg)"
+    } ]
+  }, {
+    "tStartMs": 43066,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "你这个真假\nAre you for real?"
+    } ]
+  }, {
+    "tStartMs": 44533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我今天做了\ntoday I made"
+    } ]
+  }, {
+    "tStartMs": 46466,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "3个菜\nthree dishes"
+    } ]
+  }, {
+    "tStartMs": 48166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "哦不\noh,no,"
+    } ]
+  }, {
+    "tStartMs": 48766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "准确地说应该是4个\nNo, to be exact, it should be four."
+    } ]
+  }, {
+    "tStartMs": 50833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "第四个还在锅里\nThe fourth one is still in the pot."
+    } ]
+  }, {
+    "tStartMs": 52233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Four dishes！\n4个菜哦！"
+    } ]
+  }, {
+    "tStartMs": 53366,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "对\nyea"
+    } ]
+  }, {
+    "tStartMs": 54766,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "可能你会觉得\nyou might think"
+    } ]
+  }, {
+    "tStartMs": 56433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "两个人吃这么多菜\njust two people to have so much dishes"
+    } ]
+  }, {
+    "tStartMs": 58100,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "有点太多了\nit's a bit too much."
+    } ]
+  }, {
+    "tStartMs": 59833,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "是不是有点奢侈呀\nIs it a bit extravagant?"
+    } ]
+  }, {
+    "tStartMs": 62100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "但是呢\nHowever,"
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "按我们中国的礼节\nAccording to Chinese customs"
+    } ]
+  }, {
+    "tStartMs": 66400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "你要请客人吃饭的话\nWhen you invite a guest over for a meal"
+    } ]
+  }, {
+    "tStartMs": 68633,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "你要比正常的菜的量要多一点\nYou need to prepare more food than usual."
+    } ]
+  }, {
+    "tStartMs": 72733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "才能显示你对客人的欢迎\nto show your hospitality to the guests."
+    } ]
+  }, {
+    "tStartMs": 76066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "对吧?这是我们中国人的礼节\nRight? this is our Chinese etiquette."
+    } ]
+  }, {
+    "tStartMs": 78800,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "你不能\nYou can't be"
+    } ]
+  }, {
+    "tStartMs": 79566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "算着他\ncalculating like"
+    } ]
+  }, {
+    "tStartMs": 80666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "他可能今天吃三条虾\nOh, he might eat three shrimp"
+    } ]
+  }, {
+    "tStartMs": 83366,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "100粒大米\nand 100 grains of rice today"
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "好,然后你就只做三条虾\nThen you cook exactly that—three shrimp"
+    } ]
+  }, {
+    "tStartMs": 86833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "100粒大米, 三条虾.....\none hundred grains of rice and three shrimps"
+    } ]
+  }, {
+    "tStartMs": 90400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "好饿啊\nI'm so hungry."
+    } ]
+  }, {
+    "tStartMs": 92100,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "尤其是看到这三个菜长得都这么美貌\nEspecially when I see these three dishes look so beautiful,"
+    } ]
+  }, {
+    "tStartMs": 96233,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "真的想把他们通通吃掉\nI really want to gobble them all up"
+    } ]
+  }, {
+    "tStartMs": 99466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "那我先介绍一下这三个菜\nlet me introduce these three dishes first."
+    } ]
+  }, {
+    "tStartMs": 102233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "然后我们再开动好不好?\nthen we can dig in, okay?"
+    } ]
+  }, {
+    "tStartMs": 103833,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "好的\nOkay."
+    } ]
+  }, {
+    "tStartMs": 105066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "这个是丝瓜炒干贝\nThis is stir-fried loofah with dried scallops."
+    } ]
+  }, {
+    "tStartMs": 108533,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "丝瓜炒干贝\nstir-fried loofah with dried scallops."
+    } ]
+  }, {
+    "tStartMs": 111133,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这个是水煮的大虾\nThis is boiled shrimps."
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "这个是鱼香肉丝\nThis is fish-fragrant shredded pork."
+    } ]
+  }, {
+    "tStartMs": 118833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "好了好了,我不能再罗嗦了\nOkay, okay, I can't talk anymore,"
+    } ]
+  }, {
+    "tStartMs": 120800,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "因为她已经饿了\nbecause she's starving"
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "对,我要打她了\nYeah, I'm going to hit her"
+    } ]
+  }, {
+    "tStartMs": 123366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "I'm afraid she's gonna eat me later\n等下我怕她把我吃掉"
+    } ]
+  }, {
+    "tStartMs": 126433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "too hungry,    Lose my mind.\n太饿了，丧失理智"
+    } ]
+  }, {
+    "tStartMs": 127566,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "她把我也吃掉\nshe will eat me too."
+    } ]
+  }, {
+    "tStartMs": 128900,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我就惨了\nI’m done for"
+    } ]
+  }, {
+    "tStartMs": 130033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "来吧，开动吧，开动吧\nCome on, Let’s dig in!"
+    } ]
+  }, {
+    "tStartMs": 131366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "太好了！耶\nGreat, yeah."
+    } ]
+  }, {
+    "tStartMs": 133366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "要不要先喝点茶\nWould you like to have some tea first?"
+    } ]
+  }, {
+    "tStartMs": 135466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "不要。我要吃饭\nNo, I want to eat."
+    } ]
+  }, {
+    "tStartMs": 136533,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好吧\nOkay"
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "能告诉我这个菜怎么做吗？\nHey, can you tell me how you made this dish?"
+    } ]
+  }, {
+    "tStartMs": 142266,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这个鱼香肉丝啊？\nThis is fish-flavored shredded pork？"
+    } ]
+  }, {
+    "tStartMs": 145233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "你先尝一口好不好吃\nyou can try it first, is it delicious?"
+    } ]
+  }, {
+    "tStartMs": 147466,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "你都还没尝\nYou haven't even tried it."
+    } ]
+  }, {
+    "tStartMs": 148200,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我肯定已经偷偷偷吃过了\nI've definitely already snuck a bite"
+    } ]
+  }, {
+    "tStartMs": 151200,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "好吃吗你觉得？\nDo you think it's delicious?"
+    } ]
+  }, {
+    "tStartMs": 152266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "要不然我怎么问你怎么做\nOtherwise why I asked you how to make it"
+    } ]
+  }, {
+    "tStartMs": 154566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "好的。那我先尝一口\nokay. Let me try it first."
+    } ]
+  }, {
+    "tStartMs": 155800,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "I haven't  tried it.\n我都还没尝"
+    } ]
+  }, {
+    "tStartMs": 156833,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我不知道好不好吃\nI don't know if it's delicious."
+    } ]
+  }, {
+    "tStartMs": 159466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "好吃.非常好吃\ndelicious. very delicious."
+    } ]
+  }, {
+    "tStartMs": 163200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "Wow, I can't believe I made this.\n我都不敢相信这是我做的"
+    } ]
+  }, {
+    "tStartMs": 166266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Why is it so delicious?\n怎么这么好吃啊？"
+    } ]
+  }, {
+    "tStartMs": 167666,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "非常好吃\npretty delicious."
+    } ]
+  }, {
+    "tStartMs": 168600,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "这个菜里面有好几种材料\nThere are several ingredients in this dish."
+    } ]
+  }, {
+    "tStartMs": 171733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "这个黑色的是木耳\nThe black one is wood ear fungus."
+    } ]
+  }, {
+    "tStartMs": 174066,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这个白色的是\nthe white one is"
+    } ]
+  }, {
+    "tStartMs": 176666,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "杏鲍菇\nking oyster mushroom"
+    } ]
+  }, {
+    "tStartMs": 177700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "那你怎么把它切得这么这么细的\nHow did you cut it so thin?"
+    } ]
+  }, {
+    "tStartMs": 180433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这个杏鲍菇呢\nThe king oyster mushrooms"
+    } ]
+  }, {
+    "tStartMs": 181600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "是用手撕的\nwere tore by hand."
+    } ]
+  }, {
+    "tStartMs": 185766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "杏鲍菇一定要用手撕\nThe king oyster mushroom must be tore by hand."
+    } ]
+  }, {
+    "tStartMs": 187566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "因为刀切出来的口感没有那么好\nbecause the texture of slices are not as good as hand-torn ones."
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "然后这个是胡萝卜\nAnd this is carrot."
+    } ]
+  }, {
+    "tStartMs": 194600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "胡萝卜是我手切的\nThe carrots are hand-cut"
+    } ]
+  }, {
+    "tStartMs": 197033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后\nAnd"
+    } ]
+  }, {
+    "tStartMs": 198333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "这个当然就是肉丝了\nthis is, of course, shredded meat."
+    } ]
+  }, {
+    "tStartMs": 201600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "还有一点点的红椒\nAnd a little red pepper."
+    } ]
+  }, {
+    "tStartMs": 204466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "你黑木耳是买新鲜的还是买干料泡的？\nDid you buy fresh wood ear or dried and soaked?"
+    } ]
+  }, {
+    "tStartMs": 207033,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "新鲜的\nFresh."
+    } ]
+  }, {
+    "tStartMs": 209033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "吃吧,好吃吗?\nEat, eat—do you like it?"
+    } ]
+  }, {
+    "tStartMs": 210600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "好吃.非常好吃\nVery tasty"
+    } ]
+  }, {
+    "tStartMs": 211933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Okay, thank you for the compliment.\n好的.谢谢夸奖"
+    } ]
+  }, {
+    "tStartMs": 213666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "你是怎么把这个肉切得这么细的?\nHow did you cut the meat so thinly?"
+    } ]
+  }, {
+    "tStartMs": 216866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "你不是饿了吗\nAren't you hungry?"
+    } ]
+  }, {
+    "tStartMs": 218166,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "你还有嘴说话\nYour mouth is still available to talk."
+    } ]
+  }, {
+    "tStartMs": 221133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我想学会这道菜\nI want to learn this dish."
+    } ]
+  }, {
+    "tStartMs": 223433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "I'll tell you later.\n等下告诉你"
+    } ]
+  }, {
+    "tStartMs": 224466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "以后我就可以\nI can cook this dish by myself in the future."
+    } ]
+  }, {
+    "tStartMs": 226333,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "自食其力这道菜\nI can cook this dish by myself in the future."
+    } ]
+  }, {
+    "tStartMs": 230700,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "我感觉现在你比我更饿\nI feel like you're hungrier than me now."
+    } ]
+  }, {
+    "tStartMs": 236566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "哦!这道菜真好吃\nOh, this dish is really delicious."
+    } ]
+  }, {
+    "tStartMs": 237800,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "是吧?\nRight?"
+    } ]
+  }, {
+    "tStartMs": 238766,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "这个菜呢\nThis dish,"
+    } ]
+  }, {
+    "tStartMs": 240166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "有点奇怪\nis a bit weird"
+    } ]
+  }, {
+    "tStartMs": 241800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "它叫鱼香肉丝\nIt's called fish-flavored shredded pork,"
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "但是它里面没有鱼\nbut there is no fish in it."
+    } ]
+  }, {
+    "tStartMs": 246333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Did you notice that?\n你发现没有?"
+    } ]
+  }, {
+    "tStartMs": 247466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "老婆饼里没老婆\nThere's no wife in the wife cake."
+    } ]
+  }, {
+    "tStartMs": 249833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 250733,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "就像老婆饼里面没有老婆一样\njust like there is no wife in the wife cake."
+    } ]
+  }, {
+    "tStartMs": 255866,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "那它为什么叫鱼香肉丝呢？\nThen why is it called fish-flavored shredded pork?"
+    } ]
+  }, {
+    "tStartMs": 258466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "它那种做法\nThe way it's cooked."
+    } ]
+  }, {
+    "tStartMs": 259733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "“鱼香”是烹饪方式\nFish-flavored is a cooking method."
+    } ]
+  }, {
+    "tStartMs": 261966,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "真的吗？对。\nReally?  yea"
+    } ]
+  }, {
+    "tStartMs": 264266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "你你都这么懂了\nYou know so much already."
+    } ]
+  }, {
+    "tStartMs": 265600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "你还问我它是怎么做的\nWhy are you asking me how it's made?"
+    } ]
+  }, {
+    "tStartMs": 267133,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我觉得你应该比我会做\nI think you should know cook more than me."
+    } ]
+  }, {
+    "tStartMs": 268866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我有一些理论基础\nI have some theoretical basis."
+    } ]
+  }, {
+    "tStartMs": 271700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "理论基础\ntheoretical basis."
+    } ]
+  }, {
+    "tStartMs": 279633,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "吃吧\nEat"
+    } ]
+  }, {
+    "tStartMs": 280833,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这道菜没吃完\nIf we don't finish this dish"
+    } ]
+  }, {
+    "tStartMs": 281833,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我可以打包吗?\nCan I take it away?"
+    } ]
+  }, {
+    "tStartMs": 282933,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "可以\nOf course."
+    } ]
+  }, {
+    "tStartMs": 284733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "太好吃了\nIt's so delicious."
+    } ]
+  }, {
+    "tStartMs": 286833,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Number one."
+    } ]
+  }, {
+    "tStartMs": 290066,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "我觉得你...你夸奖人的方式好特别啊\nI think your way of complimenting people is so unique"
+    } ]
+  }, {
+    "tStartMs": 296833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我是在夸这道菜\nI was complimenting the dish"
+    } ]
+  }, {
+    "tStartMs": 298200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我可没想夸你\nI didn't mean to compliment you."
+    } ]
+  }, {
+    "tStartMs": 304800,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个是什么\nWhat is this?"
+    } ]
+  }, {
+    "tStartMs": 306166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这个也是杏鲍菇吗\nIs this also king oyster mushroom?"
+    } ]
+  }, {
+    "tStartMs": 307333,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "嗯\nYes."
+    } ]
+  }, {
+    "tStartMs": 308033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "杏鲍菇的头\nthe head of oyster mushroom."
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你什么只吃这一个菜啊\nWhy do you only eat this one dish?"
+    } ]
+  }, {
+    "tStartMs": 311800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "因为这菜太好吃了\nBecause this dish is too delicious."
+    } ]
+  }, {
+    "tStartMs": 313500,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "你就不尝尝其它的吗\nDon't you want to try other dishes?"
+    } ]
+  }, {
+    "tStartMs": 315533,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "嗯好\nOkay."
+    } ]
+  }, {
+    "tStartMs": 319933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "哇,这道菜好...好费哦\nWow, this dish is so ...must’ve been a lot of work."
+    } ]
+  }, {
+    "tStartMs": 322800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "好费功哦"
+    } ]
+  }, {
+    "tStartMs": 324433,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "对\nYes,"
+    } ]
+  }, {
+    "tStartMs": 325800,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "来吧\ncome on."
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "那你来我当然要用好菜招待你啊\nOf course I had to treat you with good dishes when you come."
+    } ]
+  }, {
+    "tStartMs": 329833,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "对吧\nRight?"
+    } ]
+  }, {
+    "tStartMs": 331366,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "这个朋友真的是....\nthis friend is really......"
+    } ]
+  }, {
+    "tStartMs": 332400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "谁让你是我尊贵的客人\nWhat can I do? You’re my honored guest, after all"
+    } ]
+  }, {
+    "tStartMs": 334800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "不,不,不,是朋友\nNo, no, no, is friend."
+    } ]
+  }, {
+    "tStartMs": 337900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个朋友交得太值了\nYou're so worth being friends with"
+    } ]
+  }, {
+    "tStartMs": 339300,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "没有，其实我是打算明天找她借钱的\nNot. Actually, I plan to borrow money from her tomorrow."
+    } ]
+  }, {
+    "tStartMs": 342133,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我今天要先哄一下(她)\nSo today I need to please her first"
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "来来来来\nCome on."
+    } ]
+  }, {
+    "tStartMs": 346366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我给你换一个位置，来尝一下这个\nLet me change the position for you, try this one"
+    } ]
+  }, {
+    "tStartMs": 349933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "不要拿走\nDon't take it away"
+    } ]
+  }, {
+    "tStartMs": 351366,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个菜有点失宠哎\nThis dish feels neglected"
+    } ]
+  }, {
+    "tStartMs": 353633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "他也不高兴\nHe is not happy."
+    } ]
+  }, {
+    "tStartMs": 354800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "来尝一下吧\nCome on try it."
+    } ]
+  }, {
+    "tStartMs": 355900,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "好吧\nOkay."
+    } ]
+  }, {
+    "tStartMs": 357633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "是不是也是很好吃的啊？\nIsn't it good too?"
+    } ]
+  }, {
+    "tStartMs": 359200,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "这是丝瓜炒干贝\nThis is stir-fried luffa with dried scallops."
+    } ]
+  }, {
+    "tStartMs": 363466,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "也很好吃\nalso delicious."
+    } ]
+  }, {
+    "tStartMs": 363933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "丝瓜..反正我特别喜欢吃\nluffa....I especially like it"
+    } ]
+  }, {
+    "tStartMs": 367566,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "就是特别清甜\nIt's very fresh and sweet."
+    } ]
+  }, {
+    "tStartMs": 370333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "哎,我觉得你可以考虑开个小饭馆\nI think you can consider opening an small restaurant"
+    } ]
+  }, {
+    "tStartMs": 373200,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "真的\nSeriously"
+    } ]
+  }, {
+    "tStartMs": 375400,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "开什么饭馆呀！\nOpen a restaurant? Come on!"
+    } ]
+  }, {
+    "tStartMs": 379366,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "谁来吃啊？\nWho would come to eat?"
+    } ]
+  }, {
+    "tStartMs": 380033,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "你来吃啊？\nYou come？"
+    } ]
+  }, {
+    "tStartMs": 381033,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "I come.\n我来吃"
+    } ]
+  }, {
+    "tStartMs": 381233,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "你天天来吃？\nyou come every day?"
+    } ]
+  }, {
+    "tStartMs": 382066,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "I'll come every day.\n我天天来吃"
+    } ]
+  }, {
+    "tStartMs": 383300,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "真的啊？\nreally？"
+    } ]
+  }, {
+    "tStartMs": 384066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "你们同意吗?\nDo you guys agree?"
+    } ]
+  }, {
+    "tStartMs": 385866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "真的.你们尝过以后你们也会来的\nreally. Once you taste it, you’ll come too."
+    } ]
+  }, {
+    "tStartMs": 389666,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "这个是干贝\nthis is dried scallop."
+    } ]
+  }, {
+    "tStartMs": 390800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "什么是干贝啊？\nWhat is dried scallop?"
+    } ]
+  }, {
+    "tStartMs": 393966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "就是那个蚌的.....\nIt's a scallop shell's......."
+    } ]
+  }, {
+    "tStartMs": 395800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "就是贝壳里面的那一小坨\nIt's a small piece inside the shell."
+    } ]
+  }, {
+    "tStartMs": 398666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "肌腱\nmuscle tendon."
+    } ]
+  }, {
+    "tStartMs": 400466,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "真的\nReally."
+    } ]
+  }, {
+    "tStartMs": 400800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "就他拉住那个两个壳的\nIt's the muscle that holds the two shells together."
+    } ]
+  }, {
+    "tStartMs": 402500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "肌肉"
+    } ]
+  }, {
+    "tStartMs": 403500,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "对吗？\nRight?"
+    } ]
+  }, {
+    "tStartMs": 403933,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "肌....."
+    } ]
+  }, {
+    "tStartMs": 404433,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "就是它连接它的两个壳的那个部位\nIt's the part that connects the two shells."
+    } ]
+  }, {
+    "tStartMs": 407866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "反正这个东西\nIt's this thing anyway"
+    } ]
+  }, {
+    "tStartMs": 408800,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们叫干贝\nwe call it dried scallops."
+    } ]
+  }, {
+    "tStartMs": 410100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "特别好吃\nvery tasty"
+    } ]
+  }, {
+    "tStartMs": 413800,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "特别香\nvery fragrant."
+    } ]
+  }, {
+    "tStartMs": 414666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "特别好\nvery good."
+    } ]
+  }, {
+    "tStartMs": 416233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "然后口感特别q\nAnd the texture is very chewy."
+    } ]
+  }, {
+    "tStartMs": 418200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "但是我煮得好像有点过头了\nBut I seem to have overcooked it a bit."
+    } ]
+  }, {
+    "tStartMs": 419733,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "有点不q了是吧\nnot very chewy, right?"
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "很多人用来煮汤吧\nMany people use it to make soup."
+    } ]
+  }, {
+    "tStartMs": 422433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "嗯\nYes."
+    } ]
+  }, {
+    "tStartMs": 424900,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "这样煮...能煮到这样我觉得也很棒了\ncook in this way....I think it's great to cook it like this."
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "真的？\nReally."
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "真的\nReally."
+    } ]
+  }, {
+    "tStartMs": 431566,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我告诉你\nLet me tell you,"
+    } ]
+  }, {
+    "tStartMs": 432933,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "这个丝瓜汤绝对是最好喝的\nthis luffa soup is definitely the best."
+    } ]
+  }, {
+    "tStartMs": 442700,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "来吧\nCome on."
+    } ]
+  }, {
+    "tStartMs": 443333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "谢谢\nThank you."
+    } ]
+  }, {
+    "tStartMs": 447333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这个红椒是什么椒啊\nWhat kind of pepper is this?"
+    } ]
+  }, {
+    "tStartMs": 449333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "就是那个红的肉椒\nJust regular red bell pepper"
+    } ]
+  }, {
+    "tStartMs": 452800,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "是不辣的那种对吧？\nIt's not spicy, right?"
+    } ]
+  }, {
+    "tStartMs": 454033,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "当然\nOf course."
+    } ]
+  }, {
+    "tStartMs": 455033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "就大大个的\nIt's big."
+    } ]
+  }, {
+    "tStartMs": 456166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "来尝一块\ntry a piece."
+    } ]
+  }, {
+    "tStartMs": 457700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好的\nOkay."
+    } ]
+  }, {
+    "tStartMs": 461766,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "嗯。好吃\nYes, yum"
+    } ]
+  }, {
+    "tStartMs": 463300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我以前是不吃这种椒的\nI didn't eat this kind of pepper before."
+    } ]
+  }, {
+    "tStartMs": 466233,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "自从上次到\nSince the last time that BBQ at your place"
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "你家吃烧烤"
+    } ]
+  }, {
+    "tStartMs": 467900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "吃了以后开始接受这个椒了\nI started to accept them"
+    } ]
+  }, {
+    "tStartMs": 470666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "真的吗?不可能吧\nReally? That's impossible."
+    } ]
+  }, {
+    "tStartMs": 472133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这么美味的东西你居然从来不吃它\nYou never eat such delicious stuff before."
+    } ]
+  }, {
+    "tStartMs": 475333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "我以前..我以前抵制所有的辣椒\nI used to resist all peppers."
+    } ]
+  }, {
+    "tStartMs": 478466,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "这是甜的\nthis's sweet."
+    } ]
+  }, {
+    "tStartMs": 479800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "对,我上次才知道\nyes. I just found out last time."
+    } ]
+  }, {
+    "tStartMs": 481666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "甜辣椒\nSweet peppers."
+    } ]
+  }, {
+    "tStartMs": 485600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好不好吃\nIs it good?"
+    } ]
+  }, {
+    "tStartMs": 486633,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "好吃\ngood"
+    } ]
+  }, {
+    "tStartMs": 487166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这丝瓜好新鲜哦\nThis loofah is so fresh."
+    } ]
+  }, {
+    "tStartMs": 490133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "哪一个品种?\nWhich variety?"
+    } ]
+  }, {
+    "tStartMs": 492900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "丝瓜（还能）有什么品种\nLoofah is loofah—what types are there?"
+    } ]
+  }, {
+    "tStartMs": 496633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "短的胖的那种\nThe short and fat one."
+    } ]
+  }, {
+    "tStartMs": 498800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "没角的？\nWithout ridges？"
+    } ]
+  }, {
+    "tStartMs": 500866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "什么叫没角？\nWhat do you mean by no ridges?"
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "有一种是有角，那种八角瓜\nThere is a kind with ridges. Luffa acutangula"
+    } ]
+  }, {
+    "tStartMs": 505033,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "不是，\nNo,"
+    } ]
+  }, {
+    "tStartMs": 506466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这个就是丝瓜\nthis is loofah."
+    } ]
+  }, {
+    "tStartMs": 508833,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "圆的那种\nround one."
+    } ]
+  }, {
+    "tStartMs": 511233,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "哇，我觉得我来一趟学了不少东西\nWow,  I feel like I've learned a lot by coming to you"
+    } ]
+  }, {
+    "tStartMs": 514666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "值不值?\nIs it worth it?"
+    } ]
+  }, {
+    "tStartMs": 515666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "值,值,值\nYes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 516900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "以后要不要来我家吃饭\nDo you want to come to my place for meal again?"
+    } ]
+  }, {
+    "tStartMs": 518700,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "要\nYes."
+    } ]
+  }, {
+    "tStartMs": 520900,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "但是不要天天来\nBut don't come every day."
+    } ]
+  }, {
+    "tStartMs": 524633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "来喝点茶吧\nLet's have some tea."
+    } ]
+  }, {
+    "tStartMs": 532900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "来,这杯你的\nThis cup is yours"
+    } ]
+  }, {
+    "tStartMs": 533966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "好谢谢\nOk, thank you."
+    } ]
+  }, {
+    "tStartMs": 539700,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "普洱啊？\nPu'er ？"
+    } ]
+  }, {
+    "tStartMs": 540766,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "不是\nno,"
+    } ]
+  }, {
+    "tStartMs": 541766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "那哪种？\nwhat kind?"
+    } ]
+  }, {
+    "tStartMs": 543066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "就上次那个茶\nIs the tea from last time"
+    } ]
+  }, {
+    "tStartMs": 544133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "好喝吗\ngood?"
+    } ]
+  }, {
+    "tStartMs": 545966,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "有点像普洱的味道\nIt tastes a bit like pu'er tea"
+    } ]
+  }, {
+    "tStartMs": 547100,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "真的啊？\nReally?"
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "你挑食吗？\nAre you a picky eater?"
+    } ]
+  }, {
+    "tStartMs": 550600,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "我也挑\nI'm picky"
+    } ]
+  }, {
+    "tStartMs": 551866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我不吃生的东西\nI don't eat raw food."
+    } ]
+  }, {
+    "tStartMs": 554266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我喜欢吃生的东西哎\nI like to eat raw food."
+    } ]
+  }, {
+    "tStartMs": 556066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "我不敢吃\nI dare not to eat."
+    } ]
+  }, {
+    "tStartMs": 557700,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "就是所有的什么鱼生我都不敢吃\nI don't dare to eat all of sashimi."
+    } ]
+  }, {
+    "tStartMs": 560333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "哦,鱼生我也不敢吃\nOh, I don't dare to eat sashimi either."
+    } ]
+  }, {
+    "tStartMs": 561733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "因为\nbecause"
+    } ]
+  }, {
+    "tStartMs": 562633,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "怕有细菌\nI'm afraid of bacteria."
+    } ]
+  }, {
+    "tStartMs": 564600,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "不是怕有细菌\nI'm not afraid of bacteria."
+    } ]
+  }, {
+    "tStartMs": 565300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我不敢吃\nI'm just scared of it"
+    } ]
+  }, {
+    "tStartMs": 566666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这些菜呢\nThese dishes"
+    } ]
+  }, {
+    "tStartMs": 567866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我们叫做家常菜\nwe call them home-style dishes."
+    } ]
+  }, {
+    "tStartMs": 570166,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "就是家里面经常做的\nwhich are often cooked at home."
+    } ]
+  }, {
+    "tStartMs": 572833,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "他们一般都是比较快能出锅的\nThey usually can be get out of the pan quickly."
+    } ]
+  }, {
+    "tStartMs": 576400,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "不像饭馆里面那种很麻烦的菜\nunlike the complicated dishes in restaurants"
+    } ]
+  }, {
+    "tStartMs": 579500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "一个要做好几个小时\nwhich takes several hours to cook,"
+    } ]
+  }, {
+    "tStartMs": 581733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "甚至隔夜、好几天的那种菜\nor even take overnight or days to prepare"
+    } ]
+  }, {
+    "tStartMs": 585633,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这些都是能很快出锅的菜\nThese are dishes that can be cooked quickly."
+    } ]
+  }, {
+    "tStartMs": 588433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "家里面经常做的\nThey are commonly made at home."
+    } ]
+  }, {
+    "tStartMs": 590100,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "我们就叫做家常菜\nwhich we call home-style dishes."
+    } ]
+  }, {
+    "tStartMs": 595066,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我觉得不挑食的人才有福气\nI think people who are not picky eaters are blessed."
+    } ]
+  }, {
+    "tStartMs": 599133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "因为他可以领略\nBecause they can get to experience"
+    } ]
+  }, {
+    "tStartMs": 600966,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "或者是享受世界上各种各样的食物\nor enjoy all kinds of food in the world."
+    } ]
+  }, {
+    "tStartMs": 604733,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 605433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "挑食的人他不但没有福气\nPicky eaters not only miss out"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "而且很难伺候\nbut also hard to please"
+    } ]
+  }, {
+    "tStartMs": 610666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "很难跟别人吃到一起\nhard to dine with."
+    } ]
+  }, {
+    "tStartMs": 612866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "是个很麻烦的事\nIt’s kind of a pain"
+    } ]
+  }, {
+    "tStartMs": 614900,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "我这样说会不会得罪人啊\nAm I offending anyone by saying this?"
+    } ]
+  }, {
+    "tStartMs": 620233,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "要什么都吃\nBetter to eat everything and enjoy everything."
+    } ]
+  }, {
+    "tStartMs": 622133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "什么都觉得好吃"
+    } ]
+  }, {
+    "tStartMs": 624333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这样比较好"
+    } ]
+  }, {
+    "tStartMs": 625600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "来吃一个虾吧\nLet's have a shrimp."
+    } ]
+  }, {
+    "tStartMs": 627166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "其实人生就是体验嘛对不对\nIn fact, life is all about experiences, right?"
+    } ]
+  }, {
+    "tStartMs": 630333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "对,说得对\nYou're right."
+    } ]
+  }, {
+    "tStartMs": 631533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "人生就是体验\nLife is about experiencing."
+    } ]
+  }, {
+    "tStartMs": 633566,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "你要体验各种不同的事物\nYou need to experience various things."
+    } ]
+  }, {
+    "tStartMs": 636900,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "如果你挑食的话\nIf you are picky"
+    } ]
+  }, {
+    "tStartMs": 638500,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "你就把自己限制在一个\nyou limit yourself to a"
+    } ]
+  }, {
+    "tStartMs": 641300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "很小的体验范围里面\nvery small range of experiences."
+    } ]
+  }, {
+    "tStartMs": 644866,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "这个虾是直接扔下锅用白水煮的\nThis shrimp is directly thrown into the pot and boiled in water."
+    } ]
+  }, {
+    "tStartMs": 652266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "把虾壳剥掉\nPeel off the shrimp shells,"
+    } ]
+  }, {
+    "tStartMs": 654066,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "然后蘸一下这个蘸料\nthen dip it in this dipping sauce."
+    } ]
+  }, {
+    "tStartMs": 665000,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我觉得\nI think"
+    } ]
+  }, {
+    "tStartMs": 665866,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "反正我觉得哈\nAnyway, I think"
+    } ]
+  }, {
+    "tStartMs": 667566,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这是虾最美味的吃法\nthis is the best way to enjoy shrimp."
+    } ]
+  }, {
+    "tStartMs": 670133,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "嗯对\nyeah"
+    } ]
+  }, {
+    "tStartMs": 671066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "原味嘛\nit's the original flavor."
+    } ]
+  }, {
+    "tStartMs": 671866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "清甜\nnatural sweet"
+    } ]
+  }, {
+    "tStartMs": 672966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 673833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "一个是能吃得到虾的\nOne is that you can taste the shrimp's"
+    } ]
+  }, {
+    "tStartMs": 675666,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "那个口感\ntexture"
+    } ]
+  }, {
+    "tStartMs": 676900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "q弹q弹的\nbouncy  bouncy"
+    } ]
+  }, {
+    "tStartMs": 678566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "然后虾的原味也能吃到\nand the original flavor of the shrimp can also be tasted."
+    } ]
+  }, {
+    "tStartMs": 681700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "很鲜甜很鲜美\nnatural sweet and fresh."
+    } ]
+  }, {
+    "tStartMs": 684866,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "它不需要复杂的烹饪工艺\nNo need for heavy cooking methods"
+    } ]
+  }, {
+    "tStartMs": 688300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "什么油焖大虾呀\nsuch as braised shrimps"
+    } ]
+  }, {
+    "tStartMs": 690400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "炒呀，放很多的调料在一起炒\nor stir-fry with heavy seasonings."
+    } ]
+  }, {
+    "tStartMs": 693400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "它不需要\nIt doesn't need"
+    } ]
+  }, {
+    "tStartMs": 694666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "它本身的味道就已经很好吃了\nits own taste is already great."
+    } ]
+  }, {
+    "tStartMs": 697566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "吃到它新鲜原始的味道\nget it's fresh and original taste."
+    } ]
+  }, {
+    "tStartMs": 700366,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 705900,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "而且我喜欢这样一边剥一边吃\nAnd I like peeling while eating."
+    } ]
+  }, {
+    "tStartMs": 711233,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "你是不是不喜欢剥虾?\nYou don’t like peeling shrimps?"
+    } ]
+  }, {
+    "tStartMs": 713300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我剥给你吃\nI'll peel it for you."
+    } ]
+  }, {
+    "tStartMs": 714433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我非常擅长剥虾\nI'm very good at peeling shrimp."
+    } ]
+  }, {
+    "tStartMs": 716033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你不用剥\nyou don't need to peel it for me"
+    } ]
+  }, {
+    "tStartMs": 716833,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "真的啊？\nReally?"
+    } ]
+  }, {
+    "tStartMs": 717333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "那你剥给我吃\nThen you peel it for me."
+    } ]
+  }, {
+    "tStartMs": 718633,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我会用嘴巴剥\nI can peel it with my mouth."
+    } ]
+  }, {
+    "tStartMs": 719900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我不用手的\nno hands needed"
+    } ]
+  }, {
+    "tStartMs": 721466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "你敢吃吗?\nDo you dare to eat?"
+    } ]
+  }, {
+    "tStartMs": 722833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "敢吃可以\nIf you dare, you can."
+    } ]
+  }, {
+    "tStartMs": 724466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "你真...你真聪明\nYou're really smart."
+    } ]
+  }, {
+    "tStartMs": 725933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我剥得非常快\nI peel them very fast."
+    } ]
+  }, {
+    "tStartMs": 726900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "I peel them very fast with my mouth.\n我用嘴巴剥得非常快"
+    } ]
+  }, {
+    "tStartMs": 728666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "真的啊？那你...\nReally?"
+    } ]
+  }, {
+    "tStartMs": 729666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那你剥一个给我看看\nThen you peel one off and show me"
+    } ]
+  }, {
+    "tStartMs": 733366,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "我从不用手剥虾\nI never peel shrimps with my hands."
+    } ]
+  }, {
+    "tStartMs": 735200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "头也不用手剥？\nYou also don't use your hands to peel off the heads?"
+    } ]
+  }, {
+    "tStartMs": 736033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "不用手。什么都不用手\nNo hands. Nothing need hands"
+    } ]
+  }, {
+    "tStartMs": 739533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "不好意思\nexcuse me"
+    } ]
+  }, {
+    "tStartMs": 740266,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "虽然我不会做饭\nthough I can't cook."
+    } ]
+  }, {
+    "tStartMs": 741166,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "唯一的技能就是用嘴剥虾\nThe only skill I have is peeling shrimp with my mouth."
+    } ]
+  }, {
+    "tStartMs": 747633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "这个技能很牛\nThis skill is impressive"
+    } ]
+  }, {
+    "tStartMs": 748566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "但是会吃相不太好看就是了\nbut it doesn't look pretty when I eat."
+    } ]
+  }, {
+    "tStartMs": 750833,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "因为你不用剥给别人吃\nBecause you won't peel for others to eat."
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "对\nyea"
+    } ]
+  }, {
+    "tStartMs": 754900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "而且我如果完全不在乎形象的话\nAnd if I don't care about my image at all,"
+    } ]
+  }, {
+    "tStartMs": 757300,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "别人用手剥都没有我用嘴剥剥得快\nanyone using hands still can't beat me with my mouth"
+    } ]
+  }, {
+    "tStartMs": 761433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "在速度上绝对不会落后于人\nI will never be behind in speed."
+    } ]
+  }, {
+    "tStartMs": 764000,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "真的啊？我看一下\nreally？show me"
+    } ]
+  }, {
+    "tStartMs": 767400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "你不要这样看着我\nDon't look at me like that."
+    } ]
+  }, {
+    "tStartMs": 768866,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "我不好意思\nI'm shy"
+    } ]
+  }, {
+    "tStartMs": 769800,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我要学一下\nI want to learn."
+    } ]
+  }, {
+    "tStartMs": 771133,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我试一下\nLet me try it"
+    } ]
+  }, {
+    "tStartMs": 774100,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "我也试一下\nI also have a try"
+    } ]
+  }, {
+    "tStartMs": 775000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "用嘴剥虾\nPeel shrimps with mouth."
+    } ]
+  }, {
+    "tStartMs": 776966,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "这为什么啊\nWhy do this?"
+    } ]
+  }, {
+    "tStartMs": 777566,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这就是懒人啊\nIt’s pure laziness."
+    } ]
+  }, {
+    "tStartMs": 778633,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "不想洗手\nDon't want to wash hands"
+    } ]
+  }, {
+    "tStartMs": 779400,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "你知道吗?\nYou know?"
+    } ]
+  }, {
+    "tStartMs": 782800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "就是这样\nThat's it."
+    } ]
+  }, {
+    "tStartMs": 786533,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "可是这样用嘴一叼\nBut hold in the mouth like this"
+    } ]
+  }, {
+    "tStartMs": 788300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就酱都蘸不了了\nit can't be dipped it in the sauce then"
+    } ]
+  }, {
+    "tStartMs": 790200,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "所以我不蘸\nthat's why I don't dip."
+    } ]
+  }, {
+    "tStartMs": 790933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "难怪\nNo wonder."
+    } ]
+  }, {
+    "tStartMs": 793266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "你真是懒出境界\nyou’re next-level lazy."
+    } ]
+  }, {
+    "tStartMs": 796500,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "好吧\nOkay."
+    } ]
+  }, {
+    "tStartMs": 798666,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "既然你不蘸\nSince you don't dip,"
+    } ]
+  }, {
+    "tStartMs": 799500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那我就蘸了\nthen I'll dip it."
+    } ]
+  }, {
+    "tStartMs": 801900,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我从小就是这样吃虾的\nI've been eating shrimp like this since I was a kid."
+    } ]
+  }, {
+    "tStartMs": 807966,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "嘿，你有没有觉得今天有点奇怪?\nHey, Don't you feel something's off today?"
+    } ]
+  }, {
+    "tStartMs": 811266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "什么意思\nWhat do you mean?"
+    } ]
+  }, {
+    "tStartMs": 812466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "你有没有觉得今天有点安静?\nDo you think it's a little quiet today?"
+    } ]
+  }, {
+    "tStartMs": 815666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "不然呢?\nOtherwise?"
+    } ]
+  }, {
+    "tStartMs": 818666,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "今天没有人看着我们吃饭对吧?\nNo one’s watching us eat today, right?"
+    } ]
+  }, {
+    "tStartMs": 823133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "他们可能困了啊\nThey may be sleepy."
+    } ]
+  }, {
+    "tStartMs": 824366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "刚才被你那个....\nJust now, by your ...."
+    } ]
+  }, {
+    "tStartMs": 827166,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "被你那一声尖叫把他们吓到了\ngot scared off by your scream earlier."
+    } ]
+  }, {
+    "tStartMs": 831100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这个菜是不是很下饭？\nIsn’t this dish a rice killer?"
+    } ]
+  }, {
+    "tStartMs": 832900,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "嗯\nYes."
+    } ]
+  }, {
+    "tStartMs": 833233,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "所以我煮了一锅饭给你准备着\nSo I prepared a pot of rice for you."
+    } ]
+  }, {
+    "tStartMs": 837700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "你也太瞧得起我了\nYou think too highly of me"
+    } ]
+  }, {
+    "tStartMs": 840466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "慢慢吃\ntake your time"
+    } ]
+  }, {
+    "tStartMs": 844000,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "哎,我们中国人吃饭有哪些礼节呢?\nhey, What table manners do we have in Chinese dining?"
+    } ]
+  }, {
+    "tStartMs": 848933,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "比如说\nFor example,"
+    } ]
+  }, {
+    "tStartMs": 849233,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "要用手端着碗\nwe should hold the bowl with hands."
+    } ]
+  }, {
+    "tStartMs": 850166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "像你这样\nLike you're doing."
+    } ]
+  }, {
+    "tStartMs": 852033,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "不能这样子吃吗?\nCan't you eat like this?"
+    } ]
+  }, {
+    "tStartMs": 854533,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "嗯,如果是国宴\nWell, if it's a state banquet,"
+    } ]
+  }, {
+    "tStartMs": 855833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "当然是不行的\nnot allowed of course"
+    } ]
+  }, {
+    "tStartMs": 857800,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "啊?真的吗?\nReally?"
+    } ]
+  }, {
+    "tStartMs": 858933,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "当然啦!\nOf course!"
+    } ]
+  }, {
+    "tStartMs": 859400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "吃国宴要用手端着碗吃?\nyou must hold the bowl with your hands on a state banquet?"
+    } ]
+  }, {
+    "tStartMs": 861633,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "一定的\nmust"
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "真的\nReally?"
+    } ]
+  }, {
+    "tStartMs": 863166,
+    "dDurationMs": 4934,
+    "segs": [ {
+      "utf8": "中国人的老祖宗就是一定要用手扶碗\nOur ancestors must keep a hand on the bowl (while eating)."
+    } ]
+  }, {
+    "tStartMs": 868100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "手扶着碗\nKeep a hand on the bowl"
+    } ]
+  }, {
+    "tStartMs": 869766,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "为什么呢\nWhy?"
+    } ]
+  }, {
+    "tStartMs": 870633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "It's etiquette.\n这就是礼仪呀"
+    } ]
+  }, {
+    "tStartMs": 872200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "一只手吃饭\nUsing only one hand to eat"
+    } ]
+  }, {
+    "tStartMs": 873500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "就是很不礼貌\nis very impolite."
+    } ]
+  }, {
+    "tStartMs": 874600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "对。就很不礼貌\nyes. It's very impolite."
+    } ]
+  }, {
+    "tStartMs": 876066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "可是我们平常都很随意耶\nBut we are usually very casual."
+    } ]
+  }, {
+    "tStartMs": 878533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "就是想怎么吃就怎么吃\nyou can eat however you want."
+    } ]
+  }, {
+    "tStartMs": 880766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "你用左手吃也可以\nYou can eat with your left hand"
+    } ]
+  }, {
+    "tStartMs": 882766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "右手吃也可以\nor the right hand."
+    } ]
+  }, {
+    "tStartMs": 884366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "但是以前的礼仪就是这样子的\nBut the etiquette in the past was like this."
+    } ]
+  }, {
+    "tStartMs": 886566,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "可是我觉得这个礼仪....\nBut I think this etiquette"
+    } ]
+  }, {
+    "tStartMs": 888366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "最标准的是端着碗吃饭的\nthe standard way is to hold the bowl when eating."
+    } ]
+  }, {
+    "tStartMs": 891133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个礼仪很不适合现代人\nThis etiquette is not suitable for modern people."
+    } ]
+  }, {
+    "tStartMs": 893266,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "因为现代人都是一个手吃饭\nBecause modern people eat with one hand"
+    } ]
+  }, {
+    "tStartMs": 896233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "一个手玩手机\nand browse their phone with the other."
+    } ]
+  }, {
+    "tStartMs": 900166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "古时候没有手机啊\nthere is no mobile phone in ancient"
+    } ]
+  }, {
+    "tStartMs": 904500,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "还有一点\nAnother one"
+    } ]
+  }, {
+    "tStartMs": 905166,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "就是\nthat is,"
+    } ]
+  }, {
+    "tStartMs": 905600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "不能把筷子插在这个饭里面\ncan’t stick chopsticks upright into rice."
+    } ]
+  }, {
+    "tStartMs": 909000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "比如说像这样子\nLike this."
+    } ]
+  }, {
+    "tStartMs": 910366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "对,这样是很不礼貌的\nyeah, It's very impolite."
+    } ]
+  }, {
+    "tStartMs": 913400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "因为.....\nBecause ....."
+    } ]
+  }, {
+    "tStartMs": 915533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "这是犯忌讳了\nit's a taboo."
+    } ]
+  }, {
+    "tStartMs": 917000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "犯忌讳了. 对\nIt's taboo. yea"
+    } ]
+  }, {
+    "tStartMs": 918300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "不仅是不礼貌\nNot only is it impolite,"
+    } ]
+  }, {
+    "tStartMs": 919500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "而且感觉对别人是一种诅咒\nbut also feels like a curse to others."
+    } ]
+  }, {
+    "tStartMs": 922800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "为什么呢\nWhy?"
+    } ]
+  }, {
+    "tStartMs": 923666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "因为筷子在这里一插\nbecause when chopsticks are stuck here"
+    } ]
+  }, {
+    "tStartMs": 926333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "就很像一炷香\nit looks like a stick of incense."
+    } ]
+  }, {
+    "tStartMs": 929200,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "你们知道香是干什么的吗?\nDo you know what incense is used for?"
+    } ]
+  }, {
+    "tStartMs": 933100,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "香是祭拜的时候用的\nIncense is used for worship."
+    } ]
+  }, {
+    "tStartMs": 936466,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 937166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "香是祭拜的时候用\nIncense is used for worship."
+    } ]
+  }, {
+    "tStartMs": 939866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "就是祭拜死人的\nIt's used to worship the dead."
+    } ]
+  }, {
+    "tStartMs": 942033,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "如果你给别人端上一碗饭\nIf you serve someone a bowl of rice"
+    } ]
+  }, {
+    "tStartMs": 944733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "然后把筷子直接往这里一插\nand then stick the chopsticks directly here,"
+    } ]
+  }, {
+    "tStartMs": 948533,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "就感觉是在诅咒那个人\nit feels like you're cursing that person"
+    } ]
+  }, {
+    "tStartMs": 950966,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "你赶紧去死吧\nYou'd better die."
+    } ]
+  }, {
+    "tStartMs": 956333,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我说得好直接啊\nI'm so direct."
+    } ]
+  }, {
+    "tStartMs": 958666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但是真的意思就是这样子的\nbut that's really what it means."
+    } ]
+  }, {
+    "tStartMs": 962066,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "但是\nHowever,"
+    } ]
+  }, {
+    "tStartMs": 963366,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "因为我们通常筷子拿上桌的时候\nBecause when we usually take chopsticks to the table,"
+    } ]
+  }, {
+    "tStartMs": 967333,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "是这样子放的\nwe usually put them like this."
+    } ]
+  }, {
+    "tStartMs": 968266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就直接放在碗的边上\njust put them directly on the edge of the bowl,"
+    } ]
+  }, {
+    "tStartMs": 970866,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "或者是这样子架在这里\nor like this, propping them up here."
+    } ]
+  }, {
+    "tStartMs": 975700,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "但是有一个问题\nBut there is a problem."
+    } ]
+  }, {
+    "tStartMs": 976966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "就是它架不稳\nis that it's unstable."
+    } ]
+  }, {
+    "tStartMs": 978200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "看到没有\nSee?"
+    } ]
+  }, {
+    "tStartMs": 980666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "就放在碗的边上的时候\nWhen placed on the edge of the bowl,"
+    } ]
+  }, {
+    "tStartMs": 982033,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "它也会滚\nit will roll."
+    } ]
+  }, {
+    "tStartMs": 982866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "然后滚得到处都是\nand roll around"
+    } ]
+  }, {
+    "tStartMs": 984733,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "或者就直接滚在地上了\nor roll directly to the floor"
+    } ]
+  }, {
+    "tStartMs": 988066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "所以我跟我自己家里人吃饭的时候\nSo when I eat with my family,"
+    } ]
+  }, {
+    "tStartMs": 991700,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "我都是把筷子插在碗里面\nI always stick chopsticks in the bowl."
+    } ]
+  }, {
+    "tStartMs": 994666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "因为这样子比较稳\nBecause it's more stable."
+    } ]
+  }, {
+    "tStartMs": 996866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "就直接插在那个米饭里面\nI just stick them directly into the rice."
+    } ]
+  }, {
+    "tStartMs": 999600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "但是因为是自己家人嘛\nBut since it's my own family,"
+    } ]
+  }, {
+    "tStartMs": 1001766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "他们不会很在意\nthey don't mind much."
+    } ]
+  }, {
+    "tStartMs": 1004466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "那要是是古代的大户人家\nIf it were in a wealthy family in ancient times,"
+    } ]
+  }, {
+    "tStartMs": 1006466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "一般正常都是有个筷架\nthere would be a chopstick holder."
+    } ]
+  }, {
+    "tStartMs": 1009800,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "有个架筷子的那个东西\nthere was a stuff to hold chopsticks."
+    } ]
+  }, {
+    "tStartMs": 1013133,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "就像日本人一样\njust like the Japanese."
+    } ]
+  }, {
+    "tStartMs": 1014400,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1014733,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "但是我们呢\nBut for us,"
+    } ]
+  }, {
+    "tStartMs": 1015600,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "平常家里面好像一般都不会用那个\nseems we don't usually use that at home."
+    } ]
+  }, {
+    "tStartMs": 1020200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "现在生活就是为了简便嘛\nNowadays's life prioritize convenience."
+    } ]
+  }, {
+    "tStartMs": 1022600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1026400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "而且我觉得\nAnd I think"
+    } ]
+  }, {
+    "tStartMs": 1027900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "没有什么比\nthere's nothing more convenient, more stable than just stick the chopsticks directly into the rice"
+    } ]
+  }, {
+    "tStartMs": 1029100,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "直接把筷子这样插在那个米饭里面"
+    } ]
+  }, {
+    "tStartMs": 1033700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "更方便"
+    } ]
+  }, {
+    "tStartMs": 1034500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "更稳固的"
+    } ]
+  }, {
+    "tStartMs": 1035733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "更稳当的"
+    } ]
+  }, {
+    "tStartMs": 1038333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但是要是大家族里像你这样的小孩\nBut if you were a child in a large rich family,"
+    } ]
+  }, {
+    "tStartMs": 1040933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "是会被拖出去打的\nyou'd be dragged out and beaten."
+    } ]
+  }, {
+    "tStartMs": 1042900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1043766,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "会被打得很惨的\nI would be beaten badly."
+    } ]
+  }, {
+    "tStartMs": 1052066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "怎么说呢\nHow to say?"
+    } ]
+  }, {
+    "tStartMs": 1053766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "有的传统习俗吧\nSome traditional customs"
+    } ]
+  }, {
+    "tStartMs": 1056633,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "时代总是在变化的\ntimes are always changing."
+    } ]
+  }, {
+    "tStartMs": 1058333,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "对呀！时代总是在变化的\nYes, times are always changing."
+    } ]
+  }, {
+    "tStartMs": 1062266,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "但是有的礼节还是要遵守的\nBut some etiquette still needs to be followed."
+    } ]
+  }, {
+    "tStartMs": 1065800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "比如说\nFor example,"
+    } ]
+  }, {
+    "tStartMs": 1067833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "刚才说的请客人吃饭\nas mentioned earlier, inviting guests to dinner."
+    } ]
+  }, {
+    "tStartMs": 1070233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "你要多做一点\nYou should prepare extra food"
+    } ]
+  }, {
+    "tStartMs": 1076966,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "来印度飞饼好啦\nhere Indian Flying Cake is ready"
+    } ]
+  }, {
+    "tStartMs": 1079666,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "好香\nIt smells good."
+    } ]
+  }, {
+    "tStartMs": 1080533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这个叫印度飞饼\nThis is called Indian flying cake."
+    } ]
+  }, {
+    "tStartMs": 1082633,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "但是我真不知道印度有没有这种东西\nBut I'm not even sure if there is such a thing in India."
+    } ]
+  }, {
+    "tStartMs": 1086766,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "反正我们中国人很爱吃这个东西\nAnyway, we Chinese love this thing"
+    } ]
+  }, {
+    "tStartMs": 1090500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "很脆,很香\nIt's very crispy and fragrant."
+    } ]
+  }, {
+    "tStartMs": 1092133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "它是一层\nIt's a layered thin pancake,"
+    } ]
+  }, {
+    "tStartMs": 1093300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "薄薄的饼"
+    } ]
+  }, {
+    "tStartMs": 1094800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "然后里面有菠萝呀\nwith pineapple inside,"
+    } ]
+  }, {
+    "tStartMs": 1098333,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "或者是其他什么口味的\nor other flavors."
+    } ]
+  }, {
+    "tStartMs": 1101066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "榴莲\nDurian"
+    } ]
+  }, {
+    "tStartMs": 1102333,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "对。我们一般都是吃菠萝味的\nyes. We usually eat the pineapple flavor."
+    } ]
+  }, {
+    "tStartMs": 1106033,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "最受欢迎的是菠萝的\nThe most popular one is pineapple"
+    } ]
+  }, {
+    "tStartMs": 1107100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "还有肉馅的\nthere are also ones with meat filling"
+    } ]
+  }, {
+    "tStartMs": 1108600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "真的吗?有啊\nReally? Yes."
+    } ]
+  }, {
+    "tStartMs": 1109666,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "不可能吧\nImpossible."
+    } ]
+  }, {
+    "tStartMs": 1110733,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "有啊\nYes."
+    } ]
+  }, {
+    "tStartMs": 1111066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这是中国的饼吧\nIs it a Chinese pancake?"
+    } ]
+  }, {
+    "tStartMs": 1112766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "它叫印度飞饼啊\nIt's called  Indian flying cake."
+    } ]
+  }, {
+    "tStartMs": 1114333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "它就是让你选择的\nIt's for you to choose."
+    } ]
+  }, {
+    "tStartMs": 1116700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "真的\nReally?"
+    } ]
+  }, {
+    "tStartMs": 1118200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "但你这个印度飞饼....\nbut your Indian flying cake....."
+    } ]
+  }, {
+    "tStartMs": 1119433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "印度飞饼正常是煎出来的\nIndian flying cake are usually fried."
+    } ]
+  }, {
+    "tStartMs": 1121400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这个像是烤出来的\nThis one looks like it's baked."
+    } ]
+  }, {
+    "tStartMs": 1123000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "对.它是用油煎出来的\nYes, It should be fried by oil"
+    } ]
+  }, {
+    "tStartMs": 1125600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但是为了健康一点嘛\nBut for the sake of health,"
+    } ]
+  }, {
+    "tStartMs": 1128000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "少摄入一些脂肪\nto consume less fat."
+    } ]
+  }, {
+    "tStartMs": 1129600,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "所以我用空气炸锅炸的\nSo I fried it in an air fryer."
+    } ]
+  }, {
+    "tStartMs": 1132733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "对，来尝一下\nYes, let's try it."
+    } ]
+  }, {
+    "tStartMs": 1134266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "吃\neat"
+    } ]
+  }, {
+    "tStartMs": 1140133,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "好脆\nSo crispy."
+    } ]
+  }, {
+    "tStartMs": 1141433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我是买的那个速冻的\nI bought the frozen one,"
+    } ]
+  }, {
+    "tStartMs": 1143066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "然后回来直接放进空气炸锅里\nand just popped it in the air fryer when back"
+    } ]
+  }, {
+    "tStartMs": 1145433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "现在都是这样的吧\nIt's all like this now"
+    } ]
+  }, {
+    "tStartMs": 1148233,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "哎我发现你肯定是木灵根哎\nHey, I found that you must have a wood spirit root!"
+    } ]
+  }, {
+    "tStartMs": 1151200,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "什么?\nWhat ?"
+    } ]
+  }, {
+    "tStartMs": 1151900,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "木灵根\nwood spirit root"
+    } ]
+  }, {
+    "tStartMs": 1152433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "你知道吗\nDo you know?"
+    } ]
+  }, {
+    "tStartMs": 1153533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "什么东西啊\nWhat is it?"
+    } ]
+  }, {
+    "tStartMs": 1154500,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "就是金,木,水,火,土\nIt's metal, wood, water, fire, and earth."
+    } ]
+  }, {
+    "tStartMs": 1157466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Chinese talks about the five elements, right?\n中国不是讲五行吗"
+    } ]
+  }, {
+    "tStartMs": 1159400,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "嗯\nYes."
+    } ]
+  }, {
+    "tStartMs": 1160000,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "在修行界有这样的说法\nIn the practice world, there is such a saying."
+    } ]
+  }, {
+    "tStartMs": 1162766,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "People with spiritual talent\n就是有修行天赋的人"
+    } ]
+  }, {
+    "tStartMs": 1166000,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "他是有灵根的\nhave spirit roots."
+    } ]
+  }, {
+    "tStartMs": 1168333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后他的灵根呢\nAnd his spiritual roots"
+    } ]
+  }, {
+    "tStartMs": 1169633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "还是有属性\nalso have attributes."
+    } ]
+  }, {
+    "tStartMs": 1171766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "有的是比如说金,木,水,火,土\nSome are like gold, wood, water, fire, and earth."
+    } ]
+  }, {
+    "tStartMs": 1174000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "金灵根,木灵根....\ngold spirit root,wood spirit root,"
+    } ]
+  }, {
+    "tStartMs": 1176466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "修行的灵根，水灵根\nthe spiritual practice root,  water spirit root"
+    } ]
+  }, {
+    "tStartMs": 1180233,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "比如说水灵根的人\nfor example people with water spiritual roots"
+    } ]
+  }, {
+    "tStartMs": 1181233,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "他就特别会游泳\nhe is especially good at swimming."
+    } ]
+  }, {
+    "tStartMs": 1182800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "可能他天生就会游泳\nMaybe he is born to swim."
+    } ]
+  }, {
+    "tStartMs": 1186333,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "“灵根”"
+    } ]
+  }, {
+    "tStartMs": 1186766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这两个字怎么写\nHow do you write these two words?"
+    } ]
+  }, {
+    "tStartMs": 1188500,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "灵就是那个灵...灵活的\"灵\"\nling is the ling..... in flexible."
+    } ]
+  }, {
+    "tStartMs": 1192733,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "\"Root\" is the root of a plant.\n\"根\"就是根苗的根啊"
+    } ]
+  }, {
+    "tStartMs": 1194666,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "植物那个根啊\nThe root of a plant."
+    } ]
+  }, {
+    "tStartMs": 1195733,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "植物的根\nThe root of a plant."
+    } ]
+  }, {
+    "tStartMs": 1196766,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "嗯好\nOk."
+    } ]
+  }, {
+    "tStartMs": 1198466,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "然后呢\nAnd then?"
+    } ]
+  }, {
+    "tStartMs": 1199100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "我觉得像你这种就是属于木灵根\nI think you are like belong to wood spirit root,"
+    } ]
+  }, {
+    "tStartMs": 1203300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "因为你特别会种东西\nbecause you are very good at growing things."
+    } ]
+  }, {
+    "tStartMs": 1206733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "长得特别好\nand they grow very well."
+    } ]
+  }, {
+    "tStartMs": 1208666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这种就属于木灵根\nshould belong to wood spirit root like this"
+    } ]
+  }, {
+    "tStartMs": 1210266,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "真的吗\nReally?"
+    } ]
+  }, {
+    "tStartMs": 1211133,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "对啊,真的\nYes, it's true."
+    } ]
+  }, {
+    "tStartMs": 1213266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "可是这样的人很多呀\nBut there are many people like that."
+    } ]
+  }, {
+    "tStartMs": 1216266,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "每个人他可能都有不同的灵根啊\nEveryone may have a different spirit root."
+    } ]
+  }, {
+    "tStartMs": 1220333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "只是...\nBut..."
+    } ]
+  }, {
+    "tStartMs": 1221333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "那你是什么灵根? 金、木、水\nthen what kind of spirit root do you have? gold 、wood、water..."
+    } ]
+  }, {
+    "tStartMs": 1224300,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "我就不适合修行\nI'm not suitable for cultivation."
+    } ]
+  }, {
+    "tStartMs": 1227433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "怎么可能\nHow could it be?"
+    } ]
+  }, {
+    "tStartMs": 1228333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "你有剥虾的技能\nYou have the skill of peeling shrimps."
+    } ]
+  }, {
+    "tStartMs": 1231200,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "吃灵根\nEating spirit roots."
+    } ]
+  }, {
+    "tStartMs": 1232133,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "口灵根\nmouth spirit root."
+    } ]
+  }, {
+    "tStartMs": 1233800,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "这个茶好好喝哦，哈？\nThis tea is so good，right?"
+    } ]
+  }, {
+    "tStartMs": 1240900,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "哇,你看这个茶汤的颜色\nWow, look at the color of the tea soup."
+    } ]
+  }, {
+    "tStartMs": 1246500,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "好漂亮啊\nso beautiful."
+    } ]
+  }, {
+    "tStartMs": 1249366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯\nYes."
+    } ]
+  }, {
+    "tStartMs": 1251366,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "看起来就像是那种灵丹妙药\nlooks like a magical potion"
+    } ]
+  }, {
+    "tStartMs": 1254833,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "吃\nEat."
+    } ]
+  }, {
+    "tStartMs": 1256033,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "你拿筷子的姿势好奇怪哦\nThe posture you hold chopsticks is so weird"
+    } ]
+  }, {
+    "tStartMs": 1258833,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "往里头这样拿了\nyou hold it into like this."
+    } ]
+  }, {
+    "tStartMs": 1264533,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "我左右手都可以用\nI can use both hands."
+    } ]
+  }, {
+    "tStartMs": 1269966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "你这只手的姿势还更正常\nThe posture of this hand is more normal."
+    } ]
+  }, {
+    "tStartMs": 1272366,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "不可能\nimpossible"
+    } ]
+  }, {
+    "tStartMs": 1273433,
+    "dDurationMs": 167,
+    "segs": [ {
+      "utf8": "真的\nreally"
+    } ]
+  }, {
+    "tStartMs": 1273600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "用右手拿好不正常\nIt's so weird when you use the right hand."
+    } ]
+  }, {
+    "tStartMs": 1276500,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "反正我从小我的爸妈就说\nAnyway, since I was a child, my parents have said"
+    } ]
+  }, {
+    "tStartMs": 1278466,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "我拿筷子的姿势还没有外国人拿得好\nmy chopstick holding posture is worse than foreigners'."
+    } ]
+  }, {
+    "tStartMs": 1285366,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "但是呢\nHowever,"
+    } ]
+  }, {
+    "tStartMs": 1286066,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我们中国有一句话叫做\nThere is a saying in China that"
+    } ]
+  }, {
+    "tStartMs": 1288766,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "黑猫白猫,逮住耗子的就是好猫\nblack cat, white cat, as long as it catches the mouse, it’s a good cat"
+    } ]
+  }, {
+    "tStartMs": 1293400,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "就是你不管用什么方式\nThat is, no matter what method you use,"
+    } ]
+  }, {
+    "tStartMs": 1296066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "你只要能把它夹得起来就OK啦\nas long as you can pick it up, it's fine"
+    } ]
+  }, {
+    "tStartMs": 1300266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "掉在地上了怎么办\nOops, dropped food"
+    } ]
+  }, {
+    "tStartMs": 1302966,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "不管\nNever mind."
+    } ]
+  }, {
+    "tStartMs": 1303633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "等下要帮你扫地吗\nwant me to sweep later?"
+    } ]
+  }, {
+    "tStartMs": 1305200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我们家扫帚坏了\nmy broom is broken."
+    } ]
+  }, {
+    "tStartMs": 1307500,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "哦，太好了\noh, great"
+    } ]
+  }, {
+    "tStartMs": 1307933,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "不扫\nNo sweeps"
+    } ]
+  }, {
+    "tStartMs": 1310166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "好吃吗?好吃\ndo you like it? Yes."
+    } ]
+  }, {
+    "tStartMs": 1311733,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "要不要再来一个?\nDo you want another one?"
+    } ]
+  }, {
+    "tStartMs": 1312733,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "嗯\nHmm."
+    } ]
+  }, {
+    "tStartMs": 1313033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不要\nNo."
+    } ]
+  }, {
+    "tStartMs": 1314533,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "我怕上火\nI'm afraid of getting heaty"
+    } ]
+  }, {
+    "tStartMs": 1315400,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "又很容易喉咙发炎\nand I get sore throats easily."
+    } ]
+  }, {
+    "tStartMs": 1318033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "上火就喝水\nDrink water when you getting heaty"
+    } ]
+  }, {
+    "tStartMs": 1325666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Let me tell you.\n我告诉你"
+    } ]
+  }, {
+    "tStartMs": 1326966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "那天我看到一个视频\nI watch a video that day."
+    } ]
+  }, {
+    "tStartMs": 1328666,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "一个说中文的老外\na foreigner who speaks Chinese."
+    } ]
+  }, {
+    "tStartMs": 1332000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "他中文其实说得很好\nHe actually spoke Chinese very well."
+    } ]
+  }, {
+    "tStartMs": 1333966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "然后他在视频里面说\nThen he said in the video,"
+    } ]
+  }, {
+    "tStartMs": 1336200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我来中国13年了\nI've been in China for thirteen years."
+    } ]
+  }, {
+    "tStartMs": 1338900,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "有一件事情我到现在还没有搞明白\nthere's one thing I still haven't figured out."
+    } ]
+  }, {
+    "tStartMs": 1342600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "什么叫做\"上火\"?\nwhat is \"get fire\"?"
+    } ]
+  }, {
+    "tStartMs": 1345000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "他说那个很难很难的字我都会念\nHe said he could pronounce very difficult words,"
+    } ]
+  }, {
+    "tStartMs": 1348933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "但是我一直搞不懂\nbut I still don't understand"
+    } ]
+  }, {
+    "tStartMs": 1350833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "什么叫\"上火\"\nwhat is shanghuo?"
+    } ]
+  }, {
+    "tStartMs": 1352366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "\"上\"我也知道是什么意思\nI know the meaning of  \"shang\""
+    } ]
+  }, {
+    "tStartMs": 1354266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "\"火\"我也知道是什么意思\nI also know the meaning of \" huo \""
+    } ]
+  }, {
+    "tStartMs": 1356966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但火在哪里呢\nBut where is the fire?"
+    } ]
+  }, {
+    "tStartMs": 1361300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "怎么解释\"上火\"这个词?\nHow to explain the word \"shang huo\"?"
+    } ]
+  }, {
+    "tStartMs": 1367400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "其实哈\nActually,"
+    } ]
+  }, {
+    "tStartMs": 1369100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "根本就没有什么上火\nthere is no such thing as \"shang huo\"."
+    } ]
+  }, {
+    "tStartMs": 1371400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "你觉得的那个上火的症状\nThe symptoms you think are caused by \"shang huo\""
+    } ]
+  }, {
+    "tStartMs": 1375033,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "是因为你体内的水分不足\nIt's because you don't have enough water in your body."
+    } ]
+  }, {
+    "tStartMs": 1378433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "还有就是维生素b不足\nand lack of vitamin B."
+    } ]
+  }, {
+    "tStartMs": 1380733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "知道吗\nDo you know?"
+    } ]
+  }, {
+    "tStartMs": 1382400,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "维生素b怎么补充\nHow to supplement vitamin B?"
+    } ]
+  }, {
+    "tStartMs": 1384066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "喝啤酒啊\nDrinking beer."
+    } ]
+  }, {
+    "tStartMs": 1386466,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "啤酒是最好的补充维生素b的东西\nBeer is the best thing to supplement vitamin B."
+    } ]
+  }, {
+    "tStartMs": 1390866,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "因为啤酒花里面富含维生素b\nBecause hops are rich in vitamin B."
+    } ]
+  }, {
+    "tStartMs": 1395766,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "你知道吗\nDo you know?"
+    } ]
+  }, {
+    "tStartMs": 1396500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "第二个选项是什么?\nWhat's the second option?"
+    } ]
+  }, {
+    "tStartMs": 1399533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "第二个选项啊\nThe second option,"
+    } ]
+  }, {
+    "tStartMs": 1401500,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "第二个选项嘛\nThe second option......"
+    } ]
+  }, {
+    "tStartMs": 1402633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就是什么谷物啊\nlike grains,"
+    } ]
+  }, {
+    "tStartMs": 1405033,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "坚果啊,芝麻呀那些\nnuts, sesame seeds,like those"
+    } ]
+  }, {
+    "tStartMs": 1407833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "但是这些东西呢\nBut these things"
+    } ]
+  }, {
+    "tStartMs": 1409333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "在烹饪的\nduring cooking,"
+    } ]
+  }, {
+    "tStartMs": 1410200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "过程中会损耗很多的维生素b\nwill lose a lot of vitamin B"
+    } ]
+  }, {
+    "tStartMs": 1415533,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "所以嘛\nSo,"
+    } ]
+  }, {
+    "tStartMs": 1416366,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "我觉得第二个选项应该是吃那个补剂\nI think the second option should be to take supplements."
+    } ]
+  }, {
+    "tStartMs": 1420500,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1424366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "保健品\nhealth supplements."
+    } ]
+  }, {
+    "tStartMs": 1432100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我不是前段时间那个咽喉发炎很厉害吗\nI had a severe sore throat some time ago, wasn't it?"
+    } ]
+  }, {
+    "tStartMs": 1435033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "你知道那天起源是什么?\nDo you know what was the origin of that day?"
+    } ]
+  }, {
+    "tStartMs": 1438166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "就是因为周璇说想吃披萨\nIt was because Zhou Xuan（her daughter) said she wanted to eat pizza."
+    } ]
+  }, {
+    "tStartMs": 1441033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "然后我们就一起叫了一个披萨\nthen we ordered a pizza together"
+    } ]
+  }, {
+    "tStartMs": 1445633,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "结果我就马上那天就开始咽喉疼了\nAs a result, I started to have sore throat that day."
+    } ]
+  }, {
+    "tStartMs": 1449500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "而且第二天就很严重\nAnd it get worse the next day."
+    } ]
+  }, {
+    "tStartMs": 1452833,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "因为我自己有感觉\nBecause I felt it myself,"
+    } ]
+  }, {
+    "tStartMs": 1454166,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "就是我会疼到四肢关节都有点疼\nI felt pain even in my limbs and joints."
+    } ]
+  }, {
+    "tStartMs": 1456900,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "那我可能就是快要发炎了啊\nI might be getting inflamed soon."
+    } ]
+  }, {
+    "tStartMs": 1460566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "因为披萨是烤的\nBecause pizza is baked."
+    } ]
+  }, {
+    "tStartMs": 1462800,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1464433,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "烤的、炸的东西它都丧失了很多的水分\nRoasted and fried food loses a lot of water."
+    } ]
+  }, {
+    "tStartMs": 1469966,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "所以你吃这些东西哈\nSo when you eat these things,"
+    } ]
+  }, {
+    "tStartMs": 1471333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "你就要喝啤酒啊\nyou need to drink beer,"
+    } ]
+  }, {
+    "tStartMs": 1472900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "喝水呀，喝茶呀\ndrink water, or tea."
+    } ]
+  }, {
+    "tStartMs": 1475533,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "哎，你没有发现这个碗很可爱吗？\nHey, haven't you noticed this bowl is so cute?"
+    } ]
+  }, {
+    "tStartMs": 1479766,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "我发现了啊\nI found that"
+    } ]
+  }, {
+    "tStartMs": 1480600,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "它下面长脚的\nIt has feet on the bottom."
+    } ]
+  }, {
+    "tStartMs": 1483066,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我很喜欢这种特别的容器\nI really like this kind of special container."
+    } ]
+  }, {
+    "tStartMs": 1485300,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "就是不是这种规规矩矩的\nIt's not the regular one like this"
+    } ]
+  }, {
+    "tStartMs": 1488600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我觉得很可爱\nI think it's cute."
+    } ]
+  }, {
+    "tStartMs": 1490733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "你吃啊\nYou eat."
+    } ]
+  }, {
+    "tStartMs": 1492000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我已经吃饱了\nI'm already full."
+    } ]
+  }, {
+    "tStartMs": 1494200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "不可能\nImpossible."
+    } ]
+  }, {
+    "tStartMs": 1496766,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "真的\nReally."
+    } ]
+  }, {
+    "tStartMs": 1497533,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "你刚刚还在说你要打包\nYou just said you wanted to take it away"
+    } ]
+  }, {
+    "tStartMs": 1499800,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "结果才过了几分钟你就说你吃饱了\nbut in just a few minutes, you said you were full."
+    } ]
+  }, {
+    "tStartMs": 1503766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "打包可以下一顿再吃\ntake away  for next meal."
+    } ]
+  }, {
+    "tStartMs": 1506766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "把那个印度飞饼吃了吧\nEat that Indian flying pancake."
+    } ]
+  }, {
+    "tStartMs": 1508566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个给你。我吃两个了\nthis is yours.  I already ate two"
+    } ]
+  }, {
+    "tStartMs": 1510833,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "不能再吃了\nI can't eat more"
+    } ]
+  }, {
+    "tStartMs": 1511500,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我怕上火\nI'm afraid of getting heaty"
+    } ]
+  }, {
+    "tStartMs": 1519300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "你做的鱼香肉丝太赞了\nThe fish-flavored shredded pork you made is amazing."
+    } ]
+  }, {
+    "tStartMs": 1523700,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "谢谢夸奖\nThank you for the compliment."
+    } ]
+  }, {
+    "tStartMs": 1526400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "非常精彩的鱼香肉丝\nIt's a wonderful fish-flavored shredded pork."
+    } ]
+  }, {
+    "tStartMs": 1531500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "你下次来我再做给你吃\nI'll make it for you again next time you come."
+    } ]
+  }, {
+    "tStartMs": 1533333,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "好\nOkay."
+    } ]
+  }, {
+    "tStartMs": 1535233,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "好吧\nOK，"
+    } ]
+  }, {
+    "tStartMs": 1535666,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "我吃了哦！\nI'll have it."
+    } ]
+  }, {
+    "tStartMs": 1536800,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "吃\nEat"
+    } ]
+  }, {
+    "tStartMs": 1539600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我觉得你应该搬到农村去住\nI think you should move to the countryside."
+    } ]
+  }, {
+    "tStartMs": 1542600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "对. 我也是这么想的.\nYeah, I think so too."
+    } ]
+  }, {
+    "tStartMs": 1545800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "对,然后有个屋子\nYes, and then there's a house,"
+    } ]
+  }, {
+    "tStartMs": 1547933,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "有个花园\na garden,"
+    } ]
+  }, {
+    "tStartMs": 1549000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "有个菜园\na vegetable garden."
+    } ]
+  }, {
+    "tStartMs": 1550866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "有个果园\nan orchard."
+    } ]
+  }, {
+    "tStartMs": 1553166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "然后还有一些什么养鸡,养鸭\nAnd some Chicken raising, duck raising"
+    } ]
+  }, {
+    "tStartMs": 1556066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "养猫，养狗的\ncat raising，dog raising"
+    } ]
+  }, {
+    "tStartMs": 1557933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我也是这么想\nI think so too."
+    } ]
+  }, {
+    "tStartMs": 1559033,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "我觉得你太适合经营那种生活了\nI think you are so suitable for living that kind of life."
+    } ]
+  }, {
+    "tStartMs": 1562733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "给我留一间房\nLeave me a room."
+    } ]
+  }, {
+    "tStartMs": 1563633,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "到时候记得啊\nRemember to leave a room for me."
+    } ]
+  }, {
+    "tStartMs": 1571900,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我觉得这个茶好好喝啊\nWow, I think this tea is so good"
+    } ]
+  }, {
+    "tStartMs": 1573533,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "为什么呀\nWhy?"
+    } ]
+  }, {
+    "tStartMs": 1575800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "你喝水确实喝得多\nYou do drink a lot of water."
+    } ]
+  }, {
+    "tStartMs": 1579900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "再再再再来一杯\nHave an..an..another cup."
+    } ]
+  }, {
+    "tStartMs": 1581933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "来\nhere"
+    } ]
+  }, {
+    "tStartMs": 1590266,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我不爱喝白开水\nI don't like drinking plain water"
+    } ]
+  }, {
+    "tStartMs": 1591800,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "我也是\nme either."
+    } ]
+  }, {
+    "tStartMs": 1592300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "而且我...我喝白开水就想吐\nAnd I feel like vomiting when I drink plain water."
+    } ]
+  }, {
+    "tStartMs": 1594433,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "就会反(胃）\nI will feel queasy"
+    } ]
+  }, {
+    "tStartMs": 1595200,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "跟我一模一样\nIt's exactly the same as me, right?"
+    } ]
+  }, {
+    "tStartMs": 1596133,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "是不是?\nright?"
+    } ]
+  }, {
+    "tStartMs": 1596733,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "是！所以我就爱喝可乐\nyes! So I love drinking cola."
+    } ]
+  }, {
+    "tStartMs": 1599800,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "那不行啊\nThat's not good."
+    } ]
+  }, {
+    "tStartMs": 1600733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "那比不喝水还糟糕\nThat's worse than not drinking water."
+    } ]
+  }, {
+    "tStartMs": 1602066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "对. 所以我就干脆后来不喝(水）了\nSo I just stopped drinking water later."
+    } ]
+  }, {
+    "tStartMs": 1603900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "所以我跟你说你要有点味道\nSo I tell you, you need to add some flavor."
+    } ]
+  }, {
+    "tStartMs": 1606033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "搞点柠檬啊\nAdd some lemon."
+    } ]
+  }, {
+    "tStartMs": 1607900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "柠檬我也不行\nI can't drink lemon either."
+    } ]
+  }, {
+    "tStartMs": 1609333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那就喝茶呀\nthen drink tea."
+    } ]
+  }, {
+    "tStartMs": 1612033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "哇，你都没吃完饭\nyou didn't finish the rice"
+    } ]
+  }, {
+    "tStartMs": 1613333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "嗯.吃饱了\nyea. I'm full."
+    } ]
+  }, {
+    "tStartMs": 1615400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "\"雷声大雨点小\"\nloud thunder but small raindrops"
+    } ]
+  }, {
+    "tStartMs": 1617100,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我以为你要吃三碗\nI thought you would eat three bowls(of rice)."
+    } ]
+  }, {
+    "tStartMs": 1620700,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "你的饭量也也跟你的酒量差不多\nyour appetite is as much as your drinking capacity"
+    } ]
+  }, {
+    "tStartMs": 1626266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "酒量有时候是吓别人的\nSometimes your drinking capacity is just to scare others."
+    } ]
+  }, {
+    "tStartMs": 1632200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "你要不要尝一个我的番茄\nWould you like to try one of my tomatoes?"
+    } ]
+  }, {
+    "tStartMs": 1634633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不会特别酸吧？\nIt won't be too sour, will it?"
+    } ]
+  }, {
+    "tStartMs": 1635433,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "你现在可以亲手把它摘下来\nYou can pick it yourself now."
+    } ]
+  }, {
+    "tStartMs": 1638466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这个吗？这个？\nThis one?"
+    } ]
+  }, {
+    "tStartMs": 1641233,
+    "dDurationMs": 233,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1641466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这个你可以尝一下\nYou can try this one."
+    } ]
+  }, {
+    "tStartMs": 1642766,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "对\nYes."
+    } ]
+  }, {
+    "tStartMs": 1643200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那我把它摘了"
+    } ]
+  }, {
+    "tStartMs": 1644400,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "可能会有一点点酸\nIt might be a little sour."
+    } ]
+  }, {
+    "tStartMs": 1648533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "这么可爱\nSo cute."
+    } ]
+  }, {
+    "tStartMs": 1652666,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "哇\nWow."
+    } ]
+  }, {
+    "tStartMs": 1653333,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "好吃吗\nIs it tasty?"
+    } ]
+  }, {
+    "tStartMs": 1653866,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "好酸!这口好酸\nIt's so sour, this bite is so sour"
+    } ]
+  }, {
+    "tStartMs": 1655833,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我说我朋友有木灵根\nI said my friend has wood spirit root,"
+    } ]
+  }, {
+    "tStartMs": 1657533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "种什么都种得好好\nshe grows everything well."
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "他们叫你种个瓜\nThey asked you to grow a melon."
+    } ]
+  }, {
+    "tStartMs": 1661033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "种傻瓜可以\nI can grow fools."
+    } ]
+  }, {
+    "tStartMs": 1662766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "过两天再来摘\nCome back to pick in a few days."
+    } ]
+  }, {
+    "tStartMs": 1663933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "过两天那几个大的全部都红了\nIn a few days, the big ones will be red."
+    } ]
+  }, {
+    "tStartMs": 1666200,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "记得叫我来摘\nRemember to call me to pick."
+    } ]
+  }, {
+    "tStartMs": 1667300,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好\nsure"
+    } ]
+  }, {
+    "tStartMs": 1668966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "来吃饭还薅了个礼物\nCame for the meal and even scored a gift"
+    } ]
+  }, {
+    "tStartMs": 1671933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "多美\nHow beautiful."
+    } ]
+  } ]
+}

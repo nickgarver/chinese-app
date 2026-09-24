@@ -1,0 +1,1051 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1500,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "大家好，现在是早上7:50"
+    } ]
+  }, {
+    "tStartMs": 6800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "不到8点"
+    } ]
+  }, {
+    "tStartMs": 8366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我刚刚上完一节课"
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "我的第一节中文课通常会在早上7点"
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "所以我会提前30分钟起床、洗漱"
+    } ]
+  }, {
+    "tStartMs": 22600,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "准备上课"
+    } ]
+  }, {
+    "tStartMs": 24766,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "现在呢，我想来准备我的早餐"
+    } ]
+  }, {
+    "tStartMs": 29766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "大家看这个小猫盘子"
+    } ]
+  }, {
+    "tStartMs": 33400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这是我亲手做的"
+    } ]
+  }, {
+    "tStartMs": 36133,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "我自己做的一个小盘子"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "虽然我画画不怎么样"
+    } ]
+  }, {
+    "tStartMs": 43066,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "但是我很喜欢自己做东西，自己DIY"
+    } ]
+  }, {
+    "tStartMs": 48833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "因为我觉得这是独一无二的"
+    } ]
+  }, {
+    "tStartMs": 52366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "非常特别"
+    } ]
+  }, {
+    "tStartMs": 54533,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "今天我要用我的小助手—电饭锅"
+    } ]
+  }, {
+    "tStartMs": 59066,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "来帮我做早餐"
+    } ]
+  }, {
+    "tStartMs": 65733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "两个小馒头"
+    } ]
+  }, {
+    "tStartMs": 67266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "一个鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 68266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "一根香肠"
+    } ]
+  }, {
+    "tStartMs": 70133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "鸡胸肉香肠"
+    } ]
+  }, {
+    "tStartMs": 74266,
+    "dDurationMs": 4434,
+    "segs": [ {
+      "utf8": "放进去，里面已经有水了"
+    } ]
+  }, {
+    "tStartMs": 80700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "这里有一个蒸东西的功能"
+    } ]
+  }, {
+    "tStartMs": 85066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "30分钟"
+    } ]
+  }, {
+    "tStartMs": 87833,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "现在切个牛油果"
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "这个牛油果摸起来已经很软了"
+    } ]
+  }, {
+    "tStartMs": 95466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "已经熟透了"
+    } ]
+  }, {
+    "tStartMs": 98800,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "好像快要烂了"
+    } ]
+  }, {
+    "tStartMs": 101033,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "所以呢，要尽快把它吃掉"
+    } ]
+  }, {
+    "tStartMs": 108066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "其实我以前不太喜欢吃牛油果"
+    } ]
+  }, {
+    "tStartMs": 112300,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "但是呢"
+    } ]
+  }, {
+    "tStartMs": 114066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "吃着吃着就爱上了"
+    } ]
+  }, {
+    "tStartMs": 117700,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "你看现在还可以"
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "我身边的人好像都不太喜欢吃牛油果"
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "我知道牛油果是很有营养的"
+    } ]
+  }, {
+    "tStartMs": 131266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "是优质的脂肪"
+    } ]
+  }, {
+    "tStartMs": 136133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "现在来做一杯咖啡"
+    } ]
+  }, {
+    "tStartMs": 139566,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "其实我做咖啡的方法非常简单"
+    } ]
+  }, {
+    "tStartMs": 143600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "十分简单"
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一勺冻干咖啡"
+    } ]
+  }, {
+    "tStartMs": 147933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "加入冰水"
+    } ]
+  }, {
+    "tStartMs": 153366,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "搅拌搅拌"
+    } ]
+  }, {
+    "tStartMs": 156466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "今天做的咖啡比较淡"
+    } ]
+  }, {
+    "tStartMs": 159566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "颜色没有那么深"
+    } ]
+  }, {
+    "tStartMs": 163033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "大家喜欢喝浓一点的咖啡"
+    } ]
+  }, {
+    "tStartMs": 165600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "还是淡一点的咖啡呢"
+    } ]
+  }, {
+    "tStartMs": 169666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "就是这么简单"
+    } ]
+  }, {
+    "tStartMs": 171233,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "这就是我喜欢的咖啡的味道"
+    } ]
+  }, {
+    "tStartMs": 174266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "虽然现在已经是9月了"
+    } ]
+  }, {
+    "tStartMs": 177300,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "但是广东的天气还是很热"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "很炎热"
+    } ]
+  }, {
+    "tStartMs": 184200,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "所以呢，我只好把我的头发绑起来"
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "现在还要等20分钟"
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "早餐才会做好"
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 5566,
+    "segs": [ {
+      "utf8": "所以我会利用这个时间来处理一下工作"
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "来做一下工作"
+    } ]
+  }, {
+    "tStartMs": 201700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "今天晚上呢，会有一个新视频"
+    } ]
+  }, {
+    "tStartMs": 205600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "希望大家喜欢"
+    } ]
+  }, {
+    "tStartMs": 208133,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "如果大家想获得更多的学习资料"
+    } ]
+  }, {
+    "tStartMs": 211900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "可以加入我的会员哦"
+    } ]
+  }, {
+    "tStartMs": 221866,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "现在差不多9点了"
+    } ]
+  }, {
+    "tStartMs": 224833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "早餐时间"
+    } ]
+  }, {
+    "tStartMs": 228466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "牛奶小馒头"
+    } ]
+  }, {
+    "tStartMs": 231966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这个馒头虽然有点小"
+    } ]
+  }, {
+    "tStartMs": 234366,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "但是它非常地松软"
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "鸡蛋、香肠、牛油果、咖啡"
+    } ]
+  }, {
+    "tStartMs": 246700,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "碳水、蛋白质、脂肪"
+    } ]
+  }, {
+    "tStartMs": 252433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "全部有了"
+    } ]
+  }, {
+    "tStartMs": 254366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "完美的早餐"
+    } ]
+  }, {
+    "tStartMs": 257233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "牛奶小馒头"
+    } ]
+  }, {
+    "tStartMs": 259100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "有很香的牛奶味"
+    } ]
+  }, {
+    "tStartMs": 266066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "很松软"
+    } ]
+  }, {
+    "tStartMs": 267666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "味道虽然很简单"
+    } ]
+  }, {
+    "tStartMs": 269633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "但是很好吃"
+    } ]
+  }, {
+    "tStartMs": 272033,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "这个馒头的牛奶味真的非常浓郁"
+    } ]
+  }, {
+    "tStartMs": 276833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我每天呢，都会吃不一样的早餐"
+    } ]
+  }, {
+    "tStartMs": 281400,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "有时候吃馄饨"
+    } ]
+  }, {
+    "tStartMs": 283266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "有时候吃粥"
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "有时候吃肠粉"
+    } ]
+  }, {
+    "tStartMs": 287700,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "有时候会做奶昔"
+    } ]
+  }, {
+    "tStartMs": 291866,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "有时候会像今天这样做馒头、鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 297100,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "我觉得早餐应该是要丰富"
+    } ]
+  }, {
+    "tStartMs": 300866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "还有比较多样的"
+    } ]
+  }, {
+    "tStartMs": 303266,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "我不能每天都吃一样的早餐"
+    } ]
+  }, {
+    "tStartMs": 306800,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这样我会很容易吃腻"
+    } ]
+  }, {
+    "tStartMs": 309733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "而且我也觉得吃早餐"
+    } ]
+  }, {
+    "tStartMs": 312466,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "应该是一个享受的时间"
+    } ]
+  }, {
+    "tStartMs": 315433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "因为是一天的开始"
+    } ]
+  }, {
+    "tStartMs": 317866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "非常重要"
+    } ]
+  }, {
+    "tStartMs": 327733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "这里有一个小小的停车场"
+    } ]
+  }, {
+    "tStartMs": 331833,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "可以免费停车3个小时"
+    } ]
+  }, {
+    "tStartMs": 336366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这里有充电桩"
+    } ]
+  }, {
+    "tStartMs": 339066,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "不仅有电动摩托车的充电桩"
+    } ]
+  }, {
+    "tStartMs": 343233,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "还有小汽车的充电桩"
+    } ]
+  }, {
+    "tStartMs": 347733,
+    "dDurationMs": 6333,
+    "segs": [ {
+      "utf8": "那我们运动的同时就可以在这里充电"
+    } ]
+  }, {
+    "tStartMs": 368066,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这是一个综合的体育馆"
+    } ]
+  }, {
+    "tStartMs": 371966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "有很多种运动"
+    } ]
+  }, {
+    "tStartMs": 374800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "很多种场地"
+    } ]
+  }, {
+    "tStartMs": 380700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "篮球场地"
+    } ]
+  }, {
+    "tStartMs": 388200,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "这边是羽毛球场地"
+    } ]
+  }, {
+    "tStartMs": 396633,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "这个区域呢，就是匹克球的场地"
+    } ]
+  }, {
+    "tStartMs": 404566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "右手边"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "这也是匹克球的场地"
+    } ]
+  }, {
+    "tStartMs": 410833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "前面这是网球场地"
+    } ]
+  }, {
+    "tStartMs": 417533,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "我觉得打网球的人好酷啊"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "最后这里还有一个健身房"
+    } ]
+  }, {
+    "tStartMs": 432133,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "里面还有游泳池"
+    } ]
+  }, {
+    "tStartMs": 435633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "所以我说这是一个综合的体育馆"
+    } ]
+  }, {
+    "tStartMs": 439566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "在这里可以做很多种运动"
+    } ]
+  }, {
+    "tStartMs": 443900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我很喜欢这个地板的颜色"
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "这个球场的颜色是紫色的"
+    } ]
+  }, {
+    "tStartMs": 452333,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "是不是看着很有活力"
+    } ]
+  }, {
+    "tStartMs": 456366,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "匹克球场没有网球场那么大"
+    } ]
+  }, {
+    "tStartMs": 465600,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "可以开空调运动"
+    } ]
+  }, {
+    "tStartMs": 468566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "太爽了"
+    } ]
+  }, {
+    "tStartMs": 470033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "运动之前先热身"
+    } ]
+  }, {
+    "tStartMs": 474333,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "看我带了什么过来"
+    } ]
+  }, {
+    "tStartMs": 478166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "这个是球拍，还有球"
+    } ]
+  }, {
+    "tStartMs": 481200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "在这里租球拍是要钱的"
+    } ]
+  }, {
+    "tStartMs": 484733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "5块钱一个小时"
+    } ]
+  }, {
+    "tStartMs": 486566,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "所以我干脆自己买了一对球拍"
+    } ]
+  }, {
+    "tStartMs": 494766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "还有我自己泡的绿茶"
+    } ]
+  }, {
+    "tStartMs": 497933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "冷泡绿茶"
+    } ]
+  }, {
+    "tStartMs": 503833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "两根香蕉"
+    } ]
+  }, {
+    "tStartMs": 505966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "饿了时候可以吃"
+    } ]
+  }, {
+    "tStartMs": 508933,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "还有一条擦汗的毛巾"
+    } ]
+  }, {
+    "tStartMs": 516066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "这个是拍视频的工具"
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "热身结束，开打"
+    } ]
+  }, {
+    "tStartMs": 540366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "输了一个球"
+    } ]
+  }, {
+    "tStartMs": 551066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "打完一个小时了"
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "大暴汗"
+    } ]
+  }, {
+    "tStartMs": 556200,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "但是很舒畅"
+    } ]
+  }, {
+    "tStartMs": 558733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "过程有点辛苦有点累"
+    } ]
+  }, {
+    "tStartMs": 562533,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "但是打完以后非常满足、很舒畅"
+    } ]
+  }, {
+    "tStartMs": 567000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "这个就是运动的好处"
+    } ]
+  }, {
+    "tStartMs": 570766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "快12点了"
+    } ]
+  }, {
+    "tStartMs": 572566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "回家做饭啦"
+    } ]
+  }, {
+    "tStartMs": 574966,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "今天我想吃红烧排骨"
+    } ]
+  }, {
+    "tStartMs": 579033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我把排骨洗干净了"
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "这里有大概300克的排骨"
+    } ]
+  }, {
+    "tStartMs": 585600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "姜片"
+    } ]
+  }, {
+    "tStartMs": 587066,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "这种瓜在我们这里叫“丝瓜”"
+    } ]
+  }, {
+    "tStartMs": 590766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "做红烧排骨"
+    } ]
+  }, {
+    "tStartMs": 592166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "还有炒丝瓜"
+    } ]
+  }, {
+    "tStartMs": 595066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "一荤一素"
+    } ]
+  }, {
+    "tStartMs": 597066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "一肉一菜"
+    } ]
+  }, {
+    "tStartMs": 599700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "完美"
+    } ]
+  }, {
+    "tStartMs": 648900,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "大家知道这是什么水果吗"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "对了，就是百香果"
+    } ]
+  }, {
+    "tStartMs": 661066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "现在刚好是百香果的季节"
+    } ]
+  }, {
+    "tStartMs": 664100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "外面有很多百香果在卖"
+    } ]
+  }, {
+    "tStartMs": 667400,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "红烧排骨差不多好了"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "红烧排骨差不多做好了"
+    } ]
+  }, {
+    "tStartMs": 676200,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "我个人呢，喜欢加一点百香果进去"
+    } ]
+  }, {
+    "tStartMs": 681100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "酸酸甜甜的，很开胃"
+    } ]
+  }, {
+    "tStartMs": 685133,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "没有人教我，是我自己想出来的办法"
+    } ]
+  }, {
+    "tStartMs": 689100,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "但是我觉得红烧排骨跟百香果是很配的"
+    } ]
+  }, {
+    "tStartMs": 702033,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "百香果是我最喜欢吃的水果之一"
+    } ]
+  }, {
+    "tStartMs": 708433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "它有丰富的维生素c"
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "接下来把它拌匀了就可以出锅了"
+    } ]
+  }, {
+    "tStartMs": 719033,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "哇，好美味的样子哦"
+    } ]
+  }, {
+    "tStartMs": 724300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "拿一个可爱的盘子"
+    } ]
+  }, {
+    "tStartMs": 727300,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "来盛我最喜欢的红烧排骨"
+    } ]
+  }, {
+    "tStartMs": 739100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "怎么样？还可以吧？"
+    } ]
+  }, {
+    "tStartMs": 743000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "清炒丝瓜也出锅了"
+    } ]
+  }, {
+    "tStartMs": 747633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "简简单单"
+    } ]
+  }, {
+    "tStartMs": 754433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "饭做好了"
+    } ]
+  }, {
+    "tStartMs": 756033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "马上要开饭了"
+    } ]
+  }, {
+    "tStartMs": 758300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "这个就是我普通又简单的一个早上"
+    } ]
+  }, {
+    "tStartMs": 762433,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "在我眼中，简单就是幸福"
+    } ]
+  }, {
+    "tStartMs": 766566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "大家也是这么觉得的吗"
+    } ]
+  }, {
+    "tStartMs": 769566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "希望大家喜欢这个视频"
+    } ]
+  }, {
+    "tStartMs": 771433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我们下个视频见"
+    } ]
+  }, {
+    "tStartMs": 774400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "拜拜"
+    } ]
+  } ]
+}

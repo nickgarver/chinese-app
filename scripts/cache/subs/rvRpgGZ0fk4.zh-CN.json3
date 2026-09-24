@@ -1,0 +1,991 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 24366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "大家好，我是佳佳"
+    } ]
+  }, {
+    "tStartMs": 29033,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "今天早上下了很大的雨"
+    } ]
+  }, {
+    "tStartMs": 34933,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "还有打雷和闪电"
+    } ]
+  }, {
+    "tStartMs": 39666,
+    "dDurationMs": 5767,
+    "segs": [ {
+      "utf8": "但是现在天气又很好了"
+    } ]
+  }, {
+    "tStartMs": 45966,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "现在是大晴天"
+    } ]
+  }, {
+    "tStartMs": 49933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我给你们看一下"
+    } ]
+  }, {
+    "tStartMs": 60000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "柏林的夏天天气变化很快"
+    } ]
+  }, {
+    "tStartMs": 65600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "这个星期我有一些空"
+    } ]
+  }, {
+    "tStartMs": 69466,
+    "dDurationMs": 5534,
+    "segs": [ {
+      "utf8": "可能你知道我在学德语"
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 7333,
+    "segs": [ {
+      "utf8": "然后我的德语B1考试已经通过了"
+    } ]
+  }, {
+    "tStartMs": 82333,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "现在在学B2"
+    } ]
+  }, {
+    "tStartMs": 85633,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "我从周一到周五"
+    } ]
+  }, {
+    "tStartMs": 90066,
+    "dDurationMs": 8334,
+    "segs": [ {
+      "utf8": "每天9点到下午1点上德语课"
+    } ]
+  }, {
+    "tStartMs": 98400,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "但是这个星期"
+    } ]
+  }, {
+    "tStartMs": 101033,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "我的语言学校放假了"
+    } ]
+  }, {
+    "tStartMs": 106066,
+    "dDurationMs": 4934,
+    "segs": [ {
+      "utf8": "然后我的女儿去幼儿园了"
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "所以这个星期我有一点空"
+    } ]
+  }, {
+    "tStartMs": 116433,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "我很久没有这样的自由时间了"
+    } ]
+  }, {
+    "tStartMs": 122633,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "所以我不想浪费"
+    } ]
+  }, {
+    "tStartMs": 126766,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "那今天我们一起做一些什么吧"
+    } ]
+  }, {
+    "tStartMs": 133566,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "首先我想写一个今天的待办事项"
+    } ]
+  }, {
+    "tStartMs": 140766,
+    "dDurationMs": 5634,
+    "segs": [ {
+      "utf8": "待办事项就是今天的计划"
+    } ]
+  }, {
+    "tStartMs": 146400,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "我今天想做什么"
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "我每天会使用一个这样的笔记本"
+    } ]
+  }, {
+    "tStartMs": 159466,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "我找一页空白"
+    } ]
+  }, {
+    "tStartMs": 163033,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "我喜欢在这里写我的周计划"
+    } ]
+  }, {
+    "tStartMs": 169833,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "然后这边你看有星期"
+    } ]
+  }, {
+    "tStartMs": 175800,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "星期一、星期二到星期天"
+    } ]
+  }, {
+    "tStartMs": 180933,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "然后我每天会在这里写"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "我这一天想做什么"
+    } ]
+  }, {
+    "tStartMs": 190766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "所以现在"
+    } ]
+  }, {
+    "tStartMs": 192800,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "我们写今天的计划"
+    } ]
+  }, {
+    "tStartMs": 210733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "if you'd like to support my work"
+    } ]
+  }, {
+    "tStartMs": 212666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "you can join as a YouTube member"
+    } ]
+  }, {
+    "tStartMs": 214966,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "you'll get early access to new videos"
+    } ]
+  }, {
+    "tStartMs": 217733,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "full transcripts and core vocabulary lists in Pinyin"
+    } ]
+  }, {
+    "tStartMs": 222333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "as well as audio files"
+    } ]
+  }, {
+    "tStartMs": 224400,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "your support means a lot to me"
+    } ]
+  }, {
+    "tStartMs": 228366,
+    "dDurationMs": 6467,
+    "segs": [ {
+      "utf8": "写完了我们来看一下我今天的计划"
+    } ]
+  }, {
+    "tStartMs": 234833,
+    "dDurationMs": 5433,
+    "segs": [ {
+      "utf8": "第一个是运动, 半个小时左右"
+    } ]
+  }, {
+    "tStartMs": 240266,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "我现在尽量每个星期"
+    } ]
+  }, {
+    "tStartMs": 244666,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "运动三次或者四次"
+    } ]
+  }, {
+    "tStartMs": 249133,
+    "dDurationMs": 7133,
+    "segs": [ {
+      "utf8": "因为今年我真的非常容易生病"
+    } ]
+  }, {
+    "tStartMs": 256266,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我觉得我的身体变差了"
+    } ]
+  }, {
+    "tStartMs": 260366,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "所以我要多运动"
+    } ]
+  }, {
+    "tStartMs": 264200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "我都是在家运动"
+    } ]
+  }, {
+    "tStartMs": 268800,
+    "dDurationMs": 6066,
+    "segs": [ {
+      "utf8": "跟着Youtube视频做一些简单的运动"
+    } ]
+  }, {
+    "tStartMs": 274866,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "然后第二件事情是回邮件"
+    } ]
+  }, {
+    "tStartMs": 282600,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "你可以给一个人写邮件"
+    } ]
+  }, {
+    "tStartMs": 287466,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "如果你收到邮件"
+    } ]
+  }, {
+    "tStartMs": 291133,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "那你要回邮件"
+    } ]
+  }, {
+    "tStartMs": 295400,
+    "dDurationMs": 6466,
+    "segs": [ {
+      "utf8": "所以我今天要回一两封邮件"
+    } ]
+  }, {
+    "tStartMs": 302466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "然后上课"
+    } ]
+  }, {
+    "tStartMs": 304600,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "今天我有一节口语课"
+    } ]
+  }, {
+    "tStartMs": 309266,
+    "dDurationMs": 6734,
+    "segs": [ {
+      "utf8": "可能很多人不知道我是中文老师"
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "但是我现在每天只有"
+    } ]
+  }, {
+    "tStartMs": 320266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "一两个小时有空"
+    } ]
+  }, {
+    "tStartMs": 323266,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "所以我现在课很少"
+    } ]
+  }, {
+    "tStartMs": 327066,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "大部分都是口语课"
+    } ]
+  }, {
+    "tStartMs": 330166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "好然后下一件事"
+    } ]
+  }, {
+    "tStartMs": 333166,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "今天我想去公园看书"
+    } ]
+  }, {
+    "tStartMs": 337433,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "因为今天天气很好"
+    } ]
+  }, {
+    "tStartMs": 340733,
+    "dDurationMs": 7733,
+    "segs": [ {
+      "utf8": "然后我想要再好好享受一下柏林的夏天"
+    } ]
+  }, {
+    "tStartMs": 348466,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "我上个月从中国买了"
+    } ]
+  }, {
+    "tStartMs": 352466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "10多本中文书寄过来"
+    } ]
+  }, {
+    "tStartMs": 356966,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "那我今天想看这本"
+    } ]
+  }, {
+    "tStartMs": 360800,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "叫《我与地坛》"
+    } ]
+  }, {
+    "tStartMs": 363866,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "然后就没有什么计划了"
+    } ]
+  }, {
+    "tStartMs": 367800,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "之后要去接我的女儿"
+    } ]
+  }, {
+    "tStartMs": 371966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "做饭等等"
+    } ]
+  }, {
+    "tStartMs": 373800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "都是一样的"
+    } ]
+  }, {
+    "tStartMs": 376633,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "好，那我要准备去运动了"
+    } ]
+  }, {
+    "tStartMs": 381966,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "那我在家运动"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "一般会用到哪些工具呢"
+    } ]
+  }, {
+    "tStartMs": 390733,
+    "dDurationMs": 5367,
+    "segs": [ {
+      "utf8": "第一个是一张瑜伽垫"
+    } ]
+  }, {
+    "tStartMs": 396533,
+    "dDurationMs": 5333,
+    "segs": [ {
+      "utf8": "然后是一对哑铃"
+    } ]
+  }, {
+    "tStartMs": 401866,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "它的重量不重"
+    } ]
+  }, {
+    "tStartMs": 405233,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "是每边1.5公斤"
+    } ]
+  }, {
+    "tStartMs": 411200,
+    "dDurationMs": 7766,
+    "segs": [ {
+      "utf8": "我练肩膀手臂和背的时候"
+    } ]
+  }, {
+    "tStartMs": 418966,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "会用这对哑铃"
+    } ]
+  }, {
+    "tStartMs": 422566,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "还有一根弹力带"
+    } ]
+  }, {
+    "tStartMs": 428400,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "这个主要是练臀的时候要用"
+    } ]
+  }, {
+    "tStartMs": 434633,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "还有运动服，当然"
+    } ]
+  }, {
+    "tStartMs": 439833,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "这是运动内衣和运动裤"
+    } ]
+  }, {
+    "tStartMs": 446933,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "很多人也叫它瑜伽裤"
+    } ]
+  }, {
+    "tStartMs": 452566,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "OK 那我现在换一身衣服"
+    } ]
+  }, {
+    "tStartMs": 478666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "运动完了"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "感觉肌肉有点酸"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "你们喜欢在家运动"
+    } ]
+  }, {
+    "tStartMs": 490400,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "还是去健身房运动呢"
+    } ]
+  }, {
+    "tStartMs": 495866,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "留言告诉我吧"
+    } ]
+  }, {
+    "tStartMs": 499233,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "现在我去喝点水"
+    } ]
+  }, {
+    "tStartMs": 506833,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "我刚刚回了邮件"
+    } ]
+  }, {
+    "tStartMs": 510400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "然后马上要上课了"
+    } ]
+  }, {
+    "tStartMs": 514566,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "得准备一下"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "因为我电脑的摄像头坏了"
+    } ]
+  }, {
+    "tStartMs": 525766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "所以我现在每次上课"
+    } ]
+  }, {
+    "tStartMs": 529200,
+    "dDurationMs": 5466,
+    "segs": [ {
+      "utf8": "只能用iphone做我的摄像头"
+    } ]
+  }, {
+    "tStartMs": 535233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看"
+    } ]
+  }, {
+    "tStartMs": 537166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "很清晰"
+    } ]
+  }, {
+    "tStartMs": 545966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "课上完了"
+    } ]
+  }, {
+    "tStartMs": 547933,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "是一节一个小时的口语课"
+    } ]
+  }, {
+    "tStartMs": 552933,
+    "dDurationMs": 6867,
+    "segs": [ {
+      "utf8": "其实我应该快一点出发去公园"
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 5266,
+    "segs": [ {
+      "utf8": "但是我有一个包裹好像要到了"
+    } ]
+  }, {
+    "tStartMs": 565066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "我不知道我应该等它"
+    } ]
+  }, {
+    "tStartMs": 569033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "还是现在出发呢"
+    } ]
+  }, {
+    "tStartMs": 572733,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "要不我等它一下？"
+    } ]
+  }, {
+    "tStartMs": 583566,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我还在等快递呢"
+    } ]
+  }, {
+    "tStartMs": 587666,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "那现在来做一个午饭吧"
+    } ]
+  }, {
+    "tStartMs": 592800,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "今天我想吃一个蛋饼"
+    } ]
+  }, {
+    "tStartMs": 597633,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "很简单"
+    } ]
+  }, {
+    "tStartMs": 599600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "需要"
+    } ]
+  }, {
+    "tStartMs": 602000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "一个鸡蛋"
+    } ]
+  }, {
+    "tStartMs": 603433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "一张卷饼"
+    } ]
+  }, {
+    "tStartMs": 605433,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "然后随便一点蔬菜"
+    } ]
+  }, {
+    "tStartMs": 615233,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哦快递"
+    } ]
+  }, {
+    "tStartMs": 626400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "快递到了"
+    } ]
+  }, {
+    "tStartMs": 628766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "终于"
+    } ]
+  }, {
+    "tStartMs": 633966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "继续"
+    } ]
+  }, {
+    "tStartMs": 640800,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "一点辣椒酱"
+    } ]
+  }, {
+    "tStartMs": 646533,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "非常快速的一个简单的午餐"
+    } ]
+  }, {
+    "tStartMs": 652666,
+    "dDurationMs": 5534,
+    "segs": [ {
+      "utf8": "我最近在努力吃得健康一点"
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "少吃零食"
+    } ]
+  }, {
+    "tStartMs": 660133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "多吃蔬菜和蛋白质"
+    } ]
+  }, {
+    "tStartMs": 665866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "吃完午饭后"
+    } ]
+  }, {
+    "tStartMs": 668066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我拆了快递"
+    } ]
+  }, {
+    "tStartMs": 671033,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "我买了一些日用品"
+    } ]
+  }, {
+    "tStartMs": 674866,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "和一个送给我女儿的玩具"
+    } ]
+  }, {
+    "tStartMs": 679833,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "顺便说一下"
+    } ]
+  }, {
+    "tStartMs": 682000,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "她非常喜欢这个新的玩具"
+    } ]
+  }, {
+    "tStartMs": 686733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "我要出发了"
+    } ]
+  }, {
+    "tStartMs": 689466,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "看一下我要带些什么"
+    } ]
+  }, {
+    "tStartMs": 694600,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "一张沙滩巾"
+    } ]
+  }, {
+    "tStartMs": 701033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "我做了一杯冰美式"
+    } ]
+  }, {
+    "tStartMs": 712366,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "一些吃的"
+    } ]
+  }, {
+    "tStartMs": 715666,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "我昨晚做的蓝莓纸杯蛋糕"
+    } ]
+  }, {
+    "tStartMs": 722566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "还有一些车厘子"
+    } ]
+  }, {
+    "tStartMs": 733233,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "还有一本书"
+    } ]
+  }, {
+    "tStartMs": 738433,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "一个日记本"
+    } ]
+  }, {
+    "tStartMs": 741600,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "一支笔"
+    } ]
+  }, {
+    "tStartMs": 746133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "好了，出发！"
+    } ]
+  }, {
+    "tStartMs": 749833,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我走路去公园"
+    } ]
+  }, {
+    "tStartMs": 753100,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "走过去大概需要10分钟"
+    } ]
+  }, {
+    "tStartMs": 758666,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "这是我选的位置"
+    } ]
+  }, {
+    "tStartMs": 762600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "在树下不会太晒了"
+    } ]
+  }, {
+    "tStartMs": 767666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "你听到风的声音了吗"
+    } ]
+  }, {
+    "tStartMs": 773000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "自然总是让人感觉很放松"
+    } ]
+  }, {
+    "tStartMs": 793166,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "我看了一会书"
+    } ]
+  }, {
+    "tStartMs": 796400,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "然后开始写日记"
+    } ]
+  }, {
+    "tStartMs": 801333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "你看"
+    } ]
+  }, {
+    "tStartMs": 803000,
+    "dDurationMs": 7166,
+    "segs": [ {
+      "utf8": "草坪、蓝天、白云、树、阳光"
+    } ]
+  }, {
+    "tStartMs": 811066,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "柏林的夏天是不是很美好"
+    } ]
+  }, {
+    "tStartMs": 815866,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "我得去幼儿园接我女儿了"
+    } ]
+  }, {
+    "tStartMs": 820766,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "自由时间结束了"
+    } ]
+  }, {
+    "tStartMs": 825466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "公园真的是一个"
+    } ]
+  }, {
+    "tStartMs": 828000,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "让人心情很好的地方"
+    } ]
+  }, {
+    "tStartMs": 831566,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "我有一点点后悔"
+    } ]
+  }, {
+    "tStartMs": 835000,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "为什么没有多一点来公园"
+    } ]
+  }, {
+    "tStartMs": 840066,
+    "dDurationMs": 4734,
+    "segs": [ {
+      "utf8": "总之今天我过得很充实"
+    } ]
+  }, {
+    "tStartMs": 844800,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "谢谢你们和我过一天"
+    } ]
+  }, {
+    "tStartMs": 849266,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "希望你们觉得我的视频有帮助"
+    } ]
+  }, {
+    "tStartMs": 854366,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "那我们下一个视频再见"
+    } ]
+  }, {
+    "tStartMs": 859133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜"
+    } ]
+  } ]
+}

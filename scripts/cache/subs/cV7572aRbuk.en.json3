@@ -1,0 +1,2917 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 966,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Hello"
+    } ]
+  }, {
+    "tStartMs": 1433,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "everyone,"
+    } ]
+  }, {
+    "tStartMs": 2300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "I'm Maomika,"
+    } ]
+  }, {
+    "tStartMs": 4066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "welcome to Chat-Chat with Monika."
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "This is a"
+    } ]
+  }, {
+    "tStartMs": 9233,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Chinese podcast for Chinese learners and enthusiasts."
+    } ]
+  }, {
+    "tStartMs": 12500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Here"
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "you will hear and learn about"
+    } ]
+  }, {
+    "tStartMs": 15366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "various topics related to Chinese and China."
+    } ]
+  }, {
+    "tStartMs": 19066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "If you are interested"
+    } ]
+  }, {
+    "tStartMs": 20700,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": ", don't miss it!"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Lately,"
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "on the Chinese internet,"
+    } ]
+  }, {
+    "tStartMs": 27900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "a new meme has appeared."
+    } ]
+  }, {
+    "tStartMs": 30900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "It's this:"
+    } ]
+  }, {
+    "tStartMs": 32166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "\"Love you, lao ji, see you tomorrow!\""
+    } ]
+  }, {
+    "tStartMs": 35700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Everyone should know what"
+    } ]
+  }, {
+    "tStartMs": 37800,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": " \"ài nǐ\" means —"
+    } ]
+  }, {
+    "tStartMs": 38433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "\"I love you\","
+    } ]
+  }, {
+    "tStartMs": 39566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "\"I love everyone\"."
+    } ]
+  }, {
+    "tStartMs": 42200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "\"Lao ji\" —"
+    } ]
+  }, {
+    "tStartMs": 43633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "\"ji\" here"
+    } ]
+  }, {
+    "tStartMs": 44233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": " refers to oneself, the \"self\"."
+    } ]
+  }, {
+    "tStartMs": 46666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Chinese people"
+    } ]
+  }, {
+    "tStartMs": 47900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "sometimes add the word \"lǎo\" (old)"
+    } ]
+  }, {
+    "tStartMs": 51466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "before a noun"
+    } ]
+  }, {
+    "tStartMs": 54166,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "to express a sense of intimacy"
+    } ]
+  }, {
+    "tStartMs": 56466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The word \"lǎo\" sounds very folksy"
+    } ]
+  }, {
+    "tStartMs": 59666,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 60200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "A little bit rustic"
+    } ]
+  }, {
+    "tStartMs": 61866,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": ", but"
+    } ]
+  }, {
+    "tStartMs": 62533,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "at the same time, it"
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "also carries a touch of intimacy."
+    } ]
+  }, {
+    "tStartMs": 67433,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 68600,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "we call our dad and mom \"lǎo bà\" (old man/dad) and \"lǎo mā\" (old lady/mom),"
+    } ]
+  }, {
+    "tStartMs": 73300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 74233,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "So \"lǎo ji\""
+    } ]
+  }, {
+    "tStartMs": 75400,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "is an affectionate way of referring to oneself as \"lǎo ji\" —"
+    } ]
+  }, {
+    "tStartMs": 80466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the \"old self\" or \"old me\" （subtitle is wrong，should be 老己）"
+    } ]
+  }, {
+    "tStartMs": 83033,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "The meme \"Love you lǎo jǐ, see you tomorrow\" suddenly became super popular"
+    } ]
+  }, {
+    "tStartMs": 87966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "mainly to express loving oneself."
+    } ]
+  }, {
+    "tStartMs": 91466,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "In every moment of hesitation and indecision,"
+    } ]
+  }, {
+    "tStartMs": 95033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "we firmly choose to stand on our own side."
+    } ]
+  }, {
+    "tStartMs": 98066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "How to use this meme"
+    } ]
+  }, {
+    "tStartMs": 99566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "on the Chinese internet?"
+    } ]
+  }, {
+    "tStartMs": 101166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Now, I"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "want to share a few ways to use this meme"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "on the Chinese internet. \"Loving yourself in daily life\""
+    } ]
+  }, {
+    "tStartMs": 107333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "means loving yourself in moments."
+    } ]
+  }, {
+    "tStartMs": 110166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 111266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "if I really want to eat hot pot for lunch today"
+    } ]
+  }, {
+    "tStartMs": 115133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": ", I ask myself,"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "\"Do you want to go eat hot pot?\""
+    } ]
+  }, {
+    "tStartMs": 119366,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "Then I take myself to eat hot pot."
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "It's about putting yourself in an objective position,"
+    } ]
+  }, {
+    "tStartMs": 127166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "separating out a new personality"
+    } ]
+  }, {
+    "tStartMs": 129633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "to treat yourself well."
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "This is the meaning of \"loving yourself.\""
+    } ]
+  }, {
+    "tStartMs": 135566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "We can also say,"
+    } ]
+  }, {
+    "tStartMs": 136733,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "\"Do you want to buy a piece of the new cake from Hema today?\""
+    } ]
+  }, {
+    "tStartMs": 142300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Then the separated personality"
+    } ]
+  }, {
+    "tStartMs": 144533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "will say to itself,"
+    } ]
+  }, {
+    "tStartMs": 146066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "\"What do you want to eat? What do you want to drink?"
+    } ]
+  }, {
+    "tStartMs": 148100,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "I'll buy it for you today!\""
+    } ]
+  }, {
+    "tStartMs": 150900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "This is also an expression of self-love."
+    } ]
+  }, {
+    "tStartMs": 153933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "This reminds me"
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "of another saying"
+    } ]
+  }, {
+    "tStartMs": 160233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "that appeared on the Chinese internet a few years ago: giving yourself some \"ritual.\""
+    } ]
+  }, {
+    "tStartMs": 163533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "For me,"
+    } ]
+  }, {
+    "tStartMs": 165033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "I feel that when I was in my twenties, I often"
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "created opportunities for myself to have this kind of ritual."
+    } ]
+  }, {
+    "tStartMs": 173033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "For example,on Children's Day (June 1st),"
+    } ]
+  }, {
+    "tStartMs": 175266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "we adults celebrate Children's Day for ourselves."
+    } ]
+  }, {
+    "tStartMs": 178133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "because even though we are no longer children"
+    } ]
+  }, {
+    "tStartMs": 181766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "but still,"
+    } ]
+  }, {
+    "tStartMs": 182466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "on Children's Day,"
+    } ]
+  }, {
+    "tStartMs": 184666,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "young people in China will go to"
+    } ]
+  }, {
+    "tStartMs": 187933,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "KFC or McDonald's to get a kids' meal set."
+    } ]
+  }, {
+    "tStartMs": 192233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Buy some toys for themselves."
+    } ]
+  }, {
+    "tStartMs": 194900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "In recent years,"
+    } ]
+  }, {
+    "tStartMs": 195700,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "these fast-food chains have also"
+    } ]
+  }, {
+    "tStartMs": 198266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "aunched, around Children's Day,"
+    } ]
+  }, {
+    "tStartMs": 201766,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "some kids' meal versions that are more adult-friendly."
+    } ]
+  }, {
+    "tStartMs": 206366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "The food inside these kids' meals"
+    } ]
+  }, {
+    "tStartMs": 209200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "isn't much different from before,"
+    } ]
+  }, {
+    "tStartMs": 211800,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "but they've come out with tons and tons of merch"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "these toys,"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "and along with that, there's also"
+    } ]
+  }, {
+    "tStartMs": 220233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "the trend that on Children's Day,"
+    } ]
+  }, {
+    "tStartMs": 221833,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Couples also often"
+    } ]
+  }, {
+    "tStartMs": 224800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "couples will go on dates,"
+    } ]
+  }, {
+    "tStartMs": 226433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "and spend the day together."
+    } ]
+  }, {
+    "tStartMs": 227833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "So I think nowadays, it's probably because"
+    } ]
+  }, {
+    "tStartMs": 232300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "everyone feels like,"
+    } ]
+  }, {
+    "tStartMs": 233600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "there are just way too many ways to have fun these days,"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "adding one more Children's Day isn't a big deal,"
+    } ]
+  }, {
+    "tStartMs": 240033,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 240833,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "For me personally,"
+    } ]
+  }, {
+    "tStartMs": 242800,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "the way I created a sense of ceremony/ritual for myself"
+    } ]
+  }, {
+    "tStartMs": 244633,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "back in my earlier years when I was still very much a consumerist,"
+    } ]
+  }, {
+    "tStartMs": 248133,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "I would, on my birthday every year,"
+    } ]
+  }, {
+    "tStartMs": 252266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "give myself a little bit of that special ritual feeling"
+    } ]
+  }, {
+    "tStartMs": 255100,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "and go take a set of photos."
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "In China, the portrait photography industry"
+    } ]
+  }, {
+    "tStartMs": 260700,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "the \"birthday photoshoot\" service has"
+    } ]
+  }, {
+    "tStartMs": 262333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "In the market,"
+    } ]
+  }, {
+    "tStartMs": 263200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "there has always been this service called “birthday portraits.”"
+    } ]
+  }, {
+    "tStartMs": 266766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "People can very easily"
+    } ]
+  }, {
+    "tStartMs": 268500,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "go online and buy a group-buy deal/package"
+    } ]
+  }, {
+    "tStartMs": 272166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and then head to a portrait studio"
+    } ]
+  }, {
+    "tStartMs": 274700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to take a full set of professional portraits."
+    } ]
+  }, {
+    "tStartMs": 278700,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "In recent years, the businesses"
+    } ]
+  }, {
+    "tStartMs": 280766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "have launched more and more services."
+    } ]
+  }, {
+    "tStartMs": 283466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "They offer all kinds of different themes."
+    } ]
+  }, {
+    "tStartMs": 286566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "So on your birthday,"
+    } ]
+  }, {
+    "tStartMs": 288166,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "going to participate in a themed photo shoot"
+    } ]
+  }, {
+    "tStartMs": 291633,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "is actually something very memorable and meaningful."
+    } ]
+  }, {
+    "tStartMs": 295033,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "I loved doing this in my early years."
+    } ]
+  }, {
+    "tStartMs": 298700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "After moving to Japan,"
+    } ]
+  }, {
+    "tStartMs": 300533,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "because I took photos every day, and with"
+    } ]
+  }, {
+    "tStartMs": 303300,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "the advancements in mobile phone functions and"
+    } ]
+  }, {
+    "tStartMs": 306033,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "the emergence of various beauty apps,"
+    } ]
+  }, {
+    "tStartMs": 309200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "everyone got used to"
+    } ]
+  }, {
+    "tStartMs": 311633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "taking beautiful"
+    } ]
+  }, {
+    "tStartMs": 314466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "photos every day and"
+    } ]
+  }, {
+    "tStartMs": 317133,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "using beauty cameras to edit them. "
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 5766,
+    "segs": [ {
+      "utf8": "With the rise of dedicated photo booths,"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "I stopped going to photo studios for portrait sessions."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "Later,"
+    } ]
+  }, {
+    "tStartMs": 330033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "on my birthday,"
+    } ]
+  }, {
+    "tStartMs": 331800,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "I would buy myself a dessert ."
+    } ]
+  }, {
+    "tStartMs": 335233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "This dessert"
+    } ]
+  }, {
+    "tStartMs": 336566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "might seem a little too sweet for everyday eating"
+    } ]
+  }, {
+    "tStartMs": 339766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": ", but I only get to enjoy it on my birthday."
+    } ]
+  }, {
+    "tStartMs": 342766,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It's not particularly delicious"
+    } ]
+  }, {
+    "tStartMs": 346466,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": ", but when it's exquisitely made,"
+    } ]
+  }, {
+    "tStartMs": 350266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "I still find it very memorable."
+    } ]
+  }, {
+    "tStartMs": 353566,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "I remember"
+    } ]
+  }, {
+    "tStartMs": 354500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "during my time in Japan"
+    } ]
+  }, {
+    "tStartMs": 356100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I would often go to this French dessert shop."
+    } ]
+  }, {
+    "tStartMs": 360400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "haha"
+    } ]
+  }, {
+    "tStartMs": 362033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "This shop is most famous for its"
+    } ]
+  }, {
+    "tStartMs": 363666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "macarons."
+    } ]
+  }, {
+    "tStartMs": 367333,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "The brand is called Ladurée"
+    } ]
+  }, {
+    "tStartMs": 370600,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ladurée,"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "right? Is that how it's pronounced?"
+    } ]
+  }, {
+    "tStartMs": 372866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Is that how it's said in French?"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Ladurée is incredibly popular in Japan."
+    } ]
+  }, {
+    "tStartMs": 378500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Back when it was even more hyped in the early years,"
+    } ]
+  }, {
+    "tStartMs": 381200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "they even launched a beauty line."
+    } ]
+  }, {
+    "tStartMs": 383566,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "Among the products that Chinese girls would go crazy buying in Japan,"
+    } ]
+  }, {
+    "tStartMs": 386800,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "there was definitely Ladurée's petal blush."
+    } ]
+  }, {
+    "tStartMs": 390766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "During my time living in Japan,"
+    } ]
+  }, {
+    "tStartMs": 393133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "every year on my birthday,"
+    } ]
+  }, {
+    "tStartMs": 394900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "I would go to Ladurée and buy a box of macarons."
+    } ]
+  }, {
+    "tStartMs": 398766,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "You might ask, are they delicious?"
+    } ]
+  }, {
+    "tStartMs": 400600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They're just average"
+    } ]
+  }, {
+    "tStartMs": 401666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": ", but I feel"
+    } ]
+  }, {
+    "tStartMs": 402766,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "it's a ritual for myself"
+    } ]
+  }, {
+    "tStartMs": 407900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": ", and I share a box of different flavored macarons"
+    } ]
+  }, {
+    "tStartMs": 411433,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "with my friends."
+    } ]
+  }, {
+    "tStartMs": 413966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I remember the first year I went to Germany,"
+    } ]
+  }, {
+    "tStartMs": 416866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I specifically adjusted my flight schedule,"
+    } ]
+  }, {
+    "tStartMs": 419766,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "to keep up with the birthday ritual"
+    } ]
+  }, {
+    "tStartMs": 423066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "that I already had before."
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I specifically flew to Paris to spend my birthday there."
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Then on my birthday,"
+    } ]
+  }, {
+    "tStartMs": 430566,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "I went to the Ladurée store in Paris, France,"
+    } ]
+  }, {
+    "tStartMs": 434633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "and bought a box of macarons."
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Around me now,"
+    } ]
+  }, {
+    "tStartMs": 437966,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "I have some macaron-themed products,"
+    } ]
+  }, {
+    "tStartMs": 441666,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "because... The design of these macarons is so cute!"
+    } ]
+  }, {
+    "tStartMs": 444966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "In Japan,"
+    } ]
+  }, {
+    "tStartMs": 446133,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "they've been made into all sorts of products"
+    } ]
+  }, {
+    "tStartMs": 449566,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "and collaborated with other brands to release many related merchandise items."
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Right now,"
+    } ]
+  }, {
+    "tStartMs": 455366,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "I still keep one of the Ladurée peripheral products I bought back then."
+    } ]
+  }, {
+    "tStartMs": 459300,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I want to share it with everyone."
+    } ]
+  }, {
+    "tStartMs": 462300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "This is a box of macarons."
+    } ]
+  }, {
+    "tStartMs": 465033,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Actually,"
+    } ]
+  }, {
+    "tStartMs": 465733,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "the packaging for the macarons you eat"
+    } ]
+  }, {
+    "tStartMs": 467700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "is exactly the same"
+    } ]
+  }, {
+    "tStartMs": 470200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "as this, just a little bigger."
+    } ]
+  }, {
+    "tStartMs": 473333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "As you can see,"
+    } ]
+  }, {
+    "tStartMs": 474566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "this is a box"
+    } ]
+  }, {
+    "tStartMs": 476333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": ". Let me show you."
+    } ]
+  }, {
+    "tStartMs": 481100,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "Inside, there"
+    } ]
+  }, {
+    "tStartMs": 482366,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "are three different colors of macarons."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "I'll take one out to show you."
+    } ]
+  }, {
+    "tStartMs": 491733,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "This one is"
+    } ]
+  }, {
+    "tStartMs": 492833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "shaped exactly like an edible macaron."
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "Today I'm leaving a little suspense,"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I'm leaving a question for everyone."
+    } ]
+  }, {
+    "tStartMs": 505433,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "You can guess"
+    } ]
+  }, {
+    "tStartMs": 507266,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "what this macaron-shaped item in the box is?"
+    } ]
+  }, {
+    "tStartMs": 513933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "It has three colors, and"
+    } ]
+  }, {
+    "tStartMs": 515666,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "The size is exactly the same as a real macaron."
+    } ]
+  }, {
+    "tStartMs": 521933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "I'm looking forward to hearing your answers!"
+    } ]
+  }, {
+    "tStartMs": 523866,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "You can leave a comment in my comment section to tell me,"
+    } ]
+  }, {
+    "tStartMs": 527400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "guess what this is?"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Haha."
+    } ]
+  }, {
+    "tStartMs": 531066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "This is a product I bought before"
+    } ]
+  }, {
+    "tStartMs": 534466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": ", but I think it's so cute that"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I haven't opened it yet."
+    } ]
+  }, {
+    "tStartMs": 538833,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 539466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "eating macarons"
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "had always been, up until then,"
+    } ]
+  }, {
+    "tStartMs": 542700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "a fixed part of my birthday routine."
+    } ]
+  }, {
+    "tStartMs": 545600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But this fixed tradition,"
+    } ]
+  }, {
+    "tStartMs": 547700,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "when did this sense of ritual get broken for me?"
+    } ]
+  }, {
+    "tStartMs": 552266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "Actually, it was during that very same trip"
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "to Paris, France."
+    } ]
+  }, {
+    "tStartMs": 559100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Because on my first trip to Paris,"
+    } ]
+  }, {
+    "tStartMs": 560900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "I ate macarons on the very first day,"
+    } ]
+  }, {
+    "tStartMs": 563433,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "and on the second day,"
+    } ]
+  }, {
+    "tStartMs": 564400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": ", and the day after my birthday,"
+    } ]
+  }, {
+    "tStartMs": 567666,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "I went to Disneyland Paris to have fun."
+    } ]
+  }, {
+    "tStartMs": 571366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I went to Disneyland with a"
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "good friend from Mexico"
+    } ]
+  }, {
+    "tStartMs": 576600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": ". Disneyland"
+    } ]
+  }, {
+    "tStartMs": 577733,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "isn't very unfamiliar to friends in China and Japan"
+    } ]
+  }, {
+    "tStartMs": 581700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "because I live in Suzhou"
+    } ]
+  }, {
+    "tStartMs": 583300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and in Suzhou,"
+    } ]
+  }, {
+    "tStartMs": 584600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "There's a subway line in Suzhou"
+    } ]
+  }, {
+    "tStartMs": 587466,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "that directly connects to Shanghai Disneyland"
+    } ]
+  }, {
+    "tStartMs": 590866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": ". I'll talk about this subway line"
+    } ]
+  }, {
+    "tStartMs": 593100,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "in a future podcast"
+    } ]
+  }, {
+    "tStartMs": 595866,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "because many of my youthful stories"
+    } ]
+  }, {
+    "tStartMs": 598300,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "are connected to this subway line."
+    } ]
+  }, {
+    "tStartMs": 601866,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "I don't know why"
+    } ]
+  }, {
+    "tStartMs": 603100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ", but ever since I spent my birthday"
+    } ]
+  }, {
+    "tStartMs": 605700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "at Disneyland Paris ,"
+    } ]
+  }, {
+    "tStartMs": 609566,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": " I've decided to go to Disneyland "
+    } ]
+  }, {
+    "tStartMs": 612400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "every year on my birthday. "
+    } ]
+  }, {
+    "tStartMs": 614866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Speaking of Disneyland, "
+    } ]
+  }, {
+    "tStartMs": 616633,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "actually, while I was living in Japan,"
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "I bought a Disney annual pass"
+    } ]
+  }, {
+    "tStartMs": 621733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": ". Tokyo"
+    } ]
+  }, {
+    "tStartMs": 622566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "has two Disney parks,"
+    } ]
+  }, {
+    "tStartMs": 625900,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "and I bought one"
+    } ]
+  }, {
+    "tStartMs": 627766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "that allowed access to both."
+    } ]
+  }, {
+    "tStartMs": 630766,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "I especially remember that in my second year living in Tokyo"
+    } ]
+  }, {
+    "tStartMs": 633700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "when I had already gotten used to life in Tokyo,"
+    } ]
+  }, {
+    "tStartMs": 636733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "going to language school every day,"
+    } ]
+  }, {
+    "tStartMs": 638900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "going to cram school (juku) every day,"
+    } ]
+  }, {
+    "tStartMs": 640700,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": ", and continued running my shop."
+    } ]
+  }, {
+    "tStartMs": 643666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "At this point,"
+    } ]
+  }, {
+    "tStartMs": 644833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "in the midst of all that busyness,"
+    } ]
+  }, {
+    "tStartMs": 646500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "I wanted to give myself"
+    } ]
+  }, {
+    "tStartMs": 648066,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "a little daily ritual "
+    } ]
+  }, {
+    "tStartMs": 652600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": ". So, after a few trips to Disney with friends,"
+    } ]
+  }, {
+    "tStartMs": 655800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I decided to buy an annual pass."
+    } ]
+  }, {
+    "tStartMs": 658300,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "With the annual pass,"
+    } ]
+  }, {
+    "tStartMs": 659433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I wouldn't go during the daytime,"
+    } ]
+  }, {
+    "tStartMs": 660833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "because the park is super crowded during the day."
+    } ]
+  }, {
+    "tStartMs": 663033,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Disney really has so many people,"
+    } ]
+  }, {
+    "tStartMs": 665100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "you have to queue for every single ride."
+    } ]
+  }, {
+    "tStartMs": 667566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "I often, after a busy day,"
+    } ]
+  }, {
+    "tStartMs": 670633,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "around 5 or 6 pm,"
+    } ]
+  }, {
+    "tStartMs": 673333,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "when everyone else is rushing home for dinner"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "and family reunions,"
+    } ]
+  }, {
+    "tStartMs": 679900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I'll head to Disney alone."
+    } ]
+  }, {
+    "tStartMs": 683366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "From Suginami-ku where I live, to"
+    } ]
+  }, {
+    "tStartMs": 686300,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "Maihama-eki where Disney is located,"
+    } ]
+  }, {
+    "tStartMs": 689400,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "I'll watch the fireworks at Disney in the evening"
+    } ]
+  }, {
+    "tStartMs": 694733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and then head home early."
+    } ]
+  }, {
+    "tStartMs": 696100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Since buying the Disney annual pass,"
+    } ]
+  }, {
+    "tStartMs": 698500,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "I'm no longer restricted by when I go,"
+    } ]
+  }, {
+    "tStartMs": 701733,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "so I often go to Disney at night,"
+    } ]
+  }, {
+    "tStartMs": 704666,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "especially in the summer."
+    } ]
+  }, {
+    "tStartMs": 707133,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "After watching the fireworks, I take the train home alone"
+    } ]
+  }, {
+    "tStartMs": 710366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Ah! That felt like completing the day."
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "I'm an \"e\" person."
+    } ]
+  }, {
+    "tStartMs": 713066,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I've always been an \"e\" person. "
+    } ]
+  }, {
+    "tStartMs": 715100,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "An \"e\" person"
+    } ]
+  }, {
+    "tStartMs": 715666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "needs to draw energy from crowds"
+    } ]
+  }, {
+    "tStartMs": 719900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": ", but I'm also an \"e\" person who enjoys solitude."
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 723833,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "I especially love being alone in crowds"
+    } ]
+  }, {
+    "tStartMs": 727700,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": ", especially in places like Disneyland, which are full of joy."
+    } ]
+  }, {
+    "tStartMs": 732333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I remember"
+    } ]
+  }, {
+    "tStartMs": 733533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "often finding a spot"
+    } ]
+  }, {
+    "tStartMs": 735500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "in a corner of Disneyland"
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": ", sitting on a bench"
+    } ]
+  }, {
+    "tStartMs": 740533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": ", eating ice cream alone"
+    } ]
+  }, {
+    "tStartMs": 742900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": ", and watching the Japanese high school students"
+    } ]
+  }, {
+    "tStartMs": 745733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "and tourists"
+    } ]
+  }, {
+    "tStartMs": 747200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "around me chattering"
+    } ]
+  }, {
+    "tStartMs": 748433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "excitedly , saying"
+    } ]
+  }, {
+    "tStartMs": 749933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "things like \"ah~ kirei (beautiful)~ kirei.\""
+    } ]
+  }, {
+    "tStartMs": 752900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "That made me feel really happy;"
+    } ]
+  }, {
+    "tStartMs": 755433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "it was one of my sources of energy."
+    } ]
+  }, {
+    "tStartMs": 757933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "After I went to Europe, "
+    } ]
+  }, {
+    "tStartMs": 760466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Paris was still a bit too far"
+    } ]
+  }, {
+    "tStartMs": 762133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "for me, so"
+    } ]
+  }, {
+    "tStartMs": 763900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "I could only go to"
+    } ]
+  }, {
+    "tStartMs": 767433,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Disneyland Paris or Hong Kong Disneyland for my birthday each year"
+    } ]
+  }, {
+    "tStartMs": 772666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": ". When I returned to China,"
+    } ]
+  }, {
+    "tStartMs": 774800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Shanghai Disneyland, although it's far away"
+    } ]
+  }, {
+    "tStartMs": 776666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": ", is where we are... Transportation is quite convenient."
+    } ]
+  }, {
+    "tStartMs": 779500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "At that point,"
+    } ]
+  }, {
+    "tStartMs": 780633,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "I would also go to Disney for my birthday every year."
+    } ]
+  }, {
+    "tStartMs": 784066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Last year,"
+    } ]
+  }, {
+    "tStartMs": 785033,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I took my mom to Disneyland for the first time"
+    } ]
+  }, {
+    "tStartMs": 788800,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "and we went crazy riding all the attractions together."
+    } ]
+  }, {
+    "tStartMs": 792633,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "I really enjoy it."
+    } ]
+  }, {
+    "tStartMs": 793966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "What makes me happiest when going to Disney is queuing up"
+    } ]
+  }, {
+    "tStartMs": 797700,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "to ride those thrilling rides over and over again."
+    } ]
+  }, {
+    "tStartMs": 801700,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "because I enjoy that"
+    } ]
+  }, {
+    "tStartMs": 803333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "adrenaline rush feeling."
+    } ]
+  }, {
+    "tStartMs": 806633,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "And then,"
+    } ]
+  }, {
+    "tStartMs": 807300,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Actually"
+    } ]
+  }, {
+    "tStartMs": 808133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "there's another great perk to going to Disney alone:"
+    } ]
+  }, {
+    "tStartMs": 811233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "that is,"
+    } ]
+  }, {
+    "tStartMs": 813333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "they often have single rider lines."
+    } ]
+  }, {
+    "tStartMs": 816733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "When families or"
+    } ]
+  }, {
+    "tStartMs": 819600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "groups go together "
+    } ]
+  }, {
+    "tStartMs": 821300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "with an odd number of people,"
+    } ]
+  }, {
+    "tStartMs": 822700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": ", three or five people),"
+    } ]
+  }, {
+    "tStartMs": 824733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "and since the ride vehicles "
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "usually seat even numbers,"
+    } ]
+  }, {
+    "tStartMs": 828433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "At that point, a spot opens up."
+    } ]
+  }, {
+    "tStartMs": 832100,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 832833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "when you're alone, "
+    } ]
+  }, {
+    "tStartMs": 834400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "you can snag that single rider spot"
+    } ]
+  }, {
+    "tStartMs": 835800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "and enjoy the fun of"
+    } ]
+  }, {
+    "tStartMs": 837466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "not having to wait two or three hours in line,"
+    } ]
+  }, {
+    "tStartMs": 839700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "getting to ride the attraction much faster."
+    } ]
+  }, {
+    "tStartMs": 843933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 844833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "ah,"
+    } ]
+  }, {
+    "tStartMs": 845666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I really love going alone."
+    } ]
+  }, {
+    "tStartMs": 847400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "I also really love buying the annual pass,"
+    } ]
+  }, {
+    "tStartMs": 849200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "because... I just wanted to experience that thrill."
+    } ]
+  }, {
+    "tStartMs": 854633,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Last year,"
+    } ]
+  }, {
+    "tStartMs": 855233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I took my mom to Disneyland together."
+    } ]
+  }, {
+    "tStartMs": 858733,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "My parents"
+    } ]
+  }, {
+    "tStartMs": 859800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "can't handle those kinds of thrill rides."
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "they just can't take it."
+    } ]
+  }, {
+    "tStartMs": 863333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "We have a local amusement park in Suzhou too,"
+    } ]
+  }, {
+    "tStartMs": 866200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "another theme park,"
+    } ]
+  }, {
+    "tStartMs": 867633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "my parents had been there once before"
+    } ]
+  }, {
+    "tStartMs": 870233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": ", but they just couldn't handle the thrills,"
+    } ]
+  }, {
+    "tStartMs": 873700,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "so they always refused to"
+    } ]
+  }, {
+    "tStartMs": 875466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "spend money to go to Disneyland."
+    } ]
+  }, {
+    "tStartMs": 877333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "But last year, for my birthday,"
+    } ]
+  }, {
+    "tStartMs": 879400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I took my mom to Shanghai Disneyland."
+    } ]
+  }, {
+    "tStartMs": 883266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "During the whole trip,"
+    } ]
+  }, {
+    "tStartMs": 886200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "my mom and I often went on the side trips"
+    } ]
+  }, {
+    "tStartMs": 888966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "because I wanted to ride as many rides as possible."
+    } ]
+  }, {
+    "tStartMs": 890466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I wanted to repeatedly feel"
+    } ]
+  }, {
+    "tStartMs": 892566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "that adrenaline rush again and again."
+    } ]
+  }, {
+    "tStartMs": 895333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I just wanted to fully enjoy that thrilling sensation."
+    } ]
+  }, {
+    "tStartMs": 897666,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "So my mom and I would often split up and go separately."
+    } ]
+  }, {
+    "tStartMs": 901600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "When we were in line,"
+    } ]
+  }, {
+    "tStartMs": 903066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "if the staff asked,"
+    } ]
+  }, {
+    "tStartMs": 904933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "\"Is anyone alone?\""
+    } ]
+  }, {
+    "tStartMs": 906533,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I would raise my hand"
+    } ]
+  }, {
+    "tStartMs": 907633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "and say, \"Me alone!\""
+    } ]
+  }, {
+    "tStartMs": 908800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Hahaha,"
+    } ]
+  }, {
+    "tStartMs": 911033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "my mom would also say \"me alone"
+    } ]
+  }, {
+    "tStartMs": 912233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "At that point, it's just that my mom and I"
+    } ]
+  }, {
+    "tStartMs": 914666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "aren't sitting in the same row,"
+    } ]
+  }, {
+    "tStartMs": 917066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "but we can ride super fast!"
+    } ]
+  }, {
+    "tStartMs": 919800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "I especially remember"
+    } ]
+  }, {
+    "tStartMs": 920633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "that we entered the park at 10 am"
+    } ]
+  }, {
+    "tStartMs": 923166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "and didn't go home until closing time."
+    } ]
+  }, {
+    "tStartMs": 926666,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "We probably went on more than ten rides in between."
+    } ]
+  }, {
+    "tStartMs": 930300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "My mom was"
+    } ]
+  }, {
+    "tStartMs": 931100,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "actually enduring it the whole time,"
+    } ]
+  }, {
+    "tStartMs": 933766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "but she couldn't take it anymore."
+    } ]
+  }, {
+    "tStartMs": 936066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "The reason she couldn't take it was because"
+    } ]
+  }, {
+    "tStartMs": 937833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "these rides were just too thrilling."
+    } ]
+  }, {
+    "tStartMs": 941100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Her head was constantly spinning, and she felt like"
+    } ]
+  }, {
+    "tStartMs": 944100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "she was going to throw up."
+    } ]
+  }, {
+    "tStartMs": 945366,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "She felt like she was getting carsick or airsick."
+    } ]
+  }, {
+    "tStartMs": 949133,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "After we finished the last ride,"
+    } ]
+  }, {
+    "tStartMs": 953533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "my mom got off the machine"
+    } ]
+  }, {
+    "tStartMs": 956233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and ran to the trash can and"
+    } ]
+  }, {
+    "tStartMs": 959033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "finally threw up."
+    } ]
+  }, {
+    "tStartMs": 960633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Hahaha"
+    } ]
+  }, {
+    "tStartMs": 963866,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": ", I don't know"
+    } ]
+  }, {
+    "tStartMs": 964866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "if taking my mom out for fun or torture."
+    } ]
+  }, {
+    "tStartMs": 967433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "But my mom told me"
+    } ]
+  }, {
+    "tStartMs": 968633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "that it was a very happy day for her,"
+    } ]
+  }, {
+    "tStartMs": 971866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "even though she threw up."
+    } ]
+  }, {
+    "tStartMs": 973233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "She still felt happy"
+    } ]
+  }, {
+    "tStartMs": 975633,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "because before, when I lived with my parents,"
+    } ]
+  }, {
+    "tStartMs": 978700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "we had a ton of toys"
+    } ]
+  }, {
+    "tStartMs": 981900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "and I used to love collecting Disney toys"
+    } ]
+  }, {
+    "tStartMs": 985033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and merchandise."
+    } ]
+  }, {
+    "tStartMs": 986366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "My mom has always been"
+    } ]
+  }, {
+    "tStartMs": 988733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "very familiar with them"
+    } ]
+  }, {
+    "tStartMs": 990133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": ". Although she's never been to Disneyland"
+    } ]
+  }, {
+    "tStartMs": 991766,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": ", she knows all the Disney"
+    } ]
+  }, {
+    "tStartMs": 993300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "characters very well"
+    } ]
+  }, {
+    "tStartMs": 997066,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "because she's seen them countless times at home."
+    } ]
+  }, {
+    "tStartMs": 1000166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "So when she first had the chance"
+    } ]
+  }, {
+    "tStartMs": 1002733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "to enter the Disneyland park"
+    } ]
+  }, {
+    "tStartMs": 1005133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "and found those familiar characters"
+    } ]
+  }, {
+    "tStartMs": 1008000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "filling the entire park,"
+    } ]
+  }, {
+    "tStartMs": 1010700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "she felt a sense of familiarity"
+    } ]
+  }, {
+    "tStartMs": 1013066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and a strange sense of warmth."
+    } ]
+  }, {
+    "tStartMs": 1015766,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1016300,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "even though my mom threw up near closing time"
+    } ]
+  }, {
+    "tStartMs": 1021400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "but she"
+    } ]
+  }, {
+    "tStartMs": 1022866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "even up to this day,"
+    } ]
+  }, {
+    "tStartMs": 1024200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "often tells me,"
+    } ]
+  }, {
+    "tStartMs": 1026333,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "ah！"
+    } ]
+  }, {
+    "tStartMs": 1026700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "Going to Disneyland was a great experience! "
+    } ]
+  }, {
+    "tStartMs": 1028966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "I had a wonderful time there"
+    } ]
+  }, {
+    "tStartMs": 1031000,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "ah～"
+    } ]
+  }, {
+    "tStartMs": 1031466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "So I'm thinking about whether I should go to Disneyland"
+    } ]
+  }, {
+    "tStartMs": 1033766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "with my mom every"
+    } ]
+  }, {
+    "tStartMs": 1036466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "year in the future."
+    } ]
+  }, {
+    "tStartMs": 1040066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "mm"
+    } ]
+  }, {
+    "tStartMs": 1041166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "you guys have this kind of ritualistic feeling?"
+    } ]
+  }, {
+    "tStartMs": 1043966,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "What kind of rituals"
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "do you provide for yourselves on fixed holidays each year?"
+    } ]
+  }, {
+    "tStartMs": 1050566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Of course, I think that wanting to love yourself"
+    } ]
+  }, {
+    "tStartMs": 1053633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "and accept yourself"
+    } ]
+  }, {
+    "tStartMs": 1054833,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "doesn't necessarily mean spending money on yourself."
+    } ]
+  }, {
+    "tStartMs": 1058133,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "It's more about giving yourself an opportunity"
+    } ]
+  }, {
+    "tStartMs": 1061700,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "to listen to your inner voice"
+    } ]
+  }, {
+    "tStartMs": 1065266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "and accompany yourself to do what you really want to do,"
+    } ]
+  }, {
+    "tStartMs": 1068633,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "even if it's just spending each day in an ordinary way."
+    } ]
+  }, {
+    "tStartMs": 1072300,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "I think doing this podcast"
+    } ]
+  }, {
+    "tStartMs": 1075100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "is also a kind of \"love you lao ji\" expression."
+    } ]
+  }, {
+    "tStartMs": 1079600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "I've always been"
+    } ]
+  }, {
+    "tStartMs": 1081333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "someone who likes to talk to myself."
+    } ]
+  }, {
+    "tStartMs": 1083933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "I used to"
+    } ]
+  }, {
+    "tStartMs": 1085433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "be a little strange."
+    } ]
+  }, {
+    "tStartMs": 1088133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I'm the kind of"
+    } ]
+  }, {
+    "tStartMs": 1090600,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "person who would sit on the toilet and suddenly have a conversation with myself."
+    } ]
+  }, {
+    "tStartMs": 1093733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It feels like a separate"
+    } ]
+  }, {
+    "tStartMs": 1095333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "personality of mine would talk to me."
+    } ]
+  }, {
+    "tStartMs": 1098166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "I would imagine"
+    } ]
+  }, {
+    "tStartMs": 1099133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "someone sitting across from me interviewing me,"
+    } ]
+  }, {
+    "tStartMs": 1101666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "and I would answer:"
+    } ]
+  }, {
+    "tStartMs": 1103233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "\"What I'm doing right now,\""
+    } ]
+  }, {
+    "tStartMs": 1105000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "\"Why I want to do this,\""
+    } ]
+  }, {
+    "tStartMs": 1107366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "\"How far have I gotten from this?\""
+    } ]
+  }, {
+    "tStartMs": 1110266,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "I often sit on the toilet and talk to myself."
+    } ]
+  }, {
+    "tStartMs": 1115100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Sometimes,"
+    } ]
+  }, {
+    "tStartMs": 1116300,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "people outside my bathroom"
+    } ]
+  }, {
+    "tStartMs": 1119533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "hear me talking inside"
+    } ]
+  }, {
+    "tStartMs": 1122333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "and suddenly ask,"
+    } ]
+  }, {
+    "tStartMs": 1123733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "\"What are you talking about?\""
+    } ]
+  }, {
+    "tStartMs": 1125233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "But actually, I'm talking to myself."
+    } ]
+  }, {
+    "tStartMs": 1128633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "I used to think this"
+    } ]
+  }, {
+    "tStartMs": 1131066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "was a little strange"
+    } ]
+  }, {
+    "tStartMs": 1132633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": ", but later,"
+    } ]
+  }, {
+    "tStartMs": 1134333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "especially"
+    } ]
+  }, {
+    "tStartMs": 1135966,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "after I started making podcasts,"
+    } ]
+  }, {
+    "tStartMs": 1138433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "I realized that podcasts"
+    } ]
+  }, {
+    "tStartMs": 1140866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "are also a form of self-dialogue."
+    } ]
+  }, {
+    "tStartMs": 1144566,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "Of course,"
+    } ]
+  }, {
+    "tStartMs": 1145033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I feel lucky"
+    } ]
+  }, {
+    "tStartMs": 1146333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "to have you all with me"
+    } ]
+  }, {
+    "tStartMs": 1147766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": ", but more than that,"
+    } ]
+  }, {
+    "tStartMs": 1149033,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "I'm just continuing this format."
+    } ]
+  }, {
+    "tStartMs": 1152733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "It's a way of loving myself"
+    } ]
+  }, {
+    "tStartMs": 1155466,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": ", and talking to myself"
+    } ]
+  }, {
+    "tStartMs": 1157600,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "is a gentle form of self-acceptance."
+    } ]
+  }, {
+    "tStartMs": 1161200,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "So, \"love you lao ji\""
+    } ]
+  }, {
+    "tStartMs": 1164066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "isn't a new meme for me;"
+    } ]
+  }, {
+    "tStartMs": 1165900,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "it's just a different version of"
+    } ]
+  }, {
+    "tStartMs": 1169300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "what I say to myself every day"
+    } ]
+  }, {
+    "tStartMs": 1172466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": ", a way of treating"
+    } ]
+  }, {
+    "tStartMs": 1174466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and loving myself."
+    } ]
+  }, {
+    "tStartMs": 1177200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 1178000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "how do you love yourself?"
+    } ]
+  }, {
+    "tStartMs": 1181100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "What kind of rituals do you prepare for yourself ?"
+    } ]
+  }, {
+    "tStartMs": 1185966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "I look forward to hearing your answers."
+    } ]
+  }, {
+    "tStartMs": 1188033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "If you like my video,"
+    } ]
+  }, {
+    "tStartMs": 1190000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "please leave a comment, like, and subscribe to my channel."
+    } ]
+  }, {
+    "tStartMs": 1194233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Okay,"
+    } ]
+  }, {
+    "tStartMs": 1195366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "that's all for today."
+    } ]
+  }, {
+    "tStartMs": 1197800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Thank you for watching"
+    } ]
+  }, {
+    "tStartMs": 1199433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "and for your company"
+    } ]
+  }, {
+    "tStartMs": 1200966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": ". See you in the next video!"
+    } ]
+  }, {
+    "tStartMs": 1203966,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "Love you all,"
+    } ]
+  }, {
+    "tStartMs": 1204700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "friends."
+    } ]
+  }, {
+    "tStartMs": 1205533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "See you next time,"
+    } ]
+  }, {
+    "tStartMs": 1206566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "bye!"
+    } ]
+  } ]
+}

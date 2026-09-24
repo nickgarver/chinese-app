@@ -1,0 +1,763 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 18733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "dà jiā rèn shi zhè liǎng gè zì ma\n大 家  认  识  这  两    个 字 吗"
+    } ]
+  }, {
+    "tStartMs": 21933,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "nà jiù shì “ fàn diàn ”\n那 就  是  “ 饭  店   ”"
+    } ]
+  }, {
+    "tStartMs": 28033,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "jīn tiān wǒ lái dào le yì jiā tè bié de fàn diàn chī fàn\n今  天   我 来  到  了 一 家  特 别  的 饭  店   吃  饭 "
+    } ]
+  }, {
+    "tStartMs": 33200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "zhè jiā fàn diàn tè bié huǒ\n这  家  饭  店   特 别  火 "
+    } ]
+  }, {
+    "tStartMs": 35833,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "bié kàn tā de yàng zi hǎo xiàng méi shén me tè bié\n别  看  它 的 样   子 好  像    没  什   么 特 别 "
+    } ]
+  }, {
+    "tStartMs": 39700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "yě bù zǎ piào liang\n也 不 咋 漂   亮   "
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "dàn shì pái duì chī fàn de rén hěn duō\n但  是  排  队  吃  饭  的 人  很  多 "
+    } ]
+  }, {
+    "tStartMs": 47600,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "nà wǒ men xiàn zài jiù jìn qù kàn kàn ba\n那 我 们  现   在  就  进  去 看  看  吧"
+    } ]
+  }, {
+    "tStartMs": 68133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "kōng tiáo shàn\n空   调   扇  "
+    } ]
+  }, {
+    "tStartMs": 70300,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "zuì jìn de tiān qì shí zài shì tài rè le\n最  近  的 天   气 实  在  是  太  热 了"
+    } ]
+  }, {
+    "tStartMs": 73466,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "méi yǒu fēng shàn 、 méi yǒu kōng tiáo gēn běn huó bù liǎo ya\n没  有  风   扇   、 没  有  空   调   根  本  活  不 了   呀"
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 7333,
+    "segs": [ {
+      "utf8": "yí jìn mén kǒu jiù kàn dào le zhè xiē fēi cháng chuán tǒng de bǎi shè\n一 进  门  口  就  看  到  了 这  些  非  常    传    统   的 摆  设 "
+    } ]
+  }, {
+    "tStartMs": 90333,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "hěn shǎo zài fàn diàn kě yǐ kàn dào zhè xiē bǎi shè\n很  少   在  饭  店   可 以 看  到  这  些  摆  设 "
+    } ]
+  }, {
+    "tStartMs": 95500,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "yīn wèi zhè shì yì jiā nóng cūn lǐ de fàn diàn\n因  为  这  是  一 家  农   村  里 的 饭  店  "
+    } ]
+  }, {
+    "tStartMs": 99533,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "suǒ yǐ jiù yǒu le zhè xiē bǎi shè\n所  以 就  有  了 这  些  摆  设 "
+    } ]
+  }, {
+    "tStartMs": 103233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "wǒ jué de hái mán yǒu tè sè de\n我 觉  得 还  蛮  有  特 色 的"
+    } ]
+  }, {
+    "tStartMs": 109200,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "zhè shì yí bù kě yǐ zū jiè chōng diàn bǎo de jī qì\n这  是  一 部 可 以 租 借  充    电   宝  的 机 器"
+    } ]
+  }, {
+    "tStartMs": 117633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "chōng diàn bǎo\n充    电   宝 "
+    } ]
+  }, {
+    "tStartMs": 120100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ de shǒu jī méi diàn le\n如 果  你 的 手   机 没  电   了"
+    } ]
+  }, {
+    "tStartMs": 122100,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "kě yǐ zài zhè lǐ zū jiè chōng diàn bǎo\n可 以 在  这  里 租 借  充    电   宝 "
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "zhè ge shuǐ guǒ dà jiā kàn dé chū lái ma\n这  个 水   果  大 家  看  得 出  来  吗"
+    } ]
+  }, {
+    "tStartMs": 136433,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "bō luó ， yīn wèi zhè ge dì fāng de shuǐ guǒ\n菠 萝  ， 因  为  这  个 地 方   的 水   果 "
+    } ]
+  }, {
+    "tStartMs": 140233,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "zuì yǒu míng de jiù shì bō luó le\n最  有  名   的 就  是  菠 萝  了"
+    } ]
+  }, {
+    "tStartMs": 145533,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "zhè ge fàn diàn de mén kǒu duì miàn yǒu yí gè xiǎo tān\n这  个 饭  店   的 门  口  对  面   有  一 个 小   摊 "
+    } ]
+  }, {
+    "tStartMs": 150833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "jiù shì mài yì xiē shuǐ guǒ\n就  是  卖  一 些  水   果 "
+    } ]
+  }, {
+    "tStartMs": 153233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "hái yǒu xiǎo chī\n还  有  小   吃 "
+    } ]
+  }, {
+    "tStartMs": 154833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "hái yǒu tā men zì jǐ jiā zhǒng de dōng xī\n还  有  他 们  自 己 家  种    的 东   西"
+    } ]
+  }, {
+    "tStartMs": 157333,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "bǐ fāng shuō ， níng méng a ， xiāng jiāo a\n比 方   说   ， 柠   檬   啊 ， 香    蕉   啊"
+    } ]
+  }, {
+    "tStartMs": 160766,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "shēng yì hái tǐng hǎo de\n生    意 还  挺   好  的"
+    } ]
+  }, {
+    "tStartMs": 167700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "zài zhè ge fàn diàn lǐ\n在  这  个 饭  店   里"
+    } ]
+  }, {
+    "tStartMs": 170133,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "jū rán yǒu yí gè yǐn liào diàn\n居 然  有  一 个 饮  料   店  "
+    } ]
+  }, {
+    "tStartMs": 176233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "tā de míng zì yě tè bié yǒu yì sī\n它 的 名   字 也 特 别  有  意 思"
+    } ]
+  }, {
+    "tStartMs": 178166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "jiào “ bō luó tiáo chá jú ”\n叫   “ 菠 萝  调   茶  局 ”"
+    } ]
+  }, {
+    "tStartMs": 181966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "wǒ shuō le zhè jiā cān tīng fēi cháng dì huǒ\n我 说   了 这  家  餐  厅   非  常    地 火 "
+    } ]
+  }, {
+    "tStartMs": 184300,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "jīng cháng yào pái duì\n经   常    要  排  队 "
+    } ]
+  }, {
+    "tStartMs": 186233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "xiàn zài shì gōng zuò rì de xià wǔ 5 diǎn duō\n现   在  是  工   作  日 的 下  午 5 点   多 "
+    } ]
+  }, {
+    "tStartMs": 192366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "rú guǒ wǒ men xū yào pái duì de huà ne\n如 果  我 们  需 要  排  队  的 话  呢"
+    } ]
+  }, {
+    "tStartMs": 194300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "jiù kě yǐ zuò zài zhè xiē hóng sè de dèng zǐ shàng\n就  可 以 坐  在  这  些  红   色 的 凳   子 上   "
+    } ]
+  }, {
+    "tStartMs": 199833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "zhè shì zài guǎng dōng hěn jīng cháng kàn dào de yì zhǒng dèng zǐ\n这  是  在  广    东   很  经   常    看  到  的 一 种    凳   子"
+    } ]
+  }, {
+    "tStartMs": 204700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "zhè biān shì shōu yín tái\n这  边   是  收   银  台 "
+    } ]
+  }, {
+    "tStartMs": 206966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "mǎi dān de dì fāng\n买  单  的 地 方  "
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "yǒu kòu ròu mài le a\n有  扣  肉  卖  了 啊"
+    } ]
+  }, {
+    "tStartMs": 217733,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "yǒu kòu ròu mài le\n有  扣  肉  卖  了"
+    } ]
+  }, {
+    "tStartMs": 218700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "méi yǒu xiè zhōu\n没  有  蟹  粥  "
+    } ]
+  }, {
+    "tStartMs": 220133,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "chā shāo 、 pái gǔ 、 shāo é\n叉  烧   、 排  骨 、 烧   鹅"
+    } ]
+  }, {
+    "tStartMs": 226600,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "bái qiè jī ， hái yǒu chǐ yóu jī\n白  切  鸡 ， 还  有  豉  油  鸡"
+    } ]
+  }, {
+    "tStartMs": 229933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "“ chǐ yóu ” ， yě jiù shì “ jiàng yóu ” de yì sī\n“ 豉  油  ” ， 也 就  是  “ 酱    油  ” 的 意 思"
+    } ]
+  }, {
+    "tStartMs": 234133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "tā de jià gé shì zhè yàng de\n它 的 价  格 是  这  样   的"
+    } ]
+  }, {
+    "tStartMs": 235766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "6 5 kuài qián bàn zhī\n6 5 块   钱   半  只 "
+    } ]
+  }, {
+    "tStartMs": 237533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "1 2 0 kuài qián yì zhī\n1 2 0 块   钱   一 只 "
+    } ]
+  }, {
+    "tStartMs": 243400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "zhè lǐ shì chū cān kǒu\n这  里 是  出  餐  口 "
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "zuò hǎo de cān huì fàng zài zhè lǐ\n做  好  的 餐  会  放   在  这  里"
+    } ]
+  }, {
+    "tStartMs": 252633,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "lìng yì biān ne\n另   一 边   呢"
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "jiù shì yì xiē hǎi xiān\n就  是  一 些  海  鲜  "
+    } ]
+  }, {
+    "tStartMs": 258866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "wǒ men kě yǐ zì jǐ zài zhè lǐ tiāo xuǎn hǎi xiān\n我 们  可 以 自 己 在  这  里 挑   选   海  鲜  "
+    } ]
+  }, {
+    "tStartMs": 262600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "jiù hǎo xiàng zài shì chǎng lǐ miàn yí yàng de\n就  好  像    在  市  场    里 面   一 样   的"
+    } ]
+  }, {
+    "tStartMs": 270033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "xiǎo páng xiè\n小   螃   蟹 "
+    } ]
+  }, {
+    "tStartMs": 276100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "zhè ge kàn qǐ lái tè bié xià rén\n这  个 看  起 来  特 别  吓  人 "
+    } ]
+  }, {
+    "tStartMs": 279866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "zhè zhǒng ne jiào “ huáng shàn ”\n这  种    呢 叫   “ 黄    鳝   ”"
+    } ]
+  }, {
+    "tStartMs": 282933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "zhè zhǒng yú jiào “ huáng shàn ”\n这  种    鱼 叫   “ 黄    鳝   ”"
+    } ]
+  }, {
+    "tStartMs": 291333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "wā ， zhè lǐ yǒu yí gè dà yú tóu\n哇 ， 这  里 有  一 个 大 鱼 头 "
+    } ]
+  }, {
+    "tStartMs": 300333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "bù tóng zhǒng lèi de xiè\n不 同   种    类  的 蟹 "
+    } ]
+  }, {
+    "tStartMs": 304500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "yú\n鱼"
+    } ]
+  }, {
+    "tStartMs": 308200,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "hái yǒu zhè zhǒng ( lóng shī 、 shuǐ zhāng láng )\n还  有  这  种    ( 龙   虱  、 水   蟑    螂   )"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "nǐ men gǎn chī ma\n你 们  敢  吃  吗"
+    } ]
+  }, {
+    "tStartMs": 316333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "tā men hái huì dòng ne ， huì yóu yǒng\n它 们  还  会  动   呢 ， 会  游  泳  "
+    } ]
+  }, {
+    "tStartMs": 329200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "gǎn jué hǎo xiàng jìn rù le yí gè hǎi xiān shì chǎng\n感  觉  好  像    进  入 了 一 个 海  鲜   市  场   "
+    } ]
+  }, {
+    "tStartMs": 342466,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "shàng miàn ne ， tōng cháng huì zuò chéng cài dān\n上    面   呢 ， 通   常    会  做  成    菜  单 "
+    } ]
+  }, {
+    "tStartMs": 346600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "tā bǎ zhè xiē cài yáo dōu zhǎn shì chū lái le\n他 把 这  些  菜  肴  都  展   示  出  来  了"
+    } ]
+  }, {
+    "tStartMs": 350066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "fāng biàn dà jiā diǎn cài\n方   便   大 家  点   菜 "
+    } ]
+  }, {
+    "tStartMs": 354300,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "zhè lǐ yě fàng zhe yì xiē xīn xiān de shū cài\n这  里 也 放   着  一 些  新  鲜   的 蔬  菜 "
+    } ]
+  }, {
+    "tStartMs": 357966,
+    "dDurationMs": 6834,
+    "segs": [ {
+      "utf8": "gěi kè rén men zhǎn shì tā men jīn tiān de fàn diàn tí gōng nǎ xiē shū cài\n给  客 人  们  展   示  他 们  今  天   的 饭  店   提 供   哪 些  蔬  菜 "
+    } ]
+  }, {
+    "tStartMs": 365966,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "xià miàn ne ， hái yǒu yí dào shí cái\n下  面   呢 ， 还  有  一 道  食  材 "
+    } ]
+  }, {
+    "tStartMs": 370433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "jiào “ zhú chóng ”\n叫   “ 竹  虫    ”"
+    } ]
+  }, {
+    "tStartMs": 373500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "yě shì chóng zǐ de yì zhǒng\n也 是  虫    子 的 一 种   "
+    } ]
+  }, {
+    "tStartMs": 377066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "tā men xiàn zài cáng qǐ lái le\n它 们  现   在  藏   起 来  了"
+    } ]
+  }, {
+    "tStartMs": 383866,
+    "dDurationMs": 6234,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yì tiáo yòu dà yòu pàng de chóng zǐ ， zhú chóng\n这  里 有  一 条   又  大 又  胖   的 虫    子 ， 竹  虫   "
+    } ]
+  }, {
+    "tStartMs": 390333,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "dàn shì wǒ tīng shuō tā de yíng yǎng shì fēi cháng fēng fù de\n但  是  我 听   说   它 的 营   养   是  非  常    丰   富 的"
+    } ]
+  }, {
+    "tStartMs": 395566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "dàn bái zhì fēi cháng dì gāo\n蛋  白  质  非  常    地 高 "
+    } ]
+  }, {
+    "tStartMs": 404366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zài guǎng dōng zhè zhǒng chóng zǐ shì kě yǐ chī de\n在  广    东   这  种    虫    子 是  可 以 吃  的"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "ér qiě jià gé hái bú pián yi\n而 且  价  格 还  不 便   宜"
+    } ]
+  }, {
+    "tStartMs": 411600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "zài zhè ge fàn diàn\n在  这  个 饭  店  "
+    } ]
+  }, {
+    "tStartMs": 413166,
+    "dDurationMs": 5434,
+    "segs": [ {
+      "utf8": "wǒ men hái néng kàn dào yì xiē lǐ yú\n我 们  还  能   看  到  一 些  鲤 鱼"
+    } ]
+  }, {
+    "tStartMs": 421733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "hé wū guī\n和 乌 龟 "
+    } ]
+  }, {
+    "tStartMs": 427600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yí gè xiǎo shuǐ chí\n这  里 有  一 个 小   水   池 "
+    } ]
+  }, {
+    "tStartMs": 432400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zhè lǐ ne ， yǒu yí kuài bái bǎn\n这  里 呢 ， 有  一 块   白  板 "
+    } ]
+  }, {
+    "tStartMs": 435233,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "shàng miàn yě yǒu yì xiē cài de míng zì\n上    面   也 有  一 些  菜  的 名   字"
+    } ]
+  }, {
+    "tStartMs": 439066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "zhè shì yí fèn shǒu xiě de cài dān\n这  是  一 份  手   写  的 菜  单 "
+    } ]
+  }, {
+    "tStartMs": 450766,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "nóng cūn de fàn diàn dà bù fen dōu shì cháng zhè ge yàng zi de\n农   村  的 饭  店   大 部 分  都  是  长    这  个 样   子 的"
+    } ]
+  }, {
+    "tStartMs": 455566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "jiù shì zhuāng xiū kě yǐ bù piào liang\n就  是  装     修  可 以 不 漂   亮   "
+    } ]
+  }, {
+    "tStartMs": 458366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "dàn shì dōng xī yí dìng yào hǎo chī\n但  是  东   西 一 定   要  好  吃 "
+    } ]
+  }, {
+    "tStartMs": 461233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "guǎng dōng rén chū qù chī fàn\n广    东   人  出  去 吃  饭 "
+    } ]
+  }, {
+    "tStartMs": 462533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "tā bú huì guǎn nǐ de huán jìng hǎo bu hǎo\n他 不 会  管   你 的 环   境   好  不 好 "
+    } ]
+  }, {
+    "tStartMs": 464733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "dàn shì tā yí dìng fēi cháng zài yì nǐ de wèi dào\n但  是  他 一 定   非  常    在  意 你 的 味  道 "
+    } ]
+  }, {
+    "tStartMs": 471733,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "zhè lǐ jiù shì zhè ge fàn diàn de chú fáng lā\n这  里 就  是  这  个 饭  店   的 厨  房   啦"
+    } ]
+  }, {
+    "tStartMs": 480033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "zhè ge fàn diàn ne ， hái tí gōng miǎn fèi de tāng\n这  个 饭  店   呢 ， 还  提 供   免   费  的 汤  "
+    } ]
+  }, {
+    "tStartMs": 483166,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "suǒ yǐ nǐ kě yǐ ná zhe wǎn zài zhè biān pái duì shèng tāng\n所  以 你 可 以 拿 着  碗  在  这  边   排  队  盛    汤  "
+    } ]
+  }, {
+    "tStartMs": 489133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "tīng shuō zhè lǐ de tāng shì fēi cháng měi wèi de\n听   说   这  里 的 汤   是  非  常    美  味  的"
+    } ]
+  }, {
+    "tStartMs": 491933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "suǒ yǐ yǒu hěn duō rén pái duì\n所  以 有  很  多  人  排  队 "
+    } ]
+  }, {
+    "tStartMs": 498366,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "dà jiā kàn ， xiàn zài yǐ jīng zuò mǎn le pái duì de rén\n大 家  看  ， 现   在  已 经   坐  满  了 排  队  的 人 "
+    } ]
+  }, {
+    "tStartMs": 505600,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "tā zhè ge fàn guǎn yǒu èr lóu\n他 这  个 饭  馆   有  二 楼 "
+    } ]
+  }, {
+    "tStartMs": 508133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "yī lóu yǐ jīng mǎn le\n一 楼  已 经   满  了"
+    } ]
+  }, {
+    "tStartMs": 509300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ men yào shàng èr lóu qù\n所  以 我 们  要  上    二 楼  去"
+    } ]
+  }, {
+    "tStartMs": 535866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "èr lóu jiù shì zhè ge yàng zi de\n二 楼  就  是  这  个 样   子 的"
+    } ]
+  }, {
+    "tStartMs": 540833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "dàn shì kàn qǐ lái èr lóu bǐ jiào rè\n但  是  看  起 来  二 楼  比 较   热"
+    } ]
+  }, {
+    "tStartMs": 543933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "yīn wèi zhè shì yí gè kāi fàng de kōng jiān\n因  为  这  是  一 个 开  放   的 空   间  "
+    } ]
+  }, {
+    "tStartMs": 546666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "méi yǒu kōng tiáo\n没  有  空   调  "
+    } ]
+  }, {
+    "tStartMs": 548333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "zhǐ yǒu fēng shàn\n只  有  风   扇  "
+    } ]
+  }, {
+    "tStartMs": 550133,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "dàn shì ne ， èr lóu de yōu diǎn jiù shì tā de jǐng sè bǐ jiào měi\n但  是  呢 ， 二 楼  的 优  点   就  是  它 的 景   色 比 较   美 "
+    } ]
+  }, {
+    "tStartMs": 557033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "kě yǐ kàn dào zhè biān de yì tiáo xiǎo hé\n可 以 看  到  这  边   的 一 条   小   河"
+    } ]
+  }, {
+    "tStartMs": 569366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "xìng hǎo wǒ men lái de zǎo\n幸   好  我 们  来  得 早 "
+    } ]
+  }, {
+    "tStartMs": 570766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "bù rán jiù yào pái duì le\n不 然  就  要  排  队  了"
+    } ]
+  }, {
+    "tStartMs": 583333,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "zhè ge diàn mài dé zuì hǎo de shì bō luó bīng shā\n这  个 店   卖  得 最  好  的 是  菠 萝  冰   沙 "
+    } ]
+  }, {
+    "tStartMs": 588500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "zhǐ yào 9 kuài 9\n只  要  9 块   9"
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "t o p   o n e ， xiāo liàng t o p   o n e ， dì yī wèi\nt o p   o n e ， 销   量    t o p   o n e ， 第 一 位 "
+    } ]
+  }, {
+    "tStartMs": 598633,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "miǎn qiǎng yíng yè zhōng\n勉   强    营   业 中   "
+    } ]
+  }, {
+    "tStartMs": 608600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "zào xíng fēi cháng qí tè de bǎi shè\n造  型   非  常    奇 特 的 摆  设 "
+    } ]
+  }, {
+    "tStartMs": 614400,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "mǎi le yì bēi zhè biān de tè sè yǐn liào\n买  了 一 杯  这  边   的 特 色 饮  料  "
+    } ]
+  }, {
+    "tStartMs": 618766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "bō luó shā bīng\n菠 萝  沙  冰  "
+    } ]
+  }, {
+    "tStartMs": 620900,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "xià tiān zhēn de bù kě yǐ méi yǒu bīng a\n夏  天   真   的 不 可 以 没  有  冰   啊"
+    } ]
+  }, {
+    "tStartMs": 625100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "shàng miàn hái yǒu gè xiǎo bō luó\n上    面   还  有  个 小   菠 萝 "
+    } ]
+  }, {
+    "tStartMs": 627166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "kě ài sǐ lā\n可 爱 死 啦"
+    } ]
+  }, {
+    "tStartMs": 629333,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "rán hòu biān chī zhè bēi shā bīng\n然  后  边   吃  这  杯  沙  冰  "
+    } ]
+  }, {
+    "tStartMs": 632633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "biān xīn shǎng zhè biān de hé jǐng\n边   欣  赏    这  边   的 河 景  "
+    } ]
+  }, {
+    "tStartMs": 637333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "tài wán měi le\n太  完  美  了"
+    } ]
+  } ]
+}

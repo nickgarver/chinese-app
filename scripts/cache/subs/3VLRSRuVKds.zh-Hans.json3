@@ -1,0 +1,2749 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 600,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "哈喽\nhālóu"
+    } ]
+  }, {
+    "tStartMs": 1166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "大家好\ndàjiā hǎo"
+    } ]
+  }, {
+    "tStartMs": 1966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我是猫咪卡\nwǒ shì māomī kǎ"
+    } ]
+  }, {
+    "tStartMs": 6566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "这是一档为中文学习者和\nzhè shì yī dàng wèi zhōngwén xuéxí zhě hé"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "中文爱好者提供的中文播客\nzhōngwén àihàozhě tígōng de zhōngwén bōkè"
+    } ]
+  }, {
+    "tStartMs": 12300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "在这里\nzài zhèlǐ"
+    } ]
+  }, {
+    "tStartMs": 12900,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你会听到学到各种与\nnǐ huì tīngdào xué dào gèzhǒng yǔ"
+    } ]
+  }, {
+    "tStartMs": 15200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "中文以及中国相关的话题\nzhōngwén yǐjí zhōngguó xiāngguān dehuà tí"
+    } ]
+  }, {
+    "tStartMs": 18166,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "如果你对此感兴趣\nrúguǒ nǐ duì cǐ gǎnxìngqù"
+    } ]
+  }, {
+    "tStartMs": 19800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那就千万不要错过\nnà jiù qiānwàn bùyào cuòguò"
+    } ]
+  }, {
+    "tStartMs": 23566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "不知道大家有没有看\nbùzhī dào dàjiā yǒu méiyǒu kàn"
+    } ]
+  }, {
+    "tStartMs": 25333,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "过我上一期的视频呢\nguò wǒ shàng yī qī de shìpín ne"
+    } ]
+  }, {
+    "tStartMs": 27833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "上一期的视频呢\nshàng yī qī de shìpín ne"
+    } ]
+  }, {
+    "tStartMs": 29200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我有留下一个悬念\nwǒ yǒu liúxià yígè xuánniàn"
+    } ]
+  }, {
+    "tStartMs": 31266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "让大家来猜一猜\nràng dàjiā lái cāi yī cāi"
+    } ]
+  }, {
+    "tStartMs": 33866,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "这盒东西完全就是做成一个\nzhè hé dōngxi wánquán jiùshì zuò chéng yígè"
+    } ]
+  }, {
+    "tStartMs": 37900,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "Laduree Macaron马卡龙形状的物品\nLaduree Macaron mǎkǎlóng xíngzhuàng de wùpǐn"
+    } ]
+  }, {
+    "tStartMs": 40966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "到底是什么呢\ndàodǐ shì shénme ne"
+    } ]
+  }, {
+    "tStartMs": 43566,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "很遗憾哦\nhěn yíhàn ó"
+    } ]
+  }, {
+    "tStartMs": 44633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "直到目前为止\nzhídào mùqián wéizhǐ"
+    } ]
+  }, {
+    "tStartMs": 45933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "没有任何人回答正确\nméiyǒu rènhé rén huídá zhèngquè"
+    } ]
+  }, {
+    "tStartMs": 48566,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "但是有一位朋友提到了肥皂\ndànshì yǒu yī wèi péngyou tídào le féizào"
+    } ]
+  }, {
+    "tStartMs": 52666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "已经很接近了\nyǐjīng hěn jiējìn le"
+    } ]
+  }, {
+    "tStartMs": 54133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "它和任何的cosmetic不相关\ntā hé rènhé de cosmetic bù xiāngguān"
+    } ]
+  }, {
+    "tStartMs": 57333,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "哈哈\nhāhā"
+    } ]
+  }, {
+    "tStartMs": 57700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "完全不相关啊\nwánquán bù xiāngguān a"
+    } ]
+  }, {
+    "tStartMs": 59166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我觉得上一期的视频呢\nwǒ juéde shàng yī qī de shìpín ne"
+    } ]
+  }, {
+    "tStartMs": 60666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我好像没有展示的很清楚\nwǒ hǎoxiàng méiyǒu zhǎnshì de hěn qīngchu"
+    } ]
+  }, {
+    "tStartMs": 62766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我给大家再看一下\nwǒ gěi dàjiā zài kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 64466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "是一个固体的东西\nshì yígè gùtǐ de dōngxi"
+    } ]
+  }, {
+    "tStartMs": 66266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "它是硬硬的\ntā shì yìng yìng de"
+    } ]
+  }, {
+    "tStartMs": 67733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "它不是那种软的\ntā bùshì nàzhǒng ruǎn de"
+    } ]
+  }, {
+    "tStartMs": 69566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "它是很硬的这种材质\ntā shì hěn yìng de zhèzhǒng cáizhì"
+    } ]
+  }, {
+    "tStartMs": 72466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我要揭晓了\nwǒ yào jiēxiǎo le"
+    } ]
+  }, {
+    "tStartMs": 74566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "其实\nqíshí"
+    } ]
+  }, {
+    "tStartMs": 76233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "这个是橡皮擦\nzhège shì xiàngpícā"
+    } ]
+  }, {
+    "tStartMs": 81166,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 82233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "大家有往这个方向想过吗\ndàjiā yǒu wǎng zhège fāngxiàng xiǎng guò ma"
+    } ]
+  }, {
+    "tStartMs": 85133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我小时候学英文\nwǒ xiǎoshíhou xué yīngwén"
+    } ]
+  }, {
+    "tStartMs": 86800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "橡皮擦的英文是叫Eraser\nxiàngpícā de yīngwén shì jiào Eraser"
+    } ]
+  }, {
+    "tStartMs": 89200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "但是我好像听说美国和\ndànshì wǒ hǎoxiàng tīngshuō měiguó hé"
+    } ]
+  }, {
+    "tStartMs": 91566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "英国的叫法不太一样\nyīngguó de jiào fǎ bù tài yīyàng"
+    } ]
+  }, {
+    "tStartMs": 94066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "现在大家用铅笔的情况多吗\nxiànzài dàjiā yòng qiānbǐ de qíngkuàng duō ma"
+    } ]
+  }, {
+    "tStartMs": 97333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "小学的小朋友应该用的是比较多的\nxiǎoxué de xiǎopéngyǒu yīnggāi yòng de shì bǐjiào duō de"
+    } ]
+  }, {
+    "tStartMs": 100566,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 101400,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 101766,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "这个是橡皮擦哦\nzhège shì xiàngpícā ó"
+    } ]
+  }, {
+    "tStartMs": 104266,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "嗯\nń"
+    } ]
+  }, {
+    "tStartMs": 104566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "闻起来臭臭的\nwén qilai chòu chòu de"
+    } ]
+  }, {
+    "tStartMs": 105900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "其实一点都不香\nqíshí yīdiǎn dōu bù xiāng"
+    } ]
+  }, {
+    "tStartMs": 107333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "因为上一期的视频呢\nyīnwèi shàng yī qī de shìpín ne"
+    } ]
+  }, {
+    "tStartMs": 108900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "有和大家提到马卡龙\nyǒu hé dàjiā tídào mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 111433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "然后这两天我在家里面\nránhòu zhè liǎng tiān wǒ zài jiālǐ miàn"
+    } ]
+  }, {
+    "tStartMs": 113100,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "我发现我还有另外一件东西\nwǒ fāxiàn wǒ háiyǒu lìngwài yī jiàn dōngxi"
+    } ]
+  }, {
+    "tStartMs": 116133,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "上面也有马卡龙\nshàngmiàn yě yǒu mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 118533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那就是\nnà jiùshì"
+    } ]
+  }, {
+    "tStartMs": 120366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "噔噔噔\ndēngdēng dēng"
+    } ]
+  }, {
+    "tStartMs": 122100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "这个hello Kitty的玩偶\nzhège hello Kitty de wánǒu"
+    } ]
+  }, {
+    "tStartMs": 125800,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个hello Kitty呢\nzhège hello Kitty ne"
+    } ]
+  }, {
+    "tStartMs": 126933,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "是在2026年和Laduree联名出的一个系列\nshì zài 2026 nián hé Laduree liánmíng chū de yígè xìliè"
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我现在要给大家看一下\nwǒ xiànzài yào gěi dàjiā kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 137700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "大家可以看一下\ndàjiā kěyǐ kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 138600,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "这个Kitty的头上顶着一个马卡龙\nzhège Kitty de tóushàng dǐng zhe yígè mǎkǎlóng"
+    } ]
+  }, {
+    "tStartMs": 143733,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "上面还有Laduree的标志\nshàngmiàn háiyǒu Laduree de biāozhì"
+    } ]
+  }, {
+    "tStartMs": 147400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 148533,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "是超级可爱的一个Kitty\nshì chāojí kěài de yígè Kitty"
+    } ]
+  }, {
+    "tStartMs": 150700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "它的这个围裙上面\ntā de zhège wéiqún shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 152966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "也有标着这个Laduree\nyě yǒu biāo zhe zhège Laduree"
+    } ]
+  }, {
+    "tStartMs": 154666,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "因为把这个Kitty翻出来之后呢\nyīnwèi bǎ zhège Kitty fān chulai zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "今天就想要和大家聊一聊关于Kitty\njīntiān jiù xiǎngyào hé dàjiā liáo yī liáo guānyú Kitty"
+    } ]
+  }, {
+    "tStartMs": 162500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "还有关于\nháiyǒu guānyú"
+    } ]
+  }, {
+    "tStartMs": 163766,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "Kitty为什么在中国火起来了这件事情\nKitty wèishénme zài zhōngguó huǒ qilai le zhè jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 167766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "现在hello Kitty呢\nxiànzài hello Kitty ne"
+    } ]
+  }, {
+    "tStartMs": 169233,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "在中国超级火\nzài zhōngguó chāojí huǒ"
+    } ]
+  }, {
+    "tStartMs": 172266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这个让我有一点点震惊啊\nzhège ràng wǒ yǒu yīdiǎndiǎn zhènjīng a"
+    } ]
+  }, {
+    "tStartMs": 174166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "也是为什么我在家里面\nyě shì wèishénme wǒ zài jiālǐ miàn"
+    } ]
+  }, {
+    "tStartMs": 175900,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "把这只玩偶翻出来的一个原因\nbǎ zhè zhǐ wánǒu fān chulai de yígè yuányīn"
+    } ]
+  }, {
+    "tStartMs": 179066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "让我再花钱去买\nràng wǒ zài huāqián qù mǎi"
+    } ]
+  }, {
+    "tStartMs": 180500,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我可能现在会觉得有一点点不舍得\nwǒ kěnéng xiànzài huì juéde yǒu yīdiǎndiǎn bùshěde"
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "一只玩偶也得100多人民币\nyìzhī wánǒu yěde 100 duō rénmínbì"
+    } ]
+  }, {
+    "tStartMs": 185633,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 186366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "但是他火的呢又让我有一点点奇怪\ndànshì tā huǒ de ne yòu ràng wǒ yǒu yīdiǎndiǎn qíguài"
+    } ]
+  }, {
+    "tStartMs": 189033,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "所以我就重新又去网上搜了一些资料\nsuǒyǐ wǒ jiù chóngxīn yòu qù wǎngshàng sōu le yīxiē zīliào"
+    } ]
+  }, {
+    "tStartMs": 194600,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "想要知道为什么hello Kitty再次爆火\nxiǎngyào zhīdào wèishénme hello Kitty zàicì bào huǒ"
+    } ]
+  }, {
+    "tStartMs": 198333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我觉得首先第一个火的\nwǒ juéde shǒuxiān dìyī gè huǒ de"
+    } ]
+  }, {
+    "tStartMs": 200200,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "原因就是社交媒体的传播\nyuányīn jiùshì shèjiāo méitǐ de chuánbō"
+    } ]
+  }, {
+    "tStartMs": 203233,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "一些z时代的新生代的演员们\nyīxiē z shídài de xīnshēngdài de yǎnyuán men"
+    } ]
+  }, {
+    "tStartMs": 207366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "idol们\nidol men"
+    } ]
+  }, {
+    "tStartMs": 208233,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "然后都会在她们的包包上面\nránhòu dūhuì zài tāmen de bāobāo shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 212733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "挂上了hello Kitty的玩偶\nguà shàng le hello Kitty de wánǒu"
+    } ]
+  }, {
+    "tStartMs": 215333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "然后其次呢\nránhòu qícì ne"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "周边产品的一部分助推\nzhōubiān chǎnpǐn de yībùfen zhù tuī"
+    } ]
+  }, {
+    "tStartMs": 219766,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这个就导致了\nzhège jiù dǎozhì le"
+    } ]
+  }, {
+    "tStartMs": 220833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "hello Kitty又重新爆火了\nhello Kitty yòu chóngxīn bào huǒ le"
+    } ]
+  }, {
+    "tStartMs": 223133,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "hello Kitty在我小时候就已经很火了\nhello Kitty zài wǒ xiǎoshíhou jiù yǐjīng hěn huǒ le"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "它一直是一个很火很火的女明星\ntā yīzhí shì yígè hěn huǒ hěn huǒ de nǚ míngxīng"
+    } ]
+  }, {
+    "tStartMs": 229900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "hello Kitty不是一只猫哦\nhello Kitty bùshì yìzhī māo ó"
+    } ]
+  }, {
+    "tStartMs": 232100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "hello Kitty其实是一只\nhello Kitty qíshí shì yìzhī"
+    } ]
+  }, {
+    "tStartMs": 233900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "长着猫脸的小女孩\nzhǎng zhe māo liǎn de xiǎonǔ hái"
+    } ]
+  }, {
+    "tStartMs": 236366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 237700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我当时听到这个的时候都震惊了\nwǒ dāngshí tīngdào zhège de shíhou dōu zhènjīng le"
+    } ]
+  }, {
+    "tStartMs": 240466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "但是很长很长一段时间\ndànshì hěn zhǎng hěn zhǎng yī duàn shíjiān"
+    } ]
+  }, {
+    "tStartMs": 243433,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我对hello Kitty都是无感的\nwǒ duì hello Kitty dōu shì wú gǎn de"
+    } ]
+  }, {
+    "tStartMs": 246200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "我会觉得它\nwǒ huì juéde tā"
+    } ]
+  }, {
+    "tStartMs": 248766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "有一点点土\nyǒu yīdiǎndiǎn tǔ"
+    } ]
+  }, {
+    "tStartMs": 250266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 251266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "大家看这只hello Kitty呢\ndàjiā kàn zhè zhǐ hello Kitty ne"
+    } ]
+  }, {
+    "tStartMs": 253166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "它的整个面部\ntā de zhěnggè miànbù"
+    } ]
+  }, {
+    "tStartMs": 254766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "它的线条是比较简单的\ntā de xiàntiáo shì bǐjiào jiǎndān de"
+    } ]
+  }, {
+    "tStartMs": 257566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "也没有大面积的粉红色的覆盖\nyě méiyǒu dà miànjī de fěnhóngsè de fùgài"
+    } ]
+  }, {
+    "tStartMs": 260600,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 261200,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "我感觉我小时候\nwǒ gǎnjué wǒ xiǎoshíhou"
+    } ]
+  }, {
+    "tStartMs": 263233,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "就会觉得\njiù huì juéde"
+    } ]
+  }, {
+    "tStartMs": 264333,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Hello Kitty在三丽鸥(sanrio)的所有形象里面\nHello Kitty zài sān lì ōu (sanrio) de suǒyǒu xíngxiàng lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 267833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "都是一个比较普通的形象\ndōu shì yígè bǐjiào pǔtōng de xíngxiàng"
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "可能又因为到处都可以看见\nkěnéng yòu yīnwèi dàochù dōu kěyǐ kànjiàn"
+    } ]
+  }, {
+    "tStartMs": 273533,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "我心里面呢\nwǒ xīnli miàn ne"
+    } ]
+  }, {
+    "tStartMs": 274466,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "就有一种逆反心理\njiù yǒu yīzhǒng nìfǎnxīnlǐ"
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我觉得它有点大众化\nwǒ juéde tā yǒudiǎn dàzhònghuà"
+    } ]
+  }, {
+    "tStartMs": 278433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我就会不太喜欢\nwǒ jiù huì bù tài xǐhuan"
+    } ]
+  }, {
+    "tStartMs": 280433,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这个是三丽鸥的形象里面的\nzhège shì sān lì ōu de xíngxiàng lǐmiàn de"
+    } ]
+  }, {
+    "tStartMs": 282833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我之前最喜欢的一个\nwǒ zhīqián zuì xǐhuan de yígè"
+    } ]
+  }, {
+    "tStartMs": 285200,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "它的名字叫Melody美乐蒂\ntā de míngzi jiào Melody měilè dì"
+    } ]
+  }, {
+    "tStartMs": 289100,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "大家可以看一下\ndàjiā kěyǐ kàn yīxià"
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "它是一只粉红色的兔子\ntā shì yìzhī fěnhóngsè de tùzi"
+    } ]
+  }, {
+    "tStartMs": 294033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "头上呢\ntóushàng ne"
+    } ]
+  }, {
+    "tStartMs": 294833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "也顶着一个蝴蝶结\nyě dǐng zhe yígè húdiéjié"
+    } ]
+  }, {
+    "tStartMs": 298066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我这个产品呢\nwǒ zhège chǎnpǐn ne"
+    } ]
+  }, {
+    "tStartMs": 299400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "它是一个笔筒\ntā shì yígè bǐtǒng"
+    } ]
+  }, {
+    "tStartMs": 300933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "正好这个里面附赠了两支笔呢\nzhènghǎo zhège lǐmiàn fù zèng le liǎng zhī bǐ ne"
+    } ]
+  }, {
+    "tStartMs": 303733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "一个是Melody\nyígè shì Melody"
+    } ]
+  }, {
+    "tStartMs": 305400,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "然后呢\nránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 306233,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "这只小羊大家有看到吗\nzhè zhǐ xiǎoyáng dàjiā yǒu kàn dào ma"
+    } ]
+  }, {
+    "tStartMs": 308766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "超级可爱的一只羊\nchāojí kěài de yìzhī yáng"
+    } ]
+  }, {
+    "tStartMs": 310600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "这只羊的名字呢\nzhè zhǐ yáng de míngzi ne"
+    } ]
+  }, {
+    "tStartMs": 312133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "叫piano\njiào piano"
+    } ]
+  }, {
+    "tStartMs": 313633,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 316166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "这只羊的名字叫piano\nzhè zhǐ yáng de míngzi jiào piano"
+    } ]
+  }, {
+    "tStartMs": 318400,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "就是弹的钢琴的那个piano\njiùshì dàn de gāngqín de nàge piano"
+    } ]
+  }, {
+    "tStartMs": 321133,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我以前特别喜欢粉红色的东西\nwǒ yǐqián tèbié xǐhuan fěnhóngsè de dōngxi"
+    } ]
+  }, {
+    "tStartMs": 323600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "所以很长一段时间我\nsuǒyǐ hěn zhǎng yī duàn shíjiān wǒ"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "对hello Kitty都是无感的\nduì hello Kitty dōu shì wú gǎn de"
+    } ]
+  }, {
+    "tStartMs": 327533,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "这两年呢\nzhè liǎng nián ne"
+    } ]
+  }, {
+    "tStartMs": 328766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在中国的社交媒体上面\nzài zhōngguó de shèjiāo méitǐ shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 331100,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "女孩子们争相购买的一个hello Kitty的商品\nnǔháizi men zhēngxiāng gòumǎi de yígè hello Kitty de shāngpǐn"
+    } ]
+  }, {
+    "tStartMs": 336000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "那就是一个黑皮hello Kitty\nnà jiùshì yígè hēi pí hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 339700,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "黑皮呢\nhēi pí ne"
+    } ]
+  }, {
+    "tStartMs": 340400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我现在手上是没有的\nwǒ xiànzài shǒu shàng shì méiyǒu de"
+    } ]
+  }, {
+    "tStartMs": 342133,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我去年其实去夏威夷玩了一段时间\nwǒqù nián qíshí qù xiàwēiyí wán le yī duàn shíjiān"
+    } ]
+  }, {
+    "tStartMs": 345833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我在夏威夷的Souvenir\nwǒ zài xiàwēiyí de Souvenir"
+    } ]
+  }, {
+    "tStartMs": 347833,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "就是纪念品商店里面逛了很久\njiùshì jìniànpǐn shāngdiàn lǐmiàn guàng le hěn jiǔ"
+    } ]
+  }, {
+    "tStartMs": 351033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "看了很多的\nkàn le hěn duō de"
+    } ]
+  }, {
+    "tStartMs": 353500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这种黑皮的hello Kitty\nzhèzhǒng hēi pí de hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 355100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我最终都没有选择买\nwǒ zuìzhōng dōu méiyǒu xuǎnzé mǎi"
+    } ]
+  }, {
+    "tStartMs": 357300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我现在又有一点后悔啊\nwǒ xiànzài yòu yǒu yīdiǎn hòuhuǐ a"
+    } ]
+  }, {
+    "tStartMs": 358900,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 359666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我现在其实还有一点点后悔\nwǒ xiànzài qíshí háiyǒu yīdiǎndiǎn hòuhuǐ"
+    } ]
+  }, {
+    "tStartMs": 362033,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "黑皮呢\nhēi pí ne"
+    } ]
+  }, {
+    "tStartMs": 362666,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "就是指的这种颜色的皮肤\njiùshì zhǐ de zhèzhǒng yánsè de pífū"
+    } ]
+  }, {
+    "tStartMs": 366500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "中文网络上面会称它为黑皮\nzhōngwén wǎngluò shàngmiàn huì chēng tā wèi hēi pí"
+    } ]
+  }, {
+    "tStartMs": 370300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "它其实呢\ntā qíshí ne"
+    } ]
+  }, {
+    "tStartMs": 370900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "就是晒出来的小麦色\njiùshì shài chulai de xiǎomài sè"
+    } ]
+  }, {
+    "tStartMs": 374000,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "然后呢\nránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 374600,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这个玩偶给大家看到的\nzhège wánǒu gěi dàjiā kàn dào de"
+    } ]
+  }, {
+    "tStartMs": 376633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "又是一个时代的回忆\nyòu shì yígè shídài de huíyì"
+    } ]
+  }, {
+    "tStartMs": 379700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我们经常会说就是\nwǒmen jīngcháng huì shuō jiùshì"
+    } ]
+  }, {
+    "tStartMs": 382066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "一个流行已经过去了之后呢\nyígè liúxíng yǐjīng guòqu le zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 384266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "中文里面会经常说\nzhōngwén lǐmiàn huì jīngcháng shuō"
+    } ]
+  }, {
+    "tStartMs": 385666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这是一个时代的回忆\nzhè shì yígè shídài de huíyì"
+    } ]
+  }, {
+    "tStartMs": 388666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这个娃娃来自于日本\nzhège wáwa láizì yú rìběn"
+    } ]
+  }, {
+    "tStartMs": 391200,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "一个曾经特别火的模特\nyígè céngjīng tèbié huǒ de mótè"
+    } ]
+  }, {
+    "tStartMs": 395066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "混血模特叫梨花\nhùnxuè mótè jiào lí huā"
+    } ]
+  }, {
+    "tStartMs": 397833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "她之前是作为一个vivi的当家模特\ntā zhīqián shì zuòwéi yígè vivi dídàng jiā mótè"
+    } ]
+  }, {
+    "tStartMs": 402200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "日本的少女杂志里面\nrìběn de shàonǔ zázhì lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 403733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "特别喜欢用混血模特\ntèbié xǐhuan yòng hùnxuè mótè"
+    } ]
+  }, {
+    "tStartMs": 406133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我特别记得是在2010年\nwǒ tèbié jìde shì zài 2010 nián"
+    } ]
+  }, {
+    "tStartMs": 409400,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "至2020年这十年期间\nzhì 2020 nián zhè shí nián qījiān"
+    } ]
+  }, {
+    "tStartMs": 412866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "整个日本的流行文化对\nzhěnggè rìběn de liúxíng wénhuà duì"
+    } ]
+  }, {
+    "tStartMs": 415066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "中国的影响是比较大的\nzhōngguó de yǐngxiǎng shì bǐjiào dà de"
+    } ]
+  }, {
+    "tStartMs": 417633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "但是在2020年之后呢\ndànshì zài 2020 nián zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 420100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这个影响就会慢慢减弱\nzhège yǐngxiǎng jiù huì mànmàn jiǎnruò"
+    } ]
+  }, {
+    "tStartMs": 423400,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "基本上已经很少会看到了\njīběnshang yǐjīng hěn shǎo huì kàn dàoliǎo"
+    } ]
+  }, {
+    "tStartMs": 426633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "在社交媒体上面\nzài shèjiāo méitǐ shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 428066,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "大家已经几乎不能够看到\ndàjiā yǐjīng jīhūbù nénggòu kàn dào"
+    } ]
+  }, {
+    "tStartMs": 430833,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "就是一些特别特别日系打扮的小孩了\njiùshì yīxiē tèbié tèbié rìxì dǎban de xiǎohái le"
+    } ]
+  }, {
+    "tStartMs": 434800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "日系又重新回归到了\nrìxì yòu chóngxīn huíguī dàoliǎo"
+    } ]
+  }, {
+    "tStartMs": 436833,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "一个比较小众的一个状态\nyígè bǐjiào xiǎozhòng de yígè zhuàngtài"
+    } ]
+  }, {
+    "tStartMs": 439166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "这也是一个时代的回忆\nzhè yě shì yígè shídài de huíyì"
+    } ]
+  }, {
+    "tStartMs": 441066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "当年这个日本模特\ndāngnián zhège rìběn mótè"
+    } ]
+  }, {
+    "tStartMs": 442766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "这个Rinka梨花\nzhège Rinka lí huā"
+    } ]
+  }, {
+    "tStartMs": 444633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "就是作为vivi的一个当家模特\njiùshì zuòwéi vivi de yígè dāngjiā mótè"
+    } ]
+  }, {
+    "tStartMs": 447166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "出了一个自己的时装品牌\nchū le yígè zìjǐ de shízhuāng pǐnpái"
+    } ]
+  }, {
+    "tStartMs": 450200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我记得我在东京的时候会经常去逛它\nwǒ jìde wǒ zài dōngjīng de shíhou huì jīngcháng qù guàng tā"
+    } ]
+  }, {
+    "tStartMs": 452866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "在代官山的店\nzài dài guān shān de diàn"
+    } ]
+  }, {
+    "tStartMs": 455533,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "当时就是连她出的这个玩偶都会非常的火\ndāngshí jiùshì lián tā chū de zhège wánǒu dūhuì fēicháng de huǒ"
+    } ]
+  }, {
+    "tStartMs": 460333,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大家就可以看啊\ndàjiā jiù kěyǐ kàn a"
+    } ]
+  }, {
+    "tStartMs": 461300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这个就是一个黑皮的娃娃\nzhège jiùshì yígè hēi pí de wáwa"
+    } ]
+  }, {
+    "tStartMs": 464266,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 465566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "hello Kitty也出了一个黑皮款的hello Kitty\nhello Kitty yě chū le yígè hēi pí kuǎn de hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 469833,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "就爆火\njiù bào huǒ"
+    } ]
+  }, {
+    "tStartMs": 471233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在中国就是「一猫难求」\nzài zhōngguó jiùshì \"yī māo nán qiú\""
+    } ]
+  }, {
+    "tStartMs": 474133,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "现在呢\nxiànzài ne"
+    } ]
+  }, {
+    "tStartMs": 474600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "中国的女孩子会把这种\nzhōngguó de nǔháizi huì bǎ zhèzhǒng"
+    } ]
+  }, {
+    "tStartMs": 476166,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Hello Kitty的玩偶挂在任何的地方\nHello Kitty de wánǒu guà zài rènhé de dìfāng"
+    } ]
+  }, {
+    "tStartMs": 479866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "我最近呢\nwǒ zuìjìn ne"
+    } ]
+  }, {
+    "tStartMs": 480800,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "是有想要买一辆自行车\nshì yǒu xiǎngyào mǎi yī liàng zìxíngchē"
+    } ]
+  }, {
+    "tStartMs": 483233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "然后\nránhòu"
+    } ]
+  }, {
+    "tStartMs": 484233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "出去运动运动\nchūqù yùndòng yùndòng"
+    } ]
+  }, {
+    "tStartMs": 485800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "然后就发现社交媒体上面\nránhòu jiù fāxiàn shèjiāo méitǐ shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 487866,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "很多的女孩子\nhěn duō de nǔháizi"
+    } ]
+  }, {
+    "tStartMs": 489700,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "会把Hello Kitty的挂件挂在自行车上\nhuì bǎ Hello Kitty de guà jiàn guà zài zìxíngchē shàng"
+    } ]
+  }, {
+    "tStartMs": 493800,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "哇\nwa"
+    } ]
+  }, {
+    "tStartMs": 494333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 495266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "是一个新的流行\nshì yígè xīn de liúxíng"
+    } ]
+  }, {
+    "tStartMs": 496966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "是一个新的潮流方式\nshì yígè xīn de cháoliú fāngshì"
+    } ]
+  }, {
+    "tStartMs": 499266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "大家为什么会喜欢Hello Kitty呢\ndàjiā wèishénme huì xǐhuan Hello Kitty ne"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "大家会说\ndàjiā huì shuō"
+    } ]
+  }, {
+    "tStartMs": 502966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Hello Kitty它的形象其实是没有嘴的\nHello Kitty tā de xíngxiàng qíshí shì méiyǒu zuǐ de"
+    } ]
+  }, {
+    "tStartMs": 506766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "正是因为它没有嘴\nzhèngshì yīnwèi tā méiyǒu zuǐ"
+    } ]
+  }, {
+    "tStartMs": 509100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "所以大家才会借助它的形象\nsuǒyǐ dàjiā cái huì jièzhù tā de xíngxiàng"
+    } ]
+  }, {
+    "tStartMs": 512033,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "去自由诠释心情和想法\nqù zìyóu quánshì xīnqíng hé xiǎngfǎ"
+    } ]
+  }, {
+    "tStartMs": 516000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "同时呢\ntóngshí ne"
+    } ]
+  }, {
+    "tStartMs": 517300,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "中国人不太喜欢用\nzhōngguórén bù tài xǐhuan yòng"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "自己的照片来作为头像\nzìjǐ de zhàopiàn lái zuòwéi tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 522933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "是因为在中国\nshì yīnwèi zài zhōngguó"
+    } ]
+  }, {
+    "tStartMs": 524633,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "社交媒体它承担着一个工作职能\nshèjiāo méitǐ tā chéngdān zhe yígè gōngzuò zhínéng"
+    } ]
+  }, {
+    "tStartMs": 528866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因为你工作上面也需要\nyīnwèi nǐ gōngzuò shàngmiàn yě xūyào"
+    } ]
+  }, {
+    "tStartMs": 530866,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "用这些即时通讯工具来联系\nyòng zhèxiē jíshítōngxùn gōngjù lái liánxì"
+    } ]
+  }, {
+    "tStartMs": 534033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那在设置头像的时候呢\nnà zài shèzhì tóuxiàng de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 536500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "用自己的私人照片作为头像\nyòng zìjǐ de sīrén zhàopiàn zuòwéi tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 539500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "可能就会显得。。。\nkěnéng jiù huì xiǎnde..."
+    } ]
+  }, {
+    "tStartMs": 541700,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "可能呢\nkěnéng ne"
+    } ]
+  }, {
+    "tStartMs": 542900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "有的时候大家也不希望\nyǒudeshíhòu dàjiā yě bù xīwàng"
+    } ]
+  }, {
+    "tStartMs": 544666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "被别人过多的关注到吧\nbèi biéren guòduō de guānzhù dào ba"
+    } ]
+  }, {
+    "tStartMs": 547466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "用自己的照片呢\nyòng zìjǐ de zhàopiàn ne"
+    } ]
+  }, {
+    "tStartMs": 548766,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "又不能够准确的传达自己最近的状态\nyòu bùnéng gòu zhǔnquè de chuándá zìjǐ zuìjìn de zhuàngtài"
+    } ]
+  }, {
+    "tStartMs": 553533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "给大家分享几个\ngěi dàjiā fēnxiǎng jǐge"
+    } ]
+  }, {
+    "tStartMs": 555033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "网友制作的hello Kitty的meme图\nwǎngyǒu zhìzuò de hello Kitty de meme tú"
+    } ]
+  }, {
+    "tStartMs": 558366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "首先第一张是这个\nshǒuxiān dìyī zhāng shì zhège"
+    } ]
+  }, {
+    "tStartMs": 560400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "花开富贵\nhuā kāi fùguì"
+    } ]
+  }, {
+    "tStartMs": 562433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "大家也可以看到这张图里面\ndàjiā yě kěyǐ kàn dào zhè zhāng tú lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 564733,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "Hello Kitty作为一个普通工作人员的形象\nHello Kitty zuòwéi yígè pǔtōng gōngzuòrényuán de xíngxiàng"
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "出现在办公室里面\nchūxiàn zài bàngōngshì lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 571433,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "然后周围点缀着一圈的花朵\nránhòu zhōuwéi diǎnzhuì zhe yī quān de huāduǒ"
+    } ]
+  }, {
+    "tStartMs": 575700,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "花开富贵\nhuā kāi fùguì"
+    } ]
+  }, {
+    "tStartMs": 577100,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "这在中国是一句吉祥语\nzhè zài zhōngguó shì yījù jíxiáng yǔ"
+    } ]
+  }, {
+    "tStartMs": 580766,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "同样呢\ntóngyàng ne"
+    } ]
+  }, {
+    "tStartMs": 581700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "也是一个吉祥图案\nyě shì yígè jíxiáng túàn"
+    } ]
+  }, {
+    "tStartMs": 584033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "以繁花盛开象征着富贵\nyǐ fánhuā shèngkāi xiàngzhēng zhe fùguì"
+    } ]
+  }, {
+    "tStartMs": 587300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "然后第二张图大家可以看到\nránhòu dìèr zhāng tú dàjiā kěyǐ kàn dào"
+    } ]
+  }, {
+    "tStartMs": 589766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Hello Kitty还是作为一个\nHello Kitty háishi zuòwéi yígè"
+    } ]
+  }, {
+    "tStartMs": 592233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "工作者出现在这个图片里面的\ngōngzuòzhě chūxiàn zài zhège túpiàn lǐmiàn de"
+    } ]
+  }, {
+    "tStartMs": 596033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "然后Kitty在用着一台电脑\nránhòu Kitty zài yòng zhe yī tái diànnǎo"
+    } ]
+  }, {
+    "tStartMs": 600633,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 601200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "它在工作\ntā zài gōngzuò"
+    } ]
+  }, {
+    "tStartMs": 602600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "然后有四个中文字\nránhòu yǒu sì gèzhōng wénzì"
+    } ]
+  }, {
+    "tStartMs": 605066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "与世无争\nyǔshìwúzhēng"
+    } ]
+  }, {
+    "tStartMs": 607000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "与世无争\nyǔshìwúzhēng"
+    } ]
+  }, {
+    "tStartMs": 610133,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 610566,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这个就是中国人典型的那种\nzhège jiùshì zhōngguórén diǎnxíng de nàzhǒng"
+    } ]
+  }, {
+    "tStartMs": 613766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "「既要又要还要」的心态\n\"jì yào yòu yào hái yào\" de xīntài"
+    } ]
+  }, {
+    "tStartMs": 615933,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我既要努力工作\nwǒ jì yào nǔlì gōngzuò"
+    } ]
+  }, {
+    "tStartMs": 617966,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "但是呢\ndànshì ne"
+    } ]
+  }, {
+    "tStartMs": 618833,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "我又不能够显示出我努力的太多\nwǒ yòu bùnéng gòu xiǎnshì chū wǒ nǔlì de tài duō"
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "我们要淡泊名利\nwǒmen yào dànbómínglì"
+    } ]
+  }, {
+    "tStartMs": 624766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "要与世无争\nyào yǔshìwúzhēng"
+    } ]
+  }, {
+    "tStartMs": 626733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "可以把这种图呢\nkěyǐ bǎ zhèzhǒng tú ne"
+    } ]
+  }, {
+    "tStartMs": 628133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "作为一个MEME\nzuòwéi yígè MEME"
+    } ]
+  }, {
+    "tStartMs": 629500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "作为一个表情包\nzuòwéi yígè biǎoqíng bāo"
+    } ]
+  }, {
+    "tStartMs": 630966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "在日常的交流里面使用\nzài rìcháng de jiāoliú lǐmiàn shǐyòng"
+    } ]
+  }, {
+    "tStartMs": 633566,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "同时呢\ntóngshí ne"
+    } ]
+  }, {
+    "tStartMs": 634133,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "有一些人也会把它直接作为头像\nyǒuyīxiē rén yě huì bǎ tā zhíjiē zuòwéi tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 637366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "第三张图呢\ndì sān zhāng tú ne"
+    } ]
+  }, {
+    "tStartMs": 638366,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "其实和前面一张的背景是一样的\nqíshí hé qiánmiàn yī zhāng de bèijǐng shì yīyàng de"
+    } ]
+  }, {
+    "tStartMs": 641466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "但是字已经换了啊\ndànshì zì yǐjīng huàn le a"
+    } ]
+  }, {
+    "tStartMs": 643300,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "然后这个周围一圈的花的图案也换了\nránhòu zhège zhōuwéi yī quān de huā de túàn yě huàn le"
+    } ]
+  }, {
+    "tStartMs": 647466,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "它叫「好运莲莲」\ntā jiào \"hǎoyùn lián lián\""
+    } ]
+  }, {
+    "tStartMs": 650266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "中国文化里面特别喜欢用谐音\nzhōngguó wénhuà lǐmiàn tèbié xǐhuan yòng xiéyīn"
+    } ]
+  }, {
+    "tStartMs": 653733,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "「好运连连」是一个成语\n\"hǎoyùn liánlián\" shì yígè chéngyǔ"
+    } ]
+  }, {
+    "tStartMs": 656500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "但是大家可以看到这个图片里面呢\ndànshì dàjiā kěyǐ kàn dào zhège túpiàn lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 659400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "把「连」换成了莲花的「莲」\nbǎ \"lián\" huànchéng le liánhuā de \"lián\""
+    } ]
+  }, {
+    "tStartMs": 662500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这是一个谐音梗\nzhè shì yígè xiéyīn gěng"
+    } ]
+  }, {
+    "tStartMs": 664166,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 664866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "大家可以看到这张图里面\ndàjiā kěyǐ kàn dào zhè zhāng tú lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 667500,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "它周围围着的就不是牡丹花\ntā zhōuwéi wéi zhe de jiù bùshì mǔdan huā"
+    } ]
+  }, {
+    "tStartMs": 671200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "不是一些富贵花的图案\nbùshì yīxiē fùguì huā de túàn"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "而是莲花\nérshì liánhuā"
+    } ]
+  }, {
+    "tStartMs": 675333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "然后这张图片\nránhòu zhè zhāng túpiàn"
+    } ]
+  }, {
+    "tStartMs": 677366,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "这是一只Kitty手中握着一种植物\nzhè shì yìzhī Kitty shǒu zhōng wò zhe yīzhǒng zhíwù"
+    } ]
+  }, {
+    "tStartMs": 683133,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个头像呢\nzhège tóuxiàng ne"
+    } ]
+  }, {
+    "tStartMs": 684033,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "在中国的社交媒体上也同样很火\nzài zhōngguó de shèjiāo méitǐ shàng yě tóngyàng hěn huǒ"
+    } ]
+  }, {
+    "tStartMs": 687433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "就很多人会下载下来\njiù hěn duō rén huì xiàzǎi xiàlai"
+    } ]
+  }, {
+    "tStartMs": 689166,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "然后把它作为自己的社交媒体头像\nránhòu bǎ tā zuòwéi zìjǐ de shèjiāo méitǐ tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 694033,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "这个hello Kitty手中拿着的植物叫菖蒲\nzhège hello Kitty shǒu zhōng ná zhe de zhíwù jiào chāngpú"
+    } ]
+  }, {
+    "tStartMs": 698433,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "菖蒲一般是在清明节的时候使用的\nchāngpú yībān shì zài qīngmíngjié de shíhou shǐyòng de"
+    } ]
+  }, {
+    "tStartMs": 702133,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "听说菖蒲挂在门口可以驱邪\ntīngshuō chāngpú guà zài ménkǒu kěyǐ qūxié"
+    } ]
+  }, {
+    "tStartMs": 706100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "可以辟邪\nkěyǐ bìxié"
+    } ]
+  }, {
+    "tStartMs": 707633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "传统文化里面会说用菖蒲\nchuántǒng wénhuà lǐmiàn huì shuō yòng chāngpú"
+    } ]
+  }, {
+    "tStartMs": 710100,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "然后沾水到处洒一洒\nránhòu zhān shuǐ dàochù sǎ yī sǎ"
+    } ]
+  }, {
+    "tStartMs": 713100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "可以赶走小人\nkěyǐ gǎnzǒu xiǎorén"
+    } ]
+  }, {
+    "tStartMs": 714933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "赶走霉运\ngǎnzǒu méiyùn"
+    } ]
+  }, {
+    "tStartMs": 716266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯\nń"
+    } ]
+  }, {
+    "tStartMs": 717066,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 717833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "这是这样一个形象\nzhè shì zhèyàng yígè xíngxiàng"
+    } ]
+  }, {
+    "tStartMs": 719366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "最后最后是特别火的\nzuìhòu zuìhòu shì tèbié huǒ de"
+    } ]
+  }, {
+    "tStartMs": 722066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "大家可以看到这只hello Kitty\ndàjiā kěyǐ kàn dào zhè zhǐ hello Kitty"
+    } ]
+  }, {
+    "tStartMs": 723733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "躺在浴缸里面\ntǎng zài yùgāng lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 725733,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "是作为一个富婆的形象出现的\nshì zuòwéi yígè fùpó de xíngxiàng chūxiàn de"
+    } ]
+  }, {
+    "tStartMs": 728966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "它的浴缸里面不是水\ntā de yùgāng lǐmiàn bùshì shuǐ"
+    } ]
+  }, {
+    "tStartMs": 730700,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "而是铺满了金币\nérshì pù mǎn le jīnbì"
+    } ]
+  }, {
+    "tStartMs": 732966,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "哈哈\nhāhā"
+    } ]
+  }, {
+    "tStartMs": 733666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "这个就象征着什么呢\nzhège jiù xiàngzhēng zhe shénme ne"
+    } ]
+  }, {
+    "tStartMs": 735300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "象征着这只富贵的hello Kitty啊\nxiàngzhēng zhe zhè zhǐ fùguì de hello Kitty a"
+    } ]
+  }, {
+    "tStartMs": 737866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "到处都是钱\ndàochù dōu shì qián"
+    } ]
+  }, {
+    "tStartMs": 739333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "充满着金钱\nchōngmǎn zhe jīnqián"
+    } ]
+  }, {
+    "tStartMs": 741100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "所以大家为什么不喜欢\nsuǒyǐ dàjiā wèishénme bù xǐhuan"
+    } ]
+  }, {
+    "tStartMs": 742666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "用自己的照片来作为头像呢\nyòng zìjǐ de zhàopiàn lái zuòwéi tóuxiàng ne"
+    } ]
+  }, {
+    "tStartMs": 745633,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "不能够传达这么多的感想\nbùnéng gòu chuándá zhème duō de gǎnxiǎng"
+    } ]
+  }, {
+    "tStartMs": 748700,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "不能够传达这么多的心情呀\nbùnéng gòu chuándá zhème duō de xīnqíng ya"
+    } ]
+  }, {
+    "tStartMs": 751666,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "如果换成这种特别可爱的卡通形象\nrúguǒ huànchéng zhèzhǒng tèbié kěài díkǎ tōng xíngxiàng"
+    } ]
+  }, {
+    "tStartMs": 755433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "配上这种各种形式的背景\npèi shàng zhèzhǒng gèzhǒng xíngshì de bèijǐng"
+    } ]
+  }, {
+    "tStartMs": 758733,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "然后呢\nránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 759366,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "就可以准确的传达出最近的心情\njiù kěyǐ zhǔnquè de chuándá chū zuìjìn de xīnqíng"
+    } ]
+  }, {
+    "tStartMs": 763300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "比如说我最近在职场上面\nbǐrú shuō wǒ zuìjìn zàizhí chǎng shàngmiàn"
+    } ]
+  }, {
+    "tStartMs": 765733,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我受到了不公正的待遇\nwǒ shòudào liǎobù gōngzhèng de dàiyù"
+    } ]
+  }, {
+    "tStartMs": 768066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我就觉得我碰到了小人了\nwǒ jiù juéde wǒ pèngdào le xiǎorén le"
+    } ]
+  }, {
+    "tStartMs": 770700,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "赶紧换上这张图片\ngǎnjǐn huàn shàng zhè zhāng túpiàn"
+    } ]
+  }, {
+    "tStartMs": 772933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我要驱邪\nwǒ yào qūxié"
+    } ]
+  }, {
+    "tStartMs": 773966,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "我要赶小人\nwǒ yào gǎn xiǎorén"
+    } ]
+  }, {
+    "tStartMs": 775400,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 775933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "如果换上这张富婆的hello Kitty头像\nrúguǒ huàn shàng zhè zhāng fùpó de hello Kitty tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 778700,
+    "dDurationMs": 266,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 778966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "那就代表着「我想要赚钱」\nnà jiù dàibiǎo zhe \"wǒ xiǎngyào zhuànqián\""
+    } ]
+  }, {
+    "tStartMs": 781300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "「搞钱」最重要呀\n\"gǎoqián\" zuì zhòngyào ya"
+    } ]
+  }, {
+    "tStartMs": 783033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈\nhāhā"
+    } ]
+  }, {
+    "tStartMs": 783833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "「搞钱」最重要！\n\"gǎoqián\" zuì zhòngyào!"
+    } ]
+  }, {
+    "tStartMs": 785466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "有的时候呢\nyǒudeshíhòu ne"
+    } ]
+  }, {
+    "tStartMs": 786766,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "又和另外一个比较火的话题相关\nyòu hé lìngwài yígè bǐjiào huǒ dehuà tí xiāngguān"
+    } ]
+  }, {
+    "tStartMs": 790500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "那就是「玄学」\nnà jiùshì \"xuánxué\""
+    } ]
+  }, {
+    "tStartMs": 794100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我也不知道这个说法是从哪里来的\nwǒ yě bùzhī dào zhège shuōfa shì cóng nǎlǐ lái de"
+    } ]
+  }, {
+    "tStartMs": 797733,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "就是换头像可以改变最近的运气\njiùshì huàn tóuxiàng kěyǐ gǎibiàn zuìjìn de yùnqi"
+    } ]
+  }, {
+    "tStartMs": 804333,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我表示无法理解\nwǒ biǎoshì wúfǎ lǐjiě"
+    } ]
+  }, {
+    "tStartMs": 806500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "比如说一些玄学博主会说\nbǐrú shuō yīxiē xuánxué bózhǔ huì shuō"
+    } ]
+  }, {
+    "tStartMs": 808966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "1995年7月出生的\n1995 nián 7 yuè chūshēng de"
+    } ]
+  }, {
+    "tStartMs": 811966,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "最近呢\nzuìjìn ne"
+    } ]
+  }, {
+    "tStartMs": 812466,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "需要换上一个绿色的头像\nxūyào huàn shàngyīge lùsè de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 814833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "那大家选来选去\nnà dàjiā xuǎn lái xuǎn qù"
+    } ]
+  }, {
+    "tStartMs": 816200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "那换一个绿色的头像\nnà huàn yígè lùsè de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 817866,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "哎\nāi"
+    } ]
+  }, {
+    "tStartMs": 818166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "正好最近呢\nzhènghǎo zuìjìn ne"
+    } ]
+  }, {
+    "tStartMs": 819833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "有在职场上面碰到了一些不开心\nyǒu zàizhí chǎng shàngmiàn pèngdào le yīxiē bù kāixīn"
+    } ]
+  }, {
+    "tStartMs": 822666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "那我就换上这张\nnà wǒ jiù huàn shàng zhè zhāng"
+    } ]
+  }, {
+    "tStartMs": 824133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Hello Kitty手拿菖蒲的头像\nHello Kitty shǒu ná chāngpú de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 827800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "听说可以避小人\ntīngshuō kěyǐ bì xiǎorén"
+    } ]
+  }, {
+    "tStartMs": 829833,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "听说可以转运\ntīngshuō kěyǐ zhuǎnyùn"
+    } ]
+  }, {
+    "tStartMs": 831700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "在中国\nzài zhōngguó"
+    } ]
+  }, {
+    "tStartMs": 832900,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "如果说最近你特别特别想要谈恋爱\nrúguǒ shuō zuìjìn nǐ tèbié tèbié xiǎngyào tánliànài"
+    } ]
+  }, {
+    "tStartMs": 836333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "你就要通过一些方式来「招引桃花」\nnǐ jiùyào tōngguò yīxiē fāngshì lái \"zhāoyǐn táohuā\""
+    } ]
+  }, {
+    "tStartMs": 841133,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "「招桃花」\n\"zhāo táohuā\""
+    } ]
+  }, {
+    "tStartMs": 842633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "那招桃花在玄学领域\nnà zhāo táohuā zài xuánxué lǐngyù"
+    } ]
+  }, {
+    "tStartMs": 845333,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "最常见最常见的一个做法就是\nzuì chángjiàn zuì chángjiàn de yígè zuòfǎ jiùshì"
+    } ]
+  }, {
+    "tStartMs": 848100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "穿粉红色(的衣服）\nchuān fěnhóngsè (de yīfu)"
+    } ]
+  }, {
+    "tStartMs": 849866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "佩戴粉红色的水晶\npèidài fěnhóngsè de shuǐjīng"
+    } ]
+  }, {
+    "tStartMs": 852433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "粉水晶特别招桃花\nfěn shuǐjīng tèbié zhāo táohuā"
+    } ]
+  }, {
+    "tStartMs": 854566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "还有就是给自己的头像\nháiyǒu jiùshì gěi zìjǐ de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 856566,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "换成这种粉粉嫩嫩的\nhuànchéng zhèzhǒng fěn fěn nèn nèn de"
+    } ]
+  }, {
+    "tStartMs": 859000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "花开富贵\nhuā kāi fùguì"
+    } ]
+  }, {
+    "tStartMs": 860600,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "好运连连的头像\nhǎoyùn liánlián de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 864333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 865600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就让我觉得特别有意思\njiù ràng wǒ juéde tèbié yǒuyìsi"
+    } ]
+  }, {
+    "tStartMs": 867533,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "就很神奇\njiù hěn shénqí"
+    } ]
+  }, {
+    "tStartMs": 868833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "换头像这件事情\nhuàn tóuxiàng zhè jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 870200,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "又让我想起来我们家\nyòu ràng wǒ xiǎngqilai wǒmen jiā"
+    } ]
+  }, {
+    "tStartMs": 872033,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "之前就是发生的一件事情\nzhīqián jiùshì fāshēng de yī jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 874033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "我妈有一段时间特别\nwǒ mā yǒu yī duàn shíjiān tèbié"
+    } ]
+  }, {
+    "tStartMs": 875966,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "沉迷于玄学这个话题\nchénmí yú xuánxué zhège huàtí"
+    } ]
+  }, {
+    "tStartMs": 878166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "然后\nránhòu"
+    } ]
+  }, {
+    "tStartMs": 879366,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "又因为抖音快手各种社交媒体的轰炸\nyòu yīnwèi dǒu yīn kuài shǒu gèzhǒng shèjiāo méitǐ de hōngzhà"
+    } ]
+  }, {
+    "tStartMs": 883333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "她有一段时间就迷信这种东西\ntā yǒu yī duàn shíjiān jiù míxìn zhèzhǒng dōngxi"
+    } ]
+  }, {
+    "tStartMs": 886633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "然后有某位大师吧\nránhòu yǒu mǒu wèi dàshī ba"
+    } ]
+  }, {
+    "tStartMs": 889033,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "可能就是在他的视频里面有提到过\nkěnéng jiùshì zài tā de shìpín lǐmiàn yǒu tídào guò"
+    } ]
+  }, {
+    "tStartMs": 892566,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "说现在的女孩子都喜欢把\nshuō xiànzài de nǔháizi dōu xǐhuan bǎ"
+    } ]
+  }, {
+    "tStartMs": 894900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "把自己养的宠物来作为头像\nbǎ zìjǐ yǎng de chǒngwù lái zuòwéi tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 898133,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这个其实呢\nzhège qíshí ne"
+    } ]
+  }, {
+    "tStartMs": 899100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "是破坏「运」的一种行为\nshì pòhuài \"yùn\" de yīzhǒng xíngwéi"
+    } ]
+  }, {
+    "tStartMs": 902100,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不太好\nbùtàihǎo"
+    } ]
+  }, {
+    "tStartMs": 903633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我之前特别喜欢用我们家猫作为头像\nwǒ zhīqián tèbié xǐhuan yòng wǒmen jiā māo zuòwéi tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 907433,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "然后我妈就因为听信了这些大师的说法\nránhòu wǒ mā jiù yīnwèi tīngxìn le zhèxiē dàshī de shuōfa"
+    } ]
+  }, {
+    "tStartMs": 911966,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "每次和我用了微信聊天之后\nměicì hé wǒ yòng le wēixìn liáotiān zhīhòu"
+    } ]
+  }, {
+    "tStartMs": 915200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "就会再加一句：\njiù huì zài jiā yījù:"
+    } ]
+  }, {
+    "tStartMs": 917133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "“你赶紧把你那个头像换了！”\n\"nǐ gǎnjǐn bǎ nǐ nàge tóuxiàng huàn le!\""
+    } ]
+  }, {
+    "tStartMs": 919566,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "“不好！”之类的\n\"bùhǎo!\" zhīlèi de"
+    } ]
+  }, {
+    "tStartMs": 921300,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我跟她争吵了很多回\nwǒ gēn tā zhēngchǎo le hěn duō huí"
+    } ]
+  }, {
+    "tStartMs": 922700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "但是她就是会一遍一遍地说\ndànshì tā jiùshì huì yībiàn yībiàn dì shuō"
+    } ]
+  }, {
+    "tStartMs": 925266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那就很神奇\nnà jiù hěn shénqí"
+    } ]
+  }, {
+    "tStartMs": 926466,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 927233,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "每个说法又不一样\nměi gè shuōfa yòu bùyīyàng"
+    } ]
+  }, {
+    "tStartMs": 928933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我不能够放自己的猫\nwǒ bùnéng gòu fàng zìjǐ de māo"
+    } ]
+  }, {
+    "tStartMs": 930733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "但是放Hello Kitty又可以招桃花\ndànshì fàng Hello Kitty yòu kěyǐ zhāo táohuā"
+    } ]
+  }, {
+    "tStartMs": 933333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "又可以赶小人\nyòu kěyǐ gǎn xiǎorén"
+    } ]
+  }, {
+    "tStartMs": 934666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这是什么说法呢\nzhè shì shénme shuōfa ne"
+    } ]
+  }, {
+    "tStartMs": 936033,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我就会觉得很神奇\nwǒ jiù huì juéde hěn shénqí"
+    } ]
+  }, {
+    "tStartMs": 937633,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "这个牛头不对马嘴的说法\nzhège niútóu bùduì mǎ zuǐ de shuōfa"
+    } ]
+  }, {
+    "tStartMs": 939700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对吗\nduì ma"
+    } ]
+  }, {
+    "tStartMs": 940800,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "其实大家也可以看到这些图片呢\nqíshí dàjiā yě kěyǐ kàn dào zhèxiē túpiàn ne"
+    } ]
+  }, {
+    "tStartMs": 944133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "有一点点摆烂\nyǒu yīdiǎndiǎn bǎi làn"
+    } ]
+  }, {
+    "tStartMs": 945866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "有一点点叛逆\nyǒu yīdiǎndiǎn pànnì"
+    } ]
+  }, {
+    "tStartMs": 947466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "它和原始的那种很可爱的\ntā hé yuánshǐ de nàzhǒng hěn kěài de"
+    } ]
+  }, {
+    "tStartMs": 949633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "只是一个很简单的卡通形象呢\nzhǐshì yígè hěn jiǎndān díkǎ tōng xíngxiàng ne"
+    } ]
+  }, {
+    "tStartMs": 952100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "已经不一样了\nyǐjīng bùyīyàng le"
+    } ]
+  }, {
+    "tStartMs": 953933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "再包括\nzài bāokuò"
+    } ]
+  }, {
+    "tStartMs": 955233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "其实在hello Kitty原著里面\nqíshí zài hello Kitty yuánzhù lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 958066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "hello Kitty会经常语不惊人死不休\nhello Kitty huì jīngcháng yǔ bù jīngrén sǐ bùxiū"
+    } ]
+  }, {
+    "tStartMs": 961600,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "它会经常带着这种毒舌\ntā huì jīngcháng dài zhe zhèzhǒng dú shé"
+    } ]
+  }, {
+    "tStartMs": 964033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "会莫名其妙的说出来\nhuì mòmíngqímiào de shuōchū lái"
+    } ]
+  }, {
+    "tStartMs": 966233,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "啊\na"
+    } ]
+  }, {
+    "tStartMs": 966533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "“你们都是神经病！”\n\"nǐmen dōu shì shénjīngbìng!\""
+    } ]
+  }, {
+    "tStartMs": 968066,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "这种很可爱的毒舌语录\nzhèzhǒng hěn kěài de dú shé yǔlù"
+    } ]
+  }, {
+    "tStartMs": 970800,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "再加上这些\nzàijiāshang zhèxiē"
+    } ]
+  }, {
+    "tStartMs": 973333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "有些摆烂\nyǒuxiē bǎi làn"
+    } ]
+  }, {
+    "tStartMs": 974733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有一点发疯\nyǒu yīdiǎn fāfēng"
+    } ]
+  }, {
+    "tStartMs": 976200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "甚至带着反骨的二次创作\nshènzhì dài zhe fǎn gǔ de èrcì chuàngzuò"
+    } ]
+  }, {
+    "tStartMs": 979400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "所以我觉得这也是为什么\nsuǒyǐ wǒ juéde zhè yě shì wèishénme"
+    } ]
+  }, {
+    "tStartMs": 981566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Hello Kitty现在在年轻人里面\nHello Kitty xiànzài zài niánqīngrén lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 984333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "可以再次火爆的一个原因\nkěyǐ zàicì huǒbào de yígè yuányīn"
+    } ]
+  }, {
+    "tStartMs": 987933,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "当然\ndāngrán"
+    } ]
+  }, {
+    "tStartMs": 988400,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我觉得大家也不是真的迷信这些头像\nwǒ juéde dàjiā yě bùshì zhēn de míxìn zhèxiē tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 991633,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "觉得可以通过换头像这件事情\njuéde kěyǐ tōngguò huàn tóuxiàng zhè jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 994666,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "就能够改变我们当下的命运\njiù nénggòu gǎibiàn wǒmen dāngxià de mìngyùn"
+    } ]
+  }, {
+    "tStartMs": 997600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "可能也只是\nkěnéng yě zhǐshì"
+    } ]
+  }, {
+    "tStartMs": 999066,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "在不那么重要的东西上面寄托一点点的希望\nzài bù nàme zhòngyào de dōngxi shàngmiàn jìtuō yīdiǎndiǎn de xīwàng"
+    } ]
+  }, {
+    "tStartMs": 1003933,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "这是一个最低成本的转运仪式而已\nzhè shì yígè zuì dīchéngběn de zhuǎnyùn yíshì éryǐ"
+    } ]
+  }, {
+    "tStartMs": 1008500,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "当我们没有力气改变现状的时候\ndāng wǒmen méiyǒu lìqi gǎibiàn xiànzhuàng de shíhou"
+    } ]
+  }, {
+    "tStartMs": 1011533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "至少我还能够决定今天会用\nzhìshǎo wǒ hái nénggòu juédìng jīntiān huì yòng"
+    } ]
+  }, {
+    "tStartMs": 1014233,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "一个什么样的头像来面对现实的困难\nyígè shénmeyàng de tóuxiàng lái miànduì xiànshí de kùnnan"
+    } ]
+  }, {
+    "tStartMs": 1018600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "不确定性\nbù quèdìngxìng"
+    } ]
+  }, {
+    "tStartMs": 1020066,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "偶尔呢\nǒuěr ne"
+    } ]
+  }, {
+    "tStartMs": 1020700,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "我也会看给我留言的\nwǒ yě huì kàn gěi wǒ liúyán de"
+    } ]
+  }, {
+    "tStartMs": 1023233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这些朋友们的头像\nzhèxiē péngyou men de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 1025066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我发现很多人并没有修改他们的头像\nwǒ fāxiàn hěn duō rén bìng méiyǒu xiūgǎi tāmen de tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 1027933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "只是用了一个默认的\nzhǐshì yòng le yígè mòrèn de"
+    } ]
+  }, {
+    "tStartMs": 1030866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "名字生成的一个头像\nmíngzi shēngchéng de yígè tóuxiàng"
+    } ]
+  }, {
+    "tStartMs": 1033666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "大家对于头像会有什么样的看法呢\ndàjiā duìyú tóuxiàng huì yǒu shénmeyàng de kànfǎ ne"
+    } ]
+  }, {
+    "tStartMs": 1037300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "你们日常会选择一些玄学的方式\nnǐmen rìcháng huì xuǎnzé yīxiē xuánxué de fāngshì"
+    } ]
+  }, {
+    "tStartMs": 1040866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "帮助自己改一点点运气吗\nbāngzhù zìjǐ gǎi yīdiǎndiǎn yùnqi ma"
+    } ]
+  }, {
+    "tStartMs": 1044300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "还是说你们更愿意相信\nháishi shuō nǐmen gèng yuànyì xiāngxìn"
+    } ]
+  }, {
+    "tStartMs": 1046533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "脚踏实地\njiǎotàshídì"
+    } ]
+  }, {
+    "tStartMs": 1047733,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "努力工作才能够改变自己的好运气呢\nnǔlì gōngzuò cáinéng gòu gǎibiàn zìjǐ de hǎoyùn qì ne"
+    } ]
+  }, {
+    "tStartMs": 1052266,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "期待听见大家的回答\nqīdài tīngjiàn dàjiā de huídá"
+    } ]
+  }, {
+    "tStartMs": 1055166,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "好啦\nhǎo la"
+    } ]
+  }, {
+    "tStartMs": 1055933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "以上就是今天全部的内容\nyǐshàng jiùshì jīntiān quánbù de nèiróng"
+    } ]
+  }, {
+    "tStartMs": 1058333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "感谢大家的观看\ngǎnxiè dàjiā de guānkàn"
+    } ]
+  }, {
+    "tStartMs": 1060033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "感谢大家的陪伴\ngǎnxiè dàjiā de péibàn"
+    } ]
+  }, {
+    "tStartMs": 1061766,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "那我们就下期视频再见喽\nnà wǒmen jiù xià qī shìpín zàijiàn lóu"
+    } ]
+  }, {
+    "tStartMs": 1064866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜\nbáibái"
+    } ]
+  } ]
+}

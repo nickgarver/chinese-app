@@ -1,0 +1,1093 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 27966,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "大家好，今天我来到了深圳"
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "一个我很喜欢的年轻城市"
+    } ]
+  }, {
+    "tStartMs": 36666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "现在我在深圳的人才公园"
+    } ]
+  }, {
+    "tStartMs": 41766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "这也是我第一次来到这儿"
+    } ]
+  }, {
+    "tStartMs": 44866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这里的风景超漂亮的"
+    } ]
+  }, {
+    "tStartMs": 48500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "给你们看一下"
+    } ]
+  }, {
+    "tStartMs": 52433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "看，是不是很漂亮"
+    } ]
+  }, {
+    "tStartMs": 56200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "虽然现在是夏天"
+    } ]
+  }, {
+    "tStartMs": 59100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "但是吹着海风"
+    } ]
+  }, {
+    "tStartMs": 61900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "感觉非常地凉爽"
+    } ]
+  }, {
+    "tStartMs": 66700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在是下午1点多"
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "但公园里还是有很多的人"
+    } ]
+  }, {
+    "tStartMs": 75166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "这是一个靠海的公园"
+    } ]
+  }, {
+    "tStartMs": 78366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "大家可以看得到"
+    } ]
+  }, {
+    "tStartMs": 80266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "靠海，就是它靠近海"
+    } ]
+  }, {
+    "tStartMs": 82466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "沿海公园"
+    } ]
+  }, {
+    "tStartMs": 85133,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "这里有一个造型很独特的建筑"
+    } ]
+  }, {
+    "tStartMs": 94933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这个建筑像什么呢"
+    } ]
+  }, {
+    "tStartMs": 97766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "像不像火箭"
+    } ]
+  }, {
+    "tStartMs": 103533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这个公园非常干净"
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "我现在连一片垃圾都没有看到"
+    } ]
+  }, {
+    "tStartMs": 114733,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我发现这个公园的上空"
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "有很多无人机在飞来飞去"
+    } ]
+  }, {
+    "tStartMs": 123966,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "原来这个公园可以用无人机来送外卖"
+    } ]
+  }, {
+    "tStartMs": 140966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "这里写着一些下单的步骤"
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "1、2、3、4、5"
+    } ]
+  }, {
+    "tStartMs": 147733,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "它的运营时间是早上10点到晚上8点"
+    } ]
+  }, {
+    "tStartMs": 153600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "那我们也来试一下"
+    } ]
+  }, {
+    "tStartMs": 155800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "点一下这个无人机外卖吧"
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "首先，我们用微信来扫描这个二维码"
+    } ]
+  }, {
+    "tStartMs": 167400,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "在这里你就可以点外卖了"
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "可以选择的东西也挺多的"
+    } ]
+  }, {
+    "tStartMs": 176166,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "饭、饮品、冰淇淋、雪糕"
+    } ]
+  }, {
+    "tStartMs": 180833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "一些日常用品都可以送"
+    } ]
+  }, {
+    "tStartMs": 184133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "天气太热了"
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "那就来吃个雪糕吧"
+    } ]
+  }, {
+    "tStartMs": 188100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "点了三个雪糕"
+    } ]
+  }, {
+    "tStartMs": 189900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "巧克力雪糕，15块钱"
+    } ]
+  }, {
+    "tStartMs": 192666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "但是配送费要11块"
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "配送费比雪糕还贵"
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "它给了我优惠"
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "所以我只需要支付10块钱(雪糕)就可以了"
+    } ]
+  }, {
+    "tStartMs": 206433,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "这里可以看得到你的无人机“外卖员”现在是什么状态"
+    } ]
+  }, {
+    "tStartMs": 215200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "现在它在等待起飞"
+    } ]
+  }, {
+    "tStartMs": 217433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "商品正在登机"
+    } ]
+  }, {
+    "tStartMs": 220066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "很快就能送过来了"
+    } ]
+  }, {
+    "tStartMs": 229833,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "又一架无人机送餐来了"
+    } ]
+  }, {
+    "tStartMs": 233966,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "它会停在外卖柜的上面"
+    } ]
+  }, {
+    "tStartMs": 239700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "然后把外卖放在外卖柜"
+    } ]
+  }, {
+    "tStartMs": 245466,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "送完餐以后，它就会再次起飞"
+    } ]
+  }, {
+    "tStartMs": 250233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "再去送下一单"
+    } ]
+  }, {
+    "tStartMs": 251866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "就像一个外卖员一样"
+    } ]
+  }, {
+    "tStartMs": 258166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "一辆无人机走了"
+    } ]
+  }, {
+    "tStartMs": 259900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "又有另一辆无人机来了"
+    } ]
+  }, {
+    "tStartMs": 264366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "我们会用取餐码把餐取出来"
+    } ]
+  }, {
+    "tStartMs": 280400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "柜门已打开"
+    } ]
+  }, {
+    "tStartMs": 281766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "请尽快取出餐箱"
+    } ]
+  }, {
+    "tStartMs": 285300,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "打开箱子，我们的外卖就是在这里了"
+    } ]
+  }, {
+    "tStartMs": 290866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "然后呢，我们会把箱子折起来"
+    } ]
+  }, {
+    "tStartMs": 295866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "放进这里面去，循环再用"
+    } ]
+  }, {
+    "tStartMs": 308466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "只是用了10分钟"
+    } ]
+  }, {
+    "tStartMs": 310900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我们的雪糕就到了"
+    } ]
+  }, {
+    "tStartMs": 312933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "真的非常地神速啊"
+    } ]
+  }, {
+    "tStartMs": 316133,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "这是我们买的巧克力雪糕"
+    } ]
+  }, {
+    "tStartMs": 322766,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "无人机送的雪糕、冰淇淋特别好吃"
+    } ]
+  }, {
+    "tStartMs": 328900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "天气太热了"
+    } ]
+  }, {
+    "tStartMs": 330933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "冰淇淋马上(就)融化了"
+    } ]
+  }, {
+    "tStartMs": 333900,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "不得不说，现在的科技真是越来越发达了"
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "科技正在改变我们的生活"
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "连学习语言也越来越方便了"
+    } ]
+  }, {
+    "tStartMs": 344966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "现在我想跟大家分享我们的老朋友FluentU"
+    } ]
+  }, {
+    "tStartMs": 349500,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "最近推出了一项很实用的新功能"
+    } ]
+  }, {
+    "tStartMs": 401300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "感兴趣的小伙伴"
+    } ]
+  }, {
+    "tStartMs": 403200,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "赶快通过我的链接"
+    } ]
+  }, {
+    "tStartMs": 404866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "来体验一下FluentU的新功能吧"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "还能获得专属优惠哦"
+    } ]
+  }, {
+    "tStartMs": 410633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "希望可以帮助到大家"
+    } ]
+  }, {
+    "tStartMs": 412233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "更轻松、更自然地学习中文"
+    } ]
+  }, {
+    "tStartMs": 441300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "34度的高温实在受不了了"
+    } ]
+  }, {
+    "tStartMs": 444900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "所以现在我们来逛商场了"
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "扫地机器人正在勤奋地工作中"
+    } ]
+  }, {
+    "tStartMs": 457500,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "这里的街道非常地干净"
+    } ]
+  }, {
+    "tStartMs": 462566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "有很多很多的商店"
+    } ]
+  }, {
+    "tStartMs": 465100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "还有高楼大厦"
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "是有名的商圈"
+    } ]
+  }, {
+    "tStartMs": 477833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "现在正值世界杯期间"
+    } ]
+  }, {
+    "tStartMs": 481500,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "前面有一个大足球的模型"
+    } ]
+  }, {
+    "tStartMs": 491400,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "这条街有很多特色的餐厅"
+    } ]
+  }, {
+    "tStartMs": 500033,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "这家餐厅像皇宫一样，有没有"
+    } ]
+  }, {
+    "tStartMs": 504700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "装修得像皇宫一样"
+    } ]
+  }, {
+    "tStartMs": 509800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "看起来很高级，很奢华"
+    } ]
+  }, {
+    "tStartMs": 520133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我以为是真的"
+    } ]
+  }, {
+    "tStartMs": 521666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "其实它是假的"
+    } ]
+  }, {
+    "tStartMs": 523466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "假花"
+    } ]
+  }, {
+    "tStartMs": 524933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "但是看起来像真的一样"
+    } ]
+  }, {
+    "tStartMs": 534533,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "这家好像是一家墨西哥还是西班牙的餐厅"
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "是西班牙的餐厅"
+    } ]
+  }, {
+    "tStartMs": 544033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "西班牙传统海鲜饭"
+    } ]
+  }, {
+    "tStartMs": 553433,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "看起来气氛超好的"
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "每家店都很有特色，很漂亮"
+    } ]
+  }, {
+    "tStartMs": 564200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "让人忍不住要拍照"
+    } ]
+  }, {
+    "tStartMs": 572133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "这家是墨西哥餐厅了"
+    } ]
+  }, {
+    "tStartMs": 580666,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "粉红色的门特别可爱啊"
+    } ]
+  }, {
+    "tStartMs": 586933,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "因为现在是夏天"
+    } ]
+  }, {
+    "tStartMs": 589100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "天气实在太热了"
+    } ]
+  }, {
+    "tStartMs": 591500,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "所以就算在外面也会有一把小风扇"
+    } ]
+  }, {
+    "tStartMs": 598233,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "但是小风扇还是不够啊"
+    } ]
+  }, {
+    "tStartMs": 601400,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "34度的高温"
+    } ]
+  }, {
+    "tStartMs": 603066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "一把风扇怎么够呢"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这些就是真花了"
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "虽然颜色没有那么好看"
+    } ]
+  }, {
+    "tStartMs": 614233,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "但确实是真的"
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "这栋楼上面有一只大象"
+    } ]
+  }, {
+    "tStartMs": 623833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "鼻子很长很长"
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "快要到地面了"
+    } ]
+  }, {
+    "tStartMs": 635500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "这边有一个巨大的屏幕"
+    } ]
+  }, {
+    "tStartMs": 640433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这里超多人排队的"
+    } ]
+  }, {
+    "tStartMs": 643400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "他们排队进去这家店"
+    } ]
+  }, {
+    "tStartMs": 650500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "太好奇了"
+    } ]
+  }, {
+    "tStartMs": 651566,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "所以我们也排队进去看看到底里面有什么"
+    } ]
+  }, {
+    "tStartMs": 656733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "为什么可以吸引这么多人"
+    } ]
+  }, {
+    "tStartMs": 664633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "终于进来了"
+    } ]
+  }, {
+    "tStartMs": 668000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "有空调我才活过来了"
+    } ]
+  }, {
+    "tStartMs": 673000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "一进来就看到了一个非常巨大的"
+    } ]
+  }, {
+    "tStartMs": 677833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "很真实的一个雕像"
+    } ]
+  }, {
+    "tStartMs": 682866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "天哪，太可怕了，太像了"
+    } ]
+  }, {
+    "tStartMs": 685366,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "像一个巨人一样"
+    } ]
+  }, {
+    "tStartMs": 691066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "大家看他的手还有脚"
+    } ]
+  }, {
+    "tStartMs": 695666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "非常地细节"
+    } ]
+  }, {
+    "tStartMs": 701566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "特别逼真"
+    } ]
+  }, {
+    "tStartMs": 712500,
+    "dDurationMs": 6966,
+    "segs": [ {
+      "utf8": "同样，这是非常逼真、会动的牛"
+    } ]
+  }, {
+    "tStartMs": 721466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "大家看一看"
+    } ]
+  }, {
+    "tStartMs": 722733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "是不是很逼真"
+    } ]
+  }, {
+    "tStartMs": 725133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "牛不牛"
+    } ]
+  }, {
+    "tStartMs": 751000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "我还以为是一个免费的展览"
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "但其实它是一家商店"
+    } ]
+  }, {
+    "tStartMs": 757133,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "是一家比较有艺术感的商店"
+    } ]
+  }, {
+    "tStartMs": 762966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "它非常地成功"
+    } ]
+  }, {
+    "tStartMs": 763966,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "因为它吸引了很多人到这里来看"
+    } ]
+  }, {
+    "tStartMs": 793700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "现在我来到了深圳湾公园"
+    } ]
+  }, {
+    "tStartMs": 798066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "吃完饭过来散一下步"
+    } ]
+  }, {
+    "tStartMs": 801366,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "周末这边的人是超级超级多"
+    } ]
+  }, {
+    "tStartMs": 805733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "有很多人坐在海边吹风"
+    } ]
+  }, {
+    "tStartMs": 811466,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "也有很多人是骑自行车的"
+    } ]
+  }, {
+    "tStartMs": 815100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "沿着海边骑自行车"
+    } ]
+  }, {
+    "tStartMs": 819966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "现在是傍晚"
+    } ]
+  }, {
+    "tStartMs": 823466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "天刚刚黑了一点"
+    } ]
+  }, {
+    "tStartMs": 826366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "那边的建筑亮了灯"
+    } ]
+  }, {
+    "tStartMs": 830566,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "等晚一点的时候"
+    } ]
+  }, {
+    "tStartMs": 832700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "天更黑的时候"
+    } ]
+  }, {
+    "tStartMs": 835166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "那边的建筑全亮了灯的话"
+    } ]
+  }, {
+    "tStartMs": 838266,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "那就是非常好看的夜景"
+    } ]
+  }, {
+    "tStartMs": 847266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "这里有好多大石头呀"
+    } ]
+  }, {
+    "tStartMs": 853200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "那边密密麻麻的都是人"
+    } ]
+  }, {
+    "tStartMs": 857000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "很多人在那边拍照"
+    } ]
+  }, {
+    "tStartMs": 861366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "看得不太清楚"
+    } ]
+  }, {
+    "tStartMs": 863000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "有点模糊"
+    } ]
+  }, {
+    "tStartMs": 864733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "但是呢，那边是山"
+    } ]
+  }, {
+    "tStartMs": 867533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这里有一座大桥"
+    } ]
+  }, {
+    "tStartMs": 872700,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "听着海水的那个声音真的特别地舒服"
+    } ]
+  }, {
+    "tStartMs": 877366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "吹着清凉的海风"
+    } ]
+  }, {
+    "tStartMs": 880733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "从这边可以看到更多的建筑"
+    } ]
+  }, {
+    "tStartMs": 884433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "大家都在等这个夜景"
+    } ]
+  }, {
+    "tStartMs": 887500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "太有意思了"
+    } ]
+  }, {
+    "tStartMs": 355766,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "你可以跟它聊任何话题来练习中文"
+    } ]
+  }, {
+    "tStartMs": 359900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "如果你说错了"
+    } ]
+  }, {
+    "tStartMs": 361466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "它会帮你纠正"
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "如果不知道怎么表达"
+    } ]
+  }, {
+    "tStartMs": 364966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "它也会一步一步引导你"
+    } ]
+  }, {
+    "tStartMs": 367166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "就像随时都有一位老师"
+    } ]
+  }, {
+    "tStartMs": 369366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "陪你练习口语一样"
+    } ]
+  }, {
+    "tStartMs": 371733,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "我平时还很喜欢用FluentU上的真实视频学语言"
+    } ]
+  }, {
+    "tStartMs": 376500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "因为学到的是母语者真正会说的表达"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "而不是课本里比较生硬的句子"
+    } ]
+  }, {
+    "tStartMs": 383466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我们还可以用YouTube和Netflix上任何带有字幕的视频"
+    } ]
+  }, {
+    "tStartMs": 388100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "学习自己真正感兴趣的内容"
+    } ]
+  }, {
+    "tStartMs": 391266,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "看到不会的词"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "还可以直接查询并加入自己的单词本"
+    } ]
+  }, {
+    "tStartMs": 395766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "之后FluentU会自动帮你安排复习和练习"
+    } ]
+  }, {
+    "tStartMs": 399200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "让你更容易记住"
+    } ]
+  } ]
+}

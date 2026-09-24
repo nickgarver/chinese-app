@@ -1,0 +1,1351 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 33,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "欢迎来到我的第二期中文播客"
+    } ]
+  }, {
+    "tStartMs": 4333,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "在这个视频中"
+    } ]
+  }, {
+    "tStartMs": 6100,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "我会分享我从中国到越南的旅途"
+    } ]
+  }, {
+    "tStartMs": 11533,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "我会带你们从中国到越南"
+    } ]
+  }, {
+    "tStartMs": 15400,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "你可以学习到一些"
+    } ]
+  }, {
+    "tStartMs": 17100,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "关于交通工具的表达"
+    } ]
+  }, {
+    "tStartMs": 20533,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "最后我还会分享一个小故事"
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "是一件非常让我意想不到的事情"
+    } ]
+  }, {
+    "tStartMs": 29300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "那我们现在就开始吧"
+    } ]
+  }, {
+    "tStartMs": 31466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "在这里顺便给你们推荐一个插件"
+    } ]
+  }, {
+    "tStartMs": 34800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "叫language Reactor"
+    } ]
+  }, {
+    "tStartMs": 37000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "上个视频中"
+    } ]
+  }, {
+    "tStartMs": 38200,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "评论区有人建议我可以加上拼音"
+    } ]
+  }, {
+    "tStartMs": 42800,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "其实呢我已经上传了字幕"
+    } ]
+  }, {
+    "tStartMs": 45833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "通过这个插件"
+    } ]
+  }, {
+    "tStartMs": 47333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "你可以看到拼音中文"
+    } ]
+  }, {
+    "tStartMs": 50433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "还有翻译的语言"
+    } ]
+  }, {
+    "tStartMs": 52600,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "它对语言学习非常有帮助"
+    } ]
+  }, {
+    "tStartMs": 55800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "我是星期天从中国出发去越南的"
+    } ]
+  }, {
+    "tStartMs": 59800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "早上8点的飞机"
+    } ]
+  }, {
+    "tStartMs": 62100,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "没有直飞"
+    } ]
+  }, {
+    "tStartMs": 63200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "所以我需要转机"
+    } ]
+  }, {
+    "tStartMs": 65933,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "前一天晚上"
+    } ]
+  }, {
+    "tStartMs": 67133,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "我预约了5点半的顺风车"
+    } ]
+  }, {
+    "tStartMs": 71200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我定了4点四十五的闹铃"
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "5点一刻准时出发"
+    } ]
+  }, {
+    "tStartMs": 76266,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "我推着行李箱在电梯口等电梯"
+    } ]
+  }, {
+    "tStartMs": 81633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "电梯来了"
+    } ]
+  }, {
+    "tStartMs": 82933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我走进电梯"
+    } ]
+  }, {
+    "tStartMs": 85300,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "按下一层按钮"
+    } ]
+  }, {
+    "tStartMs": 87833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "司机就在楼下等我"
+    } ]
+  }, {
+    "tStartMs": 90200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "从我家到机场大概40分钟的距离"
+    } ]
+  }, {
+    "tStartMs": 94233,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "路上经过了一个隧道"
+    } ]
+  }, {
+    "tStartMs": 97000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然后上了机场高速"
+    } ]
+  }, {
+    "tStartMs": 100300,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "司机在收费站给过路费"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "到国际机场了"
+    } ]
+  }, {
+    "tStartMs": 105600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我需要先办理托运"
+    } ]
+  }, {
+    "tStartMs": 108500,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "托运我的行李"
+    } ]
+  }, {
+    "tStartMs": 110500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "我买的机票限重20公斤"
+    } ]
+  }, {
+    "tStartMs": 114300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我把行李箱放在传送带上"
+    } ]
+  }, {
+    "tStartMs": 117800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "称重显示14.5公斤"
+    } ]
+  }, {
+    "tStartMs": 122133,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "没有超过行李箱限额"
+    } ]
+  }, {
+    "tStartMs": 125500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "机场工作人员问我要靠窗"
+    } ]
+  }, {
+    "tStartMs": 129000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "还是靠过道的位置"
+    } ]
+  }, {
+    "tStartMs": 131833,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我告诉他"
+    } ]
+  }, {
+    "tStartMs": 132833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我要靠窗的位置"
+    } ]
+  }, {
+    "tStartMs": 135500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "因为我想看窗外的风景"
+    } ]
+  }, {
+    "tStartMs": 138866,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "当然"
+    } ]
+  }, {
+    "tStartMs": 139233,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "靠过道的位置也比较方便"
+    } ]
+  }, {
+    "tStartMs": 142066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "因为如果你想上厕所"
+    } ]
+  }, {
+    "tStartMs": 144666,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "靠过道可以直接出去"
+    } ]
+  }, {
+    "tStartMs": 147633,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "不需要让旁边的人站起来给你让位置"
+    } ]
+  }, {
+    "tStartMs": 152800,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "但是其实我不喜欢在飞机上上厕所"
+    } ]
+  }, {
+    "tStartMs": 156533,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "所以我还是选择靠窗的座位"
+    } ]
+  }, {
+    "tStartMs": 159400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "早上起的特别早"
+    } ]
+  }, {
+    "tStartMs": 161533,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "于是我一上飞机就开始睡觉了"
+    } ]
+  }, {
+    "tStartMs": 164666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "早班机的飞机餐是一些早餐"
+    } ]
+  }, {
+    "tStartMs": 168866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "里面有面包啊"
+    } ]
+  }, {
+    "tStartMs": 170600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "牛肉粒啊"
+    } ]
+  }, {
+    "tStartMs": 172400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "酸奶什么的"
+    } ]
+  }, {
+    "tStartMs": 173833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "这趟飞机的时长大概是3小时"
+    } ]
+  }, {
+    "tStartMs": 177633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "所以我上午11点到达昆明机场"
+    } ]
+  }, {
+    "tStartMs": 181233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我需要在昆明机场转机"
+    } ]
+  }, {
+    "tStartMs": 184300,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "下一趟飞往胡志明的飞机"
+    } ]
+  }, {
+    "tStartMs": 187133,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "是在下午4点"
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我还需要等很长的时间"
+    } ]
+  }, {
+    "tStartMs": 191633,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "所以我在机场找了一个空位"
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "我坐下来剪辑我拍的视频"
+    } ]
+  }, {
+    "tStartMs": 198933,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "时间过得非常快"
+    } ]
+  }, {
+    "tStartMs": 200600,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "当我剪完视频的时候"
+    } ]
+  }, {
+    "tStartMs": 202533,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "已经是下午2点了"
+    } ]
+  }, {
+    "tStartMs": 204600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我看到我的手机上显示"
+    } ]
+  }, {
+    "tStartMs": 206900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "登机口是在70号"
+    } ]
+  }, {
+    "tStartMs": 209500,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "但是当时我在他们的指示牌上"
+    } ]
+  }, {
+    "tStartMs": 213333,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "没有看到70号登机口在哪"
+    } ]
+  }, {
+    "tStartMs": 216900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "于是我去询问工作人员"
+    } ]
+  }, {
+    "tStartMs": 220433,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "他告诉我"
+    } ]
+  }, {
+    "tStartMs": 221733,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "70号登机口是在国际航班的区域"
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "需要我下电梯然后左拐"
+    } ]
+  }, {
+    "tStartMs": 230733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "出境的时候"
+    } ]
+  }, {
+    "tStartMs": 232066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "海关问我去越南做什么"
+    } ]
+  }, {
+    "tStartMs": 235033,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "待多长时间"
+    } ]
+  }, {
+    "tStartMs": 237033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "以及我是做什么工作的"
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "他跟我确认了一些信息后"
+    } ]
+  }, {
+    "tStartMs": 242933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "就放我出境了"
+    } ]
+  }, {
+    "tStartMs": 244800,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我在候机厅等待登机"
+    } ]
+  }, {
+    "tStartMs": 248066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "从昆明飞往越南是3个小时"
+    } ]
+  }, {
+    "tStartMs": 251433,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "我到达的时候是当地时间的下午6点"
+    } ]
+  }, {
+    "tStartMs": 255500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "接着我需要在海关办签证"
+    } ]
+  }, {
+    "tStartMs": 258933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这个时候"
+    } ]
+  }, {
+    "tStartMs": 259900,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "真的是发生了一件"
+    } ]
+  }, {
+    "tStartMs": 261633,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "让我非常意想不到的事情"
+    } ]
+  }, {
+    "tStartMs": 264700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我非常的意外"
+    } ]
+  }, {
+    "tStartMs": 266800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "我也觉得有一点不好的印象吧"
+    } ]
+  }, {
+    "tStartMs": 270200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "虽然我不希望有这样先入为主的印象"
+    } ]
+  }, {
+    "tStartMs": 275200,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我也不希望影响到接下来"
+    } ]
+  }, {
+    "tStartMs": 278133,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我在这个国家旅行对这个国家的感觉"
+    } ]
+  }, {
+    "tStartMs": 282433,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "但是我还是决定来讲一讲这个故事"
+    } ]
+  }, {
+    "tStartMs": 286200,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "中国人去越南的签证有一点特别"
+    } ]
+  }, {
+    "tStartMs": 289900,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "我是在网上提前申请了电子签"
+    } ]
+  }, {
+    "tStartMs": 294833,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "然后需要落地之后办理一张另纸签"
+    } ]
+  }, {
+    "tStartMs": 301033,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "因为中国和越南在领土问题上"
+    } ]
+  }, {
+    "tStartMs": 305433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有一点小的纠纷"
+    } ]
+  }, {
+    "tStartMs": 306633,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "在这里我就不细说了"
+    } ]
+  }, {
+    "tStartMs": 310066,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "如果大家感兴趣可以去查一下"
+    } ]
+  }, {
+    "tStartMs": 312866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "因为这个领土纠纷呢"
+    } ]
+  }, {
+    "tStartMs": 315433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "所以越南海关"
+    } ]
+  }, {
+    "tStartMs": 317433,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "他们不在中国的护照上盖章"
+    } ]
+  }, {
+    "tStartMs": 322133,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "他们需要另外打印出一张纸"
+    } ]
+  }, {
+    "tStartMs": 325866,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "在那张纸上盖章"
+    } ]
+  }, {
+    "tStartMs": 327833,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "这个过程其实是很快的"
+    } ]
+  }, {
+    "tStartMs": 330633,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "应该几分钟就够了吧"
+    } ]
+  }, {
+    "tStartMs": 333266,
+    "dDurationMs": 6367,
+    "segs": [ {
+      "utf8": "但是他们让中国人等了两个小时"
+    } ]
+  }, {
+    "tStartMs": 339633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "甚至三个小时"
+    } ]
+  }, {
+    "tStartMs": 341800,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "那些工作人员就让我们交了护照"
+    } ]
+  }, {
+    "tStartMs": 346066,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "然后坐在那等着"
+    } ]
+  }, {
+    "tStartMs": 349733,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "也不告诉我们需要等多长时间"
+    } ]
+  }, {
+    "tStartMs": 352933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "也没有一个取号的流程"
+    } ]
+  }, {
+    "tStartMs": 356066,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我记得当时我等了一个半小时的时候"
+    } ]
+  }, {
+    "tStartMs": 358833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我去问他们的工作人员"
+    } ]
+  }, {
+    "tStartMs": 360900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "他也没有正面回答我"
+    } ]
+  }, {
+    "tStartMs": 363066,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "他就说他的同事在里面工作"
+    } ]
+  }, {
+    "tStartMs": 366966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "帮我们办签证"
+    } ]
+  }, {
+    "tStartMs": 369166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "让我回去继续等"
+    } ]
+  }, {
+    "tStartMs": 370733,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "当时我其实是有一点后悔"
+    } ]
+  }, {
+    "tStartMs": 373066,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "没有在国内把这个另纸签办好"
+    } ]
+  }, {
+    "tStartMs": 377233,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "在国内"
+    } ]
+  }, {
+    "tStartMs": 377933,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "如果我找一个中介办另纸签的话"
+    } ]
+  }, {
+    "tStartMs": 381666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "可能多个100多块钱吧"
+    } ]
+  }, {
+    "tStartMs": 385533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "当时我就想着"
+    } ]
+  }, {
+    "tStartMs": 387733,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "这个落地办一下也应该很方便"
+    } ]
+  }, {
+    "tStartMs": 391066,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "不需要那么长时间"
+    } ]
+  }, {
+    "tStartMs": 392533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "所以就没有去做这件事情"
+    } ]
+  }, {
+    "tStartMs": 395200,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "他们的效率真的很低"
+    } ]
+  }, {
+    "tStartMs": 397766,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "其实我觉得"
+    } ]
+  }, {
+    "tStartMs": 398766,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "最主要的可能并不是效率低"
+    } ]
+  }, {
+    "tStartMs": 401233,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "而是钱没有给到位"
+    } ]
+  }, {
+    "tStartMs": 405166,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "因为他们就明目张胆的想要小费"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "有一些中国人就是"
+    } ]
+  }, {
+    "tStartMs": 412966,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "他们在护照里面塞一点现金"
+    } ]
+  }, {
+    "tStartMs": 416266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "他们完全不需要等"
+    } ]
+  }, {
+    "tStartMs": 418200,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "基本上一两分钟他们的签证就拿到了"
+    } ]
+  }, {
+    "tStartMs": 422733,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "所以我觉得根本上是钱"
+    } ]
+  }, {
+    "tStartMs": 426666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "应该说贪污的问题"
+    } ]
+  }, {
+    "tStartMs": 428500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "中间还有一些中介来插队的"
+    } ]
+  }, {
+    "tStartMs": 431066,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "那些中介"
+    } ]
+  }, {
+    "tStartMs": 431800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "他们手上就拿着这么厚一叠的护照"
+    } ]
+  }, {
+    "tStartMs": 435600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "然后去窗口给海关工作人员"
+    } ]
+  }, {
+    "tStartMs": 439766,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "这一叠护照的签证也是很快就办好了"
+    } ]
+  }, {
+    "tStartMs": 443633,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我相信他们一定是会给海关回扣的"
+    } ]
+  }, {
+    "tStartMs": 448766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "当时有一个中年男人"
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "可能40来岁吧"
+    } ]
+  }, {
+    "tStartMs": 454366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "他等了三个小时"
+    } ]
+  }, {
+    "tStartMs": 456033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "他非常的生气"
+    } ]
+  }, {
+    "tStartMs": 457966,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "他就在海关那个窗口大声的质问他们"
+    } ]
+  }, {
+    "tStartMs": 462766,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "你们到底要多少钱"
+    } ]
+  }, {
+    "tStartMs": 464366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "还拿出手机拍视频"
+    } ]
+  }, {
+    "tStartMs": 467833,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "他说要曝光这些中介"
+    } ]
+  }, {
+    "tStartMs": 470933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "因为这些钱是完全不合理的"
+    } ]
+  }, {
+    "tStartMs": 473766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "当他这样闹了之后"
+    } ]
+  }, {
+    "tStartMs": 475766,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "那个工作人员就有点害怕了"
+    } ]
+  }, {
+    "tStartMs": 479400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "本来他们是一个个的报名字"
+    } ]
+  }, {
+    "tStartMs": 482200,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "让我们去取护照和签证"
+    } ]
+  }, {
+    "tStartMs": 485966,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "当时那个工作人员就走进办公室"
+    } ]
+  }, {
+    "tStartMs": 489400,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "然后拿出了一叠护照"
+    } ]
+  }, {
+    "tStartMs": 491266,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "他就放在那个窗口"
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "让我们自己拿"
+    } ]
+  }, {
+    "tStartMs": 494666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "他也不报名字了"
+    } ]
+  }, {
+    "tStartMs": 497533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "就是在那个时候"
+    } ]
+  }, {
+    "tStartMs": 498933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我拿到了我的护照"
+    } ]
+  }, {
+    "tStartMs": 501133,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "如果这个中国人不这样闹一下的话"
+    } ]
+  }, {
+    "tStartMs": 504233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我还不知道要等多久"
+    } ]
+  }, {
+    "tStartMs": 505933,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "可能是两个半小时"
+    } ]
+  }, {
+    "tStartMs": 508033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "甚至三个小时"
+    } ]
+  }, {
+    "tStartMs": 509566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "出境以后呢"
+    } ]
+  }, {
+    "tStartMs": 510733,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "我就去取我的行李箱"
+    } ]
+  }, {
+    "tStartMs": 512800,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "因为已经过了非常长时间了"
+    } ]
+  }, {
+    "tStartMs": 515933,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "那个外面的电子屏幕都没有显示"
+    } ]
+  }, {
+    "tStartMs": 519400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我那趟航班是要去哪里取行李"
+    } ]
+  }, {
+    "tStartMs": 522966,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "于是我就问机场的工作人员"
+    } ]
+  }, {
+    "tStartMs": 526333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "问到第三个"
+    } ]
+  }, {
+    "tStartMs": 527466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然后终于有一个人知道了"
+    } ]
+  }, {
+    "tStartMs": 530400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "他就告诉我"
+    } ]
+  }, {
+    "tStartMs": 531500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "出境后"
+    } ]
+  }, {
+    "tStartMs": 532466,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "我在机场办了一张一个月的电话卡"
+    } ]
+  }, {
+    "tStartMs": 537400,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "在机场卖电话卡的销售"
+    } ]
+  }, {
+    "tStartMs": 540066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "他们大部分都会中文"
+    } ]
+  }, {
+    "tStartMs": 542600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "为了做中国人的生意吧"
+    } ]
+  }, {
+    "tStartMs": 545166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "而且都能用微信支付"
+    } ]
+  }, {
+    "tStartMs": 547766,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "还在机场的ATM机上取了一些越南盾"
+    } ]
+  }, {
+    "tStartMs": 552600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "大概取了只200美金的越南盾"
+    } ]
+  }, {
+    "tStartMs": 556833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我的相机没电了"
+    } ]
+  }, {
+    "tStartMs": 558400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "现在换运动相机"
+    } ]
+  }, {
+    "tStartMs": 560933,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "出机场后呢"
+    } ]
+  }, {
+    "tStartMs": 562200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我就打车去民宿"
+    } ]
+  }, {
+    "tStartMs": 564533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这个过程还是挺顺利的"
+    } ]
+  }, {
+    "tStartMs": 566966,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "因为我住的地方离机场不远"
+    } ]
+  }, {
+    "tStartMs": 571766,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这个民宿真的不错"
+    } ]
+  }, {
+    "tStartMs": 573433,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "是一个独栋民宿"
+    } ]
+  }, {
+    "tStartMs": 575833,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "是自助入住的"
+    } ]
+  }, {
+    "tStartMs": 578066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "房东把钥匙放在了门口的小盒子里"
+    } ]
+  }, {
+    "tStartMs": 582466,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "到了之后自己去取就可以了"
+    } ]
+  }, {
+    "tStartMs": 586133,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "给你们看一下"
+    } ]
+  }, {
+    "tStartMs": 587200,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这里有一个独立的卫生间"
+    } ]
+  }, {
+    "tStartMs": 590033,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "然后有一张双人床"
+    } ]
+  }, {
+    "tStartMs": 593066,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "往里走有一个小沙发和一个桌子"
+    } ]
+  }, {
+    "tStartMs": 597133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "底下还有一个小冰箱"
+    } ]
+  }, {
+    "tStartMs": 599266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "就是我现在在的地方"
+    } ]
+  }, {
+    "tStartMs": 601933,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "我现在坐在床上"
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "当时晚上到了民宿之后"
+    } ]
+  }, {
+    "tStartMs": 606433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我觉得我整个人非常疲惫"
+    } ]
+  }, {
+    "tStartMs": 609566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我就简单收拾了一下"
+    } ]
+  }, {
+    "tStartMs": 611533,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "洗个澡然后睡觉了"
+    } ]
+  }, {
+    "tStartMs": 613533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "以上呢"
+    } ]
+  }, {
+    "tStartMs": 614266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "就是我这趟旅程的经历"
+    } ]
+  }, {
+    "tStartMs": 617133,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "有点艰难"
+    } ]
+  }, {
+    "tStartMs": 618466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "但是好在还算顺利"
+    } ]
+  }, {
+    "tStartMs": 621133,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "下次播客你想看什么内容"
+    } ]
+  }, {
+    "tStartMs": 624000,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "可以在评论区留言告诉我"
+    } ]
+  }, {
+    "tStartMs": 626966,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "那我们这一期的播客就到这里啦"
+    } ]
+  }, {
+    "tStartMs": 630766,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "记得点赞评论关注我"
+    } ]
+  }, {
+    "tStartMs": 634266,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "下次我还会分享更多的内容"
+    } ]
+  }, {
+    "tStartMs": 638066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "那我们下次见吧"
+    } ]
+  } ]
+}

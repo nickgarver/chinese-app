@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "Most of us learn a new language backwards."
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "We start with words, grammar, sentences,"
+    } ]
+  }, {
+    "tStartMs": 6866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "and hope the meaning comes at the end."
+    } ]
+  }, {
+    "tStartMs": 10166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "But I think language learning works\nin the opposite direction."
+    } ]
+  }, {
+    "tStartMs": 13833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Meaning comes first."
+    } ]
+  }, {
+    "tStartMs": 15466,
+    "dDurationMs": 6034,
+    "segs": [ {
+      "utf8": "Then the meaning helps us discover the\nwords and structures inside the language."
+    } ]
+  }, {
+    "tStartMs": 22066,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Let me show you."
+    } ]
+  }, {
+    "tStartMs": 24300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "Don't translate."
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Just watch."
+    } ]
+  }, {
+    "tStartMs": 27100,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "我拿起杯子。"
+    } ]
+  }, {
+    "tStartMs": 31466,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "You may not know what 我, 拿起,\nor 杯子 mean."
+    } ]
+  }, {
+    "tStartMs": 36600,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "But you can understand what happened."
+    } ]
+  }, {
+    "tStartMs": 39366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I picked up a cup."
+    } ]
+  }, {
+    "tStartMs": 41900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "So you can understand the message"
+    } ]
+  }, {
+    "tStartMs": 44666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "without understanding every single word."
+    } ]
+  }, {
+    "tStartMs": 48233,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Now watch again."
+    } ]
+  }, {
+    "tStartMs": 50400,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "我拿起手机。"
+    } ]
+  }, {
+    "tStartMs": 55566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Pay attention."
+    } ]
+  }, {
+    "tStartMs": 57533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "What changed?"
+    } ]
+  }, {
+    "tStartMs": 59366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "The person is the same."
+    } ]
+  }, {
+    "tStartMs": 62033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "The action is the same."
+    } ]
+  }, {
+    "tStartMs": 64966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Only the object changed."
+    } ]
+  }, {
+    "tStartMs": 67866,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And one part of the Chinese changed too."
+    } ]
+  }, {
+    "tStartMs": 71366,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "The last part changed\nfrom 杯子 to 手机."
+    } ]
+  }, {
+    "tStartMs": 77066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "So without memorizing a vocabulary list,"
+    } ]
+  }, {
+    "tStartMs": 81266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "you can already figure out that"
+    } ]
+  }, {
+    "tStartMs": 84266,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "杯子 means \"cup\"\n手机 means \"phone\""
+    } ]
+  }, {
+    "tStartMs": 90666,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "It's not because someone gave you\na translation."
+    } ]
+  }, {
+    "tStartMs": 95233,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Just because you understood\nthe two messages and noticed what changed."
+    } ]
+  }, {
+    "tStartMs": 100866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Let's change something else."
+    } ]
+  }, {
+    "tStartMs": 104066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "他拿起手机。"
+    } ]
+  }, {
+    "tStartMs": 107266,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Again, what changed?"
+    } ]
+  }, {
+    "tStartMs": 111066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The phone is the same."
+    } ]
+  }, {
+    "tStartMs": 114200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "The action is the same."
+    } ]
+  }, {
+    "tStartMs": 117700,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Only the person changed."
+    } ]
+  }, {
+    "tStartMs": 120300,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "And one part of the Chinese changed too."
+    } ]
+  }, {
+    "tStartMs": 124100,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "The first part changed\nfrom 我 to 他."
+    } ]
+  }, {
+    "tStartMs": 129166,
+    "dDurationMs": 4634,
+    "segs": [ {
+      "utf8": "Do you notice which part\nstill hasn't changed?"
+    } ]
+  }, {
+    "tStartMs": 134600,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "It's 拿起."
+    } ]
+  }, {
+    "tStartMs": 136766,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "So now, the structure\nis beginning to appear."
+    } ]
+  }, {
+    "tStartMs": 141966,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "We can have 我 or 他,"
+    } ]
+  }, {
+    "tStartMs": 145200,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "then 拿起, then 杯子 or 手机."
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "At first, 我拿起杯子 may sound like"
+    } ]
+  }, {
+    "tStartMs": 153733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "one continuous stream of sound"
+    } ]
+  }, {
+    "tStartMs": 157166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "connected to the whole event."
+    } ]
+  }, {
+    "tStartMs": 160333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But now, the stream is beginning"
+    } ]
+  }, {
+    "tStartMs": 163300,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "to separate into meaningful parts."
+    } ]
+  }, {
+    "tStartMs": 166700,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "You can now figure out a pattern."
+    } ]
+  }, {
+    "tStartMs": 169600,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "You can put a person before 拿起,"
+    } ]
+  }, {
+    "tStartMs": 173500,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "and an object after it."
+    } ]
+  }, {
+    "tStartMs": 175866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "And then, the process becomes a loop."
+    } ]
+  }, {
+    "tStartMs": 180300,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Once you understand more and more messages"
+    } ]
+  }, {
+    "tStartMs": 183333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "through comprehensible input,"
+    } ]
+  }, {
+    "tStartMs": 185766,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "you can start discovering the structures\ninside the language."
+    } ]
+  }, {
+    "tStartMs": 190666,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "That's what I'm experiencing\nas I learn Spanish"
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "through comprehensible input."
+    } ]
+  }, {
+    "tStartMs": 197866,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "And it's what I'm trying to create\nwhen I teach Chinese."
+    } ]
+  }, {
+    "tStartMs": 203633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "So, the core idea is:"
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "language learning should not begin\nwith vocabulary and grammar."
+    } ]
+  }, {
+    "tStartMs": 209766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "It should begin with meaning."
+    } ]
+  }, {
+    "tStartMs": 211866,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "In practice, it means that\nif you want to learn a new language,"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "start with content you mostly understand\nfrom the context."
+    } ]
+  }, {
+    "tStartMs": 221066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Don't stop for every unknown word."
+    } ]
+  }, {
+    "tStartMs": 223866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Instead, keep listening,"
+    } ]
+  }, {
+    "tStartMs": 226266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and let the same words and patterns"
+    } ]
+  }, {
+    "tStartMs": 229100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "appear again and again\nin different situations."
+    } ]
+  }, {
+    "tStartMs": 233766,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "At first, pictures, actions,\nand other contexts"
+    } ]
+  }, {
+    "tStartMs": 237333,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "may help you understand the message."
+    } ]
+  }, {
+    "tStartMs": 240566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Over time, what you already understand"
+    } ]
+  }, {
+    "tStartMs": 242900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "may start helping you understand more."
+    } ]
+  }, {
+    "tStartMs": 246633,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "That's how you gradually move\nfrom understanding the situations"
+    } ]
+  }, {
+    "tStartMs": 250433,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "to understanding the language itself."
+    } ]
+  } ]
+}

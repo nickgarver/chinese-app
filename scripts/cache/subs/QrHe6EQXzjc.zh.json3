@@ -1,0 +1,1045 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "dà jiā hǎo , huān yíng huí dào wǒ de pín dào\n大 家  好  , 欢   迎   回  到  我 的 频  道 "
+    } ]
+  }, {
+    "tStartMs": 3366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "wǒ shì ān jí lā\n我 是  安 吉 拉"
+    } ]
+  }, {
+    "tStartMs": 5100,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "nǐ men hǎo ma\n你 们  好  吗"
+    } ]
+  }, {
+    "tStartMs": 6366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "wǒ yòu lái le a\n我 又  来  了 啊"
+    } ]
+  }, {
+    "tStartMs": 8100,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "jīn tiān de shì pín\n今  天   的 视  频 "
+    } ]
+  }, {
+    "tStartMs": 9533,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "wǒ xiǎng gēn dà jiā liáo yí gè qīng sōng de huà tí\n我 想    跟  大 家  聊   一 个 轻   松   的 话  题"
+    } ]
+  }, {
+    "tStartMs": 13933,
+    "dDurationMs": 6233,
+    "segs": [ {
+      "utf8": "gěi dà jiā jiè shào yí gè tè hǎo wán ér de wǎng luò cí huì ， “ cóng hāng dào lā ”\n给  大 家  介  绍   一 个 特 好  玩  儿 的 网   络  词 汇  ， “ 从   夯   到  拉 ”"
+    } ]
+  }, {
+    "tStartMs": 21566,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "zhè ge cí ér shì yí gè xīn cí ér\n这  个 词 儿 是  一 个 新  词 儿"
+    } ]
+  }, {
+    "tStartMs": 24266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "hǎo xiàng shì qù nián cái kāi shǐ yǒu de\n好  像    是  去 年   才  开  始  有  的"
+    } ]
+  }, {
+    "tStartMs": 27366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "dàn shì xiàn zài zài zhōng guó fēi cháng huǒ\n但  是  现   在  在  中    国  非  常    火 "
+    } ]
+  }, {
+    "tStartMs": 31100,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ jīng cháng shàng zhōng guó de shè jiāo méi tǐ\n如 果  你 经   常    上    中    国  的 社  交   媒  体"
+    } ]
+  }, {
+    "tStartMs": 35133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "shuā zhōng guó de duǎn shì pín\n刷   中    国  的 短   视  频 "
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "kàn xiǎo hóng shū a huò zhě dǒu yīn a\n看  小   红   书  啊 或  者  抖  音  啊"
+    } ]
+  }, {
+    "tStartMs": 40900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "nǐ kěn dìng kàn dào guò zhè ge cí ér\n你 肯  定   看  到  过  这  个 词 儿"
+    } ]
+  }, {
+    "tStartMs": 44266,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "“ cóng hāng dào lā ” dào dǐ shì shén me yì sī ne\n“ 从   夯   到  拉 ” 到  底 是  什   么 意 思 呢"
+    } ]
+  }, {
+    "tStartMs": 47733,
+    "dDurationMs": 7733,
+    "segs": [ {
+      "utf8": "qí shí tā shì xiàn zài zhōng guó nián qīng rén fēi cháng ài yòng de yì zhǒng píng jià fāng shì\n其 实  它 是  现   在  中    国  年   轻   人  非  常    爱 用   的 一 种    评   价  方   式 "
+    } ]
+  }, {
+    "tStartMs": 56433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "jiù xiàng gěi yí gè dōng xī píng fēn ér yí yàng\n就  像    给  一 个 东   西 评   分  儿 一 样  "
+    } ]
+  }, {
+    "tStartMs": 59266,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "dàn shì ne tā méi yǒu yòng shù zì píng fēn ér\n但  是  呢 他 没  有  用   数  字 评   分  儿"
+    } ]
+  }, {
+    "tStartMs": 62233,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "ér shì yòng le jǐ gè fēi cháng qí guài 、 fēi cháng yǒu yì sī de cí lái gěi dōng xī píng fēn ér\n而 是  用   了 几 个 非  常    奇 怪   、 非  常    有  意 思 的 词 来  给  东   西 评   分  儿"
+    } ]
+  }, {
+    "tStartMs": 69766,
+    "dDurationMs": 9867,
+    "segs": [ {
+      "utf8": "zhè shì yì zhǒng fēi cháng yǒu qù ér de fēi cháng yǒu yì sī de biǎo dá cóng qiáng dào ruò 、 cóng hǎo dào huài de yì zhǒng píng jià fāng shì\n这  是  一 种    非  常    有  趣 儿 的 非  常    有  意 思 的 表   达 从   强    到  弱  、 从   好  到  坏   的 一 种    评   价  方   式 "
+    } ]
+  }, {
+    "tStartMs": 80366,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "huò zhě shì yì zhǒng pái xù fāng shì\n或  者  是  一 种    排  序 方   式 "
+    } ]
+  }, {
+    "tStartMs": 83366,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "“ cóng hāng dào lā ” zhè zhǒng píng jià fāng shì\n“ 从   夯   到  拉 ” 这  种    评   价  方   式 "
+    } ]
+  }, {
+    "tStartMs": 86966,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "bǎ cóng “ zuì hǎo ” dào “ zuì chà ” fēn wéi le wǔ gè děng jí\n把 从   “ 最  好  ” 到  “ 最  差  ” 分  为  了 五 个 等   级"
+    } ]
+  }, {
+    "tStartMs": 92300,
+    "dDurationMs": 6866,
+    "segs": [ {
+      "utf8": "bìng qiě yòng le wǔ gè fēi cháng qí guài 、 fēi cháng yǒu yì sī de cí ér lái biǎo shì zhè wǔ gè děng jí\n并   且  用   了 五 个 非  常    奇 怪   、 非  常    有  意 思 的 词 儿 来  表   示  这  五 个 等   级"
+    } ]
+  }, {
+    "tStartMs": 99266,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "dì yī gè děng jí jiù shì hāng ， tā biǎo shì zuì hǎo 、 zuì niú 、 zuì lì hài\n第 一 个 等   级 就  是  夯   ， 它 表   示  最  好  、 最  牛  、 最  厉 害 "
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "dì èr gè děng jí ne ， dǐng jí ， biǎo shì fēi cháng hǎo\n第 二 个 等   级 呢 ， 顶   级 ， 表   示  非  常    好 "
+    } ]
+  }, {
+    "tStartMs": 109633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "shāo wēi bǐ hāng yào chà yì xiē\n稍   微  比 夯   要  差  一 些 "
+    } ]
+  }, {
+    "tStartMs": 112100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "dàn shì yě hěn hǎo le\n但  是  也 很  好  了"
+    } ]
+  }, {
+    "tStartMs": 113933,
+    "dDurationMs": 6133,
+    "segs": [ {
+      "utf8": "dì sān gè děng jí ， rén shàng rén ， tā biǎo shì hái kě yǐ ba ， tīng hǎo de\n第 三  个 等   级 ， 人  上    人  ， 它 表   示  还  可 以 吧 ， 听   好  的"
+    } ]
+  }, {
+    "tStartMs": 120133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "dì sì gè děng jí ， N P C\n第 四 个 等   级 ， N P C"
+    } ]
+  }, {
+    "tStartMs": 123533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "zhè ge děng jí ne biǎo shì fēi cháng pǔ tōng\n这  个 等   级 呢 表   示  非  常    普 通  "
+    } ]
+  }, {
+    "tStartMs": 126500,
+    "dDurationMs": 6433,
+    "segs": [ {
+      "utf8": "zuì hòu yí gè děng jí jiù shì lā ， huò zhě lā wán le ， biǎo shì zuì chà zuì bù hǎo de\n最  后  一 个 等   级 就  是  拉 ， 或  者  拉 完  了 ， 表   示  最  差  最  不 好  的"
+    } ]
+  }, {
+    "tStartMs": 133566,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "zhè zhǒng píng jià fāng shì xiàn zài zhī suǒ yǐ zhè me huǒ ， zhè me liú xíng\n这  种    评   价  方   式  现   在  之  所  以 这  么 火  ， 这  么 流  行  "
+    } ]
+  }, {
+    "tStartMs": 139266,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "wǒ jué de zuì zhòng yào de shì zhè 5 gè cí fēi cháng yǒu yì sī 、 fēi cháng qí guài\n我 觉  得 最  重    要  的 是  这  5 个 词 非  常    有  意 思 、 非  常    奇 怪  "
+    } ]
+  }, {
+    "tStartMs": 145566,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "nà xiàn zài wǒ men jiù kàn yí xià zhè 5 gè cí shì zěn me lái de\n那 现   在  我 们  就  看  一 下  这  5 个 词 是  怎  么 来  的"
+    } ]
+  }, {
+    "tStartMs": 150100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "wèi shén me yào yòng zhè 5 gè cí lái biǎo shì bù tóng de děng jí ne\n为  什   么 要  用   这  5 个 词 来  表   示  不 同   的 等   级 呢"
+    } ]
+  }, {
+    "tStartMs": 154900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "zán men xiān kàn zuì gāo jí - hāng\n咱  们  先   看  最  高  级 - 夯  "
+    } ]
+  }, {
+    "tStartMs": 157533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "zhè ge zì dú hāng （ h ā n g ）\n这  个 字 读 夯   （ h ā n g ）"
+    } ]
+  }, {
+    "tStartMs": 159766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "shàng miàn yí gè dà ， xià miàn yí gè lì\n上    面   一 个 大 ， 下  面   一 个 力"
+    } ]
+  }, {
+    "tStartMs": 163233,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "tā zuì yuán shǐ de yì sī shì ： gài fáng zi zhī qián xiān bǎ dì miàn zá jiē shi\n它 最  原   始  的 意 思 是  ： 盖  房   子 之  前   先   把 地 面   砸 结  实 "
+    } ]
+  }, {
+    "tStartMs": 169933,
+    "dDurationMs": 7567,
+    "segs": [ {
+      "utf8": "hái méi gài fáng zi zhī qián xiān bǎ dì miàn 、 yòng hěn zhòng de gōng jù bǎ tā zá jiē shi\n还  没  盖  房   子 之  前   先   把 地 面   、 用   很  重    的 工   具 把 它 砸 结  实 "
+    } ]
+  }, {
+    "tStartMs": 177733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "zài gài fáng zi\n再  盖  房   子"
+    } ]
+  }, {
+    "tStartMs": 179433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "zhè ge hāng ne jiù shì zhè ge gōng jù\n这  个 夯   呢 就  是  这  个 工   具"
+    } ]
+  }, {
+    "tStartMs": 182300,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "lì qi hěn dà ， dà lì ma ， lì liàng hěn dà\n力 气 很  大 ， 大 力 嘛 ， 力 量    很  大"
+    } ]
+  }, {
+    "tStartMs": 186333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "nà lì liàng hěn dà jiù yǒu hěn lì hài de yì sī ， duì bu duì\n那 力 量    很  大 就  有  很  厉 害  的 意 思 ， 对  不 对 "
+    } ]
+  }, {
+    "tStartMs": 189500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "nà hái yǒu yí gè yuán yīn ne\n那 还  有  一 个 原   因  呢"
+    } ]
+  }, {
+    "tStartMs": 191300,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "shì zài zhōng guó de tái wān fāng yán lǐ\n是  在  中    国  的 台  湾  方   言  里"
+    } ]
+  }, {
+    "tStartMs": 194866,
+    "dDurationMs": 7234,
+    "segs": [ {
+      "utf8": "zài tái wān hāng zhè ge cí 、 hāng zhè ge zì yǒu hěn liú xíng de yì sī 、 hěn shòu huān yíng de yì sī\n在  台  湾  夯   这  个 词 、 夯   这  个 字 有  很  流  行   的 意 思 、 很  受   欢   迎   的 意 思"
+    } ]
+  }, {
+    "tStartMs": 202233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "suǒ yǐ zài zhè ge píng jià tǐ xì lǐ ne\n所  以 在  这  个 评   价  体 系 里 呢"
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 6667,
+    "segs": [ {
+      "utf8": "hāng biǎo shì le zuì niú de 、 zuì hǎo de 、 zuì niú bī de 、 zuì lì hài de\n夯   表   示  了 最  牛  的 、 最  好  的 、 最  牛  逼 的 、 最  厉 害  的"
+    } ]
+  }, {
+    "tStartMs": 211633,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "xiàn zài zhōng guó de nián qīng rén tè bié ài yòng hāng zhè ge zì\n现   在  中    国  的 年   轻   人  特 别  爱 用   夯   这  个 字"
+    } ]
+  }, {
+    "tStartMs": 216566,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "lái xíng róng yí gè dōng xī fēi cháng dǐng jí 、 fēi cháng bàng\n来  形   容   一 个 东   西 非  常    顶   级 、 非  常    棒  "
+    } ]
+  }, {
+    "tStartMs": 220200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "huò zhě píng jià yí gè dōng xī fēi cháng niú 、 fēi cháng lì hài\n或  者  评   价  一 个 东   西 非  常    牛  、 非  常    厉 害 "
+    } ]
+  }, {
+    "tStartMs": 224700,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "bǐ rú shuō ： zhè jiā nǎi chá diàn de nǎi chá tài hāng le\n比 如 说   ： 这  家  奶  茶  店   的 奶  茶  太  夯   了"
+    } ]
+  }, {
+    "tStartMs": 228966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "yì sī shì zhè jiā nǎi chá diàn de nǎi chá wèi dào tài hǎo le\n意 思 是  这  家  奶  茶  店   的 奶  茶  味  道  太  好  了"
+    } ]
+  }, {
+    "tStartMs": 232700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "tài hǎo hē le\n太  好  喝 了"
+    } ]
+  }, {
+    "tStartMs": 233566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "shì zuì hǎo hē de\n是  最  好  喝 的"
+    } ]
+  }, {
+    "tStartMs": 235333,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "huò zhě shuō ， zhè ge diàn yǐng wǒ kàn le sān biàn le\n或  者  说   ， 这  个 电   影   我 看  了 三  遍   了"
+    } ]
+  }, {
+    "tStartMs": 239133,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "zhè ge zhǔ yǎn de yǎn jì tài hāng le\n这  个 主  演  的 演  技 太  夯   了"
+    } ]
+  }, {
+    "tStartMs": 241933,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "yì sī shì shuō zhè ge zhǔ yǎn de yǎn jì tài bàng le 、 tài lì hài le\n意 思 是  说   这  个 主  演  的 演  技 太  棒   了 、 太  厉 害  了"
+    } ]
+  }, {
+    "tStartMs": 245966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "āi yō nǐ de zhōng wén jiǎn zhí tài hāng le\n哎 哟 你 的 中    文  简   直  太  夯   了"
+    } ]
+  }, {
+    "tStartMs": 248533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "wǒ gěi nǐ yí gè hāng 、 gěi dào yí gè hāng\n我 给  你 一 个 夯   、 给  到  一 个 夯  "
+    } ]
+  }, {
+    "tStartMs": 251466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "yì sī shì nǐ de zhōng wén shuō de tài hǎo le\n意 思 是  你 的 中    文  说   的 太  好  了"
+    } ]
+  }, {
+    "tStartMs": 253666,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "wǒ gěi nǐ píng jià zuì gāo jí 、 zuì bàng de ， wǒ gěi dào yí gè hāng\n我 给  你 评   价  最  高  级 、 最  棒   的 ， 我 给  到  一 个 夯  "
+    } ]
+  }, {
+    "tStartMs": 258433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "zhè dōu shì xiàn zài bǐ jiào cháng yòng de hāng de yòng fǎ\n这  都  是  现   在  比 较   常    用   的 夯   的 用   法"
+    } ]
+  }, {
+    "tStartMs": 262233,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "tài hāng le 、 hāng bào le 、 gěi dào yí gè hāng\n太  夯   了 、 夯   爆  了 、 给  到  一 个 夯  "
+    } ]
+  }, {
+    "tStartMs": 266500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "zhè ge hāng kě yǐ xíng róng gè zhǒng dōng xī\n这  个 夯   可 以 形   容   各 种    东   西"
+    } ]
+  }, {
+    "tStartMs": 269700,
+    "dDurationMs": 10066,
+    "segs": [ {
+      "utf8": "bǐ rú shuō shí wù a 、 cān tīng a 、 yī fu a 、 diàn yǐng a 、 yīn yuè ya 、 yóu xì ya děng děng děng děng\n比 如 说   食  物 啊 、 餐  厅   啊 、 衣 服 啊 、 电   影   啊 、 音  乐  呀 、 游  戏 呀 等   等   等   等  "
+    } ]
+  }, {
+    "tStartMs": 279866,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "zhǐ yào nǐ jué de tā shì zuì hǎo de\n只  要  你 觉  得 它 是  最  好  的"
+    } ]
+  }, {
+    "tStartMs": 282133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nǐ dōu kě yǐ yòng hāng lái xíng róng tā\n你 都  可 以 用   夯   来  形   容   它"
+    } ]
+  }, {
+    "tStartMs": 285266,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "xiàn zài zán men zài kàn dì èr jí - dǐng jí\n现   在  咱  们  再  看  第 二 级 - 顶   级"
+    } ]
+  }, {
+    "tStartMs": 289100,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "dǐng jí zài zhōng wén zhōng shì shén me yì sī ne\n顶   级 在  中    文  中    是  什   么 意 思 呢"
+    } ]
+  }, {
+    "tStartMs": 292700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "dǐng ， tóu dǐng ， t o p de yì sī ， shì bu shì\n顶   ， 头  顶   ， t o p 的 意 思 ， 是  不 是 "
+    } ]
+  }, {
+    "tStartMs": 296066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "shān dǐng ， zuì gāo chù de yì sī\n山   顶   ， 最  高  处  的 意 思"
+    } ]
+  }, {
+    "tStartMs": 298633,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "suǒ yǐ dǐng jí ne shì zuì gāo de jí bié\n所  以 顶   级 呢 是  最  高  的 级 别 "
+    } ]
+  }, {
+    "tStartMs": 302500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "wǒ jǔ gè lì zǐ\n我 举 个 例 子"
+    } ]
+  }, {
+    "tStartMs": 304066,
+    "dDurationMs": 5834,
+    "segs": [ {
+      "utf8": "cān jiā ào yùn huì de yùn dòng yuán dōu shì dǐng jí de yùn dòng yuán\n参  加  奥 运  会  的 运  动   员   都  是  顶   级 的 运  动   员  "
+    } ]
+  }, {
+    "tStartMs": 310100,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "nà zhè ge dǐng jí zài wǒ men zhè ge píng jià xì tǒng lǐ ne\n那 这  个 顶   级 在  我 们  这  个 评   价  系 统   里 呢"
+    } ]
+  }, {
+    "tStartMs": 313866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "ǹg tā biǎo shì fēi cháng hǎo 、 yě shì fēi cháng lì hài de yí gè jí bié\n嗯 它 表   示  非  常    好  、 也 是  非  常    厉 害  的 一 个 级 别 "
+    } ]
+  }, {
+    "tStartMs": 318333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "dàn shì bǐ hāng shāo wēi chà yì xiē\n但  是  比 夯   稍   微  差  一 些 "
+    } ]
+  }, {
+    "tStartMs": 321233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "rú guǒ hāng shì 1 0 0 fēn ér\n如 果  夯   是  1 0 0 分  儿"
+    } ]
+  }, {
+    "tStartMs": 323233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "nà dǐng jí dài biǎo de jiù shì 9 0 fēn ér\n那 顶   级 代  表   的 就  是  9 0 分  儿"
+    } ]
+  }, {
+    "tStartMs": 326433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "dì sān gè děng jí - rén shàng rén\n第 三  个 等   级 - 人  上    人 "
+    } ]
+  }, {
+    "tStartMs": 328766,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "rén shàng rén de yì sī jiù shì pǔ tōng rén shàng miàn de rén\n人  上    人  的 意 思 就  是  普 通   人  上    面   的 人 "
+    } ]
+  }, {
+    "tStartMs": 332833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "bǐ pǔ tōng rén shāo wēi lì hài yì xiē\n比 普 通   人  稍   微  厉 害  一 些 "
+    } ]
+  }, {
+    "tStartMs": 336533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "chāo guò píng jūn shuǐ píng\n超   过  平   均  水   平  "
+    } ]
+  }, {
+    "tStartMs": 339033,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "rén shàng rén zhè ge cí lái zì yú zhōng wén de yí jù sú yǔ\n人  上    人  这  个 词 来  自 于 中    文  的 一 句 俗 语"
+    } ]
+  }, {
+    "tStartMs": 344100,
+    "dDurationMs": 7533,
+    "segs": [ {
+      "utf8": "zhōng guó yǒu yí gè sú yǔ jiào zuò ： chī dé kǔ zhōng kǔ ， fāng wèi rén shàng rén\n中    国  有  一 个 俗 语 叫   做  ： 吃  得 苦 中    苦 ， 方   为  人  上    人 "
+    } ]
+  }, {
+    "tStartMs": 351833,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "yì sī shì ： nǐ zhǐ yǒu bǐ bié rén chī le gèng duō de kǔ\n意 思 是  ： 你 只  有  比 别  人  吃  了 更   多  的 苦"
+    } ]
+  }, {
+    "tStartMs": 356466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "bǐ bié rén zuò chū le gèng duō de nǔ lì\n比 别  人  做  出  了 更   多  的 努 力"
+    } ]
+  }, {
+    "tStartMs": 359333,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "nǐ cái néng chéng wéi bǐ bié rén gèng lì hài de rén\n你 才  能   成    为  比 别  人  更   厉 害  的 人 "
+    } ]
+  }, {
+    "tStartMs": 363633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "nà zài zhè ge píng jià xì tǒng lǐ ne\n那 在  这  个 评   价  系 统   里 呢"
+    } ]
+  }, {
+    "tStartMs": 366066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "zài zhè ge píng jià děng jí lǐ\n在  这  个 评   价  等   级 里"
+    } ]
+  }, {
+    "tStartMs": 368166,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "rén shàng rén biǎo shì bǐ pǔ tōng yào qiáng yì xiē 、 hái kě yǐ 、 bǐ jiào hǎo\n人  上    人  表   示  比 普 通   要  强    一 些  、 还  可 以 、 比 较   好 "
+    } ]
+  }, {
+    "tStartMs": 374700,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "dì sì gè děng jí shì N P C\n第 四 个 等   级 是  N P C"
+    } ]
+  }, {
+    "tStartMs": 378333,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "zhè shì yí gè yīng wén de suō xiě\n这  是  一 个 英   文  的 缩  写 "
+    } ]
+  }, {
+    "tStartMs": 381766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yóu xì lǐ de fēi wán jiā jué sè\n游  戏 里 的 非  玩  家  角  色"
+    } ]
+  }, {
+    "tStartMs": 384900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "n o n   p l a y e r   c h a r a c t e r\nn o n   p l a y e r   c h a r a c t e r"
+    } ]
+  }, {
+    "tStartMs": 387366,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "jiù shì wǒ men zài wán yóu xì de shí hòu 、 nà xiē bèi jǐng jué sè\n就  是  我 们  在  玩  游  戏 的 时  候  、 那 些  背  景   角  色"
+    } ]
+  }, {
+    "tStartMs": 392233,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "bèi jǐng lǐ de rén ， méi rén huì zhù yì tā men\n背  景   里 的 人  ， 没  人  会  注  意 它 们 "
+    } ]
+  }, {
+    "tStartMs": 395133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "wán yóu xì de shí hòu yě bú huì cāo zuò tā men\n玩  游  戏 的 时  候  也 不 会  操  作  它 们 "
+    } ]
+  }, {
+    "tStartMs": 398300,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "suǒ yǐ ne zhè ge N P C biǎo shì fēi cháng pǔ tōng de rén 、 méi rén huì zhù yì dào de rén\n所  以 呢 这  个 N P C 表   示  非  常    普 通   的 人  、 没  人  会  注  意 到  的 人 "
+    } ]
+  }, {
+    "tStartMs": 404433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "suǒ yǐ tā zài zhè ge píng jià děng jí lǐ ne\n所  以 它 在  这  个 评   价  等   级 里 呢"
+    } ]
+  }, {
+    "tStartMs": 406933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "tā biǎo shì pǔ tōng\n它 表   示  普 通  "
+    } ]
+  }, {
+    "tStartMs": 409333,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": "zuì hòu yí gè jí bié 、 zuì hòu yí gè děng jí ， yě shì zuì chà de yí gè děng jí ， shì “ lā wán le ”\n最  后  一 个 级 别  、 最  后  一 个 等   级 ， 也 是  最  差  的 一 个 等   级 ， 是  “ 拉 完  了 ”"
+    } ]
+  }, {
+    "tStartMs": 417466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "lā zhè ge cí ne\n拉 这  个 词 呢"
+    } ]
+  }, {
+    "tStartMs": 419066,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "lā zhè ge zì lái zì zhōng guó de dōng běi fāng yán\n拉 这  个 字 来  自 中    国  的 东   北  方   言 "
+    } ]
+  }, {
+    "tStartMs": 424300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "zài zhōng guó de dōng běi dì qū\n在  中    国  的 东   北  地 区"
+    } ]
+  }, {
+    "tStartMs": 426500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "yǒu yí gè fāng yán cí huì jiào “ lā kuà ”\n有  一 个 方   言  词 汇  叫   “ 拉 胯  ”"
+    } ]
+  }, {
+    "tStartMs": 429900,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "yì sī shì tè bié chà 、 hěn chà jìn\n意 思 是  特 别  差  、 很  差  劲 "
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "bǐ rú shuō zhè ge rén yě tài lā kuà le\n比 如 说   这  个 人  也 太  拉 胯  了"
+    } ]
+  }, {
+    "tStartMs": 436233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "yì sī shì zhè ge rén tài chà le\n意 思 是  这  个 人  太  差  了"
+    } ]
+  }, {
+    "tStartMs": 438266,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "kě néng néng lì hěn chà 、 huò zhě rén pǐn hěn chà\n可 能   能   力 很  差  、 或  者  人  品  很  差 "
+    } ]
+  }, {
+    "tStartMs": 441700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "zǒng zhī shì bú tài hǎo\n总   之  是  不 太  好 "
+    } ]
+  }, {
+    "tStartMs": 443766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "ǹg zài bǐ rú shuō\n嗯 再  比 如 说  "
+    } ]
+  }, {
+    "tStartMs": 445266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "zhè shì ér nǐ bàn de yě tài lā kuà le\n这  事  儿 你 办  的 也 太  拉 胯  了"
+    } ]
+  }, {
+    "tStartMs": 448033,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "yì sī shì nǐ zhè jiàn shì zuò dé bú tài hǎo 、 wán chéng dé bú tài hǎo\n意 思 是  你 这  件   事  做  得 不 太  好  、 完  成    得 不 太  好 "
+    } ]
+  }, {
+    "tStartMs": 452866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "nà suǒ yǐ zài zhè ge píng jià děng jí lǐ ne\n那 所  以 在  这  个 评   价  等   级 里 呢"
+    } ]
+  }, {
+    "tStartMs": 456166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "yòng lā lái biǎo shì hěn chà\n用   拉 来  表   示  很  差 "
+    } ]
+  }, {
+    "tStartMs": 459333,
+    "dDurationMs": 7933,
+    "segs": [ {
+      "utf8": "lā wán le jiù shì bù néng zài chà le 、 zuì chà de 、 chà dào jí diǎn le ， bù néng gèng chà le\n拉 完  了 就  是  不 能   再  差  了 、 最  差  的 、 差  到  极 点   了 ， 不 能   更   差  了"
+    } ]
+  }, {
+    "tStartMs": 467333,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "xiàn zài de nián qīng rén yě tè bié ài yòng lā zhè ge zì lái xíng róng yì xiē dōng xī\n现   在  的 年   轻   人  也 特 别  爱 用   拉 这  个 字 来  形   容   一 些  东   西"
+    } ]
+  }, {
+    "tStartMs": 473133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "huò zhě gěi yì xiē dōng xī píng jià\n或  者  给  一 些  东   西 评   价 "
+    } ]
+  }, {
+    "tStartMs": 475766,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "bǐ rú shuō ： jīn tiān wǒ kàn de zhè diàn yǐng tài lā le\n比 如 说   ： 今  天   我 看  的 这  电   影   太  拉 了"
+    } ]
+  }, {
+    "tStartMs": 479700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "kàn dào yí bàn ér wǒ jiù zǒu le 、 tài méi yì si le\n看  到  一 半  儿 我 就  走  了 、 太  没  意 思 了"
+    } ]
+  }, {
+    "tStartMs": 483066,
+    "dDurationMs": 4967,
+    "segs": [ {
+      "utf8": "huò zhě shuō āi yōu zhè jiā cān tīng tài lā le ， yòu guì yòu nán chī\n或  者  说   哎 呦  这  家  餐  厅   太  拉 了 ， 又  贵  又  难  吃 "
+    } ]
+  }, {
+    "tStartMs": 488033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "lā kě yǐ dān dú shǐ yòng\n拉 可 以 单  独 使  用  "
+    } ]
+  }, {
+    "tStartMs": 489866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "yě kě yǐ shuō lā wán le\n也 可 以 说   拉 完  了"
+    } ]
+  }, {
+    "tStartMs": 491866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "lā jiù hěn chà\n拉 就  很  差 "
+    } ]
+  }, {
+    "tStartMs": 493133,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "lā wán le bǐ lā gèng chà\n拉 完  了 比 拉 更   差 "
+    } ]
+  }, {
+    "tStartMs": 495333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "bù néng zài chà le\n不 能   再  差  了"
+    } ]
+  }, {
+    "tStartMs": 497066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "bǐ rú shuō ， āi yōu wǒ zhè cì kǎo shì lā wán le ， kěn dìng bù jí gé\n比 如 说   ， 哎 呦  我 这  次 考  试  拉 完  了 ， 肯  定   不 及 格"
+    } ]
+  }, {
+    "tStartMs": 501166,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "yì sī jiù shì wǒ kǎo dé tài chà le ， bù néng zài chà le\n意 思 就  是  我 考  得 太  差  了 ， 不 能   再  差  了"
+    } ]
+  }, {
+    "tStartMs": 505500,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "nà zhè jiù shì lā hé lā wán le de yòng fǎ\n那 这  就  是  拉 和 拉 完  了 的 用   法"
+    } ]
+  }, {
+    "tStartMs": 508966,
+    "dDurationMs": 7334,
+    "segs": [ {
+      "utf8": "” cóng hāng dào lā “ zhè zhǒng píng jià fāng shì ne ， qí shí bìng bú shì yí gè hěn yán sù de píng jià fāng shì\n” 从   夯   到  拉 “ 这  种    评   价  方   式  呢 ， 其 实  并   不 是  一 个 很  严  肃 的 评   价  方   式 "
+    } ]
+  }, {
+    "tStartMs": 516533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "zài wǎng shàng shuí dōu kě yǐ yòng\n在  网   上    谁   都  可 以 用  "
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "píng jià shén me dōng xī dōu kě yǐ\n评   价  什   么 东   西 都  可 以"
+    } ]
+  }, {
+    "tStartMs": 522033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ men huì zài hù lián wǎng shàng\n所  以 我 们  会  在  互 联   网   上   "
+    } ]
+  }, {
+    "tStartMs": 524133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "jīng cháng kàn dào yì xiē bó zhǔ\n经   常    看  到  一 些  博 主 "
+    } ]
+  }, {
+    "tStartMs": 526900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "duì zì jǐ shú xī lǐng yù de dōng xī\n对  自 己 熟  悉 领   域 的 东   西"
+    } ]
+  }, {
+    "tStartMs": 529466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "huò zhě shì zì jǐ tǐ yàn guò de yì xiē dōng xī\n或  者  是  自 己 体 验  过  的 一 些  东   西"
+    } ]
+  }, {
+    "tStartMs": 532500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "yòng ” cóng hāng dào lā “ zuò yí gè píng jià 、 zuò yí gè pái xù\n用   ” 从   夯   到  拉 “ 做  一 个 评   价  、 做  一 个 排  序"
+    } ]
+  }, {
+    "tStartMs": 537433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "biǎo dá yí xià zì jǐ de gǎn shòu\n表   达 一 下  自 己 的 感  受  "
+    } ]
+  }, {
+    "tStartMs": 539766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "huò zhě ne gěi bié rén yí gè cān kǎo\n或  者  呢 给  别  人  一 个 参  考 "
+    } ]
+  }, {
+    "tStartMs": 543133,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "bǐ rú shuō ， yì xiē lǚ yóu bó zhǔ qù le yí gè dì fāng lǚ yóu\n比 如 说   ， 一 些  旅 游  博 主  去 了 一 个 地 方   旅 游 "
+    } ]
+  }, {
+    "tStartMs": 547833,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "tā bǎ zhè ge chéng shì de jǐng diǎn ” cóng hāng dào lā “ píng jià yí xià 、 pái xù yí xià\n他 把 这  个 城    市  的 景   点   ” 从   夯   到  拉 “ 评   价  一 下  、 排  序 一 下 "
+    } ]
+  }, {
+    "tStartMs": 553900,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "fā biǎo le yí xià zì jǐ de gǎn shòu 、 zì jǐ de xiǎng fǎ\n发 表   了 一 下  自 己 的 感  受   、 自 己 的 想    法"
+    } ]
+  }, {
+    "tStartMs": 557333,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "yě néng gěi qí tā de rén ne zuò yí gè cān kǎo\n也 能   给  其 他 的 人  呢 做  一 个 参  考 "
+    } ]
+  }, {
+    "tStartMs": 560133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "rú guǒ qí tā de rén qù zhè ge chéng shì lǚ yóu\n如 果  其 他 的 人  去 这  个 城    市  旅 游 "
+    } ]
+  }, {
+    "tStartMs": 562700,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "yě kě yǐ cān kǎo yí xià tā de zhè ge píng jià 、 tā de zhè ge pái xù\n也 可 以 参  考  一 下  他 的 这  个 评   价  、 他 的 这  个 排  序"
+    } ]
+  }, {
+    "tStartMs": 566700,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "hái yǒu yì xiē bǐ rú shuō kē jì bó zhǔ\n还  有  一 些  比 如 说   科 技 博 主 "
+    } ]
+  }, {
+    "tStartMs": 569833,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "tā men jīng cháng huì cè píng yì xiē kē jì chǎn pǐn\n他 们  经   常    会  测 评   一 些  科 技 产   品 "
+    } ]
+  }, {
+    "tStartMs": 573766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "shén me shǒu jī ya 、 xiàng jī ya 、 diàn nǎo a\n什   么 手   机 呀 、 相    机 呀 、 电   脑  啊"
+    } ]
+  }, {
+    "tStartMs": 576933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "tā men cè píng wán le zhī hòu\n他 们  测 评   完  了 之  后 "
+    } ]
+  }, {
+    "tStartMs": 578466,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "jiù bǎ tóng lèi de chǎn pǐn zuò yí gè ” cóng hāng dào lā “ de pái xù\n就  把 同   类  的 产   品  做  一 个 ” 从   夯   到  拉 “ 的 排  序"
+    } ]
+  }, {
+    "tStartMs": 583033,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "gěi bié rén zuò wéi cān kǎo\n给  别  人  作  为  参  考 "
+    } ]
+  }, {
+    "tStartMs": 585066,
+    "dDurationMs": 6134,
+    "segs": [ {
+      "utf8": "xiàn zài wǎng shàng hái yǒu hěn duō hěn yǒu yì sī de ” cóng hāng dào lā “ de píng jià hé pái xù\n现   在  网   上    还  有  很  多  很  有  意 思 的 ” 从   夯   到  拉 “ 的 评   价  和 排  序"
+    } ]
+  }, {
+    "tStartMs": 591366,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "hěn duō dōu shì dān chún de wèi le gǎo xiào ， ràng dà jiā kāi xīn yí xià\n很  多  都  是  单  纯   的 为  了 搞  笑   ， 让   大 家  开  心  一 下 "
+    } ]
+  }, {
+    "tStartMs": 596833,
+    "dDurationMs": 6033,
+    "segs": [ {
+      "utf8": "wǒ zuì jìn kàn dào de yí gè fēi cháng yǒu yì sī de ” cóng hāng dào lā “ de píng jià hé pái xù\n我 最  近  看  到  的 一 个 非  常    有  意 思 的 ” 从   夯   到  拉 “ 的 评   价  和 排  序"
+    } ]
+  }, {
+    "tStartMs": 602966,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "shì duì zhè cì shì jiè bēi shàng de qiú xīng\n是  对  这  次 世  界  杯  上    的 球  星  "
+    } ]
+  }, {
+    "tStartMs": 606966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "bǎ zhè xiē qiú xīng de yán zhí ， liǎn cháng dé hǎo bu hǎo kàn\n把 这  些  球  星   的 颜  值  ， 脸   长    得 好  不 好  看 "
+    } ]
+  }, {
+    "tStartMs": 611700,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "zuò le yí gè ” cóng hāng dào lā “ de pái xù\n做  了 一 个 ” 从   夯   到  拉 “ 的 排  序"
+    } ]
+  }, {
+    "tStartMs": 615266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "fēi cháng yǒu yì sī\n非  常    有  意 思"
+    } ]
+  }, {
+    "tStartMs": 616833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "hǎo le jīn tiān de shì pín zán men jiù liáo dào zhè\n好  了 今  天   的 视  频  咱  们  就  聊   到  这 "
+    } ]
+  }, {
+    "tStartMs": 620166,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "cóng hāng dào lā\n从   夯   到  拉"
+    } ]
+  }, {
+    "tStartMs": 621666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "dà jiā xué huì le ma\n大 家  学  会  了 吗"
+    } ]
+  }, {
+    "tStartMs": 623433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "huì yòng le ma\n会  用   了 吗"
+    } ]
+  }, {
+    "tStartMs": 625266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "xī wàng wǒ jīn tiān de shì pín\n希 望   我 今  天   的 视  频 "
+    } ]
+  }, {
+    "tStartMs": 626900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "duì nǐ men xué xí zhōng wén yǒu bāng zhù\n对  你 们  学  习 中    文  有  帮   助 "
+    } ]
+  }, {
+    "tStartMs": 629433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ duì wǒ de shì pín gǎn xìng qù\n如 果  你 对  我 的 视  频  感  兴   趣"
+    } ]
+  }, {
+    "tStartMs": 632033,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "yí dìng yào dìng yuè wǒ de pín dào ò\n一 定   要  订   阅  我 的 频  道  哦"
+    } ]
+  }, {
+    "tStartMs": 634566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "xiè xiè dà jiā\n谢  谢  大 家 "
+    } ]
+  }, {
+    "tStartMs": 635666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "xià cì zài jiàn bài bài\n下  次 再  见   拜  拜 "
+    } ]
+  } ]
+}

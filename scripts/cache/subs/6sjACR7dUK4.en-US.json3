@@ -1,0 +1,607 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Want to come out and have some fun?"
+    } ]
+  }, {
+    "tStartMs": 2333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Come on out!"
+    } ]
+  }, {
+    "tStartMs": 4900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Hi, everyone!"
+    } ]
+  }, {
+    "tStartMs": 6300,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "I'm at the park now."
+    } ]
+  }, {
+    "tStartMs": 13300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "On my back,"
+    } ]
+  }, {
+    "tStartMs": 15900,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "I'm carrying a bag."
+    } ]
+  }, {
+    "tStartMs": 22833,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "What's inside the bag?"
+    } ]
+  }, {
+    "tStartMs": 27100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "We'll find out in a little while."
+    } ]
+  }, {
+    "tStartMs": 29300,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Let's walk around the park together."
+    } ]
+  }, {
+    "tStartMs": 39000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "This is a big tree."
+    } ]
+  }, {
+    "tStartMs": 45100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "This is its trunk."
+    } ]
+  }, {
+    "tStartMs": 51700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "These are its roots."
+    } ]
+  }, {
+    "tStartMs": 55500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "This is a vending machine."
+    } ]
+  }, {
+    "tStartMs": 59033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "These are all drinks,"
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "to keep you hydrated."
+    } ]
+  }, {
+    "tStartMs": 63500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "This is a small hill."
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "It's covered in grass."
+    } ]
+  }, {
+    "tStartMs": 73500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "People are taking wedding photos up ahead."
+    } ]
+  }, {
+    "tStartMs": 79700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Several couples"
+    } ]
+  }, {
+    "tStartMs": 82133,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "are taking wedding photos."
+    } ]
+  }, {
+    "tStartMs": 87333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "One couple."
+    } ]
+  }, {
+    "tStartMs": 90900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Two couples."
+    } ]
+  }, {
+    "tStartMs": 93333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Three couples."
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Four couples."
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "They're taking wedding photos here."
+    } ]
+  }, {
+    "tStartMs": 117633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Two young women are taking photos up ahead."
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "A sanitation worker is sweeping the ground."
+    } ]
+  }, {
+    "tStartMs": 135700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "She's sweeping up fallen leaves."
+    } ]
+  }, {
+    "tStartMs": 143066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "This is a fallen leaf."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "A fallen leaf."
+    } ]
+  }, {
+    "tStartMs": 148300,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It's turned yellow."
+    } ]
+  }, {
+    "tStartMs": 152733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'm thirsty."
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "I'll have a sip of water."
+    } ]
+  }, {
+    "tStartMs": 162366,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Unscrew the bottle cap."
+    } ]
+  }, {
+    "tStartMs": 164500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "This is how you unscrew the bottle cap."
+    } ]
+  }, {
+    "tStartMs": 168666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "This is the bottle cap."
+    } ]
+  }, {
+    "tStartMs": 171866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "This is the bottle."
+    } ]
+  }, {
+    "tStartMs": 174100,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "There's water inside."
+    } ]
+  }, {
+    "tStartMs": 177900,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "I'm going to drink some water now."
+    } ]
+  }, {
+    "tStartMs": 185700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Now let's see what's inside the bag."
+    } ]
+  }, {
+    "tStartMs": 192966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "There's a book in the bag."
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "A book."
+    } ]
+  }, {
+    "tStartMs": 201066,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "I'm going to read here."
+    } ]
+  }, {
+    "tStartMs": 205566,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Open the book."
+    } ]
+  }, {
+    "tStartMs": 207666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Read."
+    } ]
+  }, {
+    "tStartMs": 210200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "I'm reading."
+    } ]
+  }, {
+    "tStartMs": 214666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "These are earbuds."
+    } ]
+  }, {
+    "tStartMs": 218400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I'll listen to music."
+    } ]
+  }, {
+    "tStartMs": 219866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "These are earbuds."
+    } ]
+  }, {
+    "tStartMs": 222700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Put them in my ears."
+    } ]
+  }, {
+    "tStartMs": 231566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Choose some music."
+    } ]
+  }, {
+    "tStartMs": 235600,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Thank you, life, for this wonderful…"
+    } ]
+  }, {
+    "tStartMs": 242266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Here's a poem by Bai Juyi for you."
+    } ]
+  }, {
+    "tStartMs": 246100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "Boundless grasses over the plain"
+    } ]
+  }, {
+    "tStartMs": 249600,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Come and go with every season;"
+    } ]
+  }, {
+    "tStartMs": 252600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Wildfire never quite consumes them—"
+    } ]
+  }, {
+    "tStartMs": 254600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "They are tall once more in the spring wind."
+    } ]
+  }, {
+    "tStartMs": 257500,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Sweet they press on the old high-road"
+    } ]
+  }, {
+    "tStartMs": 260300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And reach the crumbling city-gate. . . ."
+    } ]
+  }, {
+    "tStartMs": 263600,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "O Prince of Friends, you are gone again. . .\n."
+    } ]
+  }, {
+    "tStartMs": 266666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "I hear them sighing after you."
+    } ]
+  }, {
+    "tStartMs": 271700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The sunlight comes through the trees"
+    } ]
+  }, {
+    "tStartMs": 275700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "and shines on the book."
+    } ]
+  }, {
+    "tStartMs": 280700,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The sun is shining on my face."
+    } ]
+  }, {
+    "tStartMs": 286700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "The sunlight is dazzling."
+    } ]
+  }, {
+    "tStartMs": 290666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "I can't keep my eyes open."
+    } ]
+  }, {
+    "tStartMs": 300066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "I'm walking among the trees."
+    } ]
+  }, {
+    "tStartMs": 304266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "These are all trees."
+    } ]
+  }, {
+    "tStartMs": 310700,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "I'm going home now."
+    } ]
+  }, {
+    "tStartMs": 314166,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "Put the book into the backpack."
+    } ]
+  }, {
+    "tStartMs": 319466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "Put it in."
+    } ]
+  }, {
+    "tStartMs": 323100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Zip it up."
+    } ]
+  }, {
+    "tStartMs": 326766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Put it on my back."
+    } ]
+  }, {
+    "tStartMs": 330266,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Put it on my back."
+    } ]
+  }, {
+    "tStartMs": 331666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "We can go now."
+    } ]
+  }, {
+    "tStartMs": 334666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "This is a large lawn."
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "There's a bird."
+    } ]
+  }, {
+    "tStartMs": 340700,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Look!"
+    } ]
+  }, {
+    "tStartMs": 342400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The bird is on the grass."
+    } ]
+  }, {
+    "tStartMs": 348600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "It flew away."
+    } ]
+  }, {
+    "tStartMs": 350433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "This large body of water is the sea."
+    } ]
+  }, {
+    "tStartMs": 358266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "There are tall buildings on the other side."
+    } ]
+  }, {
+    "tStartMs": 365900,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This is seawater."
+    } ]
+  }, {
+    "tStartMs": 368466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "That's the sun."
+    } ]
+  }, {
+    "tStartMs": 370533,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "The sun is setting."
+    } ]
+  }, {
+    "tStartMs": 373833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "The sun's reflection is on the sea."
+    } ]
+  }, {
+    "tStartMs": 378100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "This is a railing."
+    } ]
+  }, {
+    "tStartMs": 381100,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "This is a lifebuoy."
+    } ]
+  }, {
+    "tStartMs": 384400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This is a fishing rod."
+    } ]
+  }, {
+    "tStartMs": 387200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Someone is fishing."
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Someone is fishing up ahead."
+    } ]
+  }, {
+    "tStartMs": 393333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "This is sand."
+    } ]
+  }, {
+    "tStartMs": 395866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Children are playing in the sand."
+    } ]
+  }, {
+    "tStartMs": 399866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Let's go out through the exit."
+    } ]
+  }, {
+    "tStartMs": 403966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "We're outside now."
+    } ]
+  }, {
+    "tStartMs": 406400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "We've come out of the park."
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "What time is it now?"
+    } ]
+  }, {
+    "tStartMs": 411633,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It's five thirty in the afternoon."
+    } ]
+  }, {
+    "tStartMs": 416033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Time to go home and eat."
+    } ]
+  } ]
+}

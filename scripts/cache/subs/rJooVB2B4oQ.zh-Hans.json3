@@ -1,0 +1,763 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 18733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "大家认识这两个字吗"
+    } ]
+  }, {
+    "tStartMs": 21933,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "那就是“饭店”"
+    } ]
+  }, {
+    "tStartMs": 28033,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "今天我来到了一家特别的饭店吃饭"
+    } ]
+  }, {
+    "tStartMs": 33200,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "这家饭店特别火"
+    } ]
+  }, {
+    "tStartMs": 35833,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "别看它的样子好像没什么特别"
+    } ]
+  }, {
+    "tStartMs": 39700,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "也不咋漂亮"
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "但是排队吃饭的人很多"
+    } ]
+  }, {
+    "tStartMs": 47600,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "那我们现在就进去看看吧"
+    } ]
+  }, {
+    "tStartMs": 68133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "空调扇"
+    } ]
+  }, {
+    "tStartMs": 70300,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "最近的天气实在是太热了"
+    } ]
+  }, {
+    "tStartMs": 73466,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "没有风扇、没有空调根本活不了呀"
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 7333,
+    "segs": [ {
+      "utf8": "一进门口就看到了这些非常传统的摆设"
+    } ]
+  }, {
+    "tStartMs": 90333,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "很少在饭店可以看到这些摆设"
+    } ]
+  }, {
+    "tStartMs": 95500,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "因为这是一家农村里的饭店"
+    } ]
+  }, {
+    "tStartMs": 99533,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "所以就有了这些摆设"
+    } ]
+  }, {
+    "tStartMs": 103233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "我觉得还蛮有特色的"
+    } ]
+  }, {
+    "tStartMs": 109200,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "这是一部可以租借充电宝的机器"
+    } ]
+  }, {
+    "tStartMs": 117633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "充电宝"
+    } ]
+  }, {
+    "tStartMs": 120100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "如果你的手机没电了"
+    } ]
+  }, {
+    "tStartMs": 122100,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "可以在这里租借充电宝"
+    } ]
+  }, {
+    "tStartMs": 133700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "这个水果大家看得出来吗"
+    } ]
+  }, {
+    "tStartMs": 136433,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "菠萝，因为这个地方的水果"
+    } ]
+  }, {
+    "tStartMs": 140233,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "最有名的就是菠萝了"
+    } ]
+  }, {
+    "tStartMs": 145533,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "这个饭店的门口对面有一个小摊"
+    } ]
+  }, {
+    "tStartMs": 150833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就是卖一些水果"
+    } ]
+  }, {
+    "tStartMs": 153233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "还有小吃"
+    } ]
+  }, {
+    "tStartMs": 154833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "还有他们自己家种的东西"
+    } ]
+  }, {
+    "tStartMs": 157333,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "比方说，柠檬啊，香蕉啊"
+    } ]
+  }, {
+    "tStartMs": 160766,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "生意还挺好的"
+    } ]
+  }, {
+    "tStartMs": 167700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "在这个饭店里"
+    } ]
+  }, {
+    "tStartMs": 170133,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "居然有一个饮料店"
+    } ]
+  }, {
+    "tStartMs": 176233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "它的名字也特别有意思"
+    } ]
+  }, {
+    "tStartMs": 178166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "叫“菠萝调茶局”"
+    } ]
+  }, {
+    "tStartMs": 181966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我说了这家餐厅非常地火"
+    } ]
+  }, {
+    "tStartMs": 184300,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "经常要排队"
+    } ]
+  }, {
+    "tStartMs": 186233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "现在是工作日的下午5点多"
+    } ]
+  }, {
+    "tStartMs": 192366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "如果我们需要排队的话呢"
+    } ]
+  }, {
+    "tStartMs": 194300,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "就可以坐在这些红色的凳子上"
+    } ]
+  }, {
+    "tStartMs": 199833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "这是在广东很经常看到的一种凳子"
+    } ]
+  }, {
+    "tStartMs": 204700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "这边是收银台"
+    } ]
+  }, {
+    "tStartMs": 206966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "买单的地方"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "有扣肉卖了啊"
+    } ]
+  }, {
+    "tStartMs": 217733,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "有扣肉卖了"
+    } ]
+  }, {
+    "tStartMs": 218700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "没有蟹粥"
+    } ]
+  }, {
+    "tStartMs": 220133,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "叉烧、排骨、烧鹅"
+    } ]
+  }, {
+    "tStartMs": 226600,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "白切鸡，还有豉油鸡"
+    } ]
+  }, {
+    "tStartMs": 229933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "“豉油”，也就是“酱油”的意思"
+    } ]
+  }, {
+    "tStartMs": 234133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "它的价格是这样的"
+    } ]
+  }, {
+    "tStartMs": 235766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "65块钱半只"
+    } ]
+  }, {
+    "tStartMs": 237533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "120块钱一只"
+    } ]
+  }, {
+    "tStartMs": 243400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "这里是出餐口"
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "做好的餐会放在这里"
+    } ]
+  }, {
+    "tStartMs": 252633,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "另一边呢"
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就是一些海鲜"
+    } ]
+  }, {
+    "tStartMs": 258866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "我们可以自己在这里挑选海鲜"
+    } ]
+  }, {
+    "tStartMs": 262600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "就好像在市场里面一样的"
+    } ]
+  }, {
+    "tStartMs": 270033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "小螃蟹"
+    } ]
+  }, {
+    "tStartMs": 276100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "这个看起来特别吓人"
+    } ]
+  }, {
+    "tStartMs": 279866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这种呢叫“黄鳝”"
+    } ]
+  }, {
+    "tStartMs": 282933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这种鱼叫“黄鳝”"
+    } ]
+  }, {
+    "tStartMs": 291333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "哇，这里有一个大鱼头"
+    } ]
+  }, {
+    "tStartMs": 300333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "不同种类的蟹"
+    } ]
+  }, {
+    "tStartMs": 304500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "鱼"
+    } ]
+  }, {
+    "tStartMs": 308200,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "还有这种(龙虱、水蟑螂)"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "你们敢吃吗"
+    } ]
+  }, {
+    "tStartMs": 316333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "它们还会动呢，会游泳"
+    } ]
+  }, {
+    "tStartMs": 329200,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "感觉好像进入了一个海鲜市场"
+    } ]
+  }, {
+    "tStartMs": 342466,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "上面呢，通常会做成菜单"
+    } ]
+  }, {
+    "tStartMs": 346600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "他把这些菜肴都展示出来了"
+    } ]
+  }, {
+    "tStartMs": 350066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "方便大家点菜"
+    } ]
+  }, {
+    "tStartMs": 354300,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这里也放着一些新鲜的蔬菜"
+    } ]
+  }, {
+    "tStartMs": 357966,
+    "dDurationMs": 6834,
+    "segs": [ {
+      "utf8": "给客人们展示他们今天的饭店提供哪些蔬菜"
+    } ]
+  }, {
+    "tStartMs": 365966,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "下面呢，还有一道食材"
+    } ]
+  }, {
+    "tStartMs": 370433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "叫“竹虫”"
+    } ]
+  }, {
+    "tStartMs": 373500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "也是虫子的一种"
+    } ]
+  }, {
+    "tStartMs": 377066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "它们现在藏起来了"
+    } ]
+  }, {
+    "tStartMs": 383866,
+    "dDurationMs": 6234,
+    "segs": [ {
+      "utf8": "这里有一条又大又胖的虫子，竹虫"
+    } ]
+  }, {
+    "tStartMs": 390333,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "但是我听说它的营养是非常丰富的"
+    } ]
+  }, {
+    "tStartMs": 395566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "蛋白质非常地高"
+    } ]
+  }, {
+    "tStartMs": 404366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "在广东这种虫子是可以吃的"
+    } ]
+  }, {
+    "tStartMs": 407833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "而且价格还不便宜"
+    } ]
+  }, {
+    "tStartMs": 411600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "在这个饭店"
+    } ]
+  }, {
+    "tStartMs": 413166,
+    "dDurationMs": 5434,
+    "segs": [ {
+      "utf8": "我们还能看到一些鲤鱼"
+    } ]
+  }, {
+    "tStartMs": 421733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "和乌龟"
+    } ]
+  }, {
+    "tStartMs": 427600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "这里有一个小水池"
+    } ]
+  }, {
+    "tStartMs": 432400,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这里呢，有一块白板"
+    } ]
+  }, {
+    "tStartMs": 435233,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "上面也有一些菜的名字"
+    } ]
+  }, {
+    "tStartMs": 439066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "这是一份手写的菜单"
+    } ]
+  }, {
+    "tStartMs": 450766,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "农村的饭店大部分都是长这个样子的"
+    } ]
+  }, {
+    "tStartMs": 455566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "就是装修可以不漂亮"
+    } ]
+  }, {
+    "tStartMs": 458366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "但是东西一定要好吃"
+    } ]
+  }, {
+    "tStartMs": 461233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "广东人出去吃饭"
+    } ]
+  }, {
+    "tStartMs": 462533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "他不会管你的环境好不好"
+    } ]
+  }, {
+    "tStartMs": 464733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "但是他一定非常在意你的味道"
+    } ]
+  }, {
+    "tStartMs": 471733,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "这里就是这个饭店的厨房啦"
+    } ]
+  }, {
+    "tStartMs": 480033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "这个饭店呢，还提供免费的汤"
+    } ]
+  }, {
+    "tStartMs": 483166,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "所以你可以拿着碗在这边排队盛汤"
+    } ]
+  }, {
+    "tStartMs": 489133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "听说这里的汤是非常美味的"
+    } ]
+  }, {
+    "tStartMs": 491933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "所以有很多人排队"
+    } ]
+  }, {
+    "tStartMs": 498366,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "大家看，现在已经坐满了排队的人"
+    } ]
+  }, {
+    "tStartMs": 505600,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "他这个饭馆有二楼"
+    } ]
+  }, {
+    "tStartMs": 508133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "一楼已经满了"
+    } ]
+  }, {
+    "tStartMs": 509300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "所以我们要上二楼去"
+    } ]
+  }, {
+    "tStartMs": 535866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "二楼就是这个样子的"
+    } ]
+  }, {
+    "tStartMs": 540833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "但是看起来二楼比较热"
+    } ]
+  }, {
+    "tStartMs": 543933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "因为这是一个开放的空间"
+    } ]
+  }, {
+    "tStartMs": 546666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "没有空调"
+    } ]
+  }, {
+    "tStartMs": 548333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "只有风扇"
+    } ]
+  }, {
+    "tStartMs": 550133,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "但是呢，二楼的优点就是它的景色比较美"
+    } ]
+  }, {
+    "tStartMs": 557033,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "可以看到这边的一条小河"
+    } ]
+  }, {
+    "tStartMs": 569366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "幸好我们来得早"
+    } ]
+  }, {
+    "tStartMs": 570766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "不然就要排队了"
+    } ]
+  }, {
+    "tStartMs": 583333,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "这个店卖得最好的是菠萝冰沙"
+    } ]
+  }, {
+    "tStartMs": 588500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "只要9块9"
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "top one，销量top one，第一位"
+    } ]
+  }, {
+    "tStartMs": 598633,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "勉强营业中"
+    } ]
+  }, {
+    "tStartMs": 608600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "造型非常奇特的摆设"
+    } ]
+  }, {
+    "tStartMs": 614400,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "买了一杯这边的特色饮料"
+    } ]
+  }, {
+    "tStartMs": 618766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "菠萝沙冰"
+    } ]
+  }, {
+    "tStartMs": 620900,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "夏天真的不可以没有冰啊"
+    } ]
+  }, {
+    "tStartMs": 625100,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "上面还有个小菠萝"
+    } ]
+  }, {
+    "tStartMs": 627166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "可爱死啦"
+    } ]
+  }, {
+    "tStartMs": 629333,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "然后边吃这杯沙冰"
+    } ]
+  }, {
+    "tStartMs": 632633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "边欣赏这边的河景"
+    } ]
+  }, {
+    "tStartMs": 637333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "太完美了"
+    } ]
+  } ]
+}

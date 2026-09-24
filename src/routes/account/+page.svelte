@@ -3,6 +3,7 @@
   import { createAccount, signIn, signOut, SYNC_ENABLED } from '$lib/pb.js';
   import { hasVoice, voiceName, speak } from '$lib/tts.js';
   import { theme } from '$lib/theme.svelte.js';
+  import { sfx } from '$lib/sfx.svelte.js';
 
   let tab = $state('create'); // create | existing
   let busy = $state(false);
@@ -68,10 +69,12 @@
       error = 'That file could not be read.';
     }
   }
+  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
+<PageHeader title="Account" account={false} />
+
 <div class="page">
-  <h1>Account</h1>
 
   {#if fresh}
     <div class="card pop callout good">
@@ -188,5 +191,11 @@
     <button class="btn sm spaced" onclick={() => speak('你好，这是中文发音测试。')}>
       Test the voice
     </button>
+
+    <p class="label spaced">Answer sounds</p>
+    <div class="chips spaced">
+      <button class="chip" class:on={sfx.enabled} onclick={() => sfx.set(true)}>On</button>
+      <button class="chip" class:on={!sfx.enabled} onclick={() => sfx.set(false)}>Off</button>
+    </div>
   </div>
 </div>

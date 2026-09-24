@@ -1,0 +1,4423 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我没开玩笑。"
+    } ]
+  }, {
+    "tStartMs": 2100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这几乎是垂直的。"
+    } ]
+  }, {
+    "tStartMs": 4700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "至少有八十度。"
+    } ]
+  }, {
+    "tStartMs": 7666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "想象一下，"
+    } ]
+  }, {
+    "tStartMs": 9233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "那些每天都要爬这个上学的孩子们。"
+    } ]
+  }, {
+    "tStartMs": 13566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "他自己爬下去。"
+    } ]
+  }, {
+    "tStartMs": 15000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "爬上来的时候自己爬。"
+    } ]
+  }, {
+    "tStartMs": 16766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 18399,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "背东西嘛。"
+    } ]
+  }, {
+    "tStartMs": 19199,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我们要背东西。"
+    } ]
+  }, {
+    "tStartMs": 20166,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "一个背孩子。"
+    } ]
+  }, {
+    "tStartMs": 21199,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 21566,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "他只能自己走了。"
+    } ]
+  }, {
+    "tStartMs": 22899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 41600,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "大家好，"
+    } ]
+  }, {
+    "tStartMs": 41966,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "早上好！"
+    } ]
+  }, {
+    "tStartMs": 42933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "欢迎回来。"
+    } ]
+  }, {
+    "tStartMs": 43799,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "今天我们在昭觉，"
+    } ]
+  }, {
+    "tStartMs": 44666,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "在凉山彝族自治州，"
+    } ]
+  }, {
+    "tStartMs": 48000,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "在四川省南部。"
+    } ]
+  }, {
+    "tStartMs": 51333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "呃，昨天我们是坐火车来的。"
+    } ]
+  }, {
+    "tStartMs": 53333,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我们把摩托车留在了昆明，"
+    } ]
+  }, {
+    "tStartMs": 54966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "因为离这里太远了。"
+    } ]
+  }, {
+    "tStartMs": 57266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "今天我们要去"
+    } ]
+  }, {
+    "tStartMs": 58733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "参观悬崖村。"
+    } ]
+  }, {
+    "tStartMs": 60966,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大约十年前，"
+    } ]
+  }, {
+    "tStartMs": 61933,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "中国的一张照片"
+    } ]
+  }, {
+    "tStartMs": 62866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "登上了头条新闻。"
+    } ]
+  }, {
+    "tStartMs": 64599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "嗯，在那张照片里，"
+    } ]
+  }, {
+    "tStartMs": 65799,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "一群小孩子"
+    } ]
+  }, {
+    "tStartMs": 67633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "正在攀爬陡峭的、"
+    } ]
+  }, {
+    "tStartMs": 70466,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "陡峭的悬崖上的藤梯。"
+    } ]
+  }, {
+    "tStartMs": 73733,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "十年后，"
+    } ]
+  }, {
+    "tStartMs": 74966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "梯子还在那里。"
+    } ]
+  }, {
+    "tStartMs": 76733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "所以昨天，"
+    } ]
+  }, {
+    "tStartMs": 77599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "我们问了当地一些人"
+    } ]
+  }, {
+    "tStartMs": 78700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "怎么去那里。"
+    } ]
+  }, {
+    "tStartMs": 79666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "他们告诉我们，应该在大街上找"
+    } ]
+  }, {
+    "tStartMs": 81266,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "一些黄色的巴士，"
+    } ]
+  }, {
+    "tStartMs": 83400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "然后在中途下车。"
+    } ]
+  }, {
+    "tStartMs": 85400,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "所以这就是为什么"
+    } ]
+  }, {
+    "tStartMs": 86099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我们正在找那些巴士。"
+    } ]
+  }, {
+    "tStartMs": 91466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "当我们走在街上的时候，"
+    } ]
+  }, {
+    "tStartMs": 93066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "我们可以看到"
+    } ]
+  }, {
+    "tStartMs": 93666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "有很多这种文字。"
+    } ]
+  }, {
+    "tStartMs": 95366,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那是彝文。"
+    } ]
+  }, {
+    "tStartMs": 97566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "因为我们在彝族自治州，"
+    } ]
+  }, {
+    "tStartMs": 100500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "很多标识也是"
+    } ]
+  }, {
+    "tStartMs": 101700,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "用两种语言写的："
+    } ]
+  }, {
+    "tStartMs": 103466,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "汉语和彝文。"
+    } ]
+  }, {
+    "tStartMs": 110366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "这里的传统是女性"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "把孩子背在背上。"
+    } ]
+  }, {
+    "tStartMs": 115766,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "好可爱。"
+    } ]
+  }, {
+    "tStartMs": 117166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我两年前来过这里，"
+    } ]
+  }, {
+    "tStartMs": 118500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "参加火把节。"
+    } ]
+  }, {
+    "tStartMs": 120133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我得说，"
+    } ]
+  }, {
+    "tStartMs": 121533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "他们绝对是"
+    } ]
+  }, {
+    "tStartMs": 122733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "中国最时尚的人。"
+    } ]
+  }, {
+    "tStartMs": 125500,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "他们很有风格。"
+    } ]
+  }, {
+    "tStartMs": 126733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "在节日那天——"
+    } ]
+  }, {
+    "tStartMs": 128300,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "现在他们穿得"
+    } ]
+  }, {
+    "tStartMs": 129233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "比较随意，"
+    } ]
+  }, {
+    "tStartMs": 130333,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "但在节日期间，"
+    } ]
+  }, {
+    "tStartMs": 131866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "所有人，从年轻女孩到"
+    } ]
+  }, {
+    "tStartMs": 135533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "小男孩，"
+    } ]
+  }, {
+    "tStartMs": 136933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "到五十岁以上的人，"
+    } ]
+  }, {
+    "tStartMs": 139766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "都穿得非常漂亮"
+    } ]
+  }, {
+    "tStartMs": 141566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "走在街上。"
+    } ]
+  }, {
+    "tStartMs": 142766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "那是一种奇观。"
+    } ]
+  }, {
+    "tStartMs": 145333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "这是一家当地的裁缝店。"
+    } ]
+  }, {
+    "tStartMs": 147166,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "你会看到"
+    } ]
+  }, {
+    "tStartMs": 147666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "一些他们的传统服饰。"
+    } ]
+  }, {
+    "tStartMs": 149699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "那是一条围巾。"
+    } ]
+  }, {
+    "tStartMs": 152099,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "老板，可以试一下这个帽子不？"
+    } ]
+  }, {
+    "tStartMs": 155133,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "在里面是吧？"
+    } ]
+  }, {
+    "tStartMs": 156300,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "好的，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 158166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "那是男式的帽子。"
+    } ]
+  }, {
+    "tStartMs": 159566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "那是男式的帽子。"
+    } ]
+  }, {
+    "tStartMs": 160466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "嗯，你怎么……"
+    } ]
+  }, {
+    "tStartMs": 161466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这样戴？"
+    } ]
+  }, {
+    "tStartMs": 162533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我觉得是这样。"
+    } ]
+  }, {
+    "tStartMs": 165199,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "很舒服。"
+    } ]
+  }, {
+    "tStartMs": 166766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "很软。"
+    } ]
+  }, {
+    "tStartMs": 167966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "哈哈哈！"
+    } ]
+  }, {
+    "tStartMs": 175133,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "老板，这个是男的的帽子是吧？"
+    } ]
+  }, {
+    "tStartMs": 177699,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "对，是男的。"
+    } ]
+  }, {
+    "tStartMs": 179800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "有年龄限制吗？"
+    } ]
+  }, {
+    "tStartMs": 181366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "年纪大小都能戴吗？"
+    } ]
+  }, {
+    "tStartMs": 182866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯，能戴。"
+    } ]
+  }, {
+    "tStartMs": 189733,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "那是早市。"
+    } ]
+  }, {
+    "tStartMs": 191166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "鸡在这里一定很值钱。"
+    } ]
+  }, {
+    "tStartMs": 193733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "很多女人在卖鸡。"
+    } ]
+  }, {
+    "tStartMs": 197333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "儿子，哦，好吧。"
+    } ]
+  }, {
+    "tStartMs": 200466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "儿子，背上背着个孩子，"
+    } ]
+  }, {
+    "tStartMs": 202066,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "前面拎着只鸡。"
+    } ]
+  }, {
+    "tStartMs": 211800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "到雷波那边去吧？"
+    } ]
+  }, {
+    "tStartMs": 214366,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "到啥地方呀？"
+    } ]
+  }, {
+    "tStartMs": 217966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我们想到悬崖村。"
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "悬崖村？"
+    } ]
+  }, {
+    "tStartMs": 220666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 221466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "悬崖村。"
+    } ]
+  }, {
+    "tStartMs": 223266,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "几个人？"
+    } ]
+  }, {
+    "tStartMs": 223900,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 225133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "两个人。"
+    } ]
+  }, {
+    "tStartMs": 226199,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "包车去吧？"
+    } ]
+  }, {
+    "tStartMs": 227166,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 227599,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "包车去吧？"
+    } ]
+  }, {
+    "tStartMs": 228900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "昨天我问了，四十一个人。"
+    } ]
+  }, {
+    "tStartMs": 231266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拼不拼车？"
+    } ]
+  }, {
+    "tStartMs": 232066,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "对对，拼车。"
+    } ]
+  }, {
+    "tStartMs": 233366,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "拼车的。"
+    } ]
+  }, {
+    "tStartMs": 233966,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 234300,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "四十一个人。"
+    } ]
+  }, {
+    "tStartMs": 234966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "要拼车。"
+    } ]
+  }, {
+    "tStartMs": 238333,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "从这边上。"
+    } ]
+  }, {
+    "tStartMs": 245266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "是那个打电话的对吧？"
+    } ]
+  }, {
+    "tStartMs": 246866,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "嗯，对对对。"
+    } ]
+  }, {
+    "tStartMs": 247566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "好，走呀。"
+    } ]
+  }, {
+    "tStartMs": 256500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "师傅，我们回来的时候"
+    } ]
+  }, {
+    "tStartMs": 258899,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "在路边能打到车不？"
+    } ]
+  }, {
+    "tStartMs": 260533,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "不好打吧？"
+    } ]
+  }, {
+    "tStartMs": 261300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不好打。"
+    } ]
+  }, {
+    "tStartMs": 264699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "那如果说给你留个电话，"
+    } ]
+  }, {
+    "tStartMs": 266600,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "去接一下我们？"
+    } ]
+  }, {
+    "tStartMs": 267899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "多少钱呀？"
+    } ]
+  }, {
+    "tStartMs": 269666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "你们两个要回来吗？"
+    } ]
+  }, {
+    "tStartMs": 271300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "对，我们在那边，"
+    } ]
+  }, {
+    "tStartMs": 272366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "过一会儿要回来呢。"
+    } ]
+  }, {
+    "tStartMs": 274166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "从那边就不好打车。"
+    } ]
+  }, {
+    "tStartMs": 278266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "路边有没有可能等到呢？"
+    } ]
+  }, {
+    "tStartMs": 280399,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "等不到。"
+    } ]
+  }, {
+    "tStartMs": 281166,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "等不到。"
+    } ]
+  }, {
+    "tStartMs": 281899,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "嗯，不好打车。"
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "因为去的人很少嘛。"
+    } ]
+  }, {
+    "tStartMs": 287133,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "只能包车。"
+    } ]
+  }, {
+    "tStartMs": 288366,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "我们一般都包车这样的。"
+    } ]
+  }, {
+    "tStartMs": 290733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 291600,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "来回包车。"
+    } ]
+  }, {
+    "tStartMs": 295866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "凉山地区曾经是"
+    } ]
+  }, {
+    "tStartMs": 298266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "中国最贫困的地区之一。"
+    } ]
+  }, {
+    "tStartMs": 300433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "即使到今天，"
+    } ]
+  }, {
+    "tStartMs": 303433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "情况已经改善了，"
+    } ]
+  }, {
+    "tStartMs": 305033,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "但你能感觉到这里"
+    } ]
+  }, {
+    "tStartMs": 306899,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "仍然是一个相对不发达的地方。"
+    } ]
+  }, {
+    "tStartMs": 319733,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "听了这些之后，"
+    } ]
+  }, {
+    "tStartMs": 320600,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我们不想包整辆车。"
+    } ]
+  }, {
+    "tStartMs": 322333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我们的司机另有打算。"
+    } ]
+  }, {
+    "tStartMs": 324233,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "他开了一会儿，"
+    } ]
+  }, {
+    "tStartMs": 325466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "然后在一个小镇停下，"
+    } ]
+  }, {
+    "tStartMs": 326933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "告诉我们他需要休息一下。"
+    } ]
+  }, {
+    "tStartMs": 333233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "不知怎么的，在休息的时候，"
+    } ]
+  }, {
+    "tStartMs": 335333,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "他把我们转手"
+    } ]
+  }, {
+    "tStartMs": 336699,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "卖给了另一个司机。"
+    } ]
+  }, {
+    "tStartMs": 338100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "还多收了我们二十块钱。"
+    } ]
+  }, {
+    "tStartMs": 340699,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "好吧，算了。"
+    } ]
+  }, {
+    "tStartMs": 342133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "只要能到就行。"
+    } ]
+  }, {
+    "tStartMs": 350399,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "路"
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "相当崎岖和不熟悉。"
+    } ]
+  }, {
+    "tStartMs": 353166,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "又开了两个小时之后，"
+    } ]
+  }, {
+    "tStartMs": 355399,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我们终于到了"
+    } ]
+  }, {
+    "tStartMs": 356466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "山脚下，"
+    } ]
+  }, {
+    "tStartMs": 358466,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "悬崖村的下方，"
+    } ]
+  }, {
+    "tStartMs": 360199,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "然后开始攀爬。"
+    } ]
+  }, {
+    "tStartMs": 363600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "在入口处，"
+    } ]
+  }, {
+    "tStartMs": 364500,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "他们给了我们安全绳，这样"
+    } ]
+  }, {
+    "tStartMs": 366633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我们就可以爬上去了。"
+    } ]
+  }, {
+    "tStartMs": 368500,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "台阶总共有——"
+    } ]
+  }, {
+    "tStartMs": 371866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "呃，两千五百——"
+    } ]
+  }, {
+    "tStartMs": 373833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "超过两千五百级台阶。"
+    } ]
+  }, {
+    "tStartMs": 376033,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "以前是用木头和藤条做的，"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "但这些年，"
+    } ]
+  }, {
+    "tStartMs": 381666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "已经被金属取代了，"
+    } ]
+  }, {
+    "tStartMs": 385266,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "被钢梯取代了。"
+    } ]
+  }, {
+    "tStartMs": 387266,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "自从那张照片发表以来。"
+    } ]
+  }, {
+    "tStartMs": 394833,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "我不知道"
+    } ]
+  }, {
+    "tStartMs": 395399,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "上面还有没有人住。"
+    } ]
+  }, {
+    "tStartMs": 398933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "也许我们会遇到一些当地人。"
+    } ]
+  }, {
+    "tStartMs": 405933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这真的很累人。"
+    } ]
+  }, {
+    "tStartMs": 408966,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我就在想，那得有多艰难"
+    } ]
+  }, {
+    "tStartMs": 412166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "以前一定"
+    } ]
+  }, {
+    "tStartMs": 414233,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "在没有建好这样的梯子的时候。"
+    } ]
+  }, {
+    "tStartMs": 421100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "而且现在都还是很累。"
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "宝宝加油！"
+    } ]
+  }, {
+    "tStartMs": 441666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这一段路"
+    } ]
+  }, {
+    "tStartMs": 445166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "有百分之五十的时间"
+    } ]
+  }, {
+    "tStartMs": 448500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "你都得手脚并用。"
+    } ]
+  }, {
+    "tStartMs": 452033,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "但十年前，"
+    } ]
+  }, {
+    "tStartMs": 453500,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "这是孩子们每天上学的路。"
+    } ]
+  }, {
+    "tStartMs": 463566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "太难了。"
+    } ]
+  }, {
+    "tStartMs": 466866,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我流了好多汗。"
+    } ]
+  }, {
+    "tStartMs": 467899,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "希望我们带够了水，"
+    } ]
+  }, {
+    "tStartMs": 469166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "能撑到山顶。"
+    } ]
+  }, {
+    "tStartMs": 471233,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我记得我上小学"
+    } ]
+  }, {
+    "tStartMs": 474833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "和中学的时候，"
+    } ]
+  }, {
+    "tStartMs": 476933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我的一些同学"
+    } ]
+  }, {
+    "tStartMs": 478266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "早上要爬山，"
+    } ]
+  }, {
+    "tStartMs": 480733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "走两个小时去上学。"
+    } ]
+  }, {
+    "tStartMs": 483833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但真的没有这么难。"
+    } ]
+  }, {
+    "tStartMs": 492666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我以为我们走了很远，"
+    } ]
+  }, {
+    "tStartMs": 495933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "但连一半都还没到。"
+    } ]
+  }, {
+    "tStartMs": 511433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我们最近发布了中国旅游团，"
+    } ]
+  }, {
+    "tStartMs": 514433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我们从"
+    } ]
+  }, {
+    "tStartMs": 516166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "中国最适合旅游的省份开始——"
+    } ]
+  }, {
+    "tStartMs": 518600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "那就是云南省。"
+    } ]
+  }, {
+    "tStartMs": 519933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "在我们的旅游团里，"
+    } ]
+  }, {
+    "tStartMs": 521033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我们会带你去"
+    } ]
+  }, {
+    "tStartMs": 522366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "见当地人，"
+    } ]
+  }, {
+    "tStartMs": 523433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "尝最正宗的食物，"
+    } ]
+  }, {
+    "tStartMs": 525833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "看最美的风景。"
+    } ]
+  }, {
+    "tStartMs": 529733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "如果你感兴趣的话，"
+    } ]
+  }, {
+    "tStartMs": 531966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "可以访问我们的网站"
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "littlechineseeverywhere"
+    } ]
+  }, {
+    "tStartMs": 534399,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": ".com了解更多信息。"
+    } ]
+  }, {
+    "tStartMs": 538666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "从这里你可以看到"
+    } ]
+  }, {
+    "tStartMs": 543133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "有些路段比较容易，"
+    } ]
+  }, {
+    "tStartMs": 544700,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "因为两根金属栏杆之间"
+    } ]
+  }, {
+    "tStartMs": 546299,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "还有金属杆，"
+    } ]
+  }, {
+    "tStartMs": 548933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "但大多数情况下只有两根金属杆，"
+    } ]
+  }, {
+    "tStartMs": 552166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "你得小心"
+    } ]
+  }, {
+    "tStartMs": 554500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "不要踩空了。"
+    } ]
+  }, {
+    "tStartMs": 569433,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "那几乎是垂直的攀爬。"
+    } ]
+  }, {
+    "tStartMs": 572399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "太疯狂了。"
+    } ]
+  }, {
+    "tStartMs": 573899,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我觉得至少有百分之七八十的坡度。"
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "宝宝小心！"
+    } ]
+  }, {
+    "tStartMs": 587933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "太疯狂了，我们"
+    } ]
+  }, {
+    "tStartMs": 589033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "从那里一路爬下来。"
+    } ]
+  }, {
+    "tStartMs": 591500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "那基本上就是"
+    } ]
+  }, {
+    "tStartMs": 593966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "徒步起点的那个小桥。"
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "现在看看这个山谷。"
+    } ]
+  }, {
+    "tStartMs": 597933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "太美了。"
+    } ]
+  }, {
+    "tStartMs": 600533,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "而且另一边还有"
+    } ]
+  }, {
+    "tStartMs": 602200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "建在山上的村庄。"
+    } ]
+  }, {
+    "tStartMs": 607533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我很好奇为什么人们要把村庄"
+    } ]
+  }, {
+    "tStartMs": 610233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "建得这么高，"
+    } ]
+  }, {
+    "tStartMs": 611133,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "建在这么不友好的地形上。"
+    } ]
+  }, {
+    "tStartMs": 614166,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "可以说。"
+    } ]
+  }, {
+    "tStartMs": 615933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "也许你们知道——"
+    } ]
+  }, {
+    "tStartMs": 617200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "在评论区告诉我吧。"
+    } ]
+  }, {
+    "tStartMs": 620133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "那里有一条小路，"
+    } ]
+  }, {
+    "tStartMs": 622566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "至少是一条碎石路。"
+    } ]
+  }, {
+    "tStartMs": 629533,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我需要休息一下。"
+    } ]
+  }, {
+    "tStartMs": 788100,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "下面这位大叔"
+    } ]
+  }, {
+    "tStartMs": 789766,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "说从这里还要一个小时。"
+    } ]
+  }, {
+    "tStartMs": 791966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "也就是说我们现在"
+    } ]
+  }, {
+    "tStartMs": 794700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "刚过了一半多一点。"
+    } ]
+  }, {
+    "tStartMs": 797399,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "真的太累了。"
+    } ]
+  }, {
+    "tStartMs": 798799,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我浑身是汗，"
+    } ]
+  }, {
+    "tStartMs": 799766,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "T恤全都湿透了。"
+    } ]
+  }, {
+    "tStartMs": 806966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我几乎说不出话了。"
+    } ]
+  }, {
+    "tStartMs": 809299,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "宝宝辛苦了！"
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "好累啊。"
+    } ]
+  }, {
+    "tStartMs": 820133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 840600,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我没开玩笑。"
+    } ]
+  }, {
+    "tStartMs": 842433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这几乎是垂直的。"
+    } ]
+  }, {
+    "tStartMs": 845000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "至少有八十度。"
+    } ]
+  }, {
+    "tStartMs": 848000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "想象一下，"
+    } ]
+  }, {
+    "tStartMs": 849566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "那些每天都要爬这个上学的孩子们。"
+    } ]
+  }, {
+    "tStartMs": 859833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "但我觉得下去"
+    } ]
+  }, {
+    "tStartMs": 860966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "更吓人。"
+    } ]
+  }, {
+    "tStartMs": 883833,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我觉得走完这些台阶后，"
+    } ]
+  }, {
+    "tStartMs": 889933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这里你可以看到"
+    } ]
+  }, {
+    "tStartMs": 891500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "一些旧的梯子，"
+    } ]
+  }, {
+    "tStartMs": 894166,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "那些孩子们爬过的"
+    } ]
+  }, {
+    "tStartMs": 897299,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "很多年前。"
+    } ]
+  }, {
+    "tStartMs": 902700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "那是剩下的"
+    } ]
+  }, {
+    "tStartMs": 905533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "木头藤梯。"
+    } ]
+  }, {
+    "tStartMs": 908333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "太疯狂了，因为即使在今天，"
+    } ]
+  }, {
+    "tStartMs": 911200,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "有了金属栏杆，"
+    } ]
+  }, {
+    "tStartMs": 914100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这梯子还是很吓人。"
+    } ]
+  }, {
+    "tStartMs": 916833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "但十年前，"
+    } ]
+  }, {
+    "tStartMs": 919033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "人们就这样爬上去，"
+    } ]
+  }, {
+    "tStartMs": 920233,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "没有任何保护。"
+    } ]
+  }, {
+    "tStartMs": 926166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "那是旧的藤条，"
+    } ]
+  }, {
+    "tStartMs": 928266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "那些孩子爬过的"
+    } ]
+  }, {
+    "tStartMs": 931033,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "十年前。"
+    } ]
+  }, {
+    "tStartMs": 932633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "现在已经完全腐烂了。"
+    } ]
+  }, {
+    "tStartMs": 959733,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "哇，终于到了！"
+    } ]
+  }, {
+    "tStartMs": 968433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "你好，这边有小卖部吗？"
+    } ]
+  }, {
+    "tStartMs": 973366,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这是吧？"
+    } ]
+  }, {
+    "tStartMs": 974399,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "好，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 976200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 979733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "这边是下雨了吗？"
+    } ]
+  }, {
+    "tStartMs": 981133,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "没有。"
+    } ]
+  }, {
+    "tStartMs": 981799,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 982566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "洗一下。"
+    } ]
+  }, {
+    "tStartMs": 987133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "因为有孩子在那个地板上玩嘛。"
+    } ]
+  }, {
+    "tStartMs": 989533,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "啊，好。"
+    } ]
+  }, {
+    "tStartMs": 990233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "别让他玩这个。"
+    } ]
+  }, {
+    "tStartMs": 991566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 993333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我叫个人来。"
+    } ]
+  }, {
+    "tStartMs": 995966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "现在我就要——我要这个，好的。"
+    } ]
+  }, {
+    "tStartMs": 1005366,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "你们一般是住下边吗？"
+    } ]
+  }, {
+    "tStartMs": 1007533,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "没有，我们都住在这里。"
+    } ]
+  }, {
+    "tStartMs": 1009433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "都住这？"
+    } ]
+  }, {
+    "tStartMs": 1010233,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1010533,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这边现在不是说已经搬下去了吗？"
+    } ]
+  }, {
+    "tStartMs": 1013133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我们在搞养殖嘛。"
+    } ]
+  }, {
+    "tStartMs": 1014633,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1015200,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "养牛养羊嘛。"
+    } ]
+  }, {
+    "tStartMs": 1016533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1017333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "对，就在这上面。"
+    } ]
+  }, {
+    "tStartMs": 1019866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这里剩的那些没有拆的房子嘛，"
+    } ]
+  }, {
+    "tStartMs": 1022233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "就是养牛养羊的。"
+    } ]
+  }, {
+    "tStartMs": 1028799,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "还有一些人住在这里。"
+    } ]
+  }, {
+    "tStartMs": 1030633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "大多数是在放牛。"
+    } ]
+  }, {
+    "tStartMs": 1036833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这边有小学吗？"
+    } ]
+  }, {
+    "tStartMs": 1038466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "下雪吗？"
+    } ]
+  }, {
+    "tStartMs": 1039766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "小学？"
+    } ]
+  }, {
+    "tStartMs": 1041733,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "小学？"
+    } ]
+  }, {
+    "tStartMs": 1042333,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "小学？"
+    } ]
+  }, {
+    "tStartMs": 1042799,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1043166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "你们上来的那个酒店，"
+    } ]
+  }, {
+    "tStartMs": 1044633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "原来是小学。"
+    } ]
+  }, {
+    "tStartMs": 1045933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1047000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "改改成酒店了嘛。"
+    } ]
+  }, {
+    "tStartMs": 1048433,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1049000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "原来那里有一栋楼是小学。"
+    } ]
+  }, {
+    "tStartMs": 1051200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "就是说小学在下面，以前？"
+    } ]
+  }, {
+    "tStartMs": 1053833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "以前的嘛。"
+    } ]
+  }, {
+    "tStartMs": 1054733,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "上小学就是在下面上。"
+    } ]
+  }, {
+    "tStartMs": 1056466,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1057000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "哇哦。"
+    } ]
+  }, {
+    "tStartMs": 1057666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "幼儿园的话是在村子里面。"
+    } ]
+  }, {
+    "tStartMs": 1060766,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "现在就废弃了嘛，"
+    } ]
+  }, {
+    "tStartMs": 1062333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "就在隔壁。"
+    } ]
+  }, {
+    "tStartMs": 1064233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "以前这还有个幼儿园啊？"
+    } ]
+  }, {
+    "tStartMs": 1065966,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "对，村里面的小孩嘛。"
+    } ]
+  }, {
+    "tStartMs": 1067633,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1068000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "上幼儿园就在这里。"
+    } ]
+  }, {
+    "tStartMs": 1070233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "那你是在这边长大的吗？"
+    } ]
+  }, {
+    "tStartMs": 1072066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "没有，我嫁到这边的。"
+    } ]
+  }, {
+    "tStartMs": 1073633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1081433,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "那这个村子里面有多少人？"
+    } ]
+  }, {
+    "tStartMs": 1085133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "七十多户。"
+    } ]
+  }, {
+    "tStartMs": 1086266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "七十多？"
+    } ]
+  }, {
+    "tStartMs": 1086966,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1087333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "现在还有七十多户？"
+    } ]
+  }, {
+    "tStartMs": 1088666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "没有，以前。"
+    } ]
+  }, {
+    "tStartMs": 1090233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "现在大家——"
+    } ]
+  }, {
+    "tStartMs": 1091266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "现在目前的话，"
+    } ]
+  }, {
+    "tStartMs": 1092266,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "只有三四户在这一组了。"
+    } ]
+  }, {
+    "tStartMs": 1094233,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1094666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "后面还有组吧？"
+    } ]
+  }, {
+    "tStartMs": 1096033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "后面也有几户在后面。"
+    } ]
+  }, {
+    "tStartMs": 1098666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我们这里一个村是四个组。"
+    } ]
+  }, {
+    "tStartMs": 1101433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "一组、二组、三组、四组嘛。"
+    } ]
+  }, {
+    "tStartMs": 1103933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "然后我们这里属于一组嘛。"
+    } ]
+  }, {
+    "tStartMs": 1106200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "一组这里的话只有三四户嘛。"
+    } ]
+  }, {
+    "tStartMs": 1108766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "二组在后面嘛。"
+    } ]
+  }, {
+    "tStartMs": 1110266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "就是这个坡坡上面。"
+    } ]
+  }, {
+    "tStartMs": 1112133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "没有，还要远。"
+    } ]
+  }, {
+    "tStartMs": 1113266,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "还要往里面走啊？"
+    } ]
+  }, {
+    "tStartMs": 1114366,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "走的话大概"
+    } ]
+  }, {
+    "tStartMs": 1115133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "三四十分钟才到。"
+    } ]
+  }, {
+    "tStartMs": 1117633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "嗯，像这边车子可以上来不？"
+    } ]
+  }, {
+    "tStartMs": 1120466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "车子上是能上，"
+    } ]
+  }, {
+    "tStartMs": 1121766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "但是那条路是"
+    } ]
+  }, {
+    "tStartMs": 1123433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "个人修的。"
+    } ]
+  }, {
+    "tStartMs": 1124966,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "他那种一半是下面修的，"
+    } ]
+  }, {
+    "tStartMs": 1128266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "一半是上面这里"
+    } ]
+  }, {
+    "tStartMs": 1130200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "种那个橄榄树嘛，"
+    } ]
+  }, {
+    "tStartMs": 1131566,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "嗯，"
+    } ]
+  }, {
+    "tStartMs": 1132000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "然后修的，挖那个路很小。"
+    } ]
+  }, {
+    "tStartMs": 1134266,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1134633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "然后很难开过。"
+    } ]
+  }, {
+    "tStartMs": 1136733,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "就看技术吧。"
+    } ]
+  }, {
+    "tStartMs": 1138066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "一般人不敢开。"
+    } ]
+  }, {
+    "tStartMs": 1139599,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "摩托车能上来不？"
+    } ]
+  }, {
+    "tStartMs": 1141433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "摩托车能是能，"
+    } ]
+  }, {
+    "tStartMs": 1142566,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "也是要看技术。"
+    } ]
+  }, {
+    "tStartMs": 1144033,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "哈哈哈！"
+    } ]
+  }, {
+    "tStartMs": 1144933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "因为后山它有一条水嘛，"
+    } ]
+  }, {
+    "tStartMs": 1146866,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "嗯，"
+    } ]
+  }, {
+    "tStartMs": 1147400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "长期流到公路下面嘛。"
+    } ]
+  }, {
+    "tStartMs": 1150166,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1150533,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "然后打滑呀。"
+    } ]
+  }, {
+    "tStartMs": 1151733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "然后还有后山有落石啊，"
+    } ]
+  }, {
+    "tStartMs": 1154933,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "还有那些树会掉下来嘛。"
+    } ]
+  }, {
+    "tStartMs": 1158033,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "那他那个现在大家都搬到啥地方去了呀？"
+    } ]
+  }, {
+    "tStartMs": 1161133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "嗯，昭觉县城。"
+    } ]
+  }, {
+    "tStartMs": 1162599,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1163266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "昭觉县城安置点嘛，"
+    } ]
+  }, {
+    "tStartMs": 1165466,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "四个点。"
+    } ]
+  }, {
+    "tStartMs": 1166233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "四个点。"
+    } ]
+  }, {
+    "tStartMs": 1168000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "那等于说现在大家基本上也"
+    } ]
+  }, {
+    "tStartMs": 1169799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "都在昭觉县城里面工作了？"
+    } ]
+  }, {
+    "tStartMs": 1172233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "嗯，工作的话基本去外地。"
+    } ]
+  }, {
+    "tStartMs": 1174966,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "因为昭觉县城的"
+    } ]
+  }, {
+    "tStartMs": 1176799,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "就业比较少。"
+    } ]
+  }, {
+    "tStartMs": 1178666,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1179000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "没什么招工的。"
+    } ]
+  }, {
+    "tStartMs": 1180233,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1180433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "然后再加上没有工厂嘛。"
+    } ]
+  }, {
+    "tStartMs": 1183000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "都是去外地。"
+    } ]
+  }, {
+    "tStartMs": 1186066,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "安置点的话，"
+    } ]
+  }, {
+    "tStartMs": 1187066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "大多数是留守老人吧。"
+    } ]
+  }, {
+    "tStartMs": 1189533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "老人跟孩子在家嘛。"
+    } ]
+  }, {
+    "tStartMs": 1191433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "年轻一点的，"
+    } ]
+  }, {
+    "tStartMs": 1192633,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "出去打工的也挺多的。"
+    } ]
+  }, {
+    "tStartMs": 1194933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1195733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "然后要不就"
+    } ]
+  }, {
+    "tStartMs": 1196566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "家里面没老人的话，"
+    } ]
+  }, {
+    "tStartMs": 1198166,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯，"
+    } ]
+  }, {
+    "tStartMs": 1198533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "就也有年轻人"
+    } ]
+  }, {
+    "tStartMs": 1199933,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "在家带孩子。"
+    } ]
+  }, {
+    "tStartMs": 1202566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就我们三个在山上，"
+    } ]
+  }, {
+    "tStartMs": 1204599,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "没有人帮背东西嘛。"
+    } ]
+  }, {
+    "tStartMs": 1206799,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1207266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "劳动力没有的话，"
+    } ]
+  }, {
+    "tStartMs": 1208766,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "没办法呀。"
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我们要看孩子。"
+    } ]
+  }, {
+    "tStartMs": 1211733,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1212033,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "看孩子。"
+    } ]
+  }, {
+    "tStartMs": 1212433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "一个看孩子。"
+    } ]
+  }, {
+    "tStartMs": 1214166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "他的话平时下去背东西。"
+    } ]
+  }, {
+    "tStartMs": 1217066,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "家里面要是"
+    } ]
+  }, {
+    "tStartMs": 1218433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "要背什么都是男的去嘛。"
+    } ]
+  }, {
+    "tStartMs": 1220533,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "生活物资是男的下去背。"
+    } ]
+  }, {
+    "tStartMs": 1222766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "那他怎么上来呢？"
+    } ]
+  }, {
+    "tStartMs": 1224233,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "也是从那里——"
+    } ]
+  }, {
+    "tStartMs": 1225733,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "就从那个楼梯上来吗？"
+    } ]
+  }, {
+    "tStartMs": 1227799,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "对，那里会比较近。"
+    } ]
+  }, {
+    "tStartMs": 1230866,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "后山有条公路，"
+    } ]
+  }, {
+    "tStartMs": 1232133,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "但是很容易"
+    } ]
+  }, {
+    "tStartMs": 1233133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "有落石嘛。"
+    } ]
+  }, {
+    "tStartMs": 1236333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1238066,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "那他每天上下去、下上去？"
+    } ]
+  }, {
+    "tStartMs": 1241433,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "有事就下嘛。"
+    } ]
+  }, {
+    "tStartMs": 1243133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "没事的话去看看羊、看看牛。"
+    } ]
+  }, {
+    "tStartMs": 1247166,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我们小的就背着下嘛。"
+    } ]
+  }, {
+    "tStartMs": 1249833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就背着两个小朋友下下山。"
+    } ]
+  }, {
+    "tStartMs": 1252466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "我自己下的。"
+    } ]
+  }, {
+    "tStartMs": 1254799,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "你自己下的？"
+    } ]
+  }, {
+    "tStartMs": 1256200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "这个的话拉着下。"
+    } ]
+  }, {
+    "tStartMs": 1259833,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后自己走上来。"
+    } ]
+  }, {
+    "tStartMs": 1261400,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "他自己走上来？"
+    } ]
+  }, {
+    "tStartMs": 1262433,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1262799,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "我的天！"
+    } ]
+  }, {
+    "tStartMs": 1263533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "因为我们要背东西嘛。"
+    } ]
+  }, {
+    "tStartMs": 1266233,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "他爸爸背东西，"
+    } ]
+  }, {
+    "tStartMs": 1267333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我背小的，"
+    } ]
+  }, {
+    "tStartMs": 1268166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "然后他自己走的。"
+    } ]
+  }, {
+    "tStartMs": 1269566,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "天呐！"
+    } ]
+  }, {
+    "tStartMs": 1270000,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "厉害！"
+    } ]
+  }, {
+    "tStartMs": 1270666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "厉害！"
+    } ]
+  }, {
+    "tStartMs": 1271599,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "握个手好不好？握个手。"
+    } ]
+  }, {
+    "tStartMs": 1274633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "四岁。"
+    } ]
+  }, {
+    "tStartMs": 1275799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "四岁？"
+    } ]
+  }, {
+    "tStartMs": 1276666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "嗯，三岁了。"
+    } ]
+  }, {
+    "tStartMs": 1278733,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "然后你自己"
+    } ]
+  }, {
+    "tStartMs": 1279633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "也能下这个楼梯吗？"
+    } ]
+  }, {
+    "tStartMs": 1282233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拉着下。"
+    } ]
+  }, {
+    "tStartMs": 1283066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "拉着下。"
+    } ]
+  }, {
+    "tStartMs": 1283666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "我自己爬下。"
+    } ]
+  }, {
+    "tStartMs": 1285466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "爬上来的时候自己爬。"
+    } ]
+  }, {
+    "tStartMs": 1287266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 1288866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "背东西嘛。"
+    } ]
+  }, {
+    "tStartMs": 1289666,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "我们要背东西。"
+    } ]
+  }, {
+    "tStartMs": 1290599,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "一个背孩子。"
+    } ]
+  }, {
+    "tStartMs": 1291666,
+    "dDurationMs": 367,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1292033,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "他只能自己走了。"
+    } ]
+  }, {
+    "tStartMs": 1293400,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 1294133,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "他爸爸背东西，"
+    } ]
+  }, {
+    "tStartMs": 1295400,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "他自己走。"
+    } ]
+  }, {
+    "tStartMs": 1297966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "他全程自己走的。"
+    } ]
+  }, {
+    "tStartMs": 1299666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "哇塞，厉害！"
+    } ]
+  }, {
+    "tStartMs": 1301533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "小朋友都很厉害！"
+    } ]
+  }, {
+    "tStartMs": 1303599,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "没人背他呀。"
+    } ]
+  }, {
+    "tStartMs": 1306766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "去山上不害怕？"
+    } ]
+  }, {
+    "tStartMs": 1308766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "那你经常走了。"
+    } ]
+  }, {
+    "tStartMs": 1310166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1311933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "因为起码一个月"
+    } ]
+  }, {
+    "tStartMs": 1313533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "去个两三次吧。"
+    } ]
+  }, {
+    "tStartMs": 1315166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "要买点生活物资哈。"
+    } ]
+  }, {
+    "tStartMs": 1316833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "打疫苗去一次了嘛。"
+    } ]
+  }, {
+    "tStartMs": 1319266,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "然后呢有时候有事都要下嘛。"
+    } ]
+  }, {
+    "tStartMs": 1323266,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "是，大人要背东西哈。"
+    } ]
+  }, {
+    "tStartMs": 1325066,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "对啊。"
+    } ]
+  }, {
+    "tStartMs": 1325366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我们回来的话不能空着回来。"
+    } ]
+  }, {
+    "tStartMs": 1328433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "有时候我们自己用的生活用品"
+    } ]
+  }, {
+    "tStartMs": 1331466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你要背。"
+    } ]
+  }, {
+    "tStartMs": 1332599,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "美女，"
+    } ]
+  }, {
+    "tStartMs": 1333200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "那你的老公在哪呢？"
+    } ]
+  }, {
+    "tStartMs": 1334666,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "在下面弄蜂箱子。"
+    } ]
+  }, {
+    "tStartMs": 1336166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "你们养了有蜜蜂？"
+    } ]
+  }, {
+    "tStartMs": 1338366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我们这里做那个空箱子嘛，"
+    } ]
+  }, {
+    "tStartMs": 1340733,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "放到后山，"
+    } ]
+  }, {
+    "tStartMs": 1341700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "让那个野蜂飞进去嘛。"
+    } ]
+  }, {
+    "tStartMs": 1344166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "弄点那个农——"
+    } ]
+  }, {
+    "tStartMs": 1345766,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "农产品，嗯。"
+    } ]
+  }, {
+    "tStartMs": 1347533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "行，好的。"
+    } ]
+  }, {
+    "tStartMs": 1348266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "谢谢你啊。"
+    } ]
+  }, {
+    "tStartMs": 1349066,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "那我们走了。"
+    } ]
+  }, {
+    "tStartMs": 1349900,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "嗯，拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1350566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "拜拜拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1351933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1353266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1356966,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1357299,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1357766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1359500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1360466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1361500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  }, {
+    "tStartMs": 1363366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我甚至还有洗衣机，嗯。"
+    } ]
+  }, {
+    "tStartMs": 1367266,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这才是最疯狂的地方。"
+    } ]
+  }, {
+    "tStartMs": 1368299,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "即使在最贫困的地区，"
+    } ]
+  }, {
+    "tStartMs": 1371766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "至少他们还有电和水。"
+    } ]
+  }, {
+    "tStartMs": 1373900,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "嗯，确实。"
+    } ]
+  }, {
+    "tStartMs": 1376099,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "所以还有一些人住在这里。"
+    } ]
+  }, {
+    "tStartMs": 1378466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "正如她告诉我们的，"
+    } ]
+  }, {
+    "tStartMs": 1379766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "大多数人都被重新安置"
+    } ]
+  }, {
+    "tStartMs": 1381500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "到了昭觉县城。"
+    } ]
+  }, {
+    "tStartMs": 1383533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "嗯，留下来的人"
+    } ]
+  }, {
+    "tStartMs": 1385066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "都在放牧。"
+    } ]
+  }, {
+    "tStartMs": 1387566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我有点高兴"
+    } ]
+  }, {
+    "tStartMs": 1389566,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "这样的村庄正在消失，"
+    } ]
+  }, {
+    "tStartMs": 1392200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "因为你能感受到——"
+    } ]
+  }, {
+    "tStartMs": 1394866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "贫困是真实的。"
+    } ]
+  }, {
+    "tStartMs": 1398299,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "生活绝对不容易。"
+    } ]
+  }, {
+    "tStartMs": 1401533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "即使是那个孩子——"
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "他只有三岁。"
+    } ]
+  }, {
+    "tStartMs": 1404799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "他得爬上去，你知道，"
+    } ]
+  }, {
+    "tStartMs": 1407200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "同样的楼梯，"
+    } ]
+  }, {
+    "tStartMs": 1408799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "一个月两次。"
+    } ]
+  }, {
+    "tStartMs": 1411466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "妈妈得背着"
+    } ]
+  }, {
+    "tStartMs": 1412966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "小宝宝在背上。"
+    } ]
+  }, {
+    "tStartMs": 1415900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "爸爸得背日常用品。"
+    } ]
+  }, {
+    "tStartMs": 1420099,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "她告诉我，等孩子大一点，"
+    } ]
+  }, {
+    "tStartMs": 1423933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "他们就得在学校附近"
+    } ]
+  }, {
+    "tStartMs": 1425400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "租个房子，"
+    } ]
+  }, {
+    "tStartMs": 1427500,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "因为他们还没有自己的房子。"
+    } ]
+  }, {
+    "tStartMs": 1429466,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "所以现在他们很努力地工作，呃，所以"
+    } ]
+  }, {
+    "tStartMs": 1432200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "将来"
+    } ]
+  }, {
+    "tStartMs": 1433066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "他们可以买房子。"
+    } ]
+  }, {
+    "tStartMs": 1437599,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "因为这里的人"
+    } ]
+  }, {
+    "tStartMs": 1439333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "通常都有很大的家庭。"
+    } ]
+  }, {
+    "tStartMs": 1441766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "所以当你知道，"
+    } ]
+  }, {
+    "tStartMs": 1442599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "当孩子们长大了，"
+    } ]
+  }, {
+    "tStartMs": 1444400,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "他们就会分家。"
+    } ]
+  }, {
+    "tStartMs": 1445166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "分家。"
+    } ]
+  }, {
+    "tStartMs": 1447133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "她告诉我，"
+    } ]
+  }, {
+    "tStartMs": 1447933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "按照他们的传统，"
+    } ]
+  }, {
+    "tStartMs": 1449799,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "通常是最小的孩子——"
+    } ]
+  }, {
+    "tStartMs": 1452099,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "最小的孩子，呃，"
+    } ]
+  }, {
+    "tStartMs": 1453700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "会继承房子。"
+    } ]
+  }, {
+    "tStartMs": 1456666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "所以所有哥哥姐姐"
+    } ]
+  }, {
+    "tStartMs": 1459433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "都得独立，"
+    } ]
+  }, {
+    "tStartMs": 1461966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "找工作、赚钱，"
+    } ]
+  }, {
+    "tStartMs": 1465166,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "然后自己买房子。"
+    } ]
+  }, {
+    "tStartMs": 1474299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "现在这里甚至"
+    } ]
+  }, {
+    "tStartMs": 1475299,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "还有一个小旅馆，"
+    } ]
+  }, {
+    "tStartMs": 1477099,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "一个非常简单的旅馆，"
+    } ]
+  }, {
+    "tStartMs": 1478866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "有一些双层床，"
+    } ]
+  }, {
+    "tStartMs": 1480900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "给徒步的人住的。"
+    } ]
+  }, {
+    "tStartMs": 1483533,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "好，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 1487666,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "莫瑟杨黄。"
+    } ]
+  }, {
+    "tStartMs": 1489366,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "莫瑟杨黄。"
+    } ]
+  }, {
+    "tStartMs": 1490533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "彝族的名字。"
+    } ]
+  }, {
+    "tStartMs": 1491900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "哈哈哈！今年几岁了？"
+    } ]
+  }, {
+    "tStartMs": 1495133,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "十一岁了。"
+    } ]
+  }, {
+    "tStartMs": 1495966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "十一岁了。"
+    } ]
+  }, {
+    "tStartMs": 1497700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 1498733,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "那你是小学生吗？"
+    } ]
+  }, {
+    "tStartMs": 1503900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "上学就是在下面上了对吧？"
+    } ]
+  }, {
+    "tStartMs": 1506266,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "对，下面上。"
+    } ]
+  }, {
+    "tStartMs": 1507266,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "在——"
+    } ]
+  }, {
+    "tStartMs": 1507566,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "上面有学校？"
+    } ]
+  }, {
+    "tStartMs": 1508799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "镇子里面。"
+    } ]
+  }, {
+    "tStartMs": 1509799,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "嗯，县城里面。"
+    } ]
+  }, {
+    "tStartMs": 1511066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "昭觉。"
+    } ]
+  }, {
+    "tStartMs": 1511966,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "昭觉。"
+    } ]
+  }, {
+    "tStartMs": 1512466,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "哦，那还远得很。"
+    } ]
+  }, {
+    "tStartMs": 1514766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "那他是住校吗？"
+    } ]
+  }, {
+    "tStartMs": 1517333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "他假期跟着我在这边玩。"
+    } ]
+  }, {
+    "tStartMs": 1520266,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1520799,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "啊，可以。"
+    } ]
+  }, {
+    "tStartMs": 1522866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "上学的时候就到昭觉县城住。"
+    } ]
+  }, {
+    "tStartMs": 1524733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1525966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "住校吗？还是说？"
+    } ]
+  }, {
+    "tStartMs": 1527333,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "不住校。"
+    } ]
+  }, {
+    "tStartMs": 1528400,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "跟爸爸妈妈住一起。"
+    } ]
+  }, {
+    "tStartMs": 1529799,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1530299,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "啊，我咋也没看见你们的羊呀？"
+    } ]
+  }, {
+    "tStartMs": 1532766,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "在山上吗？"
+    } ]
+  }, {
+    "tStartMs": 1534099,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "嗯，在山上。"
+    } ]
+  }, {
+    "tStartMs": 1534966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1536099,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "就让它自己跑，"
+    } ]
+  }, {
+    "tStartMs": 1537133,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "然后晚上"
+    } ]
+  }, {
+    "tStartMs": 1537766,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "再回来呗？"
+    } ]
+  }, {
+    "tStartMs": 1538533,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1539266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1541666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇哦。"
+    } ]
+  }, {
+    "tStartMs": 1543366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "贫困真的很伤。"
+    } ]
+  }, {
+    "tStartMs": 1544466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这是中国最——"
+    } ]
+  }, {
+    "tStartMs": 1545733,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "最贫困的地区之一。"
+    } ]
+  }, {
+    "tStartMs": 1548599,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "但跟过去相比，"
+    } ]
+  }, {
+    "tStartMs": 1550733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "生活已经"
+    } ]
+  }, {
+    "tStartMs": 1552166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "改善了很多。"
+    } ]
+  }, {
+    "tStartMs": 1553500,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "因为现在至少"
+    } ]
+  }, {
+    "tStartMs": 1554466,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "人们有足够的食物，"
+    } ]
+  }, {
+    "tStartMs": 1555933,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "足够的水，"
+    } ]
+  }, {
+    "tStartMs": 1556566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "呃，他们能上学了。"
+    } ]
+  }, {
+    "tStartMs": 1558933,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "我父母那一代——他们——"
+    } ]
+  }, {
+    "tStartMs": 1561066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "还有我祖父母那一代——"
+    } ]
+  }, {
+    "tStartMs": 1562966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "他们真的经历过贫困。"
+    } ]
+  }, {
+    "tStartMs": 1564966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我妈妈的一个姐姐就死了，"
+    } ]
+  }, {
+    "tStartMs": 1567666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "因为饥饿，"
+    } ]
+  }, {
+    "tStartMs": 1569400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "因为我的祖父母"
+    } ]
+  }, {
+    "tStartMs": 1572200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "没有足够的食物来"
+    } ]
+  }, {
+    "tStartMs": 1574933,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "养活孩子们。"
+    } ]
+  }, {
+    "tStartMs": 1576700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "如果你拿那个"
+    } ]
+  }, {
+    "tStartMs": 1578400,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "跟我们现在的生活相比，"
+    } ]
+  }, {
+    "tStartMs": 1581900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "情况已经"
+    } ]
+  }, {
+    "tStartMs": 1583900,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "改变了很多。"
+    } ]
+  }, {
+    "tStartMs": 1584933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我希望将来"
+    } ]
+  }, {
+    "tStartMs": 1586933,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "中国的这一部分也能有"
+    } ]
+  }, {
+    "tStartMs": 1591266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "更好的生活。"
+    } ]
+  }, {
+    "tStartMs": 1594333,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "两年前，"
+    } ]
+  }, {
+    "tStartMs": 1595666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "当我在布拖的时候，"
+    } ]
+  }, {
+    "tStartMs": 1597766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "离这里不远，"
+    } ]
+  }, {
+    "tStartMs": 1599533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "路还很难走。"
+    } ]
+  }, {
+    "tStartMs": 1601299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "他们刚刚建好了"
+    } ]
+  }, {
+    "tStartMs": 1602666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "呃，高速公路，"
+    } ]
+  }, {
+    "tStartMs": 1604266,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "今年"
+    } ]
+  }, {
+    "tStartMs": 1604766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "我回来的时候，"
+    } ]
+  }, {
+    "tStartMs": 1605599,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "那段高速"
+    } ]
+  }, {
+    "tStartMs": 1607566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "已经完工了。"
+    } ]
+  }, {
+    "tStartMs": 1608900,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "另一条连接昭觉的公路——"
+    } ]
+  }, {
+    "tStartMs": 1611733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这附近的城市——"
+    } ]
+  }, {
+    "tStartMs": 1613200,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "也将在今年年底"
+    } ]
+  }, {
+    "tStartMs": 1616366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "另一条通往昭觉的高速也将在"
+    } ]
+  }, {
+    "tStartMs": 1618333,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "今年年底完工。"
+    } ]
+  }, {
+    "tStartMs": 1621133,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "希望如此，"
+    } ]
+  }, {
+    "tStartMs": 1623200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "希望人们能走出"
+    } ]
+  }, {
+    "tStartMs": 1625200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "大山，过上更好的生活。"
+    } ]
+  }, {
+    "tStartMs": 1630966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "让我觉得难以置信的是"
+    } ]
+  }, {
+    "tStartMs": 1632900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "中国脱贫的"
+    } ]
+  }, {
+    "tStartMs": 1635333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "规模和速度。"
+    } ]
+  }, {
+    "tStartMs": 1636466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "如果我想起Yan的父母——"
+    } ]
+  }, {
+    "tStartMs": 1638466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我的岳父岳母——"
+    } ]
+  }, {
+    "tStartMs": 1640166,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "我的公婆——"
+    } ]
+  }, {
+    "tStartMs": 1642000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "他们成长的时候，中国还是"
+    } ]
+  }, {
+    "tStartMs": 1643900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "世界上最贫困的国家之一，"
+    } ]
+  }, {
+    "tStartMs": 1645900,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "而现在"
+    } ]
+  }, {
+    "tStartMs": 1647000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "你基本上有"
+    } ]
+  }, {
+    "tStartMs": 1647966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "一个非常非常好的生活水平。"
+    } ]
+  }, {
+    "tStartMs": 1650533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "去年，Yan的父母——"
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "他们能负担得起旅行了。"
+    } ]
+  }, {
+    "tStartMs": 1654766,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我们带他们去了欧洲，"
+    } ]
+  }, {
+    "tStartMs": 1656566,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "他们现在可以"
+    } ]
+  }, {
+    "tStartMs": 1658799,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "真正享受生活，"
+    } ]
+  }, {
+    "tStartMs": 1661166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "有足够的食物，"
+    } ]
+  }, {
+    "tStartMs": 1662266,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "这适用于现在"
+    } ]
+  }, {
+    "tStartMs": 1664900,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "绝大多数中国人。"
+    } ]
+  }, {
+    "tStartMs": 1666133,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "这——这才是最不可思议的。"
+    } ]
+  }, {
+    "tStartMs": 1668599,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "如果你想象一下，"
+    } ]
+  }, {
+    "tStartMs": 1669500,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "特别是考虑到人口规模——"
+    } ]
+  }, {
+    "tStartMs": 1672666,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "我觉得大约是"
+    } ]
+  }, {
+    "tStartMs": 1673166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "八百万"
+    } ]
+  }, {
+    "tStartMs": 1676066,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "人脱贫了。"
+    } ]
+  }, {
+    "tStartMs": 1676366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "脱贫了。"
+    } ]
+  }, {
+    "tStartMs": 1677200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "那相当于德国人口的十倍"
+    } ]
+  }, {
+    "tStartMs": 1680066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "就人口而言。"
+    } ]
+  }, {
+    "tStartMs": 1681500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "真的太不可思议了。"
+    } ]
+  }, {
+    "tStartMs": 1683900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "昭觉去不去啊？"
+    } ]
+  }, {
+    "tStartMs": 1689533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "昭觉？"
+    } ]
+  }, {
+    "tStartMs": 1692200,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1692666,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "啊，不去。"
+    } ]
+  }, {
+    "tStartMs": 1693566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好，谢谢。"
+    } ]
+  }, {
+    "tStartMs": 1695366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1697099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "昭觉去不去啊？"
+    } ]
+  }, {
+    "tStartMs": 1700400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好的。"
+    } ]
+  }, {
+    "tStartMs": 1701533,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "你去哪个地方呀？"
+    } ]
+  }, {
+    "tStartMs": 1702466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我去那个拉马镇。"
+    } ]
+  }, {
+    "tStartMs": 1704133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "拉马镇是不是那个"
+    } ]
+  }, {
+    "tStartMs": 1705266,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "地方有车到昭觉的呀？"
+    } ]
+  }, {
+    "tStartMs": 1707066,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "对对。"
+    } ]
+  }, {
+    "tStartMs": 1707733,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "呃，能不能我们付个车费，"
+    } ]
+  }, {
+    "tStartMs": 1708566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "搭一下我们俩？"
+    } ]
+  }, {
+    "tStartMs": 1709666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "可以可以。"
+    } ]
+  }, {
+    "tStartMs": 1710466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "来吧，Flo。"
+    } ]
+  }, {
+    "tStartMs": 1715166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "谢谢。"
+    } ]
+  }, {
+    "tStartMs": 1716533,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "谢他，到那个镇子——"
+    } ]
+  }, {
+    "tStartMs": 1719366,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "那个叫什么拉马镇。"
+    } ]
+  }, {
+    "tStartMs": 1721900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "行，好。"
+    } ]
+  }, {
+    "tStartMs": 1722500,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "谢谢你啊。"
+    } ]
+  }, {
+    "tStartMs": 1723733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1725200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "走，从那边。"
+    } ]
+  }, {
+    "tStartMs": 1727099,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "好，走。"
+    } ]
+  }, {
+    "tStartMs": 1729599,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "先上，好的。"
+    } ]
+  }, {
+    "tStartMs": 1731500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "你在中间吗？"
+    } ]
+  }, {
+    "tStartMs": 1733166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "好，挤一下吧。"
+    } ]
+  }, {
+    "tStartMs": 1736866,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "所以我们搭上了"
+    } ]
+  }, {
+    "tStartMs": 1737400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这样一辆小小的车。"
+    } ]
+  }, {
+    "tStartMs": 1739966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我们已经超载了，"
+    } ]
+  }, {
+    "tStartMs": 1741500,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "因为我们"
+    } ]
+  }, {
+    "tStartMs": 1741966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "后面坐了四个人。"
+    } ]
+  }, {
+    "tStartMs": 1743900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我有点同情司机，"
+    } ]
+  }, {
+    "tStartMs": 1746566,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "因为有点超载了。"
+    } ]
+  }, {
+    "tStartMs": 1749700,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这是一辆电动车。"
+    } ]
+  }, {
+    "tStartMs": 1750733,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这是一辆电动车。"
+    } ]
+  }, {
+    "tStartMs": 1751799,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "还剩百分之三十三、三十二的电量。"
+    } ]
+  }, {
+    "tStartMs": 1753766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "而且有风险"
+    } ]
+  }, {
+    "tStartMs": 1755066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我们可能到不了"
+    } ]
+  }, {
+    "tStartMs": 1756966,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "目的地"
+    } ]
+  }, {
+    "tStartMs": 1758233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "在电池耗尽之前。"
+    } ]
+  }, {
+    "tStartMs": 1759733,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "根据导航显示，"
+    } ]
+  }, {
+    "tStartMs": 1760933,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "还有二十七公里，"
+    } ]
+  }, {
+    "tStartMs": 1763099,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "还有百分之三十二的电量，"
+    } ]
+  }, {
+    "tStartMs": 1765599,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "而且我们还超载了。"
+    } ]
+  }, {
+    "tStartMs": 1767200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "所以祈祷吧，"
+    } ]
+  }, {
+    "tStartMs": 1768200,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "希望能到。"
+    } ]
+  }, {
+    "tStartMs": 1772299,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "现在还有百分之二十一电量，"
+    } ]
+  }, {
+    "tStartMs": 1775599,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "还有十五公里。"
+    } ]
+  }, {
+    "tStartMs": 1778466,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "不太确定能不能到。"
+    } ]
+  }, {
+    "tStartMs": 1781599,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "现在百分之十了。"
+    } ]
+  }, {
+    "tStartMs": 1782500,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "没有百分比显示了，"
+    } ]
+  }, {
+    "tStartMs": 1783966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "就在闪。"
+    } ]
+  }, {
+    "tStartMs": 1787700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "好了，现在越来越刺激了。"
+    } ]
+  }, {
+    "tStartMs": 1790166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "现在不知道"
+    } ]
+  }, {
+    "tStartMs": 1791266,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "还剩多少电量。"
+    } ]
+  }, {
+    "tStartMs": 1793333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "车随时可能停下来。"
+    } ]
+  }, {
+    "tStartMs": 1795900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "现在还有四点六公里。"
+    } ]
+  }, {
+    "tStartMs": 1802400,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "终于我们到了——"
+    } ]
+  }, {
+    "tStartMs": 1806566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "这个叫拉马镇的地方。"
+    } ]
+  }, {
+    "tStartMs": 1808866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "只剩百分之五的电量了。"
+    } ]
+  }, {
+    "tStartMs": 1812299,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "从这里我们拿到了一个号码，"
+    } ]
+  }, {
+    "tStartMs": 1813933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我们要叫一辆小面包车"
+    } ]
+  }, {
+    "tStartMs": 1816599,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "送我们去昭觉。"
+    } ]
+  }, {
+    "tStartMs": 1819133,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "今天就这样吧。"
+    } ]
+  }, {
+    "tStartMs": 1820566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "希望大家喜欢今天的视频。"
+    } ]
+  }, {
+    "tStartMs": 1823200,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "感谢观看。"
+    } ]
+  }, {
+    "tStartMs": 1823933,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我们下期再见。"
+    } ]
+  }, {
+    "tStartMs": 1826166,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "拜拜。"
+    } ]
+  } ]
+}

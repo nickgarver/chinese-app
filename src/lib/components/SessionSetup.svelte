@@ -6,7 +6,13 @@
    * scope: 'hsk'   -> HSK level + category filters
    *        'class' -> year + chapter filters
    */
-  let { data, title, scope = 'hsk', onstart } = $props();
+  let { data, title, scope = 'hsk', modes = ['vocab', 'sentences'], onstart } = $props();
+
+  const MODE_LABELS = {
+    vocab: ['\u{1F004}', 'Vocabulary'],
+    sentences: ['\u{1F4AC}', 'Sentences'],
+    clips: ['\u{1F3AC}', 'Clips']
+  };
 
   const COUNTS = [5, 10, 20, 25, 50, 100];
 
@@ -23,6 +29,11 @@
 
   const available = $derived(pool.length);
   const effective = $derived(s.count === 'all' ? available : Math.min(s.count, available));
+
+  // a tab that offers one mode forces it, so a stale stored mode can't leak in
+  $effect(() => {
+    if (!modes.includes(s.mode)) s.mode = modes[0];
+  });
 
   const frontLabels = $derived(
     s.mode === 'vocab'
@@ -45,22 +56,25 @@
     if (!available) return;
     onstart({ ...$state.snapshot(s), count: effective, pool });
   }
+  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
-<div class="page">
-  <h1>{title}</h1>
+<PageHeader title="{title}" />
 
-  <div class="card">
-    <p class="label">Practice</p>
-    <div class="chips spaced">
-      <button class="chip" class:on={s.mode === 'vocab'} onclick={() => (s.mode = 'vocab')}>
-        <span class="emoji">🀄</span>Vocabulary
-      </button>
-      <button class="chip" class:on={s.mode === 'sentences'} onclick={() => (s.mode = 'sentences')}>
-        <span class="emoji">💬</span>Sentences
-      </button>
+<div class="page">
+
+  {#if modes.length > 1}
+    <div class="card">
+      <p class="label">Practice</p>
+      <div class="chips spaced">
+        {#each modes as m}
+          <button class="chip" class:on={s.mode === m} onclick={() => (s.mode = m)}>
+            <span class="emoji">{MODE_LABELS[m][0]}</span>{MODE_LABELS[m][1]}
+          </button>
+        {/each}
+      </div>
     </div>
-  </div>
+  {/if}
 
   {#if scope === 'class'}
     <div class="card">
@@ -141,6 +155,7 @@
     <p class="note">{available} word{available === 1 ? '' : 's'} match.</p>
   </div>
 
+  {#if s.mode !== 'clips'}
   <div class="card">
     <p class="label">Show first</p>
     <div class="chips spaced">
@@ -152,8 +167,9 @@
       </button>
     </div>
   </div>
+  {/if}
 
   <button class="btn primary" disabled={!available} onclick={start}>
-    {available ? `Start ${effective} ${s.mode === 'vocab' ? 'cards' : 'sentences'}` : 'Nothing matches'}
+    {available ? `Start ${effective} ${s.mode === 'vocab' ? 'cards' : s.mode === 'clips' ? 'clips' : 'sentences'}` : 'Nothing matches'}
   </button>
 </div>

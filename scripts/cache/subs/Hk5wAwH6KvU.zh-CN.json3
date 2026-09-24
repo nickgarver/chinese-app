@@ -1,0 +1,1393 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Hāi péng yǒu men\n嗨朋友们"
+    } ]
+  }, {
+    "tStartMs": 8166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Wǒ shì Mini\n我是Mini"
+    } ]
+  }, {
+    "tStartMs": 9166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Huān yíng nǐ lái dào wǒ de pín dào\n欢迎你来到我的频道"
+    } ]
+  }, {
+    "tStartMs": 11400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Jīn tiān zhè qī jié mù ne\n今天这期节目呢"
+    } ]
+  }, {
+    "tStartMs": 12833,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Zán men yī kuàir zài Wēn gē huá de\n咱们一块在温哥华的"
+    } ]
+  }, {
+    "tStartMs": 16066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "bàng wǎn shí fēn chū lái zǒu yī zǒu sàn san bù\n傍晚时分出来走一走散散步"
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "Yī biān sàn bù ne\n一边散步呢"
+    } ]
+  }, {
+    "tStartMs": 21466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "yī biān liáo liao tiān\n一边聊聊天"
+    } ]
+  }, {
+    "tStartMs": 23166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Hā hā hā nǐ men kàn\n哈哈哈你们看"
+    } ]
+  }, {
+    "tStartMs": 25933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Zhè lǐ yǒu yī zhī niú\n这里有一只牛"
+    } ]
+  }, {
+    "tStartMs": 28033,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Ó bù shì yī zhī o\n哦不是一只哦"
+    } ]
+  }, {
+    "tStartMs": 29266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Shì hǎo jǐ zhī\n是好几只"
+    } ]
+  }, {
+    "tStartMs": 33166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Xiàn zài shì wǎn shàng liù diǎn duō nǐ men kàn\n现在是晚上6点多你们看"
+    } ]
+  }, {
+    "tStartMs": 36600,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Tài yáng kuài yào luò shān le\n太阳快要落山了"
+    } ]
+  }, {
+    "tStartMs": 38733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Zhè ge shì xī yáng xī yáng\n这个是夕阳夕阳"
+    } ]
+  }, {
+    "tStartMs": 41766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "À\n啊"
+    } ]
+  }, {
+    "tStartMs": 43233,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Bàng wǎn shí fēn jǐng sè yě hěn měi\n傍晚时分景色也很美"
+    } ]
+  }, {
+    "tStartMs": 47133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ńg\n嗯"
+    } ]
+  }, {
+    "tStartMs": 48366,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Hái shì néng wén dào nà ge niú de wèi dào hā hā hā\n还是能闻到那个牛的味道哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 52200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Yīn wèi gāng cái guò qù nà biān yǒu hǎo duō zhī niú\n因为刚才过去那边有好多只牛"
+    } ]
+  }, {
+    "tStartMs": 55766,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Rán hòu yǒu yī gǔ niú fèn de wèi dào hā hā hā\n然后有一股牛粪的味道哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 60266,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Wā zhè ge wèi dào\n哇这个味道"
+    } ]
+  }, {
+    "tStartMs": 61966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Ńg bù tài hǎo wén\n嗯不太好闻"
+    } ]
+  }, {
+    "tStartMs": 63933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Xiàn zài shì jiǔ yuè fèn le qiū tiān le\n现在是9月份了秋天了"
+    } ]
+  }, {
+    "tStartMs": 66933,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Ńg nǐ men nà biān de tiān qì zěn me yàng ne\n嗯你们那边的天气怎么样呢"
+    } ]
+  }, {
+    "tStartMs": 69633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Shì bù shì yě kāi shǐ biàn lěng le\n是不是也开始变冷了"
+    } ]
+  }, {
+    "tStartMs": 73533,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Wēn gē huá yě shì zhè yàng\n温哥华也是这样"
+    } ]
+  }, {
+    "tStartMs": 74833,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Xiàn zài Wēn gē huá de zǎo chén hé wǎn shàng dōu hěn lěng\n现在温哥华的早晨和晚上都很冷"
+    } ]
+  }, {
+    "tStartMs": 79733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Xū yào chuān wài tào\n需要穿外套"
+    } ]
+  }, {
+    "tStartMs": 81933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Bǐ rú shuō xiàng wǒ xiàn zài zhè jiàn\n比如说像我现在这件"
+    } ]
+  }, {
+    "tStartMs": 84566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Wǒ jīn tiān ne chuān le yī gè\n我今天呢穿了一个"
+    } ]
+  }, {
+    "tStartMs": 86133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "zhè ge shì chōng fēng yī chōng fēng yī\n这个是冲锋衣冲锋衣"
+    } ]
+  }, {
+    "tStartMs": 89400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Zhè zhǒng chōng fēng yī zài Wēn gē huá\n这种冲锋衣在温哥华"
+    } ]
+  }, {
+    "tStartMs": 91133,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "zhè lǐ chuān jiù fēi cháng hé shì\n这里穿就非常合适"
+    } ]
+  }, {
+    "tStartMs": 93866,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Tā ne bù jǐn kě yǐ fáng fēng fáng fēng\n它呢不仅可以防风防风"
+    } ]
+  }, {
+    "tStartMs": 97566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "ér qiě hái fáng yǔ fáng yǔ\n而且还防雨防雨"
+    } ]
+  }, {
+    "tStartMs": 100633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Ńg xiàn zài chuān fēi cháng de shū fu duì\n嗯现在穿非常的舒服对"
+    } ]
+  }, {
+    "tStartMs": 104633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Rán hòu Wēn gē huá xiàn zài de\n然后温哥华现在的"
+    } ]
+  }, {
+    "tStartMs": 106433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "tiān qì jiù shì zǎo wǎn bǐ jiào liáng\n天气就是早晚比较凉"
+    } ]
+  }, {
+    "tStartMs": 109266,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "È xià wǔ de shí hòu yǒu tài yáng jiù huì hěn rè ňg\n呃下午的时候有太阳就会很热嗯"
+    } ]
+  }, {
+    "tStartMs": 114266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "À xiàn zài tài yáng hái méi luò shān nǐ men kàn\n啊现在太阳还没落山你们看"
+    } ]
+  }, {
+    "tStartMs": 118666,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Yáng guāng sǎ zài wǒ de liǎn shàng\n阳光洒在我的脸上"
+    } ]
+  }, {
+    "tStartMs": 121366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Hái shì jué de hěn wēn nuǎn hā hā hā\n还是觉得很温暖哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 125200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Bàng wǎn de shí hòu ne sàn san bù a\n傍晚的时候呢散散步啊"
+    } ]
+  }, {
+    "tStartMs": 128533,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Gǎn jué jīn tiān yī tiān gōng zuò de yā lì dōu méi yǒu le\n感觉今天一天工作的压力都没有了"
+    } ]
+  }, {
+    "tStartMs": 133600,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "Hěn shū fu hěn zì zài hěn qiè yì\n很舒服很自在很惬意"
+    } ]
+  }, {
+    "tStartMs": 137833,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Ńg gāng gāng wǒ shuō de zhè sān gè cí\n嗯刚刚我说的这三个词"
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Kě yǐ xíng róng wǒ men xīn qíng rú hé\n可以形容我们心情如何"
+    } ]
+  }, {
+    "tStartMs": 144400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Shū fu zì zài qiè yì\n舒服自在惬意"
+    } ]
+  }, {
+    "tStartMs": 148033,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Zhè sān gè cí jīng cháng shǐ yòng o\n这3个词经常使用哦"
+    } ]
+  }, {
+    "tStartMs": 149733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Nǐ men kě yǐ jì zhù tā men\n你们可以记住它们"
+    } ]
+  }, {
+    "tStartMs": 152566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Wā nǐ men kàn xī yáng duō měi a\n哇你们看夕阳多美啊"
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "Tīng dào le ma\n听到了吗"
+    } ]
+  }, {
+    "tStartMs": 158866,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Niú zài jiào hā hā hā\n牛在叫哈哈哈"
+    } ]
+  }, {
+    "tStartMs": 161933,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Rán hòu zhè lǐ ne\n然后这里呢"
+    } ]
+  }, {
+    "tStartMs": 162833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Yǒu hěn duō zhè yàng de xiǎo huā nǐ men kàn\n有很多这样的小花你们看"
+    } ]
+  }, {
+    "tStartMs": 166133,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Zhè ge shì huā\n这个是花"
+    } ]
+  }, {
+    "tStartMs": 168266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Xiǎo huā hā hā\n小花哈哈"
+    } ]
+  }, {
+    "tStartMs": 170333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Hǎo piào liang o\n好漂亮哦"
+    } ]
+  }, {
+    "tStartMs": 173566,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "Hòu miàn hái yǒu hěn duō de cǎo cǎo\n后面还有很多的草草"
+    } ]
+  }, {
+    "tStartMs": 178066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Nà wǒ xiàn zài ne\n那我现在呢"
+    } ]
+  }, {
+    "tStartMs": 179333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Jiù yán zhe zhè tiáo hǎi àn xiàn nǐ men kàn\n就沿着这条海岸线你们看"
+    } ]
+  }, {
+    "tStartMs": 183933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Nà biān shì dà hǎi\n那边是大海"
+    } ]
+  }, {
+    "tStartMs": 185166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Rán hòu yán zhe zhè tiáo hǎi àn xiàn\n然后沿着这条海岸线"
+    } ]
+  }, {
+    "tStartMs": 188066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Wǒ men yī zhí wǎng qián zǒu wǎng qián zǒu\n我们一直往前走往前走"
+    } ]
+  }, {
+    "tStartMs": 191733,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Zǒu dào hǎi biān qù ňg\n走到海边去嗯"
+    } ]
+  }, {
+    "tStartMs": 196433,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Dà gài jù lí yǒu liǎng sān gōng lǐ zuǒ yòu ba\n大概距离有两三公里左右吧"
+    } ]
+  }, {
+    "tStartMs": 201833,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Qí shí zhè yàng màn man zǒu guò qù yě hěn kuài ňg\n其实这样慢慢走过去也很快嗯"
+    } ]
+  }, {
+    "tStartMs": 208066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Zhè ge jù lí de huà\n这个距离的话"
+    } ]
+  }, {
+    "tStartMs": 209333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Qí zì xíng chē shì zuì hǎo de\n骑自行车是最好的"
+    } ]
+  }, {
+    "tStartMs": 212266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "Nǐ huì kàn dào hěn duō qí zì xíng chē de rén duì\n你会看到很多骑自行车的人对"
+    } ]
+  }, {
+    "tStartMs": 216766,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "À wǒ jué de zhè biān de fáng zi zhēn de hěn hǎo āi\n啊我觉得这边的房子真的很好哎"
+    } ]
+  }, {
+    "tStartMs": 221633,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Zhè xiē shì fáng zi fáng zi\n这些是房子房子"
+    } ]
+  }, {
+    "tStartMs": 224533,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Nà zhù zài zhè lǐ ne\n那住在这里呢"
+    } ]
+  }, {
+    "tStartMs": 226400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Duì miàn ó nǐ kàn zhè ge fáng zi de duì miàn\n对面哦你看这个房子的对面"
+    } ]
+  }, {
+    "tStartMs": 229966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Jiù shì zhè me měi hǎo de fēng jǐng\n就是这么美好的风景"
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "Yuǎn chù jiù shì hǎi biān\n远处就是海边"
+    } ]
+  }, {
+    "tStartMs": 234833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Wǒ yào shi néng zhù zài zhè lǐ gāi duō hǎo\n我要是能住在这里该多好"
+    } ]
+  }, {
+    "tStartMs": 239366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Wǒ jué de zhù zài zhè fēng jǐng zhēn de hěn hǎo\n我觉得住在这风景真的很好"
+    } ]
+  }, {
+    "tStartMs": 242400,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "Měi tiān dōu kě yǐ kàn zhe xī yáng kàn rì chū\n每天都可以看着夕阳看日出"
+    } ]
+  }, {
+    "tStartMs": 246966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Hē hē duì\n呵呵对"
+    } ]
+  }, {
+    "tStartMs": 248166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Wǒ jiāo nǐ men zhè ge cí hā\n我教你们这个词哈"
+    } ]
+  }, {
+    "tStartMs": 249866,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Xiàn zài de shí jiān\n现在的时间"
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "Bàng wǎn shí fēn ma\n傍晚时分嘛"
+    } ]
+  }, {
+    "tStartMs": 252633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Rán hòu zhè ge luò rì ne\n然后这个落日呢"
+    } ]
+  }, {
+    "tStartMs": 254666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "Jiào zuò xī yáng xī yáng\n叫做夕阳夕阳"
+    } ]
+  }, {
+    "tStartMs": 257366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Rán hòu zǎo chén de shí hòu\n然后早晨的时候"
+    } ]
+  }, {
+    "tStartMs": 259233,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Tài yáng gāng chū lái de\n太阳刚出来的"
+    } ]
+  }, {
+    "tStartMs": 260466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Nà ge jiào rì chū rì chū ňg\n那个叫日出日出嗯"
+    } ]
+  }, {
+    "tStartMs": 264600,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "Zhè lǐ yǒu liǎng gè cháng yǐ liǎng gè cháng yǐ\n这里有两个长椅两个长椅"
+    } ]
+  }, {
+    "tStartMs": 268833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Kě yǐ zuò zài zhè xiū xi kàn fēng jǐng\n可以坐在这休息看风景"
+    } ]
+  }, {
+    "tStartMs": 273666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Wǒ jué de bàng wǎn shí fēn\n我觉得傍晚时分"
+    } ]
+  }, {
+    "tStartMs": 275766,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Zhè ge shí hòu de guāng hěn róu hé róu hé nǐ men kàn\n这个时候的光很柔和柔和你们看"
+    } ]
+  }, {
+    "tStartMs": 280833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Jiù shì dǎ zài rén de liǎn shàng\n就是打在人的脸上"
+    } ]
+  }, {
+    "tStartMs": 283366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Gǎn jué fēi cháng piào liang\n感觉非常漂亮"
+    } ]
+  }, {
+    "tStartMs": 285633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Hěn zì rán ňg\n很自然嗯"
+    } ]
+  }, {
+    "tStartMs": 288633,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Bù guò ne yīn wèi shì hǎi biān de yuán yīn ba\n不过呢因为是海边的原因吧"
+    } ]
+  }, {
+    "tStartMs": 291933,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Chóng zi hái shì hěn duō de\n虫子还是很多的"
+    } ]
+  }, {
+    "tStartMs": 293766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "Wǒ hěn pà chóng zi\n我很怕虫子"
+    } ]
+  }, {
+    "tStartMs": 295466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Yóu qí shì wén zi\n尤其是蚊子"
+    } ]
+  }, {
+    "tStartMs": 297533,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Zhī qián ne shàng gè yuè bù shì yǒu wén zi bǎ\n之前呢上个月不是有蚊子把"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Wǒ de yǎn jing yǎo zhǒng le ma\n我的眼睛咬肿了吗"
+    } ]
+  }, {
+    "tStartMs": 302733,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Dāng shí zhǒng de hěn lì hài o\n当时肿的很厉害哦"
+    } ]
+  }, {
+    "tStartMs": 305466,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "Ér qiě hěn tòng kǔ hěn nán shòu a\n而且很痛苦很难受啊"
+    } ]
+  }, {
+    "tStartMs": 309400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Gāng gāng zǒu guò lái de shí hòu yě yǒu chóng zi zài zhè fēi\n刚刚走过来的时候也有虫子在这飞"
+    } ]
+  }, {
+    "tStartMs": 312466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Āi yōu hǎo pà\n哎呦好怕"
+    } ]
+  }, {
+    "tStartMs": 314833,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Wā fàng yǎn wàng qù o\n哇放眼望去哦"
+    } ]
+  }, {
+    "tStartMs": 317766,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Zhè lǐ ne shì yī piàn de lǜ sè\n这里呢是一片的绿色"
+    } ]
+  }, {
+    "tStartMs": 320666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Lǜ sè de cǎo\n绿色的草"
+    } ]
+  }, {
+    "tStartMs": 322466,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "Rán hòu yuǎn chù ne shì jīn huáng sè de tài yáng jīn huáng sè\n然后远处呢是金黄色的太阳金黄色"
+    } ]
+  }, {
+    "tStartMs": 327800,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Wā nǐ men kàn\n哇你们看"
+    } ]
+  }, {
+    "tStartMs": 328533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Mǎ shàng jiù yào xià shān lou\n马上就要下山喽"
+    } ]
+  }, {
+    "tStartMs": 330733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Kuài kàn\n快看"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Kuài kàn kuài kàn\n快看快看"
+    } ]
+  }, {
+    "tStartMs": 333166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "Tài yáng mǎ shàng jiù yào luò shān le\n太阳马上就要落山了"
+    } ]
+  }, {
+    "tStartMs": 336033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wā\n哇"
+    } ]
+  }, {
+    "tStartMs": 337833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Dài nǐ men kàn le yī gè rì luò\n带你们看了一个日落"
+    } ]
+  }, {
+    "tStartMs": 340066,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Zhēn tǐng měi de\n真挺美的"
+    } ]
+  }, {
+    "tStartMs": 342600,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Wā gǎn jué tài yáng luò shān zhī hòu\n哇感觉太阳落山之后"
+    } ]
+  }, {
+    "tStartMs": 345566,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Tiān sè mǎ shàng jiù àn xià lái le\n天色马上就暗下来了"
+    } ]
+  }, {
+    "tStartMs": 348366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "Tiān sè tiān sè àn xià lái le àn\n天色天色暗下来了暗"
+    } ]
+  }, {
+    "tStartMs": 351833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "Wǒ men kuài zǒu liǎng bù kuài zǒu\n我们快走两步快走"
+    } ]
+  }, {
+    "tStartMs": 355466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yī zhí wǎng qián zǒu qù hǎi biān\n一直往前走去海边"
+    } ]
+  }, {
+    "tStartMs": 359200,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "Kàn zhè lǐ yǒu yī gè zhǐ shì pái zhǐ shì pái\n看这里有一个指示牌指示牌"
+    } ]
+  }, {
+    "tStartMs": 364166,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "Yī zhí wǎng qián zǒu wǎng qián zǒu\n一直往前走往前走"
+    } ]
+  }, {
+    "tStartMs": 369733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Wǒ qí shí hěn xǐ huan kàn hǎi\n我其实很喜欢看海"
+    } ]
+  }, {
+    "tStartMs": 372500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "Yóu qí shì dāng nǐ gǎn jué xīn qíng bù hǎo de shí hòu\n尤其是当你感觉心情不好的时候"
+    } ]
+  }, {
+    "tStartMs": 376366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "Huò zhě gōng zuò yā lì ó chóng zi\n或者工作压力哦虫子"
+    } ]
+  }, {
+    "tStartMs": 379733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "Huò zhě gōng zuò yā lì dà de shí hòu\n或者工作压力大的时候"
+    } ]
+  }, {
+    "tStartMs": 382533,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yā lì dà de shí hòu\n压力大的时候"
+    } ]
+  }, {
+    "tStartMs": 383533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Wǒ jiù hěn xǐ huan dào hǎi biān\n我就很喜欢到海边"
+    } ]
+  }, {
+    "tStartMs": 385900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Yī gè rén dào hǎi biān a\n一个人到海边啊"
+    } ]
+  }, {
+    "tStartMs": 388366,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Shén me yě bù zuò\n什么也不做"
+    } ]
+  }, {
+    "tStartMs": 389500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Shén me yě bù xiǎng\n什么也不想"
+    } ]
+  }, {
+    "tStartMs": 390700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Jiù jìng jìng de kàn kan dà hǎi\n就静静的看看大海"
+    } ]
+  }, {
+    "tStartMs": 394100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "Wǒ jiù huì jué de fēi cháng de zhì yù zhì yù duì\n我就会觉得非常的治愈治愈对"
+    } ]
+  }, {
+    "tStartMs": 398066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Yīn wèi dà hǎi ne\n因为大海呢"
+    } ]
+  }, {
+    "tStartMs": 399500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Gěi wǒ men de gǎn jué jiù shì hěn liáo kuò de\n给我们的感觉就是很辽阔的"
+    } ]
+  }, {
+    "tStartMs": 402866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "À qí shí bù jǐn shì dà hǎi\n啊其实不仅是大海"
+    } ]
+  }, {
+    "tStartMs": 404333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Wǒ jué de dà zì rán jiù shì yǒu\n我觉得大自然就是有"
+    } ]
+  }, {
+    "tStartMs": 405966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "zhè zhǒng hěn shén qí de mèi lì\n这种很神奇的魅力"
+    } ]
+  }, {
+    "tStartMs": 409366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "Kě yǐ bāng wǒ men qù jiǎn qīng hěn duō de yā lì\n可以帮我们去减轻很多的压力"
+    } ]
+  }, {
+    "tStartMs": 412666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Ràng wǒ men chóng xīn chōng mǎn néng liàng\n让我们重新充满能量"
+    } ]
+  }, {
+    "tStartMs": 416733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Hǎo de nǐ men kàn\n好的你们看"
+    } ]
+  }, {
+    "tStartMs": 419966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Wǒ men dào le zhè ge gōng yuán le\n我们到了这个公园了"
+    } ]
+  }, {
+    "tStartMs": 422600,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "Qián miàn zhè lǐ jiù shì gōng yuán\n前面这里就是公园"
+    } ]
+  }, {
+    "tStartMs": 427466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Zhè lǐ shì yī tiáo xiǎo lù xiǎo lù\n这里是一条小路小路"
+    } ]
+  }, {
+    "tStartMs": 430933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Wǒ men cóng zhè tiáo xiǎo lù zǒu guò qù\n我们从这条小路走过去"
+    } ]
+  }, {
+    "tStartMs": 435100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Qián miàn jiù shì dà hǎi la\n前面就是大海啦"
+    } ]
+  }, {
+    "tStartMs": 437133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Hā hā hā hǎo xīng fèn a\n哈哈哈好兴奋啊"
+    } ]
+  }, {
+    "tStartMs": 440100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Wǒ zhēn de hěn jiǔ méi lái zhè lǐ le\n我真的很久没来这里了"
+    } ]
+  }, {
+    "tStartMs": 444966,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Ó wǒ gāi zǒu nǎ lǐ\n哦我该走哪里"
+    } ]
+  }, {
+    "tStartMs": 447466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Cóng zhè guò qù hǎo le\n从这过去好了"
+    } ]
+  }, {
+    "tStartMs": 451766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Wā tiān shàng yǒu hǎo duō niǎo zài fēi āi\n哇天上有好多鸟在飞哎"
+    } ]
+  }, {
+    "tStartMs": 455300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "Hǎo duō de niǎo zài fēi\n好多的鸟在飞"
+    } ]
+  }, {
+    "tStartMs": 458766,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Tiān shàng hái yǒu yuè liang yuè liang\n天上还有月亮月亮"
+    } ]
+  }, {
+    "tStartMs": 461300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Zhè ge shì yuè liang\n这个是月亮"
+    } ]
+  }, {
+    "tStartMs": 463333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ó\n哦"
+    } ]
+  }, {
+    "tStartMs": 465766,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Zhè lǐ yǒu hěn duō de shā zi shā zi\n这里有很多的沙子沙子"
+    } ]
+  }, {
+    "tStartMs": 472166,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "Wǒ men dào le dào le dào hǎi biān le\n我们到了到了到海边了"
+    } ]
+  }, {
+    "tStartMs": 476666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "À\n啊"
+    } ]
+  }, {
+    "tStartMs": 479466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "Qián miàn jiù shì dà hǎi\n前面就是大海"
+    } ]
+  }, {
+    "tStartMs": 483366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Wā zǒu guò lái hái yǒu diǎn lèi ne\n哇走过来还有点累呢"
+    } ]
+  }, {
+    "tStartMs": 486500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "À\n啊"
+    } ]
+  }, {
+    "tStartMs": 488200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Kàn zhè ge ne jiù shì shā tān shā tān\n看这个呢就是沙滩沙滩"
+    } ]
+  }, {
+    "tStartMs": 492600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Suī rán tā hěn zāng\n虽然它很脏"
+    } ]
+  }, {
+    "tStartMs": 495966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Dàn shì tā yě shì shā tān\n但是它也是沙滩"
+    } ]
+  }, {
+    "tStartMs": 498300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Shā tān shàng ne yǒu hěn duō de mù tou\n沙滩上呢有很多的木头"
+    } ]
+  }, {
+    "tStartMs": 500666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "Zhè xiē dōu shì mù tou mù tou\n这些都是木头木头"
+    } ]
+  }, {
+    "tStartMs": 505700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "Rán hòu wǒ men kàn hǎi biān\n然后我们看海边"
+    } ]
+  }, {
+    "tStartMs": 509100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Hǎi shàng yǒu yī sōu hěn dà de chuán\n海上有一艘很大的船"
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Zhè ge shì chuán\n这个是船"
+    } ]
+  }, {
+    "tStartMs": 514466,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Yīng gāi shì huò chuán huò chuán\n应该是货船货船"
+    } ]
+  }, {
+    "tStartMs": 517600,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "Bàng wǎn shí fēn de hǎi miàn fēi cháng de píng jìng píng jìng\n傍晚时分的海面非常的平静平静"
+    } ]
+  }, {
+    "tStartMs": 524533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wā\n哇"
+    } ]
+  }, {
+    "tStartMs": 526400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Hǎo jiǔ méi lái zhè biān le\n好久没来这边了"
+    } ]
+  }, {
+    "tStartMs": 529066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Ó nǐ men kàn a\n哦你们看啊"
+    } ]
+  }, {
+    "tStartMs": 531200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Píng jìng de hǎi miàn shàng ne\n平静的海面上呢"
+    } ]
+  }, {
+    "tStartMs": 532566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Yǒu yī sōu kuài tǐng\n有一艘快艇"
+    } ]
+  }, {
+    "tStartMs": 534966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Wā nà ge shì kuài tǐng\n哇那个是快艇"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Kāi de hěn kuài\n开的很快"
+    } ]
+  }, {
+    "tStartMs": 539566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Wǒ xiàn zài ne\n我现在呢"
+    } ]
+  }, {
+    "tStartMs": 540466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Shì dūn zài le è hǎi tān shàng dūn dūn zhe\n是蹲在了呃海滩上蹲蹲着"
+    } ]
+  }, {
+    "tStartMs": 545066,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Hā hā hā dūn zhe\n哈哈哈蹲着"
+    } ]
+  }, {
+    "tStartMs": 547100,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Rán hòu jìng jìng de kàn zhe wǒ qián miàn de dà hǎi\n然后静静的看着我前面的大海"
+    } ]
+  }, {
+    "tStartMs": 551933,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Wǒ xiàn zài gēn dà hǎi de jù lí hěn jìn nǐ men kàn\n我现在跟大海的距离很近你们看"
+    } ]
+  }, {
+    "tStartMs": 555866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Ér qiě ne xiàn zài zhǐ yǒu wǒ yī gè rén\n而且呢现在只有我一个人"
+    } ]
+  }, {
+    "tStartMs": 558466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Wā hǎo shū fu o\n哇好舒服哦"
+    } ]
+  }, {
+    "tStartMs": 560200,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Zhè zhǒng gǎn jué hěn qí miào\n这种感觉很奇妙"
+    } ]
+  }, {
+    "tStartMs": 563100,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Jiù shì zhè yàng jiǎn jiǎn dān dān de tīng zhe dà hǎi\n就是这样简简单单听着大海"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "de zhè zhǒng pāi dǎ zài shā tān shàng de shēng yīn\n的这种拍打在沙滩上的声音"
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Rán hòu tiān shàng yǒu de shí hòu huì yǒu hǎi ōu\n然后天上有的时候会有海鸥"
+    } ]
+  }, {
+    "tStartMs": 571466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Nà ge yīng gāi shì hǎi ōu\n那个应该是海鸥"
+    } ]
+  }, {
+    "tStartMs": 573533,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Hǎi ōu de jiào shēng\n海鸥的叫声"
+    } ]
+  }, {
+    "tStartMs": 575866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Wǒ jué de hǎo píng jìng\n我觉得好平静"
+    } ]
+  }, {
+    "tStartMs": 579166,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Nǐ men tīng\n你们听"
+    } ]
+  }, {
+    "tStartMs": 581200,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Wā hǎo shū fu o\n哇好舒服哦"
+    } ]
+  }, {
+    "tStartMs": 584966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Zhēn de hěn xiǎng zài zhè lǐ dāi yī yè hā hā\n真的很想在这里待一夜哈哈"
+    } ]
+  }, {
+    "tStartMs": 588133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hǎi làng de shēng yīn yě hěn hǎo tīng āi\n海浪的声音也很好听哎"
+    } ]
+  }, {
+    "tStartMs": 591266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Rán hòu zhè ge wǒ men jiào hǎi làng hǎi làng\n然后这个我们叫海浪海浪"
+    } ]
+  }, {
+    "tStartMs": 595133,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Dāng rán la jīn tiān de làng bù dà hěn xiǎo\n当然啦今天的浪不大，很小"
+    } ]
+  }, {
+    "tStartMs": 600400,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Jiàn qǐ lái de zhè xiē shuǐ huā ne\n溅起来的这些水花呢"
+    } ]
+  }, {
+    "tStartMs": 602066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Wǒ men jiào làng huā làng huā\n我们叫浪花浪花"
+    } ]
+  }, {
+    "tStartMs": 609066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "Hǎi biān de zhè xiē mù tou de zào xíng yě hěn qí tè\n海边的这些木头的造型也很奇特"
+    } ]
+  }, {
+    "tStartMs": 613000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Fēi cháng qí tè de zào xíng\n非常奇特的造型"
+    } ]
+  }, {
+    "tStartMs": 615900,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "Nà wǒ xiān zuò zài zhè kuài mù tou shàng\n那我先坐在这块木头上"
+    } ]
+  }, {
+    "tStartMs": 619200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "Zuò zuò xià lái\n坐坐下来"
+    } ]
+  }, {
+    "tStartMs": 621366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Wā wǒ yǐ jīng táo zuì le\n哇我已经陶醉了"
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "Táo zuì táo zuì zài hǎi biān de měi jǐng lǐ le hā hā\n陶醉陶醉在海边的美景里了哈哈"
+    } ]
+  }, {
+    "tStartMs": 630900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "Tiān sè yě yuè lái yuè àn le\n天色也越来越暗了"
+    } ]
+  }, {
+    "tStartMs": 634300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ó\n哦"
+    } ]
+  }, {
+    "tStartMs": 637800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "Hǎi làng de shēng yīn yě biàn dà le nǐ men kàn\n海浪的声音也变大了你们看"
+    } ]
+  }, {
+    "tStartMs": 642733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wā ó\n哇哦"
+    } ]
+  }, {
+    "tStartMs": 645400,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Wā zhè lǐ hái yǒu fēng zheng fēng zheng\n哇这里还有风筝风筝"
+    } ]
+  }, {
+    "tStartMs": 651966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Yǒu rén ne zài zhè biān fàng fēng zheng fàng fēng zheng\n有人呢在这边放风筝放风筝"
+    } ]
+  }, {
+    "tStartMs": 657533,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Hǎo ba xiàn zài tiān yǐ jīng yuè lái yuè hēi le\n好吧现在天已经越来越黑了"
+    } ]
+  }, {
+    "tStartMs": 659933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Wǒ yào huí jiā le\n我要回家了"
+    } ]
+  }, {
+    "tStartMs": 661733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Ér qiě zhǔ yào shì zhè biān de wén zi hǎo duō ya\n而且主要是这边的蚊子好多呀"
+    } ]
+  }, {
+    "tStartMs": 664566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Gāng gāng zuò zài nà lǐ ne\n刚刚坐在那里呢"
+    } ]
+  }, {
+    "tStartMs": 665700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Yǒu hǎo duō de wén zi zài wǒ páng biān fēi\n有好多的蚊子在我旁边飞"
+    } ]
+  }, {
+    "tStartMs": 668866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Wǒ zhēn de tài zhāo wén zi le hā hā\n我真的太招蚊子了哈哈"
+    } ]
+  }, {
+    "tStartMs": 671733,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Nà wǒ men zhè qī jié mù dào zhè lǐ lou\n那我们这期节目到这里喽"
+    } ]
+  }, {
+    "tStartMs": 673766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Nǐ men kě yǐ yòng jīn tiān zhè qī\n你们可以用今天这期"
+    } ]
+  }, {
+    "tStartMs": 675266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "jié mù qù liàn yī xià zì jǐ de tīng lì\n节目去练一下自己的听力"
+    } ]
+  }, {
+    "tStartMs": 677300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Kàn kan zì jǐ néng tīng dǒng duō shao hǎo bù hǎo\n看看自己能听懂多少好不好"
+    } ]
+  }, {
+    "tStartMs": 680000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Huān yíng nǐ men zài píng lùn qū gào sù wǒ o\n欢迎你们在评论区告诉我哦"
+    } ]
+  }, {
+    "tStartMs": 682566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Wǒ men xià qī jié mù zài jiàn la\n我们下期节目再见啦"
+    } ]
+  }, {
+    "tStartMs": 684166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Xiè xie nǐ men péi bàn wǒ yī qǐ zài\n谢谢你们陪伴我一起在"
+    } ]
+  }, {
+    "tStartMs": 686266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "hǎi biān dù guò le yī gè měi hǎo de yè wǎn\n海边度过了一个美好的夜晚"
+    } ]
+  }, {
+    "tStartMs": 689666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "OK wǒ men xià qī zài jiàn bái bái\nOK我们下期再见拜拜"
+    } ]
+  } ]
+}

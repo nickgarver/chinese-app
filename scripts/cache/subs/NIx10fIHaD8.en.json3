@@ -1,0 +1,1459 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The weather is really nice today"
+    } ]
+  }, {
+    "tStartMs": 3800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "It's been a long time since I've seen such good weather"
+    } ]
+  }, {
+    "tStartMs": 7933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yesterday it was still heavily overcast"
+    } ]
+  }, {
+    "tStartMs": 10566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "With strong winds and heavy rain"
+    } ]
+  }, {
+    "tStartMs": 12466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "But today it has cleared up"
+    } ]
+  }, {
+    "tStartMs": 14733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "With blue skies and white clouds"
+    } ]
+  }, {
+    "tStartMs": 16766,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Good weather brings a good mood"
+    } ]
+  }, {
+    "tStartMs": 19700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I can feel autumn is on its way"
+    } ]
+  }, {
+    "tStartMs": 22100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "Although it's still very sunny and a bit hot outside,"
+    } ]
+  }, {
+    "tStartMs": 25233,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "But it’s not so stuffy anymore."
+    } ]
+  }, {
+    "tStartMs": 28166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "The wind is much cooler, too."
+    } ]
+  }, {
+    "tStartMs": 30766,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "This is autumn."
+    } ]
+  }, {
+    "tStartMs": 33766,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Hi, everyone!"
+    } ]
+  }, {
+    "tStartMs": 34866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Long time no see."
+    } ]
+  }, {
+    "tStartMs": 36333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "How have you been doing lately?"
+    } ]
+  }, {
+    "tStartMs": 39500,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "How did you spend your summer this year?"
+    } ]
+  }, {
+    "tStartMs": 43333,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "This summer, well,"
+    } ]
+  }, {
+    "tStartMs": 44500,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "I didn't go anywhere."
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "At home, I focused very hard on studying and working,"
+    } ]
+  }, {
+    "tStartMs": 50066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "and exercised occasionally."
+    } ]
+  }, {
+    "tStartMs": 52566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Everyone knows that"
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "summer is the peak season for travel."
+    } ]
+  }, {
+    "tStartMs": 57633,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "Peak season, not the 'peak' you forget when you lose things."
+    } ]
+  }, {
+    "tStartMs": 61766,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "It's the season when many people travel."
+    } ]
+  }, {
+    "tStartMs": 64833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Because in summer, it's school vacation."
+    } ]
+  }, {
+    "tStartMs": 67433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "The kids are all off from school."
+    } ]
+  }, {
+    "tStartMs": 69333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Parents take their children traveling."
+    } ]
+  }, {
+    "tStartMs": 72066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And some people who really love summer travel"
+    } ]
+  }, {
+    "tStartMs": 75366,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "They also choose to go out during the summer."
+    } ]
+  }, {
+    "tStartMs": 78733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "So summer is the peak season for travel."
+    } ]
+  }, {
+    "tStartMs": 82200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "I usually don't choose to travel in the summer."
+    } ]
+  }, {
+    "tStartMs": 86066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Because think about it—"
+    } ]
+  }, {
+    "tStartMs": 88266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "In summer, it's hot and crowded."
+    } ]
+  }, {
+    "tStartMs": 92133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "And prices are high."
+    } ]
+  }, {
+    "tStartMs": 93900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The experience isn't that great."
+    } ]
+  }, {
+    "tStartMs": 96233,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So I prefer traveling in months like September or October."
+    } ]
+  }, {
+    "tStartMs": 101233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "But this summer,"
+    } ]
+  }, {
+    "tStartMs": 102666,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "I discovered two fun things."
+    } ]
+  }, {
+    "tStartMs": 106300,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I can't wait to share them with you."
+    } ]
+  }, {
+    "tStartMs": 109866,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "This summer, I got hooked on a sport."
+    } ]
+  }, {
+    "tStartMs": 113100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Let me show you."
+    } ]
+  }, {
+    "tStartMs": 116633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "This is the paddle."
+    } ]
+  }, {
+    "tStartMs": 118966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's a sport that involves hitting a ball."
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Take a look at this paddle."
+    } ]
+  }, {
+    "tStartMs": 124200,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "Can you guess what sport I've fallen for?"
+    } ]
+  }, {
+    "tStartMs": 129166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Do you know what this sport is?"
+    } ]
+  }, {
+    "tStartMs": 132200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "That's right, it's pickleball."
+    } ]
+  }, {
+    "tStartMs": 135166,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Nowadays, pickleball is becoming more and more popular in China."
+    } ]
+  }, {
+    "tStartMs": 139333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The way it's played is very similar to tennis."
+    } ]
+  }, {
+    "tStartMs": 141900,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Its rules are also very similar to tennis."
+    } ]
+  }, {
+    "tStartMs": 144733,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "But it's not as hard as tennis."
+    } ]
+  }, {
+    "tStartMs": 148466,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "It's easier to pick up than tennis."
+    } ]
+  }, {
+    "tStartMs": 152366,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I'm someone without much of an athletic bone in my body."
+    } ]
+  }, {
+    "tStartMs": 156200,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "Cell — that word is really interesting. Cell."
+    } ]
+  }, {
+    "tStartMs": 160433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "No athletic cells."
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "What this phrase means is that"
+    } ]
+  }, {
+    "tStartMs": 163666,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "I don't have much athletic talent or ability."
+    } ]
+  }, {
+    "tStartMs": 167666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "So I say I don't have any sports cells."
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Likewise, if you don't have much talent or ability in music,"
+    } ]
+  }, {
+    "tStartMs": 175400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "you can also say,"
+    } ]
+  }, {
+    "tStartMs": 177733,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "I don't have music cells."
+    } ]
+  }, {
+    "tStartMs": 182866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "I don't have art cells."
+    } ]
+  }, {
+    "tStartMs": 185066,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "I don't know how to appreciate this painting."
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "I don't have art cells."
+    } ]
+  }, {
+    "tStartMs": 189766,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "Even a person like me with no athletic ability can learn this sport."
+    } ]
+  }, {
+    "tStartMs": 195266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's really easy to pick up."
+    } ]
+  }, {
+    "tStartMs": 196900,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "And it's a lot of fun."
+    } ]
+  }, {
+    "tStartMs": 198900,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "The ball it uses is also quite special."
+    } ]
+  }, {
+    "tStartMs": 201433,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "See, it's really different from tennis and badminton, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 206033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "It's made of plastic."
+    } ]
+  }, {
+    "tStartMs": 209633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's made from plastic."
+    } ]
+  }, {
+    "tStartMs": 211266,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "And it has many holes."
+    } ]
+  }, {
+    "tStartMs": 214466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "It has many holes on it."
+    } ]
+  }, {
+    "tStartMs": 217533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "This is the first thing I want to share with you."
+    } ]
+  }, {
+    "tStartMs": 222100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "And there's another thing."
+    } ]
+  }, {
+    "tStartMs": 224300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "This is my new \"toy\"."
+    } ]
+  }, {
+    "tStartMs": 228200,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "A drone."
+    } ]
+  }, {
+    "tStartMs": 230033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "A mini drone."
+    } ]
+  }, {
+    "tStartMs": 231766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Because I'm still a beginner,"
+    } ]
+  }, {
+    "tStartMs": 233666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "so I bought a drone that wasn't that expensive."
+    } ]
+  }, {
+    "tStartMs": 237433,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "This is a drone for beginners."
+    } ]
+  }, {
+    "tStartMs": 241500,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "It is very light."
+    } ]
+  }, {
+    "tStartMs": 246033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "It seems to weigh less than 500 grams."
+    } ]
+  }, {
+    "tStartMs": 248300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "Its weight is only about 300 to 400 grams."
+    } ]
+  }, {
+    "tStartMs": 253900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It can open like this."
+    } ]
+  }, {
+    "tStartMs": 258733,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Once opened, it automatically turns on."
+    } ]
+  }, {
+    "tStartMs": 270033,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Like this, it takes off and flies."
+    } ]
+  }, {
+    "tStartMs": 273966,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Now it moves along with me."
+    } ]
+  }, {
+    "tStartMs": 279733,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Then I place my hand beneath it,"
+    } ]
+  }, {
+    "tStartMs": 283833,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "and it will land."
+    } ]
+  }, {
+    "tStartMs": 286700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "The aircraft will power off in 5 seconds."
+    } ]
+  }, {
+    "tStartMs": 288666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Press any button on the body to cancel shutdown."
+    } ]
+  }, {
+    "tStartMs": 292666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "After I fold it up,"
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "it will automatically power off."
+    } ]
+  }, {
+    "tStartMs": 296166,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "It's very convenient."
+    } ]
+  }, {
+    "tStartMs": 298600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I think flying drones is really a lot of fun."
+    } ]
+  }, {
+    "tStartMs": 303433,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "But I'm still a beginner right now."
+    } ]
+  }, {
+    "tStartMs": 306666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "And I really don't know much about machines."
+    } ]
+  }, {
+    "tStartMs": 310333,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "I'm slow at learning things related to machines."
+    } ]
+  }, {
+    "tStartMs": 314066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "But I believe"
+    } ]
+  }, {
+    "tStartMs": 315500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "as long as I practice more,"
+    } ]
+  }, {
+    "tStartMs": 317300,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "I can overcome this problem."
+    } ]
+  }, {
+    "tStartMs": 319933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "Whether it's pickleball or drones,"
+    } ]
+  }, {
+    "tStartMs": 322200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "both require us to practice a lot."
+    } ]
+  }, {
+    "tStartMs": 324866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "only then can you make progress."
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "Learning a language is the same."
+    } ]
+  }, {
+    "tStartMs": 329666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Speaking of practicing a language,"
+    } ]
+  }, {
+    "tStartMs": 331866,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "everyone knows"
+    } ]
+  }, {
+    "tStartMs": 332800,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "that I highly recommend the app italki."
+    } ]
+  }, {
+    "tStartMs": 396033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "You can buy lessons one at a time."
+    } ]
+  }, {
+    "tStartMs": 398133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "You don't need to stock up on a large number of courses at once."
+    } ]
+  }, {
+    "tStartMs": 400900,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "Both the time and location are quite flexible."
+    } ]
+  }, {
+    "tStartMs": 403366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "You won't feel as much pressure."
+    } ]
+  }, {
+    "tStartMs": 405300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Now use my promo code,"
+    } ]
+  }, {
+    "tStartMs": 407900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "and you'll get $5 off a $10 purchase on your first lesson."
+    } ]
+  }, {
+    "tStartMs": 412133,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Also, in September,"
+    } ]
+  }, {
+    "tStartMs": 413800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "you're all welcome to join italki's language challenge."
+    } ]
+  }, {
+    "tStartMs": 418600,
+    "dDurationMs": 4566,
+    "segs": [ {
+      "utf8": "It can help you stay consistent with language learning within 45 days,"
+    } ]
+  }, {
+    "tStartMs": 423166,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "and you can also see your own progress."
+    } ]
+  }, {
+    "tStartMs": 425666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "While learning a language,"
+    } ]
+  }, {
+    "tStartMs": 426933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "There's also a chance to win prizes."
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "In the competition, the top 500 participants can receive special prizes."
+    } ]
+  }, {
+    "tStartMs": 434833,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Don't miss this opportunity."
+    } ]
+  }, {
+    "tStartMs": 436566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Go check it out now."
+    } ]
+  }, {
+    "tStartMs": 446200,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "My takeout has arrived."
+    } ]
+  }, {
+    "tStartMs": 452466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "My package has arrived too."
+    } ]
+  }, {
+    "tStartMs": 456933,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Recently, an online supermarket opened near my home."
+    } ]
+  }, {
+    "tStartMs": 462600,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "An online supermarket."
+    } ]
+  }, {
+    "tStartMs": 463866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Its name is especially interesting too."
+    } ]
+  }, {
+    "tStartMs": 465333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "It's called 'Little Elephant Supermarket'."
+    } ]
+  }, {
+    "tStartMs": 468866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "When you buy things on it,"
+    } ]
+  }, {
+    "tStartMs": 470666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "they can be delivered to your home very quickly."
+    } ]
+  }, {
+    "tStartMs": 472733,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "In about 30 minutes,"
+    } ]
+  }, {
+    "tStartMs": 474600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "it arrives in just 20 to 30 minutes."
+    } ]
+  }, {
+    "tStartMs": 477300,
+    "dDurationMs": 6933,
+    "segs": [ {
+      "utf8": "This is what I bought for 40 yuan at Little Elephant Supermarket."
+    } ]
+  }, {
+    "tStartMs": 484700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Let's see what I bought."
+    } ]
+  }, {
+    "tStartMs": 487300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "This is kale."
+    } ]
+  }, {
+    "tStartMs": 490633,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "Many people probably know it."
+    } ]
+  }, {
+    "tStartMs": 493266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "It's a very healthy vegetable."
+    } ]
+  }, {
+    "tStartMs": 495600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You can use it to make vegetable juice."
+    } ]
+  }, {
+    "tStartMs": 498400,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "And also make salads."
+    } ]
+  }, {
+    "tStartMs": 502733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "I bought three potatoes."
+    } ]
+  }, {
+    "tStartMs": 505466,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "These are peeled."
+    } ]
+  }, {
+    "tStartMs": 507800,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "They've already peeled them for you."
+    } ]
+  }, {
+    "tStartMs": 510366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Peeled potatoes, 500 grams"
+    } ]
+  }, {
+    "tStartMs": 515200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Spinach"
+    } ]
+  }, {
+    "tStartMs": 519266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Wow, what big spinach!"
+    } ]
+  }, {
+    "tStartMs": 521666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It looks very fresh."
+    } ]
+  }, {
+    "tStartMs": 524066,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "And frozen tofu."
+    } ]
+  }, {
+    "tStartMs": 528066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Frozen, frozen tofu."
+    } ]
+  }, {
+    "tStartMs": 530033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "Frozen tofu looks like this."
+    } ]
+  }, {
+    "tStartMs": 536966,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "Over here, this is lamb, lamb rolls."
+    } ]
+  }, {
+    "tStartMs": 543400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "200 grams"
+    } ]
+  }, {
+    "tStartMs": 548166,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and a bottle of fresh milk."
+    } ]
+  }, {
+    "tStartMs": 552500,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "Can everyone guess what I'm going to make?"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "I'm going to make mala tang."
+    } ]
+  }, {
+    "tStartMs": 563333,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I have a student who often asks me to eat mala tang."
+    } ]
+  }, {
+    "tStartMs": 567833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "A mala tang video."
+    } ]
+  }, {
+    "tStartMs": 570466,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But eating mala tang out is a bit expensive."
+    } ]
+  }, {
+    "tStartMs": 574466,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Eating it at home is both hygienic and cheap."
+    } ]
+  }, {
+    "tStartMs": 579266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "And the method for making malatang is very simple."
+    } ]
+  }, {
+    "tStartMs": 582600,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I think many people can succeed on their first try."
+    } ]
+  }, {
+    "tStartMs": 587766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "So now let's take a look at our ingredients."
+    } ]
+  }, {
+    "tStartMs": 591366,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Today I have spinach."
+    } ]
+  }, {
+    "tStartMs": 594666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Washed spinach."
+    } ]
+  }, {
+    "tStartMs": 597066,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Potatoes."
+    } ]
+  }, {
+    "tStartMs": 599033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Sliced potatoes."
+    } ]
+  }, {
+    "tStartMs": 600866,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "And this is frozen tofu."
+    } ]
+  }, {
+    "tStartMs": 608166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Lamb rolls"
+    } ]
+  }, {
+    "tStartMs": 609966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "These fish balls"
+    } ]
+  }, {
+    "tStartMs": 612100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "These fish balls are very special"
+    } ]
+  }, {
+    "tStartMs": 613900,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "They are wrapped in glutinous rice on the outside"
+    } ]
+  }, {
+    "tStartMs": 618300,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "Very special"
+    } ]
+  }, {
+    "tStartMs": 619166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "But they are meatballs"
+    } ]
+  }, {
+    "tStartMs": 621066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "The outside is glutinous rice"
+    } ]
+  }, {
+    "tStartMs": 622866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "The inside is meat"
+    } ]
+  }, {
+    "tStartMs": 624466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Sausages"
+    } ]
+  }, {
+    "tStartMs": 626300,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "Chicken breast sausages"
+    } ]
+  }, {
+    "tStartMs": 629533,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "These two sausages are made from chicken breast"
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And this one"
+    } ]
+  }, {
+    "tStartMs": 637300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "This one here is hot pot base"
+    } ]
+  }, {
+    "tStartMs": 640733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Hot pot, everyone knows it, right?"
+    } ]
+  }, {
+    "tStartMs": 643233,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "China's most famous dish—hot pot"
+    } ]
+  }, {
+    "tStartMs": 646833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hot pot base"
+    } ]
+  }, {
+    "tStartMs": 648500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "When everyone eats spicy hot pot,"
+    } ]
+  }, {
+    "tStartMs": 651100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "this is what goes into the hot pot."
+    } ]
+  }, {
+    "tStartMs": 655166,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "This is the soul of Malatang."
+    } ]
+  }, {
+    "tStartMs": 657933,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Without it,"
+    } ]
+  }, {
+    "tStartMs": 658933,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the flavor won't be good or authentic."
+    } ]
+  }, {
+    "tStartMs": 663366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Also, milk."
+    } ]
+  }, {
+    "tStartMs": 665966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "Actually, milk is added to Malatang."
+    } ]
+  }, {
+    "tStartMs": 669133,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "Did everyone know that?"
+    } ]
+  }, {
+    "tStartMs": 672300,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Alright, now let me quickly make some spicy hot pot noodles."
+    } ]
+  }, {
+    "tStartMs": 680966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Light the fire."
+    } ]
+  }, {
+    "tStartMs": 683000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Turn on the heat."
+    } ]
+  }, {
+    "tStartMs": 685266,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "First, put the hot pot base in."
+    } ]
+  }, {
+    "tStartMs": 690600,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "The aroma of hot pot wafts over immediately."
+    } ]
+  }, {
+    "tStartMs": 694466,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "I smell a strong hot pot fragrance."
+    } ]
+  }, {
+    "tStartMs": 698566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It's the scent coming from it."
+    } ]
+  }, {
+    "tStartMs": 701700,
+    "dDurationMs": 5733,
+    "segs": [ {
+      "utf8": "This block of hot pot base will slowly melt in the pot."
+    } ]
+  }, {
+    "tStartMs": 709833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Wow, it smells delicious."
+    } ]
+  }, {
+    "tStartMs": 711266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "My mouth is starting to water."
+    } ]
+  }, {
+    "tStartMs": 717000,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "The hotpot base has completely melted, so fragrant."
+    } ]
+  }, {
+    "tStartMs": 721433,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Now my whole kitchen is filled with the aroma of the hotpot base."
+    } ]
+  }, {
+    "tStartMs": 726900,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "We can turn the heat up a bit."
+    } ]
+  }, {
+    "tStartMs": 730833,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Next, we're going to pour in the milk."
+    } ]
+  }, {
+    "tStartMs": 744433,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And also add some water."
+    } ]
+  }, {
+    "tStartMs": 756400,
+    "dDurationMs": 7466,
+    "segs": [ {
+      "utf8": "I really never expected milk and hotpot base to go so well together."
+    } ]
+  }, {
+    "tStartMs": 764066,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "They can actually be used together in cooking."
+    } ]
+  }, {
+    "tStartMs": 768200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Now, we need to wait for it to boil."
+    } ]
+  }, {
+    "tStartMs": 771100,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Once it boils, we can put the ingredients in."
+    } ]
+  }, {
+    "tStartMs": 775866,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "It is boiling now."
+    } ]
+  }, {
+    "tStartMs": 779133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "\"Gurgle gurgle,\" it is boiling."
+    } ]
+  }, {
+    "tStartMs": 780833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Now we can put all the ingredients in to cook."
+    } ]
+  }, {
+    "tStartMs": 785333,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "Now, we can put the ones that take longer to cook in first."
+    } ]
+  }, {
+    "tStartMs": 789666,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "The ones that cook more easily"
+    } ]
+  }, {
+    "tStartMs": 791100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "can be added a bit later."
+    } ]
+  }, {
+    "tStartMs": 793333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "Relatively speaking,"
+    } ]
+  }, {
+    "tStartMs": 795200,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "potatoes are harder to cook through,"
+    } ]
+  }, {
+    "tStartMs": 797933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "so add the potatoes first."
+    } ]
+  }, {
+    "tStartMs": 803700,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Next are the fish balls."
+    } ]
+  }, {
+    "tStartMs": 808300,
+    "dDurationMs": 5166,
+    "segs": [ {
+      "utf8": "The fish balls and sausages can go in now too."
+    } ]
+  }, {
+    "tStartMs": 821966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "Lamb cooks quickly,"
+    } ]
+  }, {
+    "tStartMs": 823933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so it can be added a bit later."
+    } ]
+  }, {
+    "tStartMs": 827300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Frozen tofu."
+    } ]
+  }, {
+    "tStartMs": 836666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Spinach can also be added now."
+    } ]
+  }, {
+    "tStartMs": 844000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "When making spicy hot pot,"
+    } ]
+  }, {
+    "tStartMs": 845433,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "everyone can add whatever they like to eat,"
+    } ]
+  }, {
+    "tStartMs": 849233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and it will basically taste great."
+    } ]
+  }, {
+    "tStartMs": 854000,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "The broth looks very rich."
+    } ]
+  }, {
+    "tStartMs": 858166,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "Because the hot pot base already has flavor in it,"
+    } ]
+  }, {
+    "tStartMs": 861600,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "so there's no need to add any other seasonings."
+    } ]
+  }, {
+    "tStartMs": 866500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Isn't it simple?"
+    } ]
+  }, {
+    "tStartMs": 870700,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "Lamb."
+    } ]
+  }, {
+    "tStartMs": 874400,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Wait until it's all cooked, and then we can eat."
+    } ]
+  }, {
+    "tStartMs": 878200,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "Isn't it simple?"
+    } ]
+  }, {
+    "tStartMs": 883133,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "My spicy hot pot is finally ready."
+    } ]
+  }, {
+    "tStartMs": 891666,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Doesn't it look appetizing?"
+    } ]
+  }, {
+    "tStartMs": 895700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "One of the reasons I like eating spicy hot pot is that"
+    } ]
+  }, {
+    "tStartMs": 900066,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "with spicy hot pot, I can eat many different foods."
+    } ]
+  }, {
+    "tStartMs": 905166,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You can give it a try too."
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+# Channels to pull clips from. Re-run fetch_transcripts.py to pick up new uploads.
+#
+# name        anything you like, used only in logs
+# url         channel URL, @handle, playlist URL, or a bare video URL
+# max_videos  how many of the newest to consider (blank = 30)
+#
+# Channels that publish real Chinese subtitles give far better clips than ones
+# relying on auto-captions, which have no punctuation and frequent recognition
+# errors. fetch_transcripts.py prefers manual tracks and marks anything
+# auto-generated so build_clips.py can skip it.
+#
+# max_videos is 3 everywhere for a first run. Raise it once you see which of
+# these actually carry usable subtitles.
+name,url,max_videos
+Talkin Chinese,https://www.youtube.com/@talkinChinese_redred,5
+Little Chinese Everywhere,https://www.youtube.com/@littlechineseeverywhere,5
+Chinese with Xiaonita,https://www.youtube.com/@chinese.with.xiaonita,5
+Sherry Peng,https://www.youtube.com/@SherryPeng-ii9vv,5
+Shasha77,https://www.youtube.com/@shasha77,5
+Chinese at Dawn,https://www.youtube.com/@chinese-at-dawn,5
+Maomi in China,https://www.youtube.com/@MaomikainChina,5
+Chinese KK,https://www.youtube.com/@chinesekk,5
+Chinese Daily Podcast,https://www.youtube.com/@ChineseDailyPodcast,5
+Sensoba Chinese,https://www.youtube.com/@SensobaChinese,5
+Chinese with Mini,https://www.youtube.com/@chinesewithmini,5
+Acquiring Chinese,https://www.youtube.com/@AcquiringChinese,5
+Jiayou,https://www.youtube.com/@jiayouchinese2023/videos,5
+Angela,https://www.youtube.com/@Angela-Chinese,5
+Vicord,https://www.youtube.com/@vicordchinese5077,5

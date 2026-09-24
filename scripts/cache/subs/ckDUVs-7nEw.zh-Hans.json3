@@ -1,0 +1,3187 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 700,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "hello大家好\nhello dàjiā hǎo"
+    } ]
+  }, {
+    "tStartMs": 1933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我是莫妮卡\nwǒ shì mò nī kǎ"
+    } ]
+  }, {
+    "tStartMs": 3566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "欢迎来到Chat-Chat with Monica\nhuānyíng láidào Chat-Chat with Monica"
+    } ]
+  }, {
+    "tStartMs": 6333,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这是一档为中文学习者和\nzhè shì yī dàng wèi zhōngwén xuéxí zhě hé"
+    } ]
+  }, {
+    "tStartMs": 8733,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "中文爱好者提供的中文播客\nzhōngwén àihàozhě tígōng de zhōngwén bōkè"
+    } ]
+  }, {
+    "tStartMs": 11800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "在这里你可以听到\nzài zhèlǐ nǐ kěyǐ tīngdào"
+    } ]
+  }, {
+    "tStartMs": 13866,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "学到各种与中文以及\nxué dào gèzhǒng yǔ zhōngwén yǐjí"
+    } ]
+  }, {
+    "tStartMs": 16300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "中国相关的话题\nzhōngguó xiāngguān dehuà tí"
+    } ]
+  }, {
+    "tStartMs": 18200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "如果你对此感兴趣\nrúguǒ nǐ duì cǐ gǎnxìngqù"
+    } ]
+  }, {
+    "tStartMs": 20066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "那就千万不要错过\nnà jiù qiānwàn bùyào cuòguò"
+    } ]
+  }, {
+    "tStartMs": 24133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "嗯首先呢\nń shǒuxiān ne"
+    } ]
+  }, {
+    "tStartMs": 27766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "首先呢想要和大家say hello again\nshǒuxiān ne xiǎngyào hé dàjiā say hello again"
+    } ]
+  }, {
+    "tStartMs": 31533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "祝大家新年快乐\nzhù dàjiā xīnniánkuàilè"
+    } ]
+  }, {
+    "tStartMs": 33333,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "万事如意\nwànshìrúyì"
+    } ]
+  }, {
+    "tStartMs": 34766,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "这好像是我第二次做春联了！做对联！\nzhè hǎoxiàng shì wǒ dìèrcì zuò chūnlián le! zuò duìlián!"
+    } ]
+  }, {
+    "tStartMs": 39266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "没有办法\nméiyǒu bànfǎ"
+    } ]
+  }, {
+    "tStartMs": 39966,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "我们中国人还是要过两次新年的哦\nwǒmen zhōngguórén háishi yào guò liǎng cì xīnnián de ó"
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "想和大家分享一下我\nxiǎng hé dàjiā fēnxiǎng yīxià wǒ"
+    } ]
+  }, {
+    "tStartMs": 46633,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "消失的这段时间做了什么\nxiāoshī de zhè duàn shíjiān zuò le shénme"
+    } ]
+  }, {
+    "tStartMs": 49466,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "一开始呢\nyī kāishǐ ne"
+    } ]
+  }, {
+    "tStartMs": 50766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "是去年年底的时候\nshì qùnián niándǐ de shíhou"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "突然接到了一个项目\ntūrán jiēdào le yígè xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 55100,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "这个项目呢\nzhège xiàngmù ne"
+    } ]
+  }, {
+    "tStartMs": 56066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "比较着急\nbǐjiào zháojí"
+    } ]
+  }, {
+    "tStartMs": 57933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "也是因为我们中国快要到年底放假了\nyě shì yīnwèi wǒmen zhōngguó kuàiyào dào niándǐ fàngjià le"
+    } ]
+  }, {
+    "tStartMs": 61366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "但是海外没有对吧\ndànshì hǎiwài méiyǒu duì ba"
+    } ]
+  }, {
+    "tStartMs": 63633,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "所以呢这个期间我就跟着我的同事们\nsuǒyǐ ne zhège qījiān wǒ jiù gēnzhe wǒ de tóngshì men"
+    } ]
+  }, {
+    "tStartMs": 68566,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "一起在整个春节假期期间\nyīqǐ zài zhěnggè chūnjié jiàqī qījiān"
+    } ]
+  }, {
+    "tStartMs": 72133,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "把这个项目做完了\nbǎ zhège xiàngmù zuòwán le"
+    } ]
+  }, {
+    "tStartMs": 74333,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "第二件事情呢\ndìèr jiàn shìqing ne"
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就是我也不知道为什么\njiùshì wǒ yě bùzhī dào wèishénme"
+    } ]
+  }, {
+    "tStartMs": 77500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "突然就在春节期间\ntūrán jiù zài chūnjié qījiān"
+    } ]
+  }, {
+    "tStartMs": 79133,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "接到了很多新的学生\njiēdào le hěn duō xīn de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 82166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这个让我有点震惊啊\nzhège ràng wǒ yǒudiǎn zhènjīng a"
+    } ]
+  }, {
+    "tStartMs": 84066,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "而且都是零基础的学生\nérqiě dōu shì língjīchǔ de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 86300,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "说实话我之前零基础的教学经验呢\nshuōshíhuà wǒ zhīqián língjīchǔ de jiàoxué jīngyàn ne"
+    } ]
+  }, {
+    "tStartMs": 89266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "不是特别多但是呢\nbùshì tèbié duō dànshì ne"
+    } ]
+  }, {
+    "tStartMs": 91366,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "经过这快要两个月的这段时间的\njīngguò zhè kuàiyào liǎnggeyuè de zhè duàn shíjiān de"
+    } ]
+  }, {
+    "tStartMs": 97033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "锻炼吧\nduànliàn ba"
+    } ]
+  }, {
+    "tStartMs": 98600,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "一个是锻炼\nyígè shì duànliàn"
+    } ]
+  }, {
+    "tStartMs": 99666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后再加上准备\nránhòu zàijiāshang zhǔnbèi"
+    } ]
+  }, {
+    "tStartMs": 100966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我觉得我现在教零基础\nwǒ juéde wǒ xiànzài jiào língjīchǔ"
+    } ]
+  }, {
+    "tStartMs": 102833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "算是我的舒适区了\nsuànshì wǒ de shūshì qū le"
+    } ]
+  }, {
+    "tStartMs": 104866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我还蛮喜欢教零基础的学生的\nwǒ hái mán xǐhuan jiào língjīchǔ de xuésheng de"
+    } ]
+  }, {
+    "tStartMs": 107400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "如果有这样的同学\nrúguǒ yǒu zhèyàng de tóngxué"
+    } ]
+  }, {
+    "tStartMs": 110033,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "想要从头开始学中文的\nxiǎngyào cóngtóu kāishǐ xué zhōngwén de"
+    } ]
+  }, {
+    "tStartMs": 112200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "也可以来找我报名哦\nyě kěyǐ lái zhǎo wǒ bàomíng ó"
+    } ]
+  }, {
+    "tStartMs": 114666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "嗯想要和大家分享一下\nń xiǎngyào hé dàjiā fēnxiǎng yīxià"
+    } ]
+  }, {
+    "tStartMs": 116633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "因为我一开始接到了\nyīnwèi wǒ yī kāishǐ jiēdào le"
+    } ]
+  }, {
+    "tStartMs": 118233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "第一个零基础的学生呢啊\ndìyī gè língjīchǔ de xuésheng ne a"
+    } ]
+  }, {
+    "tStartMs": 120800,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "那我呢也是和他一起讨论了一下\nnà wǒ ne yě shì hé tā yīqǐ tǎolùn le yīxià"
+    } ]
+  }, {
+    "tStartMs": 123133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "是否要用一些教材\nshìfǒu yào yòng yīxiē jiàocái"
+    } ]
+  }, {
+    "tStartMs": 125100,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "但是后来呢\ndànshì hòulái ne"
+    } ]
+  }, {
+    "tStartMs": 126133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "我决定自己开发了一套教程\nwǒ juédìng zìjǐ kāifā le yītào jiàochéng"
+    } ]
+  }, {
+    "tStartMs": 129300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "然后现在我所有的学生\nránhòu xiànzài wǒ suǒyǒu de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 131300,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "我所有的零基础的学生\nwǒ suǒyǒu de língjīchǔ de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 132766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "可能有7个到8个吧\nkěnéng yǒu 7 gè dào 8 gè ba"
+    } ]
+  }, {
+    "tStartMs": 134533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "都是使用我自己开发的这套教程的\ndōu shì shǐyòng wǒ zìjǐ kāifā de zhè tào jiàochéng de"
+    } ]
+  }, {
+    "tStartMs": 138066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "哈哈哈我自己开发了一套教程\nhāhā hā wǒ zìjǐ kāifā le yītào jiàochéng"
+    } ]
+  }, {
+    "tStartMs": 140866,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我就是很喜欢做这样的事情\nwǒ jiùshì hěn xǐhuan zuò zhèyàng de shìqing"
+    } ]
+  }, {
+    "tStartMs": 142600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我很喜欢开发一些东西\nwǒ hěn xǐhuan kāifā yīxiē dōngxi"
+    } ]
+  }, {
+    "tStartMs": 144500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我觉得这套教程就是对\nwǒ juéde zhè tào jiàochéng jiùshì duì"
+    } ]
+  }, {
+    "tStartMs": 146600,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "一些人是比较有效的\nyīxiē rén shì bǐjiào yǒuxiào de"
+    } ]
+  }, {
+    "tStartMs": 149133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "对一些人的效果呢\nduì yīxiē rén de xiàoguǒ ne"
+    } ]
+  }, {
+    "tStartMs": 150833,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "不是很明显\nbùshì hěn míngxiǎn"
+    } ]
+  }, {
+    "tStartMs": 152333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "所以呢就是我觉得啊\nsuǒyǐ ne jiùshì wǒ juéde a"
+    } ]
+  }, {
+    "tStartMs": 154233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这个从某种程度上面呢\nzhège cóng mǒuzhǒng chéngdù shàngmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 156166,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "也可以说明呢\nyě kěyǐ shuōmíng ne"
+    } ]
+  }, {
+    "tStartMs": 157366,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "就是学生和老师的气场合不合\njiùshì xuésheng hé lǎoshī de qìcháng hé bùhé"
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个一对一的老师呢\nzhège yīduì yī de lǎoshī ne"
+    } ]
+  }, {
+    "tStartMs": 161100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "也要看合不合适\nyě yàokàn hé bùhé shì"
+    } ]
+  }, {
+    "tStartMs": 162933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就跟谈恋爱一样\njiù gēn tánliànài yīyàng"
+    } ]
+  }, {
+    "tStartMs": 164433,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "你找的这个老师说话的这种风格\nnǐ zhǎo de zhège lǎoshī shuōhuà de zhèzhǒng fēnggé"
+    } ]
+  }, {
+    "tStartMs": 166966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "教学的风格是不是适合你\njiàoxué de fēnggé shìbùshì shìhé nǐ"
+    } ]
+  }, {
+    "tStartMs": 169700,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "是不是你\nshìbùshì nǐ"
+    } ]
+  }, {
+    "tStartMs": 170900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "是不是适合你自己的一个学习的风格\nshìbùshì shìhé nǐ zìjǐ de yígè xuéxí de fēnggé"
+    } ]
+  }, {
+    "tStartMs": 174600,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "对吧\nduì ba"
+    } ]
+  }, {
+    "tStartMs": 175833,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "我觉得这也是\nwǒ juéde zhè yě shì"
+    } ]
+  }, {
+    "tStartMs": 176766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "为什么各种平台\nwèishénme gèzhǒng píngtái"
+    } ]
+  }, {
+    "tStartMs": 178500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "设置这种试听课的一个理由吧\nshèzhì zhèzhǒng shìtīng kè de yígè lǐyóu ba"
+    } ]
+  }, {
+    "tStartMs": 181466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "但是我很讨厌某平台\ndànshì wǒ hěn tǎoyàn mǒu píngtái"
+    } ]
+  }, {
+    "tStartMs": 182933,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "就是试听课不给老师钱\njiùshì shìtīng kè bù gěi lǎoshī qián"
+    } ]
+  }, {
+    "tStartMs": 185600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "那老师为了准备这个试听课\nnà lǎoshī wèile zhǔnbèi zhège shìtīng kè"
+    } ]
+  }, {
+    "tStartMs": 188200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "投入的这些时间精力\ntóurù de zhèxiē shíjiān jīnglì"
+    } ]
+  }, {
+    "tStartMs": 190866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "到最后呢\ndào zuìhòu ne"
+    } ]
+  }, {
+    "tStartMs": 191933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "其实还要忍受\nqíshí hái yào rěnshòu"
+    } ]
+  }, {
+    "tStartMs": 193600,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "学生如果在试听之后没有\nxuésheng rúguǒ zài shìtīng zhīhòu méiyǒu"
+    } ]
+  }, {
+    "tStartMs": 197600,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "继续地订阅你的课程\njìxù dì dìngyuè nǐ de kèchéng"
+    } ]
+  }, {
+    "tStartMs": 199466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这个对我们的排名是有很大的影响的\nzhège duì wǒmen de páimíng shì yǒu hěn dà de yǐngxiǎng de"
+    } ]
+  }, {
+    "tStartMs": 202366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我也不可能让每一个人都喜欢我\nwǒ yě bùkěnéng ràng měiyī gèrén dōu xǐhuan wǒ"
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "对吗哈哈哈对吧\nduì ma hāhā hā duì ba"
+    } ]
+  }, {
+    "tStartMs": 207100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "而且选择是很双向的一个事情\nérqiě xuǎnzé shì hěn shuāngxiàng de yígè shìqing"
+    } ]
+  }, {
+    "tStartMs": 209700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我一直到现在\nwǒ yīzhí dàoxiànzài"
+    } ]
+  }, {
+    "tStartMs": 210700,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "我也有很多的学生\nwǒ yě yǒu hěn duō de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 211966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "试听过之后我就直接把他们拉黑了\nshìtīng guò zhīhòu wǒ jiù zhíjiē bǎ tāmen lāhēi le"
+    } ]
+  }, {
+    "tStartMs": 214333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我也不想要教这样的学生\nwǒ yě bùxiǎng yào jiào zhèyàng de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 216766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "并不是说我很讨厌这个人\nbìngbù shì shuō wǒ hěn tǎoyàn zhège rén"
+    } ]
+  }, {
+    "tStartMs": 218800,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "而是呢就是大家都是成年人\nérshì ne jiùshì dàjiā dōu shì chéngniánrén"
+    } ]
+  }, {
+    "tStartMs": 221266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "在交流的过程里面呢\nzài jiāoliú de guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 223100,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "大概也能知道啊\ndàgài yě néng zhīdào a"
+    } ]
+  }, {
+    "tStartMs": 224400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "就是气场合不合\njiùshì qìcháng hé bùhé"
+    } ]
+  }, {
+    "tStartMs": 226066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "而且我也不是什么\nérqiě wǒ yě bùshì shénme"
+    } ]
+  }, {
+    "tStartMs": 227700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "公立学校的一个专业的老师\ngōnglìxuéxiào de yígè zhuānyè de lǎoshī"
+    } ]
+  }, {
+    "tStartMs": 230733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "我是有自己选择的权利的所以呢\nwǒ shì yǒu zìjǐ xuǎnzé de quánlì de suǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 233466,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "那我呢我也不知道为什么\nnà wǒ ne wǒ yě bùzhī dào wèishénme"
+    } ]
+  }, {
+    "tStartMs": 235633,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "就是过年期间呢\njiùshì guònián qījiān ne"
+    } ]
+  }, {
+    "tStartMs": 238033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我一边在家忙项目\nwǒ yībiān zài jiā máng xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 239866,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "它项目呢\ntā xiàngmù ne"
+    } ]
+  }, {
+    "tStartMs": 240700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "就是项目它是这个样子\njiùshì xiàngmù tā shì zhège yàngzi"
+    } ]
+  }, {
+    "tStartMs": 242866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "它有很多交流的过程\ntā yǒu hěn duō jiāoliú de guòchéng"
+    } ]
+  }, {
+    "tStartMs": 245133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我接的这个项目在过年期间\nwǒ jiē de zhège xiàngmù zài guònián qījiān"
+    } ]
+  }, {
+    "tStartMs": 247800,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "差不多就是两三天开一次会\nchàbuduō jiùshì liǎng sān tiān kāi yīcì huì"
+    } ]
+  }, {
+    "tStartMs": 249933,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那我每天投入3个小时呢\nnà wǒ měitiān tóurù 3 gè xiǎoshí ne"
+    } ]
+  }, {
+    "tStartMs": 251866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "就忙项目上面的内容就可以了\njiù máng xiàngmù shàngmiàn de nèiróng jiù kěyǐ le"
+    } ]
+  }, {
+    "tStartMs": 254466,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "其余的时间呢\nqíyú de shíjiān ne"
+    } ]
+  }, {
+    "tStartMs": 255633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "我基本上就在电脑面前坐着\nwǒ jīběnshang jiù zài diànnǎo miànqián zuò zhe"
+    } ]
+  }, {
+    "tStartMs": 258266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "另外呢\nlìngwài ne"
+    } ]
+  }, {
+    "tStartMs": 259600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我现在不是大学老师吗\nwǒ xiànzài bùshì dàxué lǎoshī ma"
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "对吧我所在的大学呢\nduì ba wǒ suǒzài de dàxué ne"
+    } ]
+  }, {
+    "tStartMs": 263833,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "也已经开学了其实呢\nyě yǐjīng kāixué le qíshí ne"
+    } ]
+  }, {
+    "tStartMs": 266066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "都已经是学期中了吧\ndōu yǐjīng shì xuéqī zhōng le ba"
+    } ]
+  }, {
+    "tStartMs": 268266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我那我每个星期呢要上一堂课\nwǒ nà wǒ měi gè xīngqī ne yào shàng yī táng kè"
+    } ]
+  }, {
+    "tStartMs": 270633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "剩余的时间呢\nshèngyú de shíjiān ne"
+    } ]
+  }, {
+    "tStartMs": 271933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "都要给学生改paper改作业\ndōu yào gěi xuésheng gǎi paper gǎi zuòyè"
+    } ]
+  }, {
+    "tStartMs": 275100,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "所以我都所以我都笑称我每天\nsuǒyǐ wǒ dōu suǒyǐ wǒ dōu xiào chēng wǒ měitiān"
+    } ]
+  }, {
+    "tStartMs": 278766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "一睁开眼睛就是改无数的作业哈哈\nyī zhēngkāi yǎnjing jiùshì gǎi wúshù de zuòyè hāhā"
+    } ]
+  }, {
+    "tStartMs": 281800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "所以大学的工作\nsuǒyǐ dàxué de gōngzuò"
+    } ]
+  }, {
+    "tStartMs": 283300,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "再加上我年底接了一个比较着急的项目\nzàijiāshang wǒ niándǐ jiē le yígè bǐjiào zháojí de xiàngmù"
+    } ]
+  }, {
+    "tStartMs": 287066,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "然后呢再加上我莫名其妙地接到了\nránhòu ne zàijiāshang wǒ mòmíngqímiào dìjiē dàoliǎo"
+    } ]
+  }, {
+    "tStartMs": 290700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "七八个零基础的学生\nqī bā gè língjīchǔ de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 292933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "所以呢就让我\nsuǒyǐ ne jiù ràng wǒ"
+    } ]
+  }, {
+    "tStartMs": 294866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "过去的两个月变得异常忙碌\nguòqu de liǎnggeyuè biànde yìcháng mánglù"
+    } ]
+  }, {
+    "tStartMs": 297200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "我甚至有两个星期忙到上火\nwǒ shènzhì yǒu liǎng gè xīngqī máng dào shànghuǒ"
+    } ]
+  }, {
+    "tStartMs": 301666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "上火呢是中医里面的一个概念啊\nshànghuǒ ne shì zhōngyī lǐmiàn de yígè gàiniàn a"
+    } ]
+  }, {
+    "tStartMs": 304666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "上火其实就是身体里面有炎症\nshànghuǒ qíshí jiùshì shēntǐ lǐmiàn yǒu yánzhèng"
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "那我的表现呢\nnà wǒ de biǎoxiàn ne"
+    } ]
+  }, {
+    "tStartMs": 308100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "就表现在我舌头出了问题哈哈哈\njiù biǎoxiàn zài wǒ shétou chū le wèntí hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 312833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我觉得就是\nwǒ juéde jiùshì"
+    } ]
+  }, {
+    "tStartMs": 315633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "作为一个人类其实很奇妙\nzuòwéi yīgèrén lèi qíshí hěn qímiào"
+    } ]
+  }, {
+    "tStartMs": 317833,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "就是你每年身体的自己的一个变化呢\njiùshì nǐ měinián shēntǐ de zìjǐ de yígè biànhuà ne"
+    } ]
+  }, {
+    "tStartMs": 320766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "它都是不一样的\ntā dōu shì bùyīyàng de"
+    } ]
+  }, {
+    "tStartMs": 322400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那我以前上火的话\nnà wǒ yǐqián shànghuǒ dehuà"
+    } ]
+  }, {
+    "tStartMs": 323800,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我可能就是啊\nwǒ kěnéng jiùshì a"
+    } ]
+  }, {
+    "tStartMs": 325966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "舌头上面或者是嘴巴里面长口腔溃疡\nshétou shàngmiàn huòzhě shì zuǐba lǐmiàn zhǎng kǒuqiāng kuìyáng"
+    } ]
+  }, {
+    "tStartMs": 329733,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "或者有其他一些身体上面的反应\nhuòzhě yǒu qítā yīxiē shēntǐ shàngmiàn de fǎnyìng"
+    } ]
+  }, {
+    "tStartMs": 333000,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "但是这次我上火上的特别严重\ndànshì zhè cì wǒ shànghuǒ shàng de tèbié yánzhòng"
+    } ]
+  }, {
+    "tStartMs": 336200,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "就是我舌头下面啊有有一个部分\njiùshì wǒ shétou xiàmiàn a yǒu yǒu yígè bùfen"
+    } ]
+  }, {
+    "tStartMs": 341433,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "那我就是呢\nnà wǒ jiùshì ne"
+    } ]
+  }, {
+    "tStartMs": 342366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "舌头下面有一个部分呢\nshétou xiàmiàn yǒu yígè bùfen ne"
+    } ]
+  }, {
+    "tStartMs": 344200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "肿起来了\nzhǒng qilai le"
+    } ]
+  }, {
+    "tStartMs": 345733,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "给我吓得不轻哦哈哈哈\ngěi wǒ xià dé bù qīng ó hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 350166,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "给我吓得不轻\ngěi wǒ xià dé bù qīng"
+    } ]
+  }, {
+    "tStartMs": 351200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "然后我过年期间还去医院呢\nránhòu wǒ guònián qījiān hái qù yīyuàn ne"
+    } ]
+  }, {
+    "tStartMs": 353900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "去检查了一下啊\nqù jiǎnchá le yīxià a"
+    } ]
+  }, {
+    "tStartMs": 355400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "医生只是说我上火了\nyīshēng zhǐshì shuō wǒ shànghuǒ le"
+    } ]
+  }, {
+    "tStartMs": 357700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "啊这个让我害怕\na zhège ràng wǒ hàipà"
+    } ]
+  }, {
+    "tStartMs": 359633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "因为你舌头自己\nyīnwèi nǐ shétou zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 362333,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "舌头在嘴巴里面转来转去呢\nshétou zài zuǐba lǐmiàn zhuànláizhuànqù ne"
+    } ]
+  }, {
+    "tStartMs": 364566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "你也会发现一些异常\nnǐ yě huì fāxiàn yīxiē yìcháng"
+    } ]
+  }, {
+    "tStartMs": 366666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "我一开始呢\nwǒ yī kāishǐ ne"
+    } ]
+  }, {
+    "tStartMs": 367433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "只是舌头下面有一个小疙瘩\nzhǐshì shétou xiàmiàn yǒu yígè xiǎo gēda"
+    } ]
+  }, {
+    "tStartMs": 369900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "就是硬硬的一个疙瘩然后呢\njiùshì yìng yìng de yígè gēda ránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 373466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我就每天都在舔它\nwǒ jiù měitiān dōu zài tiǎn tā"
+    } ]
+  }, {
+    "tStartMs": 374700,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "我就看\nwǒ jiù kàn"
+    } ]
+  }, {
+    "tStartMs": 375333,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "那我也要观察它有没有变大对吧\nnà wǒ yě yào guānchá tā yǒu méiyǒu biàn dà duì ba"
+    } ]
+  }, {
+    "tStartMs": 378066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "谁也不知道\nshuí yě bùzhī dào"
+    } ]
+  }, {
+    "tStartMs": 378966,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "嗯然后呢\nń ránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我去医院检查的时候\nwǒqù yīyuàn jiǎnchá de shíhou"
+    } ]
+  }, {
+    "tStartMs": 381400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "医生告诉我是不是最近休息的很少\nyīshēng gàosu wǒ shìbùshì zuìjìn xiūxi de hěn shǎo"
+    } ]
+  }, {
+    "tStartMs": 383966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "是不是最近工作很忙\nshìbùshì zuìjìn gōngzuò hěn máng"
+    } ]
+  }, {
+    "tStartMs": 385766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "哈哈哈还问我是不是因为\nhāhā hā hái wèn wǒ shìbùshì yīnwèi"
+    } ]
+  }, {
+    "tStartMs": 387800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "最近吃了太多辣的东西\nzuìjìn chī le tài duō là de dōngxi"
+    } ]
+  }, {
+    "tStartMs": 390400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "而且呢\nérqiě ne"
+    } ]
+  }, {
+    "tStartMs": 391666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就是很多人在过年期间呢\njiùshì hěn duō rén zài guònián qījiān ne"
+    } ]
+  }, {
+    "tStartMs": 393566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "会吃很多的干货\nhuì chī hěn duō de gānhuò"
+    } ]
+  }, {
+    "tStartMs": 395500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "干货呢就是指瓜子啊\ngānhuò ne jiùshì zhǐ guāzǐ a"
+    } ]
+  }, {
+    "tStartMs": 397566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这些坚果类的\nzhèxiē jiānguǒ lèi de"
+    } ]
+  }, {
+    "tStartMs": 399566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "或者吃很多的零食\nhuòzhě chī hěn duō de língshí"
+    } ]
+  }, {
+    "tStartMs": 401700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "啊还有是不是熬夜了嗯\na háiyǒu shìbùshì áoyè le ń"
+    } ]
+  }, {
+    "tStartMs": 403600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那我其实呢\nnà wǒ qíshí ne"
+    } ]
+  }, {
+    "tStartMs": 404600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "中间有三个星期吧\nzhōngjiān yǒu sānge xīngqī ba"
+    } ]
+  }, {
+    "tStartMs": 406933,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "其实每天就只\nqíshí měitiān jiù zhǐ"
+    } ]
+  }, {
+    "tStartMs": 407966,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "就是就只睡三四个小时\njiùshì jiù zhǐ shuì sān sì gè xiǎoshí"
+    } ]
+  }, {
+    "tStartMs": 410133,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我5点钟起床\nwǒ 5 diǎnzhōng qǐchuáng"
+    } ]
+  }, {
+    "tStartMs": 411700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "晚上1点钟睡觉啊\nwǎnshang 1 diǎnzhōng shuìjiào a"
+    } ]
+  }, {
+    "tStartMs": 413700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "那我五点钟起床了之后呢\nnà wǒ wǔ diǎnzhōng qǐchuáng le zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 415600,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我就是在备课哈哈哈\nwǒ jiùshì zài bèikè hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 419666,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我想要说呢我唉\nwǒ xiǎngyào shuō ne wǒ āi"
+    } ]
+  }, {
+    "tStartMs": 421700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个问题呢\nzhège wèntí ne"
+    } ]
+  }, {
+    "tStartMs": 422500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我其实之前呢\nwǒ qíshí zhīqián ne"
+    } ]
+  }, {
+    "tStartMs": 423600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "没有离职之前啊\nméiyǒu lízhí zhīqián a"
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "就是在我开始我的Youtube之前\njiùshì zài wǒ kāishǐ wǒ de Youtube zhīqián"
+    } ]
+  }, {
+    "tStartMs": 428200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "我就一直有这个问题\nwǒ jiù yīzhí yǒu zhège wèntí"
+    } ]
+  }, {
+    "tStartMs": 429800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我就是做事情有点拼命\nwǒ jiùshì zuòshì qíng yǒudiǎn pīnmìng"
+    } ]
+  }, {
+    "tStartMs": 432333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我就是不会劳逸结合\nwǒ jiùshì bùhuì láoyìjiéhé"
+    } ]
+  }, {
+    "tStartMs": 434133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "就如果我摆烂的时候呢\njiù rúguǒ wǒ bǎi làn de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 436833,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "比任何人都摆烂\nbǐ rènhé rén dōu bǎi làn"
+    } ]
+  }, {
+    "tStartMs": 438266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "那我忙起来有动力的时候呢\nnà wǒ máng qilai yǒu dònglì de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 440633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我比任何人都拼\nwǒ bǐ rènhé rén dōu pīn"
+    } ]
+  }, {
+    "tStartMs": 442200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个其实不好\nzhège qíshí bùhǎo"
+    } ]
+  }, {
+    "tStartMs": 444333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "就是有一点点不好\njiùshì yǒu yīdiǎndiǎn bùhǎo"
+    } ]
+  }, {
+    "tStartMs": 445566,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "就是经常会让自己特别特别累\njiùshì jīngcháng huì ràng zìjǐ tèbié tèbié lèi"
+    } ]
+  }, {
+    "tStartMs": 449366,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "就累到精疲力尽\njiù lèi dào jīngpílìjìn"
+    } ]
+  }, {
+    "tStartMs": 451966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我觉得我上火也是\nwǒ juéde wǒ shànghuǒ yě shì"
+    } ]
+  }, {
+    "tStartMs": 453466,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "就是身体告诉我啊\njiùshì shēntǐ gàosu wǒ a"
+    } ]
+  }, {
+    "tStartMs": 455100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你这段时间实在是太累了啊\nnǐ zhè duàn shíjiān shízài shì tài lèi le a"
+    } ]
+  }, {
+    "tStartMs": 457400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "以这样的一个形式\nyǐ zhèyàng de yígè xíngshì"
+    } ]
+  }, {
+    "tStartMs": 459200,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "把这种压力发泄出来了\nbǎ zhèzhǒng yālì fāxiè chulai le"
+    } ]
+  }, {
+    "tStartMs": 461866,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "哈哈哈那我后来好了吗\nhāhā hā nà wǒ hòulái hǎo le ma"
+    } ]
+  }, {
+    "tStartMs": 464333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "没有我自己都没有决定想要休息\nméiyǒu wǒ zìjǐ dōu méiyǒu juédìng xiǎngyào xiūxi"
+    } ]
+  }, {
+    "tStartMs": 467300,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "啊那这不是\na nà zhèbu shì"
+    } ]
+  }, {
+    "tStartMs": 469300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "渐渐的就流量就下来了嘛\njiànjiàn de jiù liúliàng jiù xiàlai le ma"
+    } ]
+  }, {
+    "tStartMs": 471700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "那一个呢也是因为呢项目做完了\nnà yígè ne yě shì yīnwèi ne xiàngmù zuòwán le"
+    } ]
+  }, {
+    "tStartMs": 473966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "第二件事情呢\ndìèr jiàn shìqing ne"
+    } ]
+  }, {
+    "tStartMs": 475266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "那零基础的学生有一两个\nnà língjīchǔ de xuésheng yǒu yī liǎng gè"
+    } ]
+  }, {
+    "tStartMs": 477266,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "他在一个月之后呢\ntā zài yígè yuè zhīhòu ne"
+    } ]
+  }, {
+    "tStartMs": 478500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "他们就不学了呀\ntāmen jiù bù xué le ya"
+    } ]
+  }, {
+    "tStartMs": 480500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "就是有的学生他就只是\njiùshì yǒude xuésheng tā jiù zhǐshì"
+    } ]
+  }, {
+    "tStartMs": 482166,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "这一个月他有这个时间\nzhè yígè yuè tā yǒu zhège shíjiān"
+    } ]
+  }, {
+    "tStartMs": 484333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "他想，他有这个兴趣\ntā xiǎng, tā yǒu zhège xìngqù"
+    } ]
+  }, {
+    "tStartMs": 485200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "就想要学一下\njiù xiǎngyào xué yīxià"
+    } ]
+  }, {
+    "tStartMs": 486466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "然后学了一个月之后他就不学了\nránhòu xué le yígè yuè zhīhòu tā jiù bù xué le"
+    } ]
+  }, {
+    "tStartMs": 488933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "那现在呢课程呢\nnà xiànzài ne kèchéng ne"
+    } ]
+  }, {
+    "tStartMs": 490733,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就比较稳定一点\njiù bǐjiào wěndìng yīdiǎn"
+    } ]
+  }, {
+    "tStartMs": 492200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "然后呢\nránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 493666,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我自己大学的工作呢\nwǒ zìjǐ dàxué de gōngzuò ne"
+    } ]
+  }, {
+    "tStartMs": 495166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我也已经适应了啊\nwǒ yě yǐjīng shìyìng le a"
+    } ]
+  }, {
+    "tStartMs": 497033,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我从第一期的视频呢\nwǒ cóng dìyī qī de shìpín ne"
+    } ]
+  }, {
+    "tStartMs": 498600,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "有和大家讲\nyǒu hé dàjiā jiǎng"
+    } ]
+  }, {
+    "tStartMs": 499733,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我其实很讨厌老师这个职业\nwǒ qíshí hěn tǎoyàn lǎoshī zhège zhíyè"
+    } ]
+  }, {
+    "tStartMs": 501866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "但是没有想到啊哈哈哈\ndànshì méiyǒu xiǎngdào āhā hāhā"
+    } ]
+  }, {
+    "tStartMs": 504333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "但是完全没有想到我现在\ndànshì wánquán méiyǒu xiǎngdào wǒ xiànzài"
+    } ]
+  }, {
+    "tStartMs": 506000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "是正式的一个老师了啊\nshì zhèngshì de yígè lǎoshī le a"
+    } ]
+  }, {
+    "tStartMs": 507966,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "那我现在呢\nnà wǒ xiànzài ne"
+    } ]
+  }, {
+    "tStartMs": 508666,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "是一个大学老师\nshì yígè dàxué lǎoshī"
+    } ]
+  }, {
+    "tStartMs": 509833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我也是一个中文老师对吧\nwǒ yě shì yígè zhōngwén lǎoshī duì ba"
+    } ]
+  }, {
+    "tStartMs": 511633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "哈哈哈我也是一个中文老师\nhāhā hā wǒ yě shì yígè zhōngwén lǎoshī"
+    } ]
+  }, {
+    "tStartMs": 514166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那我以前呢\nnà wǒ yǐqián ne"
+    } ]
+  }, {
+    "tStartMs": 514966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "可能教的比较多的是这种free talk啊\nkěnéng jiào de bǐjiào duō de shì zhèzhǒng free talk a"
+    } ]
+  }, {
+    "tStartMs": 517700,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "就是帮助大家完善一些口语表达\njiùshì bāngzhù dàjiā wánshàn yīxiē kǒuyǔ biǎodá"
+    } ]
+  }, {
+    "tStartMs": 521400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那我现在呢\nnà wǒ xiànzài ne"
+    } ]
+  }, {
+    "tStartMs": 522200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "从零基础或者中级别\ncóng língjīchǔ huòzhě zhōngjí bié"
+    } ]
+  }, {
+    "tStartMs": 524566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我都有学生\nwǒ dōu yǒu xuésheng"
+    } ]
+  }, {
+    "tStartMs": 525666,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "那我自己呢\nnà wǒ zìjǐ ne"
+    } ]
+  }, {
+    "tStartMs": 526433,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "也在备课\nyě zài bèikè"
+    } ]
+  }, {
+    "tStartMs": 527600,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这个备课的过程里面\nzhège bèikè de guòchéng lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 529033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "自己也重新学习了一遍中文\nzìjǐ yě chóngxīn xuéxí le yībiàn zhōngwén"
+    } ]
+  }, {
+    "tStartMs": 531033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "我觉得（学）语言还是蛮有意思的一件事情\nwǒ juéde (xué) yǔyán háishi mán yǒuyìsi de yī jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 534866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "包括我自己呢最近呢\nbāokuò wǒ zìjǐ ne zuìjìn ne"
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "因为时间又慢慢开始充裕了起来\nyīnwèi shíjiān yòu mànmàn kāishǐ chōngyù le qilai"
+    } ]
+  }, {
+    "tStartMs": 540300,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我也开始啊\nwǒ yě kāishǐ a"
+    } ]
+  }, {
+    "tStartMs": 541900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "从头开始学一学德语什么的\ncóngtóu kāishǐ xué yī xué déyǔ shénmede"
+    } ]
+  }, {
+    "tStartMs": 544466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "啊其实还蛮有意思的啊\na qíshí hái mán yǒuyìsi de a"
+    } ]
+  }, {
+    "tStartMs": 546066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "当我把我自己的德语书拿出来的时候\ndāng wǒ bǎ wǒ zìjǐ de déyǔ shū náchū lái de shíhou"
+    } ]
+  }, {
+    "tStartMs": 549433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一般就是A1级别的书里面呢\nyībān jiùshì A1 jíbié de shū lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 551733,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "都有自我介绍\ndōu yǒu zìwǒjièshào"
+    } ]
+  }, {
+    "tStartMs": 553233,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "然后这个时候呢\nránhòu zhège shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 554166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "有什么啊自我介绍的卡片\nyǒu shénme a zìwǒjièshào díkǎ piàn"
+    } ]
+  }, {
+    "tStartMs": 558000,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "啊我就发现\na wǒ jiù fāxiàn"
+    } ]
+  }, {
+    "tStartMs": 559566,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "当年我一开始学德语的时候是27岁\ndāngnián wǒ yī kāishǐ xué déyǔ de shíhou shì 27 suì"
+    } ]
+  }, {
+    "tStartMs": 563400,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "哈哈哈然后我就想起来自己在\nhāhā hā ránhòu wǒ jiù xiǎngqilai zìjǐ zài"
+    } ]
+  }, {
+    "tStartMs": 567533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "一开始学习自我介绍的时候呢\nyī kāishǐ xuéxí zìwǒjièshào de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 570133,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我27岁（德语版）\nwǒ 27 suì (déyǔ bǎn)"
+    } ]
+  }, {
+    "tStartMs": 573266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "哈哈哈还在说27岁呢\nhāhā hā hái zài shuō 27 suì ne"
+    } ]
+  }, {
+    "tStartMs": 576400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "啊一晃好多年过去了呀\na yīhuǎng hǎoduō nián guòqu le ya"
+    } ]
+  }, {
+    "tStartMs": 579733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "啊我最近总是会有这样那样的感慨\na wǒ zuìjìn zǒngshì huì yǒu zhèyàng nàyàng de gǎnkǎi"
+    } ]
+  }, {
+    "tStartMs": 583466,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "可能也是因为最近接触的一些学生\nkěnéng yě shì yīnwèi zuìjìn jiēchù de yīxiē xuésheng"
+    } ]
+  }, {
+    "tStartMs": 587266,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "都是我当年学习一些外语的年纪\ndōu shì wǒ dāngnián xuéxí yīxiē wàiyǔ de niánjì"
+    } ]
+  }, {
+    "tStartMs": 591200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "所以就给了我一些感触吧啊\nsuǒyǐ jiù gěi le wǒ yīxiē gǎnchù ba a"
+    } ]
+  }, {
+    "tStartMs": 593933,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我觉得还蛮有意思的\nwǒ juéde hái mán yǒuyìsi de"
+    } ]
+  }, {
+    "tStartMs": 595366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "有一些学生还是蛮有意思的啊\nyǒuyīxiē xuésheng háishi mán yǒuyìsi de a"
+    } ]
+  }, {
+    "tStartMs": 597433,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "其实说实话\nqíshí shuōshíhuà"
+    } ]
+  }, {
+    "tStartMs": 598433,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "我过去工作的五六年吧\nwǒ guòqu gōngzuò de wǔ liù nián ba"
+    } ]
+  }, {
+    "tStartMs": 601700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "我都很少有接触到比\nwǒ dōu hěn shǎoyǒu jiēchù dào bǐ"
+    } ]
+  }, {
+    "tStartMs": 603666,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "自己小很多很多的人\nzìjǐ xiǎo hěn duō hěn duō de rén"
+    } ]
+  }, {
+    "tStartMs": 606966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个是真话\nzhège shì zhēn huà"
+    } ]
+  }, {
+    "tStartMs": 607766,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "尤其是过去我三四年工作期间\nyóuqíshì guòqu wǒ sān sì nián gōngzuò qījiān"
+    } ]
+  }, {
+    "tStartMs": 611433,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我接触的都是和我\nwǒ jiēchù de dōu shì hé wǒ"
+    } ]
+  }, {
+    "tStartMs": 614033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "同龄的或者比我大的\ntónglíng de huòzhě bǐ wǒ dà de"
+    } ]
+  }, {
+    "tStartMs": 616333,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "大多数都是比我年纪大的\ndàduōshù dōu shì bǐ wǒ niánjì dà de"
+    } ]
+  }, {
+    "tStartMs": 620000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就哪怕我生活里面\njiù nǎpà wǒ shēnghuó lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 622500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "很少很少有比我年纪小的\nhěn shǎo hěn shǎoyǒu bǐ wǒ niánjì xiǎode"
+    } ]
+  }, {
+    "tStartMs": 624600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "好像大家就\nhǎoxiàng dàjiā jiù"
+    } ]
+  }, {
+    "tStartMs": 625500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "根本就不是生活在同一个世界里面\ngēnběn jiù bùshì shēnghuó zài tóngyī gè shìjiè lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 628100,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "我都已经很久很久没有接触到\nwǒ dōu yǐjīng hěn jiǔ hěn jiǔ méiyǒu jiēchù dào"
+    } ]
+  }, {
+    "tStartMs": 632233,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "比我年轻6岁以上的人吧哈哈哈\nbǐ wǒ niánqīng 6 suì yǐshàng de rén ba hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 637633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "6岁以上的人吧对吧\n6 suì yǐshàng de rén ba duì ba"
+    } ]
+  }, {
+    "tStartMs": 639566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "所以我最近在和他们\nsuǒyǐ wǒ zuìjìn zài hé tāmen"
+    } ]
+  }, {
+    "tStartMs": 641000,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "交流的过程里面呢\njiāoliú de guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 642366,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "我会觉得\nwǒ huì juéde"
+    } ]
+  }, {
+    "tStartMs": 643200,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "你说这个年纪相差很大吗\nnǐ shuō zhège niánjì xiāngchà hěn dà ma"
+    } ]
+  }, {
+    "tStartMs": 645866,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "好像也没有\nhǎoxiàng yě méiyǒu"
+    } ]
+  }, {
+    "tStartMs": 646933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "他们现在学习这个语言\ntāmen xiànzài xuéxí zhège yǔyán"
+    } ]
+  }, {
+    "tStartMs": 649400,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "从头开始学习一门语言的这个开始\ncóngtóu kāishǐ xuéxí yī mén yǔyán de zhège kāishǐ"
+    } ]
+  }, {
+    "tStartMs": 652700,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "和我当初自己学习\nhé wǒ dāngchū zìjǐ xuéxí"
+    } ]
+  }, {
+    "tStartMs": 654900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "不也差不多吗\nbù yě chàbuduō ma"
+    } ]
+  }, {
+    "tStartMs": 656233,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "哈哈哈对吧\nhāhā hā duì ba"
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "对\nduì"
+    } ]
+  }, {
+    "tStartMs": 658600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "就是有一些些\njiùshì yǒuyīxiē xiē"
+    } ]
+  }, {
+    "tStartMs": 661366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "所以呢这就是有一些些感慨吧\nsuǒyǐ ne zhè jiùshì yǒuyīxiē xiē gǎnkǎi ba"
+    } ]
+  }, {
+    "tStartMs": 664266,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "那同时呢\nnà tóngshí ne"
+    } ]
+  }, {
+    "tStartMs": 664966,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "我在教学的过程里面呢\nwǒ zàijiào xué de guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 667233,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我其实也想和大家分享一下\nwǒ qíshí yě xiǎng hé dàjiā fēnxiǎng yīxià"
+    } ]
+  }, {
+    "tStartMs": 669800,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "就是学习语言的一些经验吧\njiùshì xuéxí yǔyán de yīxiē jīngyàn ba"
+    } ]
+  }, {
+    "tStartMs": 672866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我自己来讲啊\nwǒ zìjǐ láijiǎng a"
+    } ]
+  }, {
+    "tStartMs": 674500,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "我其实学语言呢\nwǒ qíshí xué yǔyán ne"
+    } ]
+  }, {
+    "tStartMs": 675866,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "我有一点点的天赋\nwǒ yǒu yīdiǎndiǎn de tiānfù"
+    } ]
+  }, {
+    "tStartMs": 677400,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "这个呢\nzhège ne"
+    } ]
+  }, {
+    "tStartMs": 678033,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "我一直都是承认的\nwǒ yīzhí dōu shì chéngrèn de"
+    } ]
+  }, {
+    "tStartMs": 679300,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "就是我自己是模仿能力很强\njiùshì wǒ zìjǐ shì mófǎng nénglì hěn qiáng"
+    } ]
+  }, {
+    "tStartMs": 681833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "比如说\nbǐrú shuō"
+    } ]
+  }, {
+    "tStartMs": 683200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "那我从小学英语\nnà wǒ cóngxiǎo xué yīngyǔ"
+    } ]
+  }, {
+    "tStartMs": 684800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "学普通话\nxué pǔtōnghuà"
+    } ]
+  }, {
+    "tStartMs": 685900,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我没有什么口音\nwǒ méiyǒushénme kǒuyīn"
+    } ]
+  }, {
+    "tStartMs": 687366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "就是没有口音这件事情\njiùshì méiyǒu kǒuyīn zhè jiàn shìqing"
+    } ]
+  }, {
+    "tStartMs": 689266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "其实就已经是一个天赋了嗯\nqíshí jiù yǐjīng shì yígè tiānfù le ń"
+    } ]
+  }, {
+    "tStartMs": 691700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "再加上呢\nzàijiāshang ne"
+    } ]
+  }, {
+    "tStartMs": 692666,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "有一些语言在我耳朵里面听起来呢\nyǒuyīxiē yǔyán zài wǒ ěrduo lǐmiàn tīngqilai ne"
+    } ]
+  }, {
+    "tStartMs": 696266,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "从我个人的角度来听一些语言的时候\ncóng wǒ gèrén de jiǎodù lái tīng yīxiē yǔyán de shíhou"
+    } ]
+  }, {
+    "tStartMs": 699300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我就很容易抓住那个韵律去模仿\nwǒ jiù hěn róngyì zhuāzhù nàge yùnlù qù mófǎng"
+    } ]
+  }, {
+    "tStartMs": 702566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "但是对于一些人他\ndànshì duìyú yīxiē rén tā"
+    } ]
+  }, {
+    "tStartMs": 705400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "可能不是这样子的啊\nkěnéng bùshì zhèyàngzi de a"
+    } ]
+  }, {
+    "tStartMs": 706800,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "最近呢接触的学生会比较多一点\nzuìjìn ne jiēchù de xuéshenghuì bǐjiào duō yīdiǎn"
+    } ]
+  }, {
+    "tStartMs": 709533,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "然后有很多人自学的经历让我比较惊讶\nránhòu yǒu hěn duō rén zìxué de jīnglì ràng wǒ bǐjiào jīngyà"
+    } ]
+  }, {
+    "tStartMs": 713333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "就是他们通过自己自学\njiùshì tāmen tōngguò zìjǐ zìxué"
+    } ]
+  }, {
+    "tStartMs": 715533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "通过那种Anki\ntōngguò nàzhǒng Anki"
+    } ]
+  }, {
+    "tStartMs": 717266,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Anki还是Anki\nAnki háishi Anki"
+    } ]
+  }, {
+    "tStartMs": 718800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "这个软件啊来认识汉字单词\nzhège ruǎnjiàn a lái rènshi hànzì dāncí"
+    } ]
+  }, {
+    "tStartMs": 723100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "他们的词汇量真的很大\ntāmen de cíhuì liàng zhēn de hěn dà"
+    } ]
+  }, {
+    "tStartMs": 724700,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我和不同的学生\nwǒ hé bùtóng de xuésheng"
+    } ]
+  }, {
+    "tStartMs": 725800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "在交流的过程里面呢其实呢\nzài jiāoliú de guòchéng lǐmiàn ne qíshí ne"
+    } ]
+  }, {
+    "tStartMs": 727400,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "我会觉得说呃每个人呢\nwǒ huì juéde shuō è měigerén ne"
+    } ]
+  }, {
+    "tStartMs": 730266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "学习语言都有自己的一个\nxuéxí yǔyán dōu yǒu zìjǐ de yígè"
+    } ]
+  }, {
+    "tStartMs": 732700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "一个习惯吧\nyígè xíguàn ba"
+    } ]
+  }, {
+    "tStartMs": 734066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "有一些人比较喜欢跟着老师来学\nyǒuyīxiē rén bǐjiào xǐhuan gēnzhe lǎoshī lái xué"
+    } ]
+  }, {
+    "tStartMs": 736700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那有一些人呢\nnà yǒuyīxiē rén ne"
+    } ]
+  }, {
+    "tStartMs": 737700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "喜欢自学对吧\nxǐhuan zìxué duì ba"
+    } ]
+  }, {
+    "tStartMs": 739033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "这个其实都是要靠自己去发掘\nzhège qíshí dōu shì yào kào zìjǐ qù fājué"
+    } ]
+  }, {
+    "tStartMs": 741966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "你自己适合什么样的方式\nnǐ zìjǐ shìhé shénmeyàng de fāngshì"
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那比如说我自己\nnà bǐrú shuō wǒ zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 745800,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "我说实话\nwǒ shuōshíhuà"
+    } ]
+  }, {
+    "tStartMs": 746966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我是比较喜欢自学的\nwǒ shì bǐjiào xǐhuan zìxué de"
+    } ]
+  }, {
+    "tStartMs": 749033,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我连看视频我都懒得看\nwǒ lián kàn shìpín wǒ dōu lǎndé kàn"
+    } ]
+  }, {
+    "tStartMs": 751600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我不喜欢看视频\nwǒ bù xǐhuan kàn shìpín"
+    } ]
+  }, {
+    "tStartMs": 753100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我不喜欢看视频的原因是因为\nwǒ bù xǐhuan kàn shìpín de yuányīn shì yīnwèi"
+    } ]
+  }, {
+    "tStartMs": 755900,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "我自己对我自己的发音有一个认知\nwǒ zìjǐ duì wǒ zìjǐ de fāyīn yǒu yígè rènzhī"
+    } ]
+  }, {
+    "tStartMs": 761266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "因为我知道我读的不算特别差\nyīnwèi wǒ zhīdào wǒ dú de bù suàn tèbié chà"
+    } ]
+  }, {
+    "tStartMs": 764600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "啊我只是指我自己啊\na wǒ zhǐshì zhǐ wǒ zìjǐ a"
+    } ]
+  }, {
+    "tStartMs": 766300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我学过的一些语言\nwǒ xué guò de yīxiē yǔyán"
+    } ]
+  }, {
+    "tStartMs": 768266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我觉得看视频有一点点慢\nwǒ juéde kàn shìpín yǒu yīdiǎndiǎn màn"
+    } ]
+  }, {
+    "tStartMs": 770833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "所以我看视频我不喜欢\nsuǒyǐ wǒ kàn shìpín wǒ bù xǐhuan"
+    } ]
+  }, {
+    "tStartMs": 773333,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "我也不太喜欢和老师一对一啊\nwǒ yě bù tài xǐhuan hé lǎoshī yīduì yī a"
+    } ]
+  }, {
+    "tStartMs": 777600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "就是这个我也不喜欢\njiùshì zhège wǒ yě bù xǐhuan"
+    } ]
+  }, {
+    "tStartMs": 779500,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "但是呢我很舍得花钱去国外去做\ndànshì ne wǒ hěn shěde huāqián qùguówài qù zuò"
+    } ]
+  }, {
+    "tStartMs": 783066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "沉浸式的这样一个体验\nchénjìn shì de zhèyàng yígè tǐyàn"
+    } ]
+  }, {
+    "tStartMs": 786833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我不知道大家能不能理解我的意思啊\nwǒ bùzhī dào dàjiā néng bùnéng lǐjiě wǒ de yìsi a"
+    } ]
+  }, {
+    "tStartMs": 789100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我脸皮呢比较厚\nwǒ liǎnpí ne bǐjiào hòu"
+    } ]
+  }, {
+    "tStartMs": 790833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "那我可能有的时候呢\nnà wǒ kěnéng yǒudeshíhòu ne"
+    } ]
+  }, {
+    "tStartMs": 792466,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "我就只会说一两句\nwǒ jiù zhǐ huì shuō yī liǎngjù"
+    } ]
+  }, {
+    "tStartMs": 794533,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "但是这一两句我能够\ndànshì zhè yī liǎngjù wǒ nénggòu"
+    } ]
+  }, {
+    "tStartMs": 795866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "练得特别特别熟练\nliàn dé tèbié tèbié shúliàn"
+    } ]
+  }, {
+    "tStartMs": 797600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "因为我逢人就说\nyīnwèi wǒ féng rén jiù shuō"
+    } ]
+  }, {
+    "tStartMs": 799966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我见人就说\nwǒ jiàn rén jiù shuō"
+    } ]
+  }, {
+    "tStartMs": 801466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "但是我会觉得\ndànshì wǒ huì juéde"
+    } ]
+  }, {
+    "tStartMs": 802966,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "当你把一些简单的句子说得很流利\ndāng nǐ bǎ yīxiē jiǎndān de jùzi shuōde hěn liúlì"
+    } ]
+  }, {
+    "tStartMs": 806233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "说得很标准的时候\nshuōde hěn biāozhǔn de shíhou"
+    } ]
+  }, {
+    "tStartMs": 808233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这个从某种程度上会\nzhège cóng mǒuzhǒng chéngdù shàng huì"
+    } ]
+  }, {
+    "tStartMs": 810233,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "建立你说外语的一个自信\njiànlì nǐ shuō wàiyǔ de yígè zìxìn"
+    } ]
+  }, {
+    "tStartMs": 812700,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "这个是我自己的一个经验啊\nzhège shì wǒ zìjǐ de yígè jīngyàn a"
+    } ]
+  }, {
+    "tStartMs": 814600,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我特别记得我在欧洲的时候\nwǒ tèbié jìde wǒ zài ōuzhōu de shíhou"
+    } ]
+  }, {
+    "tStartMs": 816433,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "我经常会找日本人讲话\nwǒ jīngcháng huì zhǎo rìběnrén jiǎnghuà"
+    } ]
+  }, {
+    "tStartMs": 818300,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "然后我开口总会让他们震惊啊\nránhòu wǒ kāikǒu zǒng huì ràng tāmen zhènjīng a"
+    } ]
+  }, {
+    "tStartMs": 823333,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "他们不知道我到底是哪里的人哈哈哈\ntāmen bùzhī dào wǒ dàodǐ shì nǎlǐ de rén hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 828166,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "就是一开始啊自我介绍啊\njiùshì yī kāishǐ a zìwǒjièshào a"
+    } ]
+  }, {
+    "tStartMs": 830800,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "或者说一些简单句的时候\nhuòzhě shuō yīxiē jiǎndān jù de shíhou"
+    } ]
+  }, {
+    "tStartMs": 832866,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "可以说的特别流利嗯\nkěyǐ shuō de tèbié liúlì ń"
+    } ]
+  }, {
+    "tStartMs": 834066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "这是我自己邪修的一个方式啊\nzhè shì wǒ zìjǐ xié xiū de yígè fāngshì a"
+    } ]
+  }, {
+    "tStartMs": 836200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "那还有另外一个呢\nnà háiyǒu lìngwài yígè ne"
+    } ]
+  }, {
+    "tStartMs": 837633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "就是学习的经历\njiùshì xuéxí de jīnglì"
+    } ]
+  }, {
+    "tStartMs": 838966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我觉得以前呢\nwǒ juéde yǐqián ne"
+    } ]
+  }, {
+    "tStartMs": 840766,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "我对于这个理由置若罔闻吧\nwǒ duìyú zhège lǐyóu zhìruòwǎngwén ba"
+    } ]
+  }, {
+    "tStartMs": 845666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "很多人会讲说谈恋爱其实\nhěn duō rén huì jiǎng shuō tánliànài qíshí"
+    } ]
+  }, {
+    "tStartMs": 847766,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "是学习语言的一个很好的途径\nshì xuéxí yǔyán de yígè hěn hǎo de tújìng"
+    } ]
+  }, {
+    "tStartMs": 849900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "啊不可否认啊\na bùkě fǒurèn a"
+    } ]
+  }, {
+    "tStartMs": 850900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这真的是一个\nzhè zhēn de shì yígè"
+    } ]
+  }, {
+    "tStartMs": 853066,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "很好很好的途径\nhěn hǎo hěn hǎo de tújìng"
+    } ]
+  }, {
+    "tStartMs": 854666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我觉得我的英语\nwǒ juéde wǒ de yīngyǔ"
+    } ]
+  }, {
+    "tStartMs": 856400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "突飞猛进就是因为要吵架\ntūfēiměngjìn jiùshì yīnwèi yào chǎojià"
+    } ]
+  }, {
+    "tStartMs": 860100,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "就是因为要和对方吵架\njiùshì yīnwèi yào hé duìfāng chǎojià"
+    } ]
+  }, {
+    "tStartMs": 862500,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "那因为自己在关系过程里面呢\nnà yīnwèi zìjǐ zài guānxi guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 867033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "啊再去看一些美剧或者\na zài qù kàn yīxiē měi jù huòzhě"
+    } ]
+  }, {
+    "tStartMs": 869333,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "看一些视频的时候\nkàn yīxiē shìpín de shíhou"
+    } ]
+  }, {
+    "tStartMs": 871233,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "会特别注意那些咬文嚼字哈哈\nhuì tèbié zhùyì nàxiē yǎowénjiáozì hāhā"
+    } ]
+  }, {
+    "tStartMs": 875333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个时候呢\nzhège shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 876233,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "有一些词汇呢\nyǒuyīxiē cíhuì ne"
+    } ]
+  }, {
+    "tStartMs": 877366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "它会很容易被记住\ntā huì hěn róngyì bèi jìzhu"
+    } ]
+  }, {
+    "tStartMs": 879900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "因为你知道它有用所以呢\nyīnwèi nǐ zhīdào tā yǒuyòng suǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 882133,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "所以呢\nsuǒyǐ ne"
+    } ]
+  }, {
+    "tStartMs": 883566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我会觉得不管是谈恋爱\nwǒ huì juéde bùguǎn shì tánliànài"
+    } ]
+  }, {
+    "tStartMs": 885833,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "还是工作中的使用吧\nháishi gōngzuò zhòngdì shǐyòng ba"
+    } ]
+  }, {
+    "tStartMs": 888366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "从这个角度来讲的话\ncóng zhège jiǎodù láijiǎng dehuà"
+    } ]
+  }, {
+    "tStartMs": 890300,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "从头开始学\ncóngtóu kāishǐ xué"
+    } ]
+  }, {
+    "tStartMs": 891266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "可能有一点点难\nkěnéng yǒu yīdiǎndiǎn nán"
+    } ]
+  }, {
+    "tStartMs": 893466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "如果大家是为了\nrúguǒ dàjiā shì wèile"
+    } ]
+  }, {
+    "tStartMs": 894466,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "很实用的一些场景的话\nhěn shíyòng de yīxiē chǎngjǐng dehuà"
+    } ]
+  }, {
+    "tStartMs": 896300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "直接去学句子\nzhíjiē qù xué jùzi"
+    } ]
+  }, {
+    "tStartMs": 898366,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "比从头开始学要好一些\nbǐ cóngtóu kāishǐ xué yàohǎo yīxiē"
+    } ]
+  }, {
+    "tStartMs": 902300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "这个是我的一些经验之谈啊\nzhège shì wǒ de yīxiē jīngyàn zhī tán a"
+    } ]
+  }, {
+    "tStartMs": 904166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "可能有一些人会反驳我啊\nkěnéng yǒuyīxiē rén huì fǎnbó wǒ a"
+    } ]
+  }, {
+    "tStartMs": 906633,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那你比如说\nnà nǐ bǐrú shuō"
+    } ]
+  }, {
+    "tStartMs": 908366,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "对吧最近你要吵架\nduì ba zuìjìn nǐ yào chǎojià"
+    } ]
+  }, {
+    "tStartMs": 909666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "你就学几个吵架的句子\nnǐ jiùxué jǐge chǎojià de jùzi"
+    } ]
+  }, {
+    "tStartMs": 911566,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "哈哈哈\nhāhā hā"
+    } ]
+  }, {
+    "tStartMs": 912333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "最近我要去买东西\nzuìjìn wǒ yào qù mǎidōngxi"
+    } ]
+  }, {
+    "tStartMs": 913733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "那我就只学买东西的\nnà wǒ jiù zhǐ xué mǎidōngxi de"
+    } ]
+  }, {
+    "tStartMs": 916433,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "在学买东西的这些对话的过程里面呢\nzài xué mǎidōngxi de zhèxiē duìhuà de guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 919366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "然后去补充一些知识\nránhòu qù bǔchōng yīxiē zhīshi"
+    } ]
+  }, {
+    "tStartMs": 921766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "比如说对这个语法不熟悉\nbǐrú shuō duì zhège yǔfǎ bù shúxī"
+    } ]
+  }, {
+    "tStartMs": 923800,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "对这个单词不熟悉\nduì zhège dāncí bù shúxī"
+    } ]
+  }, {
+    "tStartMs": 925266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "然后再去记\nránhòu zài qù jì"
+    } ]
+  }, {
+    "tStartMs": 926800,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "可能会更加适合一点嗯\nkěnéng huì gèngjiā shìhé yīdiǎn ń"
+    } ]
+  }, {
+    "tStartMs": 930233,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我是这么觉得\nwǒ shì zhème juéde"
+    } ]
+  }, {
+    "tStartMs": 931266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "包括我自己在教零基础的学生的时候\nbāokuò wǒ zìjǐ zàijiào língjīchǔ de xuésheng de shíhou"
+    } ]
+  }, {
+    "tStartMs": 933833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那我跟学生在聊天\nnà wǒ gēn xuésheng zài liáotiān"
+    } ]
+  }, {
+    "tStartMs": 935800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我说你这个周末做什么了\nwǒ shuō nǐ zhège zhōumò zuòshímǒ le"
+    } ]
+  }, {
+    "tStartMs": 938433,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "他如果告诉我他在做饭\ntā rúguǒ gàosu wǒ tā zài zuòfàn"
+    } ]
+  }, {
+    "tStartMs": 940633,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "那我就会紧接着\nnà wǒ jiù huì jǐnjiē zhe"
+    } ]
+  }, {
+    "tStartMs": 943033,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "这两个星期就只教做饭相关的一些\nzhè liǎng gè xīngqī jiù zhǐ jiào zuòfàn xiāngguān de yīxiē"
+    } ]
+  }, {
+    "tStartMs": 947866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "词汇语法\ncíhuì yǔfǎ"
+    } ]
+  }, {
+    "tStartMs": 949366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这样子的话\nzhèyàngzi dehuà"
+    } ]
+  }, {
+    "tStartMs": 950666,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "那每次课上面都会很顺畅地交流\nnà měicì kè shàngmiàn dūhuì hěn shùnchàng dì jiāoliú"
+    } ]
+  }, {
+    "tStartMs": 955033,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "而不是只在记住一些单词\nér bùshì zhīzài jìzhu yīxiē dāncí"
+    } ]
+  }, {
+    "tStartMs": 958633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "或者记住一些新的语法\nhuòzhě jìzhu yīxiē xīn de yǔfǎ"
+    } ]
+  }, {
+    "tStartMs": 961966,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这个是我的一些经验\nzhège shì wǒ de yīxiē jīngyàn"
+    } ]
+  }, {
+    "tStartMs": 963333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "也是我自己和我目前带的学生呢\nyě shì wǒ zìjǐ hé wǒ mùqián dài de xuésheng ne"
+    } ]
+  }, {
+    "tStartMs": 966033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我们共同商讨\nwǒmen gòngtóng shāngtǎo"
+    } ]
+  }, {
+    "tStartMs": 967300,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "共同接受的一个教学的方式\ngòngtóng jiēshòu de yígè jiàoxué de fāngshì"
+    } ]
+  }, {
+    "tStartMs": 969633,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这个呢不是为了去考试之类的\nzhège ne bùshì wèile qù kǎoshì zhīlèi de"
+    } ]
+  }, {
+    "tStartMs": 972666,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "可能\nkěnéng"
+    } ]
+  }, {
+    "tStartMs": 973433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "如果是为了应试的话\nrúguǒ shì wèile yìngshì dehuà"
+    } ]
+  }, {
+    "tStartMs": 974833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那是另外的一种策略\nnàshi lìngwài de yīzhǒng cèluè"
+    } ]
+  }, {
+    "tStartMs": 976833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "嗯好吧嗯\nń hǎo ba ń"
+    } ]
+  }, {
+    "tStartMs": 978500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "以上呢\nyǐshàng ne"
+    } ]
+  }, {
+    "tStartMs": 979066,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "就是我最近呢想要和大家分享的一个\njiùshì wǒ zuìjìn ne xiǎngyào hé dàjiā fēnxiǎng de yígè"
+    } ]
+  }, {
+    "tStartMs": 982466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "一点点事情吧啊\nyīdiǎndiǎn shìqing ba a"
+    } ]
+  }, {
+    "tStartMs": 983800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "那莫妮卡老师呢对吧\nnà mò nī kǎ lǎoshī ne duì ba"
+    } ]
+  }, {
+    "tStartMs": 985866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "没想到半年过去了啊\nméixiǎngdào bànnián guòqu le a"
+    } ]
+  }, {
+    "tStartMs": 987666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "我居然成为了一个\nwǒ jūrán chéngwéi le yígè"
+    } ]
+  }, {
+    "tStartMs": 990166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "比较正式的老师吧\nbǐjiào zhèngshì de lǎoshī ba"
+    } ]
+  }, {
+    "tStartMs": 992133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我正式的成为了一名老师\nwǒ zhèngshì de chéngwéi le yī míng lǎoshī"
+    } ]
+  }, {
+    "tStartMs": 994566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "还是挺神奇的嗯\nháishi tǐng shénqí de ń"
+    } ]
+  }, {
+    "tStartMs": 998300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "包括在大学里面\nbāokuò zài dàxué lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 999500,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "我作为老师\nwǒ zuòwéi lǎoshī"
+    } ]
+  }, {
+    "tStartMs": 1000433,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后给学生改作业的过程里面呢也会\nránhòu gěi xuésheng gǎi zuòyè de guòchéng lǐmiàn ne yě huì"
+    } ]
+  }, {
+    "tStartMs": 1004300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "也能够体会到做老师的一些不容易吧\nyě nénggòu tǐhuì dào zuò lǎoshī de yīxiē bùróng yì ba"
+    } ]
+  }, {
+    "tStartMs": 1007666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "嗯现在的大学生呢\nń xiànzài de dàxuéshēng ne"
+    } ]
+  }, {
+    "tStartMs": 1009666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "和我们那个年代不太一样\nhé wǒmen nàge niándài bù tài yīyàng"
+    } ]
+  }, {
+    "tStartMs": 1012066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我读大学的时候\nwǒ dú dàxué de shíhou"
+    } ]
+  }, {
+    "tStartMs": 1013800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "如果作业写不出来\nrúguǒ zuòyè xiě bù chulai"
+    } ]
+  }, {
+    "tStartMs": 1016500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "你就只能瞎拼乱凑对吧\nnǐ jiù zhǐnéng xiāpīn luàn còu duì ba"
+    } ]
+  }, {
+    "tStartMs": 1019066,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "嗯但是现在的学生都有AI\nń dànshì xiànzài de xuésheng dōu yǒu AI"
+    } ]
+  }, {
+    "tStartMs": 1022300,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那有很多的学生呢\nnà yǒu hěn duō de xuésheng ne"
+    } ]
+  }, {
+    "tStartMs": 1024266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "他们完全不动脑子\ntāmen wánquán bùdòng nǎozi"
+    } ]
+  }, {
+    "tStartMs": 1027000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "纯靠AI来输出一些作业\nchún kào AI lái shūchū yīxiē zuòyè"
+    } ]
+  }, {
+    "tStartMs": 1030766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我从一开始的时候呢\nwǒ cóng yī kāishǐ de shíhou ne"
+    } ]
+  }, {
+    "tStartMs": 1032166,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我也会很气愤\nwǒ yě huì hěn qìfèn"
+    } ]
+  }, {
+    "tStartMs": 1033766,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "我说连题目都没有读\nwǒ shuō lián tímù dōu méiyǒu dú"
+    } ]
+  }, {
+    "tStartMs": 1036033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "那你至少要让AI理解一下\nnà nǐ zhìshǎo yào ràng AI lǐjiě yīxià"
+    } ]
+  }, {
+    "tStartMs": 1038800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "你这个作业要做什么吧\nnǐ zhège zuòyè yào zuòshímǒ ba"
+    } ]
+  }, {
+    "tStartMs": 1041733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "就自己心态的这一个变化吧\njiù zìjǐ xīntài de zhè yígè biànhuà ba"
+    } ]
+  }, {
+    "tStartMs": 1043666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "也是蛮有意思的\nyě shì mán yǒuyìsi de"
+    } ]
+  }, {
+    "tStartMs": 1045466,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "然后呢在这个做老师的过程里面\nránhòu ne zài zhège zuò lǎoshī de guòchéng lǐmiàn"
+    } ]
+  }, {
+    "tStartMs": 1047933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "我也发现了自己一些性格上面的\nwǒ yě fāxiàn le zìjǐ yīxiē xìnggé shàngmiàn de"
+    } ]
+  }, {
+    "tStartMs": 1052033,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "不一样吧\nbùyīyàng ba"
+    } ]
+  }, {
+    "tStartMs": 1053133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我都不能说它是问题\nwǒ dōu bùnéng shuō tā shì wèntí"
+    } ]
+  }, {
+    "tStartMs": 1054833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我就发现我其实自己\nwǒ jiù fāxiàn wǒ qíshí zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 1056366,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "也是一个比较轴的人哈哈哈\nyě shì yígè bǐjiào zhóu de rén hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 1060900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "轴用中文来理解的话\nzhóu yòng zhōngwén lái lǐjiě dehuà"
+    } ]
+  }, {
+    "tStartMs": 1063066,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "就是不懂得变通\njiùshì bù dǒngde biàntōng"
+    } ]
+  }, {
+    "tStartMs": 1064800,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我倒不能说我不懂变通\nwǒ dào bùnéng shuō wǒ bù dǒng biàntōng"
+    } ]
+  }, {
+    "tStartMs": 1067166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我就是发现呢\nwǒ jiùshì fāxiàn ne"
+    } ]
+  }, {
+    "tStartMs": 1068266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我其实呃\nwǒ qíshí è"
+    } ]
+  }, {
+    "tStartMs": 1069433,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "我自己呢\nwǒ zìjǐ ne"
+    } ]
+  }, {
+    "tStartMs": 1070200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "是一个很有责任心的人\nshì yígè hěn yǒuzérèn xīn de rén"
+    } ]
+  }, {
+    "tStartMs": 1072433,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我想要给学生提供一些更多的帮助\nwǒ xiǎngyào gěi xuésheng tígōng yīxiē gèng duō de bāngzhù"
+    } ]
+  }, {
+    "tStartMs": 1076166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "尽可能的帮助我的学生嗯\njǐnkěnéng de bāngzhù wǒ de xuésheng ń"
+    } ]
+  }, {
+    "tStartMs": 1079366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "我从三个月之前\nwǒ cóng sānge yuè zhīqián"
+    } ]
+  }, {
+    "tStartMs": 1081100,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "我还在跟我的导师\nwǒ hái zài gēn wǒ de dǎoshī"
+    } ]
+  }, {
+    "tStartMs": 1082666,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我还在跟我的professor要reference letter\nwǒ hái zài gēn wǒ de professor yào reference letter"
+    } ]
+  }, {
+    "tStartMs": 1085733,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "那我现在都已经变成了一个\nnà wǒ xiànzài dōu yǐjīng biànchéng le yígè"
+    } ]
+  }, {
+    "tStartMs": 1087766,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "可以给我的学生写reference letter的人\nkěyǐ gěi wǒ de xuésheng xiě reference letter de rén"
+    } ]
+  }, {
+    "tStartMs": 1090900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "当我收到这种请求\ndāng wǒ shōudào zhèzhǒng qǐngqiú"
+    } ]
+  }, {
+    "tStartMs": 1093133,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "然后要给对方写推荐信的时候\nránhòu yào gěi duìfāng xiě tuījiànxìn de shíhou"
+    } ]
+  }, {
+    "tStartMs": 1096466,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我突然发现我有这种责任感\nwǒ tūrán fāxiàn wǒ yǒu zhèzhǒng zérèngǎn"
+    } ]
+  }, {
+    "tStartMs": 1099133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "哎呀那我得看看你做作业认不认真\nāiyā nà wǒ dé kànkan nǐ zuòzuo yè rèn bù rènzhēn"
+    } ]
+  }, {
+    "tStartMs": 1103100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你平时的态度怎么样\nnǐ píngshí de tàidu zěnmeyàng"
+    } ]
+  }, {
+    "tStartMs": 1105266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "我才能给你写呀哈哈哈\nwǒ cáinéng gěi nǐ xiě ya hāhā hā"
+    } ]
+  }, {
+    "tStartMs": 1108733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "是吧然后呢\nshì ba ránhòu ne"
+    } ]
+  }, {
+    "tStartMs": 1110300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "我突然也就能够理解\nwǒ tūrán yě jiù nénggòu lǐjiě"
+    } ]
+  }, {
+    "tStartMs": 1112566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "可能我当初的一些教授对我啊\nkěnéng wǒ dāngchū de yīxiē jiàoshòu duì wǒ a"
+    } ]
+  }, {
+    "tStartMs": 1115366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "就是那种欲言又止的\njiùshì nàzhǒng yùyányòuzhǐ de"
+    } ]
+  }, {
+    "tStartMs": 1118533,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "一些态度是为什么吧\nyīxiē tàidu shì wèishénme ba"
+    } ]
+  }, {
+    "tStartMs": 1120300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "啊我突然就理解了嗯\na wǒ tūrán jiù lǐjiě le ń"
+    } ]
+  }, {
+    "tStartMs": 1123266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "所以你看啊人呢\nsuǒyǐ nǐ kàn a rén ne"
+    } ]
+  }, {
+    "tStartMs": 1125166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "都是会成长的\ndōu shì huì chéngzhǎng de"
+    } ]
+  }, {
+    "tStartMs": 1126566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "在这个过程里面呢\nzài zhège guòchéng lǐmiàn ne"
+    } ]
+  }, {
+    "tStartMs": 1128000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你慢慢的也会发现自己\nnǐ mànmàn de yě huì fāxiàn zìjǐ"
+    } ]
+  }, {
+    "tStartMs": 1130100,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "曾经的幼稚和自己的成长\ncéngjīng de yòuzhì hé zìjǐ de chéngzhǎng"
+    } ]
+  }, {
+    "tStartMs": 1134300,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "虽然只有短短的两个月啊\nsuīrán zhǐ yǒu duǎn duǎn de liǎnggeyuè a"
+    } ]
+  }, {
+    "tStartMs": 1135966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "但是这两个月里面我\ndànshì zhè liǎnggeyuè lǐmiàn wǒ"
+    } ]
+  }, {
+    "tStartMs": 1137200,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "其实发生了很多事情\nqíshí fāshēng le hěn duōshì qíng"
+    } ]
+  }, {
+    "tStartMs": 1138800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "那我身份的一个转变\nnà wǒ shēnfèn de yígè zhuǎnbiàn"
+    } ]
+  }, {
+    "tStartMs": 1140800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "包括说我现在工作模式的一个彻底的转变\nbāokuò shuō wǒ xiànzài gōngzuò móshì de yígè chèdǐ de zhuǎnbiàn"
+    } ]
+  }, {
+    "tStartMs": 1144600,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "再加上我工作内容的一个彻底的转变\nzàijiāshang wǒ gōngzuò nèiróng de yígè chèdǐ de zhuǎnbiàn"
+    } ]
+  }, {
+    "tStartMs": 1148133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "让我有点感慨吧\nràng wǒ yǒudiǎn gǎnkǎi ba"
+    } ]
+  }, {
+    "tStartMs": 1149533,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我最近呢又经过了一轮的\nwǒ zuìjìn ne yòu jīngguò le yīlún de"
+    } ]
+  }, {
+    "tStartMs": 1153133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这种高强度工作的洗礼啊\nzhèzhǒng gāoqiáng dù gōngzuò de xǐlǐ a"
+    } ]
+  }, {
+    "tStartMs": 1155566,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "我现在呢最近呢有点平静下来了\nwǒ xiànzài ne zuìjìn ne yǒudiǎn píngjìng xiàlai le"
+    } ]
+  }, {
+    "tStartMs": 1158600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "哈哈哈我最近呢有一点平静下来了\nhāhā hā wǒ zuìjìn ne yǒu yīdiǎn píngjìng xiàlai le"
+    } ]
+  }, {
+    "tStartMs": 1161600,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "所以呢我觉得是时候要重新录制视频\nsuǒyǐ ne wǒ juéde shì shíhou yào chóngxīn lùzhì shìpín"
+    } ]
+  }, {
+    "tStartMs": 1165466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "和大家聊一聊生活\nhé dàjiā liáo yī liáoshēng huó"
+    } ]
+  }, {
+    "tStartMs": 1167700,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "聊一聊感触\nliáo yī liáo gǎnchù"
+    } ]
+  }, {
+    "tStartMs": 1169166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "聊一聊学习是吧\nliáo yī liáo xuéxí shì ba"
+    } ]
+  }, {
+    "tStartMs": 1172133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "好的。以上呢\nhǎo de. yǐshàng ne"
+    } ]
+  }, {
+    "tStartMs": 1173900,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "就是今天想要和大家分享的内容\njiùshì jīntiān xiǎngyào hé dàjiā fēnxiǎng de nèiróng"
+    } ]
+  }, {
+    "tStartMs": 1176933,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "感谢大家的观看\ngǎnxiè dàjiā de guānkàn"
+    } ]
+  }, {
+    "tStartMs": 1178400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "感谢大家的陪伴\ngǎnxiè dàjiā de péibàn"
+    } ]
+  }, {
+    "tStartMs": 1179666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "那我们就下期视频再见喽拜拜\nnà wǒmen jiù xià qī shìpín zàijiàn lóu báibái"
+    } ]
+  }, {
+    "tStartMs": 1182233,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "拜拜\nbáibái"
+    } ]
+  } ]
+}

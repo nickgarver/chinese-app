@@ -1,0 +1,1411 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Hi, everyone!"
+    } ]
+  }, {
+    "tStartMs": 8166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "I'm Mini."
+    } ]
+  }, {
+    "tStartMs": 9166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Welcome to my channel."
+    } ]
+  }, {
+    "tStartMs": 11400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "In today's video,"
+    } ]
+  }, {
+    "tStartMs": 12833,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "we're going to spend some time here in Vancouver"
+    } ]
+  }, {
+    "tStartMs": 16066,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "taking an evening walk."
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "We'll take a walk"
+    } ]
+  }, {
+    "tStartMs": 21466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "and chat along the way."
+    } ]
+  }, {
+    "tStartMs": 23166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "Haha, look!"
+    } ]
+  }, {
+    "tStartMs": 25933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "There's a cow over here."
+    } ]
+  }, {
+    "tStartMs": 28033,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Oh, not just one."
+    } ]
+  }, {
+    "tStartMs": 29266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "There are several of them."
+    } ]
+  }, {
+    "tStartMs": 33166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's a little after six in the evening. Look."
+    } ]
+  }, {
+    "tStartMs": 36600,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "The sun is about to set."
+    } ]
+  }, {
+    "tStartMs": 38733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This is the sunset—the setting sun."
+    } ]
+  }, {
+    "tStartMs": 41766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah!"
+    } ]
+  }, {
+    "tStartMs": 43233,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "The scenery is beautiful in the evening too."
+    } ]
+  }, {
+    "tStartMs": 47133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 48366,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I can still smell those cows, haha."
+    } ]
+  }, {
+    "tStartMs": 52200,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "There were so many cows over there just now."
+    } ]
+  }, {
+    "tStartMs": 55766,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And it smelled like cow manure, haha."
+    } ]
+  }, {
+    "tStartMs": 60266,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Wow, that smell..."
+    } ]
+  }, {
+    "tStartMs": 61966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Yeah, it doesn't smell very good."
+    } ]
+  }, {
+    "tStartMs": 63933,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "It's September now, so it's fall."
+    } ]
+  }, {
+    "tStartMs": 66933,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "How's the weather where you are?"
+    } ]
+  }, {
+    "tStartMs": 69633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "Is it starting to get colder there too?"
+    } ]
+  }, {
+    "tStartMs": 73533,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It's the same here in Vancouver."
+    } ]
+  }, {
+    "tStartMs": 74833,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Mornings and evenings are pretty chilly in Vancouver now."
+    } ]
+  }, {
+    "tStartMs": 79733,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "You need a jacket."
+    } ]
+  }, {
+    "tStartMs": 81933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Like the one I'm wearing right now."
+    } ]
+  }, {
+    "tStartMs": 84566,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Today I'm wearing a"
+    } ]
+  }, {
+    "tStartMs": 86133,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "windbreaker. A windbreaker."
+    } ]
+  }, {
+    "tStartMs": 89400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "A jacket like this is"
+    } ]
+  }, {
+    "tStartMs": 91133,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "perfect for Vancouver."
+    } ]
+  }, {
+    "tStartMs": 93866,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It not only blocks the wind,"
+    } ]
+  }, {
+    "tStartMs": 97566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "but it's also waterproof."
+    } ]
+  }, {
+    "tStartMs": 100633,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "It's really comfortable to wear right now."
+    } ]
+  }, {
+    "tStartMs": 104633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And right now in Vancouver,"
+    } ]
+  }, {
+    "tStartMs": 106433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "the mornings and evenings are cool,"
+    } ]
+  }, {
+    "tStartMs": 109266,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "but when the sun comes out in the afternoon, it can get pretty warm."
+    } ]
+  }, {
+    "tStartMs": 114266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "The sun hasn't set yet. Look."
+    } ]
+  }, {
+    "tStartMs": 118666,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "The sunlight is falling on my face."
+    } ]
+  }, {
+    "tStartMs": 121366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It still feels so warm, haha."
+    } ]
+  }, {
+    "tStartMs": 125200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "Taking a walk in the evening"
+    } ]
+  }, {
+    "tStartMs": 128533,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "makes all the stress from the day just disappear."
+    } ]
+  }, {
+    "tStartMs": 133600,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "It's so comfortable, relaxing, and peaceful."
+    } ]
+  }, {
+    "tStartMs": 137833,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "The three words I just used"
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "can be used to describe how we're feeling."
+    } ]
+  }, {
+    "tStartMs": 144400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Comfortable, relaxed, and content."
+    } ]
+  }, {
+    "tStartMs": 148033,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "These three words are used quite often."
+    } ]
+  }, {
+    "tStartMs": 149733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So you can remember them."
+    } ]
+  }, {
+    "tStartMs": 152566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Wow, look how beautiful the sunset is!"
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "Did you hear that?"
+    } ]
+  }, {
+    "tStartMs": 158866,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "The cows are mooing, haha."
+    } ]
+  }, {
+    "tStartMs": 161933,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "And over here,"
+    } ]
+  }, {
+    "tStartMs": 162833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "there are lots of little flowers like these. Look."
+    } ]
+  }, {
+    "tStartMs": 166133,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "This is a flower."
+    } ]
+  }, {
+    "tStartMs": 168266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "A little flower, haha."
+    } ]
+  }, {
+    "tStartMs": 170333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "So pretty."
+    } ]
+  }, {
+    "tStartMs": 173566,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "And there's lots of grass behind me."
+    } ]
+  }, {
+    "tStartMs": 178066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "So now I'm going to"
+    } ]
+  }, {
+    "tStartMs": 179333,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "follow this coastline. Look."
+    } ]
+  }, {
+    "tStartMs": 183933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "The ocean is over there."
+    } ]
+  }, {
+    "tStartMs": 185166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "We'll follow this coastline"
+    } ]
+  }, {
+    "tStartMs": 188066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and keep walking straight ahead."
+    } ]
+  }, {
+    "tStartMs": 191733,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "all the way to the water."
+    } ]
+  }, {
+    "tStartMs": 196433,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "It's probably about two or three kilometers."
+    } ]
+  }, {
+    "tStartMs": 201833,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "But if we just take it slow, we'll get there pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 208066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "For a distance like this,"
+    } ]
+  }, {
+    "tStartMs": 209333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "riding a bike is probably the best option."
+    } ]
+  }, {
+    "tStartMs": 212266,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "You'll see lots of people riding bikes around here."
+    } ]
+  }, {
+    "tStartMs": 216766,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "I really like the houses around here."
+    } ]
+  }, {
+    "tStartMs": 221633,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "These are houses. Houses."
+    } ]
+  }, {
+    "tStartMs": 224533,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "If you lived here,"
+    } ]
+  }, {
+    "tStartMs": 226400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "right across from this house—look—"
+    } ]
+  }, {
+    "tStartMs": 229966,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "you'd have this beautiful view."
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "The ocean is right over there in the distance."
+    } ]
+  }, {
+    "tStartMs": 234833,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Wouldn't it be nice to live here?"
+    } ]
+  }, {
+    "tStartMs": 239366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I think the view here would be amazing."
+    } ]
+  }, {
+    "tStartMs": 242400,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "You could watch the sunset and sunrise every day."
+    } ]
+  }, {
+    "tStartMs": 246966,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Hehe, yeah."
+    } ]
+  }, {
+    "tStartMs": 248166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Let me teach you this word."
+    } ]
+  }, {
+    "tStartMs": 249866,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "At this time of day,"
+    } ]
+  }, {
+    "tStartMs": 251133,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "it's evening."
+    } ]
+  }, {
+    "tStartMs": 252633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "And this setting sun"
+    } ]
+  }, {
+    "tStartMs": 254666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "is called 夕阳, sunset."
+    } ]
+  }, {
+    "tStartMs": 257366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "And in the morning,"
+    } ]
+  }, {
+    "tStartMs": 259233,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "when the sun has just come up,"
+    } ]
+  }, {
+    "tStartMs": 260466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "that's called 日出, sunrise."
+    } ]
+  }, {
+    "tStartMs": 264600,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "There are two benches here. Two benches."
+    } ]
+  }, {
+    "tStartMs": 268833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "You can sit here, take a break, and enjoy the view."
+    } ]
+  }, {
+    "tStartMs": 273666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I think in the evening,"
+    } ]
+  }, {
+    "tStartMs": 275766,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "the light is really soft. Look."
+    } ]
+  }, {
+    "tStartMs": 280833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It falls so gently on your face,"
+    } ]
+  }, {
+    "tStartMs": 283366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and it looks really beautiful."
+    } ]
+  }, {
+    "tStartMs": 285633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Very natural."
+    } ]
+  }, {
+    "tStartMs": 288633,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "But since we're by the ocean,"
+    } ]
+  }, {
+    "tStartMs": 291933,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "there are still quite a lot of bugs."
+    } ]
+  }, {
+    "tStartMs": 293766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "I'm really scared of bugs."
+    } ]
+  }, {
+    "tStartMs": 295466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Especially mosquitoes."
+    } ]
+  }, {
+    "tStartMs": 297533,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "Last month, remember how a mosquito"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "bit my eye and it swelled up?"
+    } ]
+  }, {
+    "tStartMs": 302733,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "It got really swollen."
+    } ]
+  }, {
+    "tStartMs": 305466,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "And it was really painful and uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 309400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "There were bugs flying around here when I was walking over too."
+    } ]
+  }, {
+    "tStartMs": 312466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Ew, I'm so scared."
+    } ]
+  }, {
+    "tStartMs": 314833,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Wow, just look around."
+    } ]
+  }, {
+    "tStartMs": 317766,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Everything here is so green."
+    } ]
+  }, {
+    "tStartMs": 320666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Green grass."
+    } ]
+  }, {
+    "tStartMs": 322466,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "And in the distance, there's this golden sun."
+    } ]
+  }, {
+    "tStartMs": 327800,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "Wow, look!"
+    } ]
+  }, {
+    "tStartMs": 328533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "It's about to set."
+    } ]
+  }, {
+    "tStartMs": 330733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Look!"
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Look, look!"
+    } ]
+  }, {
+    "tStartMs": 333166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "The sun is about to set."
+    } ]
+  }, {
+    "tStartMs": 336033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 337833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "I got to show you a sunset."
+    } ]
+  }, {
+    "tStartMs": 340066,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's really beautiful."
+    } ]
+  }, {
+    "tStartMs": 342600,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "Wow, it feels like once the sun goes down,"
+    } ]
+  }, {
+    "tStartMs": 345566,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "it gets dark so quickly."
+    } ]
+  }, {
+    "tStartMs": 348366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "It's getting dark. Really dark."
+    } ]
+  }, {
+    "tStartMs": 351833,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "Let's pick up the pace and keep moving."
+    } ]
+  }, {
+    "tStartMs": 355466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Let's keep going toward the ocean."
+    } ]
+  }, {
+    "tStartMs": 359200,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "Look, there's a sign here. A sign."
+    } ]
+  }, {
+    "tStartMs": 364166,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "Keep going straight ahead."
+    } ]
+  }, {
+    "tStartMs": 369733,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "I really love looking at the ocean."
+    } ]
+  }, {
+    "tStartMs": 372500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "Especially when you're feeling down,"
+    } ]
+  }, {
+    "tStartMs": 376366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "or when work is really stressful... Oh, a bug!"
+    } ]
+  }, {
+    "tStartMs": 379733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "or when you're under a lot of pressure at work,"
+    } ]
+  }, {
+    "tStartMs": 382533,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "when you're feeling stressed,"
+    } ]
+  }, {
+    "tStartMs": 383533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I really like coming to the ocean."
+    } ]
+  }, {
+    "tStartMs": 385900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I like coming here by myself,"
+    } ]
+  }, {
+    "tStartMs": 388366,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "doing nothing,"
+    } ]
+  }, {
+    "tStartMs": 389500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "thinking about nothing,"
+    } ]
+  }, {
+    "tStartMs": 390700,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "just quietly looking out at the ocean."
+    } ]
+  }, {
+    "tStartMs": 394100,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "It makes me feel really healed and refreshed."
+    } ]
+  }, {
+    "tStartMs": 398066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Because the ocean"
+    } ]
+  }, {
+    "tStartMs": 399500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "makes everything feel so vast and open."
+    } ]
+  }, {
+    "tStartMs": 402866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Actually, it's not just the ocean."
+    } ]
+  }, {
+    "tStartMs": 404333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "I think nature just has"
+    } ]
+  }, {
+    "tStartMs": 405966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "this incredible kind of magic."
+    } ]
+  }, {
+    "tStartMs": 409366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "It can help take away a lot of our stress"
+    } ]
+  }, {
+    "tStartMs": 412666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "and help us feel energized again."
+    } ]
+  }, {
+    "tStartMs": 416733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Alright, look."
+    } ]
+  }, {
+    "tStartMs": 419966,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "We've made it to the park."
+    } ]
+  }, {
+    "tStartMs": 422600,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "The park is right up ahead."
+    } ]
+  }, {
+    "tStartMs": 427466,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Here's a little path. A little path."
+    } ]
+  }, {
+    "tStartMs": 430933,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "We'll take this path"
+    } ]
+  }, {
+    "tStartMs": 435100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "and the ocean is right ahead."
+    } ]
+  }, {
+    "tStartMs": 437133,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "Haha, I'm so excited!"
+    } ]
+  }, {
+    "tStartMs": 440100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "I haven't been here in such a long time."
+    } ]
+  }, {
+    "tStartMs": 444966,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Oh, which way should I go?"
+    } ]
+  }, {
+    "tStartMs": 447466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "I'll go this way."
+    } ]
+  }, {
+    "tStartMs": 451766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Wow, there are so many birds flying up there!"
+    } ]
+  }, {
+    "tStartMs": 455300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "So many birds flying around."
+    } ]
+  }, {
+    "tStartMs": 458766,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "There's also the moon up there. The moon."
+    } ]
+  }, {
+    "tStartMs": 461300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "This is the moon."
+    } ]
+  }, {
+    "tStartMs": 463333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 465766,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "There's a lot of sand here. Sand."
+    } ]
+  }, {
+    "tStartMs": 472166,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "We made it! We're at the ocean!"
+    } ]
+  }, {
+    "tStartMs": 476666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 479466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "The ocean is right ahead."
+    } ]
+  }, {
+    "tStartMs": 483366,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Wow, that walk was a little tiring."
+    } ]
+  }, {
+    "tStartMs": 486500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 488200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Look, this is the beach. The beach."
+    } ]
+  }, {
+    "tStartMs": 492600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "It's pretty dirty, though."
+    } ]
+  }, {
+    "tStartMs": 495966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "But it's still a beach."
+    } ]
+  }, {
+    "tStartMs": 498300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "There are lots of pieces of wood on the beach."
+    } ]
+  }, {
+    "tStartMs": 500666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "These are all pieces of wood. Wood."
+    } ]
+  }, {
+    "tStartMs": 505700,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "Now let's look out at the ocean."
+    } ]
+  }, {
+    "tStartMs": 509100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "There's a huge ship out on the water."
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "This is a boat."
+    } ]
+  }, {
+    "tStartMs": 514466,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I think it's a cargo ship. A cargo ship."
+    } ]
+  }, {
+    "tStartMs": 517600,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "The ocean is so calm in the evening."
+    } ]
+  }, {
+    "tStartMs": 524533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 526400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I haven't been here in so long."
+    } ]
+  }, {
+    "tStartMs": 529066,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, look!"
+    } ]
+  }, {
+    "tStartMs": 531200,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "Out on the calm water,"
+    } ]
+  }, {
+    "tStartMs": 532566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "there's a speedboat."
+    } ]
+  }, {
+    "tStartMs": 534966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Wow, that's a speedboat."
+    } ]
+  }, {
+    "tStartMs": 536666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's going really fast."
+    } ]
+  }, {
+    "tStartMs": 539566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Right now, I"
+    } ]
+  }, {
+    "tStartMs": 540466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I'm crouching down on the beach."
+    } ]
+  }, {
+    "tStartMs": 545066,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Haha, crouching."
+    } ]
+  }, {
+    "tStartMs": 547100,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "I'm just quietly looking out at the ocean in front of me."
+    } ]
+  }, {
+    "tStartMs": 551933,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "I'm really close to the water right now. Look."
+    } ]
+  }, {
+    "tStartMs": 555866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "And right now, I'm the only one here."
+    } ]
+  }, {
+    "tStartMs": 558466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Wow, this feels so nice."
+    } ]
+  }, {
+    "tStartMs": 560200,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "It's such a special feeling."
+    } ]
+  }, {
+    "tStartMs": 563100,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Just sitting here and listening to the ocean"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "as it washes over the beach."
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "And sometimes you'll see seagulls up in the sky."
+    } ]
+  }, {
+    "tStartMs": 571466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That should be a seagull."
+    } ]
+  }, {
+    "tStartMs": 573533,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "The sound of seagulls."
+    } ]
+  }, {
+    "tStartMs": 575866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I feel so peaceful."
+    } ]
+  }, {
+    "tStartMs": 579166,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Listen."
+    } ]
+  }, {
+    "tStartMs": 581200,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "Wow, this feels so nice."
+    } ]
+  }, {
+    "tStartMs": 584966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "I really feel like staying here all night, haha."
+    } ]
+  }, {
+    "tStartMs": 588133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The sound of the waves is so nice too."
+    } ]
+  }, {
+    "tStartMs": 591266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "And this is called 海浪, waves."
+    } ]
+  }, {
+    "tStartMs": 595133,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "The waves aren't very big today. They're pretty small."
+    } ]
+  }, {
+    "tStartMs": 600400,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "And these splashes of water"
+    } ]
+  }, {
+    "tStartMs": 602066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "are called 浪花."
+    } ]
+  }, {
+    "tStartMs": 609066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "The pieces of driftwood here have such unusual shapes."
+    } ]
+  }, {
+    "tStartMs": 613000,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Such unusual shapes."
+    } ]
+  }, {
+    "tStartMs": 615900,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "I'll sit on this piece of wood for a bit."
+    } ]
+  }, {
+    "tStartMs": 619200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "Sit down."
+    } ]
+  }, {
+    "tStartMs": 621366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Wow, I'm completely captivated."
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "I'm totally lost in the beauty of the ocean, haha."
+    } ]
+  }, {
+    "tStartMs": 630900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "It's getting darker and darker."
+    } ]
+  }, {
+    "tStartMs": 634300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 637800,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "The sound of the waves is getting louder too. Look."
+    } ]
+  }, {
+    "tStartMs": 642733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow!"
+    } ]
+  }, {
+    "tStartMs": 645400,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Wow, there's a kite over here too. A kite."
+    } ]
+  }, {
+    "tStartMs": 651966,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Someone is flying a kite over here."
+    } ]
+  }, {
+    "tStartMs": 657533,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Alright, it's getting really dark now."
+    } ]
+  }, {
+    "tStartMs": 659933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "I'm going home."
+    } ]
+  }, {
+    "tStartMs": 661733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "And honestly, there are just so many mosquitoes here."
+    } ]
+  }, {
+    "tStartMs": 664566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "When I was sitting over there just now,"
+    } ]
+  }, {
+    "tStartMs": 665700,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "there were so many mosquitoes flying around me."
+    } ]
+  }, {
+    "tStartMs": 668866,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Mosquitoes really love me, haha."
+    } ]
+  }, {
+    "tStartMs": 671733,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Alright, that's it for today's video."
+    } ]
+  }, {
+    "tStartMs": 673766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You can use today's video"
+    } ]
+  }, {
+    "tStartMs": 675266,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "to practice your listening."
+    } ]
+  }, {
+    "tStartMs": 677300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "See how much you can understand."
+    } ]
+  }, {
+    "tStartMs": 680000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Let me know in the comments."
+    } ]
+  }, {
+    "tStartMs": 682566,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "I'll see you in the next video."
+    } ]
+  }, {
+    "tStartMs": 684166,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Thank you for joining me"
+    } ]
+  }, {
+    "tStartMs": 686266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "for a beautiful evening by the ocean."
+    } ]
+  }, {
+    "tStartMs": 689666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "Okay, see you next time. Bye!"
+    } ]
+  }, {
+    "tStartMs": 695700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wood."
+    } ]
+  }, {
+    "tStartMs": 696566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "A bird landed over here."
+    } ]
+  }, {
+    "tStartMs": 700066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "And there's another boat."
+    } ]
+  } ]
+}

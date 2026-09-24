@@ -1,0 +1,2839 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 16966,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "早上好呀  \nzǎo shang hǎo ya  \nGood morning!"
+    } ]
+  }, {
+    "tStartMs": 19633,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "现在是早上7点半  \nxiàn zài shì zǎo shang 7 diǎn bàn  \nIt’s 7:30 in the morning right now."
+    } ]
+  }, {
+    "tStartMs": 22500,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "天还没有完全亮  \ntiān hái méi yǒu wán quán liàng  \nThe sky isn’t fully bright yet."
+    } ]
+  }, {
+    "tStartMs": 26966,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "阿姨又要去菜市场了  \nā yí yòu yào qù cài shì chǎng le  \nAuntie is going to the market again."
+    } ]
+  }, {
+    "tStartMs": 30300,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "因为去菜市场的人  \nyīn wèi qù cài shì chǎng de rén  \nBecause most people who go to the market "
+    } ]
+  }, {
+    "tStartMs": 33133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "大多都是阿姨这个年龄的人  \ndà duō dōu shì ā yí zhè ge nián líng de rén  \nMost of the people are around Auntie’s age."
+    } ]
+  }, {
+    "tStartMs": 36966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "年轻人很少会去菜市场的  \nnián qīng rén hěn shǎo huì qù cài shì chǎng de  \nYoung people rarely go to the market."
+    } ]
+  }, {
+    "tStartMs": 40466,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "现在呢  \nxiàn zài ne  \nNow, "
+    } ]
+  }, {
+    "tStartMs": 41100,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "我要骑一个这个电动的小自行车  \nwǒ yào qí yí gè zhè ge diàn dòng de xiǎo zì xíng chē  \nI’m going to ride this small electric bicycle."
+    } ]
+  }, {
+    "tStartMs": 46333,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "去菜市场  \nqù cài shì chǎng  \nGo to the market."
+    } ]
+  }, {
+    "tStartMs": 48033,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "因为走路的话大概要半个小时才能到  \nyīn wèi zǒu lù de huà dà gāo yào bàn ge xiǎo shí cái néng dào  \nIf you walk, it takes about half an hour to get there."
+    } ]
+  }, {
+    "tStartMs": 51666,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "那里  \nnà lǐ  \nThere."
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "骑电动的自行车会比较快  \nqí diàn dòng de zì xíng chē huì bǐ jiào kuài  \nRiding an electric bicycle is faster."
+    } ]
+  }, {
+    "tStartMs": 56133,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这个是一个共享的  \nzhè ge shì yí gè gòng xiǎng de  \nThis is a shared one."
+    } ]
+  }, {
+    "tStartMs": 58466,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "在我们这里大街上随处可见  \nzài wǒ men zhè lǐ dà jiē shàng suí chù kě jiàn  \nIt’s commonly seen on the streets here."
+    } ]
+  }, {
+    "tStartMs": 63366,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "你只需要用APP扫这个二维码  \nnǐ zhī xū yòng APP sǎo zhè ge èr wéi mǎ  \nYou just need to use the app to scan this QR code."
+    } ]
+  }, {
+    "tStartMs": 67933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "车就能打开了  \nchē jiù néng dǎ kāi le  \nThe bike will unlock."
+    } ]
+  }, {
+    "tStartMs": 69900,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "好啦!它现在开始启动啦  \nhǎo la! tā xiàn zài kāi shǐ qǐ dòng la  \nAlright! It’s starting now."
+    } ]
+  }, {
+    "tStartMs": 73733,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "是不是非常方便  \nshì bú shì fēi cháng fāng biàn  \nIsn’t it very convenient?"
+    } ]
+  }, {
+    "tStartMs": 77233,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "看这个屏幕上会给你显示剩余电量  \nkàn zhè ge píng mù shàng huì gěi nǐ xiǎn shì shèng yú diàn liàng  \nLook, the screen will show you the remaining battery."
+    } ]
+  }, {
+    "tStartMs": 82600,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "现在还有91%  \nxiàn zài hái yǒu 91%  \nNow it's still 91%."
+    } ]
+  }, {
+    "tStartMs": 86500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "完全足够了  \nwán quán zú gòu le  \nIt’s totally enough."
+    } ]
+  }, {
+    "tStartMs": 88433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "可以行驶66公里  \nkě yǐ xíng shǐ 66 gōng lǐ  \nIt can travel 66 kilometers."
+    } ]
+  }, {
+    "tStartMs": 93133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "走吧！  \nzǒu ba!  \nLet’s go!"
+    } ]
+  }, {
+    "tStartMs": 96033,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "啊对  \nā duì  \nOh "
+    } ]
+  }, {
+    "tStartMs": 96533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "好像忘了一件事  \nhǎo xiàng wàng le yī jiàn shì  \nI seem to have forgotten something."
+    } ]
+  }, {
+    "tStartMs": 98600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "忘戴头盔了  \nwàng dài tóu kuī le  \nI forgot to wear the helmet."
+    } ]
+  }, {
+    "tStartMs": 100900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "这个东西叫做头盔  \nzhè ge dōng xī jiào zuò tóu kuī  \nThis thing is called a helmet."
+    } ]
+  }, {
+    "tStartMs": 103766,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "这里还有一根绳子跟它连在一起的  \nzhè lǐ hái yǒu yī gēn shéng zi gēn tā lián zài yī qǐ de  \nThere is also a string attached to it."
+    } ]
+  }, {
+    "tStartMs": 108100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "防止它丢失或者被人偷走  \nfáng zhǐ tā diū shī huò zhě bèi rén tōu zǒu  \nTo prevent it from being lost or stolen."
+    } ]
+  }, {
+    "tStartMs": 120166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "好啦,现在已经到目的地了  \nhǎo la, xiàn zài yǐ jīng dào mù dì dì le  \nAlright, we have arrived at the destination."
+    } ]
+  }, {
+    "tStartMs": 123333,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "然后我需要把电动车停在这个地方  \nrán hòu wǒ xū yào bǎ diàn dòng chē tíng zài zhè ge dì fāng  \nThen I need to park the electric bike here."
+    } ]
+  }, {
+    "tStartMs": 128066,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "这是统一放电动车的地方  \nzhè shì tǒng yī fàng diàn dòng chē de dì fāng  \nThis is the designated place for electric bikes."
+    } ]
+  }, {
+    "tStartMs": 131766,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "看到了吗  \nkàn dào le ma  \nDid you see it?"
+    } ]
+  }, {
+    "tStartMs": 133233,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这里专门画了一条线  \nzhè lǐ zhuān mén huà le yì tiáo xiàn  \nA line has been drawn here specifically."
+    } ]
+  }, {
+    "tStartMs": 135666,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "共享电动车必须得停在这个地方  \ngòng xiǎng diàn dòng chē bì xū děi tíng zài zhè ge dì fāng  \nShared electric bikes must be parked here."
+    } ]
+  }, {
+    "tStartMs": 139500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "不能随便到处乱停  \nbù néng suí biàn dào chù luàn tíng  \nThey can’t be parked carelessly anywhere."
+    } ]
+  }, {
+    "tStartMs": 142466,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "然后  \nrán hòu  \nThen"
+    } ]
+  }, {
+    "tStartMs": 143533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我还是需要扫这个二维码来关锁  \nwǒ hái shì xū yào sǎo zhè ge èr wéi mǎ lái guān suǒ  \nI still need to scan this QR code to lock it."
+    } ]
+  }, {
+    "tStartMs": 147266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "刚才我骑了24分钟  \ngāng cái wǒ qí le 24 fēn zhōng  \nI just rode for 24 minutes."
+    } ]
+  }, {
+    "tStartMs": 150566,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "花了4块钱  \nhuā le 4 kuài qián  \nI spent 4 yuan."
+    } ]
+  }, {
+    "tStartMs": 153066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "你觉得是便宜还是贵呢？ \nnǐ jué de shì pián yi hái shì guì ne  \nDo you think it's cheap or expensive?"
+    } ]
+  }, {
+    "tStartMs": 159966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这里有一个卖树苗的摊子  \nzhè lǐ yǒu yí gè mài shù miáo de tān zi  \nHere is a stall selling saplings."
+    } ]
+  }, {
+    "tStartMs": 164266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "上面有每棵树苗的名字  \nshàng miàn yǒu měi kē shù miáo de míng zì  \nThere are names of each sapling above."
+    } ]
+  }, {
+    "tStartMs": 172100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "请问这个是什么花啊  \nqǐng wèn zhè ge shì shén me huā a  \nExcuse me, what flower is this?"
+    } ]
+  }, {
+    "tStartMs": 173700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "做粑粑的糯米花  \nzuò bā bā de nuò mǐ huā  \nIt’s glutinous rice flower for making rice cakes."
+    } ]
+  }, {
+    "tStartMs": 175233,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "糯米花  \nnuò mǐ huā  \nGlutinous rice flower."
+    } ]
+  }, {
+    "tStartMs": 177066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "粑粑花  \nbā bā huā  \nRice cake flower."
+    } ]
+  }, {
+    "tStartMs": 178833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "这个是不是紫荆花?  \nzhè ge shì bú shì zǐ jīng huā?  \nIs this a redbud flower?"
+    } ]
+  }, {
+    "tStartMs": 180366,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "不是,玉荷花  \nbú shì, yù hé huā  \nNo, it’s a YuHe flower."
+    } ]
+  }, {
+    "tStartMs": 181700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "玉荷花  \nyù hé huā  \nYuHe flower."
+    } ]
+  }, {
+    "tStartMs": 184133,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "这个呢?  \nzhè ge ne?  \nWhat about this one?"
+    } ]
+  }, {
+    "tStartMs": 185533,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "苦刺花  \nkǔ cì huā  \nKuCi flower."
+    } ]
+  }, {
+    "tStartMs": 186700,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这个是金雀花对吧  \nzhè ge shì jīn què huā duì ba  \nThis is a broomrape flower, right?"
+    } ]
+  }, {
+    "tStartMs": 188033,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "对  \nduì  \nYes."
+    } ]
+  }, {
+    "tStartMs": 188700,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "然后这个是香椿芽?  \nrán hòu zhè ge shì xiāng chūn yá?  \nAnd this one is an Chinese toon sprout?"
+    } ]
+  }, {
+    "tStartMs": 189966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不是  \nbú shì  \nNo."
+    } ]
+  }, {
+    "tStartMs": 190900,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不是香椿?  \nbú shì xiāng chūn?  \nIsn't it Chinese toon?"
+    } ]
+  }, {
+    "tStartMs": 192266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "是刺苞菜  \nshì cì bāo cài  \nIt’s CiBaoCai."
+    } ]
+  }, {
+    "tStartMs": 195133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "长得好像香椿啊  \nzhǎng de hǎo xiàng xiāng chūn a  \nIt looks a lot like Chinese toon."
+    } ]
+  }, {
+    "tStartMs": 197766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这些拿来怎么吃?  \nzhè xiē ná lái zěn me chī?  \nHow do you eat these?"
+    } ]
+  }, {
+    "tStartMs": 200533,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "炒了吃,煮了吃  \nchǎo le chī, zhǔ le chī  \nStir-fried or boiled."
+    } ]
+  }, {
+    "tStartMs": 201833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "凉拌了吃  \nliáng bàn le chī  \nas a salad."
+    } ]
+  }, {
+    "tStartMs": 202633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "你想怎么吃就怎么吃  \nnǐ xiǎng zěn me chī jiù zěn me chī  \nYou can eat it however you want."
+    } ]
+  }, {
+    "tStartMs": 204300,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "所有这些花都可以拿来炒？  \nsuǒ yǒu zhè xiē huā dōu kě yǐ ná lái chǎo?  \nCan all these flowers be stir-fried?"
+    } ]
+  }, {
+    "tStartMs": 206166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "可以炒  \nkě yǐ chǎo  \nYes, they can be stir-fried."
+    } ]
+  }, {
+    "tStartMs": 206966,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "好有趣啊  \nhǎo yǒu qù a  \nHow interesting!"
+    } ]
+  }, {
+    "tStartMs": 213033,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "哇又是花  \nwā yòu shì huā  \nWow, more flowers!"
+    } ]
+  }, {
+    "tStartMs": 215266,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "各种花  \ngè zhǒng huā  \nVarious flowers."
+    } ]
+  }, {
+    "tStartMs": 216833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "这个花看起来好特别啊  \nzhè ge huā kàn qǐ lái hǎo tè bié a  \nThis flower looks so special!"
+    } ]
+  }, {
+    "tStartMs": 218366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "这花是煎粑粑吃的  \n zhè huā shì jiān bā bā chī de  \nAh, this flower is for frying rice cakes."
+    } ]
+  }, {
+    "tStartMs": 221466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "做粑粑吃的  \nzuò bā bā chī de  \nIt's used to make rice cakes."
+    } ]
+  }, {
+    "tStartMs": 223166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "就是做饼吃的,是吗?  \njiù shì zuò bǐng chī de, shì ma?  \nSo it’s used to make cakes, right?"
+    } ]
+  }, {
+    "tStartMs": 224500,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "嗯，煎粑粑  \nèn, jiān bā bā  \nYes, frying rice cakes."
+    } ]
+  }, {
+    "tStartMs": 226633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "还有可以  \nhái yǒu kě yǐ  \nAnd it can also be used for..."
+    } ]
+  }, {
+    "tStartMs": 227666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "泡水喝,还可以染发  \npào shuǐ hē, hái kě yǐ rǎn fà  \nsoak it in water to drink, and it can also be used to dye hair."
+    } ]
+  }, {
+    "tStartMs": 230466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "染发  \nrǎn fà  \nDyeing hair."
+    } ]
+  }, {
+    "tStartMs": 232900,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "染出来会是什么颜色  \nrǎn chū lái huì shì shén me yán sè  \nWhat color will it be dyed?"
+    } ]
+  }, {
+    "tStartMs": 234233,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "黄色的  \nhuáng sè de  \nyellow."
+    } ]
+  }, {
+    "tStartMs": 234933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "黄色的  \nhuáng sè de  \nYellow."
+    } ]
+  }, {
+    "tStartMs": 236433,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "哇  \nwā  \nWow."
+    } ]
+  }, {
+    "tStartMs": 236700,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "好神奇啊  \nhǎo shén qí a  \nSo magical!"
+    } ]
+  }, {
+    "tStartMs": 237800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "这花  \nzhè huā  \nThis flower..."
+    } ]
+  }, {
+    "tStartMs": 239666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "把它拿来用水煮  \nbǎ tā ná lái yòng shuǐ zhǔ  \nBoil it in water..."
+    } ]
+  }, {
+    "tStartMs": 241500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "就会是黄色的水  \njiù huì shì huáng sè de shuǐ  \nAnd the water will turn yellow."
+    } ]
+  }, {
+    "tStartMs": 243733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "用那些水来泡米  \nyòng nà xiē shuǐ lái pào mǐ  \nUse that water to soak rice."
+    } ]
+  }, {
+    "tStartMs": 246033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "泡了和米一起煮就成黄色的  \npào le hé mǐ yī qǐ zhǔ jiù chéng huáng sè de  \nCook it with the rice and it turns yellow."
+    } ]
+  }, {
+    "tStartMs": 249566,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "染烫花  \nrǎn tàng huā  \nColouring and Perming flower."
+    } ]
+  }, {
+    "tStartMs": 250666,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "染烫花  \nrǎn tàng huā  \nColouring and Perming flower."
+    } ]
+  }, {
+    "tStartMs": 252833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "好神奇啊  \nhǎo shén qí a  \nSo amazing!"
+    } ]
+  }, {
+    "tStartMs": 255133,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "那这个吃起来会是什么味道？  \nnà zhè ge chī qǐ lái huì shì shén me wèi dào?  \nSo what does this taste like?"
+    } ]
+  }, {
+    "tStartMs": 258966,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "什么？  \nshén me?  \nWhat?"
+    } ]
+  }, {
+    "tStartMs": 260166,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "香的味道  \nxiāng de wèi dào  \nfragrant taste."
+    } ]
+  }, {
+    "tStartMs": 262100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "还可以泡水喝  \nhái kě yǐ pào shuǐ hē  \nYou can also soak it in water and drink it."
+    } ]
+  }, {
+    "tStartMs": 263833,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "什么功效  \nshén me gōng xiào  \nWhat are its benefits?"
+    } ]
+  }, {
+    "tStartMs": 264533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这治什么的  \nzhè zhì shén me de  \nWhat does it treat?"
+    } ]
+  }, {
+    "tStartMs": 267033,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "就是清火的是吧  \njiù shì qīng huǒ de shì ba  \nIt helps to reduce internal heat, right?"
+    } ]
+  }, {
+    "tStartMs": 268166,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "对，清火的  \nduì, qīng huǒ de  \nYes, it's for clearing heat."
+    } ]
+  }, {
+    "tStartMs": 270833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "好神奇。这叫什么名字啊？  \nhǎo shén qí. zhè jiào shén me míng zì a?  \nThat’s amazing. What’s it called?"
+    } ]
+  }, {
+    "tStartMs": 272933,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我们在农村里是叫染烫花  \nwǒ men zài nóng cūn lǐ shì jiào rǎn tàng huā  \nIn the countryside, we call it \"Colouring and Perming flower.\"."
+    } ]
+  }, {
+    "tStartMs": 275733,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "染烫花哦  \nrǎn tàng huā ó  \nColouring and Perming flower, oh."
+    } ]
+  }, {
+    "tStartMs": 279333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "太有趣了这个  \ntài yǒu qù le zhè ge  \nThis is so interesting."
+    } ]
+  }, {
+    "tStartMs": 281066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个是金雀花  \nzhè ge shì jīn què huā  \nThis is golden bird flower."
+    } ]
+  }, {
+    "tStartMs": 281966,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "金雀花  \njīn què huā  \nGolden bird flower."
+    } ]
+  }, {
+    "tStartMs": 282833,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们这是本地的  \nwǒ men zhè shì běn dì de  \nThis is local to our area."
+    } ]
+  }, {
+    "tStartMs": 284133,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我们这是甜的啊  \nwǒ men zhè shì tián de a  \nOurs is sweet."
+    } ]
+  }, {
+    "tStartMs": 285900,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "这个吃起来是甜的哎  \nzhè ge chī qǐ lái shì tián de a  \nThis tastes sweet."
+    } ]
+  }, {
+    "tStartMs": 287966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这可以吃啊  \n zhè kě yǐ chī a  \nOh, this is edible?"
+    } ]
+  }, {
+    "tStartMs": 289366,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "尝一下是吧  \ncháng yī xià shì ba  \nI’ll give it a try then?"
+    } ]
+  }, {
+    "tStartMs": 296433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "是甜的啊  \nshì tián de a  \nIt is sweet!"
+    } ]
+  }, {
+    "tStartMs": 297833,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "真的是甜的  \nzhēn de shì tián de  \nIt really is sweet."
+    } ]
+  }, {
+    "tStartMs": 299100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "真的是一种很天然的那种甜味  \nzhēn de shì yī zhǒng hěn tiān rán de nà zhǒng tián wèi  \nIt’s a very natural kind of sweetness."
+    } ]
+  }, {
+    "tStartMs": 302166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "太神奇了这个  \ntài shén qí le zhè ge  \nThis is so amazing!"
+    } ]
+  }, {
+    "tStartMs": 304500,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "谢谢阿姨啊  \nxiè xiè ā yí a  \nThank you, auntie!"
+    } ]
+  }, {
+    "tStartMs": 305533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "谢谢，谢谢你  \nxiè xiè xiè xiè nǐ  \nThanks, thank you so much!"
+    } ]
+  }, {
+    "tStartMs": 306700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "不用谢  \nbú yòng xiè  \nYou’re welcome."
+    } ]
+  }, {
+    "tStartMs": 312833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个看起来像萝卜  \nzhè ge kàn qǐ lái xiàng luó bo  \nThis looks like a radish."
+    } ]
+  }, {
+    "tStartMs": 315100,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个是什么呀?请问  \nzhè ge shì shén me a? qǐng wèn  \nWhat is this, may I ask?"
+    } ]
+  }, {
+    "tStartMs": 315900,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "茴香  \nhuí xiāng  \nFennel."
+    } ]
+  }, {
+    "tStartMs": 317466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "茴香  \nhuí xiāng  \nFennel."
+    } ]
+  }, {
+    "tStartMs": 319533,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这是茴香的根对吧？  \nzhè shì huí xiāng de gēn duì ba?  \nThis is the root of fennel, right?"
+    } ]
+  }, {
+    "tStartMs": 321533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "对啊  \nduì a  \nYes."
+    } ]
+  }, {
+    "tStartMs": 322500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "茴香的根怎么吃呢？  \nhuí xiāng de gēn zěn me chī ne?  \nHow do you eat fennel root?"
+    } ]
+  }, {
+    "tStartMs": 324500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "煮排骨  \nzhǔ pái gǔ  \nBoil it with pork ribs."
+    } ]
+  }, {
+    "tStartMs": 325566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "煮排骨  \nzhǔ pái gǔ  \nBoil it with ribs."
+    } ]
+  }, {
+    "tStartMs": 327966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "是香的吗  \nshì xiāng de ma  \nDoes it smell good?"
+    } ]
+  }, {
+    "tStartMs": 329300,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "香的。又香又甜  \nxiāng de. yòu xiāng yòu tián  \nYes, it's aromatic. Fragrant and sweet."
+    } ]
+  }, {
+    "tStartMs": 331633,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "又香又甜哇  \nyòu xiāng yòu tián wa  \nFragrant and sweet—wow!"
+    } ]
+  }, {
+    "tStartMs": 334033,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "好神奇啊  \nhǎo shén qí a  \nSo magical."
+    } ]
+  }, {
+    "tStartMs": 335766,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "你们这里好多东西我们都没有见过  \nnǐ men zhè lǐ hǎo duō dōng xī wǒ men dōu méi yǒu jiàn guò  \nThere are so many things here we’ve never seen before!"
+    } ]
+  }, {
+    "tStartMs": 341633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "感觉今天人不是特别多  \ngǎn jué jīn tiān rén bù shì tè bié duō  \nIt feels like there aren’t many people today."
+    } ]
+  }, {
+    "tStartMs": 344833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "可能是今天是周六吧  \nkě néng shì jīn tiān shì zhōu liù ba  \nMaybe because today is Saturday."
+    } ]
+  }, {
+    "tStartMs": 347900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "大家可能还在睡懒觉  \ndà jiā kě néng hái zài shuì lǎn jiào  \nMaybe people are still sleeping in."
+    } ]
+  }, {
+    "tStartMs": 360233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这鸡蛋看起来好新鲜  \nzhè jī dàn kàn qǐ lái hǎo xīn xiān  \nThese eggs look so fresh."
+    } ]
+  }, {
+    "tStartMs": 366466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你们知道这个是什么吗？  \nnǐ men zhī dào zhè ge shì shén me ma?  \nDo you guys know what this is?"
+    } ]
+  }, {
+    "tStartMs": 369500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "这个是皮蛋对不对  \nzhè ge shì pí dàn duì bù duì  \nThis is century egg, right?"
+    } ]
+  }, {
+    "tStartMs": 373066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "蘑菇  \nmó gū  \nMushrooms."
+    } ]
+  }, {
+    "tStartMs": 376666,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "哇塞！好多东西都没有见过哦  \nwa sāi! hǎo duō dōng xī dōu méi yǒu jiàn guò ó  \nWow! So many things I’ve never seen before!"
+    } ]
+  }, {
+    "tStartMs": 378900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个都是野生的  \nzhè ge dōu shì yě shēng de  \nThese are all wild."
+    } ]
+  }, {
+    "tStartMs": 381166,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "都是野生的  \ndōu shì yě shēng de  \nAll wild."
+    } ]
+  }, {
+    "tStartMs": 382233,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "对啊！在山后呀  \nduì a! zài shān hòu ya  \nYes! From behind the mountain."
+    } ]
+  }, {
+    "tStartMs": 383700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "哇！都没有见过  \nwa! dōu méi yǒu jiàn guò  \nWow! Never seen any of these."
+    } ]
+  }, {
+    "tStartMs": 386533,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个是金银花吧？  \nzhè ge shì jīn yín huā ba?  \nIs this honeysuckle?"
+    } ]
+  }, {
+    "tStartMs": 387666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对啊  \nduì a  \nYeah."
+    } ]
+  }, {
+    "tStartMs": 388466,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "怎么吃？  \nzěn me chī?  \nHow do you eat it?"
+    } ]
+  }, {
+    "tStartMs": 389166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这个泡水喝呀  \nzhè ge pào shuǐ hē ya  \nSoak it in water and drink it."
+    } ]
+  }, {
+    "tStartMs": 390266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "不能拿来烧菜吗？  \nbù néng ná lái shāo cài ma?  \nCan’t you cook with it?"
+    } ]
+  }, {
+    "tStartMs": 392433,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "这个是桑葚的花吧  \nzhè ge shì sāng shèn de huā ba  \nThis is mulberry flower, right?"
+    } ]
+  }, {
+    "tStartMs": 393666,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "对吧？对  \nduì ba duì  \nYeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 394233,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "怎么吃啊这个  \nzěn me chī a zhè ge  \nHow do you eat this?"
+    } ]
+  }, {
+    "tStartMs": 395466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这个炒（来）吃呀  \nzhè ge chǎo (lái) chī ya  \nThis one you stir-fry."
+    } ]
+  }, {
+    "tStartMs": 396666,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "炒菜啊  \nchǎo cài a  \nStir-fry it."
+    } ]
+  }, {
+    "tStartMs": 397500,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "对  \nduì  \nRight."
+    } ]
+  }, {
+    "tStartMs": 403100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这个是某种植物的芽吧  \nzhè ge shì mǒu zhǒng zhí wù de yá ba  \nThis looks like the sprout of some plant."
+    } ]
+  }, {
+    "tStartMs": 406566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这个也是一种花  \nzhè ge yě shì yī zhǒng huā  \nThis is also a kind of flower."
+    } ]
+  }, {
+    "tStartMs": 407533,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "年轻人不知道  \nnián qīng rén bù zhī dào  \nYoung people don’t know this."
+    } ]
+  }, {
+    "tStartMs": 408766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "还没有开的花  \nhái méi yǒu kāi de huā  \nA flower that hasn’t bloomed yet."
+    } ]
+  }, {
+    "tStartMs": 412166,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "你是外地人  \nnǐ shì wài dì rén  \nYou're not local."
+    } ]
+  }, {
+    "tStartMs": 414333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我来这里旅游的  \nwǒ lái zhè lǐ lǚ yóu de  \nI’m here traveling."
+    } ]
+  }, {
+    "tStartMs": 415700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "没见过，没见过  \nméi jiàn guò, méi jiàn guò  \nNever seen it, never seen it."
+    } ]
+  }, {
+    "tStartMs": 417500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这个是卖蜂蜜的  \nzhè ge shì mài fēng mì de  \nThis is a honey vendor."
+    } ]
+  }, {
+    "tStartMs": 422933,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "哎，不对  \nāi, bú duì  \nAh, no, that’s not right."
+    } ]
+  }, {
+    "tStartMs": 423500,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "卖芝麻油的  \nmài zhī ma yóu de  \nHe is selling sesame oil."
+    } ]
+  }, {
+    "tStartMs": 425366,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "这是现场榨的芝麻油  \nzhè shì xiàn zhà de zhī ma yóu  \nThis is freshly pressed sesame oil."
+    } ]
+  }, {
+    "tStartMs": 429766,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "现榨现卖  \nxiàn zhà xiàn mài  \nPressed and sold on the spot."
+    } ]
+  }, {
+    "tStartMs": 430633,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "芝麻油，芝麻酱  \nzhī ma yóu, zhī ma jiàng  \nSesame oil, sesame paste."
+    } ]
+  }, {
+    "tStartMs": 432133,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "非常新鲜  \nfēi cháng xīn xiān  \nVery fresh."
+    } ]
+  }, {
+    "tStartMs": 433133,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "香味特别好  \nxiāng wèi tè bié hǎo  \nThe aroma is especially good."
+    } ]
+  }, {
+    "tStartMs": 434433,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "用来凉拌菜  \nyòng lái liáng bàn cài  \nUse it in cold dishes."
+    } ]
+  }, {
+    "tStartMs": 435566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "米线，面条  \nmǐ xiàn, miàn tiáo  \nRice noodles, regular noodles."
+    } ]
+  }, {
+    "tStartMs": 436766,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "包饺子。现榨现卖  \nbāo jiǎo zi. xiàn zhà xiàn mài  \nFor dumplings. Pressed and sold on the spot."
+    } ]
+  }, {
+    "tStartMs": 438633,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "芝麻油，芝麻酱  \nzhī ma yóu, zhī ma jiàng  \nSesame oil, sesame paste."
+    } ]
+  }, {
+    "tStartMs": 440100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "非常新鲜  \nfēi cháng xīn xiān  \nVery fresh."
+    } ]
+  }, {
+    "tStartMs": 441166,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "香味特别好  \nxiāng wèi tè bié hǎo  \nThe aroma is especially good."
+    } ]
+  }, {
+    "tStartMs": 442500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "用来擦烧烤  \nyòng lái cā shāo kǎo  \nBrush it on barbecue"
+    } ]
+  }, {
+    "tStartMs": 443666,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "做蘸水、凉拌菜，都非常香  \nzuò zhàn shuǐ, liáng bàn cài, dōu fēi cháng xiāng  \nFor dipping sauce or cold dishes — very fragrant."
+    } ]
+  }, {
+    "tStartMs": 446566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "冷的、热的都可以食用  \nlěng de, rè de dōu kě yǐ shí yòng  \nGood for both hot and cold dishes."
+    } ]
+  }, {
+    "tStartMs": 449533,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "芝麻油，芝麻酱  \nzhī ma yóu, zhī ma jiàng  \nSesame oil, sesame paste."
+    } ]
+  }, {
+    "tStartMs": 450966,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "非常新鲜  \nfēi cháng xīn xiān  \nVery fresh."
+    } ]
+  }, {
+    "tStartMs": 454533,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "卖鱼的摊子  \nmài yú de tān zi  \nA stall that sells fish."
+    } ]
+  }, {
+    "tStartMs": 457433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这个鱼闻起来好香啊  \nzhè ge yú wén qǐ lái hǎo xiāng a  \nThis fish smells amazing!"
+    } ]
+  }, {
+    "tStartMs": 463900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "闻起来好香，好想吃  \nwén qǐ lái hǎo xiāng, hǎo xiǎng chī  \nSmells so good, really want to eat it."
+    } ]
+  }, {
+    "tStartMs": 489966,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "新鲜的豆腐  \nxīn xiān de dòu fu  \nFresh tofu."
+    } ]
+  }, {
+    "tStartMs": 493533,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "蓝莓  \nlán méi  \nBlueberries."
+    } ]
+  }, {
+    "tStartMs": 494866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇  \nwā  \nWow."
+    } ]
+  }, {
+    "tStartMs": 497100,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "这个蓝莓好大颗呀  \nzhè ge lán méi hǎo dà kē ya  \nThese blueberries are so big!"
+    } ]
+  }, {
+    "tStartMs": 500633,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "好大颗，你看  \nhǎo dà kē, nǐ kàn  \nSo big! Look!"
+    } ]
+  }, {
+    "tStartMs": 502833,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "比我的手指头还大  \nbǐ wǒ de shǒu zhǐ tóu hái dà  \nBigger than my fingertip!"
+    } ]
+  }, {
+    "tStartMs": 506266,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这里有一个鲜花店  \nzhè lǐ yǒu yī gè xiān huā diàn  \nThere’s a flower shop here."
+    } ]
+  }, {
+    "tStartMs": 515766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这个是菊花  \nzhè ge shì jú huā  \nThese are chrysanthemums."
+    } ]
+  }, {
+    "tStartMs": 518166,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "菊花在中国是用来祭奠逝去的人的  \njú huā zài zhōng guó shì yòng lái jì diàn shì qù de rén de  \nIn China, chrysanthemums are used to mourn the deceased."
+    } ]
+  }, {
+    "tStartMs": 523233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "就是死人  \njiù shì sǐ rén  \npeople who have passed away."
+    } ]
+  }, {
+    "tStartMs": 525633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "嗯，所以呢  \nēn, suǒ yǐ ne  \nYeah, so..."
+    } ]
+  }, {
+    "tStartMs": 527066,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "菊花在中国  \njú huā zài zhōng guó  \nChrysanthemums in China..."
+    } ]
+  }, {
+    "tStartMs": 528500,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "我们不能当作礼物来赠送  \nwǒ men bù néng dāng zuò lǐ wù lái zèng sòng  \n...shouldn’t be given as gifts."
+    } ]
+  }, {
+    "tStartMs": 537500,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "现在离清明节很近了  \nxiàn zài lí qīng míng jié hěn jìn le  \nIt’s almost Qingming Festival now."
+    } ]
+  }, {
+    "tStartMs": 540300,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "如果你想要去坟墓  \nrú guǒ nǐ xiǎng yào qù fén mù  \nIf you want to visit a grave..."
+    } ]
+  }, {
+    "tStartMs": 543900,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "去墓地看望你逝去的亲人或者朋友  \nqù mù dì kàn wàng nǐ shì qù de qīn rén huò zhě péng yǒu  \nTo visit deceased family or friends at the cemetery..."
+    } ]
+  }, {
+    "tStartMs": 549200,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "你就可以带上一束这样子的菊花  \nnǐ jiù kě yǐ dài shàng yī shù zhè yàng zi de jú huā  \nYou can bring a bouquet of chrysanthemums like these."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "去看望他们  \nqù kàn wàng tā men  \nGo visit them."
+    } ]
+  }, {
+    "tStartMs": 559333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这个裤子30块钱一条  \nzhè ge kù zi sān shí kuài qián yī tiáo  \nThese pants are 30 yuan each."
+    } ]
+  }, {
+    "tStartMs": 562866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "嗯好便宜  \nēn hǎo pián yí  \nMm, so cheap!"
+    } ]
+  }, {
+    "tStartMs": 565700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "而且看起来质量不错  \nér qiě kàn qǐ lái zhì liàng bú cuò  \nAnd they look like good quality."
+    } ]
+  }, {
+    "tStartMs": 570933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "哇这个是灵芝吗  \nwā zhè ge shì líng zhī ma  \nWow, is this reishi mushroom?"
+    } ]
+  }, {
+    "tStartMs": 573200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "是真的灵芝哦  \nshì zhēn de líng zhī ó  \nIt’s real reishi mushroom!"
+    } ]
+  }, {
+    "tStartMs": 575633,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "种的啊  \nzhòng de a\nIt’s cultivated"
+    } ]
+  }, {
+    "tStartMs": 576500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这么大一个  \nzhè me dà yī gè  \nSuch a big one!"
+    } ]
+  }, {
+    "tStartMs": 579033,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "哇这么大  \nwā zhè me dà  \nWow, huge!"
+    } ]
+  }, {
+    "tStartMs": 584633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "哇这些都是昆虫啊  \nwā zhè xiē dōu shì kūn chóng a  \nWow, these are all insects."
+    } ]
+  }, {
+    "tStartMs": 587533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "各种虫子  \ngè zhǒng chóng zi  \nAll kinds of bugs."
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "蜈蚣  \nwú gōng  \nCentipedes."
+    } ]
+  }, {
+    "tStartMs": 590433,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "这个是什么  \nzhè ge shì shén me  \nWhat is this one?"
+    } ]
+  }, {
+    "tStartMs": 591100,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "臭屁虫还是什么虫啊  \nchòu pì chóng hái shì shén me chóng a  \nStink bug or some other kind of bug?"
+    } ]
+  }, {
+    "tStartMs": 593900,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "各种虫子  \ngè zhǒng chóng zi  \nAll kinds of bugs."
+    } ]
+  }, {
+    "tStartMs": 596666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "然后用它们来泡酒喝  \nrán hòu yòng tā men lái pào jiǔ hē  \nAnd then they’re soaked in liquor to drink."
+    } ]
+  }, {
+    "tStartMs": 599200,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "说是可以治某种病  \nshuō shì kě yǐ zhì mǒu zhǒng bìng  \nThey say it can treat certain illnesses."
+    } ]
+  }, {
+    "tStartMs": 607733,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "这是蛇皮  \nzhè shì shé pí  \nThis is snake skin."
+    } ]
+  }, {
+    "tStartMs": 610100,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "海星  \nhǎi xīng  \nStarfish."
+    } ]
+  }, {
+    "tStartMs": 615866,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "这些东西我都不认识  \nzhè xiē dōng xi wǒ dōu bú rèn shi  \nI don’t recognize any of these things."
+    } ]
+  }, {
+    "tStartMs": 619400,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "泡出来的酒叫做五毒酒  \npào chū lái de jiǔ jiào zuò wǔ dú jiǔ  \nThe liquor soaked with them is called “Five Poison Wine.”"
+    } ]
+  }, {
+    "tStartMs": 624133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "大米做的饺子  \ndà mǐ zuò de jiǎo zi  \nDumplings made with rice."
+    } ]
+  }, {
+    "tStartMs": 625366,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "啊这是大米做的饺子  \nā zhè shì dà mǐ zuò de jiǎo zi  \nAh, these dumplings are made from rice!"
+    } ]
+  }, {
+    "tStartMs": 627366,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "不是面粉做的  \nbú shì miàn fěn zuò de  \nNot made with wheat flour."
+    } ]
+  }, {
+    "tStartMs": 628466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "这是我们通化的特产  \nzhè shì wǒ men tōng huà de tè chǎn  \nThis is a local specialty from Tonghua."
+    } ]
+  }, {
+    "tStartMs": 630166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "哇好可爱啊看起来！啊谢谢  \nwā hǎo kě ài a kàn qǐ lái! ā xiè xiè  \nWow, it looks so cute! Ah, thank you!"
+    } ]
+  }, {
+    "tStartMs": 633166,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "啊谢谢  \nā xiè xiè  \nAh, thank you!"
+    } ]
+  }, {
+    "tStartMs": 634300,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不客气  \nbú kè qì  \nYou're welcome."
+    } ]
+  }, {
+    "tStartMs": 647566,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "啊这个皮好Q弹啊  \nā zhè ge pí hǎo Q tán a  \nAh, the skin is so bouncy and chewy!"
+    } ]
+  }, {
+    "tStartMs": 672166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这里也有卖鱼的  \nzhè lǐ yě yǒu mài yú de  \nThere are fish vendors here too."
+    } ]
+  }, {
+    "tStartMs": 675100,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这个鱼看起来辣辣的  \nzhè ge yú kàn qǐ lái là là de  \nThis fish looks spicy."
+    } ]
+  }, {
+    "tStartMs": 676733,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "肯定很好吃  \nkěn dìng hěn hǎo chī  \nIt must be delicious."
+    } ]
+  }, {
+    "tStartMs": 678700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "看起来很入味对吧  \nkàn qǐ lái hěn rù wèi duì ba  \nLooks like the flavor really soaks in, right?"
+    } ]
+  }, {
+    "tStartMs": 682166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "还有煮的  \nhái yǒu zhǔ de  \nThere’s also boiled ones."
+    } ]
+  }, {
+    "tStartMs": 684566,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "好香啊  \nhǎo xiāng a  \nSmells amazing!"
+    } ]
+  }, {
+    "tStartMs": 686833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "好想吃  \nhǎo xiǎng chī  \nI really want to eat it."
+    } ]
+  }, {
+    "tStartMs": 701266,
+    "dDurationMs": 4367,
+    "segs": [ {
+      "utf8": "你们知道这三个字是什么吗  \nnǐ men zhī dào zhè sān ge zì shì shén me ma  \nDo you know what these three characters mean?"
+    } ]
+  }, {
+    "tStartMs": 706166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "豆腐坊  \ndòu fu fang  \nTofu workshop."
+    } ]
+  }, {
+    "tStartMs": 709633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "就是专门卖豆腐的作坊  \njiù shì zhuān mén mài dòu fu de zuō fang  \nIt’s a place specifically for selling tofu."
+    } ]
+  }, {
+    "tStartMs": 713933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "这个圆球的是什么呀  \nzhè ge yuán qiú de shì shén me ya  \nWhat is this round ball thing?"
+    } ]
+  }, {
+    "tStartMs": 716033,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个是豆腐的渣  \nzhè ge shì dòu fu de zhā  \nThis is tofu residue."
+    } ]
+  }, {
+    "tStartMs": 718300,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "哦！豆渣。就做豆腐剩下的渣  \nó! dòu zhā. jiù zuò dòu fu shèng xià de zhā  \nOh! Tofu residue — what’s left after making tofu."
+    } ]
+  }, {
+    "tStartMs": 721900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "怎么吃呢  \nzěn me chī ne  \nHow do you eat it?"
+    } ]
+  }, {
+    "tStartMs": 723066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这个拿来去炒香菜  \nzhè ge ná lái qù chǎo xiāng cài  \nUse it to stir-fry with coriander."
+    } ]
+  }, {
+    "tStartMs": 725466,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "炒茴香，炒番茄都可以  \nchǎo huí xiāng, chǎo fān qié dōu kě yǐ  \nStir-fry with fennel or tomato — both work."
+    } ]
+  }, {
+    "tStartMs": 729166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "哎可是我记得它很粗糙啊很粗糙  \nāi kě shì wǒ jì dé tā hěn cū cāo a hěn cū cāo  \nEh, but I remember it being really coarse..."
+    } ]
+  }, {
+    "tStartMs": 732766,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "不粗  \nbù cū  \nNot coarse!"
+    } ]
+  }, {
+    "tStartMs": 733500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "不粗  \nbù cū  \nNot coarse"
+    } ]
+  }, {
+    "tStartMs": 735466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "有意思这个  \nyǒu yì si zhè ge  \nInteresting, this one."
+    } ]
+  }, {
+    "tStartMs": 736466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这个是豆花  \nzhè ge shì dòu huā  \nThis is tofu pudding."
+    } ]
+  }, {
+    "tStartMs": 737833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个是豆花  \nzhè ge shì dòu huā  \nThis is tofu pudding."
+    } ]
+  }, {
+    "tStartMs": 739066,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "豆花  \ndòu huā  \nTofu pudding"
+    } ]
+  }, {
+    "tStartMs": 739633,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "对  \nduì  \nYes"
+    } ]
+  }, {
+    "tStartMs": 740300,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "这个是豆浆  \nzhè ge shì dòu jiāng  \nThis is soy milk"
+    } ]
+  }, {
+    "tStartMs": 741900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "你们这边豆花是吃甜的还是咸的？  \nnǐ men zhè biān dòu huā shì chī tián de hái shì xián de?  \nDo you eat tofu pudding sweet or savory here?"
+    } ]
+  }, {
+    "tStartMs": 744900,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "随你。你要吃甜的也行  \nsuí nǐ. nǐ yào chī tián de yě xíng  \nUp to you. You can eat it sweet"
+    } ]
+  }, {
+    "tStartMs": 746966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "吃咸的也行  \nchī xián de yě xíng  \nOr savory."
+    } ]
+  }, {
+    "tStartMs": 754033,
+    "dDurationMs": 5633,
+    "segs": [ {
+      "utf8": "这个摊子卖各种干货  \nzhè ge tān zi mài gè zhǒng gān huò  \nThis stall sells all kinds of dried goods."
+    } ]
+  }, {
+    "tStartMs": 766900,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "你们有见过这种水果吗？  \nnǐ men yǒu jiàn guò zhè zhǒng shuǐ guǒ ma?  \nHave you seen this kind of fruit before?"
+    } ]
+  }, {
+    "tStartMs": 774566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这叫做枇杷  \nzhè jiào zuò pí pa  \nThis is called loquat."
+    } ]
+  }, {
+    "tStartMs": 777366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "它是一种很甜很多汁  \ntā shì yī zhǒng hěn tián hěn duō zhī  \nIt’s a very sweet and juicy fruit."
+    } ]
+  }, {
+    "tStartMs": 780866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "很美味的水果  \nhěn měi wèi de shuǐ guǒ  \nA very delicious fruit."
+    } ]
+  }, {
+    "tStartMs": 787500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "卖锅具的  \nmài guō jù de  \nSelling cookware."
+    } ]
+  }, {
+    "tStartMs": 792266,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "碗筷  \nwǎn kuài  \nBowls and chopsticks."
+    } ]
+  }, {
+    "tStartMs": 796666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "好大一根牛尾巴  \nhǎo dà yī gēn niú wěi ba  \nSuch a big ox tail."
+    } ]
+  }, {
+    "tStartMs": 799333,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这是为了向顾客证明  \nzhè shì wèi le xiàng gù kè zhèng míng  \nThis is to prove to the customers."
+    } ]
+  }, {
+    "tStartMs": 802366,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "他们卖的肉是真的牛肉  \ntā men mài de ròu shì zhēn de niú ròu  \nThat the meat they sell is real beef."
+    } ]
+  }, {
+    "tStartMs": 805800,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "不是假的  \nbú shì jiǎ de  \nNot fake."
+    } ]
+  }, {
+    "tStartMs": 808200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "包子铺  \nbāo zi pù  \nSteamed bun shop."
+    } ]
+  }, {
+    "tStartMs": 811933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "好大好蓬松的花卷  \nhǎo dà hǎo péng sōng de huā juǎn  \nSuch big and fluffy flower rolls."
+    } ]
+  }, {
+    "tStartMs": 814466,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "是不是想吃哦？  \nshì bú shì xiǎng chī ó?  \nDon’t you want to try it?"
+    } ]
+  }, {
+    "tStartMs": 815466,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "对！看起来好想吃啊  \nduì! kàn qǐ lái hǎo xiǎng chī a  \nYes! Looks so tasty."
+    } ]
+  }, {
+    "tStartMs": 819466,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "又白又胖的馒头  \nyòu bái yòu pàng de mán tóu  \nWhite and chubby steamed buns."
+    } ]
+  }, {
+    "tStartMs": 822266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这么多  \nzhè me duō  \nSo many."
+    } ]
+  }, {
+    "tStartMs": 826266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "包子  \nbāo zi  \nSteamed buns."
+    } ]
+  }, {
+    "tStartMs": 829133,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "这个器具我们叫“蒸笼”  \nzhè ge qì jù wǒ men jiào “zhēng lóng”  \nThis tool is called a “steamer basket.”"
+    } ]
+  }, {
+    "tStartMs": 834900,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "这是什么  \nzhè shì shén me  \nWhat is this?"
+    } ]
+  }, {
+    "tStartMs": 836666,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "看起来就很有食欲  \nkàn qǐ lái jiù hěn yǒu shí yù  \nIt looks really appetizing."
+    } ]
+  }, {
+    "tStartMs": 839366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "这是甜的吧？  \nzhè shì tián de ba?  \nIs this sweet?"
+    } ]
+  }, {
+    "tStartMs": 840700,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "微甜的  \nwēi tián de  \nSlightly sweet."
+    } ]
+  }, {
+    "tStartMs": 841233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我要一块这个  \nwǒ yào yī kuài zhè ge  \nI want a piece of this."
+    } ]
+  }, {
+    "tStartMs": 845400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "现在吃吗？  \nxiàn zài chī ma?  \nAre you eating now?"
+    } ]
+  }, {
+    "tStartMs": 846266,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "现在吃  \nxiàn zài chī  \neat now."
+    } ]
+  }, {
+    "tStartMs": 848666,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "好的  \nhǎo de  \nOkay."
+    } ]
+  }, {
+    "tStartMs": 853933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "花卷  \nhuā juǎn  \nFlower rolls."
+    } ]
+  }, {
+    "tStartMs": 856066,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "胖胖的花卷  \npàng pàng de huā juǎn  \nPlump flower rolls."
+    } ]
+  }, {
+    "tStartMs": 858766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "好多种口味  \nhǎo duō zhǒng kǒu wèi  \nSo many flavors."
+    } ]
+  }, {
+    "tStartMs": 861166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "啊！好想吃  \nā! hǎo xiǎng chī  \nAh! Looks so delicious!"
+    } ]
+  }, {
+    "tStartMs": 863833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个是豆沙的  \nzhè ge shì dòu shā de  \nThis one is with red bean paste."
+    } ]
+  }, {
+    "tStartMs": 869033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "请问这个包子是什么口味的？  \nqǐng wèn zhè ge bāo zi shì shén me kǒu wèi de?  \nWhat flavor is this steamed bun?"
+    } ]
+  }, {
+    "tStartMs": 871066,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "香菇的  \nxiāng gū de  \nMushroom flavor."
+    } ]
+  }, {
+    "tStartMs": 871933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "鲜肉的  \nxiān ròu de  \nFresh meat flavor."
+    } ]
+  }, {
+    "tStartMs": 873633,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "粉丝的、腌菜的  \nfěn sī de, yān cài de  \nVermicelli flavor, pickled vegetable flavor."
+    } ]
+  }, {
+    "tStartMs": 875933,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我要两个腌菜  \nwǒ yào liǎng ge yān cài  \nI want two pickled vegetable ones."
+    } ]
+  }, {
+    "tStartMs": 876933,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "两个花卷  \nliǎng ge huā juǎn  \nTwo flower rolls."
+    } ]
+  }, {
+    "tStartMs": 881000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "那尝一个香菇的吧  \nnà cháng yī ge xiāng gū de ba  \nthen try the mushroom one."
+    } ]
+  }, {
+    "tStartMs": 888233,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "香菇的对吧？  \nxiāng gū de duì ba?  \nThe mushroom one, right?"
+    } ]
+  }, {
+    "tStartMs": 891733,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "这是一个卖瓜子和花生的铺子  \nzhè shì yī ge mài guā zǐ hé huā shēng de pù zi  \nThis is a shop that sells sunflower seeds and peanuts."
+    } ]
+  }, {
+    "tStartMs": 894933,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "各种口味的瓜子  \ngè zhǒng kǒu wèi de guā zǐ  \nSunflower seeds in various flavors."
+    } ]
+  }, {
+    "tStartMs": 897333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "陈皮瓜子  \nchén pí guā zǐ  \nTangerine peel sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 901366,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "感觉应该很好吃  \ngǎn jué yīng gāi hěn hǎo chī  \nIt should taste really good."
+    } ]
+  }, {
+    "tStartMs": 904400,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "焦糖瓜子  \njiāo táng guā zǐ  \nCaramelized sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 907766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "火烧豆  \nhuǒ shāo dòu  \nBurnt beans."
+    } ]
+  }, {
+    "tStartMs": 912666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "金银花瓜子  \njīn yín huā guā zǐ  \nHoneysuckle sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 915533,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "他们把金银花跟瓜子一起炒  \ntā men bǎ jīn yín huā gēn guā zǐ yī qǐ chǎo  \nThey fry the honeysuckle with the sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 920433,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这是牙签瓜子  \nzhè shì yá qiān guā zǐ  \nThese are toothpick sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 921800,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "就是说它特别细  \njiù shì shuō tā tè bié xì  \nIt means they are especially thin."
+    } ]
+  }, {
+    "tStartMs": 923966,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "长得像牙签一样细  \ncháng de xiàng yá qiān yī yàng xì  \nThey are as thin as toothpicks."
+    } ]
+  }, {
+    "tStartMs": 928766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这叫美人甲瓜子  \nzhè jiào měi rén jiǎ guā zǐ  \nThis is called “beauty nail” sunflower seeds."
+    } ]
+  }, {
+    "tStartMs": 931766,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "长得像一个美人的指甲  \ncháng de xiàng yī gè měi rén de zhǐ jiǎ  \nIt looks like a beautiful woman’s fingernail."
+    } ]
+  }, {
+    "tStartMs": 936566,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "像吗？你们觉得像美人的指甲吗？  \nxiàng ma? nǐ men jué de xiàng měi rén de zhǐ jiǎ ma?  \nDo they look like it? Do you think they look like a beautiful woman's nails?"
+    } ]
+  }, {
+    "tStartMs": 940333,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "还真的蛮像的  \nhái zhēn de mán xiàng de  \nthey really does look like it."
+    } ]
+  }, {
+    "tStartMs": 943333,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "尝一下这个荞糕  \ncháng yī xià zhè ge qiáo gāo  \nTry this buckwheat cake."
+    } ]
+  }, {
+    "tStartMs": 944766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "好不好吃  \nhǎo bù hǎo chī  \nsee is it good"
+    } ]
+  }, {
+    "tStartMs": 953366,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "很软  \nhěn ruǎn  \nVery soft."
+    } ]
+  }, {
+    "tStartMs": 955166,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "很松软  \nhěn sōng ruǎn  \nVery fluffy and soft."
+    } ]
+  }, {
+    "tStartMs": 964333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "有一点点的苦味  \nyǒu yī diǎn diǎn de kǔ wèi  \nIt has a slight bitterness."
+    } ]
+  }, {
+    "tStartMs": 966333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "因为这个是用苦荞做的  \nyīn wèi zhè ge shì yòng kǔ qiáo zuò de  \nBecause it’s made with bitter buckwheat."
+    } ]
+  }, {
+    "tStartMs": 968500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "有一点点苦味  \nyǒu yī diǎn diǎn kǔ wèi  \nIt has a slight bitterness."
+    } ]
+  }, {
+    "tStartMs": 970566,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "但不是很浓  \ndàn bú shì hěn nóng  \nBut it’s not very strong."
+    } ]
+  }, {
+    "tStartMs": 972400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "甜味也不是很浓  \ntián wèi yě bú shì hěn nóng  \nThe sweetness isn’t very strong either."
+    } ]
+  }, {
+    "tStartMs": 974933,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "就是一点苦  \njiù shì yī diǎn kǔ  \nJust a bit of bitterness."
+    } ]
+  }, {
+    "tStartMs": 975933,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "一点甜  \nyī diǎn tián  \nA bit of sweetness."
+    } ]
+  }, {
+    "tStartMs": 977200,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "还不错哦  \nhái bú cuò ó  \nIt’s good."
+    } ]
+  }, {
+    "tStartMs": 983800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "很特别的味道  \nhěn tè bié de wèi dào  \nVery unique taste."
+    } ]
+  }, {
+    "tStartMs": 987566,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这个口感真的很好，很松软  \nzhè ge kǒu gǎn zhēn de hěn hǎo, hěn sōng ruǎn  \nThe texture is really good, very fluffy."
+    } ]
+  }, {
+    "tStartMs": 992333,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "这个叫泡梨  \nzhè ge jiào pào lí  \nThis is called soaked pear."
+    } ]
+  }, {
+    "tStartMs": 995466,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "应该是新鲜的梨泡在糖水里面吧  \nyīng gāi shì xīn xiān de lí pào zài táng shuǐ lǐ miàn ba  \nIt should be fresh pears soaked in sweet water."
+    } ]
+  }, {
+    "tStartMs": 1000766,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "10块3斤  \n10 kuài 3 jīn  \n10 yuan for 3 jin."
+    } ]
+  }, {
+    "tStartMs": 1004433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "甜不甜哦？  \ntián bù tián ó?  \nare they sweet?"
+    } ]
+  }, {
+    "tStartMs": 1011800,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "7块5  \n7 kuài 5  \n7.5 yuan."
+    } ]
+  }, {
+    "tStartMs": 1016233,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "你也买啊美女啊  \nnǐ yě mǎi a měi nǚ a  \nYou should buy some too, beautiful."
+    } ]
+  }, {
+    "tStartMs": 1018133,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "还拍视频的  \nhái pāi shì pín de  \nStill filming?"
+    } ]
+  }, {
+    "tStartMs": 1019000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "我看你买  \nwǒ kàn nǐ mǎi  \nI'm watching you buying."
+    } ]
+  }, {
+    "tStartMs": 1020133,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "看我买？  \nkàn wǒ mǎi?  \nwatching me buy?"
+    } ]
+  }, {
+    "tStartMs": 1022000,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "看我付钱  \nkàn wǒ fù qián  \nwatch me pay"
+    } ]
+  }, {
+    "tStartMs": 1023533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "哈哈哈哈  \nhā hā hā hā  \nHahaha."
+    } ]
+  }, {
+    "tStartMs": 1029533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "扫码付钱  \nsān mǎ fù qián  \nScan to pay."
+    } ]
+  }, {
+    "tStartMs": 1031866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这个包子好奇怪啊  \nzhè ge bāo zi hǎo qí guài a  \nThis steamed bun is strange."
+    } ]
+  }, {
+    "tStartMs": 1034433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我已经咬了两口了  \nwǒ yǐ jīng yǎo le liǎng kǒu le  \nI’ve already taken two bites."
+    } ]
+  }, {
+    "tStartMs": 1036166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "都还没有咬到馅  \ndōu hái méi yǎo dào xiàn  \nI haven’t even reached the filling yet."
+    } ]
+  }, {
+    "tStartMs": 1042633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "好像有一点点馅了  \nhǎo xiàng yǒu yī diǎn diǎn xiàn le  \nIt looks like there’s a little filling now."
+    } ]
+  }, {
+    "tStartMs": 1049433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "终于有了  \nzhōng yú yǒu le  \nFinally, there’s some."
+    } ]
+  }, {
+    "tStartMs": 1057800,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "味道很好哎  \nwèi dào hěn hǎo wēi  \nIt tastes really good."
+    } ]
+  }, {
+    "tStartMs": 1060266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "香菇好香  \nxiāng gū hǎo xiāng  \nThe mushrooms taste so good."
+    } ]
+  }, {
+    "tStartMs": 1062266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "真的好香好好吃  \nzhēn de hǎo xiāng hǎo hǎo chī  \nIt really smells and tastes amazing."
+    } ]
+  }, {
+    "tStartMs": 1067266,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "还以为买到了一个没有馅的包子  \nhái yǐ wéi mǎi dào le yī ge méi yǒu xiàn de bāo zi  \nI thought I bought one without filling."
+    } ]
+  }, {
+    "tStartMs": 1071266,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "原来是它的馅没有放在正中间  \nyuán lái shì tā de xiàn méi yǒu fàng zài zhèng zhōng jiān  \nTurns out the filling wasn’t in the center."
+    } ]
+  }, {
+    "tStartMs": 1075633,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "它的馅放歪了  \ntā de xiàn fàng wāi le  \nThe filling was placed off-center."
+    } ]
+  }, {
+    "tStartMs": 1084533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "全部用玉米做的饼  \nquán bù yòng yù mǐ zuò de bǐng  \nIt’s a flatbread made entirely of corn."
+    } ]
+  }, {
+    "tStartMs": 1089200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "还有玉米汁  \nhái yǒu yù mǐ zhī  \nThere’s also corn juice."
+    } ]
+  }, {
+    "tStartMs": 1098366,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "啊好大的笋  \nā hǎo dà de sǔn  \nAh, such a big bamboo shoot."
+    } ]
+  }, {
+    "tStartMs": 1103933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "甜笋  \ntián sǔn  \nSweet bamboo shoot."
+    } ]
+  }, {
+    "tStartMs": 1111866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这条鱼巨大  \nzhè tiáo yú jù dà  \nThis fish is huge."
+    } ]
+  }, {
+    "tStartMs": 1115933,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "怎么这么大  \nzěn me zhè me dà  \nwhy is it so big?"
+    } ]
+  }, {
+    "tStartMs": 1117333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "看起来比我的大腿还粗  \nkàn qǐ lái bǐ wǒ de dà tuǐ hái zhū  \nIt looks bigger than my thigh!"
+    } ]
+  }, {
+    "tStartMs": 1119833,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "好新鲜。看起来他是刚死的样子  \nhǎo xīn xiān. kàn qǐ lái tā shì gāng sǐ de yàng zi  \nSo fresh. Looks like it just died."
+    } ]
+  }, {
+    "tStartMs": 1124466,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "这种我叫不上名字的植物  \nzhè zhǒng wǒ jiào bú shàng míng zì de zhí wù  \nThis is a plant whose name I can't recall."
+    } ]
+  }, {
+    "tStartMs": 1131700,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "这些我都没见过  \nzhè xiē wǒ dōu méi jiàn guò  \nI've never seen these before."
+    } ]
+  }, {
+    "tStartMs": 1133933,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "哈哈哈  \nhā hā hā  \nHahaha."
+    } ]
+  }, {
+    "tStartMs": 1138833,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "我觉得我应该背一口锅来的  \nwǒ jué dé wǒ yīng gāi bèi yī kǒu guō lái de  \nI think I should've brought a pot with me."
+    } ]
+  }, {
+    "tStartMs": 1143133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "真的好想把这些所有的  \nzhēn de hǎo xiǎng bǎ zhè xiē suǒ yǒu de  \nI really want to try all these things."
+    } ]
+  }, {
+    "tStartMs": 1145233,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我没见过的东西都尝一尝  \nwǒ méi jiàn guò de dōng xī dōu cháng yī cháng  \nI want to try all the things I've never seen before."
+    } ]
+  }, {
+    "tStartMs": 1151500,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个叶子怎么吃呀  \nzhè ge yè zi zěn me chī ya  \nHow do you eat these leaves?"
+    } ]
+  }, {
+    "tStartMs": 1154433,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "炒洋芋  \nchǎo yáng yù  \nStir-fried potatoes."
+    } ]
+  }, {
+    "tStartMs": 1155800,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "炒洋芋。洋芋就是土豆。炒土豆  \nchǎo yáng yù. yáng yù jiù shì tǔ dòu. chǎo tǔ dòu  \nStir-fried potatoes. potato is potato. Stir-fry potato."
+    } ]
+  }, {
+    "tStartMs": 1158333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "炒土豆。对。  \nchǎo tǔ dòu. duì.  \nStir-fried potatoes. Yes."
+    } ]
+  }, {
+    "tStartMs": 1161133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "香椿  \nxiāng chūn  \nChinese toon bugs."
+    } ]
+  }, {
+    "tStartMs": 1182000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "哇！老板你的米线看起来好好吃啊  \nwā! lǎo bǎn nǐ de mǐ xiàn kàn qǐ lái hǎo hǎo chī a  \nWow! Boss, your rice noodles look delicious!"
+    } ]
+  }, {
+    "tStartMs": 1186666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "你在哪里买的？  \nnǐ zài nǎ lǐ mǎi de?  \nWhere did you buy it?"
+    } ]
+  }, {
+    "tStartMs": 1189333,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我也去吃一碗  \nwǒ yě qù chī yī wǎn  \nI'll go have a bowl too."
+    } ]
+  }, {
+    "tStartMs": 1190433,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "哈哈哈  \nhā hā hā  \nHahaha."
+    } ]
+  }, {
+    "tStartMs": 1191366,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "我也去吃一碗米线好了  \nwǒ yě qù chī yī wǎn mǐ xiàn hǎo le  \nI'll go eat a bowl of rice noodles."
+    } ]
+  }, {
+    "tStartMs": 1196233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "啊应该就是这一家  \nā yīng gāi jiù shì zhè yī jiā  \nAh, it should be this one."
+    } ]
+  }, {
+    "tStartMs": 1200733,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "老板  \nlǎo bǎn  \nBoss."
+    } ]
+  }, {
+    "tStartMs": 1202466,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "有那个老板买的那种米线吗  \nyǒu nà ge lǎo bǎn mǎi de nà zhǒng mǐ xiàn ma  \nDo you have the rice noodles that the other boss bought?"
+    } ]
+  }, {
+    "tStartMs": 1205366,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "有啊  \nyǒu a  \nYes, we do."
+    } ]
+  }, {
+    "tStartMs": 1206866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "我看他那个米线很有食欲  \nwǒ kàn tā nà ge mǐ xiàn hěn yǒu shí yù  \nI saw his rice noodles, they look really appetizing."
+    } ]
+  }, {
+    "tStartMs": 1208533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我也来吃一碗  \nwǒ yě lái chī yī wǎn  \nI'll have a bowl too."
+    } ]
+  }, {
+    "tStartMs": 1210333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好的  \nhǎo de  \nOkay."
+    } ]
+  }, {
+    "tStartMs": 1211266,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "小份的可以吗  \nxiǎo fèn de kě yǐ ma  \nIs a small portion okay?"
+    } ]
+  }, {
+    "tStartMs": 1212533,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "可以的  \nkě yǐ de  \nYes"
+    } ]
+  }, {
+    "tStartMs": 1213433,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我给你煮一个学生碗  \nwǒ gěi nǐ zhǔ yī ge xué shēng wǎn  \nI'll make you a student-sized bowl."
+    } ]
+  }, {
+    "tStartMs": 1215433,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "好的  \nhǎo de  \nOkay."
+    } ]
+  }, {
+    "tStartMs": 1216300,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "要辣椒  \nyào là jiāo  \nI want chilli"
+    } ]
+  }, {
+    "tStartMs": 1217133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "其它...像其它的那些酱油啊  \nqí tā... xiàng qí tā de nà xiē jiàng yóu a  \nOther... like those soy sauce"
+    } ]
+  }, {
+    "tStartMs": 1220333,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "什么的都要吗?  \nshén me de dōu yào ma?  \nor something, Do you want?"
+    } ]
+  }, {
+    "tStartMs": 1221233,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "都要。好的  \ndōu yào. hǎo de  \nYes, everything. Okay."
+    } ]
+  }, {
+    "tStartMs": 1222600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这里还有调料可以自己放  \nzhè lǐ hái yǒu tiáo liào kě yǐ zì jǐ fàng  \nHere are the condiments, you can add them yourself."
+    } ]
+  }, {
+    "tStartMs": 1225600,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "好丰富呀  \nhǎo fēng fù ya  \nSo rich in variety!"
+    } ]
+  }, {
+    "tStartMs": 1230433,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "来一点辣椒  \nlái yī diǎn là jiāo  \nI'll have a little chili."
+    } ]
+  }, {
+    "tStartMs": 1235733,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这是酱油  \nzhè shì jiàng yóu  \nThis is soy sauce."
+    } ]
+  }, {
+    "tStartMs": 1237933,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "但里面也是加了辣椒的酱油  \ndàn lǐ miàn yě shì jiā le là jiāo de jiàng yóu  \nBut this soy sauce already has chili in it."
+    } ]
+  }, {
+    "tStartMs": 1243233,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "然后这是花椒  \nrán hòu zhè shì huā jiāo  \nThen, this is Sichuan pepper."
+    } ]
+  }, {
+    "tStartMs": 1246500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这个应该是味精  \nzhè ge yīng gāi shì wèi jīng  \nThis should be MSG."
+    } ]
+  }, {
+    "tStartMs": 1248633,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "盐  \nyán  \nSalt."
+    } ]
+  }, {
+    "tStartMs": 1249933,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这个是白糖  \nzhè ge shì bái táng  \nThis is cane sugar."
+    } ]
+  }, {
+    "tStartMs": 1252666,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不要  \nbú yào  \nI don't want it."
+    } ]
+  }, {
+    "tStartMs": 1254133,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这个是酸菜  \nzhè ge shì suān cài  \nThis is pickled cabbages."
+    } ]
+  }, {
+    "tStartMs": 1256200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "来一点酸菜吧  \nlái yī diǎn suān cài ba  \nLet’s add some pickled cabbages."
+    } ]
+  }, {
+    "tStartMs": 1263033,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "然后这个是香菜  \nrán hòu zhè ge shì xiāng cài  \nThen, this is cilantro."
+    } ]
+  }, {
+    "tStartMs": 1269800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "葱  \ncōng  \nSpring onions."
+    } ]
+  }, {
+    "tStartMs": 1271933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "葱也来一点  \ncōng yě lái yī diǎn  \nAdd some spring onions too."
+    } ]
+  }, {
+    "tStartMs": 1274933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "哇还有薄荷叶  \nwā hái yǒu bó hé yè  \nWow, there's also mint leaves."
+    } ]
+  }, {
+    "tStartMs": 1277933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "一定要来薄荷叶  \nyī dìng yào lái bó hé yè  \nDefinitely need some mint leaves."
+    } ]
+  }, {
+    "tStartMs": 1281333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "哇，好漂亮啊  \nwā, hǎo piào liàng a  \nWow, it's so beautiful!"
+    } ]
+  }, {
+    "tStartMs": 1287033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "哇，好漂亮呀  \nwā, hǎo piào liàng ya  \nWow, so pretty!"
+    } ]
+  }, {
+    "tStartMs": 1289366,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "有那个豆浆可以免费喝  \nyǒu nà ge dòu jiāng kě yǐ miǎn fèi hē  \nthere is soy milk that you can drink for free."
+    } ]
+  }, {
+    "tStartMs": 1292333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "豆浆？ 就是这个吗?  \ndòu jiāng? jiù shì zhè ge ma?  \nSoy milk? Is it this one?"
+    } ]
+  }, {
+    "tStartMs": 1294166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "可以免费喝啊?  \nkě yǐ miǎn fèi hē a  \n can drink it for free?"
+    } ]
+  }, {
+    "tStartMs": 1295633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "哇，服务这么好  \nwā, fú wù zhè me hǎo  \nWow, such great service!"
+    } ]
+  }, {
+    "tStartMs": 1297333,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "好的 好的\nhǎo de hǎo de\nOkay, okay"
+    } ]
+  }, {
+    "tStartMs": 1298000,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "来 一 杯， 来 一 杯\nlái yī bēi, lái yī bēi\nhave one cup, have one cup "
+    } ]
+  }, {
+    "tStartMs": 1306000,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "哇 还 是 热 的\nwā hái shì rè de\nWow, it’s still warm!"
+    } ]
+  }, {
+    "tStartMs": 1309066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "难 怪 这 里 放 了 白 糖\nnán guài zhè lǐ fàng le bái táng\nNo wonder there’s white sugar here"
+    } ]
+  }, {
+    "tStartMs": 1311666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "要 不 要 加 一些 糖 呢\nyào bú yào jiā yī xiē táng ne\n want to add a bit more sugar?"
+    } ]
+  }, {
+    "tStartMs": 1313333,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "加 一 点 吧。 一 点 点\njiā yī diǎn ba. yī diǎn diǎn\nJust a little bit. A tiny bit."
+    } ]
+  }, {
+    "tStartMs": 1316966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好了\nhǎo le\nOkay"
+    } ]
+  }, {
+    "tStartMs": 1318266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这个 是 一 次 性 筷 子\nzhè ge shì yī cì xìng kuài zi\nThese are disposable chopsticks"
+    } ]
+  }, {
+    "tStartMs": 1320833,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "一次 性 筷 子 就 是 用 完 就 扔 了\nyī cì xìng kuài zi jiù shì yòng wán jiù rēng le\nDisposable chopsticks are used once and then thrown away"
+    } ]
+  }, {
+    "tStartMs": 1324266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "不会 再 洗 了 再 用 第二 次 的\nbú huì zài xǐ le zài yòng dì èr cì de\nThey won’t be washed and used again"
+    } ]
+  }, {
+    "tStartMs": 1327066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我们 叫 一 次 性 筷 子\nwǒ men jiào yī cì xìng kuài zi\nWe call them disposable chopsticks"
+    } ]
+  }, {
+    "tStartMs": 1329333,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "把 它 拌 一 拌\nbǎ tā bàn yī bàn\nMix it up"
+    } ]
+  }, {
+    "tStartMs": 1335333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "哇 看 起 来 真 的 好 美 味 啊\nwā kàn qǐ lái zhēn de hǎo měi wèi a\nWow, it looks really delicious!"
+    } ]
+  }, {
+    "tStartMs": 1347933,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇\nwā\nWow"
+    } ]
+  }, {
+    "tStartMs": 1349033,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "好吃 好吃！ 特别香\nhǎo chī hǎo chī! tè bié xiāng\nDelicious! So fragrant!"
+    } ]
+  }, {
+    "tStartMs": 1352800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这个 就 是 焖肉\nzhè ge jiù shì mèn ròu\nThis is braised meat."
+    } ]
+  }, {
+    "tStartMs": 1361566,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "超级 香！ 各种 香\nchāo jí xiāng! gè zhǒng xiāng\nSuper fragrant! All kinds of fragrance."
+    } ]
+  }, {
+    "tStartMs": 1364966,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "焖肉 的 香\nmèn ròu de xiāng\nThe fragrance of braised meat."
+    } ]
+  }, {
+    "tStartMs": 1366800,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "辣椒 的 香\nlà jiāo de xiāng\nThe fragrance of chili peppers."
+    } ]
+  }, {
+    "tStartMs": 1368966,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "薄荷叶 的 香，葱 的 香\nbó hé yè de xiāng, cōng de xiāng\nThe fragrance of mint leaves, the fragrance of green onions."
+    } ]
+  }, {
+    "tStartMs": 1373833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "真的 太 好 吃 了\nzhēn de tài hǎo chī le\nReally delicious!"
+    } ]
+  }, {
+    "tStartMs": 1374966,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "哈哈\nhā hā\nHaha"
+    } ]
+  }, {
+    "tStartMs": 1382266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "米线 是 云南 的 特色 小吃\nmǐ xiàn shì yún nán de tè sè xiǎo chī\nRice noodles are a special snack from Yunnan."
+    } ]
+  }, {
+    "tStartMs": 1386166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "来 云南 一定 要 吃 米线\nlái yún nán yī dìng yào chī mǐ xiàn\nIf you come to Yunnan, you must eat rice noodles."
+    } ]
+  }, {
+    "tStartMs": 1389366,
+    "dDurationMs": 3234,
+    "segs": [ {
+      "utf8": "他们 这里 的 米线 跟 其他 地方 的\ntā men zhè lǐ de mǐ xiàn gēn qí tā dì fāng de\nThe rice noodles here are different from other places."
+    } ]
+  }, {
+    "tStartMs": 1392600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "吃起来 口感 不太 一样\nchī qǐ lái kǒu gǎn  bú tài yī yàng\nThe taste feels a bit different when eating them."
+    } ]
+  }, {
+    "tStartMs": 1397200,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "反正 感觉 更 软 糯\nfǎn zhèng gǎn jué gèng ruǎn nuò\nAnyway, it feels softer and stickier."
+    } ]
+  }, {
+    "tStartMs": 1400366,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "然后 更 细\nrán hòu gèng xì\nAnd it's thinner."
+    } ]
+  }, {
+    "tStartMs": 1402533,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "细的话 就 会 比较 入味\nxì de huà jiù huì bǐ jiào rù wèi\nWhen it's thinner, it absorbs the flavor better."
+    } ]
+  }, {
+    "tStartMs": 1412166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "尝 一口 豆浆\ncháng yī kǒu dòu jiāng\nTry a sip of soy milk."
+    } ]
+  }, {
+    "tStartMs": 1418166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "美味\nměi wèi\nDelicious."
+    } ]
+  }, {
+    "tStartMs": 1423133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "我 都 忘 了 问 这 碗 米线 多 少 钱\nwǒ dōu wàng le wèn zhè wǎn mǐ xiàn duō shǎo qián\nI forgot to ask how much this bowl of rice noodles costs."
+    } ]
+  }, {
+    "tStartMs": 1425866,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "老板，这 碗 米线 多 少 钱？\nlǎo bǎn, zhè wǎn mǐ xiàn duō shǎo qián?\nBoss, how much is this bowl of rice noodles?"
+    } ]
+  }, {
+    "tStartMs": 1430033,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "5 块 钱？\n5 kuài qián?\n5 yuan?"
+    } ]
+  }, {
+    "tStartMs": 1431566,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "5 块 钱 啊？\n5 kuài qián a?\nOnly 5 yuan?"
+    } ]
+  }, {
+    "tStartMs": 1434533,
+    "dDurationMs": 5267,
+    "segs": [ {
+      "utf8": "啊！这 碗 米线 才 5 块 钱 啊\na! zhè wǎn mǐ xiàn cái 5 kuài qián a\nAh! This bowl of rice noodles is only 5 yuan!"
+    } ]
+  }, {
+    "tStartMs": 1439866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "这么 丰富 的 配料\nzhè me fēng fù de pèi liào\nSo many toppings."
+    } ]
+  }, {
+    "tStartMs": 1441766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "还有 免费 的 豆浆\nhái yǒu miǎn fèi de dòu jiāng\nAnd free soy milk."
+    } ]
+  }, {
+    "tStartMs": 1443400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "才 5 块 钱\ncái 5 kuài qián\nOnly 5 yuan!"
+    } ]
+  }, {
+    "tStartMs": 1446133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "真的…..\nzhēn de.....\nReally....."
+    } ]
+  }, {
+    "tStartMs": 1448933,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "云南 真 是 好 地 方\nyún nán zhēn shì hǎo dì fāng\nYunnan is truly a great place."
+    } ]
+  }, {
+    "tStartMs": 1451000,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这一碗 是 学生碗\nzhè yī wǎn shì xué shēng wǎn\nThis bowl is a student-sized portion."
+    } ]
+  }, {
+    "tStartMs": 1452933,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "就是 比 小碗 更小的 这种 size\njiù shì bǐ xiǎo wǎn gèng xiǎo de zhè zhǒng size\nIt's smaller than the regular small bowl size."
+    } ]
+  }, {
+    "tStartMs": 1458733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "但是 都 已经 很 大 份 了\ndàn shì dōu yǐ jīng hěn dà fèn le\nBut it's still a big portion."
+    } ]
+  }, {
+    "tStartMs": 1460566,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "看，\nkàn,\nLook,"
+    } ]
+  }, {
+    "tStartMs": 1462433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "比 我的 脸 还 大\nbǐ wǒ de liǎn hái dà\nIt's bigger than my face."
+    } ]
+  }, {
+    "tStartMs": 1468466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "现在 已经 9 点 钟 了\nxiàn zài yǐ jīng 9 diǎn zhōng le\nIt's already 9 o'clock."
+    } ]
+  }, {
+    "tStartMs": 1470233,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "感觉 人 就 多 起 来 了\ngǎn jué rén jiù duō qǐ lái le\nFeels like more people are coming now."
+    } ]
+  }, {
+    "tStartMs": 1479766,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "各种 坚果\ngè zhǒng jiān guǒ\nAll kinds of nuts."
+    } ]
+  }, {
+    "tStartMs": 1491633,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "这个 应该 是 一 个 染 发 的 摊 子\nzhè ge yīng gāi shì yī gè rǎn fà de tān zi\nThis should be a hair dyeing stall."
+    } ]
+  }, {
+    "tStartMs": 1499566,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "白发 变 黑发\nbái fà biàn hēi fà\nWhite hair turning into black hair."
+    } ]
+  }, {
+    "tStartMs": 1510266,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "还 带 着 叶 子 的 梨 子\nhái dài zhe yè zi de lí zi\nPears with leaves still attached."
+    } ]
+  }, {
+    "tStartMs": 1521166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "现削 的 菠萝\nxiàn xiāo de bō luó\nFreshly peeled pineapple."
+    } ]
+  }, {
+    "tStartMs": 1529233,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这 是 什么？\nzhè shì shén me?\nWhat is this?"
+    } ]
+  }, {
+    "tStartMs": 1532533,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "这 是 一 种 植物 的 果 实 吧\nzhè shì yī zhǒng zhí wù de guǒ shí ba\nThis is some kind of fruit from a plant, right?"
+    } ]
+  }, {
+    "tStartMs": 1537300,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "从 来 没 有 见 过\ncóng lái méi yǒu jiàn guò\nI’ve never seen it before."
+    } ]
+  }, {
+    "tStartMs": 1541966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这 只 小 狗\nzhè zhī xiǎo gǒu\nThis little dog"
+    } ]
+  }, {
+    "tStartMs": 1542766,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "应该 是 在 等 它 的 主 人\nyīng gāi shì zài děng tā de zhǔ rén\nmust be waiting for its owner."
+    } ]
+  }, {
+    "tStartMs": 1545066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "它 的 主 人 应 该 是 进 去 买 菜 了\ntā de zhǔ rén yīng gāi shì jìn qù mǎi cài le\nIts owner must have gone inside to buy groceries."
+    } ]
+  }, {
+    "tStartMs": 1549533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "狗 狗\ngǒu gǒu\nDoggy."
+    } ]
+  }, {
+    "tStartMs": 1552166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "你 怎么 这么 乖 呀\nnǐ zěn me zhè me guāi ya\nHow are you so well-behaved?"
+    } ]
+  } ]
+}

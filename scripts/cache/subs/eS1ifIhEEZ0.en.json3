@@ -1,0 +1,1555 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Hi everyone"
+    } ]
+  }, {
+    "tStartMs": 3700,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Today I want to teach you 10 expressions that Chinese people often say"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "But you can't learn them in textbooks"
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "If you're interested, keep watching"
+    } ]
+  }, {
+    "tStartMs": 17266,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "First one"
+    } ]
+  }, {
+    "tStartMs": 24866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "In textbooks, you might learn"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "I'm tired"
+    } ]
+  }, {
+    "tStartMs": 29333,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "I'm very tired"
+    } ]
+  }, {
+    "tStartMs": 30700,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "I'm dead tired."
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "But in everyday life,"
+    } ]
+  }, {
+    "tStartMs": 34733,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "you might hear people say it like this:"
+    } ]
+  }, {
+    "tStartMs": 38066,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "Ugh, I'm really dead tired today!"
+    } ]
+  }, {
+    "tStartMs": 41800,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "\"Dead tired,\" meaning tired like a dog."
+    } ]
+  }, {
+    "tStartMs": 46333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This isn't an insult."
+    } ]
+  }, {
+    "tStartMs": 48533,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "It's just an exaggerated expression."
+    } ]
+  }, {
+    "tStartMs": 52333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "If you're a working professional,"
+    } ]
+  }, {
+    "tStartMs": 55266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Today is a very busy day for you."
+    } ]
+  }, {
+    "tStartMs": 58766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "From morning to afternoon,"
+    } ]
+  }, {
+    "tStartMs": 61033,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "you have meetings all the time."
+    } ]
+  }, {
+    "tStartMs": 62733,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "You keep having meetings, meetings, and more meetings."
+    } ]
+  }, {
+    "tStartMs": 66133,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Then you can complain to your friend,"
+    } ]
+  }, {
+    "tStartMs": 68966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "Ah, I'm really exhausted today!"
+    } ]
+  }, {
+    "tStartMs": 71933,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Your friend will immediately understand how tired you are today."
+    } ]
+  }, {
+    "tStartMs": 76300,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "The second expression is"
+    } ]
+  }, {
+    "tStartMs": 84366,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "In textbooks, what you might learn is"
+    } ]
+  }, {
+    "tStartMs": 88100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I'm very happy"
+    } ]
+  }, {
+    "tStartMs": 89700,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I'm very glad"
+    } ]
+  }, {
+    "tStartMs": 91133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "Today is really great"
+    } ]
+  }, {
+    "tStartMs": 93800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "But in daily life"
+    } ]
+  }, {
+    "tStartMs": 95766,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Chinese people often say"
+    } ]
+  }, {
+    "tStartMs": 97933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Wow, that's awesome!"
+    } ]
+  }, {
+    "tStartMs": 100100,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "Meaning extremely happy, satisfied, and comfortable"
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 107366,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "it's summer now."
+    } ]
+  }, {
+    "tStartMs": 109166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "The temperature is high, it's very hot."
+    } ]
+  }, {
+    "tStartMs": 112466,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Think about it,"
+    } ]
+  }, {
+    "tStartMs": 113500,
+    "dDurationMs": 4666,
+    "segs": [ {
+      "utf8": "in summer, during the hottest part of the afternoon,"
+    } ]
+  }, {
+    "tStartMs": 118566,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "35 or 36 degrees,"
+    } ]
+  }, {
+    "tStartMs": 121300,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "in very, very hot weather,"
+    } ]
+  }, {
+    "tStartMs": 123900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "you suddenly drink an iced coffee."
+    } ]
+  }, {
+    "tStartMs": 128100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "or iced milk tea"
+    } ]
+  }, {
+    "tStartMs": 130166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "or iced beer"
+    } ]
+  }, {
+    "tStartMs": 135833,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Ah! So satisfying!"
+    } ]
+  }, {
+    "tStartMs": 140633,
+    "dDurationMs": 4767,
+    "segs": [ {
+      "utf8": "It means you are very content, comfortable, and happy"
+    } ]
+  }, {
+    "tStartMs": 145666,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Another example"
+    } ]
+  }, {
+    "tStartMs": 147066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If you get a week off"
+    } ]
+  }, {
+    "tStartMs": 150400,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "No work for a week"
+    } ]
+  }, {
+    "tStartMs": 152466,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Wouldn't you also say \"So satisfying!\""
+    } ]
+  }, {
+    "tStartMs": 157100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "The third expression is"
+    } ]
+  }, {
+    "tStartMs": 165900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "This expression is quite long"
+    } ]
+  }, {
+    "tStartMs": 168400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "It describes a state of being very nervous and flustered"
+    } ]
+  }, {
+    "tStartMs": 175466,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "In textbooks, what you might learn is"
+    } ]
+  }, {
+    "tStartMs": 178633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I'm very nervous"
+    } ]
+  }, {
+    "tStartMs": 179733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "I'm very flustered"
+    } ]
+  }, {
+    "tStartMs": 181300,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But in real life"
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Many people say it like this"
+    } ]
+  }, {
+    "tStartMs": 185300,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "In my heart, I'm a total mess."
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "'Huang' means 'panicked'."
+    } ]
+  }, {
+    "tStartMs": 191666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "'De yi pi' doesn't really mean anything."
+    } ]
+  }, {
+    "tStartMs": 194533,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "It just adds emphasis."
+    } ]
+  }, {
+    "tStartMs": 198066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let me give you a scenario."
+    } ]
+  }, {
+    "tStartMs": 200066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "You've just started learning Chinese."
+    } ]
+  }, {
+    "tStartMs": 202266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "You're chatting with a Chinese person for the first time."
+    } ]
+  }, {
+    "tStartMs": 205366,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "He speaks Chinese really fast."
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "You're nervous"
+    } ]
+  }, {
+    "tStartMs": 209466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "You're panicking"
+    } ]
+  }, {
+    "tStartMs": 210833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "You can say"
+    } ]
+  }, {
+    "tStartMs": 212233,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "Ah, at that moment I was really panicking!"
+    } ]
+  }, {
+    "tStartMs": 216500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "I've always thought"
+    } ]
+  }, {
+    "tStartMs": 218133,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "when learning Chinese"
+    } ]
+  }, {
+    "tStartMs": 220300,
+    "dDurationMs": 5933,
+    "segs": [ {
+      "utf8": "you should learn real, natural, and authentic expressions"
+    } ]
+  }, {
+    "tStartMs": 226233,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "That's why I've always recommended that everyone"
+    } ]
+  }, {
+    "tStartMs": 229266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "In the process of learning Chinese,"
+    } ]
+  }, {
+    "tStartMs": 231366,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "you really, really must practice conversations with native speakers."
+    } ]
+  }, {
+    "tStartMs": 235033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And in this regard,"
+    } ]
+  }, {
+    "tStartMs": 236533,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "italki has really helped us out a lot."
+    } ]
+  }, {
+    "tStartMs": 311700,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "You can buy lessons one by one,"
+    } ]
+  }, {
+    "tStartMs": 314533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you don't need to stock up on a bunch of lessons at once."
+    } ]
+  }, {
+    "tStartMs": 318133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The scheduling is also pretty flexible,"
+    } ]
+  }, {
+    "tStartMs": 320133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so that way, the pressure on you will be much less."
+    } ]
+  }, {
+    "tStartMs": 323333,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "If you're a new user,"
+    } ]
+  }, {
+    "tStartMs": 325500,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "you can use my promo code now to get $5 off a $10 purchase."
+    } ]
+  }, {
+    "tStartMs": 332333,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "This is really a great deal."
+    } ]
+  }, {
+    "tStartMs": 334633,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I hope this can help you all learn Chinese."
+    } ]
+  }, {
+    "tStartMs": 341933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "The fourth expression is"
+    } ]
+  }, {
+    "tStartMs": 347233,
+    "dDurationMs": 5967,
+    "segs": [ {
+      "utf8": "'Niu,' yes, that animal, 'niu'."
+    } ]
+  }, {
+    "tStartMs": 353200,
+    "dDurationMs": 4466,
+    "segs": [ {
+      "utf8": "In China, 'niu' can also be used to describe someone who is really impressive."
+    } ]
+  }, {
+    "tStartMs": 357666,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "meaning they did a great job."
+    } ]
+  }, {
+    "tStartMs": 359766,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "In textbooks, the expression you might learn is"
+    } ]
+  }, {
+    "tStartMs": 363533,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "You're great!"
+    } ]
+  }, {
+    "tStartMs": 365333,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "But Chinese people often say in daily life"
+    } ]
+  }, {
+    "tStartMs": 369066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Awesome!\" \"That's amazing!"
+    } ]
+  }, {
+    "tStartMs": 370966,
+    "dDurationMs": 5034,
+    "segs": [ {
+      "utf8": "If your friend runs a marathon for the first time"
+    } ]
+  }, {
+    "tStartMs": 376233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and gets first place"
+    } ]
+  }, {
+    "tStartMs": 378033,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "wouldn't you say he's awesome?"
+    } ]
+  }, {
+    "tStartMs": 380066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "You'd definitely give him a thumbs up."
+    } ]
+  }, {
+    "tStartMs": 383200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Just say 'Awesome!'"
+    } ]
+  }, {
+    "tStartMs": 385866,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "The fifth expression is"
+    } ]
+  }, {
+    "tStartMs": 395666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "the sky is falling"
+    } ]
+  }, {
+    "tStartMs": 397433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "which means something bad happened"
+    } ]
+  }, {
+    "tStartMs": 400166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "It's not just a small problem"
+    } ]
+  }, {
+    "tStartMs": 403433,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "something big happened"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "It means things are very serious"
+    } ]
+  }, {
+    "tStartMs": 409100,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "Of course, sometimes it's just a joke"
+    } ]
+  }, {
+    "tStartMs": 413133,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "exaggerate as a joke"
+    } ]
+  }, {
+    "tStartMs": 415033,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "maybe the situation isn't that serious"
+    } ]
+  }, {
+    "tStartMs": 416766,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "but I can exaggerate it even more"
+    } ]
+  }, {
+    "tStartMs": 420133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "the sky is falling"
+    } ]
+  }, {
+    "tStartMs": 421233,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "the sky has fallen"
+    } ]
+  }, {
+    "tStartMs": 424233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "let me give you a scenario"
+    } ]
+  }, {
+    "tStartMs": 427666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "when you go to the bathroom"
+    } ]
+  }, {
+    "tStartMs": 429233,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "do you have the habit of scrolling on your phone?"
+    } ]
+  }, {
+    "tStartMs": 432900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Do you have the habit of scrolling on your phone?"
+    } ]
+  }, {
+    "tStartMs": 435366,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "I've done it more than once, I should say."
+    } ]
+  }, {
+    "tStartMs": 438833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I scroll on my phone while using the restroom."
+    } ]
+  }, {
+    "tStartMs": 441133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "Then when I stood up, \"plop\""
+    } ]
+  }, {
+    "tStartMs": 443933,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "The phone fell into the toilet."
+    } ]
+  }, {
+    "tStartMs": 447533,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "At that moment, I felt like the sky was falling."
+    } ]
+  }, {
+    "tStartMs": 451700,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "The sky is falling, my phone fell into the toilet."
+    } ]
+  }, {
+    "tStartMs": 455433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The sky has truly fallen."
+    } ]
+  }, {
+    "tStartMs": 458566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Did everyone learn that?"
+    } ]
+  }, {
+    "tStartMs": 460300,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "The sixth expression."
+    } ]
+  }, {
+    "tStartMs": 468200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Here, \"fú le\" doesn't mean \"to admire.\""
+    } ]
+  }, {
+    "tStartMs": 472233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "It means something happened"
+    } ]
+  }, {
+    "tStartMs": 474466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "that makes you feel really speechless."
+    } ]
+  }, {
+    "tStartMs": 477633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "Let me give you an example."
+    } ]
+  }, {
+    "tStartMs": 480100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "If you have a roommate"
+    } ]
+  }, {
+    "tStartMs": 482900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "who often forgets to bring his keys."
+    } ]
+  }, {
+    "tStartMs": 484900,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Your door needs a key to open."
+    } ]
+  }, {
+    "tStartMs": 488966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The first time he forgets his key,"
+    } ]
+  }, {
+    "tStartMs": 490966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "he calls you,"
+    } ]
+  }, {
+    "tStartMs": 492566,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Ah, sorry, I left my key at the office."
+    } ]
+  }, {
+    "tStartMs": 496766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "Can you come back and open the door for me?"
+    } ]
+  }, {
+    "tStartMs": 500433,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "Then you'd say... well, it's okay, I can go help him, right?"
+    } ]
+  }, {
+    "tStartMs": 504166,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Because it's the first time this has happened,"
+    } ]
+  }, {
+    "tStartMs": 506700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "But if in the next week"
+    } ]
+  }, {
+    "tStartMs": 509433,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "He had this happen three times in a row"
+    } ]
+  }, {
+    "tStartMs": 513666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "You'd start to feel speechless"
+    } ]
+  }, {
+    "tStartMs": 516333,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "How can he be so forgetful"
+    } ]
+  }, {
+    "tStartMs": 518866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I'm really done with this"
+    } ]
+  }, {
+    "tStartMs": 520666,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "Three times in one week"
+    } ]
+  }, {
+    "tStartMs": 524333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I'm really done with this!"
+    } ]
+  }, {
+    "tStartMs": 526866,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "Next, the seventh expression is"
+    } ]
+  }, {
+    "tStartMs": 535700,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "Yeah, it has three English letters in the middle"
+    } ]
+  }, {
+    "tStartMs": 539233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "EMO comes from the English word emotion"
+    } ]
+  }, {
+    "tStartMs": 543000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It expresses sadness, sorrow"
+    } ]
+  }, {
+    "tStartMs": 547200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "feeling down, or in a bad mood"
+    } ]
+  }, {
+    "tStartMs": 550633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "In textbooks, you might learn"
+    } ]
+  }, {
+    "tStartMs": 553466,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I'm sad"
+    } ]
+  }, {
+    "tStartMs": 555200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "I'm very upset"
+    } ]
+  }, {
+    "tStartMs": 556633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "I'm in a bad mood"
+    } ]
+  }, {
+    "tStartMs": 558666,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "But in real life"
+    } ]
+  }, {
+    "tStartMs": 561600,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "Especially young people"
+    } ]
+  }, {
+    "tStartMs": 563166,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "They really like to use expressions like \"I'm feeling emo!\""
+    } ]
+  }, {
+    "tStartMs": 569200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "I have a friend"
+    } ]
+  }, {
+    "tStartMs": 570966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "I often call him Emo Bro"
+    } ]
+  }, {
+    "tStartMs": 573633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Why"
+    } ]
+  }, {
+    "tStartMs": 574733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Because he often gets emo at night"
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "At night, he doesn't want to sleep"
+    } ]
+  }, {
+    "tStartMs": 581633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Listening to sad songs"
+    } ]
+  }, {
+    "tStartMs": 583733,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "Looking at messages on his phone"
+    } ]
+  }, {
+    "tStartMs": 586566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Feeling sad, upset, and lost"
+    } ]
+  }, {
+    "tStartMs": 589800,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "Then he'll post some very melancholic updates"
+    } ]
+  }, {
+    "tStartMs": 594966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He really loves to be emo"
+    } ]
+  }, {
+    "tStartMs": 596966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "So I gave him a nickname: \"Emo Bro\""
+    } ]
+  }, {
+    "tStartMs": 600033,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Now we've reached the 8th expression"
+    } ]
+  }, {
+    "tStartMs": 608633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "You might ask: There's something?"
+    } ]
+  }, {
+    "tStartMs": 611233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "What something"
+    } ]
+  }, {
+    "tStartMs": 613466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What does this phrase mean?"
+    } ]
+  }, {
+    "tStartMs": 615066,
+    "dDurationMs": 6567,
+    "segs": [ {
+      "utf8": "Actually, it means not bad, better than expected."
+    } ]
+  }, {
+    "tStartMs": 621933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "It's got something to it."
+    } ]
+  }, {
+    "tStartMs": 624166,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "One day, your friend takes you to a restaurant."
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "You don't really have high expectations."
+    } ]
+  }, {
+    "tStartMs": 630600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The restaurant's appearance is also pretty ordinary."
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "You sit down."
+    } ]
+  }, {
+    "tStartMs": 637066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Then you order dishes."
+    } ]
+  }, {
+    "tStartMs": 639233,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The food arrives, you take a bite,"
+    } ]
+  }, {
+    "tStartMs": 643566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "and you're amazed."
+    } ]
+  }, {
+    "tStartMs": 644766,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "It's better than you expected,"
+    } ]
+  }, {
+    "tStartMs": 648200,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "pretty good,"
+    } ]
+  }, {
+    "tStartMs": 649766,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "quite nice,"
+    } ]
+  }, {
+    "tStartMs": 650666,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "pretty impressive."
+    } ]
+  }, {
+    "tStartMs": 652133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "Then you can say,"
+    } ]
+  }, {
+    "tStartMs": 653666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "Hey, this place has some real stuff!"
+    } ]
+  }, {
+    "tStartMs": 656533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "This place has something to it"
+    } ]
+  }, {
+    "tStartMs": 659533,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "The ninth expression"
+    } ]
+  }, {
+    "tStartMs": 665533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Or, to be... obsessed with something"
+    } ]
+  }, {
+    "tStartMs": 669400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "shàng tóu"
+    } ]
+  }, {
+    "tStartMs": 673266,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Its meaning is"
+    } ]
+  }, {
+    "tStartMs": 674300,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "It means liking or being addicted to something"
+    } ]
+  }, {
+    "tStartMs": 678566,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "shàng tóu"
+    } ]
+  }, {
+    "tStartMs": 680933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Nowadays, TikTok"
+    } ]
+  }, {
+    "tStartMs": 682533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Many people are hooked on TikTok."
+    } ]
+  }, {
+    "tStartMs": 684166,
+    "dDurationMs": 4267,
+    "segs": [ {
+      "utf8": "Because scrolling through videos is a very addictive behavior."
+    } ]
+  }, {
+    "tStartMs": 688433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "An easily addictive behavior."
+    } ]
+  }, {
+    "tStartMs": 691433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "This is 'hooked'."
+    } ]
+  }, {
+    "tStartMs": 693133,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "I've been scrolling on my phone for the whole night."
+    } ]
+  }, {
+    "tStartMs": 696566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "I can't stop."
+    } ]
+  }, {
+    "tStartMs": 698433,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I'm so hooked."
+    } ]
+  }, {
+    "tStartMs": 700333,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Short videos are so addictive."
+    } ]
+  }, {
+    "tStartMs": 703800,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Then if you say,"
+    } ]
+  }, {
+    "tStartMs": 705733,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I'm hooked on him now!"
+    } ]
+  }, {
+    "tStartMs": 711566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "what does that mean?"
+    } ]
+  }, {
+    "tStartMs": 712533,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It means you really like this person right now."
+    } ]
+  }, {
+    "tStartMs": 717233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "You're fascinated by him."
+    } ]
+  }, {
+    "tStartMs": 719433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "You like him a lot."
+    } ]
+  }, {
+    "tStartMs": 720766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I'm hooked on him."
+    } ]
+  }, {
+    "tStartMs": 722966,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Got it?"
+    } ]
+  }, {
+    "tStartMs": 724433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "The last one"
+    } ]
+  }, {
+    "tStartMs": 730666,
+    "dDurationMs": 5234,
+    "segs": [ {
+      "utf8": "You might notice another English word here - CPU"
+    } ]
+  }, {
+    "tStartMs": 736766,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "Do you know that a CPU is a component of a computer?"
+    } ]
+  }, {
+    "tStartMs": 741433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "The central processing unit"
+    } ]
+  }, {
+    "tStartMs": 743733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "Burn here doesn't mean burning with fire"
+    } ]
+  }, {
+    "tStartMs": 747766,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "It means damaged, no longer usable"
+    } ]
+  }, {
+    "tStartMs": 751100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "The CPU is fried"
+    } ]
+  }, {
+    "tStartMs": 752600,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "If your computer's CPU is broken"
+    } ]
+  }, {
+    "tStartMs": 754833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The computer can't be used."
+    } ]
+  }, {
+    "tStartMs": 757000,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "Right, it's unusable."
+    } ]
+  }, {
+    "tStartMs": 759166,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "In daily life,"
+    } ]
+  }, {
+    "tStartMs": 760600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "when we say this phrase,"
+    } ]
+  }, {
+    "tStartMs": 762866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "besides being used for computers,"
+    } ]
+  }, {
+    "tStartMs": 765000,
+    "dDurationMs": 4066,
+    "segs": [ {
+      "utf8": "it can also be applied to your brain."
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "What does that mean?"
+    } ]
+  }, {
+    "tStartMs": 771166,
+    "dDurationMs": 5334,
+    "segs": [ {
+      "utf8": "'CPU burned' means something that's mentally taxing or brain-burning."
+    } ]
+  }, {
+    "tStartMs": 776566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Very complicated situations"
+    } ]
+  }, {
+    "tStartMs": 777800,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "You can't figure it out"
+    } ]
+  }, {
+    "tStartMs": 779233,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "You can use the expression \"CPU burned out\""
+    } ]
+  }, {
+    "tStartMs": 782166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "For example"
+    } ]
+  }, {
+    "tStartMs": 783366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "You have a friend who is a programmer"
+    } ]
+  }, {
+    "tStartMs": 786633,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "He is very good at writing code"
+    } ]
+  }, {
+    "tStartMs": 790233,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "But code is very difficult for you"
+    } ]
+  }, {
+    "tStartMs": 793466,
+    "dDurationMs": 3534,
+    "segs": [ {
+      "utf8": "It's like reading an alien script, you can't understand it"
+    } ]
+  }, {
+    "tStartMs": 797166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "He explains to you"
+    } ]
+  }, {
+    "tStartMs": 798566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "why this is"
+    } ]
+  }, {
+    "tStartMs": 799600,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "why that is"
+    } ]
+  }, {
+    "tStartMs": 800900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You listen very carefully"
+    } ]
+  }, {
+    "tStartMs": 802900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "but you just can't understand"
+    } ]
+  }, {
+    "tStartMs": 805566,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "can't wrap your head around it"
+    } ]
+  }, {
+    "tStartMs": 806700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "your brain can't keep up"
+    } ]
+  }, {
+    "tStartMs": 809066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, stop telling me about it"
+    } ]
+  }, {
+    "tStartMs": 811066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "My CPU is fried."
+    } ]
+  }, {
+    "tStartMs": 813766,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "It means you can't figure something out."
+    } ]
+  }, {
+    "tStartMs": 817333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "Your brain can't process it."
+    } ]
+  }, {
+    "tStartMs": 819266,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "But it's a very vivid expression."
+    } ]
+  }, {
+    "tStartMs": 822933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "If your Chinese friends hear you say this,"
+    } ]
+  }, {
+    "tStartMs": 826500,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "they will definitely be amused."
+    } ]
+  }, {
+    "tStartMs": 829066,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Did you learn all 10 expressions today?"
+    } ]
+  }, {
+    "tStartMs": 833266,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "Find a chance to use them with your Chinese friends"
+    } ]
+  }, {
+    "tStartMs": 836400,
+    "dDurationMs": 5133,
+    "segs": [ {
+      "utf8": "Or say these phrases to your Chinese teacher."
+    } ]
+  }, {
+    "tStartMs": 841633,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "See how they react."
+    } ]
+  }, {
+    "tStartMs": 845466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "If you want to learn more,"
+    } ]
+  }, {
+    "tStartMs": 847566,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "authentic, natural, and real Chinese like this,"
+    } ]
+  }, {
+    "tStartMs": 851033,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "please give me a thumbs up."
+    } ]
+  }, {
+    "tStartMs": 853633,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "I'll make more videos for you."
+    } ]
+  }, {
+    "tStartMs": 856233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "That's it for today's video."
+    } ]
+  }, {
+    "tStartMs": 858266,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Thank you for watching till the end."
+    } ]
+  }, {
+    "tStartMs": 860100,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "See you in the next video, bye!"
+    } ]
+  } ]
+}

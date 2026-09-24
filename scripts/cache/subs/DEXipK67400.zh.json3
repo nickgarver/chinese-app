@@ -1,0 +1,1093 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 27966,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "dà jiā hǎo ， jīn tiān wǒ lái dào le shēn zhèn\n大 家  好  ， 今  天   我 来  到  了 深   圳  "
+    } ]
+  }, {
+    "tStartMs": 32666,
+    "dDurationMs": 3867,
+    "segs": [ {
+      "utf8": "yí gè wǒ hěn xǐ huan de nián qīng chéng shì\n一 个 我 很  喜 欢   的 年   轻   城    市 "
+    } ]
+  }, {
+    "tStartMs": 36666,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ zài shēn zhèn de rén cái gōng yuán\n现   在  我 在  深   圳   的 人  才  公   园  "
+    } ]
+  }, {
+    "tStartMs": 41766,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "zhè yě shì wǒ dì yī cì lái dào zhè ér\n这  也 是  我 第 一 次 来  到  这  儿"
+    } ]
+  }, {
+    "tStartMs": 44866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "zhè lǐ de fēng jǐng chāo piào liang de\n这  里 的 风   景   超   漂   亮    的"
+    } ]
+  }, {
+    "tStartMs": 48500,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "gěi nǐ men kàn yí xià\n给  你 们  看  一 下 "
+    } ]
+  }, {
+    "tStartMs": 52433,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "kàn ， shì bu shì hěn piào liang\n看  ， 是  不 是  很  漂   亮   "
+    } ]
+  }, {
+    "tStartMs": 56200,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "suī rán xiàn zài shì xià tiān\n虽  然  现   在  是  夏  天  "
+    } ]
+  }, {
+    "tStartMs": 59100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "dàn shì chuī zhe hǎi fēng\n但  是  吹   着  海  风  "
+    } ]
+  }, {
+    "tStartMs": 61900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "gǎn jué fēi cháng dì liáng shuǎng\n感  觉  非  常    地 凉    爽    "
+    } ]
+  }, {
+    "tStartMs": 66700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "xiàn zài shì xià wǔ 1 diǎn duō\n现   在  是  下  午 1 点   多 "
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "dàn gōng yuán lǐ hái shì yǒu hěn duō de rén\n但  公   园   里 还  是  有  很  多  的 人 "
+    } ]
+  }, {
+    "tStartMs": 75166,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "zhè shì yí gè kào hǎi de gōng yuán\n这  是  一 个 靠  海  的 公   园  "
+    } ]
+  }, {
+    "tStartMs": 78366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "dà jiā kě yǐ kàn dé dào\n大 家  可 以 看  得 到 "
+    } ]
+  }, {
+    "tStartMs": 80266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "kào hǎi ， jiù shì tā kào jìn hǎi\n靠  海  ， 就  是  它 靠  近  海 "
+    } ]
+  }, {
+    "tStartMs": 82466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "yán hǎi gōng yuán\n沿  海  公   园  "
+    } ]
+  }, {
+    "tStartMs": 85133,
+    "dDurationMs": 4567,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yí gè zào xíng hěn dú tè de jiàn zhù\n这  里 有  一 个 造  型   很  独 特 的 建   筑 "
+    } ]
+  }, {
+    "tStartMs": 94933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zhè ge jiàn zhù xiàng shén me ne\n这  个 建   筑  像    什   么 呢"
+    } ]
+  }, {
+    "tStartMs": 97766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "xiàng bu xiàng huǒ jiàn\n像    不 像    火  箭  "
+    } ]
+  }, {
+    "tStartMs": 103533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "zhè ge gōng yuán fēi cháng gān jìng\n这  个 公   园   非  常    干  净  "
+    } ]
+  }, {
+    "tStartMs": 106366,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "wǒ xiàn zài lián yí piàn lā jī dōu méi yǒu kàn dào\n我 现   在  连   一 片   垃 圾 都  没  有  看  到 "
+    } ]
+  }, {
+    "tStartMs": 114733,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "wǒ fā xiàn zhè ge gōng yuán de shàng kōng\n我 发 现   这  个 公   园   的 上    空  "
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "yǒu hěn duō wú rén jī zài fēi lái fēi qù\n有  很  多  无 人  机 在  飞  来  飞  去"
+    } ]
+  }, {
+    "tStartMs": 123966,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "yuán lái zhè ge gōng yuán kě yǐ yòng wú rén jī lái sòng wài mài\n原   来  这  个 公   园   可 以 用   无 人  机 来  送   外  卖 "
+    } ]
+  }, {
+    "tStartMs": 140966,
+    "dDurationMs": 3734,
+    "segs": [ {
+      "utf8": "zhè lǐ xiě zhe yì xiē xià dān de bù zhòu\n这  里 写  着  一 些  下  单  的 步 骤  "
+    } ]
+  }, {
+    "tStartMs": 145300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "1 、 2 、 3 、 4 、 5\n1 、 2 、 3 、 4 、 5"
+    } ]
+  }, {
+    "tStartMs": 147733,
+    "dDurationMs": 5233,
+    "segs": [ {
+      "utf8": "tā de yùn yíng shí jiān shì zǎo shàng 1 0 diǎn dào wǎn shàng 8 diǎn\n它 的 运  营   时  间   是  早  上    1 0 点   到  晚  上    8 点  "
+    } ]
+  }, {
+    "tStartMs": 153600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "nà wǒ men yě lái shì yí xià\n那 我 们  也 来  试  一 下 "
+    } ]
+  }, {
+    "tStartMs": 155800,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "diǎn yí xià zhè ge wú rén jī wài mài ba\n点   一 下  这  个 无 人  机 外  卖  吧"
+    } ]
+  }, {
+    "tStartMs": 159700,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "shǒu xiān ， wǒ men yòng wēi xìn lái sǎo miáo zhè ge èr wéi mǎ\n首   先   ， 我 们  用   微  信  来  扫  描   这  个 二 维  码"
+    } ]
+  }, {
+    "tStartMs": 167400,
+    "dDurationMs": 4733,
+    "segs": [ {
+      "utf8": "zài zhè lǐ nǐ jiù kě yǐ diǎn wài mài le\n在  这  里 你 就  可 以 点   外  卖  了"
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "kě yǐ xuǎn zé de dōng xī yě tǐng duō de\n可 以 选   择 的 东   西 也 挺   多  的"
+    } ]
+  }, {
+    "tStartMs": 176166,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "fàn 、 yǐn pǐn 、 bīng qí lín 、 xuě gāo\n饭  、 饮  品  、 冰   淇 淋  、 雪  糕 "
+    } ]
+  }, {
+    "tStartMs": 180833,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "yì xiē rì cháng yòng pǐn dōu kě yǐ sòng\n一 些  日 常    用   品  都  可 以 送  "
+    } ]
+  }, {
+    "tStartMs": 184133,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "tiān qì tài rè le\n天   气 太  热 了"
+    } ]
+  }, {
+    "tStartMs": 185233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "nà jiù lái chī gè xuě gāo ba\n那 就  来  吃  个 雪  糕  吧"
+    } ]
+  }, {
+    "tStartMs": 188100,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "diǎn le sān gè xuě gāo\n点   了 三  个 雪  糕 "
+    } ]
+  }, {
+    "tStartMs": 189900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "qiǎo kè lì xuě gāo ， 1 5 kuài qián\n巧   克 力 雪  糕  ， 1 5 块   钱  "
+    } ]
+  }, {
+    "tStartMs": 192666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "dàn shì pèi sòng fèi yào 1 1 kuài\n但  是  配  送   费  要  1 1 块  "
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "pèi sòng fèi bǐ xuě gāo hái guì\n配  送   费  比 雪  糕  还  贵 "
+    } ]
+  }, {
+    "tStartMs": 199766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "tā gěi le wǒ yōu huì\n它 给  了 我 优  惠 "
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 4266,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ zhī xū yào zhī fù 1 0 kuài qián ( xuě gāo ) jiù kě yǐ le\n所  以 我 只  需 要  支  付 1 0 块   钱   ( 雪  糕  ) 就  可 以 了"
+    } ]
+  }, {
+    "tStartMs": 206433,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "zhè lǐ kě yǐ kàn dé dào nǐ de wú rén jī “ wài mài yuán ” xiàn zài shì shén me zhuàng tài\n这  里 可 以 看  得 到  你 的 无 人  机 “ 外  卖  员   ” 现   在  是  什   么 状     态 "
+    } ]
+  }, {
+    "tStartMs": 215200,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "xiàn zài tā zài děng dài qǐ fēi\n现   在  它 在  等   待  起 飞 "
+    } ]
+  }, {
+    "tStartMs": 217433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "shāng pǐn zhèng zài dēng jī\n商    品  正    在  登   机"
+    } ]
+  }, {
+    "tStartMs": 220066,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "hěn kuài jiù néng sòng guò lái le\n很  快   就  能   送   过  来  了"
+    } ]
+  }, {
+    "tStartMs": 229833,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "yòu yí jià wú rén jī sòng cān lái le\n又  一 架  无 人  机 送   餐  来  了"
+    } ]
+  }, {
+    "tStartMs": 233966,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "tā huì tíng zài wài mài guì de shàng miàn\n它 会  停   在  外  卖  柜  的 上    面  "
+    } ]
+  }, {
+    "tStartMs": 239700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "rán hòu bǎ wài mài fàng zài wài mài guì\n然  后  把 外  卖  放   在  外  卖  柜 "
+    } ]
+  }, {
+    "tStartMs": 245466,
+    "dDurationMs": 4034,
+    "segs": [ {
+      "utf8": "sòng wán cān yǐ hòu ， tā jiù huì zài cì qǐ fēi\n送   完  餐  以 后  ， 它 就  会  再  次 起 飞 "
+    } ]
+  }, {
+    "tStartMs": 250233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "zài qù sòng xià yì dān\n再  去 送   下  一 单 "
+    } ]
+  }, {
+    "tStartMs": 251866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "jiù xiàng yí gè wài mài yuán yí yàng\n就  像    一 个 外  卖  员   一 样  "
+    } ]
+  }, {
+    "tStartMs": 258166,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "yí liàng wú rén jī zǒu le\n一 辆    无 人  机 走  了"
+    } ]
+  }, {
+    "tStartMs": 259900,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "yòu yǒu lìng yí liàng wú rén jī lái le\n又  有  另   一 辆    无 人  机 来  了"
+    } ]
+  }, {
+    "tStartMs": 264366,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "wǒ men huì yòng qǔ cān mǎ bǎ cān qǔ chū lái\n我 们  会  用   取 餐  码 把 餐  取 出  来 "
+    } ]
+  }, {
+    "tStartMs": 280400,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "guì mén yǐ dǎ kāi\n柜  门  已 打 开 "
+    } ]
+  }, {
+    "tStartMs": 281766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "qǐng jǐn kuài qǔ chū cān xiāng\n请   尽  快   取 出  餐  箱   "
+    } ]
+  }, {
+    "tStartMs": 285300,
+    "dDurationMs": 4966,
+    "segs": [ {
+      "utf8": "dǎ kāi xiāng zǐ ， wǒ men de wài mài jiù shì zài zhè lǐ le\n打 开  箱    子 ， 我 们  的 外  卖  就  是  在  这  里 了"
+    } ]
+  }, {
+    "tStartMs": 290866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "rán hòu ne ， wǒ men huì bǎ xiāng zǐ zhé qǐ lái\n然  后  呢 ， 我 们  会  把 箱    子 折  起 来 "
+    } ]
+  }, {
+    "tStartMs": 295866,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "fàng jìn zhè lǐ miàn qù ， xún huán zài yòng\n放   进  这  里 面   去 ， 循  环   再  用  "
+    } ]
+  }, {
+    "tStartMs": 308466,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "zhǐ shì yòng le 1 0 fēn zhōng\n只  是  用   了 1 0 分  钟   "
+    } ]
+  }, {
+    "tStartMs": 310900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "wǒ men de xuě gāo jiù dào le\n我 们  的 雪  糕  就  到  了"
+    } ]
+  }, {
+    "tStartMs": 312933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "zhēn de fēi cháng dì shén sù a\n真   的 非  常    地 神   速 啊"
+    } ]
+  }, {
+    "tStartMs": 316133,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "zhè shì wǒ men mǎi de qiǎo kè lì xuě gāo\n这  是  我 们  买  的 巧   克 力 雪  糕 "
+    } ]
+  }, {
+    "tStartMs": 322766,
+    "dDurationMs": 5734,
+    "segs": [ {
+      "utf8": "wú rén jī sòng de xuě gāo 、 bīng qí lín tè bié hǎo chī\n无 人  机 送   的 雪  糕  、 冰   淇 淋  特 别  好  吃 "
+    } ]
+  }, {
+    "tStartMs": 328900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "tiān qì tài rè le\n天   气 太  热 了"
+    } ]
+  }, {
+    "tStartMs": 330933,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "bīng qí lín mǎ shàng ( jiù ) róng huà le\n冰   淇 淋  马 上    ( 就  ) 融   化  了"
+    } ]
+  }, {
+    "tStartMs": 333900,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "bù dé bù shuō ， xiàn zài de kē jì zhēn shì yuè lái yuè fā dá le\n不 得 不 说   ， 现   在  的 科 技 真   是  越  来  越  发 达 了"
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "kē jì zhèng zài gǎi biàn wǒ men de shēng huó\n科 技 正    在  改  变   我 们  的 生    活 "
+    } ]
+  }, {
+    "tStartMs": 341300,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "lián xué xí yǔ yán yě yuè lái yuè fāng biàn le\n连   学  习 语 言  也 越  来  越  方   便   了"
+    } ]
+  }, {
+    "tStartMs": 344966,
+    "dDurationMs": 4534,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ xiǎng gēn dà jiā fēn xiǎng wǒ men de lǎo péng yǒu F l u e n t U\n现   在  我 想    跟  大 家  分  享    我 们  的 老  朋   友  F l u e n t U"
+    } ]
+  }, {
+    "tStartMs": 349500,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "zuì jìn tuī chū le yí xiàng hěn shí yòng de xīn gōng néng\n最  近  推  出  了 一 项    很  实  用   的 新  功   能  "
+    } ]
+  }, {
+    "tStartMs": 401300,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "gǎn xìng qù de xiǎo huǒ bàn\n感  兴   趣 的 小   伙  伴 "
+    } ]
+  }, {
+    "tStartMs": 403200,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "gǎn kuài tōng guò wǒ de liàn jiē\n赶  快   通   过  我 的 链   接 "
+    } ]
+  }, {
+    "tStartMs": 404866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "lái tǐ yàn yí xià F l u e n t U de xīn gōng néng ba\n来  体 验  一 下  F l u e n t U 的 新  功   能   吧"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "hái néng huò dé zhuān shǔ yōu huì ò\n还  能   获  得 专    属  优  惠  哦"
+    } ]
+  }, {
+    "tStartMs": 410633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "xī wàng kě yǐ bāng zhù dào dà jiā\n希 望   可 以 帮   助  到  大 家 "
+    } ]
+  }, {
+    "tStartMs": 412233,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "gèng qīng sōng 、 gèng zì rán dì xué xí zhōng wén\n更   轻   松   、 更   自 然  地 学  习 中    文 "
+    } ]
+  }, {
+    "tStartMs": 441300,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "3 4 dù de gāo wēn shí zài shòu bù liǎo liǎo\n3 4 度 的 高  温  实  在  受   不 了   了  "
+    } ]
+  }, {
+    "tStartMs": 444900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "suǒ yǐ xiàn zài wǒ men lái guàng shāng chǎng le\n所  以 现   在  我 们  来  逛    商    场    了"
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 4533,
+    "segs": [ {
+      "utf8": "sǎo dì jī qì rén zhèng zài qín fèn dì gōng zuò zhōng\n扫  地 机 器 人  正    在  勤  奋  地 工   作  中   "
+    } ]
+  }, {
+    "tStartMs": 457500,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "zhè lǐ de jiē dào fēi cháng dì gān jìng\n这  里 的 街  道  非  常    地 干  净  "
+    } ]
+  }, {
+    "tStartMs": 462566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "yǒu hěn duō hěn duō de shāng diàn\n有  很  多  很  多  的 商    店  "
+    } ]
+  }, {
+    "tStartMs": 465100,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "hái yǒu gāo lóu dà shà\n还  有  高  楼  大 厦 "
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "shì yǒu míng de shāng quān\n是  有  名   的 商    圈  "
+    } ]
+  }, {
+    "tStartMs": 477833,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "xiàn zài zhèng zhí shì jiè bēi qī jiān\n现   在  正    值  世  界  杯  期 间  "
+    } ]
+  }, {
+    "tStartMs": 481500,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "qián miàn yǒu yí gè dà zú qiú de mó xíng\n前   面   有  一 个 大 足 球  的 模 型  "
+    } ]
+  }, {
+    "tStartMs": 491400,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "zhè tiáo jiē yǒu hěn duō tè sè de cān tīng\n这  条   街  有  很  多  特 色 的 餐  厅  "
+    } ]
+  }, {
+    "tStartMs": 500033,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "zhè jiā cān tīng xiàng huáng gōng yí yàng ， yǒu méi yǒu\n这  家  餐  厅   像    皇    宫   一 样   ， 有  没  有 "
+    } ]
+  }, {
+    "tStartMs": 504700,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "zhuāng xiū dé xiàng huáng gōng yí yàng\n装     修  得 像    皇    宫   一 样  "
+    } ]
+  }, {
+    "tStartMs": 509800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "kàn qǐ lái hěn gāo jí ， hěn shē huá\n看  起 来  很  高  级 ， 很  奢  华 "
+    } ]
+  }, {
+    "tStartMs": 520133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "wǒ yǐ wéi shì zhēn de\n我 以 为  是  真   的"
+    } ]
+  }, {
+    "tStartMs": 521666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "qí shí tā shì jiǎ de\n其 实  它 是  假  的"
+    } ]
+  }, {
+    "tStartMs": 523466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "jiǎ huā\n假  花 "
+    } ]
+  }, {
+    "tStartMs": 524933,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "dàn shì kàn qǐ lái xiàng zhēn de yí yàng\n但  是  看  起 来  像    真   的 一 样  "
+    } ]
+  }, {
+    "tStartMs": 534533,
+    "dDurationMs": 5867,
+    "segs": [ {
+      "utf8": "zhè jiā hǎo xiàng shì yì jiā mò xī gē hái shì xī bān yá de cān tīng\n这  家  好  像    是  一 家  墨 西 哥 还  是  西 班  牙 的 餐  厅  "
+    } ]
+  }, {
+    "tStartMs": 540933,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "shì xī bān yá de cān tīng\n是  西 班  牙 的 餐  厅  "
+    } ]
+  }, {
+    "tStartMs": 544033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "xī bān yá chuán tǒng hǎi xiān fàn\n西 班  牙 传    统   海  鲜   饭 "
+    } ]
+  }, {
+    "tStartMs": 553433,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "kàn qǐ lái qì fēn chāo hǎo de\n看  起 来  气 氛  超   好  的"
+    } ]
+  }, {
+    "tStartMs": 559800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "měi jiā diàn dōu hěn yǒu tè sè ， hěn piào liang\n每  家  店   都  很  有  特 色 ， 很  漂   亮   "
+    } ]
+  }, {
+    "tStartMs": 564200,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "ràng rén rěn bú zhù yào pāi zhào\n让   人  忍  不 住  要  拍  照  "
+    } ]
+  }, {
+    "tStartMs": 572133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "zhè jiā shì mò xī gē cān tīng le\n这  家  是  墨 西 哥 餐  厅   了"
+    } ]
+  }, {
+    "tStartMs": 580666,
+    "dDurationMs": 5067,
+    "segs": [ {
+      "utf8": "fěn hóng sè de mén tè bié kě ài a\n粉  红   色 的 门  特 别  可 爱 啊"
+    } ]
+  }, {
+    "tStartMs": 586933,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "yīn wèi xiàn zài shì xià tiān\n因  为  现   在  是  夏  天  "
+    } ]
+  }, {
+    "tStartMs": 589100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "tiān qì shí zài tài rè le\n天   气 实  在  太  热 了"
+    } ]
+  }, {
+    "tStartMs": 591500,
+    "dDurationMs": 5666,
+    "segs": [ {
+      "utf8": "suǒ yǐ jiù suàn zài wài miàn yě huì yǒu yì bǎ xiǎo fēng shàn\n所  以 就  算   在  外  面   也 会  有  一 把 小   风   扇  "
+    } ]
+  }, {
+    "tStartMs": 598233,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "dàn shì xiǎo fēng shàn hái shì bú gòu a\n但  是  小   风   扇   还  是  不 够  啊"
+    } ]
+  }, {
+    "tStartMs": 601400,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "3 4 dù de gāo wēn\n3 4 度 的 高  温 "
+    } ]
+  }, {
+    "tStartMs": 603066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "yì bǎ fēng shàn zěn me gòu ne\n一 把 风   扇   怎  么 够  呢"
+    } ]
+  }, {
+    "tStartMs": 608666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "zhè xiē jiù shì zhēn huā le\n这  些  就  是  真   花  了"
+    } ]
+  }, {
+    "tStartMs": 611900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "suī rán yán sè méi yǒu nà me hǎo kàn\n虽  然  颜  色 没  有  那 么 好  看 "
+    } ]
+  }, {
+    "tStartMs": 614233,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "dàn què shí shì zhēn de\n但  确  实  是  真   的"
+    } ]
+  }, {
+    "tStartMs": 619233,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "zhè dòng lóu shàng miàn yǒu yì zhī dà xiàng\n这  栋   楼  上    面   有  一 只  大 象   "
+    } ]
+  }, {
+    "tStartMs": 623833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "bí zi hěn cháng hěn cháng\n鼻 子 很  长    很  长   "
+    } ]
+  }, {
+    "tStartMs": 628566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "kuài yào dào dì miàn le\n快   要  到  地 面   了"
+    } ]
+  }, {
+    "tStartMs": 635500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "zhè biān yǒu yí gè jù dà de píng mù\n这  边   有  一 个 巨 大 的 屏   幕"
+    } ]
+  }, {
+    "tStartMs": 640433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "zhè lǐ chāo duō rén pái duì de\n这  里 超   多  人  排  队  的"
+    } ]
+  }, {
+    "tStartMs": 643400,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "tā men pái duì jìn qù zhè jiā diàn\n他 们  排  队  进  去 这  家  店  "
+    } ]
+  }, {
+    "tStartMs": 650500,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "tài hào qí le\n太  好  奇 了"
+    } ]
+  }, {
+    "tStartMs": 651566,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "suǒ yǐ wǒ men yě pái duì jìn qù kàn kàn dào dǐ lǐ miàn yǒu shén me\n所  以 我 们  也 排  队  进  去 看  看  到  底 里 面   有  什   么"
+    } ]
+  }, {
+    "tStartMs": 656733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "wèi shén me kě yǐ xī yǐn zhè me duō rén\n为  什   么 可 以 吸 引  这  么 多  人 "
+    } ]
+  }, {
+    "tStartMs": 664633,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "zhōng yú jìn lái le\n终    于 进  来  了"
+    } ]
+  }, {
+    "tStartMs": 668000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "yǒu kōng tiáo wǒ cái huó guò lái le\n有  空   调   我 才  活  过  来  了"
+    } ]
+  }, {
+    "tStartMs": 673000,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "yí jìn lái jiù kàn dào le yí gè fēi cháng jù dà de\n一 进  来  就  看  到  了 一 个 非  常    巨 大 的"
+    } ]
+  }, {
+    "tStartMs": 677833,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "hěn zhēn shí de yí gè diāo xiàng\n很  真   实  的 一 个 雕   像   "
+    } ]
+  }, {
+    "tStartMs": 682866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "tiān nǎ ， tài kě pà le ， tài xiàng le\n天   哪 ， 太  可 怕 了 ， 太  像    了"
+    } ]
+  }, {
+    "tStartMs": 685366,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "xiàng yí gè jù rén yí yàng\n像    一 个 巨 人  一 样  "
+    } ]
+  }, {
+    "tStartMs": 691066,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "dà jiā kàn tā de shǒu hái yǒu jiǎo\n大 家  看  他 的 手   还  有  脚  "
+    } ]
+  }, {
+    "tStartMs": 695666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "fēi cháng dì xì jié\n非  常    地 细 节 "
+    } ]
+  }, {
+    "tStartMs": 701566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "tè bié bī zhēn\n特 别  逼 真  "
+    } ]
+  }, {
+    "tStartMs": 712500,
+    "dDurationMs": 6966,
+    "segs": [ {
+      "utf8": "tóng yàng ， zhè shì fēi cháng bī zhēn 、 huì dòng de niú\n同   样   ， 这  是  非  常    逼 真   、 会  动   的 牛 "
+    } ]
+  }, {
+    "tStartMs": 721466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "dà jiā kàn yi kàn\n大 家  看  一 看 "
+    } ]
+  }, {
+    "tStartMs": 722733,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "shì bu shì hěn bī zhēn\n是  不 是  很  逼 真  "
+    } ]
+  }, {
+    "tStartMs": 725133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "niú bu niú\n牛  不 牛 "
+    } ]
+  }, {
+    "tStartMs": 751000,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "wǒ hái yǐ wéi shì yí gè miǎn fèi de zhǎn lǎn\n我 还  以 为  是  一 个 免   费  的 展   览 "
+    } ]
+  }, {
+    "tStartMs": 753566,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "dàn qí shí tā shì yì jiā shāng diàn\n但  其 实  它 是  一 家  商    店  "
+    } ]
+  }, {
+    "tStartMs": 757133,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "shì yì jiā bǐ jiào yǒu yì shù gǎn de shāng diàn\n是  一 家  比 较   有  艺 术  感  的 商    店  "
+    } ]
+  }, {
+    "tStartMs": 762966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "tā fēi cháng dì chéng gōng\n它 非  常    地 成    功  "
+    } ]
+  }, {
+    "tStartMs": 763966,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "yīn wèi tā xī yǐn le hěn duō rén dào zhè lǐ lái kàn\n因  为  它 吸 引  了 很  多  人  到  这  里 来  看 "
+    } ]
+  }, {
+    "tStartMs": 793700,
+    "dDurationMs": 4366,
+    "segs": [ {
+      "utf8": "xiàn zài wǒ lái dào le shēn zhèn wān gōng yuán\n现   在  我 来  到  了 深   圳   湾  公   园  "
+    } ]
+  }, {
+    "tStartMs": 798066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "chī wán fàn guò lái sàn yí xià bù\n吃  完  饭  过  来  散  一 下  步"
+    } ]
+  }, {
+    "tStartMs": 801366,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "zhōu mò zhè biān de rén shì chāo jí chāo jí duō\n周   末 这  边   的 人  是  超   级 超   级 多 "
+    } ]
+  }, {
+    "tStartMs": 805733,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "yǒu hěn duō rén zuò zài hǎi biān chuī fēng\n有  很  多  人  坐  在  海  边   吹   风  "
+    } ]
+  }, {
+    "tStartMs": 811466,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "yě yǒu hěn duō rén shì qí zì xíng chē de\n也 有  很  多  人  是  骑 自 行   车  的"
+    } ]
+  }, {
+    "tStartMs": 815100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "yán zhe hǎi biān qí zì xíng chē\n沿  着  海  边   骑 自 行   车 "
+    } ]
+  }, {
+    "tStartMs": 819966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "xiàn zài shì bàng wǎn\n现   在  是  傍   晚 "
+    } ]
+  }, {
+    "tStartMs": 823466,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "tiān gāng gāng hēi le yì diǎn\n天   刚   刚   黑  了 一 点  "
+    } ]
+  }, {
+    "tStartMs": 826366,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "nà biān de jiàn zhù liàng le dēng\n那 边   的 建   筑  亮    了 灯  "
+    } ]
+  }, {
+    "tStartMs": 830566,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "děng wǎn yì diǎn de shí hòu\n等   晚  一 点   的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 832700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "tiān gèng hēi de shí hòu\n天   更   黑  的 时  候 "
+    } ]
+  }, {
+    "tStartMs": 835166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "nà biān de jiàn zhù quán liàng le dēng de huà\n那 边   的 建   筑  全   亮    了 灯   的 话 "
+    } ]
+  }, {
+    "tStartMs": 838266,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "nà jiù shì fēi cháng hǎo kàn de yè jǐng\n那 就  是  非  常    好  看  的 夜 景  "
+    } ]
+  }, {
+    "tStartMs": 847266,
+    "dDurationMs": 4867,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu hǎo duō dà shí tou ya\n这  里 有  好  多  大 石  头  呀"
+    } ]
+  }, {
+    "tStartMs": 853200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "nà biān mì mì má má de dōu shì rén\n那 边   密 密 麻 麻 的 都  是  人 "
+    } ]
+  }, {
+    "tStartMs": 857000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "hěn duō rén zài nà biān pāi zhào\n很  多  人  在  那 边   拍  照  "
+    } ]
+  }, {
+    "tStartMs": 861366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "kàn dé bú tài qīng chǔ\n看  得 不 太  清   楚 "
+    } ]
+  }, {
+    "tStartMs": 863000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "yǒu diǎn mó hu\n有  点   模 糊"
+    } ]
+  }, {
+    "tStartMs": 864733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "dàn shì ne ， nà biān shì shān\n但  是  呢 ， 那 边   是  山  "
+    } ]
+  }, {
+    "tStartMs": 867533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "zhè lǐ yǒu yí zuò dà qiáo\n这  里 有  一 座  大 桥  "
+    } ]
+  }, {
+    "tStartMs": 872700,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "tīng zhe hǎi shuǐ de nà ge shēng yīn zhēn de tè bié dì shū fú\n听   着  海  水   的 那 个 声    音  真   的 特 别  地 舒  服"
+    } ]
+  }, {
+    "tStartMs": 877366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "chuī zhe qīng liáng de hǎi fēng\n吹   着  清   凉    的 海  风  "
+    } ]
+  }, {
+    "tStartMs": 880733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "cóng zhè biān kě yǐ kàn dào gèng duō de jiàn zhù\n从   这  边   可 以 看  到  更   多  的 建   筑 "
+    } ]
+  }, {
+    "tStartMs": 884433,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "dà jiā dōu zài děng zhè ge yè jǐng\n大 家  都  在  等   这  个 夜 景  "
+    } ]
+  }, {
+    "tStartMs": 887500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "tài yǒu yì sī le\n太  有  意 思 了"
+    } ]
+  }, {
+    "tStartMs": 355766,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "nǐ kě yǐ gēn tā liáo rèn hé huà tí lái liàn xí zhōng wén\n你 可 以 跟  它 聊   任  何 话  题 来  练   习 中    文 "
+    } ]
+  }, {
+    "tStartMs": 359900,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "rú guǒ nǐ shuō cuò le\n如 果  你 说   错  了"
+    } ]
+  }, {
+    "tStartMs": 361466,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "tā huì bāng nǐ jiū zhèng\n它 会  帮   你 纠  正   "
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "rú guǒ bù zhī dào zěn me biǎo dá\n如 果  不 知  道  怎  么 表   达"
+    } ]
+  }, {
+    "tStartMs": 364966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "tā yě huì yí bù yi bù yǐn dǎo nǐ\n它 也 会  一 步 一 步 引  导  你"
+    } ]
+  }, {
+    "tStartMs": 367166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "jiù xiàng suí shí dōu yǒu yí wèi lǎo shī\n就  像    随  时  都  有  一 位  老  师 "
+    } ]
+  }, {
+    "tStartMs": 369366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "péi nǐ liàn xí kǒu yǔ yí yàng\n陪  你 练   习 口  语 一 样  "
+    } ]
+  }, {
+    "tStartMs": 371733,
+    "dDurationMs": 4633,
+    "segs": [ {
+      "utf8": "wǒ píng shí hái hěn xǐ huan yòng F l u e n t U shàng de zhēn shí shì pín xué yǔ yán\n我 平   时  还  很  喜 欢   用   F l u e n t U 上    的 真   实  视  频  学  语 言 "
+    } ]
+  }, {
+    "tStartMs": 376500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "yīn wèi xué dào de shì mǔ yǔ zhě zhēn zhèng huì shuō de biǎo dá\n因  为  学  到  的 是  母 语 者  真   正    会  说   的 表   达"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "ér bú shì kè běn lǐ bǐ jiào shēng yìng de jù zi\n而 不 是  课 本  里 比 较   生    硬   的 句 子"
+    } ]
+  }, {
+    "tStartMs": 383466,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "wǒ men hái kě yǐ yòng Y o u T u b e hé N e t f l i x shàng rèn hé dài yǒu zì mù de shì pín\n我 们  还  可 以 用   Y o u T u b e 和 N e t f l i x 上    任  何 带  有  字 幕 的 视  频 "
+    } ]
+  }, {
+    "tStartMs": 388100,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "xué xí zì jǐ zhēn zhèng gǎn xìng qù de nèi róng\n学  习 自 己 真   正    感  兴   趣 的 内  容  "
+    } ]
+  }, {
+    "tStartMs": 391266,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "kàn dào bú huì de cí\n看  到  不 会  的 词"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "hái kě yǐ zhí jiē chá xún bìng jiā rù zì jǐ de dān cí běn\n还  可 以 直  接  查  询  并   加  入 自 己 的 单  词 本 "
+    } ]
+  }, {
+    "tStartMs": 395766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "zhī hòu F l u e n t U huì zì dòng bāng nǐ ān pái fù xí hé liàn xí\n之  后  F l u e n t U 会  自 动   帮   你 安 排  复 习 和 练   习"
+    } ]
+  }, {
+    "tStartMs": 399200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "ràng nǐ gèng róng yì jì zhù\n让   你 更   容   易 记 住 "
+    } ]
+  } ]
+}

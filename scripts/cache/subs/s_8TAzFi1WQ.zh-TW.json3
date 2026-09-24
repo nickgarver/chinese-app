@@ -1,0 +1,4171 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "真人英文老師實在是不太夠"
+    } ]
+  }, {
+    "tStartMs": 1710,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "全世界有超過十億人"
+    } ]
+  }, {
+    "tStartMs": 3545,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "非常渴望學習英文"
+    } ]
+  }, {
+    "tStartMs": 5630,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "你可以試著估算一下"
+    } ]
+  }, {
+    "tStartMs": 6631,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "真正優秀的真人英文老師有多少"
+    } ]
+  }, {
+    "tStartMs": 8550,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "但很明顯"
+    } ]
+  }, {
+    "tStartMs": 9551,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "這個數字應該遠低於一百萬"
+    } ]
+  }, {
+    "tStartMs": 11094,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Speak 最大的護城河是什麼？"
+    } ]
+  }, {
+    "tStartMs": 12929,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "我自己的看法是"
+    } ]
+  }, {
+    "tStartMs": 13972,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "所謂的護城河大多是假的"
+    } ]
+  }, {
+    "tStartMs": 15056,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "hahahah"
+    } ]
+  }, {
+    "tStartMs": 15890,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": " 講到英文學習"
+    } ]
+  }, {
+    "tStartMs": 16808,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "你可能有聽過"
+    } ]
+  }, {
+    "tStartMs": 17684,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "「Speak」這個軟體"
+    } ]
+  }, {
+    "tStartMs": 19144,
+    "dDurationMs": 792,
+    "segs": [ {
+      "utf8": "看過它的廣告"
+    } ]
+  }, {
+    "tStartMs": 19936,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "但你可能不知道"
+    } ]
+  }, {
+    "tStartMs": 21062,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "它背後的的故事有多瘋狂！"
+    } ]
+  }, {
+    "tStartMs": 22856,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "當年 Speak 曾經只用短短半年"
+    } ]
+  }, {
+    "tStartMs": 24774,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "市值就衝破 10 億美金"
+    } ]
+  }, {
+    "tStartMs": 26443,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "成為 AI 語言學習領域的"
+    } ]
+  }, {
+    "tStartMs": 28194,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "第一隻獨角獸"
+    } ]
+  }, {
+    "tStartMs": 29112,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "上線至今，全球累積"
+    } ]
+  }, {
+    "tStartMs": 30155,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "全球超過 2000 萬名用戶"
+    } ]
+  }, {
+    "tStartMs": 32265,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "而在台灣也一度"
+    } ]
+  }, {
+    "tStartMs": 33533,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "衝上 App Store 教育類排行榜冠軍"
+    } ]
+  }, {
+    "tStartMs": 36403,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "而很少人知道"
+    } ]
+  }, {
+    "tStartMs": 37404,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "這間公司的共同創辦人"
+    } ]
+  }, {
+    "tStartMs": 38872,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "是一位台裔美國人"
+    } ]
+  }, {
+    "tStartMs": 40540,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "他就是被國內外媒體"
+    } ]
+  }, {
+    "tStartMs": 42675,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "稱為「天才」的台裔創業家"
+    } ]
+  }, {
+    "tStartMs": 44377,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": " Andrew 徐安廬"
+    } ]
+  }, {
+    "tStartMs": 45712,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "我很好奇"
+    } ]
+  }, {
+    "tStartMs": 46379,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "媒體到現在還是"
+    } ]
+  }, {
+    "tStartMs": 48014,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "常常用「天才」來稱呼你"
+    } ]
+  }, {
+    "tStartMs": 50016,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "這個標籤會讓你覺得不自在嗎"
+    } ]
+  }, {
+    "tStartMs": 52652,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "其實我已經很習慣了"
+    } ]
+  }, {
+    "tStartMs": 55321,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "一開始或許有點不自在"
+    } ]
+  }, {
+    "tStartMs": 57357,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "現在不會了"
+    } ]
+  }, {
+    "tStartMs": 58525,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "但我就是學著接受"
+    } ]
+  }, {
+    "tStartMs": 60160,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "他是天才跳級生"
+    } ]
+  }, {
+    "tStartMs": 61361,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "12 歲就上大學"
+    } ]
+  }, {
+    "tStartMs": 62829,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "16 歲拿下三個學士學位"
+    } ]
+  }, {
+    "tStartMs": 65231,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "後來從史丹佛休學、走上創業之路"
+    } ]
+  }, {
+    "tStartMs": 67500,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "打造出世界級企業"
+    } ]
+  }, {
+    "tStartMs": 69936,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "前陣子，我們邀請到 Andrew"
+    } ]
+  }, {
+    "tStartMs": 71404,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "一起聊了他不可思議的成長經歷"
+    } ]
+  }, {
+    "tStartMs": 73740,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "還有創業過之後"
+    } ]
+  }, {
+    "tStartMs": 75141,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "他是怎麼用 10 年光陰"
+    } ]
+  }, {
+    "tStartMs": 76609,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "打磨出全球頂尖 AI 學習軟體？"
+    } ]
+  }, {
+    "tStartMs": 79679,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "我們是認真想要創業"
+    } ]
+  }, {
+    "tStartMs": 82115,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "做產品"
+    } ]
+  }, {
+    "tStartMs": 83016,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "但最一開始的幾年"
+    } ]
+  }, {
+    "tStartMs": 86286,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "都沒什麼起色"
+    } ]
+  }, {
+    "tStartMs": 87554,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "這集不只聊成功"
+    } ]
+  }, {
+    "tStartMs": 88855,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "也會聊 Andrew 的失敗經驗"
+    } ]
+  }, {
+    "tStartMs": 90590,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "老實說"
+    } ]
+  }, {
+    "tStartMs": 91357,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "這應該是我最近訪過最扎實"
+    } ]
+  }, {
+    "tStartMs": 93526,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "最有收穫的對談之一"
+    } ]
+  }, {
+    "tStartMs": 94994,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "等一下的影片呢"
+    } ]
+  }, {
+    "tStartMs": 95829,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "我們也會穿插一些資料補充"
+    } ]
+  }, {
+    "tStartMs": 97464,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "讓你更能進入 Andrew 的故事"
+    } ]
+  }, {
+    "tStartMs": 99532,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "相信對大家都會滿有收穫的"
+    } ]
+  }, {
+    "tStartMs": 101701,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "那我們就準備開始吧！"
+    } ]
+  }, {
+    "tStartMs": 120153,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "可以請 Andrew 簡單自我介紹一下"
+    } ]
+  }, {
+    "tStartMs": 122021,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "跟觀眾們打聲招呼嗎"
+    } ]
+  }, {
+    "tStartMs": 124090,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "嗨，我是 Andrew Hsu"
+    } ]
+  }, {
+    "tStartMs": 125692,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "徐安廬"
+    } ]
+  }, {
+    "tStartMs": 126793,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "我是 Speak 的共同創辦人兼技術長"
+    } ]
+  }, {
+    "tStartMs": 129896,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "我們在準備訪綱的時候"
+    } ]
+  }, {
+    "tStartMs": 130930,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "搜尋「徐安廬」名字"
+    } ]
+  }, {
+    "tStartMs": 132799,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "找到了很多精彩的故事！"
+    } ]
+  }, {
+    "tStartMs": 134267,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "他在台灣出生"
+    } ]
+  }, {
+    "tStartMs": 135702,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "四歲時，全家搬到西雅圖"
+    } ]
+  }, {
+    "tStartMs": 137971,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "從小， Andrew 就展現出"
+    } ]
+  }, {
+    "tStartMs": 139672,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "超越同齡的學習能力"
+    } ]
+  }, {
+    "tStartMs": 141708,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "不到十歲就能讀完整套莎士比亞"
+    } ]
+  }, {
+    "tStartMs": 144611,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "他的父母也發現他的天賦"
+    } ]
+  }, {
+    "tStartMs": 146613,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "讓他在家自學"
+    } ]
+  }, {
+    "tStartMs": 148314,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "十到十三歲期間"
+    } ]
+  }, {
+    "tStartMs": 150049,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "他看到一部紀錄片"
+    } ]
+  }, {
+    "tStartMs": 151384,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "發現東南亞偏鄉孩子"
+    } ]
+  }, {
+    "tStartMs": 153119,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "很多連英文教材都沒有"
+    } ]
+  }, {
+    "tStartMs": 154888,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "於是他跟弟弟兩個人"
+    } ]
+  }, {
+    "tStartMs": 156890,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "創辦了「世界兒童基金會」"
+    } ]
+  }, {
+    "tStartMs": 158992,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "自己寫、錄、剪"
+    } ]
+  }, {
+    "tStartMs": 161027,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "一口氣做出 130 本教材"
+    } ]
+  }, {
+    "tStartMs": 163630,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "當時，他們還回到台灣"
+    } ]
+  }, {
+    "tStartMs": 165031,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "分享這一套自創的學習教材"
+    } ]
+  }, {
+    "tStartMs": 166799,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "造成很大的轟動"
+    } ]
+  }, {
+    "tStartMs": 168067,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "很多台灣媒體都有報導"
+    } ]
+  }, {
+    "tStartMs": 169435,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "當年的影片"
+    } ]
+  }, {
+    "tStartMs": 170770,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "今天在 YouTube 都還找得到"
+    } ]
+  }, {
+    "tStartMs": 173506,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "到了十六歲的時候"
+    } ]
+  }, {
+    "tStartMs": 174707,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "他已經拿到華盛頓大學"
+    } ]
+  }, {
+    "tStartMs": 176042,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "「生化、化學、神經科學」"
+    } ]
+  }, {
+    "tStartMs": 177844,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "三個學位畢業"
+    } ]
+  }, {
+    "tStartMs": 179179,
+    "dDurationMs": 2268,
+    "segs": [ {
+      "utf8": "接著念又到史丹佛大學"
+    } ]
+  }, {
+    "tStartMs": 181447,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "攻讀博士學位"
+    } ]
+  }, {
+    "tStartMs": 182849,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "我們看到這邊"
+    } ]
+  }, {
+    "tStartMs": 183783,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "覺得他的成長曲線"
+    } ]
+  }, {
+    "tStartMs": 184884,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "實在是太驚人了"
+    } ]
+  }, {
+    "tStartMs": 185885,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "所以，在進到 Speak 的故事之前"
+    } ]
+  }, {
+    "tStartMs": 188154,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "我們決定先問 Andrew"
+    } ]
+  }, {
+    "tStartMs": 189455,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "作為一位大家口中的「天才」"
+    } ]
+  }, {
+    "tStartMs": 192058,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "他是怎麼長大的？"
+    } ]
+  }, {
+    "tStartMs": 194360,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "你是在幾歲發現"
+    } ]
+  }, {
+    "tStartMs": 197030,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "自己學東西比其他同學快"
+    } ]
+  }, {
+    "tStartMs": 201167,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "我在西雅圖長大"
+    } ]
+  }, {
+    "tStartMs": 202502,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "當時我在公立小學讀四年級"
+    } ]
+  }, {
+    "tStartMs": 205071,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "我去學校的時候"
+    } ]
+  }, {
+    "tStartMs": 207473,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "都在打擾同學學習"
+    } ]
+  }, {
+    "tStartMs": 209309,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "因為我很快就可以"
+    } ]
+  }, {
+    "tStartMs": 211010,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "完成所有測驗、考試跟作業"
+    } ]
+  }, {
+    "tStartMs": 214581,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "然後就會開始干擾同學"
+    } ]
+  }, {
+    "tStartMs": 216649,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "那之後不久"
+    } ]
+  }, {
+    "tStartMs": 218551,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "我父母親就決定"
+    } ]
+  }, {
+    "tStartMs": 221154,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "在家自學對我來說會更好"
+    } ]
+  }, {
+    "tStartMs": 223089,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "這對他們來說也是很大的決定"
+    } ]
+  }, {
+    "tStartMs": 226359,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "我那時候大概是七、八歲左右"
+    } ]
+  }, {
+    "tStartMs": 229329,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "所以你進華盛頓大學讀書的時候"
+    } ]
+  }, {
+    "tStartMs": 231831,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "只有 12 歲"
+    } ]
+  }, {
+    "tStartMs": 233099,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "然後 16 歲的時候"
+    } ]
+  }, {
+    "tStartMs": 234534,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "就已經完成了三個學士學位"
+    } ]
+  }, {
+    "tStartMs": 236836,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "對大多數人來說"
+    } ]
+  }, {
+    "tStartMs": 237870,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "這聽起來很不可思議"
+    } ]
+  }, {
+    "tStartMs": 240240,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "當時你有覺得學習很困難嗎"
+    } ]
+  }, {
+    "tStartMs": 243243,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "說真的"
+    } ]
+  }, {
+    "tStartMs": 244410,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "我沒有其他學習的經驗可以比較"
+    } ]
+  }, {
+    "tStartMs": 246713,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "我自己很清楚"
+    } ]
+  }, {
+    "tStartMs": 248381,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "我走的路跟大家不太一樣"
+    } ]
+  }, {
+    "tStartMs": 250917,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "但我沒有感覺到差異"
+    } ]
+  }, {
+    "tStartMs": 253253,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "我知道這聽起來有點荒唐"
+    } ]
+  }, {
+    "tStartMs": 255121,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "但也因為是在這樣的環境裡"
+    } ]
+  }, {
+    "tStartMs": 259392,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "我才能完全照自己的步調前進"
+    } ]
+  }, {
+    "tStartMs": 263396,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "我覺得更有意思的是"
+    } ]
+  }, {
+    "tStartMs": 265798,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "這也奠定了我對學習的核心理念"
+    } ]
+  }, {
+    "tStartMs": 268935,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "我認為人類學習的速度很快"
+    } ]
+  }, {
+    "tStartMs": 271204,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "但我並不是說每個人都可以"
+    } ]
+  }, {
+    "tStartMs": 273640,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "有跟我一樣的經歷"
+    } ]
+  }, {
+    "tStartMs": 276476,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "但我相信"
+    } ]
+  }, {
+    "tStartMs": 278378,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "地球上的每一個人"
+    } ]
+  }, {
+    "tStartMs": 280413,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "都能學得比想像中快很多"
+    } ]
+  }, {
+    "tStartMs": 282749,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "訪談時， Andrew 有提到"
+    } ]
+  }, {
+    "tStartMs": 283950,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "父母對他的影響"
+    } ]
+  }, {
+    "tStartMs": 285151,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "那講到「亞洲父母」"
+    } ]
+  }, {
+    "tStartMs": 286753,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "就會想到黃仁勳講的話"
+    } ]
+  }, {
+    "tStartMs": 293192,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "但這件事，好像沒有"
+    } ]
+  }, {
+    "tStartMs": 294460,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "發生在 Andrew 身上"
+    } ]
+  }, {
+    "tStartMs": 295895,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "他的父母來自台灣"
+    } ]
+  }, {
+    "tStartMs": 297096,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "確實很重視教育"
+    } ]
+  }, {
+    "tStartMs": 298431,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "但也給小孩很大的自由"
+    } ]
+  }, {
+    "tStartMs": 300166,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "比如說，全家出遊的時候"
+    } ]
+  }, {
+    "tStartMs": 302035,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "他們會信任 11 歲的 Andrew"
+    } ]
+  }, {
+    "tStartMs": 303836,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "讓他幫全家規劃行程"
+    } ]
+  }, {
+    "tStartMs": 305772,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "訂機票、訂住宿也自己來"
+    } ]
+  }, {
+    "tStartMs": 308074,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "他們的父母"
+    } ]
+  }, {
+    "tStartMs": 308775,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "也不會強硬要求他"
+    } ]
+  }, {
+    "tStartMs": 310009,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "走特定的成功道路"
+    } ]
+  }, {
+    "tStartMs": 311778,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "算是很不一樣的「亞裔家庭」！"
+    } ]
+  }, {
+    "tStartMs": 314180,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "你自己有沒有哪些重要的觀念"
+    } ]
+  }, {
+    "tStartMs": 316949,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "是父母在成長過程中教會你的"
+    } ]
+  }, {
+    "tStartMs": 320353,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "問得真好"
+    } ]
+  }, {
+    "tStartMs": 322221,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "我爸爸從小教我的一個觀念"
+    } ]
+  }, {
+    "tStartMs": 324857,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "到今天還是深深影響著我"
+    } ]
+  }, {
+    "tStartMs": 326626,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "他一直不斷強調"
+    } ]
+  }, {
+    "tStartMs": 330129,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "自由是我們的最終目標"
+    } ]
+  }, {
+    "tStartMs": 333566,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "我們最終的目標其實是"
+    } ]
+  }, {
+    "tStartMs": 335968,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "能做我們想做的事"
+    } ]
+  }, {
+    "tStartMs": 337370,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "不受任何限制束縛"
+    } ]
+  }, {
+    "tStartMs": 339772,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "擁有完整的自由"
+    } ]
+  }, {
+    "tStartMs": 341474,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "去完成我們想做的事"
+    } ]
+  }, {
+    "tStartMs": 344043,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "這或許就是為什麼"
+    } ]
+  }, {
+    "tStartMs": 345578,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "我一直都很想要創業"
+    } ]
+  }, {
+    "tStartMs": 350116,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "我沒有真正的工作經驗"
+    } ]
+  }, {
+    "tStartMs": 352151,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "我研究所退學之後"
+    } ]
+  }, {
+    "tStartMs": 353920,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "拿了提爾獎學金"
+    } ]
+  }, {
+    "tStartMs": 354954,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "接下來就開始創業"
+    } ]
+  }, {
+    "tStartMs": 357924,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "現在經營 Speak"
+    } ]
+  }, {
+    "tStartMs": 359492,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "這裡我們打斷一下"
+    } ]
+  }, {
+    "tStartMs": 361027,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "剛剛 Andrew 輕描淡寫地"
+    } ]
+  }, {
+    "tStartMs": 362695,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "提到了「提爾獎學金」"
+    } ]
+  }, {
+    "tStartMs": 364731,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "但是！這是個不得了的成就"
+    } ]
+  }, {
+    "tStartMs": 367033,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "我們覺得有必要補充一下"
+    } ]
+  }, {
+    "tStartMs": 368368,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "提爾獎學金是"
+    } ]
+  }, {
+    "tStartMs": 369235,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "PayPal 共同創辦人"
+    } ]
+  }, {
+    "tStartMs": 370837,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "矽谷傳奇投資人"
+    } ]
+  }, {
+    "tStartMs": 372372,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "彼得・提爾創立的"
+    } ]
+  }, {
+    "tStartMs": 374173,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "那這個計畫"
+    } ]
+  }, {
+    "tStartMs": 375041,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "每年都會選出 20 到 25 位"
+    } ]
+  }, {
+    "tStartMs": 377043,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "22 歲以下的學生"
+    } ]
+  }, {
+    "tStartMs": 379345,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "提供他們數十萬美金的獎學金"
+    } ]
+  }, {
+    "tStartMs": 381581,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "條件是「必須從學校輟學，直接創業」"
+    } ]
+  }, {
+    "tStartMs": 384784,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "拿到獎學金的"
+    } ]
+  }, {
+    "tStartMs": 385718,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "很多後來都變成科技圈的大佬"
+    } ]
+  }, {
+    "tStartMs": 388354,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "像是綽號 V 神"
+    } ]
+  }, {
+    "tStartMs": 389522,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "以太坊創辦人維塔利克·布特林"
+    } ]
+  }, {
+    "tStartMs": 392525,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "或是設計軟體 Figma 共同創辦人"
+    } ]
+  }, {
+    "tStartMs": 395027,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "戴倫·菲爾德"
+    } ]
+  }, {
+    "tStartMs": 396095,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "都是這個獎項的校友"
+    } ]
+  }, {
+    "tStartMs": 397764,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "Andrew 呢，也是在拿到獎學金之後"
+    } ]
+  }, {
+    "tStartMs": 400199,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "決定從史丹佛休學"
+    } ]
+  }, {
+    "tStartMs": 402268,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "走上創業之路！"
+    } ]
+  }, {
+    "tStartMs": 403669,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "我覺得在史丹佛"
+    } ]
+  }, {
+    "tStartMs": 406406,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "整個氛圍就是很新創"
+    } ]
+  }, {
+    "tStartMs": 409041,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "同學無時無刻都在講創業"
+    } ]
+  }, {
+    "tStartMs": 411811,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "常常有人退學去創業"
+    } ]
+  }, {
+    "tStartMs": 413546,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "就好像是史丹佛的文化"
+    } ]
+  }, {
+    "tStartMs": 415148,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "沒錯"
+    } ]
+  }, {
+    "tStartMs": 415982,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "當時我也是漸漸意識到"
+    } ]
+  }, {
+    "tStartMs": 418451,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "創業這條路可能更有發展性"
+    } ]
+  }, {
+    "tStartMs": 421454,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "我可以親手打造系統"
+    } ]
+  }, {
+    "tStartMs": 423489,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "幫助更多人"
+    } ]
+  }, {
+    "tStartMs": 424824,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "長期下來能夠觸及到更多人"
+    } ]
+  }, {
+    "tStartMs": 428161,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "勝過當世界頂尖的醫生"
+    } ]
+  }, {
+    "tStartMs": 432432,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "時間快轉到 2016 年"
+    } ]
+  }, {
+    "tStartMs": 434333,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "對 Andrew 來說是關鍵的一年"
+    } ]
+  }, {
+    "tStartMs": 436302,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "這一年， AI 圈有個大新聞"
+    } ]
+  }, {
+    "tStartMs": 438271,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "Google DeepMind 開發的"
+    } ]
+  }, {
+    "tStartMs": 439539,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "圍棋程式 AlphaGo"
+    } ]
+  }, {
+    "tStartMs": 440673,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "首度打敗了最強職業棋士"
+    } ]
+  }, {
+    "tStartMs": 443309,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "但除此之外⋯⋯"
+    } ]
+  }, {
+    "tStartMs": 444644,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "大部分的媒體焦點"
+    } ]
+  }, {
+    "tStartMs": 445545,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "都不在 AI 身上"
+    } ]
+  }, {
+    "tStartMs": 446546,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "大家在討論的"
+    } ]
+  }, {
+    "tStartMs": 447513,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "像是蘋果推出 iPhone 7"
+    } ]
+  }, {
+    "tStartMs": 449315,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "首度拿掉了耳機孔"
+    } ]
+  }, {
+    "tStartMs": 450783,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "三星 Galaxy Note 7 鋰電池連環爆炸"
+    } ]
+  }, {
+    "tStartMs": 454287,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "史無前例全球停產"
+    } ]
+  }, {
+    "tStartMs": 455488,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Pokemon GO 釋出"
+    } ]
+  }, {
+    "tStartMs": 457123,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "造成全球轟動"
+    } ]
+  }, {
+    "tStartMs": 458391,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "至於 AI 產業"
+    } ]
+  }, {
+    "tStartMs": 459659,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "沒有得到主流媒體的太多關注"
+    } ]
+  }, {
+    "tStartMs": 462228,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "很多語言模型才剛起步"
+    } ]
+  }, {
+    "tStartMs": 464063,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "OpenAI 剛成立第二年"
+    } ]
+  }, {
+    "tStartMs": 465498,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "Claude 甚至還不存在"
+    } ]
+  }, {
+    "tStartMs": 467533,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "AI 語音相關的技術"
+    } ]
+  }, {
+    "tStartMs": 469135,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "還在牙牙學語的時期"
+    } ]
+  }, {
+    "tStartMs": 471003,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "但就在這個階段"
+    } ]
+  }, {
+    "tStartMs": 472705,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "Andrew 卻做出了大膽的決定"
+    } ]
+  }, {
+    "tStartMs": 474807,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "他要開一間用 AI 做語言教育的公司"
+    } ]
+  }, {
+    "tStartMs": 478778,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "AI 在 2016 年的時候還不成熟"
+    } ]
+  }, {
+    "tStartMs": 481047,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "但你選擇做 AI 產品"
+    } ]
+  }, {
+    "tStartMs": 483282,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "你是不是看到了其他人沒發現的機會"
+    } ]
+  }, {
+    "tStartMs": 486118,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "其實比較像"
+    } ]
+  }, {
+    "tStartMs": 487286,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "我在科技上賭一把"
+    } ]
+  }, {
+    "tStartMs": 488754,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "就像你說的"
+    } ]
+  }, {
+    "tStartMs": 489555,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "我們當時接觸到一些深度學習的研究"
+    } ]
+  }, {
+    "tStartMs": 493125,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "就相信"
+    } ]
+  }, {
+    "tStartMs": 494293,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "這種人工智慧"
+    } ]
+  }, {
+    "tStartMs": 496629,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "這種科技"
+    } ]
+  }, {
+    "tStartMs": 498931,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "在未來會成為決定性的趨勢"
+    } ]
+  }, {
+    "tStartMs": 501801,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "我們當時覺得"
+    } ]
+  }, {
+    "tStartMs": 504136,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "前景很看好"
+    } ]
+  }, {
+    "tStartMs": 505872,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "我們想要一起推動這樣的未來"
+    } ]
+  }, {
+    "tStartMs": 508641,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "所以才有 Speak 的誕生"
+    } ]
+  }, {
+    "tStartMs": 510409,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "這就是我們當初成立的契機"
+    } ]
+  }, {
+    "tStartMs": 512645,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Speak 團隊在 2017 年"
+    } ]
+  }, {
+    "tStartMs": 513980,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "順利加入了"
+    } ]
+  }, {
+    "tStartMs": 514780,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "矽谷頂尖的 YC 加速器"
+    } ]
+  }, {
+    "tStartMs": 516983,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "並很快推出了"
+    } ]
+  }, {
+    "tStartMs": 517817,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "他們的第一代產品"
+    } ]
+  }, {
+    "tStartMs": 519118,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "但這款產品上線後的市場反應"
+    } ]
+  }, {
+    "tStartMs": 522121,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "卻慘遭滑鐵盧"
+    } ]
+  }, {
+    "tStartMs": 524390,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "我們當時想創業"
+    } ]
+  }, {
+    "tStartMs": 526392,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "想做一些前沿的機器學習研究"
+    } ]
+  }, {
+    "tStartMs": 530196,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "但事情並沒有如我們所願"
+    } ]
+  }, {
+    "tStartMs": 532832,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "公司剛開始的幾年"
+    } ]
+  }, {
+    "tStartMs": 534867,
+    "dDurationMs": 4038,
+    "segs": [ {
+      "utf8": "我們就只是一直在找產品市場契合度"
+    } ]
+  }, {
+    "tStartMs": 538905,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "我們是認真想創業"
+    } ]
+  }, {
+    "tStartMs": 540907,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "想做產品"
+    } ]
+  }, {
+    "tStartMs": 542174,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "但一開始的幾年"
+    } ]
+  }, {
+    "tStartMs": 544477,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "發展完全不如預期"
+    } ]
+  }, {
+    "tStartMs": 546512,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Speak 的第一代產品"
+    } ]
+  }, {
+    "tStartMs": 547914,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "內部稱為「Red App」"
+    } ]
+  }, {
+    "tStartMs": 549382,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "當時團隊野心很大"
+    } ]
+  }, {
+    "tStartMs": 550583,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "做成免費、多語言"
+    } ]
+  }, {
+    "tStartMs": 552285,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "讓用戶「自己定義、選擇」學習主題的 App"
+    } ]
+  }, {
+    "tStartMs": 555488,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "但團隊很快發現"
+    } ]
+  }, {
+    "tStartMs": 557290,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "這樣的產品並沒有真正打中市場需求"
+    } ]
+  }, {
+    "tStartMs": 560526,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "在第一個產品 Red App 失敗之後"
+    } ]
+  }, {
+    "tStartMs": 562361,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "你有什麼收穫"
+    } ]
+  }, {
+    "tStartMs": 563896,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "其實 Red App"
+    } ]
+  }, {
+    "tStartMs": 565865,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "有趣的是"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "以前又叫 Conversations"
+    } ]
+  }, {
+    "tStartMs": 569402,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "問題是使用者跟學習者"
+    } ]
+  }, {
+    "tStartMs": 572138,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "並不想要一直做決定"
+    } ]
+  }, {
+    "tStartMs": 574740,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "他們也是做了很多選擇"
+    } ]
+  }, {
+    "tStartMs": 576309,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "才決定要下載這款產品"
+    } ]
+  }, {
+    "tStartMs": 578377,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "但一打開 App"
+    } ]
+  }, {
+    "tStartMs": 580813,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "我們卻又叫他們繼續做選擇"
+    } ]
+  }, {
+    "tStartMs": 583649,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "還給他們 15 個不同的情境"
+    } ]
+  }, {
+    "tStartMs": 585551,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "他們只想要跟著學"
+    } ]
+  }, {
+    "tStartMs": 586485,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "沒錯"
+    } ]
+  }, {
+    "tStartMs": 587887,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "所以大家就放棄了"
+    } ]
+  }, {
+    "tStartMs": 589989,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "也沒有人再回頭使用"
+    } ]
+  }, {
+    "tStartMs": 591591,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "我們現在的產品"
+    } ]
+  }, {
+    "tStartMs": 593225,
+    "dDurationMs": 3304,
+    "segs": [ {
+      "utf8": "就完全拿掉了情境選擇的部分"
+    } ]
+  }, {
+    "tStartMs": 596529,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "不再讓使用者自己選擇"
+    } ]
+  }, {
+    "tStartMs": 598998,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "而是直接讓使用者進入不同等級的課程"
+    } ]
+  }, {
+    "tStartMs": 603202,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "我們發現"
+    } ]
+  }, {
+    "tStartMs": 610710,
+    "dDurationMs": 4037,
+    "segs": [ {
+      "utf8": "他們都有特定的英文學習目標"
+    } ]
+  }, {
+    "tStartMs": 614747,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "只需要有人一步步帶他們學習"
+    } ]
+  }, {
+    "tStartMs": 617550,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Speak 很快發現"
+    } ]
+  }, {
+    "tStartMs": 618551,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "把選擇權完全交給用戶"
+    } ]
+  }, {
+    "tStartMs": 620453,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "反而成了學習路上的「絆腳石」"
+    } ]
+  }, {
+    "tStartMs": 623055,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "可以想像，一般人光是"
+    } ]
+  }, {
+    "tStartMs": 624523,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "每天要說服自己打開 App"
+    } ]
+  }, {
+    "tStartMs": 626425,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "就已經是一個得"
+    } ]
+  }, {
+    "tStartMs": 627793,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "跨過很高的心理門檻了"
+    } ]
+  }, {
+    "tStartMs": 629895,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "結果一進到軟體裡"
+    } ]
+  }, {
+    "tStartMs": 631230,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "還要再耗費腦力"
+    } ]
+  }, {
+    "tStartMs": 632732,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "思考要學習什麼主題"
+    } ]
+  }, {
+    "tStartMs": 634300,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "這反而讓用戶感到不知所措"
+    } ]
+  }, {
+    "tStartMs": 636802,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "最後乾脆放棄、不學了"
+    } ]
+  }, {
+    "tStartMs": 638270,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "Andrew 後來認知到"
+    } ]
+  }, {
+    "tStartMs": 639472,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "大眾的學習心理"
+    } ]
+  }, {
+    "tStartMs": 640539,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "其實是「非常被動」"
+    } ]
+  }, {
+    "tStartMs": 641974,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "所以在後續的改版中"
+    } ]
+  }, {
+    "tStartMs": 643275,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "他們決定放棄多餘的選項"
+    } ]
+  }, {
+    "tStartMs": 645144,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "一進到 App 的主頁"
+    } ]
+  }, {
+    "tStartMs": 646612,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "只留下一個直覺的大按鈕"
+    } ]
+  }, {
+    "tStartMs": 648814,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "用戶按下去就直接"
+    } ]
+  }, {
+    "tStartMs": 650483,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "跟著設計好的課程前進"
+    } ]
+  }, {
+    "tStartMs": 656055,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "2019 年，在產品重新調整後"
+    } ]
+  }, {
+    "tStartMs": 658257,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Speak 重新出發"
+    } ]
+  }, {
+    "tStartMs": 659558,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "這一次，他們跨過太平洋、進軍亞洲"
+    } ]
+  }, {
+    "tStartMs": 662461,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "而首發地點"
+    } ]
+  }, {
+    "tStartMs": 663763,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "就選在全球英語學習"
+    } ]
+  }, {
+    "tStartMs": 665598,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "最競爭的市場之一"
+    } ]
+  }, {
+    "tStartMs": 666932,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "韓國 "
+    } ]
+  }, {
+    "tStartMs": 667566,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "2019 年你們開始進軍亞洲市場"
+    } ]
+  }, {
+    "tStartMs": 671237,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "Speak 選擇了韓國而不是臺灣"
+    } ]
+  }, {
+    "tStartMs": 674473,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "你當時是觀察到了什麼"
+    } ]
+  }, {
+    "tStartMs": 676575,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "才做出這個決定"
+    } ]
+  }, {
+    "tStartMs": 678544,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "我們拜訪了很多亞洲國家"
+    } ]
+  }, {
+    "tStartMs": 681814,
+    "dDurationMs": 4137,
+    "segs": [ {
+      "utf8": "從產品跟商業的角度來看"
+    } ]
+  }, {
+    "tStartMs": 685951,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "我們想要先聚焦在一個市場上"
+    } ]
+  }, {
+    "tStartMs": 689588,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "看是否能成功"
+    } ]
+  }, {
+    "tStartMs": 691090,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "但我跟你老實說"
+    } ]
+  }, {
+    "tStartMs": 693392,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "我們當初也可以選擇臺灣或日本"
+    } ]
+  }, {
+    "tStartMs": 697229,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "當時選韓國其實沒什麼特別的原因"
+    } ]
+  }, {
+    "tStartMs": 700733,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "就只是共同創辦人的大學室友"
+    } ]
+  }, {
+    "tStartMs": 703803,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "剛好是韓國人"
+    } ]
+  }, {
+    "tStartMs": 704904,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "他剛好能夠幫我們打入市場"
+    } ]
+  }, {
+    "tStartMs": 708140,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "幫忙做翻譯跟在地化"
+    } ]
+  }, {
+    "tStartMs": 710076,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "主要是產品跟商業的考量"
+    } ]
+  }, {
+    "tStartMs": 713012,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "當時這條路明顯比較好走"
+    } ]
+  }, {
+    "tStartMs": 717450,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "在進入韓國市場的過程"
+    } ]
+  }, {
+    "tStartMs": 719618,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "你學到最重要的一課是什麼"
+    } ]
+  }, {
+    "tStartMs": 722154,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "很多我們在韓國的學到經驗"
+    } ]
+  }, {
+    "tStartMs": 724924,
+    "dDurationMs": 3737,
+    "segs": [ {
+      "utf8": "後來發現都普遍適用"
+    } ]
+  }, {
+    "tStartMs": 728661,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "多數語言學習者的心理"
+    } ]
+  }, {
+    "tStartMs": 731130,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "一開始我們觀察到的是"
+    } ]
+  }, {
+    "tStartMs": 739138,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "這剛好是我們 App 的強項之一"
+    } ]
+  }, {
+    "tStartMs": 741941,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "大家在練習的時候犯錯"
+    } ]
+  }, {
+    "tStartMs": 744210,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "都會是在自己家裡"
+    } ]
+  }, {
+    "tStartMs": 746212,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "面對的是機器"
+    } ]
+  }, {
+    "tStartMs": 747513,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "就不會覺得丟臉"
+    } ]
+  }, {
+    "tStartMs": 748848,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "也不用害怕犯錯"
+    } ]
+  }, {
+    "tStartMs": 750382,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "這真的幫很多人"
+    } ]
+  }, {
+    "tStartMs": 752051,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "跨過了心理障礙"
+    } ]
+  }, {
+    "tStartMs": 753719,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "我們也最佳化了 App 的使用者體驗"
+    } ]
+  }, {
+    "tStartMs": 756789,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "讓使用者可以開口練習上百次"
+    } ]
+  }, {
+    "tStartMs": 760893,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "想練習多少次都沒有問題"
+    } ]
+  }, {
+    "tStartMs": 763662,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "就是因為有這個關鍵的新機制"
+    } ]
+  }, {
+    "tStartMs": 767500,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "我們成功了"
+    } ]
+  }, {
+    "tStartMs": 768868,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "因為很多學習者其實"
+    } ]
+  }, {
+    "tStartMs": 771403,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "都沒什麼機會可以開口練習"
+    } ]
+  }, {
+    "tStartMs": 773405,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "所以這滿足了他們的需求"
+    } ]
+  }, {
+    "tStartMs": 775841,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "Speak 後來在韓國市場站穩腳步"
+    } ]
+  }, {
+    "tStartMs": 777977,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "營收也越來越好"
+    } ]
+  }, {
+    "tStartMs": 779011,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "不過，重頭戲還在後頭"
+    } ]
+  }, {
+    "tStartMs": 780913,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "前面我們提到"
+    } ]
+  }, {
+    "tStartMs": 781814,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Andrew 他們創辦 Speak 的終極信念"
+    } ]
+  }, {
+    "tStartMs": 784250,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "是他們相信"
+    } ]
+  }, {
+    "tStartMs": 785351,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "AI 會在 5-10 年內"
+    } ]
+  }, {
+    "tStartMs": 787987,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "達到「超人家教」的等級"
+    } ]
+  }, {
+    "tStartMs": 789855,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "但在前幾年"
+    } ]
+  }, {
+    "tStartMs": 791056,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "AI 的進展卻非常緩慢"
+    } ]
+  }, {
+    "tStartMs": 792725,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "尤其是在「語音辨識」"
+    } ]
+  }, {
+    "tStartMs": 794226,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "這一塊核心能力上"
+    } ]
+  }, {
+    "tStartMs": 795828,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "只要遇到發音不標準"
+    } ]
+  }, {
+    "tStartMs": 797196,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "帶有濃厚口音的英語學習者"
+    } ]
+  }, {
+    "tStartMs": 799765,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "AI 基本上就沒輒了"
+    } ]
+  }, {
+    "tStartMs": 801267,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "直到 2022 年"
+    } ]
+  }, {
+    "tStartMs": 802701,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "OpenAI 釋出了"
+    } ]
+  }, {
+    "tStartMs": 803569,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "革命性的 AI 模型"
+    } ]
+  }, {
+    "tStartMs": 805237,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "兩位創辦人"
+    } ]
+  }, {
+    "tStartMs": 806105,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "苦等了六年的「奇蹟時刻」"
+    } ]
+  }, {
+    "tStartMs": 808874,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "終於出現了！"
+    } ]
+  }, {
+    "tStartMs": 810209,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "這故事蠻有趣的"
+    } ]
+  }, {
+    "tStartMs": 811277,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "我們當時已經認識"
+    } ]
+  }, {
+    "tStartMs": 813512,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "OpenAI 的創辦人 Sam Altman"
+    } ]
+  }, {
+    "tStartMs": 815848,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "認識好幾年了"
+    } ]
+  }, {
+    "tStartMs": 817783,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "所以我們那時候測試過"
+    } ]
+  }, {
+    "tStartMs": 821053,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "早期的 GPT-2 跟 GPT-3"
+    } ]
+  }, {
+    "tStartMs": 823355,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "但當時的表現就是還不到位"
+    } ]
+  }, {
+    "tStartMs": 825191,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "還不夠好"
+    } ]
+  }, {
+    "tStartMs": 826892,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "有一天 Sam 打給我的共同創辦人 Connor"
+    } ]
+  }, {
+    "tStartMs": 829929,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "跟他說"
+    } ]
+  }, {
+    "tStartMs": 831730,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "他們有一個新的語音辨識模型"
+    } ]
+  }, {
+    "tStartMs": 833933,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "叫做 Whisper"
+    } ]
+  }, {
+    "tStartMs": 835034,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Whisper 的功能真的很強"
+    } ]
+  }, {
+    "tStartMs": 836735,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "沒錯"
+    } ]
+  }, {
+    "tStartMs": 837570,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "那時剛好是 Whisper 正式發布之前"
+    } ]
+  }, {
+    "tStartMs": 839905,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "他們知道我們對語音辨識非常感興趣"
+    } ]
+  }, {
+    "tStartMs": 843242,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "我清楚記得"
+    } ]
+  }, {
+    "tStartMs": 844710,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "第一次測試 Whisper 的時候"
+    } ]
+  }, {
+    "tStartMs": 846545,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "我們發現可以"
+    } ]
+  }, {
+    "tStartMs": 848614,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "上傳一段使用者練習的語音片段"
+    } ]
+  }, {
+    "tStartMs": 851217,
+    "dDurationMs": 3536,
+    "segs": [ {
+      "utf8": "講的內容是英文但口音很重"
+    } ]
+  }, {
+    "tStartMs": 854753,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "即便讓三個人同時聽這個音檔"
+    } ]
+  }, {
+    "tStartMs": 857456,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "也聽不懂他到底講了什麼"
+    } ]
+  }, {
+    "tStartMs": 859592,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "但 Whisper 卻能給出正確的逐字稿"
+    } ]
+  }, {
+    "tStartMs": 862228,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "對"
+    } ]
+  }, {
+    "tStartMs": 862928,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "我們當時覺得非常不可思議"
+    } ]
+  }, {
+    "tStartMs": 865097,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "根本就已經是超越人類的程度"
+    } ]
+  }, {
+    "tStartMs": 867800,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "在那之後"
+    } ]
+  }, {
+    "tStartMs": 869134,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "就有了GPT-3.5 Turbo"
+    } ]
+  }, {
+    "tStartMs": 871136,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "ChatGPT 橫空出世"
+    } ]
+  }, {
+    "tStartMs": 872471,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "再來又發布了GPT-4"
+    } ]
+  }, {
+    "tStartMs": 874006,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "我們跟 OpenAI 都有意識到"
+    } ]
+  }, {
+    "tStartMs": 877142,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "語言學習是一塊很有發展潛力的領域"
+    } ]
+  }, {
+    "tStartMs": 880613,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "能夠透過這些新的模型來達成"
+    } ]
+  }, {
+    "tStartMs": 883616,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "接著我們很快就獲得了投資"
+    } ]
+  }, {
+    "tStartMs": 885751,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "AI 模型出現重大突破後"
+    } ]
+  }, {
+    "tStartMs": 887519,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "Speak 的功能也大幅度進步"
+    } ]
+  }, {
+    "tStartMs": 889622,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "變成了「 24 小時超人級別家教」"
+    } ]
+  }, {
+    "tStartMs": 892858,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "在這之後， Speak 迎來了"
+    } ]
+  }, {
+    "tStartMs": 894560,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "「資金狂潮」！"
+    } ]
+  }, {
+    "tStartMs": 896061,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "在 OpenAI 的全力支持與領投之下"
+    } ]
+  }, {
+    "tStartMs": 898364,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Speak 順利完成了"
+    } ]
+  }, {
+    "tStartMs": 899431,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "2,700 萬美元的 B 輪融資"
+    } ]
+  }, {
+    "tStartMs": 901901,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "這不僅僅是一筆資金"
+    } ]
+  }, {
+    "tStartMs": 903535,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "更代表著他們拿到了"
+    } ]
+  }, {
+    "tStartMs": 904503,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "與 OpenAI 深度技術"
+    } ]
+  }, {
+    "tStartMs": 906238,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "合作的特權通行證"
+    } ]
+  }, {
+    "tStartMs": 908007,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "而這股狂潮還沒有結束"
+    } ]
+  }, {
+    "tStartMs": 909775,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "隨著全球用戶量和營收的翻倍暴增"
+    } ]
+  }, {
+    "tStartMs": 912711,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "在 2024 年 12 月"
+    } ]
+  }, {
+    "tStartMs": 914046,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "他們再度完成了"
+    } ]
+  }, {
+    "tStartMs": 915748,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "高達 7,800 萬美元的 C 輪融資"
+    } ]
+  }, {
+    "tStartMs": 918817,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "就在短短一年的時間之內"
+    } ]
+  }, {
+    "tStartMs": 920419,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "Speak 的估值，直接衝破了"
+    } ]
+  }, {
+    "tStartMs": 921887,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "10 億美元的大關"
+    } ]
+  }, {
+    "tStartMs": 923422,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "換算成新台幣"
+    } ]
+  }, {
+    "tStartMs": 924223,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "就是 300 億元的巨型量級！"
+    } ]
+  }, {
+    "tStartMs": 926959,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "這讓他們毫無懸念地"
+    } ]
+  }, {
+    "tStartMs": 928527,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "成為了全球 AI 語言學習領域中"
+    } ]
+  }, {
+    "tStartMs": 931530,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "最耀眼、也最瘋狂的一隻獨角獸！"
+    } ]
+  }, {
+    "tStartMs": 935701,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "一些老觀眾應該知道"
+    } ]
+  }, {
+    "tStartMs": 936702,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "我自己有用 Speak 一陣子嘛"
+    } ]
+  }, {
+    "tStartMs": 938404,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "也確實覺得"
+    } ]
+  }, {
+    "tStartMs": 939505,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "它是一個很成熟"
+    } ]
+  }, {
+    "tStartMs": 940839,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "完整的 AI 學習軟體"
+    } ]
+  }, {
+    "tStartMs": 942341,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "比如說，他有真人影音課程"
+    } ]
+  }, {
+    "tStartMs": 944543,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "可以聚焦生活中"
+    } ]
+  }, {
+    "tStartMs": 945811,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "「真正會用到」的"
+    } ]
+  }, {
+    "tStartMs": 946712,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "常見用詞或句型"
+    } ]
+  }, {
+    "tStartMs": 948180,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "而且，Speak 有大量"
+    } ]
+  }, {
+    "tStartMs": 949581,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "跟 AI 練習口說的機會"
+    } ]
+  }, {
+    "tStartMs": 951050,
+    "dDurationMs": 3536,
+    "segs": [ {
+      "utf8": "不管句型、文法多爛都沒關係"
+    } ]
+  }, {
+    "tStartMs": 954586,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "Speak 自己的語音辨識系統"
+    } ]
+  }, {
+    "tStartMs": 956822,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "會針對大家講話的文法、句型給予即時修正"
+    } ]
+  }, {
+    "tStartMs": 960626,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "讓你的口說快速進步"
+    } ]
+  }, {
+    "tStartMs": 962394,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "重點是，你還可以跟它玩角色扮演"
+    } ]
+  }, {
+    "tStartMs": 964797,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "讓 AI 擔任店員、客戶、海關之類的"
+    } ]
+  }, {
+    "tStartMs": 967733,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "直接針對你"
+    } ]
+  }, {
+    "tStartMs": 968600,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "最需要的情境，反覆練習！"
+    } ]
+  }, {
+    "tStartMs": 970169,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "總之，經過十年打磨的 Speak"
+    } ]
+  }, {
+    "tStartMs": 972071,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "已經是一個很成熟"
+    } ]
+  }, {
+    "tStartMs": 973105,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "完整的 AI 學習軟體"
+    } ]
+  }, {
+    "tStartMs": 975841,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "那在訪談時，我們就很好奇"
+    } ]
+  }, {
+    "tStartMs": 977176,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "像是 Andrew 這樣"
+    } ]
+  }, {
+    "tStartMs": 978277,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "學習能力超群的天才"
+    } ]
+  }, {
+    "tStartMs": 980245,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "是怎麼樣把他的學習方法"
+    } ]
+  }, {
+    "tStartMs": 981947,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "應用在 Speak 裡面的？"
+    } ]
+  }, {
+    "tStartMs": 984450,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "Speak 裡面有沒有哪些功能"
+    } ]
+  }, {
+    "tStartMs": 986618,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "是來自你自己的學習方法呢"
+    } ]
+  }, {
+    "tStartMs": 991724,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "好問題"
+    } ]
+  }, {
+    "tStartMs": 993959,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "因為這是你的產品"
+    } ]
+  }, {
+    "tStartMs": 995494,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "是這樣沒錯"
+    } ]
+  }, {
+    "tStartMs": 996528,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "我不會說是我自己獨有的學習方法"
+    } ]
+  }, {
+    "tStartMs": 999999,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "像是有個概念"
+    } ]
+  }, {
+    "tStartMs": 1002201,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "是我一直很感興趣的"
+    } ]
+  }, {
+    "tStartMs": 1004370,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "叫間隔複習"
+    } ]
+  }, {
+    "tStartMs": 1005337,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Andrew 提到的"
+    } ]
+  }, {
+    "tStartMs": 1006138,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "是一種叫做「間隔複習」的學習法"
+    } ]
+  }, {
+    "tStartMs": 1008040,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "這是一種提升"
+    } ]
+  }, {
+    "tStartMs": 1008941,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "長期記憶效率的方法"
+    } ]
+  }, {
+    "tStartMs": 1010509,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "比如說，比起考前"
+    } ]
+  }, {
+    "tStartMs": 1011810,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "一次讀完的死背"
+    } ]
+  }, {
+    "tStartMs": 1013145,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "間隔複習強調要「分次回想」"
+    } ]
+  }, {
+    "tStartMs": 1015848,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "越熟的內容出現頻率越低"
+    } ]
+  }, {
+    "tStartMs": 1017850,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "快忘記的則會再次出現"
+    } ]
+  }, {
+    "tStartMs": 1020219,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "在大腦即將忘記"
+    } ]
+  }, {
+    "tStartMs": 1021320,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "所學內容的黃金臨界點"
+    } ]
+  }, {
+    "tStartMs": 1022888,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "馬上再丟出來讓你複習"
+    } ]
+  }, {
+    "tStartMs": 1025290,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "加強記憶力！"
+    } ]
+  }, {
+    "tStartMs": 1026291,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "有個演算法叫做間隔複習"
+    } ]
+  }, {
+    "tStartMs": 1029728,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "是記憶任何內容最有效的方法"
+    } ]
+  }, {
+    "tStartMs": 1033065,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "你可以搭配單字卡使用"
+    } ]
+  }, {
+    "tStartMs": 1035367,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "演算法會告訴你"
+    } ]
+  }, {
+    "tStartMs": 1037069,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "在每個不同的時間點"
+    } ]
+  }, {
+    "tStartMs": 1039671,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "複習哪些單字卡會最有效率"
+    } ]
+  }, {
+    "tStartMs": 1044009,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "它會在過程中模擬"
+    } ]
+  }, {
+    "tStartMs": 1045978,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "你忘記內容的速度"
+    } ]
+  }, {
+    "tStartMs": 1047713,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "根據你記憶單字卡的表現"
+    } ]
+  }, {
+    "tStartMs": 1050416,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "確保你能在對的時間學習對的內容"
+    } ]
+  }, {
+    "tStartMs": 1053485,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "達到最好的學習成效"
+    } ]
+  }, {
+    "tStartMs": 1055054,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "我們用這個演算法做修改"
+    } ]
+  }, {
+    "tStartMs": 1057256,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "調整出我們想要的模式"
+    } ]
+  }, {
+    "tStartMs": 1059725,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "這就是 Speak 的智慧複習功能"
+    } ]
+  }, {
+    "tStartMs": 1062428,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Speak 這套學習模式"
+    } ]
+  }, {
+    "tStartMs": 1063662,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "在台灣也同樣非常成功"
+    } ]
+  }, {
+    "tStartMs": 1065397,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "登陸台灣短短不到半年"
+    } ]
+  }, {
+    "tStartMs": 1066765,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "迅速繳出了"
+    } ]
+  }, {
+    "tStartMs": 1067599,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "「每日下載量破千」的傲人成績"
+    } ]
+  }, {
+    "tStartMs": 1069768,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "甚至一度強勢登上了"
+    } ]
+  }, {
+    "tStartMs": 1071036,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "App Store 教育類排行榜第一名！"
+    } ]
+  }, {
+    "tStartMs": 1073772,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "而說到大家對 Speak 最深的印象"
+    } ]
+  }, {
+    "tStartMs": 1075774,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "絕對是那支鋪天蓋地的經典廣告"
+    } ]
+  }, {
+    "tStartMs": 1084683,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "Speak 找來李洋擔任"
+    } ]
+  }, {
+    "tStartMs": 1086285,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "「英文講最爛代言人」"
+    } ]
+  }, {
+    "tStartMs": 1087920,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "強調「英文很爛也沒關係，敢講就好」"
+    } ]
+  }, {
+    "tStartMs": 1090756,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "引起網友們的共鳴"
+    } ]
+  }, {
+    "tStartMs": 1092291,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "在社群上爆紅"
+    } ]
+  }, {
+    "tStartMs": 1093425,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "不過我們也發現"
+    } ]
+  }, {
+    "tStartMs": 1094426,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Speak 在台灣的行銷策略"
+    } ]
+  }, {
+    "tStartMs": 1096095,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "最近似乎有個有趣的小改變"
+    } ]
+  }, {
+    "tStartMs": 1098630,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "半年前 Speak 找來"
+    } ]
+  }, {
+    "tStartMs": 1100132,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "鳳小岳、納豆拍廣告"
+    } ]
+  }, {
+    "tStartMs": 1101800,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "主打的是「不要犯錯，敢講最帥」"
+    } ]
+  }, {
+    "tStartMs": 1104636,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "基本上是延續之前的路線"
+    } ]
+  }, {
+    "tStartMs": 1106638,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "不過最近的廣告"
+    } ]
+  }, {
+    "tStartMs": 1108140,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "則是強調"
+    } ]
+  }, {
+    "tStartMs": 1108907,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "說好英文，是好工作的敲門磚"
+    } ]
+  }, {
+    "tStartMs": 1111810,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "似乎是開始將重點"
+    } ]
+  }, {
+    "tStartMs": 1113312,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "鎖定「職場」客群"
+    } ]
+  }, {
+    "tStartMs": 1115047,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "針對上班族、企業團隊設計課程"
+    } ]
+  }, {
+    "tStartMs": 1118050,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "我們在臺灣市場的表現很好"
+    } ]
+  }, {
+    "tStartMs": 1120819,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "我們觀察到"
+    } ]
+  }, {
+    "tStartMs": 1122955,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "行銷漏斗的成效很亮眼"
+    } ]
+  }, {
+    "tStartMs": 1125891,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "跟其他亞太市場的表現不相上下"
+    } ]
+  }, {
+    "tStartMs": 1128961,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "最近還發現了一些有趣的發展"
+    } ]
+  }, {
+    "tStartMs": 1131763,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "我們在臺灣原本是主打消費者產品"
+    } ]
+  }, {
+    "tStartMs": 1134833,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "近期則是開始從純消費者市場"
+    } ]
+  }, {
+    "tStartMs": 1138337,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "擴展到跟企業合作"
+    } ]
+  }, {
+    "tStartMs": 1140839,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "所以我們現在也有企業客戶"
+    } ]
+  }, {
+    "tStartMs": 1143742,
+    "dDurationMs": 4271,
+    "segs": [ {
+      "utf8": "購買 Speak 給團隊或機構內部使用"
+    } ]
+  }, {
+    "tStartMs": 1148013,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "Speak 團隊注意到"
+    } ]
+  }, {
+    "tStartMs": 1149148,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "所有跨國企業"
+    } ]
+  }, {
+    "tStartMs": 1150282,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "都迫切在解決的一大難題"
+    } ]
+  }, {
+    "tStartMs": 1152251,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "就是「英語能力」"
+    } ]
+  }, {
+    "tStartMs": 1153185,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "如果員工英文不夠好"
+    } ]
+  }, {
+    "tStartMs": 1154920,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "進步不夠快"
+    } ]
+  }, {
+    "tStartMs": 1155787,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "對企業來說，可能會嚴重拖累"
+    } ]
+  }, {
+    "tStartMs": 1157589,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "他們整體的表現"
+    } ]
+  }, {
+    "tStartMs": 1159124,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "所以我們的行銷方向"
+    } ]
+  }, {
+    "tStartMs": 1162995,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "也跟著轉變"
+    } ]
+  }, {
+    "tStartMs": 1164596,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "從完全消費者導向"
+    } ]
+  }, {
+    "tStartMs": 1166598,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "到現在我們也主打"
+    } ]
+  }, {
+    "tStartMs": 1168667,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "英文能幫助職涯發展"
+    } ]
+  }, {
+    "tStartMs": 1171436,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "找到好工作"
+    } ]
+  }, {
+    "tStartMs": 1172538,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "讓團隊更有效率"
+    } ]
+  }, {
+    "tStartMs": 1174039,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "不過，隨著 AI 能力越來越強"
+    } ]
+  }, {
+    "tStartMs": 1175807,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Speak 未來的挑戰有增無減"
+    } ]
+  }, {
+    "tStartMs": 1177643,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "市場上，已經有越來越多的"
+    } ]
+  }, {
+    "tStartMs": 1179144,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "對手導入 AI"
+    } ]
+  }, {
+    "tStartMs": 1180279,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "每個語言學習 App"
+    } ]
+  }, {
+    "tStartMs": 1181280,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "都說自己的 AI 功能"
+    } ]
+  }, {
+    "tStartMs": 1182447,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "可以用 AI 練習對話之類的"
+    } ]
+  }, {
+    "tStartMs": 1184516,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "另一方面，強大的「語音助理」"
+    } ]
+  }, {
+    "tStartMs": 1186451,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "也來勢洶洶"
+    } ]
+  }, {
+    "tStartMs": 1187352,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "像是 ChatGPT"
+    } ]
+  }, {
+    "tStartMs": 1188487,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "現在也能做到多語言"
+    } ]
+  }, {
+    "tStartMs": 1190122,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "零時差的即時對話"
+    } ]
+  }, {
+    "tStartMs": 1191657,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "我們問 Andrew"
+    } ]
+  }, {
+    "tStartMs": 1192958,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "他難道都不擔心其他競爭者嗎？"
+    } ]
+  }, {
+    "tStartMs": 1195460,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "他的眼光，其實看得很遠！"
+    } ]
+  }, {
+    "tStartMs": 1197796,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "我不覺得我們會因為競品感到焦慮"
+    } ]
+  }, {
+    "tStartMs": 1201633,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "我們有追蹤競品"
+    } ]
+  }, {
+    "tStartMs": 1202968,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "但我們思考的都是長期發展"
+    } ]
+  }, {
+    "tStartMs": 1206338,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "如何達到最終目標"
+    } ]
+  }, {
+    "tStartMs": 1209908,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "全世界有幾十億人"
+    } ]
+  }, {
+    "tStartMs": 1211543,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "迫切地想要學英文"
+    } ]
+  }, {
+    "tStartMs": 1213979,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "我們可以去計算"
+    } ]
+  }, {
+    "tStartMs": 1215581,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "全世界有多少厲害的英文家教"
+    } ]
+  }, {
+    "tStartMs": 1217683,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "但這數字絕對少於一百萬"
+    } ]
+  }, {
+    "tStartMs": 1220219,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "全世界可能就大概十萬人吧"
+    } ]
+  }, {
+    "tStartMs": 1223155,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "面對這樣的供需差異"
+    } ]
+  }, {
+    "tStartMs": 1225591,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "我們能怎麼打造一個產品"
+    } ]
+  }, {
+    "tStartMs": 1227826,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "成效能夠媲美英文家教"
+    } ]
+  }, {
+    "tStartMs": 1230562,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "讓大家都能使用"
+    } ]
+  }, {
+    "tStartMs": 1231897,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "我們發現這些市場都非常大"
+    } ]
+  }, {
+    "tStartMs": 1234866,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "所以我們不用擔心跟其他產品競爭"
+    } ]
+  }, {
+    "tStartMs": 1237769,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "Andrew 也提到"
+    } ]
+  }, {
+    "tStartMs": 1238704,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Speak 真正的「護城河」"
+    } ]
+  }, {
+    "tStartMs": 1239738,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "從來就不單單是"
+    } ]
+  }, {
+    "tStartMs": 1240739,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "底層的 AI 模型"
+    } ]
+  }, {
+    "tStartMs": 1241873,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "或是特定功能"
+    } ]
+  }, {
+    "tStartMs": 1242874,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "而是他們圍繞著「口說」"
+    } ]
+  }, {
+    "tStartMs": 1244710,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "打造的整套垂直軟體與教學設計"
+    } ]
+  }, {
+    "tStartMs": 1247779,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "這個系統才是讓他們"
+    } ]
+  }, {
+    "tStartMs": 1249081,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "持續保有競爭力的關鍵"
+    } ]
+  }, {
+    "tStartMs": 1251083,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "你會期望 Speak 最後完全取代真人家教嗎"
+    } ]
+  }, {
+    "tStartMs": 1256688,
+    "dDurationMs": 668,
+    "segs": [ {
+      "utf8": "不會"
+    } ]
+  }, {
+    "tStartMs": 1257356,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "我們最終希望看到的是"
+    } ]
+  }, {
+    "tStartMs": 1259858,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "大家學習語言是為了跟彼此連結"
+    } ]
+  }, {
+    "tStartMs": 1264062,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "我們很常被問說"
+    } ]
+  }, {
+    "tStartMs": 1265964,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "翻譯模型表現得愈來愈好"
+    } ]
+  }, {
+    "tStartMs": 1267599,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "像是即時語音翻譯之類的發展"
+    } ]
+  }, {
+    "tStartMs": 1270235,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "那我們為什麼還要學語言"
+    } ]
+  }, {
+    "tStartMs": 1272271,
+    "dDurationMs": 2268,
+    "segs": [ {
+      "utf8": "但我覺得這不是問題"
+    } ]
+  }, {
+    "tStartMs": 1274539,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "我覺得人們會想要學更多語言"
+    } ]
+  }, {
+    "tStartMs": 1276875,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "因為學習變簡單了"
+    } ]
+  }, {
+    "tStartMs": 1277909,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "也會變便宜"
+    } ]
+  }, {
+    "tStartMs": 1278977,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "因為輕鬆又便宜"
+    } ]
+  }, {
+    "tStartMs": 1279811,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "需求就會上升"
+    } ]
+  }, {
+    "tStartMs": 1281046,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "到那個時候"
+    } ]
+  }, {
+    "tStartMs": 1282481,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "大眾對 Speak 這種產品的需求"
+    } ]
+  }, {
+    "tStartMs": 1285317,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "也會增加"
+    } ]
+  }, {
+    "tStartMs": 1286485,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "最後，有沒有什麼我們還沒聊到"
+    } ]
+  }, {
+    "tStartMs": 1289288,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "但你想跟觀眾分享的事？"
+    } ]
+  }, {
+    "tStartMs": 1291723,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "有一件事"
+    } ]
+  }, {
+    "tStartMs": 1293458,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "我們花了很多心力在思考"
+    } ]
+  }, {
+    "tStartMs": 1295427,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "在舊金山辦公室"
+    } ]
+  }, {
+    "tStartMs": 1297396,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "乃至整個 Speak 公司"
+    } ]
+  }, {
+    "tStartMs": 1299431,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "那就是 「AI 轉型」"
+    } ]
+  }, {
+    "tStartMs": 1301066,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "很明顯地"
+    } ]
+  }, {
+    "tStartMs": 1302467,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "寫程式的 AI Agent 已經帶來了根本性的改變"
+    } ]
+  }, {
+    "tStartMs": 1305971,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "不只是在我們的產品上"
+    } ]
+  }, {
+    "tStartMs": 1308173,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "也改變了我們整個公司的運作方式"
+    } ]
+  }, {
+    "tStartMs": 1310742,
+    "dDurationMs": 4605,
+    "segs": [ {
+      "utf8": "我認為這件事的相當重要"
+    } ]
+  }, {
+    "tStartMs": 1315347,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "對公司裡的每一個人"
+    } ]
+  }, {
+    "tStartMs": 1317749,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "對地球上的每一個人"
+    } ]
+  }, {
+    "tStartMs": 1319451,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "真正學會如何有效使用 AI"
+    } ]
+  }, {
+    "tStartMs": 1323255,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "並且搞清楚"
+    } ]
+  }, {
+    "tStartMs": 1325424,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "在這個新世界裡，我的位置在哪裡"
+    } ]
+  }, {
+    "tStartMs": 1328327,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "我認為唯一能真正做到這一點的方法"
+    } ]
+  }, {
+    "tStartMs": 1330362,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "就是實際下場操練"
+    } ]
+  }, {
+    "tStartMs": 1331430,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "認真地在自己的工作中嘗試使用 AI"
+    } ]
+  }, {
+    "tStartMs": 1335367,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "深入理解"
+    } ]
+  }, {
+    "tStartMs": 1337502,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "現在能做什麼、還不能做什麼"
+    } ]
+  }, {
+    "tStartMs": 1339671,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "未來很快就能做什麼"
+    } ]
+  }, {
+    "tStartMs": 1340972,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "而要做到這一點，你就必須真的去使用它"
+    } ]
+  }, {
+    "tStartMs": 1342874,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "我認為那是唯一的方法"
+    } ]
+  }, {
+    "tStartMs": 1344543,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "而我認為成功做到這一點的人"
+    } ]
+  }, {
+    "tStartMs": 1347813,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "未來會過得很好"
+    } ]
+  }, {
+    "tStartMs": 1349614,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "沒有做到的人，就會被時代拋在後面"
+    } ]
+  }, {
+    "tStartMs": 1351516,
+    "dDurationMs": 3304,
+    "segs": [ {
+      "utf8": "我想，這是一個相當普世的訊息"
+    } ]
+  }, {
+    "tStartMs": 1354820,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "謝謝你"
+    } ]
+  }, {
+    "tStartMs": 1355654,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "我們今天收穫很多"
+    } ]
+  }, {
+    "tStartMs": 1357389,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "我也是"
+    } ]
+  }, {
+    "tStartMs": 1358123,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "謝謝"
+    } ]
+  }, {
+    "tStartMs": 1359524,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "好的，以上就是這次的訪談"
+    } ]
+  }, {
+    "tStartMs": 1361093,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "希望大家有些收穫"
+    } ]
+  }, {
+    "tStartMs": 1362194,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "我自己有很深的體悟"
+    } ]
+  }, {
+    "tStartMs": 1363829,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "Andrew 或許是媒體口中的「天才」"
+    } ]
+  }, {
+    "tStartMs": 1366298,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "但 Speak 的成長故事"
+    } ]
+  }, {
+    "tStartMs": 1367699,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "其實一點也不「天才」"
+    } ]
+  }, {
+    "tStartMs": 1369368,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "沒有一夜爆紅，也沒有捷徑"
+    } ]
+  }, {
+    "tStartMs": 1371136,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "而是十幾年不斷地"
+    } ]
+  }, {
+    "tStartMs": 1372437,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "失敗、修正、再失敗"
+    } ]
+  }, {
+    "tStartMs": 1374539,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "才累積出今天的實力"
+    } ]
+  }, {
+    "tStartMs": 1376041,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "很多人只看到成功的結果"
+    } ]
+  }, {
+    "tStartMs": 1377976,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "卻忽略了背後那段"
+    } ]
+  }, {
+    "tStartMs": 1379211,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "又長又難熬的過程"
+    } ]
+  }, {
+    "tStartMs": 1381146,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "另外我也想到"
+    } ]
+  }, {
+    "tStartMs": 1382447,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "只有投入足夠多的時間、還有資源"
+    } ]
+  }, {
+    "tStartMs": 1385283,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "你才有機會走到"
+    } ]
+  }, {
+    "tStartMs": 1386151,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "別人沒走過的地方"
+    } ]
+  }, {
+    "tStartMs": 1387452,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "遇見「足夠複雜的問題」"
+    } ]
+  }, {
+    "tStartMs": 1389488,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "而當你願意留下來"
+    } ]
+  }, {
+    "tStartMs": 1391022,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "把這個複雜的問題解決"
+    } ]
+  }, {
+    "tStartMs": 1392824,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "它就會變成你的護城河"
+    } ]
+  }, {
+    "tStartMs": 1395127,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "這才是真正難以被取代的競爭力！"
+    } ]
+  }, {
+    "tStartMs": 1397562,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "那以上大概是這次訪談"
+    } ]
+  }, {
+    "tStartMs": 1399664,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "我比較簡略的心得啦"
+    } ]
+  }, {
+    "tStartMs": 1401066,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "今天的最後"
+    } ]
+  }, {
+    "tStartMs": 1401933,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "因為這次非常難得"
+    } ]
+  }, {
+    "tStartMs": 1402968,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "訪問到了創辦人"
+    } ]
+  }, {
+    "tStartMs": 1404035,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "我們也趁著機會"
+    } ]
+  }, {
+    "tStartMs": 1404903,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "跟 Speak 拿到特別折扣！"
+    } ]
+  }, {
+    "tStartMs": 1406905,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "只要點擊我們的專屬連結"
+    } ]
+  }, {
+    "tStartMs": 1408540,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "就有今年最後一次的晚鳥優惠！"
+    } ]
+  }, {
+    "tStartMs": 1411309,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "9 月 13 日到 9 月 24日"
+    } ]
+  }, {
+    "tStartMs": 1413278,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "最高可以拿到"
+    } ]
+  }, {
+    "tStartMs": 1414613,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "新台幣 699 元的折扣"
+    } ]
+  }, {
+    "tStartMs": 1416481,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "如果你是對學習語言有需求的上班族"
+    } ]
+  }, {
+    "tStartMs": 1419751,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "我們真的推薦你可以試試看"
+    } ]
+  }, {
+    "tStartMs": 1421720,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "優惠倒數 4 天"
+    } ]
+  }, {
+    "tStartMs": 1422988,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "趕快點擊資訊欄連結去看看吧！"
+    } ]
+  } ]
+}

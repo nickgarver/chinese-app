@@ -1,0 +1,5101 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我摘这个。"
+    } ]
+  }, {
+    "tStartMs": 2000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "不太确定它有没有毒。"
+    } ]
+  }, {
+    "tStartMs": 6299,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "闻起来有点味道。"
+    } ]
+  }, {
+    "tStartMs": 9066,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "嘿，也许这是松茸。"
+    } ]
+  }, {
+    "tStartMs": 11300,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "每年夏天，"
+    } ]
+  }, {
+    "tStartMs": 12099,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "云南都会变成"
+    } ]
+  }, {
+    "tStartMs": 12966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "世界野生菌之都。"
+    } ]
+  }, {
+    "tStartMs": 15199,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "雨季来临时，"
+    } ]
+  }, {
+    "tStartMs": 16466,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "山上会冒出无数蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 19066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "而这一次，"
+    } ]
+  }, {
+    "tStartMs": 19966,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "我们来到了地球上"
+    } ]
+  }, {
+    "tStartMs": 21699,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "最大的野生菌产区之一——"
+    } ]
+  }, {
+    "tStartMs": 24266,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "楚雄。"
+    } ]
+  }, {
+    "tStartMs": 25166,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "这是我很久以来"
+    } ]
+  }, {
+    "tStartMs": 27133,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "的一个小梦想："
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "采蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 29100,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "采到篮子装不下，"
+    } ]
+  }, {
+    "tStartMs": 31199,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "然后把它们"
+    } ]
+  }, {
+    "tStartMs": 32600,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "做成一顿丰盛的大餐。"
+    } ]
+  }, {
+    "tStartMs": 35100,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "因为在云南，"
+    } ]
+  }, {
+    "tStartMs": 36066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "没有比这更好的方式"
+    } ]
+  }, {
+    "tStartMs": 37333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "来表达对蘑菇的热爱了——"
+    } ]
+  }, {
+    "tStartMs": 40266,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "就是把你找到的蘑菇尽量吃掉。"
+    } ]
+  }, {
+    "tStartMs": 57666,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "大家好。"
+    } ]
+  }, {
+    "tStartMs": 58299,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "欢迎回到频道。"
+    } ]
+  }, {
+    "tStartMs": 59899,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "今天我要实现"
+    } ]
+  }, {
+    "tStartMs": 61666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "人生中最大的梦想之一——"
+    } ]
+  }, {
+    "tStartMs": 64400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "那就是采蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 66200,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "而今天，"
+    } ]
+  }, {
+    "tStartMs": 67299,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我来到了"
+    } ]
+  }, {
+    "tStartMs": 68666,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "中国最大的蘑菇产区之一。"
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "那就是楚雄的牟定县。"
+    } ]
+  }, {
+    "tStartMs": 77400,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "今天我的目标是"
+    } ]
+  }, {
+    "tStartMs": 79133,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "尽可能多地采到蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 82466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "而且种类越多越好。"
+    } ]
+  }, {
+    "tStartMs": 84900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "因为我不是一个人——"
+    } ]
+  }, {
+    "tStartMs": 87133,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "我有一个团队。"
+    } ]
+  }, {
+    "tStartMs": 89400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你好。"
+    } ]
+  }, {
+    "tStartMs": 90900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "你好。我真的——"
+    } ]
+  }, {
+    "tStartMs": 91766,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我真的就想"
+    } ]
+  }, {
+    "tStartMs": 93299,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "摘一个跟我帽子一样红的。"
+    } ]
+  }, {
+    "tStartMs": 95333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "哈哈，我喜欢红伞伞。"
+    } ]
+  }, {
+    "tStartMs": 96966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "红伞伞。"
+    } ]
+  }, {
+    "tStartMs": 97900,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "我们不止一个人。"
+    } ]
+  }, {
+    "tStartMs": 99299,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "所以我们有两位导游，"
+    } ]
+  }, {
+    "tStartMs": 101333,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Carrie 和 Henry，"
+    } ]
+  }, {
+    "tStartMs": 102466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "还有 Flo。"
+    } ]
+  }, {
+    "tStartMs": 103933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "那么，Carrie——"
+    } ]
+  }, {
+    "tStartMs": 105266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "嗯，你今天打算摘多少？"
+    } ]
+  }, {
+    "tStartMs": 108700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "今天摘至少两公斤吧。"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "两公斤？"
+    } ]
+  }, {
+    "tStartMs": 112799,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "那 Henry——"
+    } ]
+  }, {
+    "tStartMs": 116166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "你有信心吗？"
+    } ]
+  }, {
+    "tStartMs": 117566,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "有。"
+    } ]
+  }, {
+    "tStartMs": 118566,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "你打算摘多少？"
+    } ]
+  }, {
+    "tStartMs": 119966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "二十公斤。"
+    } ]
+  }, {
+    "tStartMs": 121900,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "二十？二十？"
+    } ]
+  }, {
+    "tStartMs": 123533,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "大家都比我有信心。"
+    } ]
+  }, {
+    "tStartMs": 125066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 126566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "啊，就已经有了吗？"
+    } ]
+  }, {
+    "tStartMs": 128400,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "哦哇。"
+    } ]
+  }, {
+    "tStartMs": 129400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "这么快就有了。"
+    } ]
+  }, {
+    "tStartMs": 131566,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "太厉害了。"
+    } ]
+  }, {
+    "tStartMs": 132199,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Flo 第一个采到了。"
+    } ]
+  }, {
+    "tStartMs": 133599,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 134099,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "是啊，这位小姐姐帮我找到的。"
+    } ]
+  }, {
+    "tStartMs": 137400,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 139266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "所以在来之前，"
+    } ]
+  }, {
+    "tStartMs": 140900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我在小红书"
+    } ]
+  }, {
+    "tStartMs": 142300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "和抖音上找向导。"
+    } ]
+  }, {
+    "tStartMs": 145133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我找到了三个——"
+    } ]
+  }, {
+    "tStartMs": 147800,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "有的年轻一些，"
+    } ]
+  }, {
+    "tStartMs": 148666,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "有的年长一些，"
+    } ]
+  }, {
+    "tStartMs": 149366,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "有的照片拍得很漂亮。"
+    } ]
+  }, {
+    "tStartMs": 152199,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "最后我选了一位向导，呃，"
+    } ]
+  }, {
+    "tStartMs": 155033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "他的照片"
+    } ]
+  }, {
+    "tStartMs": 156400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "不是最好看的，"
+    } ]
+  }, {
+    "tStartMs": 158500,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "但是——"
+    } ]
+  }, {
+    "tStartMs": 161666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "我在他的一些"
+    } ]
+  }, {
+    "tStartMs": 163800,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "照片里发现，"
+    } ]
+  }, {
+    "tStartMs": 165933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "有一个大篮子"
+    } ]
+  }, {
+    "tStartMs": 168133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "装着各种各样的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 171133,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "所以我联系了他。"
+    } ]
+  }, {
+    "tStartMs": 174166,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "好，这是——"
+    } ]
+  }, {
+    "tStartMs": 175000,
+    "dDurationMs": 266,
+    "segs": [ {
+      "utf8": "喇叭菌。"
+    } ]
+  }, {
+    "tStartMs": 175266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "其实有很多。"
+    } ]
+  }, {
+    "tStartMs": 177500,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "看，它们像喇叭一样。"
+    } ]
+  }, {
+    "tStartMs": 180066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "所以叫喇叭菌。"
+    } ]
+  }, {
+    "tStartMs": 181866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这个喇叭菌是酸的，"
+    } ]
+  }, {
+    "tStartMs": 183633,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "吃起来是酸的。"
+    } ]
+  }, {
+    "tStartMs": 184833,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 185366,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "但是可以吃的。"
+    } ]
+  }, {
+    "tStartMs": 186400,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 190099,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "看起来像一个小杯子。"
+    } ]
+  }, {
+    "tStartMs": 191699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "里面还有水呢。"
+    } ]
+  }, {
+    "tStartMs": 193466,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "喇叭菌——哦哇。"
+    } ]
+  }, {
+    "tStartMs": 195800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "这里有一个超大的。"
+    } ]
+  }, {
+    "tStartMs": 197699,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这个是可以食用的啊。"
+    } ]
+  }, {
+    "tStartMs": 202400,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "我不太确定"
+    } ]
+  }, {
+    "tStartMs": 203266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "它能不能吃。"
+    } ]
+  }, {
+    "tStartMs": 205866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "师傅，这个可以吃不？"
+    } ]
+  }, {
+    "tStartMs": 207266,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "呃，这个是可以吃的。"
+    } ]
+  }, {
+    "tStartMs": 208633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这个是鸡枞菌的一种。"
+    } ]
+  }, {
+    "tStartMs": 210566,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我们叫它水鸡枞。"
+    } ]
+  }, {
+    "tStartMs": 212199,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "水鸡枞。"
+    } ]
+  }, {
+    "tStartMs": 213033,
+    "dDurationMs": 233,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 213266,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 213599,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "你看它的根跟那个鸡枞"
+    } ]
+  }, {
+    "tStartMs": 215066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "是不是一样的？"
+    } ]
+  }, {
+    "tStartMs": 216166,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "对，很长很长。"
+    } ]
+  }, {
+    "tStartMs": 217066,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "就是一样的。"
+    } ]
+  }, {
+    "tStartMs": 217666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "哇，鸡枞是不是很贵啊？"
+    } ]
+  }, {
+    "tStartMs": 219633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "鸡枞贵一点。"
+    } ]
+  }, {
+    "tStartMs": 221566,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "看，我们找到了蓝色的。"
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊，是的。"
+    } ]
+  }, {
+    "tStartMs": 225033,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "看，这里也有一个红色的。"
+    } ]
+  }, {
+    "tStartMs": 226500,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "你怎么知道它们能不能吃？"
+    } ]
+  }, {
+    "tStartMs": 227966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我问了他，我跟他在一起，"
+    } ]
+  }, {
+    "tStartMs": 229633,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我找到的。"
+    } ]
+  }, {
+    "tStartMs": 230699,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "上一次采蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 232166,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Flo 什么都没找到。"
+    } ]
+  }, {
+    "tStartMs": 233699,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "我在想，"
+    } ]
+  }, {
+    "tStartMs": 234500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "也许他太高了，看不到蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 237599,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这个太漂亮了吧。"
+    } ]
+  }, {
+    "tStartMs": 238866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "他说这个叫水鸡枞。"
+    } ]
+  }, {
+    "tStartMs": 241566,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "小伞，嗯。"
+    } ]
+  }, {
+    "tStartMs": 243300,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "一种鸡枞菌。"
+    } ]
+  }, {
+    "tStartMs": 244699,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "就像一把沙滩伞，你知道吗？"
+    } ]
+  }, {
+    "tStartMs": 246466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "就像那种——"
+    } ]
+  }, {
+    "tStartMs": 247599,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "太阳伞。"
+    } ]
+  }, {
+    "tStartMs": 248366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 249766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 250966,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "超级漂亮。"
+    } ]
+  }, {
+    "tStartMs": 251566,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "是不是跟我的帽子很像？"
+    } ]
+  }, {
+    "tStartMs": 252900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 253500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "哇，太漂亮了，我喜欢这个。"
+    } ]
+  }, {
+    "tStartMs": 256266,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "我今天已经达成目标了。"
+    } ]
+  }, {
+    "tStartMs": 259233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "不，你还有两公斤的任务呢。"
+    } ]
+  }, {
+    "tStartMs": 261699,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "对，对对对。"
+    } ]
+  }, {
+    "tStartMs": 263100,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "对，别忘了我们的目标，好吗？"
+    } ]
+  }, {
+    "tStartMs": 265366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Carrie 住在大理。"
+    } ]
+  }, {
+    "tStartMs": 267500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "她今天专门过来"
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "跟我们一起采蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 271166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "我想看看——"
+    } ]
+  }, {
+    "tStartMs": 271766,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "有好多紫色的。"
+    } ]
+  }, {
+    "tStartMs": 273000,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "哦对，真的。"
+    } ]
+  }, {
+    "tStartMs": 274500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我全要了。"
+    } ]
+  }, {
+    "tStartMs": 275600,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "它们好小啊。"
+    } ]
+  }, {
+    "tStartMs": 276633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "你得采好多好多"
+    } ]
+  }, {
+    "tStartMs": 278233,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "才能做成一盘菜。"
+    } ]
+  }, {
+    "tStartMs": 282266,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "紫色的。"
+    } ]
+  }, {
+    "tStartMs": 285433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "这种小的——"
+    } ]
+  }, {
+    "tStartMs": 286600,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "就这种小的——"
+    } ]
+  }, {
+    "tStartMs": 287566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个就能——"
+    } ]
+  }, {
+    "tStartMs": 288466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "这个是能吃的。"
+    } ]
+  }, {
+    "tStartMs": 289800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "这是啥菌？"
+    } ]
+  }, {
+    "tStartMs": 290833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "我们叫皮头菌。"
+    } ]
+  }, {
+    "tStartMs": 292033,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "皮头菌。"
+    } ]
+  }, {
+    "tStartMs": 292600,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "嗯，就是太小了。"
+    } ]
+  }, {
+    "tStartMs": 294033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "紫色的菌叫啥呀？"
+    } ]
+  }, {
+    "tStartMs": 295366,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "也是皮头菌。"
+    } ]
+  }, {
+    "tStartMs": 296433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "皮头菌有三种颜色。"
+    } ]
+  }, {
+    "tStartMs": 297866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 299633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "紫色的、黄色的，"
+    } ]
+  }, {
+    "tStartMs": 301100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "还有一种白色的。"
+    } ]
+  }, {
+    "tStartMs": 303300,
+    "dDurationMs": 666,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 303966,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "其实这个更好看一些。"
+    } ]
+  }, {
+    "tStartMs": 305899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 308033,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "所以那些大的并不好吃。"
+    } ]
+  }, {
+    "tStartMs": 310866,
+    "dDurationMs": 5434,
+    "segs": [ {
+      "utf8": "你可以直接踩上去——哇。"
+    } ]
+  }, {
+    "tStartMs": 317233,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "哇，天呐。"
+    } ]
+  }, {
+    "tStartMs": 317699,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "这个应该不是——"
+    } ]
+  }, {
+    "tStartMs": 318899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个不是。"
+    } ]
+  }, {
+    "tStartMs": 319766,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "那个不是。"
+    } ]
+  }, {
+    "tStartMs": 320500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "那个也可以食用的。"
+    } ]
+  }, {
+    "tStartMs": 322366,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这个我好像在"
+    } ]
+  }, {
+    "tStartMs": 323833,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "甘孜州的时候吃过这个。"
+    } ]
+  }, {
+    "tStartMs": 325266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对对，这可以。"
+    } ]
+  }, {
+    "tStartMs": 326066,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "我们就叫鸡蛋菌的。"
+    } ]
+  }, {
+    "tStartMs": 328199,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "鹅蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 329166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这个算好吃的吗？"
+    } ]
+  }, {
+    "tStartMs": 330566,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "也可以吃的。"
+    } ]
+  }, {
+    "tStartMs": 331500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "可以。"
+    } ]
+  }, {
+    "tStartMs": 332000,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 332833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "先拿着吧。"
+    } ]
+  }, {
+    "tStartMs": 334833,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "什么？这是个巨无霸。"
+    } ]
+  }, {
+    "tStartMs": 337600,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "好漂亮。"
+    } ]
+  }, {
+    "tStartMs": 339466,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "拍个照。"
+    } ]
+  }, {
+    "tStartMs": 340100,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "哦哇，这里有一片蘑菇森林。"
+    } ]
+  }, {
+    "tStartMs": 342866,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "辣的，这是辣的。"
+    } ]
+  }, {
+    "tStartMs": 344066,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我们一般都不吃。"
+    } ]
+  }, {
+    "tStartMs": 345266,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "他们也吃。"
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "也有人在这儿采。"
+    } ]
+  }, {
+    "tStartMs": 347766,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "所以我们不摘它们。"
+    } ]
+  }, {
+    "tStartMs": 349433,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "但我只想给大家看看——对，"
+    } ]
+  }, {
+    "tStartMs": 351666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "它们长什么样。"
+    } ]
+  }, {
+    "tStartMs": 353300,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 354666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "这个是那个石灰菌吗？"
+    } ]
+  }, {
+    "tStartMs": 356600,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "对，石灰菌。"
+    } ]
+  }, {
+    "tStartMs": 357466,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "就是石灰菌。"
+    } ]
+  }, {
+    "tStartMs": 359466,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "他们有了新发现。"
+    } ]
+  }, {
+    "tStartMs": 360866,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "哦哇，好大啊。"
+    } ]
+  }, {
+    "tStartMs": 364833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嘿嘿嘿。"
+    } ]
+  }, {
+    "tStartMs": 366199,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "这个也是——"
+    } ]
+  }, {
+    "tStartMs": 366699,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "这是个水鸡枞吗？"
+    } ]
+  }, {
+    "tStartMs": 368866,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "不能吃。"
+    } ]
+  }, {
+    "tStartMs": 369399,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "不能吃。"
+    } ]
+  }, {
+    "tStartMs": 369666,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "哈哈哈，叫啥？"
+    } ]
+  }, {
+    "tStartMs": 373100,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "这是中华鹅膏。"
+    } ]
+  }, {
+    "tStartMs": 374199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这个也是中华鹅膏。"
+    } ]
+  }, {
+    "tStartMs": 375199,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "啊，是鹅膏。"
+    } ]
+  }, {
+    "tStartMs": 376566,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 377166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "真漂亮。"
+    } ]
+  }, {
+    "tStartMs": 378300,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "中华鹅膏。"
+    } ]
+  }, {
+    "tStartMs": 378800,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "有毒的。"
+    } ]
+  }, {
+    "tStartMs": 382366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "有毒的吗？"
+    } ]
+  }, {
+    "tStartMs": 383266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "他说是不能吃的。"
+    } ]
+  }, {
+    "tStartMs": 384266,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "不能吃，不能吃，不能吃。"
+    } ]
+  }, {
+    "tStartMs": 385633,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "这个是近两年才有的菌子，"
+    } ]
+  }, {
+    "tStartMs": 387800,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我们也不敢吃。"
+    } ]
+  }, {
+    "tStartMs": 388966,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "哦，是个新品种。"
+    } ]
+  }, {
+    "tStartMs": 390233,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "新品种。"
+    } ]
+  }, {
+    "tStartMs": 390833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "你们也不知道——"
+    } ]
+  }, {
+    "tStartMs": 394100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "哈哈哈，算了吧。"
+    } ]
+  }, {
+    "tStartMs": 395633,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "还是别尝试了。"
+    } ]
+  }, {
+    "tStartMs": 398766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "嗯嗯。"
+    } ]
+  }, {
+    "tStartMs": 402466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "第一个——"
+    } ]
+  }, {
+    "tStartMs": 403266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这还有一个。"
+    } ]
+  }, {
+    "tStartMs": 404100,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "哦哇哇哇。"
+    } ]
+  }, {
+    "tStartMs": 404300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "好可爱。"
+    } ]
+  }, {
+    "tStartMs": 405800,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "啊，你不要踩到它了。"
+    } ]
+  }, {
+    "tStartMs": 408399,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "那边还有。"
+    } ]
+  }, {
+    "tStartMs": 410566,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这里很多。"
+    } ]
+  }, {
+    "tStartMs": 411566,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "你踩到了一个。"
+    } ]
+  }, {
+    "tStartMs": 413166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "真的吗？"
+    } ]
+  }, {
+    "tStartMs": 413766,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "是的。"
+    } ]
+  }, {
+    "tStartMs": 414399,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 415166,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "哦，这个小家伙没了。"
+    } ]
+  }, {
+    "tStartMs": 417166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 418233,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "对，好吧，就这样。"
+    } ]
+  }, {
+    "tStartMs": 420500,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "这个——"
+    } ]
+  }, {
+    "tStartMs": 421033,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "对，太小了这个。"
+    } ]
+  }, {
+    "tStartMs": 421966,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "被踩死了。"
+    } ]
+  }, {
+    "tStartMs": 424066,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Flo 刚才踩到了这个。"
+    } ]
+  }, {
+    "tStartMs": 426066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "又找到了一个红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 433500,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "你已经超额完成目标了。"
+    } ]
+  }, {
+    "tStartMs": 436199,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "对啊，而且你看这个巨大。"
+    } ]
+  }, {
+    "tStartMs": 438833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 441266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "蘑菇季节"
+    } ]
+  }, {
+    "tStartMs": 442866,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "从夏天开始，大约在十月结束。"
+    } ]
+  }, {
+    "tStartMs": 447500,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "云南很多地方都产蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 449566,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "但楚雄非常出名——"
+    } ]
+  }, {
+    "tStartMs": 451199,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "它被称为蘑菇王国。"
+    } ]
+  }, {
+    "tStartMs": 453833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "嗯，比如说，"
+    } ]
+  }, {
+    "tStartMs": 456300,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "在香格里拉，"
+    } ]
+  }, {
+    "tStartMs": 457833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "你主要能找到松茸——"
+    } ]
+  }, {
+    "tStartMs": 459633,
+    "dDurationMs": 467,
+    "segs": [ {
+      "utf8": "松茸。"
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "但在这里，你能找到"
+    } ]
+  }, {
+    "tStartMs": 462233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "非常非常多的种类。"
+    } ]
+  }, {
+    "tStartMs": 465899,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这个——"
+    } ]
+  }, {
+    "tStartMs": 466699,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 467300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "本来一开始我也以为是奶浆菌，"
+    } ]
+  }, {
+    "tStartMs": 469500,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 469966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "但是它不出那个——"
+    } ]
+  }, {
+    "tStartMs": 471500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不出奶啊。"
+    } ]
+  }, {
+    "tStartMs": 472300,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "不出奶。"
+    } ]
+  }, {
+    "tStartMs": 472899,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "然后好像是辣的。"
+    } ]
+  }, {
+    "tStartMs": 474366,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 475100,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不知道——尝一尝。"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你尝一下就能尝出来它能不能吃吗？"
+    } ]
+  }, {
+    "tStartMs": 485566,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "辣的。"
+    } ]
+  }, {
+    "tStartMs": 486233,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "辣的。"
+    } ]
+  }, {
+    "tStartMs": 486633,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "嗯，这个就是辣子菌。"
+    } ]
+  }, {
+    "tStartMs": 488066,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "辣子菌。"
+    } ]
+  }, {
+    "tStartMs": 488500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你看这一堆。"
+    } ]
+  }, {
+    "tStartMs": 490666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "所以那是辣的那种。"
+    } ]
+  }, {
+    "tStartMs": 492366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "还挺辣的。"
+    } ]
+  }, {
+    "tStartMs": 494166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "你不会中毒了吧？"
+    } ]
+  }, {
+    "tStartMs": 495566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不会。"
+    } ]
+  }, {
+    "tStartMs": 497800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "这个菌子它跟那个嗯——"
+    } ]
+  }, {
+    "tStartMs": 500199,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "大奶浆菌它是一模一样，"
+    } ]
+  }, {
+    "tStartMs": 502300,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "长得一模一样。"
+    } ]
+  }, {
+    "tStartMs": 503366,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 503766,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "所以很容易混淆的。"
+    } ]
+  }, {
+    "tStartMs": 505466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 506399,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "有一种奶浆菌"
+    } ]
+  }, {
+    "tStartMs": 507166,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "也是这么大，"
+    } ]
+  }, {
+    "tStartMs": 508066,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "然后那个吃起来是香的。"
+    } ]
+  }, {
+    "tStartMs": 511566,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "哦，这个尝出来是辣的。"
+    } ]
+  }, {
+    "tStartMs": 513200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 515399,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这才是真正的奶浆菌——"
+    } ]
+  }, {
+    "tStartMs": 517666,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "那个出奶的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 521833,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "当你掰开一部分——"
+    } ]
+  }, {
+    "tStartMs": 524166,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我给你们看。"
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "呃，这边吧。"
+    } ]
+  }, {
+    "tStartMs": 529200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "这儿还有几个。"
+    } ]
+  }, {
+    "tStartMs": 530799,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "看，有奶在滴。"
+    } ]
+  }, {
+    "tStartMs": 535899,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "有两个。"
+    } ]
+  }, {
+    "tStartMs": 536833,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 537566,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "它们是兄弟姐妹——看，一个——"
+    } ]
+  }, {
+    "tStartMs": 542399,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "还有一个。"
+    } ]
+  }, {
+    "tStartMs": 544600,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 545200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你那手——"
+    } ]
+  }, {
+    "tStartMs": 548100,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "这个叫什么菌呀？"
+    } ]
+  }, {
+    "tStartMs": 549266,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "草黄香。"
+    } ]
+  }, {
+    "tStartMs": 550000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "草黄香。"
+    } ]
+  }, {
+    "tStartMs": 552266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇，这是——"
+    } ]
+  }, {
+    "tStartMs": 553066,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 553600,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "好大。"
+    } ]
+  }, {
+    "tStartMs": 554799,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "草黄菌感觉有点像牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 558299,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "如果看背面的纹理——"
+    } ]
+  }, {
+    "tStartMs": 560600,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "我脸上一直挂着蜘蛛网，"
+    } ]
+  }, {
+    "tStartMs": 563066,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "一直都有。"
+    } ]
+  }, {
+    "tStartMs": 565200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "而且就在刚才，"
+    } ]
+  }, {
+    "tStartMs": 566066,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "我胳膊上还有一只蜘蛛。"
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "哦哇。"
+    } ]
+  }, {
+    "tStartMs": 573066,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "这里有一些金色的叶子。"
+    } ]
+  }, {
+    "tStartMs": 576799,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "太可爱了。"
+    } ]
+  }, {
+    "tStartMs": 578033,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "天哪，我觉得"
+    } ]
+  }, {
+    "tStartMs": 580333,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "我看到一个巨大的白色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 584066,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "好大。"
+    } ]
+  }, {
+    "tStartMs": 588799,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "所以我放下篮子——哦哇。"
+    } ]
+  }, {
+    "tStartMs": 591200,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "我又找到了一个奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 596500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "白色的——那个出奶的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 598799,
+    "dDurationMs": 7567,
+    "segs": [ {
+      "utf8": "看那个——好大。这个，看。"
+    } ]
+  }, {
+    "tStartMs": 613799,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "哇，看这个。"
+    } ]
+  }, {
+    "tStartMs": 618166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "所以我摘这个。"
+    } ]
+  }, {
+    "tStartMs": 620899,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "不太确定它有没有毒。"
+    } ]
+  }, {
+    "tStartMs": 625200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "闻起来有点味道。"
+    } ]
+  }, {
+    "tStartMs": 627866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "嘿，也许这是松茸。"
+    } ]
+  }, {
+    "tStartMs": 631899,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "我得跟向导确认一下"
+    } ]
+  }, {
+    "tStartMs": 633466,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "它有没有毒。"
+    } ]
+  }, {
+    "tStartMs": 636033,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "我不知道其他人在哪里，"
+    } ]
+  }, {
+    "tStartMs": 638399,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "但我觉得我找到了我的天堂。"
+    } ]
+  }, {
+    "tStartMs": 640966,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "所以这里，显然，"
+    } ]
+  }, {
+    "tStartMs": 642233,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "比较难到达，"
+    } ]
+  }, {
+    "tStartMs": 645766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "而我看到了好多不同的种类。"
+    } ]
+  }, {
+    "tStartMs": 649066,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "这个有点黏滑。"
+    } ]
+  }, {
+    "tStartMs": 652500,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "看起来可以吃——可能太老了。"
+    } ]
+  }, {
+    "tStartMs": 657700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这里还有更多。好。"
+    } ]
+  }, {
+    "tStartMs": 661100,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "哇哇哇哇哇。"
+    } ]
+  }, {
+    "tStartMs": 662266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看这个。"
+    } ]
+  }, {
+    "tStartMs": 665066,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 668633,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这是喇叭菌。"
+    } ]
+  }, {
+    "tStartMs": 669700,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "我不摘它，因为没人喜欢。"
+    } ]
+  }, {
+    "tStartMs": 675033,
+    "dDurationMs": 4866,
+    "segs": [ {
+      "utf8": "这里还有一个红色的——天哪。"
+    } ]
+  }, {
+    "tStartMs": 680100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这个太完美了。"
+    } ]
+  }, {
+    "tStartMs": 681500,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "大小完美，"
+    } ]
+  }, {
+    "tStartMs": 683766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "颜色完美——太完美了。"
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "哦，我看到更多——这里还有。"
+    } ]
+  }, {
+    "tStartMs": 691700,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "哦哇哇哇哇哇。"
+    } ]
+  }, {
+    "tStartMs": 693600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "这个肯定能吃。"
+    } ]
+  }, {
+    "tStartMs": 696700,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个也是。"
+    } ]
+  }, {
+    "tStartMs": 698366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "好，这个——"
+    } ]
+  }, {
+    "tStartMs": 700366,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "小的那个。"
+    } ]
+  }, {
+    "tStartMs": 704233,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "哦哇，我觉得现在我"
+    } ]
+  }, {
+    "tStartMs": 707633,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "找到了蘑菇的家。"
+    } ]
+  }, {
+    "tStartMs": 713266,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我今天的高光时刻——"
+    } ]
+  }, {
+    "tStartMs": 715299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 718266,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "今天采到的红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 722566,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "哦，还有一个。"
+    } ]
+  }, {
+    "tStartMs": 724000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "这个，这个菌叫什么呀？"
+    } ]
+  }, {
+    "tStartMs": 726033,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "鸡蛋菌吗？"
+    } ]
+  }, {
+    "tStartMs": 727433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对对对。"
+    } ]
+  }, {
+    "tStartMs": 728233,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这能吃的。"
+    } ]
+  }, {
+    "tStartMs": 729433,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 730100,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 732200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "一定要保证它的完整。"
+    } ]
+  }, {
+    "tStartMs": 734399,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "我想给你看——"
+    } ]
+  }, {
+    "tStartMs": 735100,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "我也找到了一个大的。"
+    } ]
+  }, {
+    "tStartMs": 736566,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 737266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "看到没有？"
+    } ]
+  }, {
+    "tStartMs": 738200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "对，我俩——"
+    } ]
+  }, {
+    "tStartMs": 739266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "这是最大的两个。"
+    } ]
+  }, {
+    "tStartMs": 740766,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "待会拿着拍照。"
+    } ]
+  }, {
+    "tStartMs": 741799,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "对，一定要拍照。"
+    } ]
+  }, {
+    "tStartMs": 743466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "一个小的——"
+    } ]
+  }, {
+    "tStartMs": 746600,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "小的——可能是个小鸡蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 751666,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "这个太烂了。"
+    } ]
+  }, {
+    "tStartMs": 753700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我不太确定。"
+    } ]
+  }, {
+    "tStartMs": 756633,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "啊，这是个黄油菌。"
+    } ]
+  }, {
+    "tStartMs": 758799,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "我觉得可以吃，"
+    } ]
+  }, {
+    "tStartMs": 759833,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "但现在太老了。"
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "这是啥菌？"
+    } ]
+  }, {
+    "tStartMs": 763233,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "青头菌。"
+    } ]
+  }, {
+    "tStartMs": 763799,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "青头菌我们找了好几朵——"
+    } ]
+  }, {
+    "tStartMs": 765233,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "六七朵青头菌。"
+    } ]
+  }, {
+    "tStartMs": 766299,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 767066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "往里面找了好几个"
+    } ]
+  }, {
+    "tStartMs": 768166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "那个鸡蛋菌。"
+    } ]
+  }, {
+    "tStartMs": 769233,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 769766,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这个是个啥菌啊这个菌？"
+    } ]
+  }, {
+    "tStartMs": 772466,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这个——这个牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 773366,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "牛肝。"
+    } ]
+  }, {
+    "tStartMs": 773866,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "哦，这个就是牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 774899,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 775233,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 775766,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "长得很像，是不是？"
+    } ]
+  }, {
+    "tStartMs": 776966,
+    "dDurationMs": 267,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 777233,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "后面——"
+    } ]
+  }, {
+    "tStartMs": 777766,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这个也是个牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 779700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 780600,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "这就是见手青。"
+    } ]
+  }, {
+    "tStartMs": 781866,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "啊，这个就是见手青。"
+    } ]
+  }, {
+    "tStartMs": 783700,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "绿的，变绿了。"
+    } ]
+  }, {
+    "tStartMs": 784566,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "哦，那就是著名的见手青。"
+    } ]
+  }, {
+    "tStartMs": 786299,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "这个能吃吗？不能吃。"
+    } ]
+  }, {
+    "tStartMs": 787733,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "这是啥？"
+    } ]
+  }, {
+    "tStartMs": 788299,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "鹅膏菌。"
+    } ]
+  }, {
+    "tStartMs": 788899,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "鹅膏菌剧毒吗？"
+    } ]
+  }, {
+    "tStartMs": 790799,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 792399,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "那是最毒的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 796833,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇，你的——"
+    } ]
+  }, {
+    "tStartMs": 797633,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "哇，你全捡的这个。"
+    } ]
+  }, {
+    "tStartMs": 799399,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "不然等下你们不够吃的。"
+    } ]
+  }, {
+    "tStartMs": 800899,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 802100,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "嗯，好漂亮。"
+    } ]
+  }, {
+    "tStartMs": 803366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 805600,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "现在这小红菌"
+    } ]
+  }, {
+    "tStartMs": 806500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "你们都懒得采了啊？"
+    } ]
+  }, {
+    "tStartMs": 807766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "看不上了，哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 810366,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "还有这个黄色的——"
+    } ]
+  }, {
+    "tStartMs": 812233,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "哎，快快。"
+    } ]
+  }, {
+    "tStartMs": 812866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "拍照拍照拍照。"
+    } ]
+  }, {
+    "tStartMs": 814200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "哦我天。"
+    } ]
+  }, {
+    "tStartMs": 815366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "哇，这个好大哦。"
+    } ]
+  }, {
+    "tStartMs": 816899,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "哦哇。"
+    } ]
+  }, {
+    "tStartMs": 817466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这是第一次。"
+    } ]
+  }, {
+    "tStartMs": 821233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "显然他们说了，牛肝菌——"
+    } ]
+  }, {
+    "tStartMs": 823566,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "最好吃的一种——"
+    } ]
+  }, {
+    "tStartMs": 825399,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "它喜欢长在"
+    } ]
+  }, {
+    "tStartMs": 826433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这种环境下，在这种树下面。"
+    } ]
+  }, {
+    "tStartMs": 830433,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 830833,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "仅此一个。"
+    } ]
+  }, {
+    "tStartMs": 831966,
+    "dDurationMs": 234,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 832200,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "有可能它是——"
+    } ]
+  }, {
+    "tStartMs": 834066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "其实，"
+    } ]
+  }, {
+    "tStartMs": 834899,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "太难得。"
+    } ]
+  }, {
+    "tStartMs": 835466,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "有可能它是——"
+    } ]
+  }, {
+    "tStartMs": 837466,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "闻起来真的很香。"
+    } ]
+  }, {
+    "tStartMs": 839500,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "就是它那个味道有"
+    } ]
+  }, {
+    "tStartMs": 840433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "一种很厚重的那种感觉。"
+    } ]
+  }, {
+    "tStartMs": 842600,
+    "dDurationMs": 3866,
+    "segs": [ {
+      "utf8": "哇，又是一群。"
+    } ]
+  }, {
+    "tStartMs": 848566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇塞。"
+    } ]
+  }, {
+    "tStartMs": 849500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "哦哦哇。"
+    } ]
+  }, {
+    "tStartMs": 850766,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我的天，我的天呐。"
+    } ]
+  }, {
+    "tStartMs": 855833,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "哎呀，抠不起来，要抠坏了。"
+    } ]
+  }, {
+    "tStartMs": 857633,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "从里面最里面抠，这样。"
+    } ]
+  }, {
+    "tStartMs": 860299,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 863166,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "我觉得有点小，"
+    } ]
+  }, {
+    "tStartMs": 864033,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我有点看不上。"
+    } ]
+  }, {
+    "tStartMs": 865433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "你想要向导那个？"
+    } ]
+  }, {
+    "tStartMs": 867066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 868433,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "向导的那个有粉色的，那个好看。"
+    } ]
+  }, {
+    "tStartMs": 888833,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "大哥，这个是个啥呀？"
+    } ]
+  }, {
+    "tStartMs": 890700,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "这个东西能吃不？"
+    } ]
+  }, {
+    "tStartMs": 892833,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这个我都没见过嘛。"
+    } ]
+  }, {
+    "tStartMs": 895100,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "这个——"
+    } ]
+  }, {
+    "tStartMs": 895566,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 895966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "吃不了。"
+    } ]
+  }, {
+    "tStartMs": 896799,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "吃不了。"
+    } ]
+  }, {
+    "tStartMs": 897466,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "吃不了。"
+    } ]
+  }, {
+    "tStartMs": 897866,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "不能吃。"
+    } ]
+  }, {
+    "tStartMs": 898500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "嗯，不能吃。"
+    } ]
+  }, {
+    "tStartMs": 899100,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "我都有点舍不得扔了。"
+    } ]
+  }, {
+    "tStartMs": 900500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "哈哈，好看。"
+    } ]
+  }, {
+    "tStartMs": 903500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这是一个新品种。"
+    } ]
+  }, {
+    "tStartMs": 906166,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "这个新品种有着"
+    } ]
+  }, {
+    "tStartMs": 907100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "最奇怪的形状。"
+    } ]
+  }, {
+    "tStartMs": 911799,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "这是个啥？"
+    } ]
+  }, {
+    "tStartMs": 912899,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "这个叫啥？"
+    } ]
+  }, {
+    "tStartMs": 913500,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "这是云彩菌。"
+    } ]
+  }, {
+    "tStartMs": 914600,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "云彩菌。"
+    } ]
+  }, {
+    "tStartMs": 915433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "云彩菌。"
+    } ]
+  }, {
+    "tStartMs": 916399,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "云彩菌。"
+    } ]
+  }, {
+    "tStartMs": 917966,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "云彩的“彩”。"
+    } ]
+  }, {
+    "tStartMs": 919466,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "云彩菌。"
+    } ]
+  }, {
+    "tStartMs": 920166,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "啊对。"
+    } ]
+  }, {
+    "tStartMs": 922833,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "好漂亮——"
+    } ]
+  }, {
+    "tStartMs": 924366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那个粉色的。"
+    } ]
+  }, {
+    "tStartMs": 928299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "随着我们继续深入，"
+    } ]
+  }, {
+    "tStartMs": 929799,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我们开始看到更大的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 933766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "我们的向导告诉我们，有"
+    } ]
+  }, {
+    "tStartMs": 935200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "三种不同的珊瑚菌。"
+    } ]
+  }, {
+    "tStartMs": 938000,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "有的是粉色的——"
+    } ]
+  }, {
+    "tStartMs": 939233,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "就是这种。"
+    } ]
+  }, {
+    "tStartMs": 940866,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "它还有更多的分支。"
+    } ]
+  }, {
+    "tStartMs": 942200,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "另一种是有点灰黄色的。"
+    } ]
+  }, {
+    "tStartMs": 947633,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "我们不断发现越来越大的蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 950666,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "现在我们对小蘑菇已经视而不见了。"
+    } ]
+  }, {
+    "tStartMs": 954633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "他们只采大的。"
+    } ]
+  }, {
+    "tStartMs": 956433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我们变得越来越挑剔了。"
+    } ]
+  }, {
+    "tStartMs": 958799,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "挺多的。"
+    } ]
+  }, {
+    "tStartMs": 959500,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "师傅，"
+    } ]
+  }, {
+    "tStartMs": 959966,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "你采的最大的菌子有多大？"
+    } ]
+  }, {
+    "tStartMs": 962766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "五公斤。"
+    } ]
+  }, {
+    "tStartMs": 963799,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "五公斤？"
+    } ]
+  }, {
+    "tStartMs": 965233,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "就是我小红书——"
+    } ]
+  }, {
+    "tStartMs": 966433,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "有个小红书上——"
+    } ]
+  }, {
+    "tStartMs": 967600,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 968066,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "也很——"
+    } ]
+  }, {
+    "tStartMs": 968833,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "那个见手青——"
+    } ]
+  }, {
+    "tStartMs": 970033,
+    "dDurationMs": 266,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 970299,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "小红书上那个头像——"
+    } ]
+  }, {
+    "tStartMs": 971566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "那顶就是五公斤。"
+    } ]
+  }, {
+    "tStartMs": 973066,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哇。"
+    } ]
+  }, {
+    "tStartMs": 973866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "赶紧去。"
+    } ]
+  }, {
+    "tStartMs": 975466,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "他说他采到的最大的蘑菇是"
+    } ]
+  }, {
+    "tStartMs": 977700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "五公斤——一个蘑菇五公斤。"
+    } ]
+  }, {
+    "tStartMs": 983299,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "哦，那是其他人，"
+    } ]
+  }, {
+    "tStartMs": 985600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "刚从市场回来的。"
+    } ]
+  }, {
+    "tStartMs": 989766,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我觉得我已经超额完成任务。"
+    } ]
+  }, {
+    "tStartMs": 991966,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "首先第一个，红伞伞——"
+    } ]
+  }, {
+    "tStartMs": 994433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我可能半篮子都是红伞伞。"
+    } ]
+  }, {
+    "tStartMs": 996566,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "然后这个我觉得应该有五公斤吧，"
+    } ]
+  }, {
+    "tStartMs": 999100,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "至少啊，哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1000200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "太开心了。"
+    } ]
+  }, {
+    "tStartMs": 1001700,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "太满意了。"
+    } ]
+  }, {
+    "tStartMs": 1003033,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我们已经成为了找菌子能手了。"
+    } ]
+  }, {
+    "tStartMs": 1005366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "可不是吗。"
+    } ]
+  }, {
+    "tStartMs": 1006799,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "哦，又发现了一个菌。"
+    } ]
+  }, {
+    "tStartMs": 1008866,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这是鸡腿菇，是不是？"
+    } ]
+  }, {
+    "tStartMs": 1010899,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "是。"
+    } ]
+  }, {
+    "tStartMs": 1011399,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "这能吃不？"
+    } ]
+  }, {
+    "tStartMs": 1012266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "不能吃。"
+    } ]
+  }, {
+    "tStartMs": 1013766,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这绝对能吃。"
+    } ]
+  }, {
+    "tStartMs": 1014899,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "你骗我。"
+    } ]
+  }, {
+    "tStartMs": 1016299,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我记得鸡腿菇能吃呀。"
+    } ]
+  }, {
+    "tStartMs": 1017666,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "我买都买过呀。"
+    } ]
+  }, {
+    "tStartMs": 1018966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "那么，Henry，"
+    } ]
+  }, {
+    "tStartMs": 1020033,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "你对今天的采蘑菇之行"
+    } ]
+  }, {
+    "tStartMs": 1021233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "有多满意？"
+    } ]
+  }, {
+    "tStartMs": 1023399,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "嗯，我觉得很开心，"
+    } ]
+  }, {
+    "tStartMs": 1025166,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "因为我们的目标——"
+    } ]
+  }, {
+    "tStartMs": 1026466,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "二十公斤——差不多达到了。"
+    } ]
+  }, {
+    "tStartMs": 1029233,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1031433,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "我觉得不止二十。"
+    } ]
+  }, {
+    "tStartMs": 1033099,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "二十公斤？"
+    } ]
+  }, {
+    "tStartMs": 1034000,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "因为这是六个篮子。"
+    } ]
+  }, {
+    "tStartMs": 1035700,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "我觉得每个至少"
+    } ]
+  }, {
+    "tStartMs": 1037099,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "两三公斤。"
+    } ]
+  }, {
+    "tStartMs": 1037866,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "对。"
+    } ]
+  }, {
+    "tStartMs": 1038299,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "向导，我问一下哈，"
+    } ]
+  }, {
+    "tStartMs": 1039666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你觉得我们今天的表现怎么样？"
+    } ]
+  }, {
+    "tStartMs": 1042666,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "打几分？"
+    } ]
+  }, {
+    "tStartMs": 1044200,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "打一百分。"
+    } ]
+  }, {
+    "tStartMs": 1045233,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1047099,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "有没有比我们摘得多的？"
+    } ]
+  }, {
+    "tStartMs": 1049233,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "没有没有。"
+    } ]
+  }, {
+    "tStartMs": 1049900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "哈哈哈，我们是最多的今天。"
+    } ]
+  }, {
+    "tStartMs": 1052066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "这几天。"
+    } ]
+  }, {
+    "tStartMs": 1053866,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "我们的向导也采了更多，"
+    } ]
+  }, {
+    "tStartMs": 1056000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "为了，呃，这样"
+    } ]
+  }, {
+    "tStartMs": 1057400,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "我们就有足够的蘑菇吃了。"
+    } ]
+  }, {
+    "tStartMs": 1059099,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "这就是我们今天采到的全部。"
+    } ]
+  }, {
+    "tStartMs": 1061666,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "六大篮子"
+    } ]
+  }, {
+    "tStartMs": 1064066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "五颜六色的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1067833,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这真的不能吃吗？"
+    } ]
+  }, {
+    "tStartMs": 1069066,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "不能吃。"
+    } ]
+  }, {
+    "tStartMs": 1069633,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "吃了会咋样吗？"
+    } ]
+  }, {
+    "tStartMs": 1072799,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "会见小人。"
+    } ]
+  }, {
+    "tStartMs": 1073966,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这不是见手青——"
+    } ]
+  }, {
+    "tStartMs": 1075299,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "就这个。"
+    } ]
+  }, {
+    "tStartMs": 1077900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "这个和这个——"
+    } ]
+  }, {
+    "tStartMs": 1079299,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "这个和那个牛肝菌——"
+    } ]
+  }, {
+    "tStartMs": 1080433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "刚才闻着味都不一样。"
+    } ]
+  }, {
+    "tStartMs": 1083366,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "这个牛肝菌闻起来是香的味道。"
+    } ]
+  }, {
+    "tStartMs": 1086000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这个是有一点点臭臭的味道啊。"
+    } ]
+  }, {
+    "tStartMs": 1088299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "这个是臭臭的。"
+    } ]
+  }, {
+    "tStartMs": 1091700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "闻起来怎么样？"
+    } ]
+  }, {
+    "tStartMs": 1093666,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "闻起来有点烂掉的味道。"
+    } ]
+  }, {
+    "tStartMs": 1095433,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "所以我们最终决定"
+    } ]
+  }, {
+    "tStartMs": 1097133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这个是有毒的。"
+    } ]
+  }, {
+    "tStartMs": 1098966,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "它是鹅膏菌家族的一员。"
+    } ]
+  }, {
+    "tStartMs": 1102099,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "闻起来有点臭。"
+    } ]
+  }, {
+    "tStartMs": 1103633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "但如果你跟另一个比较——"
+    } ]
+  }, {
+    "tStartMs": 1105433,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "这个牛肝菌——"
+    } ]
+  }, {
+    "tStartMs": 1108066,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "这品相很好的。"
+    } ]
+  }, {
+    "tStartMs": 1110366,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "青年中的王者。"
+    } ]
+  }, {
+    "tStartMs": 1111900,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1112200,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "这一朵几十块吧。"
+    } ]
+  }, {
+    "tStartMs": 1115566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "它有一种——"
+    } ]
+  }, {
+    "tStartMs": 1117966,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "芳香的气味——"
+    } ]
+  }, {
+    "tStartMs": 1118966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "蘑菇的香气。"
+    } ]
+  }, {
+    "tStartMs": 1122166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这个你的筐是哪个？"
+    } ]
+  }, {
+    "tStartMs": 1124200,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "我的筐应该是这个吧。"
+    } ]
+  }, {
+    "tStartMs": 1125299,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "都是我的。"
+    } ]
+  }, {
+    "tStartMs": 1126266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我摘的全部都是毒菌子。"
+    } ]
+  }, {
+    "tStartMs": 1128566,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "我就说嘛，哎呀。"
+    } ]
+  }, {
+    "tStartMs": 1129566,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "拔不出来了。"
+    } ]
+  }, {
+    "tStartMs": 1131633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "拿到那个地方去吧。"
+    } ]
+  }, {
+    "tStartMs": 1133299,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "拿到饭店——"
+    } ]
+  }, {
+    "tStartMs": 1134166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "拿到饭店去吧。"
+    } ]
+  }, {
+    "tStartMs": 1135633,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Carrie 有点舍不得啊。"
+    } ]
+  }, {
+    "tStartMs": 1137833,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "毒的我也想要。"
+    } ]
+  }, {
+    "tStartMs": 1141766,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "咱们这些蘑菇够吃不？"
+    } ]
+  }, {
+    "tStartMs": 1144000,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "够。"
+    } ]
+  }, {
+    "tStartMs": 1144599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "够了。"
+    } ]
+  }, {
+    "tStartMs": 1146433,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "也有四个筐了。"
+    } ]
+  }, {
+    "tStartMs": 1148000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "四个筐最少有三个筐是可以吃的吧。"
+    } ]
+  }, {
+    "tStartMs": 1150200,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1153866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "放车里面也好看。"
+    } ]
+  }, {
+    "tStartMs": 1155566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "现在我们要把蘑菇"
+    } ]
+  }, {
+    "tStartMs": 1159500,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "找一家餐馆，"
+    } ]
+  }, {
+    "tStartMs": 1160666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "然后做来吃。"
+    } ]
+  }, {
+    "tStartMs": 1172366,
+    "dDurationMs": 4134,
+    "segs": [ {
+      "utf8": "现在我们到了牟定县城的市场。"
+    } ]
+  }, {
+    "tStartMs": 1176766,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "每天早晨，"
+    } ]
+  }, {
+    "tStartMs": 1177599,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "当地农民"
+    } ]
+  }, {
+    "tStartMs": 1180766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "上山采蘑菇，"
+    } ]
+  }, {
+    "tStartMs": 1182866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "然后下午三点左右，"
+    } ]
+  }, {
+    "tStartMs": 1185500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "他们把蘑菇都拿到这里来。"
+    } ]
+  }, {
+    "tStartMs": 1188033,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "所以在这里你能找到所有昂贵的蘑菇、"
+    } ]
+  }, {
+    "tStartMs": 1190599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "大蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1192233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这个干巴菌多少钱一斤啊？"
+    } ]
+  }, {
+    "tStartMs": 1195166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "三百。"
+    } ]
+  }, {
+    "tStartMs": 1196033,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "啊，三百？"
+    } ]
+  }, {
+    "tStartMs": 1197000,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "啊，三百块。"
+    } ]
+  }, {
+    "tStartMs": 1198166,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "一公斤。"
+    } ]
+  }, {
+    "tStartMs": 1199166,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1199766,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "可能刚发现有点贵。"
+    } ]
+  }, {
+    "tStartMs": 1201266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1203233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "你买了到饭店里面你也没法吃到。"
+    } ]
+  }, {
+    "tStartMs": 1205799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哦。"
+    } ]
+  }, {
+    "tStartMs": 1206799,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "他那个多少？"
+    } ]
+  }, {
+    "tStartMs": 1207666,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "以前多少钱一斤？"
+    } ]
+  }, {
+    "tStartMs": 1209233,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "呃，前几天是五千，五千左右。"
+    } ]
+  }, {
+    "tStartMs": 1212400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "这两天是八百。"
+    } ]
+  }, {
+    "tStartMs": 1214033,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "八百。"
+    } ]
+  }, {
+    "tStartMs": 1214433,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "八百、四百、六百——"
+    } ]
+  }, {
+    "tStartMs": 1215866,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "不一定的。"
+    } ]
+  }, {
+    "tStartMs": 1216566,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "刚才那个跟我说三百。"
+    } ]
+  }, {
+    "tStartMs": 1218266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "三百的也是昨天的。"
+    } ]
+  }, {
+    "tStartMs": 1219866,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "哦，是昨天的。"
+    } ]
+  }, {
+    "tStartMs": 1221633,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "他卖不完的他就——"
+    } ]
+  }, {
+    "tStartMs": 1223233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1224666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们的向导说"
+    } ]
+  }, {
+    "tStartMs": 1225966,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "我们已经有足够的蘑菇了，"
+    } ]
+  }, {
+    "tStartMs": 1227766,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "所以不能再买了。"
+    } ]
+  }, {
+    "tStartMs": 1230366,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但如果你来云南，"
+    } ]
+  }, {
+    "tStartMs": 1231766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我推荐你尝尝这个干巴菌，"
+    } ]
+  }, {
+    "tStartMs": 1234033,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "因为它很特别。"
+    } ]
+  }, {
+    "tStartMs": 1237099,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "当你在这个市场里，"
+    } ]
+  }, {
+    "tStartMs": 1238299,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "你能感受到云南人对蘑菇"
+    } ]
+  }, {
+    "tStartMs": 1240866,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "有多么狂热。"
+    } ]
+  }, {
+    "tStartMs": 1244366,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "你几乎挪不动脚。"
+    } ]
+  }, {
+    "tStartMs": 1246966,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "每个人都在找蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1252666,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "那个比我们找到的大多了。"
+    } ]
+  }, {
+    "tStartMs": 1255966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "鸡枞菌。"
+    } ]
+  }, {
+    "tStartMs": 1257766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "老板，鸡枞菌多少钱一斤啊？"
+    } ]
+  }, {
+    "tStartMs": 1259799,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "一百八。"
+    } ]
+  }, {
+    "tStartMs": 1260466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "一百八。"
+    } ]
+  }, {
+    "tStartMs": 1262700,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "这个可以吃吗？"
+    } ]
+  }, {
+    "tStartMs": 1264200,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "这个可以吃吗？"
+    } ]
+  }, {
+    "tStartMs": 1267000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1267900,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "这是一个蜂巢。"
+    } ]
+  }, {
+    "tStartMs": 1268766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "但这只蜜蜂显然"
+    } ]
+  }, {
+    "tStartMs": 1270066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "比普通的大很多。"
+    } ]
+  }, {
+    "tStartMs": 1274266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "这位大哥"
+    } ]
+  }, {
+    "tStartMs": 1275066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "卖的是三年的老腊肉。"
+    } ]
+  }, {
+    "tStartMs": 1276666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我很想尝尝，"
+    } ]
+  }, {
+    "tStartMs": 1278433,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "但怕吃不完。"
+    } ]
+  }, {
+    "tStartMs": 1280900,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "回家可以吃呢。"
+    } ]
+  }, {
+    "tStartMs": 1292400,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "太棒了。"
+    } ]
+  }, {
+    "tStartMs": 1293733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "又嫩又多汁，咸香可口。"
+    } ]
+  }, {
+    "tStartMs": 1299466,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "完美的腊肉，真的。"
+    } ]
+  }, {
+    "tStartMs": 1303799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊。"
+    } ]
+  }, {
+    "tStartMs": 1305200,
+    "dDurationMs": 5833,
+    "segs": [ {
+      "utf8": "他对“小一点”的定义——"
+    } ]
+  }, {
+    "tStartMs": 1311233,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "好，可以了，给吧。"
+    } ]
+  }, {
+    "tStartMs": 1312866,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "非常好，非常好。"
+    } ]
+  }, {
+    "tStartMs": 1314366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "二十块。"
+    } ]
+  }, {
+    "tStartMs": 1315599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "谢谢。"
+    } ]
+  }, {
+    "tStartMs": 1321866,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "这是见手青。"
+    } ]
+  }, {
+    "tStartMs": 1323299,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "嗯，洗了手"
+    } ]
+  }, {
+    "tStartMs": 1324233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "就没捡到。"
+    } ]
+  }, {
+    "tStartMs": 1325033,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "只有买吗？"
+    } ]
+  }, {
+    "tStartMs": 1325766,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "啊对。"
+    } ]
+  }, {
+    "tStartMs": 1327200,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "那里面有些不是不能吃的哟，"
+    } ]
+  }, {
+    "tStartMs": 1328966,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "你们要看。"
+    } ]
+  }, {
+    "tStartMs": 1330066,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "对，我们会把"
+    } ]
+  }, {
+    "tStartMs": 1331766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "不能吃的拿出来。"
+    } ]
+  }, {
+    "tStartMs": 1333666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "他们需要分拣一下。"
+    } ]
+  }, {
+    "tStartMs": 1334966,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "我觉得可能很多"
+    } ]
+  }, {
+    "tStartMs": 1338166,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "呃，是不能吃的。"
+    } ]
+  }, {
+    "tStartMs": 1341833,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "医院倒还挺近的。"
+    } ]
+  }, {
+    "tStartMs": 1343500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1347866,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "你们——你们自己吃——"
+    } ]
+  }, {
+    "tStartMs": 1349000,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "有没有吃过见过小人人吗？"
+    } ]
+  }, {
+    "tStartMs": 1352200,
+    "dDurationMs": 366,
+    "segs": [ {
+      "utf8": "没有。"
+    } ]
+  }, {
+    "tStartMs": 1352566,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我们都保证要能吃啊。"
+    } ]
+  }, {
+    "tStartMs": 1355566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "要吃了见小人人嘛，"
+    } ]
+  }, {
+    "tStartMs": 1357166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "那就危险了。"
+    } ]
+  }, {
+    "tStartMs": 1359000,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "打一二零的要给人家累死呢。"
+    } ]
+  }, {
+    "tStartMs": 1362166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "要保证你们安全啊！对。"
+    } ]
+  }, {
+    "tStartMs": 1363966,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "保证你们安全。"
+    } ]
+  }, {
+    "tStartMs": 1364366,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "你们吃了去见小人人，不好意思，哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1369033,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "不是说第一次。"
+    } ]
+  }, {
+    "tStartMs": 1370599,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "我们要用三种方式"
+    } ]
+  }, {
+    "tStartMs": 1371466,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "来烹饪它们。"
+    } ]
+  }, {
+    "tStartMs": 1372400,
+    "dDurationMs": 3766,
+    "segs": [ {
+      "utf8": "这个见手青要爆炒。"
+    } ]
+  }, {
+    "tStartMs": 1376433,
+    "dDurationMs": 333,
+    "segs": [ {
+      "utf8": "这个鸡枞菌——"
+    } ]
+  }, {
+    "tStartMs": 1376766,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "我们是从市场买的。"
+    } ]
+  }, {
+    "tStartMs": 1378700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "那是最美味的一种。"
+    } ]
+  }, {
+    "tStartMs": 1380599,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我们也要炒着吃。"
+    } ]
+  }, {
+    "tStartMs": 1381966,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "剩下的，"
+    } ]
+  }, {
+    "tStartMs": 1383666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "呃，我们要做汤。"
+    } ]
+  }, {
+    "tStartMs": 1387000,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "你害怕吗——"
+    } ]
+  }, {
+    "tStartMs": 1387766,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "吃这个菌子？"
+    } ]
+  }, {
+    "tStartMs": 1388633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "啊，不害怕。"
+    } ]
+  }, {
+    "tStartMs": 1390566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我相信他们。"
+    } ]
+  }, {
+    "tStartMs": 1396466,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "在一家餐馆——"
+    } ]
+  }, {
+    "tStartMs": 1397666,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "像这样的本地餐馆——"
+    } ]
+  }, {
+    "tStartMs": 1399166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "做蘑菇的过程"
+    } ]
+  }, {
+    "tStartMs": 1400566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "感觉像一种社交活动。"
+    } ]
+  }, {
+    "tStartMs": 1403299,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "你可以了解这些蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1406500,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "而且这里还有水果，"
+    } ]
+  }, {
+    "tStartMs": 1408500,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "所以你还能看到不同种类的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1414266,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "回到厨房，"
+    } ]
+  }, {
+    "tStartMs": 1415266,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "为了调味，"
+    } ]
+  }, {
+    "tStartMs": 1417433,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "他们有将近三十"
+    } ]
+  }, {
+    "tStartMs": 1419033,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "到四十种不同的香料。"
+    } ]
+  }, {
+    "tStartMs": 1420566,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "当我站在这里时，"
+    } ]
+  }, {
+    "tStartMs": 1421500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我能闻到辣椒的浓郁香味。"
+    } ]
+  }, {
+    "tStartMs": 1472066,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "哎，齐了。"
+    } ]
+  }, {
+    "tStartMs": 1474099,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "米饭给你，好。"
+    } ]
+  }, {
+    "tStartMs": 1476833,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我们上了四个——一、二、三、四。"
+    } ]
+  }, {
+    "tStartMs": 1479866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "其中三个是炒的。"
+    } ]
+  }, {
+    "tStartMs": 1483200,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "这个是个啥菌？"
+    } ]
+  }, {
+    "tStartMs": 1484033,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "我都不知道。"
+    } ]
+  }, {
+    "tStartMs": 1484766,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这叫什么菌？呃——"
+    } ]
+  }, {
+    "tStartMs": 1486099,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "那个奶浆菌——"
+    } ]
+  }, {
+    "tStartMs": 1487000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "也是最好吃的。"
+    } ]
+  }, {
+    "tStartMs": 1488466,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 1489500,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "出奶的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1492099,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "和肉一起炒的。"
+    } ]
+  }, {
+    "tStartMs": 1494599,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "我要搞点。"
+    } ]
+  }, {
+    "tStartMs": 1495799,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "来吧。"
+    } ]
+  }, {
+    "tStartMs": 1496366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这个是牛肝菌啊。"
+    } ]
+  }, {
+    "tStartMs": 1498466,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "牛肝菌盖饭。"
+    } ]
+  }, {
+    "tStartMs": 1500366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好。"
+    } ]
+  }, {
+    "tStartMs": 1502766,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "看见没？"
+    } ]
+  }, {
+    "tStartMs": 1503299,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这是牛肝菌吗？"
+    } ]
+  }, {
+    "tStartMs": 1504366,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "不是见手青吗？"
+    } ]
+  }, {
+    "tStartMs": 1505433,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "对，也就是牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 1507433,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "天呐。"
+    } ]
+  }, {
+    "tStartMs": 1508833,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "鸡枞菌可能是我们今天"
+    } ]
+  }, {
+    "tStartMs": 1511299,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "吃到的最贵的。"
+    } ]
+  }, {
+    "tStartMs": 1513766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "不会是最贵的吧？"
+    } ]
+  }, {
+    "tStartMs": 1515299,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "是不是？"
+    } ]
+  }, {
+    "tStartMs": 1516066,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "一百八一公斤。"
+    } ]
+  }, {
+    "tStartMs": 1518700,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "这个多少钱？"
+    } ]
+  }, {
+    "tStartMs": 1519266,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "两百六。"
+    } ]
+  }, {
+    "tStartMs": 1519833,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "所以这是第二贵的。"
+    } ]
+  }, {
+    "tStartMs": 1524200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "鸡枞菌，让我来尝一尝。"
+    } ]
+  }, {
+    "tStartMs": 1528500,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1529266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "刚才那导购一直在劝我——"
+    } ]
+  }, {
+    "tStartMs": 1531266,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那确实贵。"
+    } ]
+  }, {
+    "tStartMs": 1534000,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "所以我的最爱是这个——"
+    } ]
+  }, {
+    "tStartMs": 1536000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "牛肝菌。"
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "牛肝菌是我们买的"
+    } ]
+  }, {
+    "tStartMs": 1539366,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "最贵的。"
+    } ]
+  }, {
+    "tStartMs": 1540033,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "我们没找到。"
+    } ]
+  }, {
+    "tStartMs": 1541766,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "而另一种"
+    } ]
+  }, {
+    "tStartMs": 1542433,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "我们找到的其实也不错——"
+    } ]
+  }, {
+    "tStartMs": 1544400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "是这个。"
+    } ]
+  }, {
+    "tStartMs": 1545233,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 1546200,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "奶浆菌。"
+    } ]
+  }, {
+    "tStartMs": 1547466,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "嗯。"
+    } ]
+  }, {
+    "tStartMs": 1549833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "你最喜欢吃的是哪一个？"
+    } ]
+  }, {
+    "tStartMs": 1551400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "肯定是这个。"
+    } ]
+  }, {
+    "tStartMs": 1552599,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "啊，也是牛肝菌，你也是。"
+    } ]
+  }, {
+    "tStartMs": 1555900,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "你们俩呢？"
+    } ]
+  }, {
+    "tStartMs": 1556599,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "毋庸置疑。"
+    } ]
+  }, {
+    "tStartMs": 1557299,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "这个是我的最爱。"
+    } ]
+  }, {
+    "tStartMs": 1561200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "最好的，好。"
+    } ]
+  }, {
+    "tStartMs": 1563433,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "你呢？"
+    } ]
+  }, {
+    "tStartMs": 1564000,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "太好吃了。"
+    } ]
+  }, {
+    "tStartMs": 1564633,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "第二名呢？"
+    } ]
+  }, {
+    "tStartMs": 1565700,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "投个票吧。"
+    } ]
+  }, {
+    "tStartMs": 1567566,
+    "dDurationMs": 733,
+    "segs": [ {
+      "utf8": "我投这个吧。"
+    } ]
+  }, {
+    "tStartMs": 1568299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "哈哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1569500,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "没有人选我们采的是吗？"
+    } ]
+  }, {
+    "tStartMs": 1571266,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "哈哈。"
+    } ]
+  }, {
+    "tStartMs": 1573200,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "前两名都是我们买的。"
+    } ]
+  }, {
+    "tStartMs": 1574666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "看来大家对今天的劳动成果都——"
+    } ]
+  }, {
+    "tStartMs": 1577633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "哈哈哈，很满意。"
+    } ]
+  }, {
+    "tStartMs": 1579433,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "很满意啊。"
+    } ]
+  }, {
+    "tStartMs": 1580400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "拍照很满意。"
+    } ]
+  }, {
+    "tStartMs": 1581000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "拍照很漂亮。"
+    } ]
+  }, {
+    "tStartMs": 1584200,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "真的有一种采蘑菇的小姑娘的感觉。"
+    } ]
+  }, {
+    "tStartMs": 1585833,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "对啊对啊。"
+    } ]
+  }, {
+    "tStartMs": 1586299,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "体验感很好。"
+    } ]
+  }, {
+    "tStartMs": 1588066,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "少搞一点。"
+    } ]
+  }, {
+    "tStartMs": 1590266,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "好。"
+    } ]
+  }, {
+    "tStartMs": 1590700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "要多吗？"
+    } ]
+  }, {
+    "tStartMs": 1592400,
+    "dDurationMs": 466,
+    "segs": [ {
+      "utf8": "可以吗？"
+    } ]
+  }, {
+    "tStartMs": 1592866,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "可以了可以了。"
+    } ]
+  }, {
+    "tStartMs": 1594166,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "最后一个我还没尝过的。"
+    } ]
+  }, {
+    "tStartMs": 1596299,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "是粉色的蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1598700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这是我们从红色蘑菇里拿的。"
+    } ]
+  }, {
+    "tStartMs": 1601099,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "我们采到了这个粉色。"
+    } ]
+  }, {
+    "tStartMs": 1603466,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "去吃那个。"
+    } ]
+  }, {
+    "tStartMs": 1604633,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我点了一份。"
+    } ]
+  }, {
+    "tStartMs": 1606633,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "这是珊瑚菌——"
+    } ]
+  }, {
+    "tStartMs": 1607700,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "珊瑚菌。"
+    } ]
+  }, {
+    "tStartMs": 1611900,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "我吃饱了。"
+    } ]
+  }, {
+    "tStartMs": 1612866,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "好吃吗？"
+    } ]
+  }, {
+    "tStartMs": 1614266,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "还不错。"
+    } ]
+  }, {
+    "tStartMs": 1615266,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "我们采的那种小紫色蘑菇"
+    } ]
+  }, {
+    "tStartMs": 1618466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "有点苦，"
+    } ]
+  }, {
+    "tStartMs": 1620266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "汤里的有些蘑菇"
+    } ]
+  }, {
+    "tStartMs": 1621833,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "有点酸，"
+    } ]
+  }, {
+    "tStartMs": 1624299,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "还有些有点黏滑。"
+    } ]
+  }, {
+    "tStartMs": 1626866,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "这个好苦——"
+    } ]
+  }, {
+    "tStartMs": 1628166,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "可能是这个，"
+    } ]
+  }, {
+    "tStartMs": 1629200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1630666,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "红色蘑菇。"
+    } ]
+  }, {
+    "tStartMs": 1631599,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "我觉得那是我最不喜欢的，"
+    } ]
+  }, {
+    "tStartMs": 1633066,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "因为它有点酸，"
+    } ]
+  }, {
+    "tStartMs": 1635366,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "有点苦。"
+    } ]
+  }, {
+    "tStartMs": 1636266,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "呃，我不知道该怎么形容——"
+    } ]
+  }, {
+    "tStartMs": 1639466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "对我来说有点奇怪。"
+    } ]
+  }, {
+    "tStartMs": 1641233,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "而且显然，"
+    } ]
+  }, {
+    "tStartMs": 1642233,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "它也是目前桌上最不受欢迎的。"
+    } ]
+  }, {
+    "tStartMs": 1645433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "天，我现在好饱。"
+    } ]
+  }, {
+    "tStartMs": 1647066,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "你们呢？"
+    } ]
+  }, {
+    "tStartMs": 1650200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "好饱，好满足。"
+    } ]
+  }, {
+    "tStartMs": 1651366,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "对，我也是。"
+    } ]
+  }, {
+    "tStartMs": 1652900,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我觉得这可能是我们在这家"
+    } ]
+  }, {
+    "tStartMs": 1654666,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "餐馆吃到的"
+    } ]
+  }, {
+    "tStartMs": 1655599,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "最好的蘑菇菜肴之一。"
+    } ]
+  }, {
+    "tStartMs": 1657799,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我们出去的时候，"
+    } ]
+  }, {
+    "tStartMs": 1659033,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "看到了好多奖牌。"
+    } ]
+  }, {
+    "tStartMs": 1661833,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "所以显然这是一家"
+    } ]
+  }, {
+    "tStartMs": 1664233,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "非常好的餐馆。"
+    } ]
+  }, {
+    "tStartMs": 1665599,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "这就是我们今天的视频内容。"
+    } ]
+  }, {
+    "tStartMs": 1668366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "希望大家喜欢。"
+    } ]
+  }, {
+    "tStartMs": 1670599,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "如果你想和我们一样"
+    } ]
+  }, {
+    "tStartMs": 1672299,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "体验真实的中国，"
+    } ]
+  }, {
+    "tStartMs": 1674433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "可以访问我们的网站"
+    } ]
+  }, {
+    "tStartMs": 1676000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "以及我们的云南旅游项目。"
+    } ]
+  }, {
+    "tStartMs": 1677966,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "如果你来云南，"
+    } ]
+  }, {
+    "tStartMs": 1679433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "你会见到我们优秀的导游——"
+    } ]
+  }, {
+    "tStartMs": 1681299,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Carrie 和 Henry。"
+    } ]
+  }, {
+    "tStartMs": 1682766,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "嗨。"
+    } ]
+  }, {
+    "tStartMs": 1683299,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "欢迎来云南。"
+    } ]
+  }, {
+    "tStartMs": 1684366,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "欢迎来中国。"
+    } ]
+  }, {
+    "tStartMs": 1686000,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "而且"
+    } ]
+  }, {
+    "tStartMs": 1686799,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "我们期待与你相见！"
+    } ]
+  } ]
+}
