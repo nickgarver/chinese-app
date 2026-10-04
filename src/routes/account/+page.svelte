@@ -4,6 +4,11 @@
   import { hasVoice, voiceName, speak } from '$lib/tts.js';
   import { theme } from '$lib/theme.svelte.js';
   import { sfx } from '$lib/sfx.svelte.js';
+  import { prefs } from '$lib/prefs.svelte.js';
+
+  // Backup, restore and erase are hidden for now. Flip this to bring the
+  // section back; the handlers below are untouched.
+  const SHOW_DATA_TOOLS = false;
 
   let tab = $state('create'); // create | existing
   let busy = $state(false);
@@ -152,6 +157,7 @@
     <div class="card callout bad">{error}</div>
   {/if}
 
+  {#if SHOW_DATA_TOOLS}
   <div class="card">
     <h2>Your data</h2>
     <p class="note tight">
@@ -167,6 +173,23 @@
         onclick={() => confirm('Erase all review history?') && progress.reset()}>
         Erase progress
       </button>
+    </div>
+  </div>
+  {/if}
+
+  <div class="card">
+    <h2>Practice</h2>
+
+    <p class="label spaced">Highlight the practised word in sentences</p>
+    <div class="chips spaced">
+      <button class="chip" class:on={prefs.highlight} onclick={() => prefs.set('highlight', true)}>On</button>
+      <button class="chip" class:on={!prefs.highlight} onclick={() => prefs.set('highlight', false)}>Off</button>
+    </div>
+
+    <p class="label spaced">Hide clip choices until the video starts</p>
+    <div class="chips spaced">
+      <button class="chip" class:on={prefs.hideClipChoices} onclick={() => prefs.set('hideClipChoices', true)}>On</button>
+      <button class="chip" class:on={!prefs.hideClipChoices} onclick={() => prefs.set('hideClipChoices', false)}>Off</button>
     </div>
   </div>
 

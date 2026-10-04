@@ -110,6 +110,17 @@
   --choice-lh: 1.3;
   --choice-pad: 12px 14px;
 
+  /* the practised word inside a sentence */
+  --key-color: var(--accent);
+  --key-bg: color-mix(in srgb, var(--accent) 10%, transparent);
+
+  /* play cue over clips */
+  --play-size: 64px;
+  --play-bg: rgba(0, 0, 0, 0.45);
+  --play-bg-hover: rgba(0, 0, 0, 0.62);
+  --play-fill: rgba(255, 255, 255, 0.82);
+  --play-fill-hover: #ffffff;
+
   /* clip subtitle mask — height is a share of the frame */
   --mask-h: 100%;
   --mask-blur: 5px;
@@ -619,6 +630,7 @@ a { color: inherit; }
   bottom: 0;
   height: var(--mask-h);
   pointer-events: none;
+  z-index: 1;
   backdrop-filter: blur(var(--mask-blur));
   -webkit-backdrop-filter: blur(var(--mask-blur));
   background: rgba(0, 0, 0, 0.28);
@@ -647,6 +659,43 @@ a { color: inherit; }
   text-align: center;
 }
 
+/* answer reveal: the line, plus the Uses box. Stacked on phones,
+   4:1 side by side on wide screens. Shared by sentences and clips. */
+.reveal-row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+}
+
+/* Play cue drawn over the video. pointer-events are off so every click lands
+   on the YouTube player underneath. :hover still works because the iframe
+   element itself is hovered in this document, and that bubbles to its
+   ancestors — so the cue can respond without intercepting anything. */
+.clip-play {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.clip-play svg {
+  width: var(--play-size);
+  height: var(--play-size);
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));
+  transition: transform 0.15s ease;
+}
+
+.clip-play circle { fill: var(--play-bg); transition: fill 0.15s ease; }
+.clip-play path { fill: var(--play-fill); transition: fill 0.15s ease; }
+
+@media (hover: hover) {
+  .clip-media:hover .clip-play circle { fill: var(--play-bg-hover); }
+  .clip-media:hover .clip-play path { fill: var(--play-fill-hover); }
+  .clip-media:hover .clip-play svg { transform: scale(1.06); }
+}
+
 .uses-word { font-size: 26px; font-weight: 600; margin: 0; }
 .uses-go { font-size: 11.5px; color: var(--muted); margin: 2px 0 0; }
 a.uses { text-decoration: none; transition: background 0.13s ease; }
@@ -671,8 +720,9 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
 .choice.fit-xs { font-size: var(--choice-fs-xs); line-height: 1.2; }
 
 .key {
-  background: color-mix(in srgb, var(--accent) 22%, transparent);
-  color: inherit;
+  color: var(--key-color);
+  background: var(--key-bg);
+  font-weight: 600;
   border-radius: 4px;
   padding: 0 2px;
 }
@@ -779,13 +829,13 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
     align-items: center;
   }
 
-  .clip-row.reveal {
+  .reveal-row {
     flex-direction: row;
     align-items: stretch;
   }
 
-  .clip-row.reveal > .card { flex: 4; }
-  .clip-row.reveal > .uses { flex: 1; }
+  .reveal-row > .card:not(.uses) { flex: 4; }
+  .reveal-row > .uses { flex: 1; }
 
   /* word page: character block beside its progress */
   .word-top { flex-direction: row; align-items: stretch; }

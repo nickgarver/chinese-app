@@ -4,6 +4,9 @@
   import { RECOGNITION_WEIGHT } from '$lib/srs.js';
   import { sfx } from '$lib/sfx.svelte.js';
   import { speak } from '$lib/tts.js';
+  import PageHeader from '$lib/components/PageHeader.svelte';
+  import KeyText from '$lib/components/KeyText.svelte';
+  import UsesBox from '$lib/components/UsesBox.svelte';
 
   let { scope, onexit } = $props();
 
@@ -39,7 +42,6 @@
     if (run.at + 1 >= run.rounds.length) run.done = true;
     else run.at += 1;
   }
-  import PageHeader from '$lib/components/PageHeader.svelte';
 </script>
 
 {#if !run.done && round}
@@ -53,7 +55,7 @@
     <div class="card pop">
       {#if front === 'zh'}
         <div class="inline">
-          <p class="zh prompt-zh">{round.item.zh}</p>
+          <p class="zh prompt-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
           <button class="speak" aria-label="Play" onclick={() => speak(round.item.zh)}>♪</button>
         </div>
         <button class="btn ghost sm auto" onclick={() => speak(round.item.zh, { slow: true })}>
@@ -62,10 +64,7 @@
       {:else}
         <p class="flash-en">{round.item.en}</p>
       {/if}
-      <p class="note">
-        Uses <span class="zh">{round.item.word}</span>
-        · {round.item.level ? `HSK ${round.item.level}` : 'Class'}
-      </p>
+      <p class="note">{round.item.level ? `HSK ${round.item.level}` : 'Class'}</p>
     </div>
 
     <div class="stack">
@@ -86,10 +85,18 @@
     </div>
 
     {#if run.picked}
-      <div class="card tint">
-        <p class="zh example-zh">{round.item.zh}</p>
-        <p class="example-py">{round.item.py}</p>
-        <p class="example-en">{round.item.en}</p>
+      <div class="reveal-row">
+        <div class="card tint">
+          <div class="example">
+            <div class="body">
+              <p class="zh example-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
+              <p class="example-py">{round.item.py}</p>
+              <p class="example-en">{round.item.en}</p>
+            </div>
+            <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.zh)}>♪</button>
+          </div>
+        </div>
+        <UsesBox word={round.item.word} />
       </div>
       <button class="btn primary" onclick={next}>
         {run.at + 1 >= run.rounds.length ? 'Finish' : 'Next'}

@@ -5,6 +5,7 @@
   import { cardStatus, isOverdue } from '$lib/srs.js';
   import { progress } from '$lib/progress.svelte.js';
   import { speak } from '$lib/tts.js';
+  import KeyText from '$lib/components/KeyText.svelte';
 
   const ready = loadData();
   const slug = $derived(decodeURIComponent($page.params.word));
@@ -118,7 +119,7 @@
             {#each examples as ex}
               <div class="example">
                 <div class="body">
-                  <p class="zh example-zh">{ex.zh}</p>
+                  <p class="zh example-zh"><KeyText text={ex.zh} word={word.w} /></p>
                   <p class="example-py">{ex.py}</p>
                   <p class="example-en">{ex.en}</p>
                 </div>

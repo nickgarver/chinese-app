@@ -4,6 +4,7 @@
   import { session } from '$lib/session.svelte.js';
   import { speak } from '$lib/tts.js';
   import { sfx } from '$lib/sfx.svelte.js';
+  import KeyText from '$lib/components/KeyText.svelte';
 
   let { data, scope, onexit } = $props();
 
@@ -70,7 +71,7 @@
       <div class="card">
         <div class="example">
           <div class="body">
-            <p class="zh example-zh">{example.zh}</p>
+            <p class="zh example-zh"><KeyText text={example.zh} word={current.w} /></p>
             <p class="example-py">{example.py}</p>
             <p class="example-en">{example.en}</p>
           </div>

@@ -91,7 +91,8 @@ function startClips(config, clipData) {
     picked: null,
     score: 0,
     done: false,
-    plays: 0
+    plays: 0,
+    started: false
   };
 }
 
