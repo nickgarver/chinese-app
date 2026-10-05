@@ -78,7 +78,7 @@
   --hero-zh-weight: 300;
 
   /* sentences */
-  --sentence-zh: 21px;
+  --sentence-zh: 28px;
   --sentence-py: 14px;
   --sentence-lg: 26px;
 
@@ -121,7 +121,7 @@
   --flash-prompt-md: 27px;
   --hero-zh-md: 68px;
   --hero-zh-lg: 78px;
-  --sentence-zh-md: 23px;
+  --sentence-zh-md: 28px;
   --sentence-lg-md: 30px;
 
   /* clip layout: row 1 and the transport row share these columns */
@@ -543,9 +543,12 @@ a { color: inherit; }
    ============================================================ */
 .session-head { display: flex; align-items: center; gap: var(--gap); }
 
+/* Everything in the card is centred as one group, so the margins above and
+   below are always even. Before the reveal that's just the word; after it,
+   the word and answer together, and reveal() slides the word up to match.
+   The audio button and View word link sit in the corners, outside the group. */
 .flash {
   position: relative;
-  padding-bottom: 38px;
   min-height: var(--flash-min-h);
   display: flex;
   flex-direction: column;
@@ -555,10 +558,32 @@ a { color: inherit; }
   gap: 10px;
 }
 
+/* flashcard text sizes */
 .flash-zh { font-size: var(--flash-zh); font-weight: var(--flash-zh-weight); }
-.flash-py { font-size: var(--flash-py); color: var(--muted); }
 .flash-en { font-size: var(--flash-en); font-weight: 600; }
 .flash-prompt { font-size: var(--flash-prompt); font-weight: 600; }
+
+/* the part that slides; transforms need a box, so it can't be plain inline */
+.flash-anchor { display: inline-block; }
+
+/* Before the reveal, the word's pinyin space is reserved under it. Matching
+   space above centres the character itself rather than character + pinyin.
+   Mirrors the .hz-p height plus .hz's bottom margin, in the word's own em. */
+.flash:not(.revealed) > .flash-main.with-py {
+  padding-top: calc(clamp(12px, 0.5em, 20px) * 1.2 + 1px + 0.15em);
+}
+
+.flash > .flash-more { animation: flash-in 0.2s ease-out; }
+
+@keyframes flash-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flash > .flash-more { animation: none; }
+}
+
 /* audio button pinned to the flashcard's top-right corner, out of the flow */
 .flash > .speak {
   position: absolute;
@@ -1024,7 +1049,50 @@ dialog.confirm[open] { animation: confirm-in 0.16s ease-out; }
   transition: color 0.13s ease;
 }
 
+/* the presentation icon is a button; make it look like the link icons */
+button.footer-icon {
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
 .footer-credit { margin: 0; }
+
+/* Blank white screen: fills the whole browser window, above everything. */
+dialog.blank-screen {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #ffffff;
+}
+
+dialog.blank-screen::backdrop { background: #ffffff; }
+
+.blank-close {
+  position: absolute;
+  right: calc(16px + env(safe-area-inset-right, 0px));
+  bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  display: inline-flex;
+  padding: 4px;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: #b4b4bc;
+  cursor: pointer;
+  transition: color 0.13s ease;
+}
+
+@media (hover: hover) {
+  .blank-close:hover { color: #6e6e78; }
+}
 
 .footer-credit a {
   color: inherit;

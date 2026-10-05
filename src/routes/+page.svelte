@@ -59,7 +59,7 @@
     </div>
   {/snippet}
 
-  <PageHeader title="HSK Practice" end={rankBadge} />
+  <PageHeader title="小导 Little Tutor" end={rankBadge} />
 
   <div class="page">
 

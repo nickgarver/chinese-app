@@ -1,4 +1,5 @@
 <script>
+  import { tick } from 'svelte';
   import Hanzi from '$lib/components/Hanzi.svelte';
   import ExitButton from '$lib/components/ExitButton.svelte';
   import { RefreshCw, AudioLines } from '@lucide/svelte';
@@ -18,6 +19,31 @@
 
   const examples = $derived(current ? sentencesFor(data, current.w) : []);
   const example = $derived(examples.length ? examples[run.exampleAt % examples.length] : null);
+
+  /**
+   * Reveal the answer and slide the word to its new spot.
+   *
+   * Before the reveal the word is centred on its own; after it, the word and
+   * the answer are centred together, so the word ends up higher. Layout
+   * changes can't be animated directly, so this measures the word before and
+   * after, then plays a short slide between the two positions.
+   */
+  let anchor = $state(null);
+
+  async function reveal() {
+    const before = anchor?.getBoundingClientRect().top;
+    run.revealed = true;
+    await tick();
+    const after = anchor?.getBoundingClientRect().top;
+    if (before == null || after == null) return;
+    const shift = before - after;
+    if (Math.abs(shift) < 1) return;
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    anchor.animate(
+      [{ transform: `translateY(${shift}px)` }, { transform: 'none' }],
+      { duration: 200, easing: 'cubic-bezier(0.2, 0.8, 0.2, 1)' }
+    );
+  }
 
   function grade(rating) {
     const word = current;
@@ -50,16 +76,24 @@
     <!-- fixed height so revealing an answer never shifts the card -->
     <p class="origin">{originLabel(current)}</p>
 
-    <div class="card pop flash">
+    <div class="card pop flash" class:revealed={run.revealed}>
+      <!-- the middle row holds what's shown first, so it stays centred; the
+           answer appears in the row below without pushing it -->
+      <!-- Centred on its own first; once revealed, the word and the answer are
+           centred together, and reveal() slides the word up into place. -->
       {#if front}
-        <div class="zh flash-zh"><Hanzi text={current.w} py={current.p} showPinyin={run.revealed} /></div>
+        <div class="flash-main zh flash-zh with-py">
+          <span class="flash-anchor" bind:this={anchor}><Hanzi text={current.w} py={current.p} showPinyin={run.revealed} /></span>
+        </div>
         {#if run.revealed}
-          <div class="flash-en">{current.d}</div>
+          <div class="flash-more"><div class="flash-en">{current.d}</div></div>
         {/if}
       {:else}
-        <div class="flash-prompt">{current.d}</div>
+        <div class="flash-main flash-prompt">
+          <span class="flash-anchor" bind:this={anchor}>{current.d}</span>
+        </div>
         {#if run.revealed}
-          <div class="zh flash-zh"><Hanzi text={current.w} py={current.p} /></div>
+          <div class="flash-more"><div class="zh flash-zh"><Hanzi text={current.w} py={current.p} /></div></div>
         {/if}
       {/if}
 
@@ -97,7 +131,7 @@
     {/if}
 
     {#if !run.revealed}
-      <button class="btn primary" onclick={() => (run.revealed = true)}>Show answer</button>
+      <button class="btn primary" onclick={reveal}>Show answer</button>
     {:else}
       <div class="stack grade">
         <div class="row">
