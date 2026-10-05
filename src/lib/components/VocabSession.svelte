@@ -1,4 +1,7 @@
 <script>
+  import ExitButton from '$lib/components/ExitButton.svelte';
+  import { RefreshCw, AudioLines } from '@lucide/svelte';
+  import { base } from '$app/paths';
   import { sentencesFor, originLabel } from '$lib/data.js';
   import { progress } from '$lib/progress.svelte.js';
   import { session } from '$lib/session.svelte.js';
@@ -37,11 +40,11 @@
 {#if current}
   <div class="page">
     <div class="session-head">
+      <ExitButton {onexit} />
       <div class="bar grow">
         <i style="width:{((run.startedWith - run.queue.length) / run.startedWith) * 100}%"></i>
       </div>
       <span class="muted">{run.queue.length} left</span>
-      <button class="btn ghost sm auto" onclick={onexit}>Exit</button>
     </div>
 
     <!-- fixed height so revealing an answer never shifts the card -->
@@ -63,7 +66,13 @@
       {/if}
 
       {#if run.revealed || front}
-        <button class="speak" aria-label="Play audio" onclick={() => speak(current.w)}>♪</button>
+        <button class="speak" aria-label="Play audio" onclick={() => speak(current.w)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
+      {/if}
+
+      <!-- after the reveal only, since the word page would give the answer away.
+           The session is kept in the store, so coming back resumes this card. -->
+      {#if run.revealed}
+        <a class="flash-link" href="{base}/word/{encodeURIComponent(current.w)}">View word →</a>
       {/if}
     </div>
 
@@ -76,14 +85,14 @@
             <p class="example-en">{example.en}</p>
           </div>
           <div class="example-tools">
-            <button class="speak" aria-label="Play sentence" onclick={() => speak(example.zh)}>♪</button>
+            <button class="speak" aria-label="Play sentence" onclick={() => speak(example.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
             {#if examples.length > 1}
               <button
                 class="speak"
                 aria-label="Another sentence"
                 title="{(run.exampleAt % examples.length) + 1} of {examples.length}"
                 onclick={() => (run.exampleAt += 1)}
-              >↻</button>
+              ><RefreshCw size={18} strokeWidth={2.25} aria-hidden="true" /></button>
             {/if}
           </div>
         </div>

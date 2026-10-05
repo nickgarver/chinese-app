@@ -80,7 +80,7 @@
     ]
   },
   "food": {
-    "label": "Food & drink",
+    "label": "Food",
     "emoji": "🍜",
     "seeds": [
       "吃",
@@ -225,7 +225,7 @@
     ]
   },
   "shopping": {
-    "label": "Shopping & money",
+    "label": "Shopping",
     "emoji": "🛒",
     "seeds": [
       "买",
@@ -284,7 +284,7 @@
     ]
   },
   "weather": {
-    "label": "Weather & nature",
+    "label": "Weather",
     "emoji": "🌤️",
     "seeds": [
       "天气",
@@ -355,7 +355,7 @@
     ]
   },
   "family": {
-    "label": "Family & people",
+    "label": "Family",
     "emoji": "👨‍👩‍👧",
     "seeds": [
       "爸爸",
@@ -414,7 +414,7 @@
     ]
   },
   "body": {
-    "label": "Body & health",
+    "label": "Health",
     "emoji": "🩺",
     "seeds": [
       "身体",
@@ -483,7 +483,7 @@
     ]
   },
   "time": {
-    "label": "Time & dates",
+    "label": "Time",
     "emoji": "🕐",
     "seeds": [
       "今天",
@@ -547,7 +547,7 @@
     ]
   },
   "travel": {
-    "label": "Travel & transport",
+    "label": "Travel",
     "emoji": "✈️",
     "seeds": [
       "去",
@@ -618,7 +618,7 @@
     ]
   },
   "home": {
-    "label": "Home & furniture",
+    "label": "Home",
     "emoji": "🏠",
     "seeds": [
       "家",
@@ -677,7 +677,7 @@
     ]
   },
   "work": {
-    "label": "Work & business",
+    "label": "Work",
     "emoji": "💼",
     "seeds": [
       "工作",
@@ -727,7 +727,7 @@
     ]
   },
   "school": {
-    "label": "School & study",
+    "label": "School",
     "emoji": "📚",
     "seeds": [
       "学习",
@@ -853,7 +853,7 @@
     ]
   },
   "communication": {
-    "label": "Talking & communication",
+    "label": "Communication",
     "emoji": "💬",
     "seeds": [
       "说",
@@ -909,7 +909,7 @@
     ]
   },
   "leisure": {
-    "label": "Sports & leisure",
+    "label": "Sports",
     "emoji": "⚽",
     "seeds": [
       "玩",
@@ -1008,7 +1008,7 @@
     ]
   },
   "numbers": {
-    "label": "Numbers & amounts",
+    "label": "Numbers",
     "emoji": "🔢",
     "seeds": [
       "一",

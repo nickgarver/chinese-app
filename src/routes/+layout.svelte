@@ -4,6 +4,7 @@
   // so a changed icon can't be served from cache, the URL carries the base
   // path automatically, and a wrong path is a build error not a silent 404.
   import favicon from '$lib/assets/favicon.ico';
+  import flag from '$lib/assets/flag.png';
   import { page } from '$app/stores';
   import { base } from '$app/paths';
   import { progress } from '$lib/progress.svelte.js';
@@ -25,7 +26,7 @@
     { href: '/', icon: '家', label: 'Home' },
     { href: '/practice', icon: '练', label: 'Practice' },
     { href: '/class', icon: '课', label: 'Class' },
-    { href: '/watch', icon: '影', label: 'Watch' },
+    { href: '/watch', icon: '看', label: 'Watch' },
     { href: '/search', icon: '查', label: 'Search' }
   ];
 
@@ -44,6 +45,10 @@
 </div>
 
 <nav class="tabs">
+  <!-- side rail only; hidden in the bottom bar -->
+  <div class="nav-brand" aria-hidden="true">
+    <img src={flag} alt="" />
+  </div>
   {#each tabs as t}
     <a href="{base}{t.href}" class:on={active === t.href}>
       <span class="ico zh">{t.icon}</span>

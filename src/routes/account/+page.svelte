@@ -178,9 +178,24 @@
   {/if}
 
   <div class="card">
-    <h2>Practice</h2>
+    <h2>Settings</h2>
 
-    <p class="label spaced">Highlight the practised word in sentences</p>
+    <p class="label spaced">Theme</p>
+    <div class="chips spaced">
+      {#each [['system', 'Match device'], ['light', 'Light'], ['dark', 'Dark']] as [value, label]}
+        <button class="chip" class:on={theme.mode === value} onclick={() => theme.set(value)}>
+          {label}
+        </button>
+      {/each}
+    </div>
+
+    <p class="label spaced">Sound FX</p>
+    <div class="chips spaced">
+      <button class="chip" class:on={sfx.enabled} onclick={() => sfx.set(true)}>On</button>
+      <button class="chip" class:on={!sfx.enabled} onclick={() => sfx.set(false)}>Off</button>
+    </div>
+
+    <p class="label spaced">Highlight the practiced word in sentences</p>
     <div class="chips spaced">
       <button class="chip" class:on={prefs.highlight} onclick={() => prefs.set('highlight', true)}>On</button>
       <button class="chip" class:on={!prefs.highlight} onclick={() => prefs.set('highlight', false)}>Off</button>
@@ -194,17 +209,6 @@
   </div>
 
   <div class="card">
-    <h2>Appearance</h2>
-    <div class="chips spaced">
-      {#each [['system', 'Match device'], ['light', 'Light'], ['dark', 'Dark']] as [value, label]}
-        <button class="chip" class:on={theme.mode === value} onclick={() => theme.set(value)}>
-          {label}
-        </button>
-      {/each}
-    </div>
-  </div>
-
-  <div class="card">
     <h2>Audio</h2>
     <p class="note tight">
       {hasVoice()
@@ -214,11 +218,5 @@
     <button class="btn sm spaced" onclick={() => speak('你好，这是中文发音测试。')}>
       Test the voice
     </button>
-
-    <p class="label spaced">Answer sounds</p>
-    <div class="chips spaced">
-      <button class="chip" class:on={sfx.enabled} onclick={() => sfx.set(true)}>On</button>
-      <button class="chip" class:on={!sfx.enabled} onclick={() => sfx.set(false)}>Off</button>
-    </div>
   </div>
 </div>

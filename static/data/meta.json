@@ -25,7 +25,7 @@
     },
     {
       "key": "food",
-      "label": "Food & drink",
+      "label": "Food",
       "emoji": "🍜",
       "count": 57
     },
@@ -37,55 +37,55 @@
     },
     {
       "key": "shopping",
-      "label": "Shopping & money",
+      "label": "Shopping",
       "emoji": "🛒",
       "count": 32
     },
     {
       "key": "weather",
-      "label": "Weather & nature",
+      "label": "Weather",
       "emoji": "🌤️",
       "count": 63
     },
     {
       "key": "family",
-      "label": "Family & people",
+      "label": "Family",
       "emoji": "👨‍👩‍👧",
       "count": 40
     },
     {
       "key": "body",
-      "label": "Body & health",
+      "label": "Health",
       "emoji": "🩺",
       "count": 50
     },
     {
       "key": "time",
-      "label": "Time & dates",
+      "label": "Time",
       "emoji": "🕐",
       "count": 62
     },
     {
       "key": "travel",
-      "label": "Travel & transport",
+      "label": "Travel",
       "emoji": "✈️",
       "count": 56
     },
     {
       "key": "home",
-      "label": "Home & furniture",
+      "label": "Home",
       "emoji": "🏠",
       "count": 45
     },
     {
       "key": "work",
-      "label": "Work & business",
+      "label": "Work",
       "emoji": "💼",
       "count": 43
     },
     {
       "key": "school",
-      "label": "School & study",
+      "label": "School",
       "emoji": "📚",
       "count": 58
     },
@@ -97,13 +97,13 @@
     },
     {
       "key": "communication",
-      "label": "Talking & communication",
+      "label": "Communication",
       "emoji": "💬",
       "count": 46
     },
     {
       "key": "leisure",
-      "label": "Sports & leisure",
+      "label": "Sports",
       "emoji": "⚽",
       "count": 40
     },
@@ -115,7 +115,7 @@
     },
     {
       "key": "numbers",
-      "label": "Numbers & amounts",
+      "label": "Numbers",
       "emoji": "🔢",
       "count": 49
     },

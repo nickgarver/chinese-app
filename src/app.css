@@ -1,3 +1,5 @@
+@import '@fontsource-variable/nunito';
+
 /* ============================================================
    TUNABLES — almost everything you'd want to nudge lives here.
    ============================================================ */
@@ -19,6 +21,17 @@
 
   /* shape */
   --r: 10px;
+
+  /* buttons: rounded, with a solid ledge underneath that collapses on press */
+  --r-btn: 1em;
+  --ledge: 3px;
+  --ledge-sm: 3px;
+  --edge: #e5e5e5;
+  --fw-btn: 800;
+  --fw-example: 300;
+  --bar-h: 10px;
+  --btn-case: none;        /* set to uppercase for all-caps buttons */
+  --btn-tracking: 0.01em;
   --gap: 12px;
   --page-pad: 14px;
   --page-max: 560px;
@@ -27,11 +40,14 @@
   --pop: 3px;
   --tab-h: 64px;
   --nav-w: 180px;
-  --avatar-bg: #6b1f35;
+  --nav-fs: 16px;          /* side rail label size */
+  --avatar-bg: #AD4D49;
+  --avatar-ledge: #8A3E3A;   /* ~20% darker than the avatar */
   --avatar-ink: #f7eef1;
 
   /* type */
-  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font: 'Nunito Variable', 'Nunito', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --fw-body: 600;
   --font-zh: "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC",
              "Source Han Sans SC", "Microsoft YaHei", sans-serif;
   --fs-body: 16px;
@@ -39,6 +55,15 @@
   --fs-label: 13px;
   --h1: 20px;
   --header-h: 52px;
+  --header-gap: 0.5rem;      /* space above and below the header bar */
+  --after-header: 4px;       /* header bar to the first card */
+
+  /* side rail geometry; also used to line the first link up with the
+     first card, so changing any of these keeps them level */
+  --rail-pad: 8px;
+  --rail-gap: 2px;
+  --brand-h: 31px;           /* flag height (40px wide at its aspect ratio) */
+  --brand-gap: 1rem;         /* flag to first link */
 
   /* flashcard */
   --flash-min-h: 190px;
@@ -111,8 +136,7 @@
   --choice-pad: 12px 14px;
 
   /* the practised word inside a sentence */
-  --key-color: var(--accent);
-  --key-bg: color-mix(in srgb, var(--accent) 10%, transparent);
+  --key-color: #226fff;
 
   /* play cue over clips */
   --play-size: 64px;
@@ -150,11 +174,15 @@
     --warn-ink: #16161a;
     --soft: #26262e;
     --shadow: #000000;
+    --key-color: #6fa1ff;
+    --edge: #34343d;
     color-scheme: dark;
   }
 }
 
 :root[data-theme="dark"] {
+  --key-color: #6fa1ff;
+  --edge: #34343d;
   --ink: #ecece8;
   --paper: #121215;
   --card: #1c1c21;
@@ -181,13 +209,13 @@ html, body { height: 100%; margin: 0; }
 body {
   background: var(--paper);
   color: var(--ink);
-  font: var(--fs-body)/1.45 var(--font);
+  font: var(--fw-body) var(--fs-body)/1.45 var(--font);
   overscroll-behavior-y: contain;
 }
 
 .zh { font-family: var(--font-zh); line-height: 1.5; }
 
-h1, h2, h3 { margin: 0; font-weight: 700; letter-spacing: -0.01em; }
+h1, h2, h3 { margin: 0; font-weight: 800; letter-spacing: -0.01em; }
 h1 { font-size: var(--h1); letter-spacing: -0.02em; }
 h2 { font-size: 19px; }
 
@@ -198,12 +226,17 @@ a { color: inherit; }
    LAYOUT
    ============================================================ */
 .app {
-  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
   padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: calc(var(--tab-h) + env(safe-area-inset-bottom, 0px));
 }
 
 .page {
+  flex: 1 0 auto;
+  width: 100%;
   max-width: var(--page-max);
   margin: 0 auto;
   padding: 18px var(--page-pad) 28px;
@@ -252,33 +285,36 @@ a { color: inherit; }
   line-height: 1;
   background: var(--avatar-bg);
   color: var(--avatar-ink);
-  border: var(--border-w) solid var(--line);
+  border: var(--border-w) solid var(--avatar-bg);
   border-radius: 50%;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
-  box-shadow: 2px 2px 0 var(--shadow);
+  box-shadow: 0 var(--ledge-sm) 0 var(--avatar-ledge);
+  transition: transform 0.06s, box-shadow 0.06s;
 }
 
 .profile > span { display: block; line-height: 1; }
 
-.profile:active { transform: translate(2px, 2px); box-shadow: none; }
+.profile:active { transform: translateY(var(--ledge-sm)); box-shadow: none; }
 
 @media (hover: hover) {
   .profile:hover { background: color-mix(in srgb, var(--avatar-bg) 82%, #fff); }
 }
+
+.nav-brand { display: none; }
 
 /* ============================================================
    PRIMITIVES
    ============================================================ */
 .card {
   background: var(--card);
-  border: var(--border-w) solid var(--line);
+  border: 0;
   border-radius: var(--r);
   padding: var(--card-pad);
 }
 
-.card.pop { box-shadow: var(--pop) var(--pop) 0 var(--shadow); }
+.card.pop { box-shadow: none; }
 .card.tint { background: var(--soft); }
 .card.flush { padding: 0; overflow: hidden; }
 
@@ -287,40 +323,97 @@ a { color: inherit; }
   width: 100%;
   padding: var(--btn-pad);
   background: var(--card);
-  border: var(--border-w) solid var(--line);
-  border-radius: var(--r);
-  font-weight: 700;
+  color: var(--accent);
+  border: var(--border-w) solid var(--edge);
+  border-radius: var(--r-btn);
+  font-weight: var(--fw-btn);
+  letter-spacing: var(--btn-tracking);
+  text-transform: var(--btn-case);
   text-align: center;
   text-decoration: none;
-  box-shadow: var(--pop) var(--pop) 0 var(--shadow);
-  transition: transform .04s, box-shadow .04s;
+  /* --btn-ledge is the ledge colour; each variant sets its own */
+  box-shadow: 0 var(--ledge) 0 var(--btn-ledge, var(--edge));
+  transition: transform 0.06s, box-shadow 0.06s, background 0.12s, filter 0.12s;
 }
 
-.btn:active { transform: translate(var(--pop), var(--pop)); box-shadow: 0 0 0 var(--shadow); }
-.btn:disabled { opacity: .4; box-shadow: none; cursor: not-allowed; }
-.btn.primary { background: var(--accent); color: var(--accent-ink); }
-.btn.good { background: var(--good); color: #fff; }
-.btn.bad  { background: var(--bad);  color: #fff; }
-.btn.warn { background: var(--warn); color: var(--warn-ink); }
-.btn.ghost { box-shadow: none; background: transparent; font-weight: 600; padding: var(--btn-ghost-pad); }
-.btn.sm { padding: var(--btn-sm-pad); font-size: 14px; box-shadow: 2px 2px 0 var(--shadow); }
+.btn:active { transform: translateY(var(--ledge)); box-shadow: 0 0 0 var(--btn-ledge, var(--edge)); }
+.btn:disabled { opacity: 0.45; box-shadow: none; transform: none; cursor: not-allowed; }
+
+.btn.primary {
+  background: var(--accent); border-color: var(--accent); color: var(--accent-ink);
+  --btn-ledge: color-mix(in srgb, var(--accent) 70%, #000);
+}
+.btn.good {
+  background: var(--good); border-color: var(--good); color: #fff;
+  --btn-ledge: color-mix(in srgb, var(--good) 70%, #000);
+}
+.btn.bad {
+  background: var(--bad); border-color: var(--bad); color: #fff;
+  --btn-ledge: color-mix(in srgb, var(--bad) 70%, #000);
+}
+.btn.warn {
+  background: var(--warn); border-color: var(--warn); color: var(--warn-ink);
+  --btn-ledge: color-mix(in srgb, var(--warn) 72%, #000);
+}
+
+/* answer options read as content, so they use body ink rather than accent */
+.btn.choice { color: var(--ink); }
+
+.btn.ghost {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+  color: var(--ink);
+  padding: var(--btn-ghost-pad);
+}
+.btn.ghost:active { transform: none; }
+
+.btn.sm { --ledge: var(--ledge-sm); padding: var(--btn-sm-pad); font-size: 14px; }
 .btn.auto { width: auto; }
+
+/* icon + label, e.g. the session Exit button */
+.btn.with-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.btn.exit { padding-left: 4px; padding-right: 10px; }
+
+@media (hover: hover) {
+  .btn:not(:disabled):not(.ghost):hover { filter: brightness(1.04); }
+  .btn:not(.primary):not(.good):not(.bad):not(.warn):not(.ghost):not(:disabled):hover {
+    background: color-mix(in srgb, var(--soft) 55%, var(--card));
+  }
+  .btn.ghost:hover { background: color-mix(in srgb, var(--ink) 6%, transparent); }
+}
 
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 
 .chip {
   padding: var(--chip-pad);
   background: var(--card);
-  border: var(--border-w) solid var(--line);
-  border-radius: 999px;
+  color: var(--ink);
+  border: var(--border-w) solid var(--edge);
+  border-radius: 1em;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 700;
+  box-shadow: 0 var(--ledge-sm) 0 var(--chip-ledge, var(--edge));
+  transition: transform 0.06s, box-shadow 0.06s, background 0.12s;
 }
 
-.chip.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip:active { transform: translateY(var(--ledge-sm)); box-shadow: 0 0 0 var(--edge); }
+
+/* selected: tinted fill, accent outline and ledge */
+.chip.on {
+  background: color-mix(in srgb, var(--accent) 13%, var(--card));
+  border-color: var(--accent);
+  color: var(--accent);
+  --chip-ledge: var(--accent);
+}
 .chip.tight { padding: var(--chip-tight-pad); font-size: var(--fs-small); }
-.chip.badge { padding: 4px 10px; font-size: 12px; }
-.chip:disabled { opacity: .3; cursor: not-allowed; }
+.chip.badge { padding: 4px 10px; font-size: 12px; box-shadow: none; }
+.chip:disabled { opacity: .3; cursor: not-allowed; box-shadow: none; transform: none; }
 .chip .emoji { margin-right: 5px; }
 
 .row { display: flex; gap: var(--gap); }
@@ -342,16 +435,25 @@ a { color: inherit; }
   font: inherit;
   background: var(--card);
   color: var(--ink);
-  border: var(--border-w) solid var(--line);
+  border: var(--border-w) solid var(--edge);
   border-radius: var(--r);
 }
 
 .field::placeholder { color: var(--muted); }
 .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; word-break: break-all; }
 
-.bar { height: 6px; background: var(--soft); border-radius: 999px; overflow: hidden; }
+.bar { height: var(--bar-h); background: var(--soft); border-radius: 999px; overflow: hidden; }
 .bar > i { display: block; height: 100%; background: var(--accent); transition: width .2s; }
 .bar.grow { flex: 1; }
+
+.bar-row { display: flex; align-items: center; gap: 12px; }
+.bar-count {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
 
 .speak {
   width: var(--speak-size);
@@ -360,13 +462,18 @@ a { color: inherit; }
   display: grid;
   place-items: center;
   background: var(--card);
-  border: var(--border-w) solid var(--line);
+  color: var(--accent);
+  border: var(--border-w) solid var(--edge);
   border-radius: 50%;
-  font-size: 19px;
-  box-shadow: 2px 2px 0 var(--shadow);
+  box-shadow: 0 var(--ledge-sm) 0 var(--edge);
+  transition: transform 0.06s, box-shadow 0.06s, background 0.12s;
 }
 
-.speak:active { transform: translate(2px, 2px); box-shadow: none; }
+.speak:active { transform: translateY(var(--ledge-sm)); box-shadow: 0 0 0 var(--edge); }
+
+@media (hover: hover) {
+  .speak:hover { background: color-mix(in srgb, var(--soft) 55%, var(--card)); }
+}
 .speak.center { margin: 14px auto 0; }
 
 /* ============================================================
@@ -377,7 +484,9 @@ a { color: inherit; }
    badge and avatar on one optical centre line whatever their heights. */
 .topbar {
   width: 100%;
-  padding-top: env(safe-area-inset-top, 0px);
+  /* .app already pads for the notch, so this only adds the gap itself */
+  padding-top: var(--header-gap);
+  padding-bottom: var(--header-gap);
 }
 
 .topbar-inner {
@@ -395,7 +504,7 @@ a { color: inherit; }
 .topbar-end { display: flex; align-items: center; gap: 10px; }
 
 /* the bar already supplies the top spacing */
-.topbar + .page { padding-top: 4px; }
+.topbar + .page { padding-top: var(--after-header); }
 
 
 /* comprehension badge; --rank is set inline from the tier colour */
@@ -404,12 +513,12 @@ a { color: inherit; }
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 5px 12px;
+  padding: 3px;
   min-width: 78px;
   border: var(--border-w) solid var(--rank, var(--line));
   border-radius: var(--r);
   background: color-mix(in srgb, var(--rank, var(--accent)) 13%, transparent);
-  box-shadow: 2px 2px 0 color-mix(in srgb, var(--rank, var(--line)) 45%, transparent);
+  box-shadow: 0 var(--ledge-sm) 0 var(--rank, var(--line));
 }
 
 .rank-pct { font-size: 17px; font-weight: 700; line-height: 1.1; color: var(--rank); }
@@ -437,6 +546,8 @@ a { color: inherit; }
 .session-head { display: flex; align-items: center; gap: var(--gap); }
 
 .flash {
+  position: relative;
+  padding-bottom: 38px;
   min-height: var(--flash-min-h);
   display: flex;
   flex-direction: column;
@@ -450,6 +561,28 @@ a { color: inherit; }
 .flash-py { font-size: var(--flash-py); color: var(--muted); }
 .flash-en { font-size: var(--flash-en); font-weight: 600; }
 .flash-prompt { font-size: var(--flash-prompt); font-weight: 600; }
+/* View word, pinned to the flashcard's bottom-right corner */
+.flash-link {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--soft);
+  text-decoration: none;
+  transition: background 0.13s ease, color 0.13s ease;
+}
+
+@media (hover: hover) {
+  .flash-link:hover {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+}
+
 /* reserved height, so revealing an answer never moves the card */
 .origin {
   height: var(--origin-h);
@@ -468,15 +601,20 @@ a { color: inherit; }
 
 .example { display: flex; gap: var(--gap); align-items: flex-start; }
 .example > .body { flex: 1; min-width: 0; }
-.example-zh { font-size: var(--sentence-zh); margin: 0; }
-.example-py { font-size: var(--sentence-py); color: var(--muted); margin: 3px 0 0; }
-.example-en { font-size: 14px; color: var(--muted); margin: 5px 0 0; }
+.example-zh { font-size: var(--sentence-zh); font-weight: var(--fw-example); margin: 0; }
+.example-py { font-size: var(--sentence-py); font-weight: var(--fw-example); color: var(--muted); margin: 3px 0 0; }
+.example-en { font-size: 14px; font-weight: var(--fw-example); color: var(--muted); margin: 5px 0 0; }
 .example + .example { padding-top: var(--gap); border-top: 1px solid var(--soft); }
 
-.prompt-zh { font-size: var(--sentence-lg); margin: 0; flex: 1; }
+.prompt-zh { font-size: var(--sentence-lg); font-weight: var(--fw-example); margin: 0; flex: 1; }
+.prompt-en { font-size: var(--flash-en); font-weight: var(--fw-example); margin: 0; }
+.prompt-row { align-items: flex-start; }
+
+/* normal speed above, slow (turtle) below, same size */
+.speak-stack { display: flex; flex-direction: column; gap: 8px; }
 .choice { text-align: left; }
 .choice.faded { opacity: .5; }
-.choice-zh { font-size: 19px; }
+.choice-zh { font-size: 19px; font-weight: var(--fw-example); }
 
 /* ============================================================
    WORD DETAIL
@@ -533,7 +671,7 @@ a { color: inherit; }
   gap: 10px;
   padding: 13px 14px;
   background: var(--card);
-  border: var(--border-w) solid var(--line);
+  border: 0;
   border-radius: var(--r);
   text-align: left;
 }
@@ -541,7 +679,7 @@ a { color: inherit; }
 .drawer .chev { font-size: 19px; line-height: 1; color: var(--muted); transition: transform .15s; }
 .drawer .chev.open { transform: rotate(90deg); }
 .drawer .name { font-weight: 700; flex: 0 0 auto; }
-.drawer .bar { flex: 1; min-width: 40px; max-width: 140px; }
+.drawer .bar { height: 6px; flex: 1; min-width: 40px; max-width: 140px; }
 .drawer .tally { font-size: 12px; margin-left: auto; white-space: nowrap; color: var(--muted); }
 
 .list {
@@ -600,7 +738,7 @@ a { color: inherit; }
 .clip-media {
   position: relative;
   aspect-ratio: 16 / 9;
-  border: var(--border-w) solid var(--line);
+  border: 0;
   border-radius: var(--r);
   overflow: hidden;
   background: #000;
@@ -649,6 +787,13 @@ a { color: inherit; }
 
 .clip-row.controls { flex-direction: row; }
 .clip-row.controls > .btn { flex: 1; }
+.clip-row.controls > .btn.ghost { background: var(--soft); }
+
+@media (hover: hover) {
+  .clip-row.controls > .btn.ghost:hover {
+    background: color-mix(in srgb, var(--soft) 80%, var(--ink));
+  }
+}
 
 .uses {
   display: flex;
@@ -667,33 +812,48 @@ a { color: inherit; }
   gap: var(--gap);
 }
 
-/* Play cue drawn over the video. pointer-events are off so every click lands
-   on the YouTube player underneath. :hover still works because the iframe
-   element itself is hovered in this document, and that bubbles to its
-   ancestors — so the cue can respond without intercepting anything. */
 .clip-play {
+  /* Permanently over the video so YouTube never takes a click: the whole
+     frame is one button that plays the clip from its start, exactly like
+     the button underneath. The icon shows only while nothing is playing. */
   position: absolute;
   inset: 0;
   display: grid;
   place-items: center;
-  pointer-events: none;
   z-index: 2;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
 }
 
 .clip-play svg {
   width: var(--play-size);
   height: var(--play-size);
   filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));
-  transition: transform 0.15s ease;
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.18s ease, transform 0.18s ease;
 }
 
+.clip-play.idle svg { opacity: 1; transform: scale(1); }
+
 .clip-play circle { fill: var(--play-bg); transition: fill 0.15s ease; }
-.clip-play path { fill: var(--play-fill); transition: fill 0.15s ease; }
+.clip-play .glyph { fill: var(--play-fill); transition: fill 0.15s ease; }
+
+.clip-play .ring {
+  fill: none;
+  stroke: var(--play-fill);
+  stroke-width: 3.5;
+  stroke-linecap: round;
+  transition: stroke 0.15s ease;
+}
 
 @media (hover: hover) {
-  .clip-media:hover .clip-play circle { fill: var(--play-bg-hover); }
-  .clip-media:hover .clip-play path { fill: var(--play-fill-hover); }
-  .clip-media:hover .clip-play svg { transform: scale(1.06); }
+  .clip-play.idle:hover circle { fill: var(--play-bg-hover); }
+  .clip-play.idle:hover .glyph { fill: var(--play-fill-hover); }
+  .clip-play.idle:hover .ring { stroke: var(--play-fill-hover); }
+  .clip-play.idle:hover svg { transform: scale(1.06); }
 }
 
 .uses-word { font-size: 26px; font-weight: 600; margin: 0; }
@@ -721,16 +881,110 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
 
 .key {
   color: var(--key-color);
-  background: var(--key-bg);
+  background: none;
+}
+
+/* ============================================================
+   ABOUT
+   ============================================================ */
+.prose p { margin: 10px 0 0; line-height: 1.6; }
+.prose h2 + p { margin-top: 8px; }
+.prose a { color: var(--accent); }
+
+.about-list { margin: 10px 0 0; display: grid; gap: 12px; }
+.about-list dt { font-weight: 700; }
+.about-list dd { margin: 2px 0 0; color: var(--muted); line-height: 1.5; }
+
+/* search box with a leading icon */
+.search-field { position: relative; display: block; }
+.search-field svg {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--muted);
+  pointer-events: none;
+}
+.search-field .field { padding-left: 42px; }
+
+/* ============================================================
+   CONFIRM DIALOG
+   ============================================================ */
+dialog.confirm {
+  width: min(360px, calc(100vw - 32px));
+  padding: 0;
+  border: 0;
+  border-radius: 1.25em;
+  background: var(--card);
+  color: var(--ink);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.28);
+}
+
+dialog.confirm::backdrop {
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(2px);
+}
+
+dialog.confirm[open] { animation: confirm-in 0.16s ease-out; }
+
+@keyframes confirm-in {
+  from { opacity: 0; transform: translateY(8px) scale(0.98); }
+  to { opacity: 1; transform: none; }
+}
+
+.confirm-body { padding: 22px 20px 20px; }
+.confirm-body h2 { font-size: 19px; }
+
+.confirm-actions {
+  display: flex;
+  gap: var(--gap);
+  margin-top: 20px;
+}
+
+.confirm-actions > .btn { flex: 1; }
+
+/* ============================================================
+   FOOTER (home only)
+   ============================================================ */
+.site-footer {
+  /* margin-top:auto pushes it to the bottom of the page column, which now
+     fills the viewport, so short pages don't leave it floating mid-screen */
+  margin-top: auto;
+  padding: 18px 0 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  color: var(--muted);
+  opacity: 0.7;
+  font-size: 12px;
+}
+
+.footer-icons { display: flex; align-items: center; gap: 12px; }
+
+.footer-icon {
+  display: inline-flex;
+  color: inherit;
+  transition: color 0.13s ease;
+}
+
+.footer-credit { margin: 0; }
+
+.footer-credit a {
+  color: inherit;
   font-weight: 600;
-  border-radius: 4px;
-  padding: 0 2px;
+  text-decoration: none;
+}
+
+@media (hover: hover) {
+  .footer-icon[href]:hover,
+  .footer-credit a:hover { color: var(--accent); }
 }
 
 /* ============================================================
    MISC
    ============================================================ */
-.callout { border-style: dashed; background: var(--soft); }
+.callout { border: var(--border-w) dashed var(--edge); background: var(--soft); }
 .callout.good { border-color: var(--good); border-style: solid; }
 .callout.bad { border-color: var(--bad); color: var(--bad); }
 .hidden-input { display: none; }
@@ -848,34 +1102,42 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
 /*
    Left rail.
 
-   The content column is centred on the viewport and the rail sits outside it,
-   so this needs room for the column plus a clear rail either side. At an
-   880px column and a 180px rail that works out to about 1300px. Below it the
-   bottom bar stays, because squeezing a rail in would mean pushing the column
-   off-centre, which is the thing being fixed.
+   On for any landscape screen 1024px or wider (iPad landscape, laptops), and
+   any screen 1300px or wider. Portrait keeps the bottom bar — that includes
+   the 12.9" iPad Pro, which is 1024px wide in portrait.
+
+   Between 1024 and 1300 there isn't room for a centred column with a rail on
+   both sides, so the rail sits at the left edge and the column centres in the
+   space that's left. The 1300px block below switches to the column centred
+   on the whole screen.
 */
-@media (min-width: 1300px) {
+@media (min-width: 1024px) and (orientation: landscape), (min-width: 1300px) {
   .app {
     padding-bottom: 28px;
+    padding-left: calc(var(--nav-w) + 24px);
   }
 
   /* A floating list rather than a full-height bar: no panel background,
      no divider, sized to its contents and parked near the top. */
   .tabs {
-    top: env(safe-area-inset-top, 0px);
+    /* first link lines up with the first card: header gap above and below
+       the bar, the bar itself, then the gap to the first card — minus the
+       rail's own padding, the flag, and the spacing under it */
+    top: calc(env(safe-area-inset-top, 0px)
+      + var(--header-gap) * 2 + var(--header-h) + var(--after-header)
+      - var(--rail-pad) - var(--brand-h) - var(--brand-gap) - var(--rail-gap));
     bottom: auto;
     right: auto;
-    /* immediately left of the centred column, never off the screen edge */
-    left: max(12px, calc((100vw - var(--page-max)) / 2 - var(--nav-w) - 16px));
+    left: 12px;
     width: var(--nav-w);
     height: auto;
     grid-template-columns: 1fr;
     grid-auto-rows: max-content;
-    gap: 2px;
+    gap: var(--rail-gap);
     background: none;
     border: none;
     border-radius: 1em;
-    padding: 8px;
+    padding: var(--rail-pad);
   }
 
   .tabs a {
@@ -883,15 +1145,15 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
     flex-direction: row;
     justify-content: flex-start;
     gap: 12px;
-    padding: 10px 13px;
+    padding: 11px 1rem;
     border-radius: 0.7em;
-    font-size: 14.5px;
+    font-size: var(--nav-fs);
     transition: background 0.13s ease, color 0.13s ease;
   }
 
   .tabs .ico {
-    font-size: 19px;
-    width: 22px;
+    font-size: calc(var(--nav-fs) + 3px);
+    width: 24px;
     text-align: center;
     transition: transform 0.13s ease;
   }
@@ -903,7 +1165,6 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
       color: var(--ink);
     }
 
-    .tabs a:hover .ico { transform: translateX(2px); }
 
     .tabs a.on:hover {
       background: color-mix(in srgb, var(--accent) 14%, transparent);
@@ -915,6 +1176,26 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
     background: color-mix(in srgb, var(--accent) 11%, transparent);
     color: var(--accent);
   }
+
+  /* flag above the links, a little muted */
+  .nav-brand {
+    display: block;
+    padding: 0 1rem var(--brand-gap);
+  }
+
+  .nav-brand img {
+    display: block;
+    height: var(--brand-h);
+    width: auto;
+    opacity: 0.78;
+    filter: saturate(0.85);
+  }
+}
+
+/* Wide enough to centre the column on the screen with the rail beside it. */
+@media (min-width: 1300px) {
+  .app { padding-left: 0; }
+  .tabs { left: max(12px, calc((100vw - var(--page-max)) / 2 - var(--nav-w) - 16px)); }
 }
 
 /* very wide: stop growing, the column stays readable */

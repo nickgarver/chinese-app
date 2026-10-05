@@ -1,4 +1,5 @@
 <script>
+  import { AudioLines } from '@lucide/svelte';
   import { base } from '$app/paths';
   import { page } from '$app/stores';
   import { loadData, sentencesFor, originLabel } from '$lib/data.js';
@@ -48,7 +49,7 @@
           <div class="zh hero-zh">{word.w}</div>
           <div class="hero-py">{word.p}</div>
           <div class="hero-en">{word.d}</div>
-          <button class="speak center" aria-label="Play" onclick={() => speak(word.w)}>♪</button>
+          <button class="speak center" aria-label="Play" onclick={() => speak(word.w)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
         </div>
 
         <div class="card word-progress">
@@ -65,7 +66,7 @@
               {/if}
             </dl>
           {:else}
-            <p class="note tight">Not practised yet.</p>
+            <p class="note tight">Not practiced yet.</p>
           {/if}
 
           <div class="word-actions">
@@ -123,7 +124,7 @@
                   <p class="example-py">{ex.py}</p>
                   <p class="example-en">{ex.en}</p>
                 </div>
-                <button class="speak" aria-label="Play sentence" onclick={() => speak(ex.zh)}>♪</button>
+                <button class="speak" aria-label="Play sentence" onclick={() => speak(ex.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
               </div>
             {/each}
           </div>

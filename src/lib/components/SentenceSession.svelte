@@ -1,4 +1,6 @@
 <script>
+  import ExitButton from '$lib/components/ExitButton.svelte';
+  import { AudioLines, Turtle } from '@lucide/svelte';
   import { session } from '$lib/session.svelte.js';
   import { progress } from '$lib/progress.svelte.js';
   import { RECOGNITION_WEIGHT } from '$lib/srs.js';
@@ -47,22 +49,27 @@
 {#if !run.done && round}
   <div class="page">
     <div class="session-head">
+      <ExitButton {onexit} />
       <div class="bar grow"><i style="width:{(run.at / run.rounds.length) * 100}%"></i></div>
       <span class="muted">{run.at + 1}/{run.rounds.length}</span>
-      <button class="btn ghost sm auto" onclick={onexit}>Exit</button>
     </div>
 
     <div class="card pop">
       {#if front === 'zh'}
-        <div class="inline">
+        <div class="inline prompt-row">
           <p class="zh prompt-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
-          <button class="speak" aria-label="Play" onclick={() => speak(round.item.zh)}>♪</button>
+          <div class="speak-stack">
+            <button class="speak" aria-label="Play" onclick={() => speak(round.item.zh)}>
+              <AudioLines size={20} strokeWidth={2.25} aria-hidden="true" />
+            </button>
+            <button class="speak" aria-label="Play slowly" title="Play slowly"
+              onclick={() => speak(round.item.zh, { slow: true })}>
+              <Turtle size={20} strokeWidth={2.25} aria-hidden="true" />
+            </button>
+          </div>
         </div>
-        <button class="btn ghost sm auto" onclick={() => speak(round.item.zh, { slow: true })}>
-          Play slowly
-        </button>
       {:else}
-        <p class="flash-en">{round.item.en}</p>
+        <p class="prompt-en">{round.item.en}</p>
       {/if}
       <p class="note">{round.item.level ? `HSK ${round.item.level}` : 'Class'}</p>
     </div>
@@ -93,7 +100,7 @@
               <p class="example-py">{round.item.py}</p>
               <p class="example-en">{round.item.en}</p>
             </div>
-            <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.zh)}>♪</button>
+            <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
           </div>
         </div>
         <UsesBox word={round.item.word} />

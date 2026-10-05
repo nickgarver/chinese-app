@@ -1,4 +1,5 @@
 <script>
+  import { Search } from '@lucide/svelte';
   import { base } from '$app/paths';
   import { onMount } from 'svelte';
   import { loadData } from '$lib/data.js';
@@ -116,14 +117,18 @@
 
 <div class="page">
 
-  <input
-    class="field"
-    type="search"
-    placeholder="Chinese, pinyin or English"
-    bind:value={query}
-    autocapitalize="none"
-    autocorrect="off"
-  />
+  <label class="search-field">
+    <Search size={18} strokeWidth={2.25} aria-hidden="true" />
+    <input
+      class="field"
+      type="search"
+      placeholder="Chinese, pinyin or English"
+      aria-label="Search words"
+      bind:value={query}
+      autocapitalize="none"
+      autocorrect="off"
+    />
+  </label>
 
   <div class="chips">
     {#each FILTERS as [key, label]}
