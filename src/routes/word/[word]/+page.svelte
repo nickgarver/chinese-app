@@ -1,4 +1,5 @@
 <script>
+  import Hanzi from '$lib/components/Hanzi.svelte';
   import { AudioLines } from '@lucide/svelte';
   import { base } from '$app/paths';
   import { page } from '$app/stores';
@@ -6,7 +7,6 @@
   import { cardStatus, isOverdue } from '$lib/srs.js';
   import { progress } from '$lib/progress.svelte.js';
   import { speak } from '$lib/tts.js';
-  import KeyText from '$lib/components/KeyText.svelte';
 
   const ready = loadData();
   const slug = $derived(decodeURIComponent($page.params.word));
@@ -46,8 +46,7 @@
       <!-- word and its progress side by side -->
       <div class="word-top">
         <div class="card pop word-card">
-          <div class="zh hero-zh">{word.w}</div>
-          <div class="hero-py">{word.p}</div>
+          <div class="zh hero-zh"><Hanzi text={word.w} py={word.p} /></div>
           <div class="hero-en">{word.d}</div>
           <button class="speak center" aria-label="Play" onclick={() => speak(word.w)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
         </div>
@@ -119,12 +118,13 @@
           <div class="stack spaced">
             {#each examples as ex}
               <div class="example">
+                <div class="example-tools">
+                  <button class="speak" aria-label="Play sentence" onclick={() => speak(ex.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
+                </div>
                 <div class="body">
-                  <p class="zh example-zh"><KeyText text={ex.zh} word={word.w} /></p>
-                  <p class="example-py">{ex.py}</p>
+                  <p class="zh example-zh"><Hanzi text={ex.zh} py={ex.py} word={word.w} /></p>
                   <p class="example-en">{ex.en}</p>
                 </div>
-                <button class="speak" aria-label="Play sentence" onclick={() => speak(ex.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
               </div>
             {/each}
           </div>

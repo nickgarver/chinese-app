@@ -561,6 +561,13 @@ a { color: inherit; }
 .flash-py { font-size: var(--flash-py); color: var(--muted); }
 .flash-en { font-size: var(--flash-en); font-weight: 600; }
 .flash-prompt { font-size: var(--flash-prompt); font-weight: 600; }
+/* audio button pinned to the flashcard's top-right corner, out of the flow */
+.flash > .speak {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+}
+
 /* View word, pinned to the flashcard's bottom-right corner */
 .flash-link {
   position: absolute;
@@ -597,21 +604,25 @@ a { color: inherit; }
   text-overflow: ellipsis;
 }
 
-.example-tools { display: flex; flex-direction: column; gap: 8px; }
+/* Audio and other buttons in a card float top-right in a row, and the text
+   wraps around them. A column of buttons beside the text used to set the
+   card's height whenever the text was shorter than the stack. */
+.example-tools {
+  float: right;
+  display: flex;
+  gap: 8px;
+  margin: 0 0 6px 12px;
+}
 
-.example { display: flex; gap: var(--gap); align-items: flex-start; }
-.example > .body { flex: 1; min-width: 0; }
+.example { display: flow-root; }   /* contains the floated buttons */
 .example-zh { font-size: var(--sentence-zh); font-weight: var(--fw-example); margin: 0; }
 .example-py { font-size: var(--sentence-py); font-weight: var(--fw-example); color: var(--muted); margin: 3px 0 0; }
-.example-en { font-size: 14px; font-weight: var(--fw-example); color: var(--muted); margin: 5px 0 0; }
+.example-en { font-size: 18px; font-weight: var(--fw-example); color: var(--muted); margin: 6px 0 0; }
 .example + .example { padding-top: var(--gap); border-top: 1px solid var(--soft); }
 
 .prompt-zh { font-size: var(--sentence-lg); font-weight: var(--fw-example); margin: 0; flex: 1; }
 .prompt-en { font-size: var(--flash-en); font-weight: var(--fw-example); margin: 0; }
-.prompt-row { align-items: flex-start; }
 
-/* normal speed above, slow (turtle) below, same size */
-.speak-stack { display: flex; flex-direction: column; gap: 8px; }
 .choice { text-align: left; }
 .choice.faded { opacity: .5; }
 .choice-zh { font-size: 19px; font-weight: var(--fw-example); }
@@ -838,6 +849,9 @@ a { color: inherit; }
 
 .clip-play.idle svg { opacity: 1; transform: scale(1); }
 
+/* before the first play, taps go through to the YouTube player underneath */
+.clip-play.passthrough { pointer-events: none; }
+
 .clip-play circle { fill: var(--play-bg); transition: fill 0.15s ease; }
 .clip-play .glyph { fill: var(--play-fill); transition: fill 0.15s ease; }
 
@@ -856,7 +870,7 @@ a { color: inherit; }
   .clip-play.idle:hover svg { transform: scale(1.06); }
 }
 
-.uses-word { font-size: 26px; font-weight: 600; margin: 0; }
+.uses-word { font-size: 26px; font-weight: 400; margin: 0; }
 .uses-go { font-size: 11.5px; color: var(--muted); margin: 2px 0 0; }
 a.uses { text-decoration: none; transition: background 0.13s ease; }
 
@@ -894,6 +908,50 @@ a.uses { text-decoration: none; transition: background 0.13s ease; }
 .about-list { margin: 10px 0 0; display: grid; gap: 12px; }
 .about-list dt { font-weight: 700; }
 .about-list dd { margin: 2px 0 0; color: var(--muted); line-height: 1.5; }
+
+/* ============================================================
+   CHINESE WITH ALIGNED PINYIN
+   Each character is a small stacked unit with its syllable underneath.
+   Units sit inline, so lines wrap between characters like normal text.
+   ============================================================ */
+.hz-line { display: inline; }
+
+.hz {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: top;
+  padding: 0 0.04em;
+  margin-bottom: 0.15em;
+}
+
+.hz-c { line-height: 1.2; }
+
+.hz-p {
+  margin-top: 1px;
+  font-family: var(--font);
+  font-size: clamp(12px, 0.5em, 20px);
+  font-weight: var(--fw-example);
+  line-height: 1.2;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* hidden but still holding its space, so revealing it doesn't move anything */
+.hz-hidden .hz-p { visibility: hidden; }
+
+.hz.key .hz-c,
+.hz.key .hz-p { color: var(--key-color); }
+
+/* used only if a line's pinyin doesn't match its characters one-to-one */
+.hz-fallback {
+  display: block;
+  margin-top: 3px;
+  font-family: var(--font);
+  font-size: var(--sentence-py);
+  font-weight: var(--fw-example);
+  color: var(--muted);
+}
 
 /* search box with a leading icon */
 .search-field { position: relative; display: block; }

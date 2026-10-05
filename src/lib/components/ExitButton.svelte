@@ -42,7 +42,7 @@
     <h2 id="exit-title">End this session?</h2>
     <p class="note tight">Answers you've already given are saved.</p>
     <div class="confirm-actions">
-      <button class="btn" onclick={leave}>End session</button>
+      <button class="btn bad" onclick={leave}>End session</button>
       <button class="btn primary" onclick={stay}>Keep going</button>
     </div>
   </div>

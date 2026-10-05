@@ -1,4 +1,5 @@
 <script>
+  import Hanzi from '$lib/components/Hanzi.svelte';
   import ExitButton from '$lib/components/ExitButton.svelte';
   import { AudioLines, Turtle } from '@lucide/svelte';
   import { session } from '$lib/session.svelte.js';
@@ -56,9 +57,8 @@
 
     <div class="card pop">
       {#if front === 'zh'}
-        <div class="inline prompt-row">
-          <p class="zh prompt-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
-          <div class="speak-stack">
+        <div class="example">
+          <div class="example-tools">
             <button class="speak" aria-label="Play" onclick={() => speak(round.item.zh)}>
               <AudioLines size={20} strokeWidth={2.25} aria-hidden="true" />
             </button>
@@ -67,6 +67,7 @@
               <Turtle size={20} strokeWidth={2.25} aria-hidden="true" />
             </button>
           </div>
+          <p class="zh prompt-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
         </div>
       {:else}
         <p class="prompt-en">{round.item.en}</p>
@@ -95,12 +96,13 @@
       <div class="reveal-row">
         <div class="card tint">
           <div class="example">
+            <div class="example-tools">
+              <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
+            </div>
             <div class="body">
-              <p class="zh example-zh"><KeyText text={round.item.zh} word={round.item.word} /></p>
-              <p class="example-py">{round.item.py}</p>
+              <p class="zh example-zh"><Hanzi text={round.item.zh} py={round.item.py} word={round.item.word} /></p>
               <p class="example-en">{round.item.en}</p>
             </div>
-            <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
           </div>
         </div>
         <UsesBox word={round.item.word} />

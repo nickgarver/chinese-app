@@ -1,4 +1,5 @@
 <script>
+  import Hanzi from '$lib/components/Hanzi.svelte';
   import ExitButton from '$lib/components/ExitButton.svelte';
   import { AudioLines } from '@lucide/svelte';
   import { session } from '$lib/session.svelte.js';
@@ -8,7 +9,6 @@
   import { sfx } from '$lib/sfx.svelte.js';
   import { speak } from '$lib/tts.js';
   import PageHeader from '$lib/components/PageHeader.svelte';
-  import KeyText from '$lib/components/KeyText.svelte';
   import UsesBox from '$lib/components/UsesBox.svelte';
 
   let { scope, onexit } = $props();
@@ -17,58 +17,95 @@
   const round = $derived(run.rounds[run.at] ?? null);
 
   /**
-   * Plays from YouTube rather than any downloaded copy, so the channel keeps
-   * the view. controls=0 hides the scrubber; cc_load_policy=0 keeps YouTube's
-   * own caption track off, which would otherwise show the answer.
+   * One YouTube player for the whole session, controlled by sending it
+   * commands, rather than reloading it for every play.
    *
-   * Two separate pieces of state:
-   *   plays    bumped only by the Play/Replay button. It's part of the iframe's
-   *            key, so bumping it remounts the player with autoplay on — the
-   *            tap is a user gesture, so the browser lets it play with sound.
-   *   started  switches the icon from play to replay and reveals the options
-   *            when they're set to stay hidden until the clip has played.
+   * Reloading with autoplay worked on desktop, where a tap anywhere on the
+   * page counts as permission to play with sound. iPhone only allows that if
+   * the tap lands on the player itself, and the overlay was covering it, so
+   * nothing could start the video. So now:
+   *
+   *   - Until the player has played once (`activated`), the overlay lets taps
+   *     through, and the first tap goes to YouTube directly. That's what
+   *     iPhone requires.
+   *   - After that the overlay catches every tap, and both it and the button
+   *     below seek to the clip's start and play. iPhone allows commands like
+   *     that once the player has been tapped.
+   *   - Each new round loads its clip into the same player, so that first-tap
+   *     permission carries over for the rest of the session.
+   *
+   * YouTube stops at `end` on its own for the first play; replays after a
+   * seek are stopped by a timer that starts when playback actually begins.
+   *
+   * controls=0 hides the scrubber; cc_load_policy=0 keeps YouTube's own
+   * caption track off, which would otherwise show the answer.
    */
-  const src = $derived(
-    round
-      ? `https://www.youtube-nocookie.com/embed/${round.item.video}` +
-        `?start=${Math.floor(round.item.start)}&end=${Math.ceil(round.item.end)}` +
-        `&autoplay=${run.plays > 0 ? 1 : 0}` +
-        `&controls=0&rel=0&iv_load_policy=3&disablekb=1&fs=0&playsinline=1` +
-        `&modestbranding=1&cc_load_policy=0&cc_lang_pref=` +
-        `&enablejsapi=1&origin=${encodeURIComponent(location.origin)}`
-      : ''
-  );
+  const first = run.rounds[run.at]?.item;
+  const src = first
+    ? `https://www.youtube-nocookie.com/embed/${first.video}` +
+      `?start=${Math.floor(first.start)}&end=${Math.ceil(first.end)}` +
+      `&autoplay=0&controls=0&rel=0&iv_load_policy=3&disablekb=1&fs=0&playsinline=1` +
+      `&modestbranding=1&cc_load_policy=0&cc_lang_pref=` +
+      `&enablejsapi=1&origin=${encodeURIComponent(location.origin)}`
+    : '';
 
-  /**
-   * Whether the clip is playing right now, which decides whether the play or
-   * replay icon shows over the video.
-   *
-   * YouTube reports its state to the page over postMessage once the embed has
-   * enablejsapi=1 and the page says it's listening. That's the same channel
-   * the official iframe API uses, without loading its script. If those
-   * messages never arrive, a timer based on the clip's length brings the
-   * replay icon back instead, and a later hard timer always does.
-   */
+  let frame = $state(null);
   let playing = $state(false);
+  let activated = $state(false);   // the player has played at least once
+  let tapHint = $state(false);     // shown if a play command didn't take
+
   let heardFromPlayer = false;
-  let softTimer;
-  let hardTimer;
+  let lastState = -1;
+  let cuedId = first?.id;
+  let softTimer, hardTimer, stopTimer, hintTimer;
 
   const clipSeconds = $derived(round ? Math.max(1, round.item.end - round.item.start) : 0);
 
   function stopTimers() {
     clearTimeout(softTimer);
     clearTimeout(hardTimer);
+    clearTimeout(stopTimer);
+    clearTimeout(hintTimer);
   }
 
-  function announce(frame) {
+  function command(func, args = []) {
     try {
-      frame.contentWindow?.postMessage(
-        JSON.stringify({ event: 'listening', id: 'clip', channel: 'widget' }), '*');
+      frame?.contentWindow?.postMessage(JSON.stringify({ event: 'command', func, args }), '*');
     } catch {
-      /* the player will still work; the timers cover the icon */
+      /* the player may not be ready yet */
     }
   }
+
+  function announce() {
+    try {
+      frame?.contentWindow?.postMessage(
+        JSON.stringify({ event: 'listening', id: 'clip', channel: 'widget' }), '*');
+    } catch {
+      /* the timers still cover the icon */
+    }
+  }
+
+  // stop a replay at the clip's end; starts when playback actually begins
+  function scheduleStop() {
+    clearTimeout(stopTimer);
+    stopTimer = setTimeout(() => command('pauseVideo'), (clipSeconds + 0.3) * 1000);
+  }
+
+  // load each new round's clip into the same player
+  $effect(() => {
+    const item = round?.item;
+    if (!item || item.id === cuedId) return;
+    cuedId = item.id;
+    playing = false;
+    tapHint = false;
+    lastState = -1;
+    stopTimers();
+    command('cueVideoById', [{
+      videoId: item.video,
+      startSeconds: Math.floor(item.start),
+      endSeconds: Math.ceil(item.end)
+    }]);
+  });
 
   $effect(() => {
     const onMessage = (e) => {
@@ -78,8 +115,21 @@
       const state = msg?.event === 'onStateChange' ? msg.info : msg?.info?.playerState;
       if (typeof state !== 'number') return;
       heardFromPlayer = true;
-      if (state === 1 || state === 3) playing = true;        // playing, buffering
-      else if (state === 0 || state === 2) playing = false;  // ended, paused
+
+      if (state === 1) {                     // playing
+        if (lastState !== 1) scheduleStop();
+        activated = true;
+        run.started = true;
+        tapHint = false;
+        clearTimeout(hintTimer);
+        playing = true;
+      } else if (state === 3) {              // buffering
+        playing = true;
+      } else if (state === 0 || state === 2) {   // ended, paused
+        playing = false;
+        clearTimeout(stopTimer);
+      }
+      lastState = state;
     };
     window.addEventListener('message', onMessage);
     return () => {
@@ -110,14 +160,32 @@
    * clip's start, never from the start of the whole video.
    */
   function play() {
-    run.plays += 1;
-    run.started = true;
+    const item = round.item;
+    tapHint = false;
+    command('seekTo', [Math.floor(item.start), true]);
+    command('playVideo');
+
     playing = true;
     heardFromPlayer = false;
-    stopTimers();
+    clearTimeout(softTimer);
+    clearTimeout(hardTimer);
     softTimer = setTimeout(() => { if (!heardFromPlayer) playing = false; },
       (clipSeconds + 2.5) * 1000);
     hardTimer = setTimeout(() => { playing = false; }, (clipSeconds + 10) * 1000);
+
+    if (activated) {
+      run.started = true;
+    } else {
+      // Before the first play, iPhone ignores commands from outside the
+      // player. If nothing starts, say to tap the video itself.
+      clearTimeout(hintTimer);
+      hintTimer = setTimeout(() => {
+        if (!activated) {
+          playing = false;
+          tapHint = true;
+        }
+      }, 1500);
+    }
   }
 
   function choose(option) {
@@ -134,9 +202,9 @@
 
   function next() {
     run.picked = null;
-    run.plays = 0;
     run.started = false;
     playing = false;
+    tapHint = false;
     stopTimers();
     if (run.at + 1 >= run.rounds.length) run.done = true;
     else run.at += 1;
@@ -154,26 +222,26 @@
     <!-- row 1: video beside the options, matched heights -->
     <div class="clip-row main">
       <div class="clip-media">
-        {#key `${round.item.id}-${run.plays}`}
-          <iframe
-            {src}
-            title="Clip"
-            allow="accelerometer; autoplay; encrypted-media; picture-in-picture"
-            allowfullscreen
-            onload={(e) => announce(e.currentTarget)}
-          ></iframe>
-        {/key}
+        <iframe
+          bind:this={frame}
+          {src}
+          title="Clip"
+          allow="accelerometer; autoplay; encrypted-media; picture-in-picture"
+          allowfullscreen
+          onload={announce}
+        ></iframe>
         <div class="clip-mask" class:lifted={run.picked}></div>
 
         <!--
-          Permanently covers the video, so YouTube never receives a click and
-          can't restart from the beginning of the full video. Clicking it does
-          exactly what the button below does. The icon shows only while the
-          clip isn't playing: play before the first run, replay afterwards.
+          Until the player has played once, taps pass straight through to
+          YouTube, because iPhone only lets a video start with sound from a tap
+          on the player itself. After that it catches every tap and does
+          exactly what the button below does.
         -->
         <button
           class="clip-play"
           class:idle={!playing}
+          class:passthrough={!activated}
           aria-label={run.started ? 'Replay clip' : 'Play clip'}
           onclick={play}
         >
@@ -224,17 +292,22 @@
       </button>
     </div>
 
+    {#if tapHint}
+      <p class="note center">Tap the video itself to start the first clip.</p>
+    {/if}
+
     <!-- row 3: the line, plus the word it was chosen for -->
     {#if run.picked}
       <div class="reveal-row">
         <div class="card tint">
           <div class="example">
+            <div class="example-tools">
+              <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.text)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
+            </div>
             <div class="body">
-              <p class="zh example-zh"><KeyText text={round.item.text} word={round.item.word} /></p>
-              <p class="example-py">{round.item.py}</p>
+              <p class="zh example-zh"><Hanzi text={round.item.text} py={round.item.py} word={round.item.word} /></p>
               <p class="example-en">{round.item.en}</p>
             </div>
-            <button class="speak" aria-label="Hear it" onclick={() => speak(round.item.text)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
           </div>
         </div>
         <UsesBox word={round.item.word} />

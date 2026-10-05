@@ -1,4 +1,5 @@
 <script>
+  import Hanzi from '$lib/components/Hanzi.svelte';
   import ExitButton from '$lib/components/ExitButton.svelte';
   import { RefreshCw, AudioLines } from '@lucide/svelte';
   import { base } from '$app/paths';
@@ -7,7 +8,6 @@
   import { session } from '$lib/session.svelte.js';
   import { speak } from '$lib/tts.js';
   import { sfx } from '$lib/sfx.svelte.js';
-  import KeyText from '$lib/components/KeyText.svelte';
 
   let { data, scope, onexit } = $props();
 
@@ -52,16 +52,14 @@
 
     <div class="card pop flash">
       {#if front}
-        <div class="zh flash-zh">{current.w}</div>
+        <div class="zh flash-zh"><Hanzi text={current.w} py={current.p} showPinyin={run.revealed} /></div>
         {#if run.revealed}
-          <div class="flash-py">{current.p}</div>
           <div class="flash-en">{current.d}</div>
         {/if}
       {:else}
         <div class="flash-prompt">{current.d}</div>
         {#if run.revealed}
-          <div class="zh flash-zh">{current.w}</div>
-          <div class="flash-py">{current.p}</div>
+          <div class="zh flash-zh"><Hanzi text={current.w} py={current.p} /></div>
         {/if}
       {/if}
 
@@ -79,11 +77,6 @@
     {#if run.revealed && example}
       <div class="card">
         <div class="example">
-          <div class="body">
-            <p class="zh example-zh"><KeyText text={example.zh} word={current.w} /></p>
-            <p class="example-py">{example.py}</p>
-            <p class="example-en">{example.en}</p>
-          </div>
           <div class="example-tools">
             <button class="speak" aria-label="Play sentence" onclick={() => speak(example.zh)}><AudioLines size={20} strokeWidth={2.25} aria-hidden="true" /></button>
             {#if examples.length > 1}
@@ -94,6 +87,10 @@
                 onclick={() => (run.exampleAt += 1)}
               ><RefreshCw size={18} strokeWidth={2.25} aria-hidden="true" /></button>
             {/if}
+          </div>
+          <div class="body">
+            <p class="zh example-zh"><Hanzi text={example.zh} py={example.py} word={current.w} /></p>
+            <p class="example-en">{example.en}</p>
           </div>
         </div>
       </div>
