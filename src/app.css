@@ -10,7 +10,7 @@
   --card: #ffffff;
   --line: #16161a;
   --muted: #6e6e78;
-  --accent: #2f4fd8;
+  --accent: #728bed;
   --accent-ink: #ffffff;
   --good: #1a7f4b;
   --bad: #c0332b;
@@ -136,7 +136,7 @@
   --choice-pad: 12px 14px;
 
   /* the practised word inside a sentence */
-  --key-color: #226fff;
+  --key-color: var(--accent);
 
   /* play cue over clips */
   --play-size: 64px;
@@ -166,7 +166,7 @@
     --card: #1c1c21;
     --line: #43434e;
     --muted: #9a9aa6;
-    --accent: #7f96f0;
+    --accent: #728bed;
     --accent-ink: #11111a;
     --good: #3fae74;
     --bad: #e2695f;
@@ -174,21 +174,19 @@
     --warn-ink: #16161a;
     --soft: #26262e;
     --shadow: #000000;
-    --key-color: #6fa1ff;
     --edge: #34343d;
     color-scheme: dark;
   }
 }
 
 :root[data-theme="dark"] {
-  --key-color: #6fa1ff;
   --edge: #34343d;
   --ink: #ecece8;
   --paper: #121215;
   --card: #1c1c21;
   --line: #43434e;
   --muted: #9a9aa6;
-  --accent: #7f96f0;
+  --accent: #728bed;
   --accent-ink: #11111a;
   --good: #3fae74;
   --bad: #e2695f;
